@@ -138,7 +138,9 @@ tree
 │   ├── eupmc_result.json
 │   └── fulltext.xml
 ```
-Note how every `CTree` has an XML file, conventionally called `fulltext.xml`. XML files contain all the text, but also "markup", so they are easy for machines to understand. `AMI` relies on XML for further processing. However let's also download the PDFs so you can read them.
+Note how every `CTree` has an XML file, conventionally called `fulltext.xml`. XML files contain all the text, but also "markup", so they are easy for machines to understand. `AMI` relies on XML for further processing. Note: if you like this simple display, install the `tree` program on `Unix` or `Mac`.
+
+However let's also download the PDFs so you can read them.
 ```
 getpapers -q "Ocimum sanctum" -o osanctum -p -k 100
 info: Searching using eupmc API
@@ -162,10 +164,107 @@ info: Downloading fulltext PDF files
 Downloading files [==============================] 100% (75/75) [103.6s elapsed, eta 0.0]
 info: All downloads succeeded!
 ```
-Note: This took much longer (over 100 s) as PDFs are often several megabytes. However they also contain images so can be useful. However it is not easy for machines to read them - AMI is one of the leaders in the scientific field.
+Note: This took much longer (ca 150 s) as PDFs are often several megabytes. However they also contain images so can be useful. However it is not easy for machines to read them - AMI is one of the leaders in the scientific field. Note also that some papers did not have PDFs available (maybe publisher policies).
 
+The `CProject` now looks like:
+```
+└── osanctum
+    ├── PMC1397864
+    │   ├── eupmc_result.json
+    │   ├── fulltext.pdf
+    │   └── fulltext.xml
+    ├── PMC2249741
+    │   ├── eupmc_result.json
+    │   ├── fulltext.pdf
+    │   └── fulltext.xml
+    ├── PMC2803133
+    │   ├── eupmc_result.json
+    │   ├── fulltext.pdf
+    │   └── fulltext.xml
+    ├── PMC2832770
+    │   ├── eupmc_result.json
+    │   ├── fulltext.pdf
+    │   └── fulltext.xml
+    ├── PMC2861815
+    │   ├── eupmc_result.json
+    │   └── fulltext.xml
+...
+```
+Note that some `CTree`s lack the PDF version.
 
+This is sufficient for an initial analysis
 
+## EPMC problems
+Here are examples of why you should use `-n` to start with.
+
+### no hits
+Let's ask a query with no hits
+```
+ getpapers -q "xxyyxx" -n
+info: Searching using eupmc API
+info: Running in no-execute mode, so nothing will be downloaded
+warn: We had to retry the last request 10 times.
+error: Malformed or empty response from EuropePMC. Try running again. Perhaps your query is wrong.
+```
+This takes a long time as `getpapers` assumes a commuications problem and retries (this feature should be debugged...). 
+## dump whole database
+```
+getpapers -q "a" -n
+info: Searching using eupmc API
+info: Running in no-execute mode, so nothing will be downloaded
+info: Found 2308943 open access results
+warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
+warn: getpapers EuPMCVersion: 5.3.2 vs. 6.0.3 reported by api
+```
+This would download everything (since every paper contains "a"). Note that complex queries with brackets and logic also dump the database if you get them wrong, so use `-n`.
+
+## advanced queries
+There are lots of examples of advanced queries on the EPMC (many are about metadata - authors, journals, dates, etc.). Among the most useful are Boolean queries.
+
+### Boolean queries
+These allow search terms and phrases to be combined with `OR`, `AND` and `NOT`. It is very easy to get these wrong. I believe that you should have a liberal use of parentheses `(` and `)`.  Here are some examples that work.
+
+```
+$ getpapers -q "ocimum" -n
+info: Found 1648 open access results
+```
+Note - there are many other `Ocimum` species so this number is obviously larger
+```
+$ getpapers -q "sanctum" -n
+info: Found 653 open access results
+```
+There are species and other entities which contain the word `sanctum`.
+
+Combine them:
+```
+$ getpapers -q "ocimum AND sanctum" -n
+info: Found 509 open access results
+```
+This is the same as 
+```
+$ getpapers -q "ocimum sanctum" -n
+```
+which looks for both together.
+
+### advanced Boolean queries
+If we search for "Ocimum sanctum" in Wikipedia it redirects to https://en.wikipedia.org/wiki/Ocimum_tenuiflorum and we find it has several names:
+<quote>
+Ocimum tenuiflorum (synonym Ocimum sanctum), commonly known as holy basil, tulasi (sometimes spelled thulasi) or tulsi, ...
+</quote>
+(and if we go to Wikidata - https://www.wikidata.org/wiki/Q960124 - there are many names in different languages, including many different character sets and scripts - this is a great feature of Wikidata).
+
+We'll build the query:
+```
+getpapers -q "((Ocimum sanctum) OR (Ocimum tenuiflorum) OR (thulasi) OR (tulasi) OR (tulsi) OR (holy basil))" -n
+```
+This gives:
+```
+$ getpapers -q "((Ocimum sanctum) OR (Ocimum tenuiflorum) OR (thulasi) OR (tulasi) OR (tulsi) OR (holy basil))" -n 
+info: Found 1059 open access results
+```
+This has doubled our corpus (recall). We shan't know how accurate (precision) this is until we run `AMI` and human eyes over the 1000 papers.
+
+Thank you Ambarish for this nice problem!
 
 ## problems
 If you have problems **during the TIGR2ESS workshop program only** please raise a Github issue here. Otherwise raise it on the `getpapers` site.
