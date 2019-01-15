@@ -114,6 +114,55 @@ PMC4061585			PMC5234046			PMC5965372			eupmc_results.json
 PMC4090833			PMC5289091			PMC5971330
 
 ```
+## CProject and CTrees
+`osanctum` is a normal directory and it contains 100 normal subdirectories (`PMC*`). ContentMine tools universally use this structure where `ocimum` is the `CProject` (directory) and `PMC*` are the `CTree`s (directories). You can treat these as normal files but if you move them or rename them you might break `AMI` so use our tools. (There are also 2 log files which we shan't us at present).
+
+The `CTree` have the following structure:
+```
+tree
+.
+├── PMC1397864
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC2249741
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC2803133
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+... (these dots mean material has been snipped for easier reading)
+├── PMC6289780
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6313609
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+```
+Note how every `CTree` has an XML file, conventionally called `fulltext.xml`. XML files contain all the text, but also "markup", so they are easy for machines to understand. `AMI` relies on XML for further processing. However let's also download the PDFs so you can read them.
+```
+getpapers -q "Ocimum sanctum" -o osanctum -p -k 100
+info: Searching using eupmc API
+info: Found 509 open access results
+warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
+warn: getpapers EuPMCVersion: 5.3.2 vs. 6.0.3 reported by api
+info: Limiting to 100 hits
+Retrieving results [==============================] 100% (eta 0.0s)
+info: Done collecting results
+info: limiting hits
+info: Saving result metadata
+info: Full EUPMC result metadata written to eupmc_results.json
+info: Individual EUPMC result metadata records written
+info: Extracting fulltext HTML URL list (may not be available for all articles)
+info: Fulltext HTML URL list written to eupmc_fulltext_html_urls.txt
+warn: Article with pmcid "PMC4971952" had no fulltext PDF url
+warn: Article with pmcid "PMC4847459" had no fulltext PDF url
+... (snipped)
+warn: Article with pmcid "PMC4910298" had no fulltext PDF url
+info: Downloading fulltext PDF files
+Downloading files [==============================] 100% (75/75) [103.6s elapsed, eta 0.0]
+info: All downloads succeeded!
+```
+Note: This took much longer (over 100 s) as PDFs are often several megabytes. However they also contain images so can be useful. However it is not easy for machines to read them - AMI is one of the leaders in the scientific field.
 
 
 
