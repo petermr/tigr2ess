@@ -1,13 +1,15 @@
 # AMI
 
-## 
 [AMI](http://github.com/petermr/normami) is the generic name for a program system for querying and analyzing a small-to-medium (up to 10,000) collection of documents, normally 
 on local storage. The primary system includes:
 
+## tools
 * tools for processing documents into sections and XML
 * analyzing components (text, tables, diagrams)
 * creating dictionaries
 * searching using dictionaries, regexes and other patterns
+
+## dictionaries
 
 In TIGRESS we shall use dictionaries in fields such as:
 
@@ -16,3 +18,6 @@ In TIGRESS we shall use dictionaries in fields such as:
 * plant parts
 * diseases (plant, humans)
 * 
+## installing AMI
+See [Installation instructions](http://github.com/petermr/normami/INSTALL.md)
+
