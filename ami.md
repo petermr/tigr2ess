@@ -19,5 +19,5 @@ In TIGRESS we shall use dictionaries in fields such as:
 * diseases (plant, humans)
 * 
 ## installing AMI
-See [Installation instructions](http://github.com/petermr/normami/INSTALL.md)
+See [Installation instructions](http://github.com/petermr/normami/)
 
