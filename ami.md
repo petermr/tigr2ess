@@ -97,6 +97,7 @@ SR: /Users/pm286/workspace/tigr2ess/osanctum
 (This will be made tidier...)
 
 in the `osanctum` directory:
+### complete tables of search results:
 ```
 ├── osanctum
     ├── count.dataTables.html
@@ -109,7 +110,8 @@ in the `osanctum` directory:
 │   ├── word.frequencies.documents.xml
 │   └── word.frequencies.snippets.xml
 ```
-
+### co-occurrence maps
+```
 │   ├── cooccurrence
 │   │   ├── country
 │   │   │   └── histogram.csv
@@ -123,7 +125,7 @@ in the `osanctum` directory:
 │   │   │   ├── cooccur.csv
 │   │   │   └── cooccur.svg
 ```
-
+### individual results (messy at present)
 ```
 ├── osanctum
 │   ├── PMC1397864                <-- ctree for PMC paper
