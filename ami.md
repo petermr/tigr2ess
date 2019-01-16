@@ -1,5 +1,8 @@
 # AMI
 
+## installing AMI
+See [Installation instructions](http://github.com/petermr/normami/blob/master/INSTALL.md)
+
 [AMI](http://github.com/petermr/normami) is the generic name for a program system for querying and analyzing a small-to-medium (up to 10,000) collection of documents, normally 
 on local storage. The primary system includes:
 
@@ -87,8 +90,6 @@ C: drugs..........running: search([monoterpenes])[]
 SR: /Users/pm286/workspace/tigr2ess/osanctum  
 74359 [main] ERROR org.contentmine.ami.plugins.CommandProcessor  - cannot run command: search([monoterpenes])[]; cannot process argument: --sr.search (RuntimeException: cannot read inputStream for dictionary: /org/contentmine/ami/plugins/dictionary/monoterpenes.xml)
 [errors snipped]
-
-## installing AMI
-See [Installation instructions](http://github.com/petermr/normami/blob/master/INSTALL.md)
+```
 
 
