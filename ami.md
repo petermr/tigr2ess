@@ -92,4 +92,84 @@ SR: /Users/pm286/workspace/tigr2ess/osanctum
 [errors snipped]
 ```
 
+## output files
+
+(This will be made tidier...)
+
+in the `osanctum` directory:
+```
+├── osanctum
+    ├── count.dataTables.html
+│   ├── entries.dataTables.html
+│   ├── eupmc_fulltext_html_urls.txt
+│   ├── eupmc_results.json
+│   ├── full.dataTables.html    <--viw this in your browser
+│   ├── gene.human.count.xml
+[...]
+│   ├── word.frequencies.documents.xml
+│   └── word.frequencies.snippets.xml
+```
+
+│   ├── cooccurrence
+│   │   ├── country
+│   │   │   └── histogram.csv
+│   │   ├── country-country
+│   │   │   ├── cooccur.csv
+│   │   │   └── cooccur.svg  <-- cooccurrence of countries
+│   │   ├── country-drugs
+│   │   │   ├── cooccur.csv
+│   │   │   └── cooccur.svg  <-- cooccurrence of countries and drugs
+│   │   ├── country-gene     <-- species and genes are broken
+│   │   │   ├── cooccur.csv
+│   │   │   └── cooccur.svg
+```
+
+```
+├── osanctum
+│   ├── PMC1397864                <-- ctree for PMC paper
+│   │   ├── eupmc_result.json
+│   │   ├── fulltext.pdf
+│   │   ├── fulltext.xml
+│   │   ├── gene.human.count.xml 
+│   │   ├── gene.human.snippets.xml
+│   │   ├── results   <-- results of searches (sometimes empty)
+│   │   │   ├── gene
+│   │   │   │   └── human
+│   │   │   │       └── empty.xml
+│   │   │   ├── search
+│   │   │   │   ├── country
+│   │   │   │   │   └── results.xml
+│   │   │   │   ├── drugs
+│   │   │   │   │   └── results.xml
+│   │   │   │   ├── monoterpene
+│   │   │   │   │   └── empty.xml
+│   │   │   │   └── plantparts
+│   │   │   │       └── results.xml
+│   │   │   ├── species
+│   │   │   │   └── binomial
+│   │   │   │       └── results.xml
+│   │   │   └── word     <-- word frequencies
+│   │   │       └── frequencies
+│   │   │           ├── results.html
+│   │   │           └── results.xml
+│   │   ├── scholarly.html  <-- full text in HTML
+│   │   ├── search.country.count.xml
+│   │   ├── search.country.snippets.xml
+│   │   ├── search.drugs.count.xml
+│   │   ├── search.drugs.snippets.xml
+│   │   ├── search.monoterpene.count.xml
+│   │   ├── search.monoterpene.snippets.xml
+│   │   ├── search.plantparts.count.xml
+│   │   ├── search.plantparts.snippets.xml
+│   │   ├── species.binomial.count.xml
+│   │   ├── species.binomial.snippets.xml
+│   │   ├── word.frequencies.count.xml
+│   │   └── word.frequencies.snippets.xml
+│   ├── PMC2249741
+│   │   ├── eupmc_result.json
+│   │   ├── fulltext.pdf
+│   │   ├── fulltext.xml
+│   │   ├── gene.human.count.xml
+```
+...
 
