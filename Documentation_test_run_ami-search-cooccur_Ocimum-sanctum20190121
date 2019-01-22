@@ -105,6 +105,24 @@ Here we run six getpapers queries for Ocimum sanctum dataset. It will form a sub
 > getpapers -q "ocimum sanctum" -o ocimum_sanctum20190121 -x -p -k 100
 > getpapers -q "((Ocimum sanctum) OR (Ocimum tenuiflorum) OR (thulasi) OR (tulasi) OR (tulsi) OR (holy basil))" -o ocimumsanctumadvancedsearch20190121 -x -p -k 100
 
+Snap-shot of getpapers run example.---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ambarish123@ubuntu:~$ getpapers -q "ocimum" -o ocimum20190121 -x -p -k 100info: Searching using eupmc API
+info: Found 1652 open access results
+warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
+warn: getpapers EuPMCVersion: 5.3.2 vs. 6.0.3 reported by api
+info: Limiting to 100 hits
+Retrieving results [==============================] 100% (eta 0.0s)
+info: Done collecting results
+info: limiting hits
+info: Saving result metadata
+info: Full EUPMC result metadata written to eupmc_results.json
+info: Individual EUPMC result metadata records written
+info: Extracting fulltext HTML URL list (may not be available for all articles)
+info: Fulltext HTML URL list written to eupmc_fulltext_html_urls.txt
+info: Got XML URLs for 100 out of 100 results
+info: Downloading fulltext XML files
+Downloading files [==---------------------] 10% (10/100) [0.0s elapsed, eta 0.1]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Perform normalization of downloaded papers and formation of scholarly HTML files.
 
@@ -115,13 +133,193 @@ Perform normalization of downloaded papers and formation of scholarly HTML files
 > norma --project ocimum_sanctum20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
 > norma --project ocimumsanctumadvancedsearch20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
 
+Snap-shot of norma run example.-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ambarish123@ubuntu:~$ norma --project ocimum20190121/ -i fulltext.xml -o scholarly.html --transform nlm2html
+PMC4711284 .PMC4753755 PMC4944029 PMC4945999 PMC5061483 PMC5070040 PMC5118752 PMC5234046 PMC5248495 PMC5289084 PMC5343285 .PMC5376420 PMC5429082 PMC5450247 PMC5561165 PMC5562131 PMC5562198 PMC5590053 
+PMC5603166 PMC5620597 PMC5642800 .PMC5696514 PMC5710599 PMC5745208 PMC5750597 PMC5750606 PMC5780373 PMC5806308 PMC581450
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Run ami plugin for search results.
 
 > ami-search-cooccur osanctum20190121/ country species drugs gene plantparts monoterpene
 > ami-search-cooccur ocimum20190121/ country species drugs gene plantparts monoterpene
 > ami-search-cooccur sanctum20190121/ country species drugs gene plantparts monoterpene
-> ami-search-cooccur ocimum_sanctum20190121/ country species drugs gene plantparts monoterpene 
+> ami-search-cooccur ocimum_sanctum20190121/ country species drugs gene plantparts monoterpene \
 > ami-search-cooccur ocimumandsanctum20190121/ country species drugs gene plantparts monoterpene
 > ami-search-cooccur ocimumsanctumadvancedsearch20190121/ country species drugs gene plantparts monoterpene
 
+Snap-shot of ami-search-cooccur run example.----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ambarish123@ubuntu:~$ ami-search-cooccur ocimum20190121/ country gene drugs plantparts species monoterpene
+0    [main] DEBUG org.contentmine.ami.AMIProcessor  - project name: ocimum20190121/ /home/ambarish123
+running: word([frequencies])[{xpath:@count>20}, {w.stopwords:pmcstop.txt stopwords.txt}]
+WS: /home/ambarish123/ocimum20190121  ..........filter: word([frequencies])[{xpath:@count>20}, {w.stopwords:pmcstop.txt stopwords.txt}]
+..........summary: word([frequencies])[{xpath:@count>20}, {w.stopwords:pmcstop.txt stopwords.txt}]
+C: frequencies..........running: search([country])[]
+SR: /home/ambarish123/ocimum20190121  
+..........filter: search([country])[]
+..........summary: search([country])[]
+C: country..........running: gene([human])[]
+90348 [main] DEBUG org.contentmine.ami.dictionary.gene.HGNCDictionary  - is /org/contentmine/ami/plugins/gene/hgnc/hgnc.xml
+..........filter: gene([human])[]
+..........summary: gene([human])[]
+C: human..........running: search([drugs])[]
+SR: /home/ambarish123/ocimum20190121  
+..........filter: search([drugs])[]
+..........summary: search([drugs])[]
+C: drugs..........running: search([plantparts])[]
+SR: /home/ambarish123/ocimum20190121  
+..........filter: search([plantparts])[]
+..........summary: search([plantparts])[]
+C: plantparts..........running: species([binomial])[]
+SP: /home/ambarish123/ocimum20190121..........filter: species([binomial])[]
+..........summary: species([binomial])[]
+C: binomial..........running: search([monoterpene])[]
+SR: /home/ambarish123/ocimum20190121  
+..........filter: search([monoterpene])[]
+..........summary: search([monoterpene])[]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Results
+Getpapers results - above mentioned command download 100 papers related the search query into JSON, PDF and XML file format.
+It forms CProject directory containing all downloads seperately into CTree data structure. Below is the CTree digram.
+
+Norma results - It performs normalization over XML formated file and convert it to scholarly HTML file format.
+These scholarly HTML files are used as input for ami plugins/tools. Also, these scholarly HTML files are browser enabled and can be view
+into it.
+
+ami-search-cooccur results - It performs analysis over input file and searches for desired options as in country, gene, drugs etc.
+Alongwith, it finds cooccurance among the search results.
+
+snap-shot of cooccurance results------------------------------------------------------------------------------------------
+.
+├── commonest.dataTables.html
+├── cooccurrence
+│   ├── country
+│   │   └── histogram.csv
+│   ├── country-country
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── country-drugs
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── country-gene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── country-monoterpene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── country-plantparts
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── country-species
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── drugs
+│   │   └── histogram.csv
+│   ├── drugs-drugs
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── drugs-monoterpene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── drugs-plantparts
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── drugs-species
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── gene
+│   │   └── histogram.csv
+│   ├── gene-drugs
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── gene-gene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── gene-monoterpene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── gene-plantparts
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── gene-species
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── monoterpene
+│   │   └── histogram.csv
+│   ├── monoterpene-monoterpene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── plantparts
+│   │   └── histogram.csv
+│   ├── plantparts-monoterpene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── plantparts-plantparts
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── plantparts-species
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   ├── species
+│   │   └── histogram.csv
+│   ├── species-monoterpene
+│   │   ├── cooccur.csv
+│   │   └── cooccur.svg
+│   └── species-species
+│       ├── cooccur.csv
+│       └── cooccur.svg
+├── count.dataTables.html
+├── entries.dataTables.html
+├── eupmc_fulltext_html_urls.txt
+├── eupmc_results.json
+├── full.dataTables.html
+├── gene.human.count.xml
+├── gene.human.documents.xml
+├── gene.human.snippets.xml
+
+-------------------------------------------------------------------------------------
+snap-shot of CTree of downloaded papers and search results.
+
+├── PMC4631451
+│   ├── eupmc_result.json
+│   ├── fulltext.pdf
+│   ├── fulltext.xml
+│   ├── gene.human.count.xml
+│   ├── gene.human.snippets.xml
+│   ├── results
+│   │   ├── gene
+│   │   │   └── human
+│   │   │       └── empty.xml
+│   │   ├── search
+│   │   │   ├── country
+│   │   │   │   └── results.xml
+│   │   │   ├── drugs
+│   │   │   │   └── results.xml
+│   │   │   ├── monoterpene
+│   │   │   │   └── empty.xml
+│   │   │   └── plantparts
+│   │   │       └── results.xml
+│   │   ├── species
+│   │   │   └── binomial
+│   │   │       └── results.xml
+│   │   └── word
+│   │       └── frequencies
+│   │           ├── results.html
+│   │           └── results.xml
+│   ├── scholarly.html
+│   ├── search.country.count.xml
+│   ├── search.country.snippets.xml
+│   ├── search.drugs.count.xml
+│   ├── search.drugs.snippets.xml
+│   ├── search.monoterpene.count.xml
+│   ├── search.monoterpene.snippets.xml
+│   ├── search.plantparts.count.xml
+│   ├── search.plantparts.snippets.xml
+│   ├── species.binomial.count.xml
+│   ├── species.binomial.snippets.xml
+│   ├── word.frequencies.count.xml
+│   └── word.frequencies.snippets.xml
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Detailed discussion over each output files into CProject.
