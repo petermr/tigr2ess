@@ -323,4 +323,51 @@ snap-shot of CTree of downloaded papers and search results.
 │   └── word.frequencies.snippets.xml
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Detailed discussion over each output files into CProject.
+Cooccurances are contained into a seperate cooccurance folder into CProject. Subdirectories into the cooccurance folder are as follows - 
+country, country-gene, country-drugs, country-plantparts, country-monoterpene, country-species and so on for that of each search (gene, drugs, species, monoterpene).
+Let's discuss each sub-directory file contents.
+histogram.csv is contained into country sub-directory of cooccurance directory. It contains country wise count of scholarly articles or research published about Ocimum sanctum.
+each cooccurace sub-directory contains cooccur.csv and cooccur.svg files. This is with cooccurance sub-directory of each search. 
+As an overall results CProject directory contains following files.
+── commonest.dataTables.html - This is table entry for overall search related the query - Ocimum sanctum. Each row contains information aboutr article and respective search results with  frequency count.
+── count.dataTables.html -  This is table entry for overall search related the query - it only contains respective search count for each retrieved articles.
+── entries.dataTables.html - This is table entry for overall search related the query - it only contains respective search count for each retrieved articles.This is similar to the previous file - count.dataTables.html but count for each entry is lesser that of previous one.
+── eupmc_fulltext_html_urls.txt - Text file for each article web-link or URL. 
+── eupmc_results.json - JSON format file containing journal information entry into the database, author information (name, affiliation), abstract etc. Article wise information is contained as json object.  
+── full.dataTables.html - This table entry for search results of the query. This is similar to that of previous html files but more informative in terms of count and search results. 
+── gene.human.count.xml - XML file for the count of search of human gene into entire query search. Here is 100 papers for Ocimum sanctum. Each tag of XML file correspond to a human gene into the context of the query search. 
+── gene.human.documents.xml - 
+── gene.human.snippets.xml - XML file for the human gene search into the searched scientific article. XML tag into the file contains all gene related information such as metabolic pathways, biological phenomena, 
+coorelated gene information and that of other proteins and related biomolecules discussed and present into the article. File is structured into snippet tree.
+── commonest.dataTables.html -  
+── search.country.snippets.xml - XML file containing country search. Information more of related country search along with institution or department correspondance information related the article present as snippet structure. 
+-search.drugs.snippets.xml - XML file containing all experimental or discussed information about the drug into the article. Information is structured as XML snippet tree.
+-search.monoterpene.snippets.xml - XML file containing related information of monoterpene - bioactive substance along with their scientic detaila related nomenclature.
+-search.plantparts.snippets.xml - XML file containing information of plant parts upon which experiment has been conducted. Information is supplemented with subjected extract condition and biochemical compounds.
+- species.binomial.count.xml - XML file containing information of species count covered into species search. That is number of occurences of particular species into entire query search.
+Here is 100 papers of Ocimum sanctum.
+-species.binomial.documents.xml
+XML file containing information of count of documents or research article specific to a particular species into entire query search. Ex - into 100 papers search there are 68" papers for Ocimum sanctum and "32" papers for Ocimum tenuiflorum.
+
+-species.binomial.snippets.xml - XML file containing information about the species search along with associated drug and medication information.
+- word.frequencies.snippets.xml - XML file containing combined information of word frequency of each article into the project.
+- word.frequencies.documents.xml - 
+- word.frequencies.count.xml
+- search.plantparts.documents.xml
+- search.plantparts.count.xml
+- search.monoterpene.documents.xml
+- search.monoterpene.count.xml
+- search.drugs.documents.xml
+- search.drugs.count.xml
+- search.country.documents.xml
+- search.country.count.xml
+- gene.human.documents.xml
+- gene.human.count.xml
+
+These XML files corresponding each search is seperately formed into each subdirectory (project subdirectory of each article). There is result sub-directory into each subdirectory of downloaded articles.
+Result sub-directory further contains sub-directory for gene, search, species, word. Gene subdirectory into result one containing xml file for human gene search (placed into human sib-directory).
+Search sub-directory contains sub-directory for country, monoterpene, plantparts and drug. Results.xml file containing corresponding search result in formed into these sub-directories.
+
+
+
 
