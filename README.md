@@ -6,7 +6,10 @@ Materials for TIGR2ESS workshop in Delhi Feb 2019 - joint UK(Cambridge) - India 
 Authors Include:
 * Peter Murray-Rust (Cambridge)
 * Gita Yadav (NIPGR and Cambridge)
-[fill in your name   .]
+* Amit Yadav (NIPGR)
+* Ambrish Kumar (NIPGR)
+* Vinita Mehlawat (NIPGR)
+* More to be added...
 
 ## materials
 The workshop will use Open Source tools and materials described in [materials](materials.md)
