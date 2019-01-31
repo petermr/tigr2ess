@@ -3,6 +3,8 @@
 A full day work shop to introduce TIGR2ESS delegates to the principles and practice of ContentMining (aka Text and Data Mining, TDM) for plant science 
 research.
 
+*Note: all materials in dictionaries and code use only characters 32-127 ("ANSI"). Much software, e.g. browsers, is unable to render higher code points reliably. We appreciate that this does not do justice to names, places and words from non-anglophone cultures.*
+
 ## Overview
 
 ### background
@@ -40,9 +42,45 @@ This lists the formal exercises that we will carry out. All exercises will be ve
  * work on major operating systems and hardware. 
  * can be edited in case of variable download speeds or unexpected drop-outs.
  
- The following order of exercises may change.
+ The following order may change and some may be combined
+ 
+ ### check of readiness of delegate installations
+ Check that <tt>getpapers</tt> and <tt>AMI</tt> have been installed by everyone.
 
- ### getpapers
- Download a subset of the *Ocimum* papers in EPMC using <tt>getpapers<tt>. 
+ ### EuropePMC (online)
+ Use the EuropePMC.org interface to explore how queries work. Development of complex queries (AND, OR) and the likely pitfalls. 
+
+ ### getpapers (online)
+  *Note. Bandwidth may need to be managed.* Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers<tt> initially in XML. Extend query to "ocimum AND <country>" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
+ 
+ ### wikifactmine, wikidata (online)
+ https://www.wikidata.org/wiki/Wikidata:WikiFactMine . This is a good introdution to Wikidata. A large set of dictionaries developed by ContentMine generally from SPARQL queries.  Clear instructions and examples that work.
+Discussion of Wikidata items (Q) and properties (P).
+
+ ### AMI document transformation (local)
+ <tt>AMI</tt> will be used to transform the downloaded XML into HTML (which will be used for the searching). 
+ 
+ ### word frequency (local)
+ <tt>AMI</tt> will be used to compute the raw frequencies of words in each article. The result is displayed in <tt>dataTables</tt>. Discussion on the distruction of terms found in the articles.
+
+ ### dictionary searching
+ <tt>AMI</tt> will be used to search the local HTML papers using *dictionaries*. Initially these will be bundled with the system. Results added to <tt>dataTables</tt>.
+The terms will then link back to Wikidata and Wikipedia for interpretation.
+
+ ### co-occurence
+ <tt>AMI</tt> can display the co-occurrence of termsfrom different dictionaries.
+
+ ### dictionary editing
+At this stage it shoudl become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries shoudl reference Wikidata.
+Later delegates can create complete (small) dictionaries either by including items by hand, or using AMI to explode Wikipedia pages into dictionaries.
+
+## Delegate research
+In the latter part of the day we invite delegates to form small groups and tackle meaningful literature-based projects. These could be centred on other plant (or animal/microbial) species, geographical regions, genes, and even political entities. This may involve:
+ * creating a new dictionary for the topic
+ * downloading more articles 
+ 
+ There is also the opportunity to use other downstream analysis programs, e.g. R. The <tt>AMI</tt> output is text files on the file system - there are no databases required. Instead there is a schema of file hierarchy and sematics. Therefore any delegates who are fluent in R, Python, shell, etc. can use these files directly.
+
+ 
  
 
