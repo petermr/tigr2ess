@@ -209,3 +209,76 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </tbody>
 </table>
 </div>
+
+<h4 id="articlemetadata">2.2 Article metadata</h4>
+<div class="table-overflow">
+<table>
+<tbody>
+<tr class="headerline">
+<th style="min-width:105px">Syntax word</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>DISEASE:</td>
+<td>Search for mined diseases</td>
+<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=DISEASE:dysthymias">DISEASE:dysthymias</a></td>
+</tr>
+<tr>
+<td>GENE_PROTEIN:</td>
+<td>Search for records that have GENE_PROTEINS mined</td>
+<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=GENE_PROTEIN:gng11">GENE_PROTEIN:gng11</a></td>
+</tr>
+<tr>
+<td>GOTERM:</td>
+<td>Search for records that have GOTERM mined</td>
+<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=GOTERM:apoptosis">GOTERM:apoptosis</a></td>
+</tr>
+<tr>
+<td>IS_SCANNED:</td>
+<td>Search for scanned/OCR content</td>
+<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=IS_SCANNED:y">IS_SCANNED:y</a></td>
+</tr>
+<tr>
+<td>LANG:</td>
+<td>Limit your search to publications written in language X; see the Advanced Search page for a full list of languages</td>
+<td><a href="/search/?page=1&amp;query=LANG:fre">LANG:fre</a>, <a href="/search/?page=1&amp;query=LANG:eng">LANG:eng</a></td>
+</tr>
+<tr>
+<td>GRANT_AGENCY:</td>
+<td>Limit your search by the funding agency which supported the research; see the Advanced Search page for a full list of grant agencies</td>
+<td><a href="/search/?page=1&amp;query=GRANT_AGENCY:%22Wellcome%20Trust%22">GRANT_AGENCY:"wellcome trust"</a>, <a href="/search/?page=1&amp;query=GRANT_AGENCY:%22medical+research+council%22">GRANT_AGENCY:"medical research council"</a></td>
+</tr>
+<tr>
+<td>GRANT_ID:</td>
+<td>Limit your search by ID of the grant which funded the research</td>
+<td><a href="/search/?page=1&amp;query=GRANT_ID:100229">GRANT_ID:100229</a>, <a href="/search/?page=1&amp;query=GRANT_ID:71672">GRANT_ID:71672</a></td>
+</tr>
+<tr>
+<td>KW:</td>
+<td>Limit your search by keyword, including MeSH and other publisher-supplied terms</td>
+<td><a href="/search/?page=1&amp;query=KW:galactosylceramides">KW:galactosylceramides</a>, <a href="/search/?page=1&amp;query=KW:%22recombinant+proteins%22">KW:"recombinant proteins"</a></td>
+</tr>
+<tr>
+<td>CHEM:</td>
+<td>Limit your search by MeSH substance</td>
+<td><a href="/search/?page=1&amp;query=CHEM:propantheline">CHEM:propantheline</a>, <a href="/search/?page=1&amp;query=CHEM:%22protein+kinases%22">CHEM:"protein kinases"</a></td>
+</tr>
+<tr>
+<td>HAS_ABSTRACT:</td>
+<td>Limit search results according to presence or absence of abstract</td>
+<td><a href="/search/?page=1&amp;query=HAS_ABSTRACT:y">HAS_ABSTRACT:y</a>, <a href="/search/?page=1&amp;query=HAS_ABSTRACT:n">HAS_ABSTRACT:n</a></td>
+</tr>
+<tr>
+<td>ORGANISM:</td>
+<td>Search for mined organisms</td>
+<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=ORGANISM:terebratulide">ORGANISM:terebratulide</a></td>
+</tr>
+<tr>
+<td>PUB_TYPE:</td>
+<td>Limit your search by publication type; see the Advanced Search page for a full list of publication types</td>
+<td><a href="/search/?page=1&amp;query=PUB_TYPE:review">PUB_TYPE:review</a>, <a href="/search/?page=1&amp;query=PUB_TYPE:%22retraction+of+publication%22">PUB_TYPE:"retraction of publication"</a></td>
+</tr>
+</tbody>
+</table>
+</div>
