@@ -298,16 +298,6 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 <td><a href="/search/?scope=fulltext&amp;page=1&amp;query=BODY:PCR">BODY:PCR</a></td>
 </tr>
 <tr>
-<td>DOI:</td>
-<td>Search for publication by Digital Object Identifier (DOI)</td>
-<td><a href="/search/?page=1&amp;query=DOI:10.1007/bf00197367">DOI:10.1007/bf00197367</a></td>
-</tr>
-<tr>
-<td>HAS_DOI:</td>
-<td>Limit search results to those publications which do or do not have a DOI</td>
-<td><a href="/search/?page=1&amp;query=HAS_DOI:y">HAS_DOI:y</a>, <a href="/search/?page=1&amp;query=HAS_DOI:n">HAS_DOI:n</a></td>
-</tr>
-<tr>
 <td>IN_PMC:</td>
 <td>Limit search results according to availability (or not) of fulltext article in PubMed Central</td>
 <td><a href="/search/?page=1&amp;query=IN_PMC:y">IN_PMC:y</a></td>
@@ -330,6 +320,7 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </tbody>
 </table>
 </div>
+
 <p class="backtotop">
 <a href="#top" class="top_of_page">Back to top</a>
 </p>
@@ -348,34 +339,9 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 <td><a href="/search/?page=1&amp;query=SRC:ctx">SRC:ctx</a>, <a href="/search/?page=1&amp;query=SRC:hir">SRC:hir</a>, <a href="/search?query=SRC%3Appr">SRC:ppr</a></td>
 </tr>
 <tr>
-<td>HAS_XREFS:</td>
-<td>Limit search results to articles with cross-references to other databases; the available databases are listed in the Web Services Reference Guide</td>
-<td><a href="/search/?page=1&amp;query=HAS_XREFS:y">HAS_XREFS:y</a></td>
-</tr>
-<tr>
 <td>HAS_PREPRINT:</td>
 <td>Limit search results to peer reviewed articles which were preceded by a preprint version of the article</td>
 <td><a href="/search/?page=1&query=HAS_PREPRINT:y">HAS_PREPRINT:y</a></td>
-</tr>
-<tr>
-<td>HAS_PUBLISHED_VERSION:</td>
-<td>Limit search results to preprints which were later peer reviewed, edited, typeset and published as articles</td>
-<td><a href="/search/?page=1&query=HAS_PUBLISHED_VERSION:y">HAS_PUBLISHED_VERSION:y</a></td>
-</tr>
-<tr>
-<td>HAS_CRD:</td>
-<td>Limit search results according to presence or absence of links to related content. CRD is a database that provides comments about an article.</td>
-<td><a href="/search/?page=1&amp;query=HAS_CRD:y">HAS_CRD:y</a></td>
-</tr>
-<tr>
-<td>HAS_TM:</td>
-<td>Limit search results to text-mined fulltext articles only (or not)</td>
-<td><a href="/search/?page=1&amp;query=HAS_TM:y">HAS_TM:y</a></td>
-</tr>
-<tr>
-<td>HAS_REFLIST:</td>
-<td>Limit search results to only those publications with a reference list (or not)</td>
-<td><a href="/search/?page=1&amp;query=HAS_REFLIST:y">HAS_REFLIST:y</a></td>
 </tr>
 <tr>
 <td>CREATION_DATE:</td>
@@ -392,305 +358,11 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 <td>Limit search results to articles that are Open Access</td>
 <td><a href="/search/?scope=fulltext&amp;page=1&amp;query=OPEN_ACCESS:y">OPEN_ACCESS:y</a></td>
 </tr>
-<tr>
-<td>HAS_LABSLINKS:</td>
-<td>Lists articles that have links provided by 3rd parties (using the <a href="/LabsLink">Europe PMC external links service</a>)</td>
-<td><a href="/search/?page=1&amp;query=HAS_LABSLINKS:y">HAS_LABSLINKS:y</a></td>
-</tr>
-<tr>
-<td>HAS_SUPPL:</td>
-<td>List articles that have supplemental data associated with them e.g. spreadsheets, video files, etc.</td>
-<td><a href="/search/?page=1&amp;query=HAS_SUPPL:y">HAS_SUPPL:y</a></td>
-</tr>
-<tr>
-<td>LABS_PUBS:</td>
-<td>List articles that have external links by provider ID</td>
-<td><a href="/search?page=1&amp;query=LABS_PUBS:1001&amp;sortby=Relevance">LABS_PUBS:1001</a></td>
-</tr>
 </tbody>
 </table>
 </div>
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
-<h4 id="contentsetfilter">2.5 Content type filter</h4>
-<div class="table-overflow">
-<table style="width:100%">
-<tbody>
-<tr class="headerline">
-<th style="min-width:105px">Syntax word</th>
-<th>Description</th>
-<th>Example</th>
-</tr>
-<tr>
-<td>SB:</td>
-<td>Limit search results to EuroFIR subsets</td>
-<td><a href="/search/?page=1&amp;query=SB:eurofir">SB:eurofir</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
-<h4 id="books">2.6 Books</h4>
-<div class="table-overflow">
-<table>
-<tbody>
-<tr class="headerline">
-<th style="min-width:105px">Syntax word</th>
-<th>Description</th>
-<th>Example</th>
-</tr>
-<tr>
-<td>ISBN:</td>
-<td>Search for book by ISBN where indexed</td>
-<td><a href="/search/?page=1&amp;query=ISBN:9780815340720">ISBN:9780815340720</a></td>
-</tr>
-<tr>
-<td>ED:</td>
-<td>Search for book by editor</td>
-<td><a href="/search/?page=1&amp;query=ED%3Ajensen%20HAS_BOOK%3Ay">ED:jensen HAS_BOOK:y</a></td>
-</tr>
-<tr>
-<td>PUBLISHER:</td>
-<td>Search for book by publisher</td>
-<td><a href="/search/?page=1&amp;query=PUBLISHER:%22OUP%20Oxford%22%20HAS_BOOK:y">PUBLISHER:"OUP Oxford" HAS_BOOK:y</a></td>
-</tr>
-<tr>
-<td>HAS_BOOK:</td>
-<td>List the full text books on the Europe PMC Bookshelf</td>
-<td><a href="/search/?page=1&amp;query=HAS_BOOK:y">HAS_BOOK:y</a></td>
-</tr>
-<tr>
-<td>BOOK_ID:</td>
-<td>Find a full text book on the Europe PMC Bookshelf by specifying its 'NBK' number</td>
-<td><a href="/search/?page=1&amp;query=BOOK_ID:NBK27326">BOOK_ID:NBK27326</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
-<h4 id="databasecrossreferences">2.7 Database cross references</h4>
-<div class="table-overflow">
-<table>
-<tbody>
-<tr class="headerline">
-<th style="min-width:105px">Syntax word</th>
-<th>Description</th>
-<th>Example</th>
-</tr>
-<tr>
-<td>ARXPR_PUBS:</td>
-<td>Show publications with links to given ArrayExpress ID</td>
-<td><a href="/search?page=1&amp;query=ARXPR_PUBS:E-GEOD-22481">ARXPR_PUBS:E-GEOD-22481</a></td>
-</tr>
-<tr>
-<td>UNIPROT_PUBS:</td>
-<td>Show publications with links to given UniProt ID</td>
-<td><a href="/search/?page=1&amp;query=UNIPROT_PUBS:q1rfz4">UNIPROT_PUBS:q1rfz4</a></td>
-</tr>
-<tr>
-<td>EMBL_PUBS:</td>
-<td>Show publications with links to given EMBL ID</td>
-<td><a href="/search/?page=1&amp;query=EMBL_PUBS:KJ634683">EMBL_PUBS:KJ634683</a></td>
-</tr>
-<tr>
-<td>PDB_PUBS:</td>
-<td>Show publications with links to given PDBe ID</td>
-<td><a href="/search/?page=1&amp;query=PDB_PUBS:2w3z">PDB_PUBS:2w3z</a></td>
-</tr>
-<tr>
-<td>INTACT_PUBS:</td>
-<td>Show publications with links to given IntAct ID</td>
-<td><a href="/search/?page=1&amp;query=INTACT_PUBS:ebi-493556">INTACT_PUBS:ebi-493556</a></td>
-</tr>
-<tr>
-<td>INTERPRO_PUBS:</td>
-<td>Show publications with links to given InterPro ID</td>
-<td><a href="/search/?page=1&amp;query=INTERPRO_PUBS:ipr013998">INTERPRO_PUBS:ipr013998</a></td>
-</tr>
-<tr>
-<td>CHEBITERM:</td>
-<td>Search for mined chemical names</td>
-<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=CHEBITERM:dihydrocapsaicin">CHEBITERM:dihydrocapsaicin</a></td>
-</tr>
-<tr>
-<td>CHEBI_PUBS:</td>
-<td>Show publications with links to given ChEBI ID</td>
-<td><a href="/search/?page=1&amp;query=CHEBI_PUBS:chebi:62806">CHEBI_PUBS:chebi:62806</a></td>
-</tr>
-<tr>
-<td>CRD_LINKS:</td>
-<td>Show publications with links to given related content ID</td>
-<td><a href="/search/?page=1&amp;query=CRD_LINKS:22001008219">CRD_LINKS:22001008219</a></td>
-</tr>
-<tr>
-<td>HAS_ARXPR:</td>
-<td>Limit search results to publications which are (or are not) cited by the ArrayExpress catalog and link to the relevant ArrayExpress record</td>
-<td><a href="/search?page=1&amp;query=HAS_ARXPR:y">HAS_ARXPR:y</a></td>
-</tr>
-<tr>
-<td>HAS_UNIPROT:</td>
-<td>Limit search results to publications which are (or are not) cited by the UniProt catalog and link to the relevant UniProt record</td>
-<td><a href="/search/?page=1&amp;query=HAS_UNIPROT:y">HAS_UNIPROT:y</a></td>
-</tr>
-<tr>
-<td>HAS_EMBL:</td>
-<td>Limit search results to publications which are (or are not) cited by the EMBL database and link to the relevant EMBL record</td>
-<td><a href="/search/?page=1&amp;query=HAS_EMBL:y">HAS_EMBL:y</a></td>
-</tr>
-<tr>
-<td>HAS_PDB:</td>
-<td>Limit search results to publications which are (or are not) cited by the PDBe database and link to the relevant PDBE record</td>
-<td><a href="/search/?page=1&amp;query=HAS_PDB:y">HAS_PDB:y</a></td>
-</tr>
-<tr>
-<td>HAS_INTACT:</td>
-<td>Limit search results to publications which are (or are not) cited by the IntAct database and link to the relevant IntAct record</td>
-<td><a href="/search/?page=1&amp;query=HAS_INTACT:y">HAS_INTACT:y</a></td>
-</tr>
-<tr>
-<td>HAS_INTERPRO:</td>
-<td>Limit search results to publications which are (or are not) cited by the InterPro database and link to the relevant InterPro record</td>
-<td><a href="/search/?page=1&amp;query=HAS_INTERPRO:y">HAS_INTERPRO:y</a></td>
-</tr>
-<tr>
-<td>HAS_CHEBI:</td>
-<td>Limit search results to publications which are (or are not) cited by the ChEBI dictionary and link to the relevant ChEBI record</td>
-<td><a href="/search/?page=1&amp;query=HAS_CHEBI:y">HAS_CHEBI:y</a></td>
-</tr>
-<tr>
-<td>HAS_CHEMBL:</td>
-<td>Limit search results to publications which are (or are not) cited by ChEMBL and link to the relevant ChEMBL record</td>
-<td><a href="/search/?page=1&amp;query=HAS_CHEMBL:y">HAS_CHEMBL:y</a></td>
-</tr>
-<tr>
-<td>HAS_OMIM:</td>
-<td>Limit search results to publications which are (or are not) cited by OMIM and link to the relevant OMIM record</td>
-<td><a href="/search/?page=1&amp;query=HAS_OMIM:y">HAS_OMIM:y</a></td>
-</tr>
-<tr>
-<td>CITES:</td>
-<td>Search for publications that cite a given article; article to be specified in the format, ID_src</td>
-<td><a href="/search/?page=1&amp;query=CITES:8521067_med">CITES:8521067_med</a>, <a href="/search/?page=1&amp;query=CITES:IND43783977_agr">CITES:IND43783977_agr</a></td>
-</tr>
-<tr>
-<td>CITED:</td>
-<td>Search for publications that have been cited N times</td>
-<td><a href="/search/?page=1&amp;query=CITED:100">CITED:100</a></td>
-</tr>
-<tr>
-<td>REFFED_BY:</td>
-<td>Search for publications that cite the specified article; format, ID_source (the available data sources are listed in the Web Services Reference Guide)</td>
-<td><a href="/search/?page=1&amp;query=REFFED_BY:9497246_med">REFFED_BY:9497246_med</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
-<h4 id="databasecitations">2.8 Database Citations</h4>
-<div class="table-overflow">
-<table>
-<tbody>
-<tr class="headerline">
-<th style="min-width:105px">Syntax word</th>
-<th>Description</th>
-<th>Example></th>
-</tr>
-<tr>
-<td>ACCESSION_ID:</td>
-<td>Find articles containing the specified accession number</td>
-<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=ACCESSION_ID:A12360">ACCESSION_ID:A12360</a></td>
-</tr>
-<tr>
-<td class="multiple_rows" rowspan="20">ACCESSION_TYPE:</td>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ebi.ac.uk/arrayexpress/" target="_blank">ArrayExpress</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:arrayexpress">ACCESSION_TYPE:arrayexpress</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ebi.ac.uk/ena" target="_blank">BioProject</a> records in the European Nucleotide Archive</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:bioproject">ACCESSION_TYPE:bioproject</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ebi.ac.uk/biosamples/" target="_blank">BioSamples</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:biosample">ACCESSION_TYPE:biosample</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite data <a href="http://www.doi.org/" target="_blank">Document Object Identifiers</a></td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:doi&amp;sortby=relevance">ACCESSION_TYPE:doi</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite European Genome-phenome Archive (<a href="https://www.ebi.ac.uk/ega/" target="_blank">EGA</a>) records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:ega">ACCESSION_TYPE:ega</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite EM resources in the Electron Microscopy Data Bank (<a href="http://www.ebi.ac.uk/pdbe/emdb/" target="_blank">EMDB</a>)</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:emdb">ACCESSION_TYPE:emdb</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ensembl.org/index.html" target="_blank">Ensembl</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:ensembl&amp;sortby=relevance">ACCESSION_TYPE:ensembl</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite EudraCT records from the <a href="https://www.clinicaltrialsregister.eu/ctr-search/search" target="_blank">EU Clinical Trials Register</a></td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:eudract&amp;sortby=relevance">ACCESSION_TYPE:eudract</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ebi.ac.uk/ena/" target="_blank">European Nucleotide Archive</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:gen">ACCESSION_TYPE:gen</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ebi.ac.uk/QuickGO/" target="_blank">Gene Ontology</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:go">ACCESSION_TYPE:go</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ebi.ac.uk/interpro/" target="_blank">InterPro</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:interpro&amp;sortby=relevance">ACCESSION_TYPE:interpro</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite NCT clinical studies records from the US NIH <a href="https://clinicaltrials.gov/ct2/home" target="_blank">ClinicalTrials.gov</a> registry</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:nct&amp;sortby=relevance">ACCESSION_TYPE:nct</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.ncbi.nlm.nih.gov/omim" target="_blank">OMIM</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:omim&amp;sortby=relevance">ACCESSION_TYPE:omim</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite Protein Data Bank in Europe (<a href="http://www.ebi.ac.uk/pdbe/" target="_blank">PDB</a>) records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:pdb&amp;sortby=relevance">ACCESSION_TYPE:pdb</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite protein families (<a href="http://pfam.xfam.org/" target="_blank">Pfam</a>) records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:pfam&amp;sortby=relevance">ACCESSION_TYPE:pfam</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.proteomexchange.org/" target="_blank">ProteomeXchange</a> records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:pxd&amp;sortby=relevance">ACCESSION_TYPE:pxd</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite Reference Sequence Database (<a href="http://www.ncbi.nlm.nih.gov/refseq/" target="_blank">RefSeq</a>) records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:refseq&amp;sortby=relevance">ACCESSION_TYPE:refseq</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite records in the dbSNP Short Genetic Variations database (<a href="http://www.ncbi.nlm.nih.gov/projects/SNP/" target="_blank">RefSNP</a>)</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:refsnp&amp;sortby=relevance">ACCESSION_TYPE:refsnp</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite the resource of protein sequence and functional information (<a href="http://www.ebi.ac.uk/uniprot/" target="_blank">UniProt</a>)</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:uniprot&amp;sortby=relevance">ACCESSION_TYPE:uniprot</a></td>
-</tr>
-<tr>
-<td class="multiple_rows">Find articles that cite <a href="http://www.treefam.org/" target="_blank">Treefam</a> (database of animal gene trees) records</td>
-<td class="multiple_rows"><a href="/search?page=1&amp;query=ACCESSION_TYPE:treefam&amp;sortby=relevance">ACCESSION_TYPE:treefam</a></td>
-</tr>
-</tbody>
-</table>
-</div>
+
+<b>IMPORTANT</b>
 <p class="backtotop">
 <a href="#top" class="top_of_page">Back to top</a>
 </p>
