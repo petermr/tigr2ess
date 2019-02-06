@@ -29,14 +29,4 @@ wheat AND gluten
 ```
 gives:
 
-```
-Results
-1 - 25 of 8911 results  RSS Sort by: Relevance | Date  | Times Cited 1 2 3 4 5 ...  Next 
-Select results 1 - 25 
-Properties and applications of citric acid crosslinked banana fibre-wheat gluten films
-Nataraj D ,  Meenakshi HN ,  Narendra Reddy ,  Seema Sakkara  
-Industrial Crops and Products. [01 Nov 2018, 124:265-272]
-reinforcement and wheat gluten as matrix to develop composites. However, banana fibres and gluten are hydrophilic ... commodity products. Similarly, proteins such as wheat gluten, soy protein and casein are obtained as coproducts
-Cited: 0 times (AGR:IND606112354)
-```
 ![EPMC boolean](https://github.com/petermr/tigr2ess/blob/master/epmc_wheat_query.png )
