@@ -39,4 +39,4 @@ Industrial Crops and Products. [01 Nov 2018, 124:265-272]
 reinforcement and wheat gluten as matrix to develop composites. However, banana fibres and gluten are hydrophilic ... commodity products. Similarly, proteins such as wheat gluten, soy protein and casein are obtained as coproducts
 Cited: 0 times (AGR:IND606112354)
 ```
-![EPMC boolean](https://github.com/petermr/tigr2ess/epmc_wheat_query.png)
+![EPMC boolean](https://github.com/petermr/tigr2ess/master/blob/epmc_wheat_query.png )
