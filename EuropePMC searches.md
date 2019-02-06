@@ -94,7 +94,7 @@ Development of decreased-gluten wheat
 ```
 There is no easy way round this.
 
-## advanced search
+## MORE ADVANCED (make sure you understand the first part)
 These are some of the tools, sections, annotations and concepts that will be useful for subject-based searches.
 *NOTE: the advanced search for terms is not intuitive. Make sure you are competent before you try this. Also not that most of the functionality could be created manually. The advantage of the Query Builder is that brackets and quotes are likely to be correct. But I haven't managed to get some of the functionality to work*
 ### synonyms
