@@ -4,7 +4,7 @@ This describes how to use EuropePMC (http://europepmc.org) as a web-based search
 
 ## basic search
 
-The basic search (at URL above) takes free text and (on 20190206) gives:
+The basic search (at URL above) takes free text ("wheat") and (on 20190206) gives:
 ```
 Results
 1 - 25 of 159993 results  RSS Sort by: Relevance | Date  | Times Cited 1 2 3 4 5 ...  Next 
@@ -18,3 +18,16 @@ Cited: 0 times (PMID:30673804)
 (*suggest replace by screen shot)*
 
 ## boolean queries
+
+Querying `"wheat AND gluten"` gives:
+
+```
+Results
+1 - 25 of 8911 results  RSS Sort by: Relevance | Date  | Times Cited 1 2 3 4 5 ...  Next 
+Select results 1 - 25 
+Properties and applications of citric acid crosslinked banana fibre-wheat gluten films
+Nataraj D ,  Meenakshi HN ,  Narendra Reddy ,  Seema Sakkara  
+Industrial Crops and Products. [01 Nov 2018, 124:265-272]
+reinforcement and wheat gluten as matrix to develop composites. However, banana fibres and gluten are hydrophilic ... commodity products. Similarly, proteins such as wheat gluten, soy protein and casein are obtained as coproducts
+Cited: 0 times (AGR:IND606112354)
+```
