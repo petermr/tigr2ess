@@ -146,15 +146,66 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </tr>
 </tbody>
 </table>
-= = = == = 
-Search syntax 	Result
-J.Inorg. Biochem. 101:74-79(2007) 	Quick search in common notation style, with journal + volume + pageInfo + pub year
-microtubule glycosylated 	Finds citations containing microtubule AND glycosylated (default behaviour)
-microtubule OR glycosylated 	Finds citations containing microtubule OR glycosylated. Note that "OR" is case sensitive.
-(fish OR bird) AND disease 	Finds citations containing either fish OR bird AND on top of that disease.
-microtub* disease 	Finds citations containing disease AND terms that start with microtub. Wildcard usage is limited and not allowed when resulting in too many clauses.
-microtubule cardiac -toxicity 	Finds citations containing microtubule AND cardiac but NOT toxicity
-With quotes: "green grass" 	"green grass" with quotes) results in a search for green grass as a sequence of two words. Bear in mind that when you use 'stop words' (such as 'a','and','in','if' etcetera) within a quoted phrase search then this may give less accurate results due to the nature of the indexing mechanism.
-Without quotes: green grass 	Using no quotes is always less strict, and will give back all citations where the words green and grass occur, not necessarily sequentially.
 
-
+<h4 id="corebibliographic">2.1 Core bibliographic</h4>
+<div class="table-overflow">
+<table>
+<tbody>
+<tr class="headerline">
+<th style="min-width:105px">Syntax word</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>TITLE:</td>
+<td>Search for a term or terms in publication titles</td>
+<td><a href="/search/?page=1&amp;query=title:aspirin">TITLE:aspirin</a>, <a href="/search/?page=1&amp;query=title:%22protein+knowledgebase%22">TITLE:"protein knowledgebase"</a></td>
+</tr>
+<tr>
+<td>ABSTRACT:</td>
+<td>Search for a term or terms in publication abstracts</td>
+<td><a href="/search/?page=1&amp;query=ABSTRACT:malaria">ABSTRACT:malaria</a>, <a href="/search/?page=1&amp;query=ABSTRACT:%22chicken%20pox%22">ABSTRACT:"chicken pox"</a></td>
+</tr>
+<tr>
+<td>PUB_YEAR:</td>
+<td>Search by year of publication in YYYY format; note syntax for range searching.</td>
+<td><a href="/search/?page=1&amp;query=PUB_YEAR:2000">PUB_YEAR:2000</a>, <a href="/search/?page=1&amp;query=PUB_YEAR:%5B2000+TO+2001%5D">PUB_YEAR:[2000 TO 2001]</a></td>
+</tr>
+<tr>
+<td>E_PDATE:</td>
+<td>Electronic publication date, when an article was first published online.</td>
+<td><a href="/search?query=E_PDATE%3A2013-12-15">E_PDATE:2013-12-15</a>, <a href="/search?query=E_PDATE%3A20070930">E_PDATE:20070930</a>, <a href="/search?query=E_PDATE%3A%5B2000-12-18%20TO%202014-12-30%5D">E_PDATE:[2000-12-18 TO 2014-12-30]</a>, <a href="/search?query=E_PDATE%3A%5B20040101%20TO%2020140101%5D">E_PDATE:[20040101 TO 20140101]</a></td>
+</tr>
+<tr>
+<td>FIRST_PDATE:</td>
+<td>The date of first publication, whichever is first, electronic or print publication. Where a date is not fully available e.g. year only, an algorithm is applied to determine the value.</td>
+<td><a href="/search?query=FIRST_PDATE%3A1995-02-01">FIRST_PDATE:1995-02-01</a>, <a href="/search?query=FIRST_PDATE%3A20000101">FIRST_PDATE:20000101</a>, <a href="search?query=FIRST_PDATE%3A%5B2000-10-14%20TO%202010-11-15%5D">FIRST_PDATE:[2000-10-14 TO 2010-11-15]</a>, <a href="/search?query=FIRST_PDATE%3A%5B20040101%20TO%2020140101%5D">FIRST_PDATE:[20040101 TO 20140101]</a></td>
+</tr>
+<tr>
+<td>P_PDATE:</td>
+<td>Print publication date of journal issue, when an article appeared in print format.</td>
+<td><a href="/search?query=P_PDATE%3A1982-10-01">P_PDATE:1982-10-01</a>, <a href="/search?query=P_PDATE%3A20140101">P_PDATE:20140101</a>, <a href="/search?query=P_PDATE%3A%5B2000-12-18%20TO%202014-12-30%5D">P_PDATE:[2000-12-18 TO 2014-12-30]</a>, <a href="/search?query=P_PDATE%3A%5B20031114%20TO%2020141115%5D">P_PDATE:[20031114 TO 20141115]</a></td>
+</tr>
+<tr>
+<td>AUTH:</td>
+<td>Search for a surname and (optionally) initial(s) in publication author lists</td>
+<td><a href="/search/?page=1&amp;query=AUTH:einstein">AUTH:einstein</a>, <a href="/search/?page=1&amp;query=AUTH:%22einstein+G%22">AUTH:"einstein G"</a></td>
+</tr>
+<tr>
+<td>AFF:</td>
+<td>Search for a term or terms in the author affiliation field</td>
+<td><a href="/search/?page=1&amp;query=AFF:ebi">AFF:ebi</a>, <a href="/search/?page=1&amp;query=AFF:%22university+of+cambridge%22">AFF:"university of cambridge"</a></td>
+</tr>
+<tr>
+<td>JOURNAL:</td>
+<td>Journal title &#8211; searchable either in full or abbreviated form</td>
+<td><a href="/search/?page=1&amp;query=JOURNAL:%22biology+letters%22">JOURNAL:"biology letters"</a>, <a href="/search/?page=1&amp;query=JOURNAL:%22biol+lett%22">JOURNAL:"biol lett"</a></td>
+</tr>
+<tr>
+<td>ISSN:</td>
+<td>Search for a journal by its ISSN; see the NCBI&#8217;s list of journals and ISSNs in PubMed</td>
+<td><a href="/search/?page=1&amp;query=ISSN:0028-0836">ISSN:0028-0836</a></td>
+</tr>
+</tbody>
+</table>
+</div>
