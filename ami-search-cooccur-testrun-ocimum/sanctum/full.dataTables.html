@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head charset="UTF-8">
+  <title>sanctum1</title>
+  <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css"/>
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.2.min.js" charset="UTF-8" type="text/javascript"> </script>
+  <script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js" charset="UTF-8" type="text/javascript"> </script>
+  <script charset="UTF-8" type="text/javascript">$(function() { $("#results").dataTable(); }) </script>
+ </head>
+ <body>
+  <div class="bs-example table-responsive">
+   <table class="table table-striped table-bordered table-hover" id="results">
+    <thead>
+     <tr>
+      <th>articles</th>
+      <th>gene:human</th>
+      <th>dic:country</th>
+      <th>dic:drugs</th>
+      <th>dic:monoterpene</th>
+      <th>dic:plantparts</th>
+      <th>species:binomial</th>
+      <th>word:frequencies</th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC5891864" target="separate">PMC5891864</a>
+       <a href="PMC5891864/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="2">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Canada" target="separate">Canada</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/ketamine" target="separate">ketamine</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="4">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/herb" target="separate">herb</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/balsam" target="separate">balsam</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/leaf" target="separate">leaf</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="28">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 28
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="9">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/old" target="separate">old x 22</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/rat" target="separate">rat x 27</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/pyramidal" target="separate">pyramidal x 34</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/cells" target="separate">cells x 33</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/sanctum" target="separate">sanctum x 30</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC5965372" target="separate">PMC5965372</a>
+       <a href="PMC5965372/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Denmark" target="separate">Denmark</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="7">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/lithium" target="separate">lithium</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/dimethyl" target="separate">dimethyl sulfoxide</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/docetaxel" target="separate">docetaxel</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/erlotinib" target="separate">erlotinib</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/oxaliplatin" target="separate">oxaliplatin</a>
+        </span>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="3">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/stem" target="separate">stem</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/herb" target="separate">herb</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="6">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 3
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Moringa_oleifera" target="separate">Moringa oleifera</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Telectadium_dongnaiense" target="separate">Telectadium dongnaiense</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="5">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/cancer" target="separate">cancer x 33</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/cell" target="separate">cell x 34</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Vicenin-" target="separate">Vicenin- x 57</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/HT-" target="separate">HT- x 23</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/cells" target="separate">cells x 40</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC5971330" target="separate">PMC5971330</a>
+       <a href="PMC5971330/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="3">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/ampicillin" target="separate">ampicillin</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/choline" target="separate">choline chloride.</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/tryptophan" target="separate">tryptophan</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="23">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/leaf" target="separate">leaf</a> x 14
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/fruit" target="separate">fruit</a> x 3
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/peel" target="separate">peel</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/bark" target="separate">bark</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/root" target="separate">root</a>
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="39">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/O._sanctum" target="separate">O. sanctum</a> x 5
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/S._typhimurium" target="separate">S. typhimurium</a> x 4
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Aloe_paniculata" target="separate">Aloe paniculata</a> x 4
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/E._officinalis" target="separate">E. officinalis</a> x 3
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/W._somnifera" target="separate">W. somnifera</a> x 3
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="5">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/PFS" target="separate">PFS x 22</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/test" target="separate">test x 25</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/extract" target="separate">extract x 23</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/oral" target="separate">oral x 26</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/rats" target="separate">rats x 22</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC5987334" target="separate">PMC5987334</a>
+       <a href="PMC5987334/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td/>
+      <td/>
+      <td/>
+      <td/>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC5987647" target="separate">PMC5987647</a>
+       <a href="PMC5987647/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="18">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a> x 10
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/China" target="separate">China</a> x 4
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Bangladesh" target="separate">Bangladesh</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Egypt" target="separate">Egypt</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Hong" target="separate">Hong Kong,</a>
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="11">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/oseltamivir" target="separate">oseltamivir</a> x 5
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/amantadine" target="separate">amantadine</a> x 5
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/ribavirin" target="separate">ribavirin</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="4">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/seed" target="separate">seed</a> x 3
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/bark" target="separate">bark</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="62">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 31
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Acacia_arabica" target="separate">Acacia arabica</a> x 30
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_tenuiflorum" target="separate">Ocimum tenuiflorum</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="18">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/control" target="separate">control x 30</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/ocimum" target="separate">ocimum x 50</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/virus" target="separate">virus x 88</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/sanctum" target="separate">sanctum x 33</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/mg/." target="separate">mg/. x 26</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC6006897" target="separate">PMC6006897</a>
+       <a href="PMC6006897/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="3">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a> x 3
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="6">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/chlorhexidine" target="separate">chlorhexidine</a> x 6
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="10">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/root" target="separate">root</a> x 6
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/leaf" target="separate">leaf</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/aerial" target="separate">aerial parts</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/herb" target="separate">herb</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="13">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Mentha_piperita" target="separate">Mentha piperita</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Cymbopogon_citratus" target="separate">Cymbopogon citratus</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Escherichia_faecalis" target="separate">Escherichia faecalis</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Candida_albicans" target="separate">Candida albicans</a>
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="5">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/herbal" target="separate">herbal x 33</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/sodium" target="separate">sodium x 21</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/NaOCl" target="separate">NaOCl x 34</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/chlorine" target="separate">chlorine x 27</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/hypochlorite" target="separate">hypochlorite x 22</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC6023537" target="separate">PMC6023537</a>
+       <a href="PMC6023537/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="6">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a> x 4
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Denmark" target="separate">Denmark</a> x 2
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="24">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/sildenafil" target="separate">sildenafil</a> x 20
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/olmesartan" target="separate">olmesartan</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/telmisartan" target="separate">telmisartan</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/amrinone" target="separate">amrinone</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/simvastatin" target="separate">simvastatin</a>
+        </span>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="3">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/bark" target="separate">bark</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/leaf" target="separate">leaf</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/stem" target="separate">stem</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="10">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/rats" target="separate">rats x 30</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/&amp;lt;" target="separate">&amp;lt; x 28</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/weight" target="separate">weight x 24</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/MCT" target="separate">MCT x 34</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/hypertension" target="separate">hypertension x 26</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC6200556" target="separate">PMC6200556</a>
+       <a href="PMC6200556/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="2">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Indonesia" target="separate">Indonesia</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/levodopa" target="separate">levodopa</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+      <td>
+       <div title="3">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/herb" target="separate">herb</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/root" target="separate">root</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="17">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 17
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="7">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/OSE" target="separate">OSE x 47</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/sanctum" target="separate">sanctum x 27</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/cells" target="separate">cells x 79</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/ChAT" target="separate">ChAT x 42</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/cell" target="separate">cell x 27</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC6239295" target="separate">PMC6239295</a>
+       <a href="PMC6239295/scholarly.html" target="separate">local</a>
+      </td>
+      <td>
+       <div title="1">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/TPS" target="separate">TPS</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="2">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/India" target="separate">India</a> x 2
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="2">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/tryptophan" target="separate">tryptophan</a> x 2
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="3">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Myrcene" target="separate">Myrcene</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimene" target="separate">Ocimene</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Geraniol" target="separate">Geraniol</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td>
+       <div title="9">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/branch" target="separate">branch</a> x 4
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/seed" target="separate">seed</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/balsam" target="separate">balsam</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/fruit" target="separate">fruit</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/leaf" target="separate">leaf</a>
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="142">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 50
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Selaginella_lycopersicum" target="separate">Selaginella lycopersicum</a> x 9
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_basilicum" target="separate">Ocimum basilicum</a> x 8
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Arabidopsis_thaliana" target="separate">Arabidopsis thaliana</a> x 6
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Solanum_lycopersicum" target="separate">Solanum lycopersicum</a> x 6
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="29">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/TPS" target="separate">TPS x 78</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/class" target="separate">class x 35</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Available:" target="separate">Available: x 22</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/synthases" target="separate">synthases x 27</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum" target="separate">Ocimum x 61</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td title="foo">
+       <a href="http://europepmc.org/articles/PMC6262289" target="separate">PMC6262289</a>
+       <a href="PMC6262289/scholarly.html" target="separate">local</a>
+      </td>
+      <td/>
+      <td>
+       <div title="5">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Thailand" target="separate">Thailand</a> x 3
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Netherlands" target="separate">Netherlands</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Brazil" target="separate">Brazil</a>
+        </span>
+        <br/>
+       </div>
+      </td>
+      <td/>
+      <td/>
+      <td>
+       <div title="13">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/leaf" target="separate">leaf</a> x 6
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/aerial" target="separate">aerial parts</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/seed" target="separate">seed</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/herb" target="separate">herb</a> x 2
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/flower" target="separate">flower</a>
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="50">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_sanctum" target="separate">Ocimum sanctum</a> x 14
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_basilicum" target="separate">Ocimum basilicum</a> x 13
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_citriodorum" target="separate">Ocimum citriodorum</a> x 10
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_gratissimum" target="separate">Ocimum gratissimum</a> x 8
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum_uttricifolium" target="separate">Ocimum uttricifolium</a>
+        </span>
+       </div>
+      </td>
+      <td>
+       <div title="7">
+        <span>
+         <a href="http://en.wikipedia.org/wiki/basilicum" target="separate">basilicum x 21</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Ocimum" target="separate">Ocimum x 47</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/essential" target="separate">essential x 72</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/Thai" target="separate">Thai x 21</a>
+        </span>
+        <br/>
+        <span>
+         <a href="http://en.wikipedia.org/wiki/oils" target="separate">oils x 30</a>
+        </span>
+       </div>
+      </td>
+     </tr>
+    </tbody>
+    <tfoot/>
+   </table>
+  </div>
+ </body>
+</html>
