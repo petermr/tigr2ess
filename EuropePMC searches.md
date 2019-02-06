@@ -4,7 +4,11 @@ This describes how to use EuropePMC (http://europepmc.org) as a web-based search
 
 ## basic search
 
-The basic search (at URL above) takes free text ("wheat") and (on 20190206) gives:
+The basic search (at URL above) takes free text:
+```
+wheat
+```
+and (on 20190206) gives:
 ```
 Results
 1 - 25 of 159993 results  RSS Sort by: Relevance | Date  | Times Cited 1 2 3 4 5 ...  Next 
@@ -19,7 +23,11 @@ Cited: 0 times (PMID:30673804)
 
 ## boolean queries
 
-Querying `"wheat AND gluten"` gives:
+Querying:
+```
+wheat AND gluten
+```
+gives:
 
 ```
 Results
