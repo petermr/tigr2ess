@@ -34,7 +34,7 @@ wheat
 ```
 gives 159993 hits
 
-### AND
+### AND operator
 
 ```
 wheat AND gluten
@@ -47,13 +47,13 @@ gives 8911 hits
 
 ![EPMC boolean](https://github.com/petermr/tigr2ess/blob/master/epmc_wheat_query.png )
 
-### OR
+### OR operator
 ```
 wheat OR gluten
 ```
 gives 175163
 
-### NOT
+### NOT operator
 ```
 wheat NOT gluten
 ```
@@ -73,9 +73,6 @@ gives 314757 hits as does:
 ```
 (wheat OR rice) NOT (rice AND wheat)
 ```
-
-
-
 
 ### compound nouns
 To search for "wheat gluten" (i.e. gluten from wheat) thw phrases must be quoted (this prevents the AND being implied).
