@@ -77,7 +77,7 @@ gives 314757 hits as does:
 ```
 
 ### compound nouns
-To search for "wheat gluten" (i.e. gluten from wheat) thw phrases must be quoted (this prevents the AND being implied).
+To search for "wheat gluten" (i.e. gluten from wheat) the phrases must be quoted (this prevents the AND being implied).
 ```
 "wheat gluten"
 ```
@@ -95,12 +95,14 @@ There is no easy way round this.
 
 ## MORE ADVANCED (make sure you understand the first part)
 These are some of the tools, sections, annotations and concepts that will be useful for subject-based searches.
-*NOTE: the advanced search for terms is not intuitive. Make sure you are competent before you try this. Also not that most of the functionality could be created manually. The advantage of the Query Builder is that brackets and quotes are likely to be correct. But I haven't managed to get some of the functionality to work*
+*NOTE: the advanced search for terms is not intuitive. Make sure you are competent before you try this. Also note that most of the functionality could be created manually. The advantage of the Query Builder is that brackets and quotes are likely to be correct. But I haven't managed to get some of the functionality to work*
 ### synonyms
 I haven't got http://europepmc.org/Help#usesynonyms to work.
 
 ## Syntax
 See: http://europepmc.org/Help#SSR.
+**The following is copied with thanks from EPMC under CC BY SA licence**. *some of their material is not relevant to the TIGR2ESS workshop and has been snipped.*
+
 There are a wide range of fields which will help narrow searches, and we'll select the most important.
 
 1. Direct search (copied with thanks)
@@ -145,6 +147,8 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </tr>
 </tbody>
 </table>
+
+The most valuable fields for TIGR2ESS are title, author, date.
 
 <h4 id="corebibliographic">2.1 Core bibliographic</h4>
 <div class="table-overflow">
@@ -208,6 +212,8 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </tbody>
 </table>
 </div>
+
+These are terms which EPMC have used to mine the full-text and are likely to have better precision. However they only cover a limited number of fields and have a biomedical emphasis.
 
 <h4 id="articlemetadata">2.2 Article metadata</h4>
 <div class="table-overflow">
@@ -282,47 +288,8 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </table>
 </div>
 
-<h4 id="fulltextavailability">2.3 Full text availability</h4>
-<div class="table-overflow">
-<table>
-<tbody>
-<tr class="headerline">
-<th style="min-width:105px">Syntax word</th>
-<th>Description</th>
-<th>Example</th>
-</tr>
-<tr>
-<td>BODY:</td>
-<td>Search for terms within the body of a fulltext article</td>
-<td><a href="/search/?scope=fulltext&amp;page=1&amp;query=BODY:PCR">BODY:PCR</a></td>
-</tr>
-<tr>
-<td>IN_PMC:</td>
-<td>Limit search results according to availability (or not) of fulltext article in PubMed Central</td>
-<td><a href="/search/?page=1&amp;query=IN_PMC:y">IN_PMC:y</a></td>
-</tr>
-<tr>
-<td>HAS_FT:</td>
-<td>Limit search results according to availability (or not) of fulltext article or book in Europe PMC</td>
-<td><a href="/search/?page=1&amp;query=HAS_FT:y">HAS_FT:y</a></td>
-</tr>
-<tr>
-<td>IN_EPMC:</td>
-<td>Limit search results according to availability (or not) of fulltext article in Europe PMC</td>
-<td><a href="/search/?page=1&amp;query=IN_EPMC:y">IN_EPMC:y</a></td>
-</tr>
-<tr>
-<td>HAS_PDF:</td>
-<td>Limit search results according to availability (or not) of a PDF version of the fulltext article</td>
-<td><a href="/search/?page=1&amp;query=HAS_PDF:y">HAS_PDF:y</a></td>
-</tr>
-</tbody>
-</table>
-</div>
 
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
+<b>The dates are probably the most important part of this section</b>
 <h4 id="collectionmetadata">2.4 Collection metadata</h4>
 <div class="table-overflow">
 <table>
@@ -361,10 +328,7 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </table>
 </div>
 
-<b>IMPORTANT</b>
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
+<b>IMPORTANT - sections are an important way of disambiguating</b>
 <h4 id="sectionlevelsearch">2.9 Section-level search</h4>
 <div class="table-overflow">
 <table>
@@ -462,9 +426,7 @@ There are a wide range of fields which will help narrow searches, and we'll sele
 </tbody>
 </table>
 </div>
-<p class="backtotop">
-<a href="#top" class="top_of_page">Back to top</a>
-</p>
+
 <h4 id="searchcombinations">3. Search combinations</h4>
 <div class="table-overflow">
 <table>
