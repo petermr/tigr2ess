@@ -2,7 +2,7 @@
 
 This describes how to use EuropePMC (http://europepmc.org) as a web-based search engine.
 ### *overview*
-*EuropePMC has other features than search (e.g. author manuscript upload) and there is a lot of emphasis on authors, grants, etc. The full documentation is in http://europepmc.org/Help but this is long. Later we suggest aome of the more important sections:*
+*EuropePMC has other features than search (e.g. author manuscript upload) and there is a lot of emphasis on authors, grants, etc. The full documentation is in http://europepmc.org/Help but this is long. Later we suggest some of the more important sections:*
 
 ## basic search
 
