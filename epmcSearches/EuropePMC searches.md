@@ -4,6 +4,8 @@ This describes how to use EuropePMC (http://europepmc.org) as a web-based search
 ### *overview*
 *EuropePMC has other features than search (e.g. author manuscript upload) and there is a lot of emphasis on authors, grants, etc. The full documentation is in http://europepmc.org/Help but this is long. Later we suggest some of the more important sections:*
 
+*Note: EPMC has other useful links, e.g. https://www.ebi.ac.uk/training/online/course-list?field_course_subject_area_tid%5B%5D=15 (List of courses) and https://www.ebi.ac.uk/training/online/course/effective-literature-research-europe-pmc (Introductory).
+
 ## basic search
 
 The basic search (at URL above) takes free text:
