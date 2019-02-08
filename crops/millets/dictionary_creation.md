@@ -5,6 +5,8 @@ Let's search for 'millet' on the web. In the searh results, we get the following
 ![Wikipedia page for millet]
 (/home/amit/Desktop/Workshop/Github/tigr2ess/millets/Screenshot from 2019-02-07 13-23-38.png)
 
+**EDIT You will have to commit the PNG to Github and then use a relative URL (absolute URLs to github may run into `blob` problems).**
+
 # Dictionary creation from wikipedia page
 This page contains words/terms coloured in blue. If we click on a term, we will be directed to the wikipedia page for that term.
 **GOAL**: Collect all these terms in a file.
