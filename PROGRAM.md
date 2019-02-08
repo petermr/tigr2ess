@@ -7,6 +7,7 @@ research.
 **NOTE: This is/will be considerably revised after discussions on 2019-02-08**
 
 ## Overview
+Throughout this we shall use *Ocimum sanctum* (Holy Basil) as the primary example. Tutorial material has been generated for most steps using *O. sanctum*.
 
 ### background
 The scientific/medical literature generates thousands of articles per day, and is continuing to increase. This workshop uses a subset, 
@@ -38,25 +39,38 @@ All work is on delgates' laptops. They will need to:
  
  Ideally the technology for this should be varified before the full-day workshop
  
- ## Exercises 
-This lists the formal exercises that we will carry out. All exercises will be verified beforehand to ensure that they:
+ # Structured Program 
+This lists the formal exercises that we will carry out in the first half of the workshop . All exercises will be verified beforehand to ensure that they:
  * work on major operating systems and hardware. 
  * can be edited in case of variable download speeds or unexpected drop-outs.
  
  The following order may change and some may be combined
  
  ### check of readiness of delegate installations
- Check that <tt>getpapers</tt> and <tt>AMI</tt> have been installed by everyone.
+ Check that <tt>getpapers</tt> and <tt>AMI</tt> have been installed by everyone. Every delegate will have a memory stick containing:
+  * these instructions
+  * software (getpapers and AMI)
+  * typical searches and results (Ocimum and 3 crops (millet, rice, wheat))
+  * current dictionaries 
+  
+## program flow
+(Each of these will have a separate full page)
 
  ### EuropePMC (online)
- Use the EuropePMC.org interface to explore how queries work. Development of complex queries (AND, OR) and the likely pitfalls. 
+ Use the EuropePMC.org interface to explore how queries work. Understand false positives. Development of complex queries (AND, OR) and the likely pitfalls. 
 
  ### getpapers (online)
   *Note. Bandwidth may need to be managed.* Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers<tt> initially in XML. Extend query to "ocimum AND <country>" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
  
- ### wikifactmine, wikidata (online)
- https://www.wikidata.org/wiki/Wikidata:WikiFactMine . This is a good introdution to Wikidata. A large set of dictionaries developed by ContentMine generally from SPARQL queries.  Clear instructions and examples that work.
-Discussion of Wikidata items (Q) and properties (P).
+ ### Wikipedia (online)
+ What WP is, how it is updated and checked. Overview of plant taxonomy in WP. Special pages (Category: foo, List_of_foo). 
+
+ ### wikidata (online)
+ Exploration and discussion of Items (Q) and Properties (P) relating to *O. sanctum* .
+
+ ### wikifactmine,(online)
+ https://www.wikidata.org/wiki/Wikidata:WikiFactMine . A large set of dictionaries developed by ContentMine generally from SPARQL queries. 
+ Creation of a Wikifactmine dictionary for "crops". 
 
  ### AMI document transformation (local)
  <tt>AMI</tt> will be used to transform the downloaded XML into HTML (which will be used for the searching). 
@@ -72,7 +86,7 @@ The terms will then link back to Wikidata and Wikipedia for interpretation.
  <tt>AMI</tt> can display the co-occurrence of termsfrom different dictionaries.
 
  ### dictionary editing
-At this stage it shoudl become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries shoudl reference Wikidata.
+At this stage it should become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries shoudl reference Wikidata.
 Later delegates can create complete (small) dictionaries either by including items by hand, or using AMI to explode Wikipedia pages into dictionaries.
 
 ## Delegate research
