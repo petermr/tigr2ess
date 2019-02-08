@@ -1,0 +1,20 @@
+## Queries-->
+
+1. Wheat papers since 2015:
+
+(PUB_YEAR:"PUB_YEAR:[2015 TO 2019]") AND (TITLE:"Wheat")--> 47974 results
+(Title=wheat)-->(All Bibliographic Field-->year-publication=PUB_YEAR:[2015 TO 2019])
+Screenshot to be added..
+
+2. Authors from nipgr OR cambridge :
+(AUTH_CON:"cambridge" OR AUTH_CON:"nipgr")
+(Article Sections) -->(Author contributions)
+Screenshot to be added..
+
+3. Find wheat but Not in the Title :
+(KW:"wheat" NOT TITLE:"wheat") AND (IN_EPMC:y) AND (OPEN_ACCESS:y)--> 357 results
+Screenshot to be added
+
+4. wheat in Body only:
+(KW:"wheat" NOT TITLE:"wheat" OR ABSTRACT:"wheat") 4923 results 
+Screenshot to be added..
