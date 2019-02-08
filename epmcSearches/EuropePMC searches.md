@@ -6,6 +6,9 @@ This describes how to use EuropePMC (http://europepmc.org) as a web-based search
 
 *Note: EPMC has other useful links, e.g. https://www.ebi.ac.uk/training/online/course-list?field_course_subject_area_tid%5B%5D=15 (List of courses) and https://www.ebi.ac.uk/training/online/course/effective-literature-research-europe-pmc (Introductory).
 
+## EPMC support
+Maria Levchenko and colleagues run an EPMC support services (https://www.ebi.ac.uk/training/online/trainers/levchmar_10147 ) and have been very helpful. They have a webservices Google group https://groups.google.com/a/ebi.ac.uk/forum/#!forum/epmc-webservices and some of our docs may point to that page.
+
 ## basic search
 
 The basic search (at URL above) takes free text:
@@ -97,7 +100,7 @@ There is no easy way round this.
 These are some of the tools, sections, annotations and concepts that will be useful for subject-based searches.
 *NOTE: the advanced search for terms is not intuitive. Make sure you are competent before you try this. Also note that most of the functionality could be created manually. The advantage of the Query Builder is that brackets and quotes are likely to be correct. But I haven't managed to get some of the functionality to work*
 ### synonyms
-I haven't got http://europepmc.org/Help#usesynonyms to work.
+The EPMC page http://europepmc.org/Help#usesynonyms is not intuitive and Maria has posted some comments https://groups.google.com/a/ebi.ac.uk/forum/#!topic/epmc-webservices/GzXyig7EaWc .
 
 ## Syntax
 See: http://europepmc.org/Help#SSR.
