@@ -4,6 +4,7 @@ A full day work shop to introduce TIGR2ESS delegates to the principles and pract
 research.
 
 *Note: all materials in dictionaries and code use only characters 32-127 ("ANSI"). Much software, e.g. browsers, is unable to render higher code points reliably. We appreciate that this does not do justice to names, places and words from non-anglophone cultures.*
+**NOTE: This is/will be considerably revised after discussions on 2019-02-08**
 
 ## Overview
 
