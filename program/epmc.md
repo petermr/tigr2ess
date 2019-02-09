@@ -38,10 +38,34 @@ There are 4 categories of result:
 * **false positives FP**. Getting material we didn't want.
 * **false negatives FN**. Not getting material we wanted.
 
-**We can't make any formal estimate of the number of negatives**. We much keep our brains open and always ask "could we have missed something?" and try to create another query.
+**We can't make any formal estimate of the number of negatives**. We much keep our brains open and always ask "could we have missed something?" and try to create another query. 
+
+## limitations of text-based search
+
+Text indexing is powerful for precise concepts - and plant science has many good examples. Scientists tend to use formal language and this helps a lot. But many concepts are not easily expressed in text and are not covered here. Among these are:
+
+* chemical structures. There are a near-infinite number of names for a natural product and text searching fails. (The document can be indexed by substructure but not in this workshop).
+* numbers. we cannot search for "rainfall of 100 cm yr-1", "farms over 100 hectares", "small plants", etc as these terms will not occurr explicitly.
+* generality. The term "basil" is in common use (e.g. for cooking) and will include many variants. 
+
+### synonyms, abbreviations and common names
+Many object have synonyms and nlless we know them we can't search for them. In our example of "Holy basil" we find:
+* *Ocimum sanctum*
+* *O. sanctum*
+* *Ocimum tenuiflorum*
+* Holy basil.
+* Thai basil
+* Tulsi
+
+Natural Language Processors (NLP) can help by analysing large numbers of document, but here we use lists of synonyms, especially:
+
+* EuropePMC (in chemicals, species and disease but not universal).
+* Wikipedia/Wikidata
+
 
 
 ## Exercises
+
 ** The main theme of the tutorial will be searching for knowledge about *Ocimum sanctum* (Holy/Thai Basil). Searches and analyses can be 
 adapted for crops, pests, etc.**
 
