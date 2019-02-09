@@ -5,6 +5,12 @@
 ## assets
 see also [assets](../epmcSearches)
 
+## AIMS
+
+* to understand how an Open Access repository provides search
+* to appreciate precision/recall and find ways of increasing either (AND, OR, NOT)
+* to anticipate ambiguity in searches
+
 ## About EPMC
 
 EuropePMC (http://europepmc.org/) provides ca 2.7 million Open Access articles in biomedical science. 
@@ -62,15 +68,35 @@ Natural Language Processors (NLP) can help by analysing large numbers of documen
 * EuropePMC (in chemicals, species and disease but not universal).
 * Wikipedia/Wikidata
 
-
-
 ## Exercises
 
-** The main theme of the tutorial will be searching for knowledge about *Ocimum sanctum* (Holy/Thai Basil). Searches and analyses can be 
-adapted for crops, pests, etc.**
+**The main theme of the tutorial will be searching for knowledge about *Ocimum sanctum* (Holy/Thai Basil). Searches and analyses here can be adapted for crops, pests, etc.**
 
 
 ### Simple searches on EPMC.
-*Vinita, please edit where needed*
-Searches are balanced between . (see 
+*Vinita, please edit where needed. I have created some screenshots which may be useful*
 
+Visit http://europepmc.org and run searches
+
+* **Ocimum** - too general
+* **Ocimum sanctum**
+* Does **O. sanctum** get as many hits?
+* Use the Open Access button to restrict to retrievable fulltext
+
+## synonyms
+
+Consult https://en.wikipedia.org/wiki/Ocimum_tenuiflorum :
+"Ocimum tenuiflorum (synonym Ocimum sanctum), commonly known as holy basil, tulasi (sometimes spelled thulasi) or tulsi,..." 
+
+* how many hits for "Ocimum tenuiflorum" vs "Ocimum sanctum?"
+* ... for "tulasi"? ... "tulsi"
+
+Can you create an aggregrated query which includes all of the synonyms? 
+*Vinita: give examples of OR and show how brackets work*
+
+
+## false positives (disambiguation)
+
+"Tulsi" is also a human name so gives many false positives:
+
+* use AUTH fields in EPMC to reject FP.
