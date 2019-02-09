@@ -1,6 +1,6 @@
 # Searching EPMC
 
-*Vinita* - merge your own work and my pages into a single tutorial . This should include:*
+*Vinita - merge your own work and my pages into a single tutorial . This should include:*
 
 ## assets
 see also [assets](../epmcSearches)
@@ -13,6 +13,7 @@ fulltext articles. The Open Access subset has ca 2.7 million biomedical articles
 plant material to be useful.
 
 ## limitations of EPMC
+
 **NO LITERATURE SEARCHES ARE EVER PERFECT**. We have no control over what is searched and in many
 cases we know it's deficient. None of the commercial services abstract *all* the literature, and nor does NIH. 
 If you *don't* find an article it could be because.
@@ -28,14 +29,16 @@ This section is about whether we retrieve the correct documents (later we'll dis
 This is a fundamental concept throughout the workshop.  The measures are:
 * **precision**. How accurate are the searches?
 * **recall** how much of what we search are we getting?
+
 In these exercises we concentrate on precision - trying to get the searches as accurate as possible.
 There are 4 categories of result:
+
 * **true positives TP**. Accurate retrieval of wanted material.
 * **true negatives TN**. Not getting material that we didn't want.
 * **false positives FP**. Getting material we didn't want.
 * **false negatives FN**. Not getting material we wanted.
 
-**We can't make any estimate of the 
+**We can't make any formal estimate of the number of negatives**. We much keep our brains open and always ask "could we have missed something?" and try to create another query.
 
 
 ## Exercises
