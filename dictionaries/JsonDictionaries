@@ -2,7 +2,7 @@
 
 ## structure
 
-Dictionaries can be expressed either in XML or JSON. We shall use JSON as it is more familiar in bioscience. The dictionaries consist of:
+Dictionaries can be expressed either in XML or JSON. <s>We shall use JSON as it is more familiar in bioscience</s>. We shall use XML. The dictionaries consist of:
 
 * a header, with title, comments and identifier
 * a list of entries
@@ -11,6 +11,8 @@ Dictionaries can be expressed either in XML or JSON. We shall use JSON as it is 
 A small dictionary relating to the TIGR2ESS project - this shows most of what is required. 
 Don't worry about the syntax - view this in an editor.
 
+### json format
+We shall use XML as the default, but we may need to 
 ```
 {
   "id": "CM.tigr2ess",
