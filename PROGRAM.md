@@ -39,14 +39,14 @@ All work is on delgates' laptops. They will need to:
  
  Ideally the technology for this should be varified before the full-day workshop
  
- # Structured Program 
+# Structured Program 
 This lists the formal exercises that we will carry out in the first half of the workshop . All exercises will be verified beforehand to ensure that they:
  * work on major operating systems and hardware. 
  * can be edited in case of variable download speeds or unexpected drop-outs.
  
  The following order may change and some may be combined
  
- ### check of readiness of delegate installations
+### check of readiness of delegate installations
  Check that <tt>getpapers</tt> and <tt>AMI</tt> have been installed by everyone. Every delegate will have a memory stick containing:
   * these instructions
   * software (getpapers and AMI)
@@ -58,7 +58,7 @@ This lists the formal exercises that we will carry out in the first half of the 
 
 ### EuropePMC (online)
  Use the EuropePMC.org interface to explore how queries work. Understand false positives. Development of complex queries (AND, OR) and the likely pitfalls. 
-[details] (./program/epmc.md)
+[details](program/epmc.md)
 
 ### getpapers (online)
   *Note. Bandwidth may need to be managed.* Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers<tt> initially in XML. Extend query to "ocimum AND <country>" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
