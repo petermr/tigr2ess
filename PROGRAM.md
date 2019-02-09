@@ -56,39 +56,40 @@ This lists the formal exercises that we will carry out in the first half of the 
 ## program flow
 (Each of these will have a separate full page)
 
- ### EuropePMC (online)
+### EuropePMC (online)
  Use the EuropePMC.org interface to explore how queries work. Understand false positives. Development of complex queries (AND, OR) and the likely pitfalls. 
+[details] (./program/epmc.md)
 
- ### getpapers (online)
+### getpapers (online)
   *Note. Bandwidth may need to be managed.* Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers<tt> initially in XML. Extend query to "ocimum AND <country>" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
  
- ### Classifications and searches
+### Classifications and searches
  Open resources (MESH/Medline, Taxdump, etc. etc.) . Many of these are being subsumed into Wikidata.
  
- ### Wikipedia (online)
+### Wikipedia (online)
  What WP is, how it is updated and checked. Overview of plant taxonomy in WP. Special pages (Category: foo, List_of_foo). 
 
- ### wikidata (online)
+### wikidata (online)
  Exploration and discussion of Items (Q) and Properties (P) relating to *O. sanctum* .
 
- ### wikifactmine,(online)
+### wikifactmine,(online)
  https://www.wikidata.org/wiki/Wikidata:WikiFactMine . A large set of dictionaries developed by ContentMine generally from SPARQL queries. 
  Creation of a Wikifactmine dictionary for "crops". 
 
- ### AMI document transformation (local)
+### AMI document transformation (local)
  <tt>AMI</tt> will be used to transform the downloaded XML into HTML (which will be used for the searching). 
  
- ### word frequency (local)
+### word frequency (local)
  <tt>AMI</tt> will be used to compute the raw frequencies of words in each article. The result is displayed in <tt>dataTables</tt>. Discussion on the distruction of terms found in the articles.
 
- ### dictionary searching
+### dictionary searching
  <tt>AMI</tt> will be used to search the local HTML papers using *dictionaries*. Initially these will be bundled with the system. Results added to <tt>dataTables</tt>.
 The terms will then link back to Wikidata and Wikipedia for interpretation.
 
- ### co-occurence
+### co-occurence
  <tt>AMI</tt> can display the co-occurrence of termsfrom different dictionaries.
 
- ### dictionary editing
+### dictionary editing
 At this stage it should become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries shoudl reference Wikidata.
 Later delegates can create complete (small) dictionaries either by including items by hand, or using AMI to explode Wikipedia pages into dictionaries.
 
