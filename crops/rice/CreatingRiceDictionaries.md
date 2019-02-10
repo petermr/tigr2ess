@@ -35,6 +35,21 @@ Here is the snippet of dictionaries.
 
 ### rice.xml
 
+<entry term="List of rice diseases" name="List of rice diseases" url="/wiki/List_of_rice_diseases" id="CM.9febrice.285" wikipedia="List_of_rice_diseases" />
+	<entry term="List of rice varieties" name="List of rice varieties" url="/wiki/List_of_rice_varieties" id="CM.9febrice.287" wikipedia="List_of_rice_varieties" />
+	<entry term="monocot" name="monocot" url="/wiki/Monocotyledon" id="CM.9febrice.333" wikipedia="Monocotyledon" />
+	<entry term="New Rices for Africa" name="New Rices for Africa" url="/wiki/New_Rices_for_Africa" id="CM.9febrice.348" wikipedia="New_Rices_for_Africa" />
+	<entry term="O. nivara" name="O. nivara" url="/wiki/Oryza_nivara" id="CM.9febrice.363" wikipedia="Oryza_nivara" />
+	<entry term="Oryza" name="Oryza" url="/wiki/Oryza" id="CM.9febrice.368" wikipedia="Oryza" />
+	<entry term="Oryza glaberrima" name="Oryza glaberrima" url="/wiki/Oryza_glaberrima" id="CM.9febrice.369" wikipedia="Oryza_glaberrima" />
+	<entry term="Oryza rufipogon" name="Oryza rufipogon" url="/wiki/Oryza_rufipogon" id="CM.9febrice.370" wikipedia="Oryza_rufipogon" />
+	<entry term="Oryza sativa" name="Oryza sativa" url="/wiki/Oryza_sativa" id="CM.9febrice.371" wikipedia="Oryza_sativa" />
+	<entry term="Oryza sp." name="Oryza sp." url="/wiki/Oryza_sp." id="CM.9febrice.372" wikipedia="Oryza_sp." />
+	<entry term="paddy" name="paddy" url="/wiki/Paddy_field" id="CM.9febrice.376" wikipedia="Paddy_field" />
+	<entry term="Paddy field" name="Paddy field" url="/wiki/Paddy_field" id="CM.9febrice.377" wikipedia="Paddy_field" />
+	<entry term="panicle rice mite" name="panicle rice mite" url="/wiki/Panicle_rice_mite" id="CM.9febrice.381" wikipedia="Panicle_rice_mite" />
+	<entry term="Patna rice" name="Patna rice" url="/wiki/Patna_rice" id="CM.9febrice.390" wikipedia="Patna_rice" />
+	<entry term="ponni" name="ponni" url="/wiki/Ponni_Rice" id="CM.9febrice.413" wikipedia="Ponni_Rice" />
 
 
 
@@ -49,15 +64,6 @@ Here is the snippet of dictionaries.
       },
       "name": "List of rice varieties",
       "term": "List of rice varieties"
-    },
-   
-
-    {
-      "identifiers": {
-        "contentmine": "CM.9febrice.333"
-      },
-      "name": "monocot",
-      "term": "monocot"
     },
    
    {
@@ -99,8 +105,8 @@ Here is the snippet of dictionaries.
    
    
 ### rice.html
+
+
   
-  
-<tr><td>Japanese_rice</td><td><a href="https://en.wikipedia.org/wiki/Japanese_rice">Japanese rice</a></td><td>Japanese rice</td><td>https://en.wikipedia.org/wiki/Japanese_rice</td><td><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28736370">Q28736370</a></td><td /><td><img alt="Stages of rice milling.jpg" decoding="async" width="220" height="110" data-file-width="480" data-file-height="240" src="https:////upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Stages_of_rice_milling.jpg/220px-Stages_of_rice_milling.jpg" /></td><td /></tr><tr><td>Japanese_rice</td><td><a href="https://en.wikipedia.org/wiki/Japanese_rice">Japanese table rice</a></td><td>Japanese table rice</td><td>https://en.wikipedia.org/wiki/Japanese_rice</td><td><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28736370">Q28736370</a></td><td /><td><img alt="Stages of rice milling.jpg" decoding="async" width="220" height="110" data-file-width="480" data-file-height="240" src="https:////upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Stages_of_rice_milling.jpg/220px-Stages_of_rice_milling.jpg" /></td><td /></tr><tr><td>Japonica_rice</td><td><a href="https://en.wikipedia.org/wiki/Japonica_rice">japonica</a></td><td>japonica</td><td>
 
 
