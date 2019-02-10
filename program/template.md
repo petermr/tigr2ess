@@ -1,9 +1,11 @@
-iFor each step in the morning I intend to create docs with a template
-* name of activity (e.g. searching Wikidata with SPARQL)
+For each step in the morning we shall create docs with this template
+* name of activity 
 * purpose of activity
-* resources involved
+* software and remote resources
 * simple command/s
 * what the results look like
+* time and resources 
 * what the results mean
+* actions for team
 
 
