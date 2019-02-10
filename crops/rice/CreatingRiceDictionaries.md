@@ -25,7 +25,7 @@ Output of the command generates xml, json and html formatted dictionary files an
 
 ## Mannual editing the dictionaries.
 
-As the dictionatries created from the wikipage contains lots of informations related the search. These informations are ambiguious, repeated and irrelevant to the the search. So why manual editing is required to make it precious to the search task just by removing extraneous entries. One may use online editor or standalone tool to perform the task. This has to be done on the basis of inspection and performing editing on one's own behalf.
+As the dictionatries created from the wikipage contains lots of informations related the search. These informations are ambiguious, repeated and irrelevant. So why manual editing is required to make it precious to the search task just by removing extraneous entries. One may use online editor or standalone tool to perform the task (JSON Editor - https://jsoneditoronline.org/). This has to be done on the basis of inspection and performing editing on one's own behalf.
 
 There were around 600 entries related rice search. These entries were about rice varities, geographical locations of rice cultivations, rice diseases, minerals, nutrients, germs, micro-organisms, insecticides, agrarian terms, cultural informations, cuisines, chemical compounds, rice research institutes etc. 
 
