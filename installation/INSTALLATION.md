@@ -18,8 +18,8 @@ https://github.com/petermr/tigr2ess/issues
 
 Problems for specific machine types / OS should be added here:
 
- * [unix](unix.md)
- * [mac](mac.md)
- * [windows](windows.md)
+ * [unix](unix/)
+ * [mac](mac/)
+ * [windows](windows/)
 
 
