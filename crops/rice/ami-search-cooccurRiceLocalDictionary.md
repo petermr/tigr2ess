@@ -2,11 +2,11 @@
 
 ### Compiled by Ambarish (ambari73_sit@jnu.ac.in)
 
-## Here is demonstrated command to for ami-search-cooccur using local dictionary.
+## Here is demonstrated search using ami-search-cooccur and local dictionary.
 
 Short description of the dictionary and usage.
 
-Dictionary is created from the wikipedia page of the Rice. Source 
+Dictionary is created from the wikipedia page of the Rice. Source - https://en.wikipedia.org/wiki/Rice
 It contains all rice varities, Oryza species, rice diseases and closely associated terminilogies to rice research like monocot or 
 glutan.
 
