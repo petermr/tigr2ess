@@ -196,8 +196,8 @@ The XML dictionary contains:
 ```
 This is a <b>`dictionary`</b> "element" with 3 <b>`entry`</b> "child elements" (notice the indents). Each entry contains 6 "attributes", e.g.:
 * `term="menthol"` the term that will be used for identification and searching.
-* `name="‎(-)-menthol‎" the name by which it is known in Wikipedia or Wikidata.
-* `wikipedia="thymol" the relative address of the Wikipedia entry 
+* `name="‎(-)-menthol‎"` the name by which it is known in Wikipedia or Wikidata.
+* `wikipedia="thymol"` the relative address of the Wikipedia entry 
 * `wikidata="Q407418"` the Wikidata identifier (aka `item`)
 * `description="chemical compound"` Wikidata's formalised description (which can sometimes be used for classification).
 * `id="CM.myterpenes.0"` a universal identifier over ContentMine dictionaries.
