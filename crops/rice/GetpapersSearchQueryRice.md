@@ -83,7 +83,7 @@ the repository - https://github.com/petermr/tigr2ess/getpapers.md
 
 For example - 
 
-getpapers -q "((Oryza sative) OR (Oryza punctata) OR (Oryza) OR (Rice) OR (Indica) )" -n
+    getpapers -q "((Oryza sative) OR (Oryza punctata) OR (Oryza) OR (Rice) OR (Indica) )" -n
 
 
 ### issues
