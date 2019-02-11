@@ -134,7 +134,7 @@ Let's look at the components:
  ami-dictionary create --terms thymol pineol menthol --dictionary myterpenes --directory mydictionaries --outformats xml,html
 ```
 ### input values
-This echoes the input parameters. (Some are snipped [...]). The important ones are annotated with ** *** **.
+This echoes the input parameters. (Some are snipped [...]). The important ones are annotated with <b>***</b>.
 ```
 Generic values (AMIDictionaryTool)
 ================================
@@ -170,7 +170,7 @@ Missing wikipedia: :
 
 pineol; 
 ```
-The output can be verbose so we normally track each dictionary entry with a single character. `.` or `+` normally means OK, `!` pr `?` means something went wrong. We got:
+The raw output can be verbose so we normally track each dictionary entry with a single character. `.` or `+` normally means OK, `!` pr `?` means something went wrong. We got:
 ```
 .!.
 ```
@@ -180,8 +180,10 @@ Missing wikipedia: :
 
 pineol; 
 ```
-means that we couldn't find `pineol` in Wikpedia (but we could find it in Wikidata.
+means that we couldn't find `pineol` in Wikpedia (but we could find it in Wikidata).
+
 ### dictionaries
+
 The XML dictionary contains:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -192,7 +194,7 @@ The XML dictionary contains:
  <query>('menthol') OR ('pineol') OR ('thymol')</query>
 </dictionary>
 ```
-This is a <b>`dictionary`</b> "element" with 3 <b>`entry`</b> "child elements" (notice the indents). Each entry contains:
+This is a <b>`dictionary`</b> "element" with 3 <b>`entry`</b> "child elements" (notice the indents). Each entry contains 6 "attributes", e.g.:
 * `term="menthol"` the term that will be used for identification and searching.
 * `name="‎(-)-menthol‎" the name by which it is known in Wikipedia or Wikidata.
 * `wikipedia="thymol" the relative address of the Wikipedia entry 
@@ -201,7 +203,7 @@ This is a <b>`dictionary`</b> "element" with 3 <b>`entry`</b> "child elements" (
 * `id="CM.myterpenes.0"` a universal identifier over ContentMine dictionaries.
 
 ### goof-up!!
-The entry for `pineol` is not a chemical compound! That's because I mistyped `cineol`! And that's why we never found it's entry. Wikidata did a fuzzy search and found `pineal` .
-** this is a warning to check everything! Don't trust Wikidata blindly. Or anything else!
+The entry for `pineol` is not a chemical compound! That's because I mistyped `cineol`! And that's why we never found its entry. Wikidata did a fuzzy search and found `pineal` .
+**This is a warning to check everything! Don't trust Wikidata blindly. Or anything else!**
 
 
