@@ -206,9 +206,23 @@ XML formatted papers (files) to scholarly HTML formatted files. These files are 
                  ├── gene.human.count.xml
                  ├── gene.human.documents.xml
                  ├── gene.human.snippets.xml
+                 
+ 1238 directories, 2380 files
+
+## Run time and storage memory
+   
+Storage requirements on the disk is 325 MB. Directory contains downloaded papers and results of cooccurance search.
+
+Elapsed time on ami-search-cooccure steps - 
 
 
 ## Discussions
+All possible cooccurances among the search terms - country, species, drugs, plantparts, gene are found
+and stored into respective project folder. Apart, common cooccurances among entire project is tabulated and output is generated into html, svg and csv format. One may check into the CProject folder for the output files and can visualise html and svg files into their internet browser.
+
+Here is some screenshots of common cooccurances and results.
+
+
 
 ## issues
 
