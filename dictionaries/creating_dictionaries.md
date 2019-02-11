@@ -276,6 +276,18 @@ Many pages, especialy for a *genus* of plants, contain a list of related items, 
 
 ![Ocimum page](./ocimumgenus.png)
 
+This has a number of active Wikpedia links (blue) and rather more red links (no Wikipedis pages (yet)). A useful dictionary can be created
+in the same way as (2) above:
+```
+ami-dictionary create --informat wikipage --input https://en.wikipedia.org/wiki/Ocimum --dictionary ocimum--directory mydictionaries --outformats xml,html
+```
+## List_of_foo
+There are many Wikipedia pages with titles "List_of", which are excellent for dictionaries. They normally contain (HTML) tables, such as
+https://en.wikipedia.org/wiki/List_of_Indian_spices .
+
+![Indian spice table](./indianspices.png)
+
+
 
 
 
