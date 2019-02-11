@@ -13,13 +13,35 @@ https://en.wikipedia.org/wiki/Rice
 creation from Wikipedia page
 ami-dictionary was run on the Wikipedia page https://en.wikipedia.org/wiki/Rice
 
-ami-dictionaries create\
- --hreftext \
- --input https://en.wikipedia.org/wiki/Rice\
- --informat wikipage\
- --dictionary rice \
- --outformats xml
+    ami-dictionaries create\
+                --hreftext \
+                --input https://en.wikipedia.org/wiki/Rice\
+                --informat wikipage\
+                --dictionary rice \
+                --outformats xml
 This creates a dictionary of all Wikipedia links in the page. 
+
+Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Category:Rice_varieties with some changes into 
+--informat option of command-line.
+
+          ami-dictionaries create\
+                --hreftext \
+                --input https://en.wikipedia.org/wiki/Category:Rice_varieties\
+                --informat wikicategory\
+                --dictionary Rice_varieties_category \
+                --outformats xml
+
+
+Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Category:Oryza with some changes to 
+--informat option of command-line.
+
+         ami-dictionaries create\
+                --hreftext \
+                --input https://en.wikipedia.org/wiki/Category:Oryza\
+                --informat wikipage\
+                --dictionary Oryza_category \
+                --outformats xml
+
 
 Output of the command generates xml, json and html formatted dictionary files and are directed to /home/users/ContentMine/dictionary/dictionaries folder. 
 
