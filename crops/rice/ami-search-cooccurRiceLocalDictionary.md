@@ -7,7 +7,7 @@
 Short description of the dictionary and usage.
 
 Dictionary is created from the wikipedia page of the Rice. Source - https://en.wikipedia.org/wiki/Rice
-It contains all rice varities, Oryza species, rice diseases and closely associated terminilogies to rice research like monocot or 
+It contains all rice varities, Oryza species, rice diseases and closely associated terminologies to rice research like monocot or 
 glutan.
 
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species genes /home/ambarish123/rice.xml
@@ -17,6 +17,14 @@ of the dictionary file should be mentioned as in I have stored the rice.xml dict
 As an command-line option I have passed it as /home/ambarish123/rice.xml
 Prefer to use xml formatted dictionary file as of light-weight and ease into handling embedded functionalities of the tool.  
 
+For the check or test-run let's try to get cooccurance between self i.e local rice dictionary - rice.xml.
+        
+    ambarish123@ubuntu:~$ ami-search-cooccur rice/ /home/ambarish123/rice.xml 
+
+Similary one may go for another dictionary created from Wikipedia Category or Wikipedia List page.
+Sources - https://en.wikipedia.org/wiki/Category:Rice_varieties
+        - https://en.wikipedia.org/wiki/Category:Oryza
+        - https://en.wikipedia.org/wiki/List_of_rice_varieties
 ## Run time log
     
      1992 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [country]
@@ -38,188 +46,189 @@ Prefer to use xml formatted dictionary file as of light-weight and ease into han
 
 ## CProject and CTree
 Visualisation of one folder (content) of the project. 
-├── PMC6345924
-│   ├── eupmc_result.json
-│   ├── fulltext.pdf
-│   ├── fulltext.xml
-│   ├── gene.human.count.xml
-│   ├── gene.human.snippets.xml
-│   ├── results
-│   │   ├── gene
-│   │   │   └── human
-│   │   │       └── empty.xml
-│   │   ├── search
-│   │   │   ├── 9febrice
-│   │   │   │   └── results.xml
-│   │   │   ├── country
-│   │   │   │   └── results.xml
-│   │   │   ├── drugs
-│   │   │   │   └── empty.xml
-│   │   │   └── plantparts
-│   │   │       └── results.xml
-│   │   ├── species
-│   │   │   └── binomial
-│   │   │       └── results.xml
-│   │   └── word
-│   │       └── frequencies
-│   │           ├── results.html
-│   │           └── results.xml
-│   ├── scholarly.html
-│   ├── search.country.count.xml
-│   ├── search.country.snippets.xml
-│   ├── search.drugs.count.xml
-│   ├── search.drugs.snippets.xml
-│   ├── search.plantparts.count.xml
-│   ├── search.plantparts.snippets.xml
-│   ├── search.rice.count.xml
-│   ├── search.rice.snippets.xml
-│   ├── species.binomial.count.xml
-│   ├── species.binomial.snippets.xml
-│   ├── word.frequencies.count.xml
-│   └── word.frequencies.snippets.xml
+
+     ├── PMC6345924
+     │   ├── eupmc_result.json
+     │   ├── fulltext.pdf
+     │   ├── fulltext.xml
+     │   ├── gene.human.count.xml
+     │   ├── gene.human.snippets.xml
+     │   ├── results
+     │   │   ├── gene
+     │   │   │   └── human
+     │   │   │       └── empty.xml
+     │   │   ├── search
+     │   │   │   ├── 9febrice
+     │   │   │   │   └── results.xml
+     │   │   │   ├── country
+     │   │   │   │   └── results.xml
+     │   │   │   ├── drugs
+     │   │   │   │   └── empty.xml
+     │   │   │   └── plantparts
+     │   │   │       └── results.xml
+     │   │   ├── species
+     │   │   │   └── binomial
+     │   │   │       └── results.xml
+     │   │   └── word
+     │   │       └── frequencies
+     │   │           ├── results.html
+     │   │           └── results.xml
+     │   ├── scholarly.html
+     │   ├── search.country.count.xml
+     │   ├── search.country.snippets.xml
+     │   ├── search.drugs.count.xml
+     │   ├── search.drugs.snippets.xml
+     │   ├── search.plantparts.count.xml
+     │   ├── search.plantparts.snippets.xml
+     │   ├── search.rice.count.xml
+     │   ├── search.rice.snippets.xml
+     │   ├── species.binomial.count.xml
+     │   ├── species.binomial.snippets.xml
+     │   ├── word.frequencies.count.xml
+     │   └── word.frequencies.snippets.xml
 
 
 
 Here is tree structure for the cooccurance results.
 
-.
-├── commonest.dataTables.html
-├── cooccurrence
-│   ├── binomial
-│   │   └── histogram.csv
-│   ├── binomial-binomial
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── binomial-gene
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── binomial-genes
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── binomial-rice
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country
-│   │   └── histogram.csv
-│   ├── country-binomial
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country-country
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country-drugs
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country-gene
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country-genes
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country-plantparts
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── country-rice
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── drugs
-│   │   └── histogram.csv
-│   ├── drugs-binomial
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── drugs-drugs
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── drugs-gene
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── drugs-genes
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── drugs-plantparts
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── drugs-rice
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── gene
-│   │   └── histogram.csv
-│   ├── gene-gene
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── gene.human.count.xml
-│   ├── gene.human.snippets.xml
-│   ├── genes
-│   │   └── histogram.csv
-│   ├── genes-genes
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── genes-rice
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── plantparts
-│   │   └── histogram.csv
-│   ├── plantparts-binomial
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── plantparts-gene
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── plantparts-genes
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── plantparts-plantparts
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── plantparts-rice
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── results
-│   │   ├── gene
-│   │   │   └── human
-│   │   │       └── empty.xml
-│   │   ├── search
-│   │   │   ├── 9febrice
-│   │   │   │   └── empty.xml
-│   │   │   ├── country
-│   │   │   │   └── empty.xml
-│   │   │   ├── drugs
-│   │   │   │   └── empty.xml
-│   │   │   └── plantparts
-│   │   │       └── empty.xml
-│   │   ├── species
-│   │   │   └── binomial
-│   │   │       └── empty.xml
-│   │   └── word
-│   │       └── frequencies
-│   │           └── empty.xml
-│   ├── rice
-│   │   └── histogram.csv
-│   ├── rice-rice
-│   │   ├── cooccur.csv
-│   │   └── cooccur.svg
-│   ├── search.country.count.xml
-│   ├── search.country.snippets.xml
-│   ├── search.drugs.count.xml
-│   ├── search.drugs.snippets.xml
-│   ├── search.plantparts.count.xml
-│   ├── search.plantparts.snippets.xml
-│   ├── search.rice.count.xml
-│   ├── search.rice.snippets.xml
-│   ├── species.binomial.count.xml
-│   ├── species.binomial.snippets.xml
-│   ├── word.frequencies.count.xml
-│   └── word.frequencies.snippets.xml
-├── count.dataTables.html
-├── entries.dataTables.html
-├── eupmc_fulltext_html_urls.txt
-├── eupmc_results.json
-├── full.dataTables.html
-├── gene.human.count.xml
-├── gene.human.documents.xml
-├── gene.human.snippets.xml
 
-1346 directories, 2699 files
+    ├── commonest.dataTables.html
+    ├── cooccurrence
+    │   ├── binomial
+    │   │   └── histogram.csv
+    │   ├── binomial-binomial
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── binomial-gene
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── binomial-genes
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── binomial-rice
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country
+    │   │   └── histogram.csv
+    │   ├── country-binomial
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country-country
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country-drugs
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country-gene
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country-genes
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country-plantparts
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── country-rice
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── drugs
+    │   │   └── histogram.csv
+    │   ├── drugs-binomial
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── drugs-drugs
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── drugs-gene
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── drugs-genes
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── drugs-plantparts
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── drugs-rice
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── gene
+    │   │   └── histogram.csv
+    │   ├── gene-gene
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── gene.human.count.xml
+    │   ├── gene.human.snippets.xml
+    │   ├── genes
+    │   │   └── histogram.csv
+    │   ├── genes-genes
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── genes-rice
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── plantparts
+    │   │   └── histogram.csv
+    │   ├── plantparts-binomial
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── plantparts-gene
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── plantparts-genes
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── plantparts-plantparts
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── plantparts-rice
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── results
+    │   │   ├── gene
+    │   │   │   └── human
+    │   │   │       └── empty.xml
+    │   │   ├── search
+    │   │   │   ├── 9febrice
+    │   │   │   │   └── empty.xml
+    │   │   │   ├── country
+    │   │   │   │   └── empty.xml
+    │   │   │   ├── drugs
+    │   │   │   │   └── empty.xml
+    │   │   │   └── plantparts
+    │   │   │       └── empty.xml
+    │   │   ├── species
+    │   │   │   └── binomial
+    │   │   │       └── empty.xml
+    │   │   └── word
+    │   │       └── frequencies
+    │   │           └── empty.xml
+    │   ├── rice
+    │   │   └── histogram.csv
+    │   ├── rice-rice
+    │   │   ├── cooccur.csv
+    │   │   └── cooccur.svg
+    │   ├── search.country.count.xml
+    │   ├── search.country.snippets.xml
+    │   ├── search.drugs.count.xml
+    │   ├── search.drugs.snippets.xml
+    │   ├── search.plantparts.count.xml
+    │   ├── search.plantparts.snippets.xml
+    │   ├── search.rice.count.xml
+    │   ├── search.rice.snippets.xml
+    │   ├── species.binomial.count.xml
+    │   ├── species.binomial.snippets.xml
+    │   ├── word.frequencies.count.xml
+    │   └── word.frequencies.snippets.xml
+    ├── count.dataTables.html
+    ├── entries.dataTables.html
+    ├── eupmc_fulltext_html_urls.txt
+    ├── eupmc_results.json
+    ├── full.dataTables.html
+    ├── gene.human.count.xml
+    ├── gene.human.documents.xml
+    ├── gene.human.snippets.xml
+
+    1346 directories, 2699 files
 
 
 
@@ -242,3 +251,6 @@ Manual editing of the dictionary is must to make the search results precious and
 
 
 ## issues
+
+Always try to reduce FPs and get precious to relevant searches. Wikipedia page is not very specific to reseach 
+terms. Try out dictionaries created from Wikipedia List or Wikipedia Category page.  
