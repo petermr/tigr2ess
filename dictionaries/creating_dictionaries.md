@@ -9,7 +9,7 @@ You must have installed AMI and be able to run:
 ```
 ami-dictionary
 ```
-This should output the help. It's long, and we have snipped most of the 25+ options
+This should output the help. It's long, and we have snipped ([...]) most of the 25+ options
 ```
 Usage: ami-dictionary [OPTIONS] [<operation>[,<operation>...]...]
 Description
@@ -84,7 +84,7 @@ Options
   * `--directory`
   * `--hreftext`
   * `--informat`
-  * `--outformats
+  * `--outformats`
   * `--terms`
   * `--input`
  
@@ -99,38 +99,15 @@ Options
 Generic values (AMIDictionaryTool)
 ================================
 basename            null
-cproject            
-ctree               
-cTreeList           null
-dryrun              false
-excludeBase         null
-excludeTrees        null
-file types          []
-forceMake           false
-includeBase         null
-includeTrees        null
-log4j               
-logfile             null
+[...]
 verbose             0
 
 Specific values (AMIDictionaryTool)
 ================================
 dataCols      null
-dictionary    null
-dictionaryTop     null
-href          null
-hrefCols      null
-input         null
-informat      null
-dictInformat  null
-linkCol       null
-log4j         null
-nameCol       null
-operation     help
+[...]
 outformats    [xml]
-splitCol      ,
-termCol       null
-terms         null
+[...]
 wikiLinks     [wikipedia, wikidata]
 
 ```
@@ -139,16 +116,17 @@ wikiLinks     [wikipedia, wikidata]
 
 This is the simplest way. Create a list of terms that are likely to be in Wikipedia and/or Wikidata. Here is an example for monoterpenes.
 `cd` to the place where you want to put the dictionaries.
+
 ## input
 ```
 ami-dictionary create --terms thymol pineol menthol --dictionary myterpenes --directory mydictionaries --outformats xml,html
 ```
 Let's look at the components:
-* `ami-dictionary` runs the command
-* `create` is one of the several parameters that can be used (we'll see others later)
+* `ami-dictionary` runs the command.
+* `create` is one of the several parameters that can be used (we'll see others later).
 * `--terms` requires a list of terms (as many as you like until the next `--`) here `thymol pineol menthol`.
 * `--dictionary myterpenes` creates the `basename` for the output dictionaries.
-* `--directory mydictionaries` the directory where to put the dictionaries. This is relative to where you run the command (unless a full pathname is given, e.g. `/Users/pm286/ContentMine/dictionaries/`
+* `--directory mydictionaries` the directory where to put the dictionaries. This is relative to where you run the command (unless a full pathname is given, e.g. `/Users/pm286/ContentMine/dictionaries/`.
 * `outformats "xml,html"` output dictionaries in various formats. Hers it creates `myterpenes.xml` and `myterpenes.html`. 
 
 ## output
@@ -156,29 +134,20 @@ Let's look at the components:
  ami-dictionary create --terms thymol pineol menthol --dictionary myterpenes --directory mydictionaries --outformats xml,html
 ```
 ### input values
+This echoes the input parameters. (Some are snipped [...]). The important ones are annotated with ** *** **.
 ```
 Generic values (AMIDictionaryTool)
 ================================
 basename            null
-cproject            
-ctree               
-cTreeList           null
-dryrun              false
-excludeBase         null
-excludeTrees        null
-file types          []
-forceMake           false
-includeBase         null
-includeTrees        null
-log4j               
+[...]
 logfile             null
 verbose             0
 
 Specific values (AMIDictionaryTool)
 ================================
 dataCols      null
-dictionary    [myterpenes]
-dictionaryTop     mydictionaries
+dictionary    [myterpenes]  ***
+dictionaryTop     mydictionaries  ***
 href          null
 hrefCols      null
 input         null
@@ -187,12 +156,12 @@ dictInformat  null
 linkCol       null
 log4j         null
 nameCol       null
-operation     create
-outformats    [xml, html]
+operation     create   ***
+outformats    [xml, html]  ***
 splitCol      ,
 termCol       null
 terms         null
-wikiLinks     [wikipedia, wikidata]
+wikiLinks     [wikipedia, wikidata] ***
 ```
 ### output
 ```
