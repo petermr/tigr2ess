@@ -1,13 +1,13 @@
 # Rice Dictionary
-## Compiled by Ambarish (ambari73_sit@jnu.ac.in)
+### Compiled by Ambarish (ambari73_sit@jnu.ac.in)
 
-### overview
+## overview
 Here is the dictionary for Rice (Oryza). It will cover all rice species and related sarch from the wikipedia page weblinks.
 
 The dictionary is created from the Wikipedia page on Rice https://en.wikipedia.org/wiki/Rice and all associated links. 
 Every entry in the dictionary should have a link to another Wikipedia page (and hence to a Wikidata page).
 
-### sources
+## sources
 https://en.wikipedia.org/wiki/Rice
 
 creation from Wikipedia page
@@ -33,9 +33,9 @@ Making it more preciuos for the co-occurance search task I removed almost 94 per
 
 Here is the snippet of dictionaries.
 
-### rice.xml
+## rice.xml
 
-<entry term="List of rice diseases" name="List of rice diseases" url="/wiki/List_of_rice_diseases" id="CM.9febrice.285" wikipedia="List_of_rice_diseases" />
+    <entry term="List of rice diseases" name="List of rice diseases" url="/wiki/List_of_rice_diseases" id="CM.9febrice.285" wikipedia="List_of_rice_diseases" />
 	<entry term="List of rice varieties" name="List of rice varieties" url="/wiki/List_of_rice_varieties" id="CM.9febrice.287" wikipedia="List_of_rice_varieties" />
 	<entry term="monocot" name="monocot" url="/wiki/Monocotyledon" id="CM.9febrice.333" wikipedia="Monocotyledon" />
 	<entry term="New Rices for Africa" name="New Rices for Africa" url="/wiki/New_Rices_for_Africa" id="CM.9febrice.348" wikipedia="New_Rices_for_Africa" />
@@ -55,9 +55,9 @@ Here is the snippet of dictionaries.
 
 
 
-### rice.json
+## rice.json
 
- {
+       {
       {
       "identifiers": {
         "contentmine": "CM.9febrice.287"
@@ -66,8 +66,8 @@ Here is the snippet of dictionaries.
       "term": "List of rice varieties"
     },
    
-   {
-      "identifiers": {
+     {
+             "identifiers": {
         "contentmine": "CM.9febrice.368"
       },
       "name": "Oryza",
@@ -101,10 +101,10 @@ Here is the snippet of dictionaries.
       "name": "Oryza sp.",
       "term": "Oryza sp."
     }
-}
+     }
    
    
-### rice.html
+## rice.html
 
 
   
