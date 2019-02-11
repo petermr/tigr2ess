@@ -274,7 +274,7 @@ Many Wikipedia pages have lists of links to related pages. There are 3 main type
 ## Html lists
 Many pages, especialy for a *genus* of plants, contain a list of related items, here *species*. E.g.
 
-![Ocimum page](./ocimumgenus.png)
+![Ocimum page](https://github.com/petermr/tigr2ess/blob/master/dictionaries/ocimumgenus.png)
 
 
 
