@@ -276,7 +276,7 @@ Many pages, especialy for a *genus* of plants, contain a list of related items, 
 
 ![Ocimum page](../dictionaries/ocimumgenus.png)
 
-![Ocimum page](https://github.com/petermr/tigr2ess/blob/master/dictionaries/ocimumgenus.png)
+![Ocimum page](./ocimumgenus.png)
 
 
 
