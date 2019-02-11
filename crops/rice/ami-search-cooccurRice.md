@@ -2,12 +2,12 @@
 ### Compiled by Ambarish (ambari73_sit@jnu.ac.in)
 ## Here is demonstrated command for ami-search-cooccur using built-in dictionaries.
 
-ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species genes
+ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species gene
 
-built-in dictionaries for country, drugs, plantparts, species and genes are used to get cooccurrance search.
+built-in dictionaries for country, drugs, plantparts, species and gene (human) are used to get cooccurrance search.
 
  
-Search results find cooccurrances between country, drugs, plantparts, species and genes.
+Search results find cooccurrances between country, drugs, plantparts, species and gene (human).
 
 
 ## Run time log 
@@ -53,6 +53,42 @@ XML formatted papers (files) to scholarly HTML formatted files. These files are 
 
 
 ## CProject and CTree
+
+              ├── PMC6222575
+              │   ├── eupmc_result.json
+                  ├── fulltext.pdf
+              │   ├── fulltext.xml
+                  ├── gene.human.count.xml
+              │   ├── gene.human.snippets.xml
+              │   ├── results
+              │   │   ├── gene
+              │   │   │   └── human
+              │   │   │       └── results.xml
+              │   ├── search
+              │   │   │   ├── country
+              │   │   │   │   └── results.xml
+              │   │   │   ├── drugs
+              │   │   │   │   └── empty.xml
+              │   │   │   └── plantparts
+              │   │   │       └── results.xml
+              │   │   ├── species
+              │   │   │   └── binomial
+              │   │   │       └── results.xml
+              │   │   └── word
+              │   │       └── frequencies
+                  │           ├── results.html
+              │   │           └── results.xml
+                  ├── scholarly.html
+              │   ├── search.country.count.xml
+              │   ├── search.country.snippets.xml
+                  ├── search.drugs.count.xml
+              │   ├── search.drugs.snippets.xml
+              │   ├── search.plantparts.count.xml
+              │   ├── search.plantparts.snippets.xml
+                  ├── species.binomial.count.xml
+              │   ├── species.binomial.snippets.xml
+              │   ├── word.frequencies.count.xml
+              │   └── word.frequencies.snippets.xml
 
 
 
