@@ -95,6 +95,119 @@ XML formatted papers (files) to scholarly HTML formatted files. These files are 
 
 ## Cooccurrance results
 
+             ├── commonest.dataTables.html
+             ├── cooccurrence
+             │   ├── binomial
+             │   │   └── histogram.csv
+             │   ├── binomial-binomial
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── binomial-gene
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── binomial-genes
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── country
+             │   │   └── histogram.csv
+             │   ├── country-binomial
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── country-country
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── country-drugs
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── country-gene
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── country-genes
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── country-plantparts
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── drugs
+             │   │   └── histogram.csv
+             │   ├── drugs-binomial
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── drugs-drugs
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── drugs-gene
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── drugs-genes
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── drugs-plantparts
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── gene
+             │   │   └── histogram.csv
+             │   ├── gene-gene
+                 │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── gene.human.count.xml
+             │   ├── gene.human.snippets.xml
+             │   ├── genes
+             │   │   └── histogram.csv
+             │   ├── genes-genes
+             │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── plantparts
+             │   │   └── histogram.csv
+             │   ├── plantparts-binomial
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── plantparts-gene
+         │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+                 ├── plantparts-genes
+             │   │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── plantparts-plantparts
+                 │   ├── cooccur.csv
+             │   │   └── cooccur.svg
+             │   ├── results
+             │   │   ├── gene
+             │   │   │   └── human
+             │   │   │       └── empty.xml
+             │   │   ├── search
+             │   │   │   ├── country
+             │   │   │   │   └── empty.xml
+             │   │   │   ├── drugs
+             │   │   │   │   └── empty.xml
+             │   │   │   └── plantparts
+             │   │   │       └── empty.xml
+             │   │   ├── species
+             │   │   │   └── binomial
+             │   │   │       └── empty.xml
+             │   │   └── word
+             │   │       └── frequencies
+             │   │           └── empty.xml
+             │   ├── search.country.count.xml
+             │   ├── search.country.snippets.xml
+             │   ├── search.drugs.count.xml
+             │   ├── search.drugs.snippets.xml
+                 ├── search.plantparts.count.xml
+             │   ├── search.plantparts.snippets.xml
+             │   ├── species.binomial.count.xml
+             │   ├── species.binomial.snippets.xml
+             │   ├── word.frequencies.count.xml
+                 │   └── word.frequencies.snippets.xml
+                 ├── count.dataTables.html
+                 ├── entries.dataTables.html
+                 ├── eupmc_fulltext_html_urls.txt
+                 ├── eupmc_results.json
+                 ├── full.dataTables.html
+                 ├── gene.human.count.xml
+                 ├── gene.human.documents.xml
+                 ├── gene.human.snippets.xml
+
+
 ## Discussions
 
 ## issues
