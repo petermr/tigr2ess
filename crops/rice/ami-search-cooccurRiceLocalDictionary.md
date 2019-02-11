@@ -22,9 +22,16 @@ For the check or test-run let's try to get cooccurance between self i.e local ri
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ /home/ambarish123/rice.xml 
 
 Similary one may go for another dictionary created from Wikipedia Category or Wikipedia List page.
-Sources - https://en.wikipedia.org/wiki/Category:Rice_varieties
-        - https://en.wikipedia.org/wiki/Category:Oryza
-        - https://en.wikipedia.org/wiki/List_of_rice_varieties
+
+Sources 
+
+https://en.wikipedia.org/wiki/Category:Rice_varieties
+
+https://en.wikipedia.org/wiki/Category:Oryza
+
+https://en.wikipedia.org/wiki/List_of_rice_varieties
+
+
 ## Run time log
     
      1992 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [country]
