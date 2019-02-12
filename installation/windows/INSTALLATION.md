@@ -54,7 +54,7 @@ If exported or installed correctly. It will list out all tool help and usage inf
 
 ## issues
 
-Steps for setting environment PATH variable may slightly differ from one platform to another. Always try to locate systems setting followed by advanced system setting. 
+Steps for setting environment PATH variable may slightly differ from one platform to another. Always try to locate systems setting followed by advanced system settings. 
 
 
 ## Commandline problems 
