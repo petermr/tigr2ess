@@ -21,7 +21,7 @@ This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
 
 <table>
-<tr><td><img src="./wp_taxonomy.png" height="50%">/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td></tr>
+<tr><td><img src="./wp_taxonomy.png" height="50%"/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td></tr>
 </table>
 
 
