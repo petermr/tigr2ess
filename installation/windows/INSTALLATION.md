@@ -4,13 +4,13 @@
 
 ### nvm-windows (Node virtual manager for Windows)
 
-Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases and download nvm-setup.zip for the latest version.
+- Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases and download nvm-setup.zip for the latest version.
 Unzip the downloaded file and run the included installer.
 Run following commands over windows command-prompt.
 
 > nvm install 7
 
-Check for the installed node version and enable nvm to use installed node. Run the following command.
+- Check for the installed node version and enable nvm to use installed node. Run the following command.
 
 >nvm on
 
@@ -23,7 +23,7 @@ Check for the installed node version and enable nvm to use installed node. Run t
 
 > npm install --global getpapers
 
-3. Set environment variables to access installed getpapers tools.
+- Set environment variables to access installed getpapers tools.
 
 For example on my laptop it is installed into following directory.
 C:\Users\hadoop_pc\AppData\Roaming\npm
