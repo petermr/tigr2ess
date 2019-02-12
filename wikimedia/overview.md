@@ -45,10 +45,12 @@ https://en.wikipedia.org/wiki/Menthol
 
 Note the huge *infobox* on the right. This contains:
 <table>
-<tr><td><img src="./wp_structure.png"/></td>
+<tr>
+  <td><img src="./wp_formula.png"/></td>
   <td><img src="./wp_names.png"/>)</td>
   <td><img src="./wp_chemids.png"/></td>
-  <td><img src="./wp_properties.png"/></td></tr>
+  <td><img src="./wp_properties.png"/></td>
+  </tr>
 </table>
 
 
