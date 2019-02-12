@@ -61,6 +61,7 @@ This contains a list, arranged as a table:
 <img src="./wp_listofspices.png"/>
 
 This table will be very useful later.
+<img src="./wp_listofspicestable.png"/>
 
 
 
