@@ -61,9 +61,14 @@ This contains a list, arranged as a table:
 
 <table><tr><td><img src="./wp_list2.png"/></td></tr></table>
 
-This table will be very useful later.
+These types of table-list will be very useful later.
 
 ## Wikipedia category page
+
+https://en.wikipedia.org/wiki/Category:Millets
+
+![](./wp_categorymillet.png)
+
 
 
 
