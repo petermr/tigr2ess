@@ -1,6 +1,6 @@
 # Installation hints
 
-## installing ContentMine TDM softwares over Windows
+## Installing ContentMine TDM softwares over Windows
 
 ### nvm-windows (Node virtual manager for Windows)
 
