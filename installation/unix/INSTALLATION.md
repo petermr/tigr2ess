@@ -34,7 +34,9 @@ Before using the node, go to enable it. Run the following command over the termi
 
 If it ask for another version of node apart from 7.0.0. Go for running following command.
 
-> nvm use 7.x.x (7.x.x - installed version of node) 
+> nvm use 7.x.x 
+
+(7.x.x - installed version of node) 
 
 - step 3: installing a node tool.
 
