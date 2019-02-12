@@ -25,9 +25,9 @@ After you've closed and re-opened your terminal, you'll need to tell nvm to inst
 
 >nvm install 7
 
-Check for the installed node version and enable it. Run following command over terminal.
+Check for the installed node version and enable nvm to use installed node. Run following command over terminal.
 
->node on
+>nvm on
 
 >nvm use 7.x.x
 
