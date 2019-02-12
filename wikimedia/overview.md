@@ -19,14 +19,17 @@ The first sentence of the entry/page is very useful, especially when creating di
 ![](./wp_header.png)
 This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
+
 <table>
 <tr><td>![](./wp_taxonomy.png)</td><td>![](./wp_synonyms.png)</td></tr>
 </table>
-![](./wp_taxonomy.png
+
+![](./wp_taxonomy.png)
+
 ### classifcations (bottom)
-![](./wp_listofspices.png)<br/>
-![](./wp_identifiers.png)<br/>
-![](./wp_categories.png)<br/>
+![](./wp_listofspices.png)
+![](./wp_identifiers.png)
+![](./wp_categories.png)
 
 ## Wikipedia for Menthol (phytochemical)
 https://en.wikipedia.org/wiki/Menthol
