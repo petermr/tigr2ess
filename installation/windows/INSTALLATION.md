@@ -10,11 +10,11 @@ Run following commands over windows command-prompt.
 
 > nvm install 7
 
-Check for the installed node version and enable it. Run the following command.
+Check for the installed node version and enable nvm to use installed node. Run the following command.
 
->node on
+>nvm on
 
-> nvm use 7.x.x
+>nvm use 7.x.x
 
 (7.x.x is the installed version of the node)
 
