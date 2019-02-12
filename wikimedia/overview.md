@@ -22,6 +22,7 @@ This shows disambiguation, and the first line shows synonyms.
 <table>
 <tr><td>![](./wp_taxonomy.png)</td><td>![](./wp_synonyms.png)</td></tr>
 </table>
+![](./wp_taxonomy.png
 ### classifcations (bottom)
 ![](./wp_listofspices.png)<br/>
 ![](./wp_identifiers.png)<br/>
