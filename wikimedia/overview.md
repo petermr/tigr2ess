@@ -5,6 +5,8 @@ extension. It provides structured precise knowledge for machines to process and 
 databases (e.g. MESH) have been integrated. The plant taxonomy support is good and many of the identifier systems (USDA, GBIF, ITIS ... at least 25) have been 
 incorporated.
 
+<table><tr><td><img src="./wp_list2.png"/></td></tr></table>
+
 We will use *Ocimum sanctum* as our example.
 
 ## Wikipedia for *O. Sanctum* (plant)
@@ -67,7 +69,7 @@ These types of table-list will be very useful later.
 
 https://en.wikipedia.org/wiki/Category:Millets
 
-![alt-text](./wp_categorymillet.png "alt")
+![](./wp_categorymillet.png)
 
 
 
