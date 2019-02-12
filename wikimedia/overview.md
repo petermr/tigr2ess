@@ -60,6 +60,9 @@ This contains a list, arranged as a table:
 
 <img src="./wp_listofspicestable.png"/>
 
+![](./wp_listofspicestable.png)
+
+
 This table will be very useful later.
 
 
