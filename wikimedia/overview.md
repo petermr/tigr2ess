@@ -67,7 +67,7 @@ These types of table-list will be very useful later.
 
 https://en.wikipedia.org/wiki/Category:Millets
 
-![](./wp_categorymillet.png)
+![alt-text](./wp_categorymillet.png "alt")
 
 
 
