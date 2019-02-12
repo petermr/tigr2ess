@@ -58,10 +58,9 @@ Note the huge *infobox* on the right. This contains:
 
 This contains a list, arranged as a table:
 
-<img src="./wp_listofspices.png"/>
+<table><tr><td><img src="./wp_list2.png"/></td></tr></table>
 
 This table will be very useful later.
-<img src="./wp_list2.png"/>
 
 
 
