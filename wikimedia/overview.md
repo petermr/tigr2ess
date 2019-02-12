@@ -40,11 +40,16 @@ categories:
 ![](./wp_categories.png)
 
 ## Wikipedia for Menthol (phytochemical)
-https://en.wikipedia.org/wiki/Menthol
-Note the huge *infobox* on the right. This contains:
-<tr><td>![](./wp_structure.png)</td><td>![](./wp_names.png)</td><td>![](./wp_chemids.png)</td><td>![](./wp_properties
-.png)</td></tr>
 
+https://en.wikipedia.org/wiki/Menthol
+
+Note the huge *infobox* on the right. This contains:
+<table>
+<tr><td><img src="./wp_structure.png"/></td>
+  <td><img src="./wp_names.png"/>)</td>
+  <td><img src="./wp_chemids.png"/></td>
+  <td><img src="./wp_properties.png"/></td></tr>
+</table>
 
 
 
