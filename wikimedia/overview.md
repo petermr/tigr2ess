@@ -54,7 +54,8 @@ Note the huge *infobox* on the right. This contains:
 </table>
 
 ## Wikipedia list page:
-**https://en.wikipedia.org/wiki/List_of_Indian_spices**
+
+https://en.wikipedia.org/wiki/List_of_Indian_spices
 
 This contains a list, arranged as a table:
 
@@ -62,6 +63,7 @@ This contains a list, arranged as a table:
 
 This table will be very useful later.
 
+## Wikipedia category page
 
 
 
