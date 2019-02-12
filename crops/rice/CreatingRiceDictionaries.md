@@ -148,21 +148,21 @@ In general one may go for only required options along with the create operation 
 
 Brief description of the used options into the command-line.
 
-ami-dictionary - tool name.
+- ami-dictionary - tool name.
 
-create - name of the operation (operation to create dictioanry)
+- create - name of the operation (operation to create dictioanry)
 
---hreftext - option to retrieve hyperlink from wikipedia or wikidata page.
+- --hreftext - option to retrieve hyperlink from wikipedia or wikidata page.
 
---input - option to pass-on wikipedia page weblink. e.g https://en.wikipedia.org/wiki/Rice\
+- --input - option to pass-on wikipedia page weblink. e.g https://en.wikipedia.org/wiki/Rice\
 
---informat - option to input format ( it may vary as per the search page content i.e wikitable or wikicontent or wikipage) here used value is wikipage.
+- --informat - option to input format ( it may vary as per the search page content i.e wikitable or wikicontent or wikipage) here used value is wikipage.
 
---dictionary  - option for the base name of the dictionary file e.g - rice.
+- --dictionary  - option for the base name of the dictionary file e.g - rice.
 
---outformats - option for the output file format e.g - xml,json or html.
+- --outformats - option for the output file format e.g - xml,json or html.
 
-These are required options and operations which will further be used into next commands with some modifications to 
+- These are required options and operations which will further be used into next commands with some modifications to 
 --informat and --input wikipedia page weblink. Please refer the related documentation over teh repository.
    
 
