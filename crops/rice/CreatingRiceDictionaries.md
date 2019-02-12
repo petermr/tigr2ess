@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Rice
 creation from Wikipedia page
 ami-dictionary was run on the Wikipedia page https://en.wikipedia.org/wiki/Rice
 
-    ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
+    ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
 	
 Description of command-line options and parameters along with usage help.
 
@@ -215,7 +215,7 @@ This creates a dictionary of all Wikipedia links in the page.
 Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Category:Rice_varieties with some changes into 
 --informat option of command-line.
 
-          ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary Rice_varieties_category --outformats xml,json,html
+          ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary Rice_varieties_category --outformats xml,json,html
 
 ## Run time log for above command
                                             
@@ -224,7 +224,7 @@ Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Catego
 Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Category:Oryza with some changes to 
 --informat option of command-line.
 
-         ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
+         ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
 		
 ## Run time log for above command
 
@@ -236,7 +236,7 @@ Generic values and specific values to the command-line are same as stated into a
 Alternately, one may create dictionary from https://en.wikipedia.org/wiki/List_of_rice_varieties
 with some changes to --informat option of command-line.
         
-	 ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html
+	 ami-dictionary create --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html
 
 In above command  --informat option should have been to wikitable but the source page does not
 contain any table so keep it as of wikipage option.
