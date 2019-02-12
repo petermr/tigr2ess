@@ -21,10 +21,9 @@ This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
 
 <table>
-<tr><td><img src="./wp_taxonomy.png"/></td><td><img src="./wp_synonyms.png"/></td></tr>
+<tr><td><img src="./wp_taxonomy.png" height="50%">/></td><td><img src="./wp_synonyms.png"/></td></tr>
 </table>
 
-![](./wp_taxonomy.png)
 
 ### classifcations (bottom)
 ![](./wp_listofspices.png)
