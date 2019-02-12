@@ -6,7 +6,7 @@
 **1.Home Page of wikiFactMine**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/wikiFactMine_SPARQL_homepage.png)
+![](./wikiFactMine_SPARQL_homepage.png)
 
 *This page having many WFM(wikiFactMine)Dictionaries with their Numbers*
 
