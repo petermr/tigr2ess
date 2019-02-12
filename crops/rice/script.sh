@@ -1,4 +1,4 @@
-ami-dictionaries create --hreftext --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary Rice --outformats xml,json,html
+ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary Rice --outformats xml,json,html
 
 ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary Rice_varieties_category --outformats xml,json,html
 
