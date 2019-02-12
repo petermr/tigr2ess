@@ -35,9 +35,13 @@ Check for the installed node version and enable nvm to use installed node. Run f
 
 >nvm alias default 7.x.x
 
-- installing a node tool:
+- installing a node tool (getpapers):
 
 >npm install --global some-node-tool
+
+e.g - getpapers should be passed-on in place of some-node-tool.
+
+>npm install --global getpapers
 
 ## Installation of ami plugins/tools
 
