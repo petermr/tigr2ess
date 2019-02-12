@@ -73,4 +73,7 @@ Command will return absolute path of bin directory containing ami plugins/tools.
 If exported or installed correctly. It will list out all tool help and usage information.
 
 
+Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. Please download and install.
+
+
 
