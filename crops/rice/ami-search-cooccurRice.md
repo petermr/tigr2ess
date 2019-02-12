@@ -6,9 +6,11 @@ ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species 
 
 Short description of the command-line options are as follows.
 
-ami-search-cooccur - tool name.
-rice - CProject folder name.
-country, drugs, palntparts, species, gene - built-in dictionaries and search terms. These have to 
+- ami-search-cooccur - tool name.
+
+- rice - CProject folder name.
+
+- country, drugs, palntparts, species, gene - built-in dictionaries and search terms. These have to 
 be placed white-space seperated.
 
 built-in dictionaries for country, drugs, plantparts, species and gene (human) are used to get cooccurrance search.
