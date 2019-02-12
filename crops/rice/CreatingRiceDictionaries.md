@@ -162,8 +162,8 @@ Brief description of the used options into the command-line.
 
 - --outformats - option for the output file format e.g - xml,json or html.
 
-- These are required options and operations which will further be used into next commands with some modifications to 
---informat and --input wikipedia page weblink. Please refer the related documentation over teh repository.
+These are required options and operations which will further be used into command-lines with some modifications to 
+--informat and --input wikipedia page weblink. Please refer the related documentation over the repository.
    
 
 ## Run time log for above command
@@ -243,7 +243,7 @@ Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Catego
 		
 ## Run time log for above command
 
-Generic values and specific values to the command-line is same as stated into above one. (with some modifications into --informat  and --input for search link.)
+Generic values and specific values to the command-line are same as stated into above one. (with some modifications into --informat  and --input for search link.)
 
     >CM.rice.0>CM.rice.1>CM.rice.2>CM.rice.3>CM.rice.4>CM.rice.5>CM.rice.6>CM.rice.7>CM.rice.8>CM.rice.9>CM.rice.10>CM.rice.11>CM.rice.12>CM.rice.13>CM.rice.14>CM.rice.15>CM.rice.16>CM.rice.17>CM.rice.18>CM.rice.19>CM.rice.20>CM.rice.21>CM.rice.22>CM.rice.23>CM.rice.24>CM.rice.25>CM.rice.26>CM.rice.27>CM.rice.28>CM.rice.29>CM.rice.30>CM.rice.31>CM.rice.32>CM.rice.33>CM.rice.34>CM.rice.35>CM.rice.36>CM.rice.37>CM.rice.38>CM.rice.39>CM.rice.40>CM.rice.41>CM.rice.42>CM.rice.43>CM.rice.44>CM.rice.45>CM.rice.46>CM.rice.47>CM.rice.48>CM.rice.49>CM.rice.50>CM.rice.51>CM.rice.52>CM.rice.53>CM.rice.54>CM.rice.55>CM.rice.56 !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0! ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
