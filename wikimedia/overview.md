@@ -26,8 +26,17 @@ This shows disambiguation, and the first line shows synonyms.
 
 
 ### classifcations (bottom)
+
+list:
+
 ![](./wp_listofspices.png)
+
+identifiers:
+
 ![](./wp_identifiers.png)
+
+categories:
+
 ![](./wp_categories.png)
 
 ## Wikipedia for Menthol (phytochemical)
