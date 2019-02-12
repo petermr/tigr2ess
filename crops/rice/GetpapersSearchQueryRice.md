@@ -1,6 +1,6 @@
-# Getpapers for Rice
+# getpapers for Rice
 
-Firstmost required step for ContentMine text data mining (TDM) is to download scientific journals from the specified APIs.
+Firstmost required step for ContentMine text data mining (TDM) is to download scientific articles. from the specified APIs.
 
 Getpapers command is to download scientific journals into xml, json or pdf format.
 
