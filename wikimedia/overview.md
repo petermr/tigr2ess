@@ -53,6 +53,12 @@ Note the huge *infobox* on the right. This contains:
   </tr>
 </table>
 
+## Wikipedia list page:
+**https://en.wikipedia.org/wiki/List_of_Indian_spices**
+
+This contains a list, arranged as a table:
+<img src="listofspices.png"/>
+
 
 
 
