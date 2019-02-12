@@ -57,7 +57,9 @@ Note the huge *infobox* on the right. This contains:
 **https://en.wikipedia.org/wiki/List_of_Indian_spices**
 
 This contains a list, arranged as a table:
-<img src="listofspices.png"/>
+<img src="listofspicestable.png"/>
+This table will be veru useful later.
+
 
 
 
