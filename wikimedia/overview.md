@@ -5,6 +5,8 @@ extension. It provides structured precise knowledge for machines to process and 
 databases (e.g. MESH) have been integrated. The plant taxonomy support is good and many of the identifier systems (USDA, GBIF, ITIS ... at least 25) have been 
 incorporated.
 
+<table><tr><td><img src="./wp_list2.png"/></td></tr></table>
+
 We will use *Ocimum sanctum* as our example.
 
 ## Wikipedia for *O. Sanctum* (plant)
@@ -19,19 +21,55 @@ The first sentence of the entry/page is very useful, especially when creating di
 ![](./wp_header.png)
 This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
+
 <table>
-<tr><td>![](./wp_taxonomy.png)</td><td>![](./wp_synonyms.png)</td></tr>
+<tr><td><img src="./wp_taxonomy.png" height="50%"/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td></tr>
 </table>
+
+
 ### classifcations (bottom)
-![](./wp_listofspices.png)<br/>
-![](./wp_identifiers.png)<br/>
-![](./wp_categories.png)<br/>
+
+list:
+
+![](./wp_listofspices.png)
+
+identifiers:
+
+![](./wp_identifiers.png)
+
+categories:
+
+![](./wp_categories.png)
 
 ## Wikipedia for Menthol (phytochemical)
+
 https://en.wikipedia.org/wiki/Menthol
+
 Note the huge *infobox* on the right. This contains:
-<tr><td>![](./wp_structure.png)</td><td>![](./wp_names.png)</td><td>![](./wp_chemids.png)</td><td>![](./wp_properties
-.png)</td></tr>
+<table>
+<tr>
+  <td><img src="./wp_formula.png"/></td>
+  <td><img src="./wp_names.png"/>)</td>
+  <td><img src="./wp_chemids.png"/></td>
+  <td><img src="./wp_properties.png"/></td>
+  </tr>
+</table>
+
+## Wikipedia list page:
+
+https://en.wikipedia.org/wiki/List_of_Indian_spices
+
+This contains a list, arranged as a table:
+
+<table><tr><td><img src="./wp_list2.png"/></td></tr></table>
+
+These types of table-list will be very useful later.
+
+## Wikipedia category page
+
+https://en.wikipedia.org/wiki/Category:Millets
+
+![](./wp_categorymillet.png)
 
 
 
