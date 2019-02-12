@@ -15,18 +15,18 @@
 **2.Dictionaries No. and way to choose them**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/select_Dict_106.png)
+![](./select_Dict_106.png)
 
 
 
 **3.In screen shot red color box represent that where and how we can put query**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/put_query_and_run.png)
+![](./put_query_and_run.png)
 
 **4.Open wikiData query service page**
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/homepage_wikidata_query_service.png)
+![](./homepage_wikidata_query_service.png)
 
 
 **5.Example of plant taxon "Laurales" in WFM dictionary No 106**
@@ -34,30 +34,30 @@
 *In red highlighted are we show how query look and with blue button we can run it*
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/plant_taxon_Laurales_results.png)
+![](./plant_taxon_Laurales_results.png)
 
 
 **6.Example of Wheat having wikidata and taxon poales**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/wheat_wikifactMine.png)
+![](./epmcSearches/wheat_wikifactMine.png)
 
 
 **7.Using Rice having higher plant taxon poales and wikidata id:Q5090** 
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/Rice_wikiFactMine.png)
+![](./epmcSearches/Rice_wikiFactMine.png)
 
 
 **8.Using canidae we can create Treemap in wikifactMine**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/canidae_treemap.png)
+![](./epmcSearches/canidae_treemap.png)
 
 
 **9.Ocimum family wikiFactmine Query**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/Ocimum_family_results.png)
+![](./epmcSearches/Ocimum_family_results.png)
 
 
