@@ -39,11 +39,12 @@ C:\Users\hadoop_pc\AppData\Roaming\npm
 - Set environment variable to access the bin directory (containing ami plugins or tools) of          software package.  
 
 - To set environment variable in Windows - 08.
--- From the desktop, right click the Computer icon.
--- Choose System from the context menu.
--- Click the Advanced system settings link.
--- Click new option into user variables for desktop.
--- Set variable name (environment variable name) and value (absolute path value).
+  
+       - From the desktop, right click the Computer icon.
+       - Choose System from the context menu.
+       - Click the Advanced system settings link.
+       - Click new option into user variables for desktop.
+       - Set variable name (environment variable name) and value (absolute path value).
 
 - Check for the installation.
               
