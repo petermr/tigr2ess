@@ -28,7 +28,7 @@ Check for the version of installed node.
 
 Before using the node, go to enable it. Run the following command over the terminal.
 
-> nvm on
+> node on
 
 > nvm use 7
 
