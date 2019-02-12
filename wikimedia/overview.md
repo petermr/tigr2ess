@@ -58,12 +58,7 @@ Note the huge *infobox* on the right. This contains:
 
 This contains a list, arranged as a table:
 
-<img src="./wp_listofspicestable.png"/>
-
-markdown
-
-![](./wp_listofspicestable.png)
-
+<img src="./wp_listofspices.png"/>
 
 This table will be very useful later.
 
