@@ -7,7 +7,7 @@ Contentmine is an open-source software suite for text data mining (content minin
 
 ## Installation
 
-Tools are enabled for various computational platforms - Windows as well as Linux. Separate installation steps are discussed here.
+Tools are enabled for various computational platforms - Windows, Linux as well as MacOS. Separate installation steps are discussed here.
 
 ### Getpapers installation over windows.
 - step 1: Installing nvm-windows.
