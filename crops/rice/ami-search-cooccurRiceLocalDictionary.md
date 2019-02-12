@@ -1,6 +1,6 @@
 # ami-search-cooccur for rice project using local dictionaries.
 
-### Compiled by Ambarish (ambari73_sit@jnu.ac.in)
+### Compiled by Ambarish (ambari73_sit@jnu.ac.in, er.ambarish@nipgr.ac.in)
 
 ## Here is demonstrated search using ami-search-cooccur and local dictionary.
 
@@ -46,7 +46,7 @@ Sources:
      2005 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: species ...  subOptions: [binomial]
           option flags: []
      2009 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - cmd: search(genes)
-     2012 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [genes]
+     2012 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [genes], 
           option flags: []
      2012 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - cmd: search(/home/ambarish123/rice.xml)
      2013 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [/home/ambarish123/rice.xml]
