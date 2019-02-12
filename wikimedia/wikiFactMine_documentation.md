@@ -40,24 +40,24 @@
 **6.Example of Wheat having wikidata and taxon poales**
 
 
-![](./epmcSearches/wheat_wikifactMine.png)
+![](./wheat_wikifactMine.png)
 
 
 **7.Using Rice having higher plant taxon poales and wikidata id:Q5090** 
 
 
-![](./epmcSearches/Rice_wikiFactMine.png)
+![](./Rice_wikiFactMine.png)
 
 
 **8.Using canidae we can create Treemap in wikifactMine**
 
 
-![](./epmcSearches/canidae_treemap.png)
+![](./canidae_treemap.png)
 
 
 **9.Ocimum family wikiFactmine Query**
 
 
-![](./epmcSearches/Ocimum_family_results.png)
+![](./Ocimum_family_results.png)
 
 
