@@ -7,7 +7,7 @@
 Short description of the dictionary and usage.
 
 Dictionary is created from the wikipedia page of the Rice. Source - https://en.wikipedia.org/wiki/Rice
-It contains all rice varities, Oryza species, rice diseases and closely associated terminologies to rice research like monocot or 
+It contains all rice varieties, Oryza species, rice diseases and closely associated terminologies to rice research like monocot or 
 glutan.
 
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species genes /home/ambarish123/rice.xml
@@ -23,13 +23,13 @@ For the check or test-run let's try to get cooccurance between self i.e local ri
 
 Similary one may go for another dictionary created from Wikipedia Category or Wikipedia List page.
 
-Sources 
+Sources: 
 
-https://en.wikipedia.org/wiki/Category:Rice_varieties
+- https://en.wikipedia.org/wiki/Category:Rice_varieties
 
-https://en.wikipedia.org/wiki/Category:Oryza
+- https://en.wikipedia.org/wiki/Category:Oryza
 
-https://en.wikipedia.org/wiki/List_of_rice_varieties
+- https://en.wikipedia.org/wiki/List_of_rice_varieties
 
 
 ## Run time log
@@ -241,7 +241,7 @@ Here is tree structure for the cooccurance results.
 
 ## Run time and memory requirements
 Storage space requirements for the project folder containing papers and all cooccurance results over the disk is around 324 MB.
-Total elapsed time for the execution of the ami-search-cooccur is around -- seconds.
+Total elapsed time for the execution of the ami-search-cooccur is around 160-190 seconds.
 ## Cooccurance and search results
 
 Here is screenshots of tables containg common-cooccurance results. Cooccurance is found among self and with 
