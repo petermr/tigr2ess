@@ -1,5 +1,5 @@
 # Rice Dictionary
-### Compiled by Ambarish (ambari73_sit@jnu.ac.in)
+### Compiled by Ambarish (ambari73_sit@jnu.ac.in, er.ambarish@nipgr.ac.in)
 
 ## overview
 Here is the dictionary for Rice (Oryza). It will cover all rice species and related sarch from the wikipedia page weblinks.
