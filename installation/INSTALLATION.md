@@ -5,7 +5,7 @@ This covers the installation and any problems relating to
  * `ami`
 
 ## installing 
-(Ambarish - please add instructions here)
+
 ## installation over unix, windows, macOSX
 ### unix
 #### Installation hints
