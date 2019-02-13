@@ -14,13 +14,13 @@ This covers the installation and any problems relating to
 
 Pre-requisites are installation of node and node virtual manager.
 
-###### installing nvm, node and node tool (getpapers).
+###### installing nvm, node and node tool (`getpapers`).
 
-- step 1: Installing nvm  
+- step 1: Installing `nvm` 
 
 >crl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
-Make sure of curl installation. (sudo apt-get install curl).
+Make sure of curl installation. (sudo apt-get install `curl`).
 
 or
 
@@ -46,7 +46,7 @@ Enable nvm to use installed node. Run the following command.
 
 (7.x.x - installed version of node) 
 
-- step 3: installing a node tool (getpapers).
+- step 3: installing a node tool (`getpapers`).
 
 >npm install --global getpapers
 
@@ -62,8 +62,8 @@ Enable nvm to use installed node. Run the following command.
 
 - Set environmental variable to access the ami plugins (tools)
 
-Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190115/bin/ or 
-../ami-jar/ami20190211/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
+Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190212a/bin/ or 
+../ami-jar/ami20190212a/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
 
 > export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
 
@@ -87,13 +87,15 @@ Full instructions for installation and use are given at http://github.com/conten
 
 #### nvm-windows (Node virtual manager for Windows)
 
-- Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases and download nvm-setup.zip for the latest version.
+- Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases and download `nvm-setup.zip` for the latest version.
+
 Unzip the downloaded file and run the included installer.
+
 Run following commands over windows command-prompt.
 
 > nvm install 7
 
-- Check for the installed node version and enable nvm to use installed node. Run the following command.
+- Check for the installed node version and enable `nvm` to use installed node. Run the following command.
 
 >nvm on
 
@@ -102,7 +104,7 @@ Run following commands over windows command-prompt.
 (7.x.x is the installed version of the node)
 
 
-#### installing a node tool (getpaper)
+#### installing a node tool (`getpaper`)
 
 > npm install --global getpapers
 
@@ -118,16 +120,19 @@ C:\Users\hadoop_pc\AppData\Roaming\npm
 
 > mkdir AMI
   
-- Get the ami software package into the directory.          
-- Set environment variable to access the bin directory (containing ami plugins or tools) of          software package.  
+- Get the ami software package into the directory.     
+
+- Set environment variable to access the bin directory (containing ami plugins or tools) of software package.  
 
 - To set environment variable in Windows - 08.
-  
+  ```
        - From the desktop, right click the Start menu.
        - Choose System from the context menu.
        - Click the Advanced system settings link.
        - Click new option into user variables for desktop.
        - Set variable name (environment variable name) and value (absolute path value).
+       
+  ```
 
 - Check for the installation.
               
@@ -144,13 +149,13 @@ If you're on macOS/OSX, you'll need to install either:
 
 - XCode, Apple's developer environent, free from the mac App Store
 - the command-line developer tools.
-#### installing nvm, node and node tool (getpapers)
+#### installing nvm, node and node tool (`getpapers`)
 
 Open a terminal and run this command:
 
 - curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
-If it fails because you don't have curl installed, try using wget instead:
+If it fails because you don't have `curl` installed, try using wget instead:
 
 - wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
@@ -158,11 +163,11 @@ Follow the instructions that appear in the terminal - it will ask you to close t
 
 - installing node
 
-After you've closed and re-opened your terminal, you'll need to tell nvm to install the latest version of Node, and set it as default:
+After you've closed and re-opened your terminal, you'll need to tell nvm to install the latest version of `Node`, and set it as default:
 
 >nvm install 7
 
-Check for the installed node version and enable nvm to use installed node. Run following command over terminal.
+Check for the installed node version and enable `nvm` to use installed node. Run following command over terminal.
 
 >nvm on
 
@@ -172,7 +177,7 @@ Check for the installed node version and enable nvm to use installed node. Run f
 
 >nvm alias default 7.x.x
 
-- installing a node tool (getpapers):
+- installing a node tool (`getpapers`):
 
 >npm install --global some-node-tool
 
@@ -192,10 +197,10 @@ e.g - getpapers should be passed-on in place of some-node-tool.
 
 - Set environmental variable to access the ami plugins (tools)
 
-Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190115/bin/ or 
-../ami-jar/ami20190211/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
+Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190212a/bin/ or 
+../ami-jar/ami20190212a/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
 
-> export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
+> export PATH=$PATH:/absolute path/ami-jar/ami20190212a/bin/
 
 
 - Check for the set path.
