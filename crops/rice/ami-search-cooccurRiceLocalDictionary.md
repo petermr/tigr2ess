@@ -248,22 +248,22 @@ Total elapsed time for the execution of the ami-search-cooccur is around `10-12 
 
 #### screenshots of tables containg common-cooccurance results.
 
-`commonest.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire Rice CProject. Table contains article wise information about cooccurences among `country`, `drugs`, `gene`, `plantparts` and `species`.  
+`commonest.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire Rice CProject. Table contains article wise information about cooccurences among self i.e Rice vs Rice.  
  
   ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTablesRice-Rice.html.png)
 Cooccurance is found among self and with respect to each search term.
 
- * `count.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire CProject containing artile wise count of search terms - `country`,`gene`, `species`, `drugs` and `plantparts` along with frequency of most occurred term into scientific article.     
+ * `count.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire CProject containing artile wise count of most occurred term into scientific article.     
  
  ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.dataTablesRice-Rice.html.png)
 
-* `entries.dataTablesRice-Rice.html.png` -  Cooccurence table formed from entire CProject containing artile wise count of search terms as an entry - `country`,`gene`, `species`, `drugs` and `plantparts` along with frequency of most occurred term into scientific article. 
+* `entries.dataTablesRice-Rice.html.png` -  Cooccurence table formed from entire CProject containing artile wise count of most occurred term into scientific article as an entry. 
  
  ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.dataTablesRice-Rice.html.png)
  
 ## Discussions
 Local dictionary gives us customisation into the search results. Along with the built-in dictionaries
-it augment addition information from the local dictionaries. Dictionaries can be formed as per the decided 
+it augments additional information from the local dictionaries. Dictionaries can be formed as per the decided 
 terms like research `institutes`, `phytochemicals`, `germs`, `insecticides`, `diseases` etc.
 
 Source of the dictionary creation may vary like `wikipedia page`, `wikicategory` or `wikilist`.
@@ -275,4 +275,4 @@ Manual editing of the dictionary is must to make the search results precious and
 
 Always try to reduce `FPs` and get precious to relevant searches. `Wikipedia` page is not very specific to reseach 
 terms. Try out dictionaries created from `Wikipedia List` or `Wikipedia Category` page. Repository contains dictionaries created from 
-`Wikipedia List` https://github.com/petermr/tigr2ess/blob/master/crops/rice/List_Rice_Varieties.xml and `Wikipedia Category` https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice_Varieties_Category.xml or https://github.com/petermr/tigr2ess/blob/master/crops/rice/Oryza_Category.xml  
+[`Wikipedia List - List_of_rice_varieties`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/List_Rice_Varieties.xml) and [`Wikipedia Category - Rice_varieties`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice_Varieties_Category.xml) or [`Wikipedia:Category - Category:Oryza`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Oryza_Category.xml)  
