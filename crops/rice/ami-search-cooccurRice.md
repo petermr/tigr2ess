@@ -223,13 +223,19 @@ embedded with the the `ami-search-cooccur` tool. Normalised `scholarly.html` arr
  
  ## Screenshots of common results of the cooccurence (html format cooccurence tables).
  
- * ![`commonest.dataTables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTables.html.png)
+ * `commonest.dataTables.html.png` - Cooccurence table formed from entire Rice CProject. Table contains article wise information about cooccurences among `country`, `drugs`, `gene`, `plantparts` and `species`.  
+ 
+  ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTables.html.png)
  
  
- * ![`count.dataTables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.dataTables.html.png)
+ * `count.dataTables.html.png` - Cooccurence table formed from entire CProject containing artile wise count of search terms - `country`,`gene`, `species`, `drugs` and `plantparts` along with frequency of most occurred term into scientific article.     
+ 
+ ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.dataTables.html.png)
  
  
- * ![`entries.dataTables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.dataTables.html.png)
+ * `entries.dataTables.html.png` -  Cooccurence table formed from entire CProject containing artile wise count of search terms as an entry - `country`,`gene`, `species`, `drugs` and `plantparts` along with frequency of most occurred term into scientific article. 
+ 
+ ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.dataTables.html.png)
 
 ## Run time and storage memory
    
