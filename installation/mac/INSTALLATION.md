@@ -23,32 +23,10 @@ If you're on macOS/OSX, you'll need to install:
 Make sure you have sudo (admin) rights on your machine. 
 
    - Download and Install Node from the <a href=https://nodejs.org/en/download/>NodeJS website</a>.  
-   - Alternativel;y, you can also do this manually on a terminal. Run this command:
-
-      - curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
-
-         If it fails because you don't have curl installed, try using wget instead:
-
-      - wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
-
-      Follow the instructions that appear in the terminal - it will ask you to close the terminal once it's done.
-
-      - installing node
-
-      After you've closed and re-opened your terminal, you'll need to tell nvm to install the latest version of Node, and set it as default:
-
-      >nvm install 7
-
-      Check for the installed node version and enable nvm to use installed node. Run following command over terminal.
-
-      >nvm on
-
-      >nvm use 7.x.x
-
-      (7.x.x is the installed version of the node)
-
-      >nvm alias default 7.x.x       
-- installing a node tool (getpapers):
+   - Check whether Node installed: 
+        - Open a Terminal and type <code> node</code>
+  
+  ## Installing getpapers 
 >npm install --global some-node-tool
 
 e.g - getpapers should be passed-on in place of some-node-tool.
