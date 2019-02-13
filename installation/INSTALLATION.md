@@ -227,7 +227,9 @@ https://github.com/petermr/tigr2ess/issues
 Problems for specific machine types / OS should be added here:
 
  * [unix](unix/)
+ All steps of installation and tool running goes well over unix machine. 
  * [mac](mac/)
+ Make sure of pre-installation requirements over macOSX i.e 
  * [windows](windows/)
 
 
