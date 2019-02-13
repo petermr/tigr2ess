@@ -21,7 +21,7 @@ This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
 
 <table>
-<tr><td><img src="./wp_taxonomy.png" height="50%"/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td></tr>
+<tr><td><img src="./wp_taxonomy.png" height="50%"/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td><td><img src="../misc/blank.png" style="height:50%;"/></td></tr>
 </table>
 
 
@@ -59,7 +59,7 @@ https://en.wikipedia.org/wiki/List_of_Indian_spices
 
 This contains a list, arranged as a table:
 
-<table><tr><td width="50%"><img src="./wp_listofspicestable.png"/></td></tr></table>
+<table><tr><td width="50%"><img src="./wp_listofspicestable.png"/></td><td width="50%"><img src="../misc/blank.png"/></td></tr></table>
 
 These types of table-list will be very useful later.
 
