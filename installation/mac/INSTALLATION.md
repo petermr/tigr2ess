@@ -31,12 +31,13 @@ Make sure you have sudo (admin) rights on your machine.
         - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
   
   ## Installing getpapers 
->npm install --global some-node-tool
-
-e.g - getpapers should be passed-on in place of some-node-tool.
-
+  - Open a Terminal
+  - Type the following and press Enter.
+  
 >npm install --global getpapers
 
+   - This command, if all goes well, should reveal getpapers being installed and a final message that all went well.
+   
 ## Installation of ami plugins/tools
 
 - Make your own installation area (directory containing the package).
