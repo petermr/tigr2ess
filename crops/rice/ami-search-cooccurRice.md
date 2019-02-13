@@ -223,7 +223,7 @@ embedded with the the `ami-search-cooccur` tool. Normalised `scholarly.html` arr
  
  ## Screenshots of common results of the cooccurence (html format cooccurence tables).
  
- * ![commonest.data.Tables.html.png](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.data.Tables.html.png)
+ * ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTables.html.png)
  * ![count.data.Tables.html.png](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.data.Tables.html.png)
  * ![entries.data.Tables.html.png](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.data.Tables.html.png)
 
