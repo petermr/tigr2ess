@@ -29,7 +29,7 @@ Make sure you have sudo (admin) rights on your machine.
    - Open a Terminal and type <code> node</code>
    - If all is good, you will get a cursor within the newy Launched Node, as shown below.
         
-        <img src=/installation/mac/node1.png/>
+        <img src=/installation/mac/node1.png>
    - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
   
   ## Installing getpapers 
@@ -38,15 +38,14 @@ Make sure you have sudo (admin) rights on your machine.
   - Type <code>npm install --global getpapers</code> and press Return.
   - The above command, if all goes well, should reveal getpapers being installed and a final message that all went well:
    
-   <img src=/installation/mac/getpapers.png>getpapers</img>
+   <img src=/installation/mac/getpapers.png>getpapers>
    
    ### Check Installation of getpapers
-   
-      - Open a Terminal
-      - Type <code>getpapers</code> and press Return.
-      - This should return the help for getpapers:
+   - Open a Terminal
+   - Type <code>getpapers</code> and press Return.
+   - This should return the help for getpapers:
       
-   <img src=/installation/mac/getpapers1.png>getpapers_help</img>
+   <img src=/installation/mac/getpapers1.png>
    
 ## Installation of AMI plugins/tools
 
