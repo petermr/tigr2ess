@@ -81,7 +81,7 @@ Make sure you have sudo (admin) rights on your machine.
    - If exported or installed correctly, this will list out a long help and usage information.
    - If you get errors, please contact a helper.
    
-   <img src=/installation/mac/ami.png>
+   <img src=/installation/mac/ami1.png>
 
 * Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
 
