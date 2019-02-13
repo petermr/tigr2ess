@@ -10,17 +10,19 @@ Dictionary is created from the wikipedia page of the Rice. Source - https://en.w
 It contains all rice varieties, Oryza species, rice diseases and closely associated terminologies to rice research like monocot or 
 glutan.
 
+````
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species genes /home/ambarish123/rice.xml
-
+````
 Pass on the local dictionary as an command-line option along with the other search terms. Absolute path 
 of the dictionary file should be mentioned as in I have stored the rice.xml dictionary to my home directory.
 As an command-line option I have passed it as /home/ambarish123/rice.xml
 Prefer to use xml formatted dictionary file as of light-weight and ease into handling embedded functionalities of the tool.  
 
 For the check or test-run let's try to get cooccurance between self i.e local rice dictionary - rice.xml.
-        
-    ambarish123@ubuntu:~$ ami-search-cooccur rice/ /home/ambarish123/rice.xml 
 
+```        
+    ambarish123@ubuntu:~$ ami-search-cooccur rice/ /home/ambarish123/rice.xml 
+```
 Similary one may go for another dictionary created from Wikipedia Category or Wikipedia List page.
 
 Sources: 
@@ -33,7 +35,7 @@ Sources:
 
 
 ## Run time log
-    
+   ``` 
      1992 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [country]
            option flags: []
      1993 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - cmd: search(drugs)
@@ -50,10 +52,10 @@ Sources:
           option flags: []
      2012 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - cmd: search(/home/ambarish123/rice.xml)
      2013 [main] DEBUG org.contentmine.ami.plugins.AMIPluginOption  - OPTION: search ...  subOptions: [/home/ambarish123/rice.xml]
-
+ ```
 ## CProject and CTree
 Visualisation of one folder (content) of the project. 
-
+```
      ├── PMC6345924
      │   ├── eupmc_result.json
      │   ├── fulltext.pdf
@@ -94,11 +96,11 @@ Visualisation of one folder (content) of the project.
      │   ├── word.frequencies.count.xml
      │   └── word.frequencies.snippets.xml
 
-
+```
 
 Here is tree structure for the cooccurance results.
 
-
+```
     ├── commonest.dataTables.html
     ├── cooccurrence
     │   ├── binomial
@@ -237,7 +239,7 @@ Here is tree structure for the cooccurance results.
 
     1346 directories, 2699 files
 
-
+```
 
 ## Run time and memory requirements
 Storage space requirements for the project folder containing papers and all cooccurance results over the disk is around 324 MB.
@@ -259,5 +261,6 @@ Manual editing of the dictionary is must to make the search results precious and
 
 ## issues
 
-Always try to reduce FPs and get precious to relevant searches. Wikipedia page is not very specific to reseach 
-terms. Try out dictionaries created from Wikipedia List or Wikipedia Category page.  
+Always try to reduce `FPs` and get precious to relevant searches. `Wikipedia` page is not very specific to reseach 
+terms. Try out dictionaries created from `Wikipedia List` or `Wikipedia Category` page. Repository contains dictionaries created from 
+[`Wikipedia List`] List_Rice_Varieties.xml and [`Wikipedia Category`] Oryza_Category.xml, Rice_Varieties_Category.xml.  
