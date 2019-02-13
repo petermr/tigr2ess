@@ -2,13 +2,8 @@
 
 ## Prerequisites for MAC OSX: 
 1. Developer tools
-2. The Latest Java versions of JDK and JRE
-
--Developer Tools:
-If you're on macOS/OSX, you'll need to install either:
-
-   - XCode, Apple's developer environent, free from the mac App Store
-   - the command-line developer tools.
+If you're on macOS/OSX, you'll need to install:
+   - XCode, Apple's developer environent (FREE on App Store) OR The command-line developer tools.
 
       - Install <a href= https://developer.apple.com/xcode/>Xcode</a> from the App store or the Apple developer website.
       - For installing Xcode command line tools run the command
@@ -17,6 +12,7 @@ If you're on macOS/OSX, you'll need to install either:
       - Follow the instructions and now you have Xcode and Xcode command            line tools both installed and running.
       - Also install <a href=https://www.xquartz.org/>XQuartz</a> for X11 server and client libraries for OS X Mountain Lion.
 
+2. The Latest Java versions of JDK and JRE
 
 ## installing nvm
 
