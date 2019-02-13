@@ -47,9 +47,9 @@ Make sure you have sudo (admin) rights on your machine.
       
    <img src=/installation/mac/getpapers1.png>
    
-## Installation of AMI plugins/tools
+## Installation of AMI
 
-- Make your own installation area (directory containing the package).
+- Make a distinct Installation Folder (directory containing the package).
    
 > mkdir AMI
 
@@ -57,26 +57,29 @@ Make sure you have sudo (admin) rights on your machine.
 
 > git clone https://github.com/petermr/ami-jars.git
 
-- Set environmental variable to access the ami plugins (tools)
+- Set environment variable to access ami plugins (tools)
 
-Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190115/bin/ or 
-../ami-jar/ami20190211/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
+    -How to Find your Path:
+      - Cloned repository contains .jars and ami plugins/tools. 
+      - Get into either of the directory ../ami-jar/ami20190115/bin/ or 
+../ami-jar/ami20190211/bin/ folder. 
+      - All ami tools are contained in this directory. 
+      - type <code>pwd</code> and copy this path.  Replace this for <code>absolute-path</code> in the following command:
 
-> export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
+> export PATH=$PATH:/absolute-path/ami-jar/ami20190115/bin/
 
-
-- Check for the set path.
+- Check your path:
 
 > echo $PATH
 
-Command will return absolute path of bin directory containing ami plugins/tools.
+- The above Command should return full path of bin directory containing ami plugins/tools.
 
-- Check for the installation.
+### Check Installation of ami
 
 > ami-search-cooccur
 
-If exported or installed correctly. It will list out all tool help and usage information.
+- If exported or installed correctly, this will either stay silent or list out all tool help and usage information.
+- If you get errors, please contact a helper.
 
-
-Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
+## Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
 
