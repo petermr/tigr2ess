@@ -1,25 +1,27 @@
 # ami-search-cooccur for the rice project.
-### Compiled by Ambarish (ambari73_sit@jnu.ac.in)
-## Here is demonstrated command for ami-search-cooccur using built-in dictionaries.
-
+### Compiled by Ambarish (ambari73_sit@jnu.ac.in, er.ambarish@nipgr.ac.in)
+## ami-search-cooccur using built-in dictionaries.
+```
 ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species gene
+```
 
 Short description of the command-line options are as follows.
 
-- ami-search-cooccur - tool name.
+- `ami-search-cooccur` - tool name.
 
-- rice - CProject folder name.
+- `rice` - CProject folder name.
 
-- country, drugs, palntparts, species, gene - built-in dictionaries and search terms. These have to 
+- `country`, `drugs`, `palntparts`, `species`, `gene` - built-in dictionaries and search terms. These have to 
 be placed white-space seperated.
 
-built-in dictionaries for country, drugs, plantparts, species and gene (human) are used to get cooccurrance search.
+built-in dictionaries for `country`, `drugs`, `plantparts`, `species` and `gene (human)` are used to get cooccurrance search.
 
  
-Search results find cooccurrances between country, drugs, plantparts, species and gene (human).
+Search results find cooccurrances between `country`, `drugs`, `plantparts`, `species` and `gene (human)`.
 
 
 ## Run time log 
+```
 
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species genes
                           0    [main] DEBUG org.contentmine.ami.AMIProcessor  - project name: rice/ /home/ambarish123
@@ -53,12 +55,13 @@ Search results find cooccurrances between country, drugs, plantparts, species an
          SP: /home/ambarish123/rice...........filter: species([binomial])[]
         
          C: binomial...........227135 [main] DEBUG org.contentmine.ami.plugins.CommandProcessor  - running: gene([human])[]
-
+```
          
          
-As prior to running ami plugins or preciously ami-search-cooccur normalisation of downloaded papers are 
-required. Norma tool/plugins among AMI tools/plugins are used for normalisation which convert ful
-XML formatted papers (files) to scholarly HTML formatted files. These files are stored into respective folders.
+As prior to running ami plugins or preciously `ami-search-cooccur`, normalisation of downloaded papers are 
+required. `Norma` tool/plugins among AMI tools/plugins are used for normalisation which convert 
+`XML` formatted papers (files) to `scholarly HTML` formatted files. One may notice into above run time log that normalisation step is
+embedded with the the `ami-search-cooccur` tool. Normalised `scholarly.html` arrticles are stored into respective project folder.
 
 
 ## CProject and CTree
@@ -172,9 +175,9 @@ XML formatted papers (files) to scholarly HTML formatted files. These files are 
              │   │   ├── cooccur.csv
              │   │   └── cooccur.svg
              │   ├── plantparts-gene
-         │   │   ├── cooccur.csv
+             │   │   ├── cooccur.csv
              │   │   └── cooccur.svg
-                 ├── plantparts-genes
+             ├── plantparts-genes
              │   │   ├── cooccur.csv
              │   │   └── cooccur.svg
              │   ├── plantparts-plantparts
@@ -216,18 +219,18 @@ XML formatted papers (files) to scholarly HTML formatted files. These files are 
                  ├── gene.human.documents.xml
                  ├── gene.human.snippets.xml
                  
- 1238 directories, 2380 files
+ `1238 directories, 2380 files`
 
 ## Run time and storage memory
    
-Storage requirements on the disk is 325 MB. Directory contains downloaded papers and results of cooccurance search.
+Storage requirements on the disk is `325 MB`. Directory contains downloaded papers and results of cooccurance search.
 
-Elapsed time on ami-search-cooccure steps - 
+Elapsed time on `ami-search-cooccure` steps - `10-12 mins`. 
 
 
 ## Discussions
-All possible cooccurances among the search terms - country, species, drugs, plantparts, gene are found
-and stored into respective project folder. Apart, common cooccurances among entire project is tabulated and output is generated into html, svg and csv format. One may check into the CProject folder for the output files and can visualise html and svg files into their internet browser.
+All possible cooccurances among the search terms - `country`, `species`, `drugs`, `plantparts`, `gene` are found
+and stored into respective project folder. Apart, common cooccurances among entire project is tabulated and output is generated into `html, svg and csv` format. One may check into the `CProject folder` for the output files and can visualise `html and svg` files into their `internet browser`.
 
 Here is some screenshots of common cooccurances and results.
 
@@ -235,4 +238,10 @@ Here is some screenshots of common cooccurances and results.
 
 ## issues
 
-     [main] ERROR org.contentmine.ami.plugins.CommandProcessor  - cannot run command: search([genes])[]; cannot process argument: --sr.search (RuntimeException: cannot read inputStream for dictionary: /org/contentmine/ami/plugins/dictionary/genes.xml)
+*     [main] ERROR org.contentmine.ami.plugins.CommandProcessor  - cannot run command: search([genes])[]; cannot process argument: --sr.search (RuntimeException: cannot read inputStream for dictionary: /org/contentmine/ami/plugins/dictionary/genes.xml)
+
+* If permission to run ami tools/plugins are denied, get into the directory containing all ami-jars and run following command.
+```
+      > chmod 777 *
+```
+This issue arises because of simply making copy of the ami-jars. `chmod` is unix based command.  
