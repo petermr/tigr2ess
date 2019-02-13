@@ -81,13 +81,13 @@ Command will return absolute path of bin directory containing ami plugins/tools.
 If exported or installed correctly. It will list out all tool help and usage information.
 
 
-Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. Please download and install.
+Full instructions for installation and use are given at [`getpapers`](http://github.com/contentmine/getpapers) page. Please download and install.
 
 ### windows
 
 #### nvm-windows (Node virtual manager for Windows)
 
-- Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases and download `nvm-setup.zip` for the latest version.
+- Access the page and download the [`nvm-setup.zip`](https://github.com/coreybutler/nvm-windows/releases) latest version of the setup.
 
 Unzip the downloaded file and run the included installer.
 
