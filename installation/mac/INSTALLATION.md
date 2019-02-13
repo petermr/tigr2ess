@@ -59,12 +59,12 @@ Make sure you have sudo (admin) rights on your machine.
 
 - Set environment variable to access ami plugins (tools)
 
-    -How to Find your Path:
-      - Cloned repository contains .jars and ami plugins/tools. 
-      - Get into either of the directory ../ami-jar/ami20190115/bin/ or 
-../ami-jar/ami20190211/bin/ folder. 
-      - All ami tools are contained in this directory. 
-      - type <code>pwd</code> and copy this path.  Replace this for <code>absolute-path</code> in the following command:
+    - First, Find your Path:
+    - Cloned repository contains .jars and ami plugins/tools. 
+    - Get into either of the directory ../ami-jar/ami20190115/bin/ or ../ami-jar/ami20190211/bin/ folder. 
+    - All ami tools are contained in this directory. 
+    - type <code>pwd</code> and copy this path.  
+    - Replace this for <code>absolute-path</code> in the following command:
 
 > export PATH=$PATH:/absolute-path/ami-jar/ami20190115/bin/
 
