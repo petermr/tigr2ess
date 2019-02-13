@@ -40,14 +40,14 @@ Firstmost required step for ContentMine text data mining (TDM) is to download sc
 ```
 ### Run time and memory requirements
 
-Total elapsed time in papers download is 93.5 seconds. 
-XML formatted files are smaller than PDF ones. Downloading XML files using  `-x` command line option
-would take less time as of downloading PDF's. 
+Total elapsed time in papers download is `93.5 + 17.8 seconds`. 
+`XML` formatted files are smaller than `PDF` ones. Downloading XML files using  `-x` command line option
+would take less time as of downloading `PDFs`. 
 
-One may increase the downloadable papers count just by adjusting `-k` command-line option values.
+One may increase the downloadable articles count just by adjusting `-k` command-line option values.
 
 Entire project is structured into CProject.
-Occupied memory by the the CProject folder on the disk is about 295 MB. I have downloaded XML as well as PDFs.
+Occupied memory by the the `CProject` folder on the disk is about `295 MB`. I have downloaded `XML` as well as `PDFs`.
 
 ### CProject and CTree structure
 ```
@@ -73,12 +73,12 @@ On my ubuntu I visualised the CProject directory contents using tree command.
 
 ### discussions
 
-Getpapers command downloads scientific journals into XML, JSON and PDF formats. 
+`getpapers` command downloads scientific journals into XML, JSON and PDF formats. 
 One may set the command-line option to fix the desired format. Here the option for XML 
 as well as PDF format are passed-on and the count of papers are set to 100. Advanced search query
 may be used to enhance to search performance. These allow search terms and phrases to be combined with
-OR, AND and NOT. Search is performed from to mentioned APIs. Here as a default option EPMC is used for the search.
-API name has to be passed-on as command-line option. In regard to this get help from getpapers.md file over 
+`OR`, `AND` and `NOT`. Search is performed from to mentioned APIs. Here as a default option `EPMC` is used for the search.
+API name has to be passed-on as command-line option. In regard to this get help from [getpapers documentation] getpapers.md file over 
 the repository - https://github.com/petermr/tigr2ess/getpapers.md 
 
 For example - 
