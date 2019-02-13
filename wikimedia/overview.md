@@ -39,6 +39,8 @@ categories:
 
 ![](./wp_categories.png)
 
+## red links
+In many cases, especially for species, there are links to non-existent pages. 
 ## Wikipedia for Menthol (phytochemical)
 
 https://en.wikipedia.org/wiki/Menthol
@@ -53,7 +55,11 @@ Note the huge *infobox* on the right. This contains:
   </tr>
 </table>
 
-## Wikipedia list page:
+## Special Wikpedia Pages
+
+Wikipedia has a number of pages which are not about single topics, but lists of pages. These are extremely valuable for making dictionaries. Here are some of the types you can use
+
+### Wikipedia table-list page:
 
 https://en.wikipedia.org/wiki/List_of_Indian_spices
 
@@ -61,14 +67,18 @@ This contains a list, arranged as a table:
 
 <table><tr><td width="50%"><img src="./wp_listofspicestable.png"/></td><td width="50%"><img src="../misc/blank.png"/></td></tr></table>
 
-These types of table-list will be very useful later.
+These types of table-list will be very useful later. They can occur as single pages and also list-bars at the bottom of pages.
 
-## Wikipedia category page
+### Wikipedia category page
 
 https://en.wikipedia.org/wiki/Category:Millets
 
 ![](./wp_categorymillet.png)
 
+Categories are very valuable as they are part of the semantic system and can be used in Wikidata. Categories occur as single pages (as above) and also in category bars at the bottom of pages.
+
+### simple lists in pages
+These are less structured but are common for family/genus/species. They often give good extraction, but can also be messy. https://en.wikipedia.org/wiki/Ocimum gives a list of species and we can extract these if required.
 
 
 
