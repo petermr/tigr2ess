@@ -61,7 +61,7 @@ Make sure you have sudo (admin) rights on your machine.
 
     - First, Find your "Absolute Path": Type <code>pwd</code> on your terminal
     - The newly Cloned ami repository contains .jars and ami plugins/tools. 
-    - Type <code>cd ami-jars/ami20190115/bin/ </code>  
+    - Type <code>cd ./ami-jars/ami20190115/bin/ </code>  
     - Type <code>pwd</code>  
     - This is where All ami tools are contained.
     - Replace the absolute path you got earlier for <code>absolute-path</code> in the following command:
