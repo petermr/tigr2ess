@@ -11,7 +11,7 @@ Short description of the command-line options are as follows.
 
 - `rice` - CProject folder name.
 
-- `country`, `drugs`, `palntparts`, `species`, `gene` - built-in dictionaries and search terms. These have to 
+- `country`, `drugs`, `plantparts`, `species`, `gene` - built-in dictionaries and search terms. These have to 
 be placed white-space seperated.
 
 built-in dictionaries for `country`, `drugs`, `plantparts`, `species` and `gene (human)` are used to get cooccurrance search.
