@@ -89,7 +89,7 @@ For example -
 ### issues
 
 Ideally one should go for the search count of 1000 to 2000 papers. But for sake of time consumption
-and perform the task within limited time-span, go for 100 papers search.
+and performing the task within limited time-span, go for 100 papers search.
 
 
 
