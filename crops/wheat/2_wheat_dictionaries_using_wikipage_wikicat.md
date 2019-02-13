@@ -40,7 +40,20 @@ The first two terms are not at all relevant, so we remove the below correspondin
 <entry term="Abu Hureyra" name="Abu Hureyra" url="/wiki/Abu_Hureyra" id="CM.wheat_wikipage.1" wikipedia="Abu_Hureyra"/>
 ```
 
- let's move to other method for dictionary creation.  
+### wheat_wikipage.json
+
+![wheat_wikipage_json](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/wheat_wikipage.json)
+
+
+
+*In json file we can eliminate extra terms using any notepad(here i use `gedit`),i showed here that how can we find terms which are only belongs to wheat.I find a term`weetabix` which belongs to wheat thats why i do not remove it from json file .*
+
+
+![wheat_weetabix_term](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/weetabix_term.png)
+
+
+
+ **let's move to other method for dictionary creation.**  
 
 # Dictionary creation from wikipedia category page:
 
@@ -84,6 +97,8 @@ terms         null
 ``` 
 
 ## Let's look at the three output files
+
+
 ### wheat_category.html
 We can visually inspect the terms collected, and go to the linked webpages to see more about them.
 
