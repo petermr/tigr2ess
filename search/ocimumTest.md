@@ -27,80 +27,97 @@ C:\Users\hadoop_pc\AppData\Roaming\npm
 ## Getpapapers installation over Linux.
 
 - step 1: Installing nvm  
+```
 > crl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
+```
 Make sure of curl installation. (sudo apt-get install curl).
-or
-> wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
+or
+```
+> wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
+```
 - step 2: Installing node
 Type following commands on to your terminal.
-
+```
 >nvm install 7
 
 >nvm use 7
 
 >nvm alias default 7
-
+```
 - step 3: installing a node tool.
-
+```
 >npm install --global getpapers
-
+```
 ## AMI tool installation over windows.
 
 - srep 1: Make your own installation area (directory containing the package).
+```
 > mkdir AMI
-
+```
 - step 2: Get the ami software package into the directory.
 Download link - https://github.com/petermr/ami-jars
 
 - step 3: Set environment variable to access the bin directory containing ami plugins/tools.
 To set environment variable in Windows - 08.
+
+```
                - From the desktop, right click the Computer icon.
                - Choose System from the context menu.
                - Click the Advanced system settings link.
                - Click new option into user variables for desktop.
                - Set variable name (environment variable name) and value (absolute path value).
-
+```
 
 ## AMI tools installation over Linux.
 
 - step 1: Make your own installation area (directory containing the package).
+```
 > mkdir AMI
-
+```
 - step 2: Get the ami software package (clone ami repository into your area or directory).  
+```
 > git clone https://github.com/petermr/ami-jars.git
-
+```
 - step 3: Set environmental variable to access the ami plugins (tools).
 Get into either of the directory ../ami-jar/ami20190115/bin/ or ../ami-jar/ami20190115/bin/ folder. All ami tools are contained into it. 
 Set the absolute path of the bin directory to environment variable.
-
+```
 > export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
-
+```
 check for the set path to bin directory
+```
 > echo $PATH
-
+```
 ## Check for the installation.
+```
 > ami-pdf
+```
 If exported or installed correctly. It will list out all tool help information.
 
 ## Running steps for getpapers and ami plugins/tools.
 - step 1: generate CProject.
+```
 > getpapers -q <query_name> -o <project_folder>
-
+```
 <query_name> - query name for the search (generally scientific names. These names are contained as dictionary into software suite.
 <project_folder> - name of the project folder (CProject). These contain the downloaded papers into PDF or XML format.
 
 - step 2: Add scholarly.html file to CProject folders.
+```
 > norma --project <project_folder> -i fulltext.xml -o scholarly.html --transform nlm2html
-
+```
 - step 3: Run ami plugins/tools.
+```
 >ami-search-cooccur --project <project_folder>/ <plugin_options>
+
+```
 <plugin_options> - space separated options for search e.g - country species gene plantparts drugs monoterpene.
 
 ## Test run over Ocimum Sanctum dataset.
 
 Here we run six getpapers queries for Ocimum sanctum dataset. It will form a subset of 100 papers. One may increase the number of count of downloaded papers just by changing the -k option of the command-line.
-
+```
 > getpapers -q "Ocimum sanctum" -o osanctum20190121 -x -p -k 100
 
 > getpapers -q "ocimum" -o ocimum20190121 -x -p -k 100
@@ -112,10 +129,10 @@ Here we run six getpapers queries for Ocimum sanctum dataset. It will form a sub
 > getpapers -q "ocimum sanctum" -o ocimum_sanctum20190121 -x -p -k 100
 
 > getpapers -q "((Ocimum sanctum) OR (Ocimum tenuiflorum) OR (thulasi) OR (tulasi) OR (tulsi) OR (holy basil))" -o ocimumsanctumadvancedsearch20190121 -x -p -k 100
-
+```
 Snap-shot of getpapers run example.---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+```
      ambarish123@ubuntu:~$ getpapers -q "ocimum" -o ocimum20190121 -x -p -k 100info: Searching using eupmc API
      info: Found 1652 open access results
      warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
@@ -132,9 +149,13 @@ Snap-shot of getpapers run example.---------------------------------------------
      info: Extracting fulltext HTML URL list (may not be available for all articles)
      info: Fulltext HTML URL list
      Downloading files [==---------------------] 10% (10/100) [0.0s elapsed, eta 0.1]
+     
+ ```
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Perform normalization of downloaded papers and formation of scholarly HTML files.
+
+```
 
 - > norma --project osanctum20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
 - > norma --project ocimum20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
@@ -142,27 +163,32 @@ Perform normalization of downloaded papers and formation of scholarly HTML files
 - > norma --project ocimumandsanctum20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
 - > norma --project ocimum_sanctum20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
 - > norma --project ocimumsanctumadvancedsearch20190121 -i fulltext.xml -o scholarly.html --transform nlm2html
-
+```
 Snap-shot of norma run example.-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
      ambarish123@ubuntu:~$ norma --project ocimum20190121/ -i fulltext.xml -o scholarly.html --transform nlm2html
-Run time log - 
 
+```
+Run time log - 
+```
     PMC4711284 .PMC4753755 PMC4944029 PMC4945999 PMC5061483 PMC5070040 PMC5118752 PMC5234046 PMC5248495 PMC5289084 PMC5343285    .PMC5376420 PMC5429082 PMC5450247 PMC5561165 PMC5562131 PMC5562198 PMC5590053 
     PMC5603166 PMC5620597 PMC5642800 .PMC5696514 PMC5710599 PMC5745208 PMC5750597 PMC5750606 PMC5780373 PMC5806308 PMC581450
+    
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Run ami plugin for search results.
 
+```
 - > ami-search-cooccur osanctum20190121/ country species drugs gene plantparts monoterpene
 - > ami-search-cooccur ocimum20190121/ country species drugs gene plantparts monoterpene
 - > ami-search-cooccur sanctum20190121/ country species drugs gene plantparts monoterpene
 - > ami-search-cooccur ocimum_sanctum20190121/ country species drugs gene plantparts monoterpene 
 - > ami-search-cooccur ocimumandsanctum20190121/ country species drugs gene plantparts monoterpene
 - > ami-search-cooccur ocimumsanctumadvancedsearch20190121/ country species drugs gene plantparts monoterpene
-
+```
 Snap-shot of ami-search-cooccur run example.----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
             ambarish123@ubuntu:~$ ami-search-cooccur ocimum20190121/ country gene drugs plantparts species monoterpene
       0    [main] DEBUG org.contentmine.ami.AMIProcessor  - project name: ocimum20190121/ /home/ambarish123
       running: word([frequencies])[{xpath:@count>20}, {w.stopwords:pmcstop.txt stopwords.txt}]
@@ -191,6 +217,8 @@ Snap-shot of ami-search-cooccur run example.------------------------------------
     SR: /home/ambarish123/ocimum20190121  
     ..........filter: search([monoterpene])[]
     ..........summary: search([monoterpene])[]
+    
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -207,7 +235,7 @@ Alongwith, it finds cooccurance among the search results.
 
 snap-shot of cooccurance results------------------------------------------------------------------------------------------
 
-
+```
      ├── commonest.dataTables.html
      ├── cooccurrence
      │   ├── country
@@ -293,10 +321,11 @@ snap-shot of cooccurance results------------------------------------------------
      ├── gene.human.count.xml
      ├── gene.human.documents.xml 
      ├── gene.human.snippets.xml
-
+```
 -------------------------------------------------------------------------------------
 snap-shot of CTree of downloaded papers and search results.
 
+```
      ├── PMC4631451
      │   ├── eupmc_result.json
      │   ├── fulltext.pdf
@@ -336,6 +365,7 @@ snap-shot of CTree of downloaded papers and search results.
      │   ├── species.binomial.snippets.xml
      │   ├── word.frequencies.count.xml
      │   └── word.frequencies.snippets.xml
+```
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Detailed discussion over each output files into CProject.
 Cooccurances are contained into a seperate cooccurance folder into CProject. Subdirectories into the cooccurance folder are as follows - 
