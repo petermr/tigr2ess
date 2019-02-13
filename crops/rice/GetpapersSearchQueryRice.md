@@ -79,7 +79,7 @@ as well as PDF format are passed-on and the count of papers are set to 100. Adva
 may be used to enhance to search performance. These allow search terms and phrases to be combined with
 `OR`, `AND` and `NOT`. Search is performed from to mentioned APIs. Here as a default option `EPMC` is used for the search.
 API name has to be passed-on as command-line option. In regard to this get help from [getpapers documentation] getpapers.md file over 
-the repository - https://github.com/petermr/tigr2ess/getpapers.md 
+the repository - [`getpapers`](https://github.com/petermr/tigr2ess/getpapers.md) 
 
 For example - 
 
