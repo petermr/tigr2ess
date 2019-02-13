@@ -23,7 +23,7 @@ If you're on macOS/OSX, you'll need to install:
 Make sure you have sudo (admin) rights on your machine. 
 
    - Download and Install Node from the <a href=https://nodejs.org/en/download/>NodeJS website</a>.  
-   - Check whether Node installed: 
+### Check Installation of Node: 
         - Open a Terminal and type <code> node</code>
         - If all is good, you will get a cursor within the newy Launched Node, as shown below.
         
@@ -37,7 +37,7 @@ Make sure you have sudo (admin) rights on your machine.
    
    <img src=/installation/mac/getpapers.png>getpapers</img>
    
-   ## Check Installation of getpapers
+   ### Check Installation of getpapers
    
       - Open a Terminal
       - Type <code>getpapers</code> and press Return.
