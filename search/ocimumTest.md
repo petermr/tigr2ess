@@ -152,9 +152,9 @@ Run time log -
 Run ami plugin for search results.
 
 - > ami-search-cooccur osanctum20190121/ country species drugs gene plantparts monoterpene
-- > ami-search-cooccur ocimum20190121/ country species drugs gene plantparts monoterpene-
+- > ami-search-cooccur ocimum20190121/ country species drugs gene plantparts monoterpene
 - > ami-search-cooccur sanctum20190121/ country species drugs gene plantparts monoterpene
-- > ami-search-cooccur ocimum_sanctum20190121/ country species drugs gene plantparts monoterpene \
+- > ami-search-cooccur ocimum_sanctum20190121/ country species drugs gene plantparts monoterpene 
 - > ami-search-cooccur ocimumandsanctum20190121/ country species drugs gene plantparts monoterpene
 - > ami-search-cooccur ocimumsanctumadvancedsearch20190121/ country species drugs gene plantparts monoterpene
 
