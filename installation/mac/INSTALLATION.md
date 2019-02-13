@@ -26,7 +26,8 @@ Make sure you have sudo (admin) rights on your machine.
    - Check whether Node installed: 
         - Open a Terminal and type <code> node</code>
         - If all is good, you will get a cursor within the newy Launched Node, as shown below.
-        <img src=node1.png/>NodeLaunch</img>
+        
+        <img src=/installation/mac/node1.png/>NodeLaunch</img>
         - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
   
   ## Installing getpapers 
