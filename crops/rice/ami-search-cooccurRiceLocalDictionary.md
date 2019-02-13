@@ -263,4 +263,4 @@ Manual editing of the dictionary is must to make the search results precious and
 
 Always try to reduce `FPs` and get precious to relevant searches. `Wikipedia` page is not very specific to reseach 
 terms. Try out dictionaries created from `Wikipedia List` or `Wikipedia Category` page. Repository contains dictionaries created from 
-[`Wikipedia List`] List_Rice_Varieties.xml and [`Wikipedia Category`] Oryza_Category.xml, Rice_Varieties_Category.xml.  
+`Wikipedia List` https://github.com/petermr/tigr2ess/blob/master/crops/rice/List_Rice_Varieties.xml and `Wikipedia Category` https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice_Varieties_Category.xml or https://github.com/petermr/tigr2ess/blob/master/crops/rice/Oryza_Category.xml  
