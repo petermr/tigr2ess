@@ -226,10 +226,10 @@ embedded with the the `ami-search-cooccur` tool. Normalised `scholarly.html` arr
  * ![`commonest.dataTables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTables.html.png)
  
  
- * ![`count.data.Tables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.data.Tables.html.png)
+ * ![`count.dataTables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.dataTables.html.png)
  
  
- * ![`entries.data.Tables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.data.Tables.html.png)
+ * ![`entries.dataTables.html.png`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.dataTables.html.png)
 
 ## Run time and storage memory
    
