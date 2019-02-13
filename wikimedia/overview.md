@@ -1,4 +1,4 @@
-# Wikipedia and Wikimedia
+# Wikipedia and Wikidata
 
 These are the key resources for adding semantics to the documents we extract. Most of you will know Wikipedia, but Wikidata is a new
 extension. It provides structured precise knowledge for machines to process and it's very well supported in biomedical where many of the main 
@@ -59,7 +59,7 @@ https://en.wikipedia.org/wiki/List_of_Indian_spices
 
 This contains a list, arranged as a table:
 
-<table><tr><td><img src="./wp_list2.png"/></td></tr></table>
+<table><tr><td><img src="./wp_listofspicestable.png"/></td></tr></table>
 
 These types of table-list will be very useful later.
 
