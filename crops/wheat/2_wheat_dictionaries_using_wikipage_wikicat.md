@@ -40,13 +40,10 @@ The first two terms are not at all relevant, so we remove the below correspondin
 <entry term="Abu Hureyra" name="Abu Hureyra" url="/wiki/Abu_Hureyra" id="CM.wheat_wikipage.1" wikipedia="Abu_Hureyra"/>
 ```
 
-### wheat_wikipage.json(edited version of json)
-
-![](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/wheat_category.json)
+### (edited version of .json file )
 
 
-
-*In json file we can eliminate extra terms using any notepad(here i use `gedit`),i showed here that how can we find terms which are only belongs to wheat.I find a term`weetabix` which belongs to wheat thats why i do not remove it from json file .*
+**In json file we can eliminate extra terms using any notepad(here i use `gedit`),i showed here that how can we find terms which are only belongs to wheat.I find a term`weetabix` which belongs to wheat thats why i do not remove it from json file .**
 
 
 ![wheat_weetabix_term](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/weetabix_term.png)
