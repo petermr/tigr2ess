@@ -4,17 +4,19 @@
 ## overview
 Here is the dictionary for Rice (Oryza). It will cover all rice species and related search from the wikipedia page weblinks.
 
-The dictionary is created from the Wikipedia page on Rice https://en.wikipedia.org/wiki/Rice and all associated links. 
+The dictionary is created from the Wikipedia page on [`Rice`](https://en.wikipedia.org/wiki/Rice) and all associated links. 
 Every entry in the dictionary should have a link to another Wikipedia page (and hence to a Wikidata page).
 
 ## sources
-https://en.wikipedia.org/wiki/Rice
+
+[`Rice`](https://en.wikipedia.org/wiki/Rice)
 
 creation from Wikipedia page
-ami-dictionary was run on the Wikipedia page https://en.wikipedia.org/wiki/Rice
+ami-dictionary was run on the Wikipedia page as an [`input`](https://en.wikipedia.org/wiki/Rice)
 
     ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
 	
+
 Description of command-line options and parameters along with usage help.
 
     ambarish123@ubuntu:~$ ami-dictionary
@@ -149,7 +151,7 @@ Brief description of the used options into the command-line.
 
 - --hreftext - option to retrieve hyperlink from wikipedia or wikidata page.
 
-- --input - option to pass-on wikipedia page weblink. e.g https://en.wikipedia.org/wiki/Rice\
+- --input - option to pass-on wikipedia page weblink - [`Rice`](https://en.wikipedia.org/wiki/Rice)
 
 - --informat - option to input format ( it may vary as per the search page content i.e wikitable or wikicontent or wikipage) here used value is wikipage.
 
@@ -212,7 +214,7 @@ Run time log for the passed-on generic values of the ami-dictionary tool.
 Above is the log of running steps for dictionary creation.  Message -     [main] DEBUG org.contentmine.ami.lookups.WikipediaDictionary  - failed to find header - is trivial to the operation.
 This creates a dictionary of all Wikipedia links in the page. 
 
-Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Category:Rice_varieties with some changes into 
+Alternately, one may create dictionary from [`Category:Rice_varieties`](https://en.wikipedia.org/wiki/Category:Rice_varieties) with some changes into 
 --informat option of command-line.
 
           ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary Rice_varieties_category --outformats xml,json,html
@@ -221,8 +223,8 @@ Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Catego
                                             
 					                     >CM.Rice_varieties_category.0>CM.Rice_varieties_category.1>CM.Rice_varieties_category.2>CM.Rice_varieties_category.3>CM.Rice_varieties_category.4>CM.Rice_varieties_category.5>CM.Rice_varieties_category.6>CM.Rice_varieties_category.7>CM.Rice_varieties_category.8>CM.Rice_varieties_category.9>CM.Rice_varieties_category.10>CM.Rice_varieties_category.11>CM.Rice_varieties_category.12>CM.Rice_varieties_category.13>CM.Rice_varieties_category.14>CM.Rice_varieties_category.15>CM.Rice_varieties_category.16>CM.Rice_varieties_category.17>CM.Rice_varieties_category.18>CM.Rice_varieties_category.19>CM.Rice_varieties_category.20>CM.Rice_varieties_category.21>CM.Rice_varieties_category.22>CM.Rice_varieties_category.23>CM.Rice_varieties_category.24>CM.Rice_varieties_category.25>CM.Rice_varieties_category.26>CM.Rice_varieties_category.27>CM.Rice_varieties_category.28>CM.Rice_varieties_category.29>CM.Rice_varieties_category.30>CM.Rice_varieties_category.31>CM.Rice_varieties_category.32>CM.Rice_varieties_category.33>CM.Rice_varieties_category.34>CM.Rice_varieties_category.35>CM.Rice_varieties_category.36>CM.Rice_varieties_category.37>CM.Rice_varieties_category.38>CM.Rice_varieties_category.39>CM.Rice_varieties_category.40>CM.Rice_varieties_category.41>CM.Rice_varieties_category.42>CM.Rice_varieties_category.43>CM.Rice_varieties_category.44>CM.Rice_varieties_category.45>CM.Rice_varieties_category.46>CM.Rice_varieties_category.47>CM.Rice_varieties_category.48>CM.Rice_varieties_category.49>CM.Rice_varieties_category.50>CM.Rice_varieties_category.51>CM.Rice_varieties_category.52>CM.Rice_varieties_category.53>CM.Rice_varieties_category.54>CM.Rice_varieties_category.55>CM.Rice_varieties_category.56 !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0!  !0! ++++++++++++++++++++++  +++++++++++++++++++++++++++++++++++
 
-Alternately, one may create dictionary from https://en.wikipedia.org/wiki/Category:Oryza with some changes to 
---informat option of command-line.
+Alternately, one may create dictionary from [`Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
+with some changes to --informat option of command-line.
 
          ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
 		
