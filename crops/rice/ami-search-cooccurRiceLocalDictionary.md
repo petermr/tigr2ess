@@ -2,28 +2,27 @@
 
 ### Compiled by Ambarish (ambari73_sit@jnu.ac.in, er.ambarish@nipgr.ac.in)
 
-## Here is demonstrated search using ami-search-cooccur and local dictionary.
+## Here is demonstrated search using `ami-search-cooccur` and local dictionary.
 
 Short description of the dictionary and usage.
 
-Dictionary is created from the wikipedia page of the Rice. Source - https://en.wikipedia.org/wiki/Rice
-It contains all rice varieties, Oryza species, rice diseases and closely associated terminologies to rice research like monocot or 
-glutan.
+Dictionary is created from the `wikipedia` page of the `Rice`. Source - https://en.wikipedia.org/wiki/Rice
+It contains all `rice varieties`, `Oryza species`, `rice diseases` and closely associated terminologies to rice research like `monocot` or `glutan`.
 
 ````
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species genes /home/ambarish123/rice.xml
 ````
-Pass on the local dictionary as an command-line option along with the other search terms. Absolute path 
-of the dictionary file should be mentioned as in I have stored the rice.xml dictionary to my home directory.
-As an command-line option I have passed it as /home/ambarish123/rice.xml
-Prefer to use xml formatted dictionary file as of light-weight and ease into handling embedded functionalities of the tool.  
+Pass-on the local dictionary as an command-line option along with the other search terms. Absolute path 
+of the dictionary file should be mentioned as in I have stored the `rice.xml` dictionary to my home directory.
+As an command-line option I have passed it as `/home/ambarish123/rice.xml`
+Prefer to use `xml` formatted dictionary file as of light-weight and ease into handling embedded functionalities of the tool.  
 
-For the check or test-run let's try to get cooccurance between self i.e local rice dictionary - rice.xml.
+For the check or test-run let's try to get cooccurance between self i.e local rice dictionary - `rice.xml`.
 
 ```        
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ /home/ambarish123/rice.xml 
 ```
-Similary one may go for another dictionary created from Wikipedia Category or Wikipedia List page.
+Similary one may go for another dictionary created from `Wikipedia Category` or `Wikipedia List` page.
 
 Sources: 
 
@@ -242,8 +241,9 @@ Here is tree structure for the cooccurance results.
 ```
 
 ## Run time and memory requirements
-Storage space requirements for the project folder containing papers and all cooccurance results over the disk is around 324 MB.
-Total elapsed time for the execution of the ami-search-cooccur is around 160-190 seconds.
+Storage space requirements for the project folder containing papers and all cooccurance results over the disk is around `324 MB`.
+Total elapsed time for the execution of the ami-search-cooccur is around `10-12 mins`.
+
 ## Cooccurance and search results
 
 Here is screenshots of tables containg common-cooccurance results. Cooccurance is found among self and with 
@@ -252,11 +252,11 @@ respect to each search term.
 ## Discussions
 Local dictionary gives us customisation into the search results. Along with the built-in dictionaries
 it augment addition information from the local dictionaries. Dictionaries can be formed as per the decided 
-terms like research institutes, phytochemicals, germs, insecticides, diseases etc.
+terms like research `institutes`, `phytochemicals`, `germs`, `insecticides`, `diseases` etc.
 
-Source of the dictionary creation may vary like wikipedia page, wikicategory or wikilist.
+Source of the dictionary creation may vary like `wikipedia page`, `wikicategory` or `wikilist`.
 
-Manual editing of the dictionary is must to make the search results precious and reduce false positives to the minimal as possible.
+Manual editing of the dictionary is must to make the search results precious and reduce `false positives FPs`  to the minimal as possible.
 
 
 ## issues
