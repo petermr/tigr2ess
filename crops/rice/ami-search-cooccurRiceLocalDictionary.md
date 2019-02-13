@@ -6,7 +6,7 @@
 
 Short description of the dictionary and usage.
 
-Dictionary is created from the `wikipedia` page of the `Rice`. Source - https://en.wikipedia.org/wiki/Rice
+Dictionary is created from the `wikipedia` page of the [`Rice`](https://en.wikipedia.org/wiki/Rice)
 It contains all `rice varieties`, `Oryza species`, `rice diseases` and closely associated terminologies to rice research like `monocot` or `glutan`.
 
 ````
@@ -26,11 +26,11 @@ Similary one may go for another dictionary created from `Wikipedia Category` or 
 
 Sources: 
 
-- https://en.wikipedia.org/wiki/Category:Rice_varieties
+- [`Category:Rice_varieties`](https://en.wikipedia.org/wiki/Category:Rice_varieties)
 
-- https://en.wikipedia.org/wiki/Category:Oryza
+- [`Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
 
-- https://en.wikipedia.org/wiki/List_of_rice_varieties
+- [`List_of_rice_varieties`](https://en.wikipedia.org/wiki/List_of_rice_varieties)
 
 
 ## Run time log
@@ -246,9 +246,21 @@ Total elapsed time for the execution of the ami-search-cooccur is around `10-12 
 
 ## Cooccurance and search results
 
-Here is screenshots of tables containg common-cooccurance results. Cooccurance is found among self and with 
-respect to each search term.
+#### screenshots of tables containg common-cooccurance results.
 
+`commonest.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire Rice CProject. Table contains article wise information about cooccurences among `country`, `drugs`, `gene`, `plantparts` and `species`.  
+ 
+  ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTablesRice-Rice.html.png)
+Cooccurance is found among self and with respect to each search term.
+
+ * `count.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire CProject containing artile wise count of search terms - `country`,`gene`, `species`, `drugs` and `plantparts` along with frequency of most occurred term into scientific article.     
+ 
+ ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.dataTablesRice-Rice.html.png)
+
+* `entries.dataTablesRice-Rice.html.png` -  Cooccurence table formed from entire CProject containing artile wise count of search terms as an entry - `country`,`gene`, `species`, `drugs` and `plantparts` along with frequency of most occurred term into scientific article. 
+ 
+ ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.dataTablesRice-Rice.html.png)
+ 
 ## Discussions
 Local dictionary gives us customisation into the search results. Along with the built-in dictionaries
 it augment addition information from the local dictionaries. Dictionaries can be formed as per the decided 
