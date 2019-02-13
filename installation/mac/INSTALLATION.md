@@ -83,5 +83,5 @@ Make sure you have sudo (admin) rights on your machine.
    
    <img src=/installation/mac/ami1.png>
 
-* Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
+* Full instructions for installation and use <a href=http://github.com/contentmine/getpapers>here</a>
 
