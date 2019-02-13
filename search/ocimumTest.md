@@ -34,8 +34,11 @@ or
 
 - step 2: Installing node
 Type following commands on to your terminal.
+
 >nvm install 7
+
 >nvm use 7
+
 >nvm alias default 7
 
 - step 3: installing a node tool.
