@@ -18,36 +18,37 @@ If you're on macOS/OSX, you'll need to install:
       - Open a Terminal and type <code>java -version</code>
       - Make sure you have the latest version (At the time of writing: We have 1.8_201)
 
-## installing nvm
+## Installing Node 
 
-Open a terminal and run this command:
+Make sure you have sudo (admin) rights on your machine. 
 
-- curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
+   - Download and Install Node from the <a href=https://nodejs.org/en/download/>NodeJS website</a>.  
+   - Alternativel;y, you can also do this manually on a terminal. Run this command:
 
-If it fails because you don't have curl installed, try using wget instead:
+      - curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
-- wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
+         If it fails because you don't have curl installed, try using wget instead:
 
-Follow the instructions that appear in the terminal - it will ask you to close the terminal once it's done.
+      - wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
-- installing node
+      Follow the instructions that appear in the terminal - it will ask you to close the terminal once it's done.
 
-After you've closed and re-opened your terminal, you'll need to tell nvm to install the latest version of Node, and set it as default:
+      - installing node
 
->nvm install 7
+      After you've closed and re-opened your terminal, you'll need to tell nvm to install the latest version of Node, and set it as default:
 
-Check for the installed node version and enable nvm to use installed node. Run following command over terminal.
+      >nvm install 7
 
->nvm on
+      Check for the installed node version and enable nvm to use installed node. Run following command over terminal.
 
->nvm use 7.x.x
+      >nvm on
 
-(7.x.x is the installed version of the node)
+      >nvm use 7.x.x
 
->nvm alias default 7.x.x
+      (7.x.x is the installed version of the node)
 
+      >nvm alias default 7.x.x       
 - installing a node tool (getpapers):
-
 >npm install --global some-node-tool
 
 e.g - getpapers should be passed-on in place of some-node-tool.
