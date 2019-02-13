@@ -25,6 +25,9 @@ Make sure you have sudo (admin) rights on your machine.
    - Download and Install Node from the <a href=https://nodejs.org/en/download/>NodeJS website</a>.  
    - Check whether Node installed: 
         - Open a Terminal and type <code> node</code>
+        - If all is good, you will get a cursor within the newy Launched Node, as shown below.
+        <img src=node1.png/>NodeLaunch</img>
+        - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
   
   ## Installing getpapers 
 >npm install --global some-node-tool
