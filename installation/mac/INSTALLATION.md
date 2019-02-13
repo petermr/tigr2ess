@@ -13,6 +13,10 @@ If you're on macOS/OSX, you'll need to install:
       - Also install <a href=https://www.xquartz.org/>XQuartz</a> for X11 server and client libraries for OS X Mountain Lion.
 
 2. The Latest Java versions of JDK and JRE
+      - Download and Install the latest JDK for your OS from <a href=>https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>here</a>
+      - Check your JAva Installation <a href=https://www.java.com/en/download/help/version_manual.xml>here</a>
+      - Open a Terminal and type <code>java -version</code>
+      - Make sure you have the latest version (At the time of writing 1.8)
 
 ## installing nvm
 
