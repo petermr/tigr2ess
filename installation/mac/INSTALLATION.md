@@ -32,13 +32,23 @@ Make sure you have sudo (admin) rights on your machine.
   
   ## Installing getpapers 
   - Open a Terminal
-  - Type the following and press Enter.
+  - Type the following and press Return.
   
 >npm install --global getpapers
 
-   - This command, if all goes well, should reveal getpapers being installed and a final message that all went well.
+   - This command, if all goes well, should reveal getpapers being installed and a final message that all went well:
    
-## Installation of ami plugins/tools
+   <img src=/installation/mac/getpapers>getpapers</img>
+   
+   * Check getpapers installation
+   
+      - Open a Terminal
+      - Type <code>getpapers</code> and press Return.
+      - This should return the help for getpapers:
+      
+      <img src=/installation/mac/getpapers1>getpapers_help</img>
+   
+## Installation of AMI plugins/tools
 
 - Make your own installation area (directory containing the package).
    
