@@ -260,4 +260,4 @@ Here is some screenshots of common cooccurances and results.
 ```
       > chmod 777 *
 ```
-This issue arises because of simply making copy of the ami-jars. `chmod` is unix based command.  
+This issue arises because of simply making copy of the ami-jars. `chmod` is unix based command.   
