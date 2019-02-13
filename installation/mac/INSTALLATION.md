@@ -23,24 +23,33 @@ If you're on macOS/OSX, you'll need to install:
 Make sure you have sudo (admin) rights on your machine. 
 
    - Download and Install Node from the <a href=https://nodejs.org/en/download/>NodeJS website</a>.  
-   - Check whether Node installed: 
-        - Open a Terminal and type <code> node</code>
-        - If all is good, you will get a cursor within the newy Launched Node, as shown below.
+   
+### Check Installation of Node: 
+
+   - Open a Terminal and type <code> node</code>
+   - If all is good, you will get a cursor within the newy Launched Node, as shown below.
         
-        <img src=/installation/mac/node1.png/>NodeLaunch</img>
-        - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
+        <img src=/installation/mac/node1.png>
+   - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
   
   ## Installing getpapers 
-  - Open a Terminal
-  - Type the following and press Enter.
   
->npm install --global getpapers
-
-   - This command, if all goes well, should reveal getpapers being installed and a final message that all went well.
+  - Open a Terminal
+  - Type <code>npm install --global getpapers</code> and press Return.
+  - The above command, if all goes well, should reveal getpapers being installed and a final message that all went well:
    
-## Installation of ami plugins/tools
+   <img src=/installation/mac/getpapers.png>getpapers>
+   
+   ### Check Installation of getpapers
+   - Open a Terminal
+   - Type <code>getpapers</code> and press Return.
+   - This should return the help for getpapers:
+      
+   <img src=/installation/mac/getpapers1.png>
+   
+## Installation of AMI
 
-- Make your own installation area (directory containing the package).
+- Make a distinct Installation Folder (directory containing the package).
    
 > mkdir AMI
 
@@ -48,26 +57,31 @@ Make sure you have sudo (admin) rights on your machine.
 
 > git clone https://github.com/petermr/ami-jars.git
 
-- Set environmental variable to access the ami plugins (tools)
+- Set environment variable to access ami plugins (tools)
 
-Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190115/bin/ or 
-../ami-jar/ami20190211/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
+    - First, Find your "Absolute Path": Type <code>pwd</code> on your terminal
+    - The newly Cloned ami repository contains .jars and ami plugins/tools. 
+    - Type <code>cd ami-jars/ami20190115/bin/ </code>  
+    - Type <code>pwd</code>  
+    - This is where All ami tools are contained.
+    - Replace the absolute path you got earlier for <code>absolute-path</code> in the following command:
 
-> export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
+> export PATH=$PATH:/absolute-path/ami-jar/ami20190115/bin/
 
-
-- Check for the set path.
+- Check your path:
 
 > echo $PATH
 
-Command will return absolute path of bin directory containing ami plugins/tools.
+- The above Command should return full path of bin directory containing ami plugins/tools.
 
-- Check for the installation.
+### Check Installation of ami
 
-> ami-search-cooccur
+ - Type <code>ami-pdf</code> on your terminal
 
-If exported or installed correctly. It will list out all tool help and usage information.
+   - If exported or installed correctly, this will list out a long help and usage information.
+   - If you get errors, please contact a helper.
+   
+   <img src=/installation/mac/ami1.png>
 
-
-Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
+* Full instructions for installation and use <a href=http://github.com/contentmine/getpapers>here</a>
 
