@@ -229,7 +229,9 @@ Problems for specific machine types / OS should be added here:
  * [unix](unix/)
  All steps of installation and tool running goes well over unix machine. 
  * [mac](mac/)
- Make sure of pre-installation requirements over macOSX i.e 
+ Make sure of pre-installation requirements over macOSX i.e XCode or Apple's developer environent - free from the mac App Store
+the command-line developer tools.
  * [windows](windows/)
+ environment variable PATH value should be set as small as possible. I kept all ami-jar contents i.e bin/, repo/ and mentioned dependencies into C:/ directory and exported the C:/bin from Advanced System Settings.
 
 
