@@ -37,7 +37,7 @@ Make sure you have sudo (admin) rights on your machine.
    
    <img src=/installation/mac/getpapers.png>getpapers</img>
    
-   * Check getpapers installation
+   ## Check Installation of getpapers
    
       - Open a Terminal
       - Type <code>getpapers</code> and press Return.
