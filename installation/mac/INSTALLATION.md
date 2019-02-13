@@ -23,14 +23,17 @@ If you're on macOS/OSX, you'll need to install:
 Make sure you have sudo (admin) rights on your machine. 
 
    - Download and Install Node from the <a href=https://nodejs.org/en/download/>NodeJS website</a>.  
+   
 ### Check Installation of Node: 
-        - Open a Terminal and type <code> node</code>
-        - If all is good, you will get a cursor within the newy Launched Node, as shown below.
+
+   - Open a Terminal and type <code> node</code>
+   - If all is good, you will get a cursor within the newy Launched Node, as shown below.
         
         <img src=/installation/mac/node1.png/>NodeLaunch</img>
-        - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
+   - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
   
   ## Installing getpapers 
+  
   - Open a Terminal
   - Type <code>npm install --global getpapers</code> and press Return.
   - The above command, if all goes well, should reveal getpapers being installed and a final message that all went well:
