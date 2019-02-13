@@ -45,6 +45,9 @@ The first two terms are not at all relevant, so we remove the below correspondin
 
 **In json file we can eliminate extra terms using any notepad(here i use `gedit`),i showed here that how can we find terms which are only belongs to wheat.I find a term`weetabix` which belongs to wheat thats why i do not remove it from json file .**
 
+**Another example is `wheat(film)` (id="CM.Wheat_category.54") is not belong to wheat ,cereal(grain) so we have to rmove this one.** 
+
+
 
 ![wheat_weetabix_term](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/weetabix_term.png)
 
