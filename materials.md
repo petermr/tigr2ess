@@ -4,7 +4,7 @@
 
 #### nvm-windows (Node virtual manager for Windows)
 
-- Access the page and download the [`nvm-setup.zip`](https://github.com/coreybutler/nvm-windows/releases) latest version of the setup.
+Access the page and download the [`nvm-setup.zip`](https://github.com/coreybutler/nvm-windows/releases) latest version of the setup.
  and go for the [installation](https://github.com/petermr/tigr2ess/edit/master/installation/INSTALLATION.md)
 
 #### unix and macOSX has common and similar way to retrieve the nvm setup.
