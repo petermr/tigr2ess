@@ -62,8 +62,8 @@ Make sure you have sudo (admin) rights on your machine.
     - First, Find your "Absolute Path": Type <code>pwd</code> on your terminal
     - The newly Cloned ami repository contains .jars and ami plugins/tools. 
     - Type <code>cd ami-jars/ami20190115/bin/ </code>  
-    - Type <code>pwd</code>. This is your Full Path.  
-    - All ami tools are contained in this directory.
+    - Type <code>pwd</code>  
+    - This is where All ami tools are contained.
     - Replace the absolute path you got earlier for <code>absolute-path</code> in the following command:
 
 > export PATH=$PATH:/absolute-path/ami-jar/ami20190115/bin/
@@ -76,10 +76,12 @@ Make sure you have sudo (admin) rights on your machine.
 
 ### Check Installation of ami
 
-> ami-search-cooccur
+ - Type <code>ami-pdf</code> on your terminal
 
-- If exported or installed correctly, this will either stay silent or list out all tool help and usage information.
-- If you get errors, please contact a helper.
+   - If exported or installed correctly, this will list out a long help and usage information.
+   - If you get errors, please contact a helper.
+   
+   <img src=/installation/mac/ami.png>
 
-## Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
+* Full instructions for installation and use are given at http://github.com/contentmine/getpapers page. 
 
