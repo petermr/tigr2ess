@@ -16,7 +16,7 @@ If you're on macOS/OSX, you'll need to install:
       - Download and Install the latest JDK for your OS from <a href=https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>here</a>
       - Check your JAva Installation <a href=https://www.java.com/en/download/help/version_manual.xml>here</a>
       - Open a Terminal and type <code>java -version</code>
-      - Make sure you have the latest version (At the time of writing 1.8)
+      - Make sure you have the latest version (At the time of writing: We have 1.8_201)
 
 ## installing nvm
 
