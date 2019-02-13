@@ -11,7 +11,8 @@ Tools are enabled for various computational platforms - Windows, Linux as well a
 
 ### Getpapers installation over windows.
 - step 1: Installing nvm-windows.
-Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases  and download nvm-setup.zip for the latest version. Unzip the downloaded file and run the included installer.
+Access the page [`nvm-setup.zip`](https://github.com/coreybutler/nvm-windows/releases)  and download latest verson of the
+nvm-setup.zip. Unzip the downloaded file and run the included installer.
 
 - step 2: Run following commands over windows command-prompt.
 > nvm install 7
@@ -56,13 +57,13 @@ Type following commands on to your terminal.
 > mkdir AMI
 ```
 - step 2: Get the ami software package into the directory.
-Download link - https://github.com/petermr/ami-jars
+Download [`ami-jars`](https://github.com/petermr/ami-jars)
 
 - step 3: Set environment variable to access the bin directory containing ami plugins/tools.
 To set environment variable in Windows - 08.
 
 ```
-               - From the desktop, right click the Computer icon.
+               - From the desktop, right click the Start menu.
                - Choose System from the context menu.
                - Click the Advanced system settings link.
                - Click new option into user variables for desktop.
@@ -80,10 +81,10 @@ To set environment variable in Windows - 08.
 > git clone https://github.com/petermr/ami-jars.git
 ```
 - step 3: Set environmental variable to access the ami plugins (tools).
-Get into either of the directory ../ami-jar/ami20190115/bin/ or ../ami-jar/ami20190115/bin/ folder. All ami tools are contained into it. 
+Get into either of the directory ../ami-jar/ami20190212a/bin/ or ../ami-jar/ami20190212a/bin/ folder. All ami tools are contained into it. 
 Set the absolute path of the bin directory to environment variable.
 ```
-> export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
+> export PATH=$PATH:/absolute path/ami-jar/ami20190212a/bin/
 ```
 check for the set path to bin directory
 ```
