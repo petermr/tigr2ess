@@ -59,7 +59,7 @@ https://en.wikipedia.org/wiki/List_of_Indian_spices
 
 This contains a list, arranged as a table:
 
-<table><tr><td><img src="./wp_listofspicestable.png"/></td></tr></table>
+<table><tr><td width="50%"><img src="./wp_listofspicestable.png"/></td></tr></table>
 
 These types of table-list will be very useful later.
 
