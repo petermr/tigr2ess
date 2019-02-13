@@ -123,7 +123,7 @@ C:\Users\hadoop_pc\AppData\Roaming\npm
 
 - To set environment variable in Windows - 08.
   
-       - From the desktop, right click the Computer icon.
+       - From the desktop, right click the Start menu.
        - Choose System from the context menu.
        - Click the Advanced system settings link.
        - Click new option into user variables for desktop.
