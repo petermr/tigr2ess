@@ -46,6 +46,8 @@ so we have:
  * *subject*: **Ocimum tenuiflorum** (Q960124)
  * *predicate* **`instanceof`** (P31)
  * *object*: **taxon** (Q16521).
+ 
+ You are NOT expected to memorise the Q and P numbers! The online Wikidata tools can look them up by name interactively.
 
 Properties are generally of two types:
  * "isA" - the suject is some sort-of the object
@@ -55,5 +57,29 @@ Properties are generally of two types:
  * language (if the object is a String)
  * reference/s to add the validity to the statement.
  
+## alternate wikidata pages and synonyms
+Synonyms are inescapable in plant science! Wikipedia collects synonyms and provides a single page. Thus searching Wikipedia for "Ocimum sanctum" redirects to https://en.wikipedia.org/Ocimum_tenuiflorum. However Wikidata has a separate page for many synonyms, so "Ocimum sanctum" https://www.wikidata.org/wiki/Q24852786 has:
+![](wd_osanctum.png)
+Now! Shouldn't this page say it is a synonym of *O. tenuiflorum*? Yes! and that highlights an important part od Wikidata - it relies on US to keep it up to date. Note that many of its IDs point to *O. tenuiflorum* pages.
+
+## Identifiers
+Wikidata has collected a huge number of identifier systems; at least 25 for plants alone. This is incredibly powerful as it makes it one of single points of entry for plant sciences. Here are some examples - great place to link out beyond Wikimeia - worth browsing!
+* ITIS https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=507863#null (taxonomy)
+* Encyclopedia of Life (https://eol.org/pages/480298) which has 12 attributes including *habitat* and an interactive distribution map.
+* GBIF https://www.gbif.org/species/2927100 with a world map and many synonyms
+* EPPO https://gd.eppo.int/taxon/OCISA many non-English names
+* iNaturalist: https://www.inaturalist.org/taxa/181060-Ocimum-tenuiflorum Volunteer science observations!
+* Kew World Checklist: http://wcsp.science.kew.org/namedetail.do?name_id=137105 lists of countries
+* Pollen database https://www.paldat.org/pub/Ocimum_tenuiflorum/300111
+* Plants for a Future https://pfaf.org/user/Plant.aspx?LatinName=Ocimum+tenuiflorum
+* Invasive species https://www.cabi.org/isc/datasheet/110287 large list of distribution,tolerance, etc.
+* FloraBase (Western Australia): https://florabase.dpaw.wa.gov.au/search/current/13969 "O. tenuiflorum" is not current!
+
+## Other wikipediaa and commons
+**This is the best place to find non-Englilsh Wikipedias** 
+![](wd_otherwp.png)
+
+
+
 
 
