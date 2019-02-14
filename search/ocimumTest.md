@@ -1,6 +1,6 @@
 # Documentation of test run of ami-search-cooccur over Ocimum sanctum test dataset.
 ## Introduction
-Contentmine is an open-source software suite for text data mining (content mining) especially of scientific journals. It is intended to benefit research based on literature survey in terms of high-throughput and accuracy.Here is documentation and tutorial related contentmine tools - Getpapers, norma and ami.
+Contentmine is an open-source software suite for text data mining (content mining) especially of scientific journals. It is intended to benefit research based on literature survey in terms of high-throughput and accuracy. Documentation and tutorial related contentmine tools - Getpapers, norma and ami - are as follows.
 - Getpapers - It fatches scientific papers (full PDF or XML) along with metadata and supplementary informations. It performs first most step for content mining acquiring scientific papers for reading or bibliometrics.
 - Norma - tool for processing the output of getpapers into normalized, tagged, XHTML or scholarly HTML which are further used as input for ami tools/plugins.
 - AMI tools/plugins - Mining and analysis is performed by these tools or plugins. It searches and indexes structured documents on a high-throughput basis.
@@ -9,106 +9,44 @@ Contentmine is an open-source software suite for text data mining (content minin
 
 Tools are enabled for various computational platforms - Windows, Linux as well as MacOS. Separate installation steps are discussed here.
 
-### Getpapers installation over windows.
-- step 1: Installing nvm-windows.
-Access the page [`nvm-setup.zip`](https://github.com/coreybutler/nvm-windows/releases)  and download latest verson of the
-nvm-setup.zip. Unzip the downloaded file and run the included installer.
+### Getpapers installation over [`windows`](https://github.com/petermr/tigr2ess/blob/master/installation/windows/INSTALLATION.md).
 
-- step 2: Run following commands over windows command-prompt.
-> nvm install 7
-> nvm use 7
 
-- step 3: Installing a node tool - getpapers.
-> npm install --global getpapers
+### Getpapapers installation over [`Linux`](https://github.com/petermr/tigr2ess/blob/master/installation/unix/INSTALLATION.md).
 
-One may check for getpapers installation directory.
-For example on my laptop it is installed into following directory.
-C:\Users\hadoop_pc\AppData\Roaming\npm
 
-## Getpapapers installation over Linux.
+### AMI tool installation over [`windows`](https://github.com/petermr/tigr2ess/blob/master/installation/windows/INSTALLATION.md).
 
-- step 1: Installing nvm  
-```
-> crl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
-```
-Make sure of curl installation. (sudo apt-get install curl).
 
-or
-```
-> wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
-```
-- step 2: Installing node
-Type following commands on to your terminal.
-```
->nvm install 7
+### AMI tools installation over [`Linux`](https://github.com/petermr/tigr2ess/blob/master/installation/windows/INSTALLATION.md).
 
->nvm use 7
 
->nvm alias default 7
-```
-- step 3: installing a node tool.
-```
->npm install --global getpapers
-```
-## AMI tool installation over windows.
-
-- srep 1: Make your own installation area (directory containing the package).
-```
-> mkdir AMI
-```
-- step 2: Get the ami software package into the directory.
-Download [`ami-jars`](https://github.com/petermr/ami-jars)
-
-- step 3: Set environment variable to access the bin directory containing ami plugins/tools.
-To set environment variable in Windows - 08.
-
-```
-               - From the desktop, right click the Start menu.
-               - Choose System from the context menu.
-               - Click the Advanced system settings link.
-               - Click new option into user variables for desktop.
-               - Set variable name (environment variable name) and value (absolute path value).
-```
-
-## AMI tools installation over Linux.
-
-- step 1: Make your own installation area (directory containing the package).
-```
-> mkdir AMI
-```
-- step 2: Get the ami software package (clone ami repository into your area or directory).  
-```
-> git clone https://github.com/petermr/ami-jars.git
-```
-- step 3: Set environmental variable to access the ami plugins (tools).
-Get into either of the directory ../ami-jar/ami20190212a/bin/ or ../ami-jar/ami20190212a/bin/ folder. All ami tools are contained into it. 
-Set the absolute path of the bin directory to environment variable.
-```
-> export PATH=$PATH:/absolute path/ami-jar/ami20190212a/bin/
-```
-check for the set path to bin directory
-```
-> echo $PATH
-```
 ## Check for the installation.
 ```
 > ami-pdf
+
 ```
 If exported or installed correctly. It will list out all tool help information.
 
 ## Running steps for getpapers and ami plugins/tools.
+
 - step 1: generate CProject.
+
 ```
 > getpapers -q <query_name> -o <project_folder>
+
 ```
 <query_name> - query name for the search (generally scientific names. These names are contained as dictionary into software suite.
 <project_folder> - name of the project folder (CProject). These contain the downloaded papers into PDF or XML format.
 
 - step 2: Add scholarly.html file to CProject folders.
+
 ```
 > norma --project <project_folder> -i fulltext.xml -o scholarly.html --transform nlm2html
+
 ```
 - step 3: Run ami plugins/tools.
+
 ```
 >ami-search-cooccur --project <project_folder>/ <plugin_options>
 
