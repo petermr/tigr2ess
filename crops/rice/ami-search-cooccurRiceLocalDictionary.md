@@ -28,9 +28,29 @@ Sources:
 
 - [`Category:Rice_varieties`](https://en.wikipedia.org/wiki/Category:Rice_varieties)
 
+#### `ami-search-cooccur` using  local dictionary created from [`Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
+```
+ambarish123@ubuntu:~$ ami-search-cooccur RiceOROryza-Rice_Varieties_Category/ country drugs gene plantparts species /home/ambarish123/Rice_Varieties_Category.xml
+
+```
 - [`Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
 
+#### `ami-search-cooccur` using  local dictionary created from [`Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
+
+```
+ambarish123@ubuntu:~$ ami-search-cooccur RiceOROryza-Oryza_Category/ country drugs gene plantparts species /home/ambarish123/Oryza_Category.xml
+
+```
+
 - [`List_of_rice_varieties`](https://en.wikipedia.org/wiki/List_of_rice_varieties)
+
+#### `ami-search-cooccur` using  local dictionary created from [`List_of_rice_varieties`](https://en.wikipedia.org/wiki/List_of_rice_varieties)
+
+```
+ambarish123@ubuntu:~$ ami-search-cooccur RiceOROryza-List_rice_varieties/ country drugs gene plantparts species /home/ambarish123/List_Rice_Varieties.xml
+
+```
+
 
 
 ## Run time log
