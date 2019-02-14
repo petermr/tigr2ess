@@ -7,7 +7,7 @@ Wikimedia launched `Wikidata` (https://en.wikipedia.org/wiki/wikidata) to suppor
 
 Wikidata defines objects called **Items**. An item is any object which can be precisely identified and given a permanent unique identifier. Thus *Ocimum tenuiflorum* has the unique ID Q960124. Every Wikidata `item` has a Wikidata page, e.g.
 https://www.wikidata.org/wiki/Q960124.
-![](otenuiflorum.png)
+![](wd_otenuiflorum.png)
 
 
 This page 
