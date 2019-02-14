@@ -17,7 +17,7 @@ of the dictionary file should be mentioned as in I have stored the `rice.xml` di
 As an command-line option I have passed it as `/home/ambarish123/rice.xml`
 Prefer to use `xml` formatted dictionary file as of light-weight and ease into handling embedded functionalities of the tool.  
 
-For the check or test-run let's try to get cooccurance between self i.e local rice dictionary - `rice.xml`.
+For the check or test-run let's try to get cooccurrence between self i.e local rice dictionary - `rice.xml`.
 
 ```        
     ambarish123@ubuntu:~$ ami-search-cooccur rice/ /home/ambarish123/rice.xml 
@@ -117,7 +117,7 @@ Visualisation of one folder (content) of the project.
 
 ```
 
-Here is tree structure for the cooccurance results.
+Here is tree structure for the cooccurrence results.
 
 ```
     ├── commonest.dataTables.html
@@ -261,23 +261,23 @@ Here is tree structure for the cooccurance results.
 ```
 
 ## Run time and memory requirements
-Storage space requirements for the project folder containing papers and all cooccurance results over the disk is around `324 MB`.
+Storage space requirements for the project folder containing papers and all cooccurrence results over the disk is around `324 MB`.
 Total elapsed time for the execution of the ami-search-cooccur is around `10-12 mins`.
 
 ## Cooccurance and search results
 
-#### screenshots of tables containg common-cooccurance results.
+#### screenshots of tables containg common-cooccurrence results.
 
-`commonest.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire Rice CProject. Table contains article wise information about cooccurences among self i.e Rice vs Rice.  
+`commonest.dataTablesRice-Rice.html.png` - Cooccurrence table formed from entire Rice CProject. Table contains article wise information about cooccurrences among self i.e Rice vs Rice.  
  
   ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.dataTablesRice-Rice.html.png)
-Cooccurance is found among self and with respect to each search term.
+Cooccurrence is found among self and with respect to each search term.
 
- * `count.dataTablesRice-Rice.html.png` - Cooccurence table formed from entire CProject containing artile wise count of most occurred term into scientific article.     
+ * `count.dataTablesRice-Rice.html.png` - Cooccurrence table formed from entire CProject containing artile wise count of most occurred term into scientific article.     
  
  ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/count.dataTablesRice-Rice.html.png)
 
-* `entries.dataTablesRice-Rice.html.png` -  Cooccurence table formed from entire CProject containing artile wise count of most occurred term into scientific article as an entry. 
+* `entries.dataTablesRice-Rice.html.png` -  Cooccurrence table formed from entire CProject containing artile wise count of most occurred term into scientific article as an entry. 
  
  ![](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.dataTablesRice-Rice.html.png)
  
