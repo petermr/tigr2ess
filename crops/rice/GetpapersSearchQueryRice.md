@@ -1,10 +1,10 @@
-# getpapers for Rice
+# `getpapers` for Rice
 
 Firstmost required step for ContentMine text data mining (TDM) is to download scientific articles. from the specified APIs.
 
 `getpapers` command is to download scientific articles into `xml, json or pdf` format.
 
-### Here is demonstrated getpapers command to download 100 scientific articles based on rice search query:
+### `getpapers` command to download 100 scientific articles based on rice search query:
 ```
      ambarish123@ubuntu:~$ getpapers -q rice -x -p -k 100  
 ```
@@ -38,9 +38,37 @@ Firstmost required step for ContentMine text data mining (TDM) is to download sc
     Downloading files [======================] 100% (98/98) [93.5s elapsed, eta 0.0]
     info: All downloads succeeded!
 ```
+
+### `getpapers` command to download 100 scientific articles using boolean search Rice OR Oryza 
+
+```
+ambarish123@ubuntu:~$ getpapers -q "Rice OR Oryza" -x -p -k 100 -o RiceOROryza
+info: Searching using eupmc API
+info: Found 2332941 open access results
+warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
+warn: getpapers EuPMCVersion: 5.3.2 vs. 6.0.3 reported by api
+info: Limiting to 100 hits
+Retrieving results [==============================] 100% (eta 0.0s)
+info: Done collecting results
+info: limiting hits
+info: Saving result metadata
+info: Full EUPMC result metadata written to eupmc_results.json
+info: Individual EUPMC result metadata records written
+info: Extracting fulltext HTML URL list (may not be available for all articles)
+info: Fulltext HTML URL list written to eupmc_fulltext_html_urls.txt
+info: Got XML URLs for 100 out of 100 results
+info: Downloading fulltext XML files
+Downloading files [====================] 100% (100/100) [14.6s elapsed, eta 0.0]
+info: All downloads succeeded!
+info: Downloading fulltext PDF files
+Downloading files [===================] 100% (100/100) [579.6s elapsed, eta 0.0]
+
+```
+
+
 ### Run time and memory requirements
 
-Total elapsed time in papers download is `93.5 + 17.8 seconds`. 
+Total elapsed time in papers download is `93.5 + 17.8 seconds` (using search query Rice) and `14.6 + 579.6 seconds` (using  boolean search query Rice OR Oryza). 
 `XML` formatted files are smaller than `PDF` ones. Downloading XML files using  `-x` command line option
 would take less time as of downloading `PDFs`. 
 
