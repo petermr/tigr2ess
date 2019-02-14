@@ -30,7 +30,7 @@ If exported or installed correctly. It will list out all tool help information.
 
 ## Running steps for getpapers and ami plugins/tools.
 
-- step 1: generate CProject.
+- step 1: generate CProject. 
 
 ```
 > getpapers -q <query_name> -o <project_folder>
