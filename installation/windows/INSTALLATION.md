@@ -12,7 +12,7 @@
 
 ### nvm-windows (Node virtual manager for Windows)
 
-- Go to the downloads page - https://github.com/coreybutler/nvm-windows/releases and download nvm-setup.zip for the latest version.
+- Go to the downloads page of [`nvm`](https://github.com/coreybutler/nvm-windows/releases) and download nvm-setup.zip for the latest version.
 Unzip the downloaded file and run the included installer.
 Run following commands over windows command-prompt.
 
