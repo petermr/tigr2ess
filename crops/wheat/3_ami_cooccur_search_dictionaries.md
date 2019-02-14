@@ -4,7 +4,7 @@ Using `getpapers`, we retrieved 100 papers for wheat in xml format, and stored t
 
 ## ami-search-cooccur (on default ami dictionaries)
 
-We issue the command `ami-search-cooccur` to run search and co-occurence on `  wheat_xml` project with the dictionaries for `species`, `gene`, `plantparts`, `drugs` and `monoterpene`. The exact command entered at the terminal is:
+We issue the command `ami-search-cooccur` to run search and co-occurence on `  wheat_xml` project with the dictionaries for  `plantparts`and `drugs`. The exact command entered at the terminal is:
 ```
 `ami-search-cooccur   wheat_xml/ species gene plantparts drugs monoterpene`
 ```
