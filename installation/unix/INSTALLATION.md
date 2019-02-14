@@ -138,7 +138,7 @@ Command will return absolute path of bin directory containing ami plugins/tools.
 
 - Check for the installation.
 
-> ami-search-cooccur 
+> ami-dictionary 
 
 If exported or installed correctly. It will list out all tool help and usage information.
 
