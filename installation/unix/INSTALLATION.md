@@ -19,6 +19,31 @@ or
 
 >wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
 
+#### Screenshot of nvm installation.
+
+````
+ambarish123@ubuntu:~$ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.30.1/install.sh | bash
+=> nvm is already installed in /home/ambarish123/.nvm, trying to update using git
+=> 
+=> Source string already in /home/ambarish123/.bashrc
+=> You currently have modules installed globally with `npm`. These will no
+=> longer be linked to the active version of Node when you install a new node
+=> with `nvm`; and they may (depending on how you construct your `$PATH`)
+=> override the binaries of modules installed with `nvm`:
+
+/home/ambarish123/.nvm/versions/node/v7.10.1/lib
+├── getpapers@0.4.17
+
+=> If you wish to uninstall them at a later point (or re-install them under your
+=> `nvm` Nodes), you can remove them from the system Node as follows:
+
+     $ nvm use system
+     $ npm uninstall -g a_module
+
+=> Close and reopen your terminal to start using nvm
+````
+`Remark` - Close and reopen your terminal to start using nvm.
+
 - step 2: Installing node
 
 Type following commands on to your terminal.
