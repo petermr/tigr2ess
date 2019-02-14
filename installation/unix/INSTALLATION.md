@@ -58,7 +58,7 @@ Enable nvm to use installed node. Run the following command.
 Cloned repository contains .jars and ami plugins/tools. Get into either of the directory ../ami-jar/ami20190115/bin/ or 
 ../ami-jar/ami20190211/bin/ folder. All ami tools are contained into it. Set the absolute path of the bin directory to environment variable.
 
-> export PATH=$PATH:/absolute path/ami-jar/ami20190115/bin/
+> export PATH=$PATH:/absolute path/ami-jar/ami20190212a/bin/
 
 
 - Check for the set path.
