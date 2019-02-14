@@ -7,7 +7,7 @@
    - Open a Terminal and type <code>java -version</code>
    - Make sure you have the latest version (At the time of writing: We have 1.8_201)
 
-## `nvm`, `node`, and node-tool - `getpapapers` installation over Linux.
+## `nvm`, `node`, and `node-tool - getpapers` installation over Linux.
 
 - step 1: Installing nvm  
 
