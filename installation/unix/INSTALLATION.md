@@ -52,6 +52,17 @@ Type following commands on to your terminal.
 
 Check for the version of installed node.
 
+#### Screenshot of the nvm installation.
+
+````
+ambarish123@ubuntu:~$ nvm install 7
+v7.10.1 is already installed.
+Now using node v7.10.1 (npm v4.2.0)
+
+````
+
+
+
 Enable nvm to use installed node. Run the following command.
  
 >node -v
@@ -67,6 +78,39 @@ Enable nvm to use installed node. Run the following command.
 - step 3: installing a node tool.
 
 >npm install --global getpapers
+
+#### Screenshot of the node and node-tool - getpapers installation.
+
+```
+ambarish123@ubuntu:~$ nvm install 7
+v7.10.1 is already installed.
+Now using node v7.10.1 (npm v4.2.0)
+ambarish123@ubuntu:~$ nvm use 7
+Now using node v7.10.1 (npm v4.2.0)
+ambarish123@ubuntu:~$ npm install --global getpapers
+npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
+npm WARN deprecated tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+npm WARN deprecated boom@2.10.1: This version is no longer maintained. Please upgrade to the latest version.
+npm WARN deprecated cryptiles@2.0.5: This version is no longer maintained. Please upgrade to the latest version.
+npm WARN deprecated hoek@2.16.3: This version is no longer maintained. Please upgrade to the latest version.
+/home/ambarish123/.nvm/versions/node/v7.10.1/bin/getpapers -> /home/ambarish123/.nvm/versions/node/v7.10.1/lib/node_modules/getpapers/bin/getpapers.js
+/home/ambarish123/.nvm/versions/node/v7.10.1/lib
+└─┬ getpapers@0.4.17 
+  ├─┬ crossref@0.1.2
+  │ └─┬ request@2.65.0
+  │   └─┬ form-data@1.0.1
+  │     └── async@2.6.2 
+  ├─┬ got@2.9.2
+  │ └── duplexify@3.7.1 
+  └─┬ requestretry@1.13.0
+    └─┬ request@2.88.0
+      ├─┬ har-validator@5.1.3
+      │ └── ajv@6.9.1 
+      └─┬ http-signature@1.2.0
+        └── sshpk@1.16.1 
+
+```
+
 
 ## Installation of ami plugins/tools
 
