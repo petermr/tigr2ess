@@ -56,7 +56,7 @@ C:\Users\hadoop_pc\AppData\Roaming\npm
 
 - Check for the installation.
               
-> ami-search-cooccur
+> ami-dictionary
 
 If exported or installed correctly. It will list out all tool help and usage information.
 
