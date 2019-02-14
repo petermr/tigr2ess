@@ -14,7 +14,7 @@ Short description of the command-line options are as follows.
 - `country`, `drugs`, `plantparts`, `species`, `gene` - built-in dictionaries and search terms. These have to 
 be placed white-space seperated.
 
-built-in dictionaries for `country`, `drugs`, `plantparts`, `species` and `gene (human)` are used to get cooccurrance search.
+built-in dictionaries for `country`, `drugs`, `plantparts`, `species` and `gene (human)` are used to get cooccurrence search.
 
  
 Search results find cooccurrences between `country`, `drugs`, `plantparts`, `species` and `gene (human)`.
@@ -245,10 +245,10 @@ Elapsed time on `ami-search-cooccur` steps - `10-12 mins`.
 
 
 ## Discussions
-All possible cooccurances among the search terms - `country`, `species`, `drugs`, `plantparts`, `gene` are found
-and stored into respective project folder. Apart, common cooccurances among entire project is tabulated and output is generated into `html, svg and csv` format. One may check into the `CProject folder` for the output files and can visualise `html and svg` files into their `internet browser`.
+All possible cooccurrences among the search terms - `country`, `species`, `drugs`, `plantparts`, `gene` are found
+and stored into respective project folder. Apart, common cooccurrences among entire project is tabulated and output is generated into `html, svg and csv` format. One may check into the `CProject folder` for the output files and can visualise `html and svg` files into their `internet browser`.
 
-Here is some screenshots of common cooccurances and results.
+Here is some screenshots of common cooccurrences and results.
 
 
 
