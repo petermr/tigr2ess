@@ -2,8 +2,17 @@
 
 Wikipedia contains a huge amount of semi-structured information but not organized in a way where it's computable. In 2012 
 Wikimedia launched `Wikidata` (https://en.wikipedia.org/wiki/wikidata) to support formalised computable knowledge.
+
 *This is not a formal treatment - see the link above*
-Wikidata defines objects called **Items**. An item is any object which can be precisely defined and given a permanent unique identifier. Thus NIPGR has the unique identifier `Q30282198`, which can be addressed by
+
+Wikidata defines objects called **Items**. An item is any object which can be precisely identified and given a permanent unique identifier. Thus *Ocimum tenuiflorum* has the unique ID Q960124. Every Wikidata `item` has a Wikidata page, e.g.
+https://www.wikidata.org/wiki/Q960124.
+![](otenuiflorum.png)
+
+
+This page 
+
+Thus NIPGR has the unique identifier `Q30282198`, which can be addressed by
 https://wikidata.org/wiki/Q30282198
 
 Every Wikidata item (over 50 million) has its own page. Here's NIPGR:
