@@ -1,0 +1,978 @@
+{
+  "id": [
+    "26315624"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26315624"
+  ],
+  "pmcid": [
+    "PMC4552454"
+  ],
+  "doi": [
+    "10.1186/s12870-015-0562-x"
+  ],
+  "title": [
+    "Genome sequencing of herb Tulsi (Ocimum tenuiflorum) unravels key genes behind its strong medicinal properties."
+  ],
+  "authorString": [
+    "Upadhyay AK, Chacko AR, Gandhimathi A, Ghosh P, Harini K, Joseph AP, Joshi AG, Karpe SD, Kaushik S, Kuravadi N, Lingu CS, Mahita J, Malarini R, Malhotra S, Malini M, Mathew OK, Mutt E, Naika M, Nitish S, Pasha SN, Raghavender US, Rajamani A, Shilpa S, Shingate PN, Singh HR, Sukhwal A, Sunitha MS, Sumathi M, Ramaswamy S, Gowda M, Sowdhamini R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Upadhyay AK"
+          ],
+          "firstName": [
+            "Atul K"
+          ],
+          "lastName": [
+            "Upadhyay"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9146-8914",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. atulk@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Chacko AR"
+          ],
+          "firstName": [
+            "Anita R"
+          ],
+          "lastName": [
+            "Chacko"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. anicko19@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Gandhimathi A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Gandhimathi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. gandhimathi@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghosh P"
+          ],
+          "firstName": [
+            "Pritha"
+          ],
+          "lastName": [
+            "Ghosh"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3641-6393",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. prithag@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Harini K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Harini"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. harinik@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Joseph AP"
+          ],
+          "firstName": [
+            "Agnel P"
+          ],
+          "lastName": [
+            "Joseph"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. agnel-praveen.joseph@stfc.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Joshi AG"
+          ],
+          "firstName": [
+            "Adwait G"
+          ],
+          "lastName": [
+            "Joshi"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "affiliation": [
+            "Manipal University, Madhav Nagar, 576104, Manipal, Karnataka, India. adwait@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Karpe SD"
+          ],
+          "firstName": [
+            "Snehal D"
+          ],
+          "lastName": [
+            "Karpe"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6062-7786",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. snehaldk@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaushik S"
+          ],
+          "firstName": [
+            "Swati"
+          ],
+          "lastName": [
+            "Kaushik"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. Swati.kaushik15@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuravadi N"
+          ],
+          "firstName": [
+            "Nagesh"
+          ],
+          "lastName": [
+            "Kuravadi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. alwaysnagesh@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lingu CS"
+          ],
+          "firstName": [
+            "Chandana S"
+          ],
+          "lastName": [
+            "Lingu"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. chandana@ccamp.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Mahita J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Mahita"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. mahitaj@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Malarini R"
+          ],
+          "firstName": [
+            "Ramya"
+          ],
+          "lastName": [
+            "Malarini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. ramyaml.nggl@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Malhotra S"
+          ],
+          "firstName": [
+            "Sony"
+          ],
+          "lastName": [
+            "Malhotra"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. sonymalh2@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Malini M"
+          ],
+          "firstName": [
+            "Manoharan"
+          ],
+          "lastName": [
+            "Malini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. malinim@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathew OK"
+          ],
+          "firstName": [
+            "Oommen K"
+          ],
+          "lastName": [
+            "Mathew"
+          ],
+          "initials": [
+            "OK"
+          ],
+          "affiliation": [
+            "School of Chemical and Biotechnology, SASTRA (A University), 613401, Thanjavur, TamilNadu, India. oommenkm@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Mutt E"
+          ],
+          "firstName": [
+            "Eshita"
+          ],
+          "lastName": [
+            "Mutt"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3225-4761",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. eshi.mutt@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Naika M"
+          ],
+          "firstName": [
+            "Mahantesha"
+          ],
+          "lastName": [
+            "Naika"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. mahantesha@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Nitish S"
+          ],
+          "firstName": [
+            "Sathyanarayanan"
+          ],
+          "lastName": [
+            "Nitish"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. nitishs@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Pasha SN"
+          ],
+          "firstName": [
+            "Shaik Naseer"
+          ],
+          "lastName": [
+            "Pasha"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "affiliation": [
+            "Manipal University, Madhav Nagar, 576104, Manipal, Karnataka, India. nasir@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Raghavender US"
+          ],
+          "firstName": [
+            "Upadhyayula S"
+          ],
+          "lastName": [
+            "Raghavender"
+          ],
+          "initials": [
+            "US"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. usraghu2012@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rajamani A"
+          ],
+          "firstName": [
+            "Anantharamanan"
+          ],
+          "lastName": [
+            "Rajamani"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. ananthu.bioinfo@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shilpa S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Shilpa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. shilpas@ccamp.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Shingate PN"
+          ],
+          "firstName": [
+            "Prashant N"
+          ],
+          "lastName": [
+            "Shingate"
+          ],
+          "initials": [
+            "PN"
+          ],
+          "affiliation": [
+            "Manipal University, Madhav Nagar, 576104, Manipal, Karnataka, India. prashants@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh HR"
+          ],
+          "firstName": [
+            "Heikham Russiachand"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. russiachand@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Sukhwal A"
+          ],
+          "firstName": [
+            "Anshul"
+          ],
+          "lastName": [
+            "Sukhwal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Chemical and Biotechnology, SASTRA (A University), 613401, Thanjavur, TamilNadu, India. anshul@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Sunitha MS"
+          ],
+          "firstName": [
+            "Margaret S"
+          ],
+          "lastName": [
+            "Sunitha"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. margarets@ncbs.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Sumathi M"
+          ],
+          "firstName": [
+            "Manojkumar"
+          ],
+          "lastName": [
+            "Sumathi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. manojkumarsumathi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramaswamy S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Ramaswamy"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. ramas@instem.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Gowda M"
+          ],
+          "firstName": [
+            "Malali"
+          ],
+          "lastName": [
+            "Gowda"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for Cellular and Molecular Platforms, GKVK Campus, Bellary Road, 560 065, Bangalore, India. malalig@ccamp.res.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Sowdhamini R"
+          ],
+          "firstName": [
+            "Ramanathan"
+          ],
+          "lastName": [
+            "Sowdhamini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. mini@ncbs.res.in."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6062-7786",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9146-8914",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3641-6393",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3225-4761",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6439-5652",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6312-3118",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2261385"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "212"
+  ],
+  "abstractText": [
+    "Krishna Tulsi, a member of Lamiaceae family, is a herb well known for its spiritual, religious and medicinal importance in India. The common name of this plant is 'Tulsi' (or 'Tulasi' or 'Thulasi') and is considered sacred by Hindus. We present the draft genome of Ocimum tenuiflurum L (subtype Krishna Tulsi) in this report. The paired-end and mate-pair sequence libraries were generated for the whole genome sequenced with the Illumina Hiseq 1000, resulting in an assembled genome of 374 Mb, with a genome coverage of 61 % (612 Mb estimated genome size). We have also studied transcriptomes (RNA-Seq) of two subtypes of O. tenuiflorum, Krishna and Rama Tulsi and report the relative expression of genes in both the varieties.The pathways leading to the production of medicinally-important specialized metabolites have been studied in detail, in relation to similar pathways in Arabidopsis thaliana and other plants. Expression levels of anthocyanin biosynthesis-related genes in leaf samples of Krishna Tulsi were observed to be relatively high, explaining the purple colouration of Krishna Tulsi leaves. The expression of six important genes identified from genome data were validated by performing q-RT-PCR in different tissues of five different species, which shows the high extent of urosolic acid-producing genes in young leaves of the Rama subtype. In addition, the presence of eugenol and ursolic acid, implied as potential drugs in the cure of many diseases including cancer was confirmed using mass spectrometry.The availability of the whole genome of O.tenuiflorum and our sequence analysis suggests that small amino acid changes at the functional sites of genes involved in metabolite synthesis pathways confer special medicinal properties to this herb."
+  ],
+  "affiliation": [
+    "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, 560 065, Bangalore, India. atulk@ncbs.res.in."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ocimum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "India"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4552454?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4552454"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-015-0562-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "uniprot",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-05-10"
+  ],
+  "dateOfCreation": [
+    "2015-08-28"
+  ],
+  "dateOfRevision": [
+    "2015-09-02"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-28"
+  ],
+  "firstPublicationDate": [
+    "2015-08-28"
+  ]
+}

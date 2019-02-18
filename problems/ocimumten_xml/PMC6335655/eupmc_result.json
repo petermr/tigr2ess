@@ -1,0 +1,286 @@
+{
+  "id": [
+    "30692846"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30692846"
+  ],
+  "pmcid": [
+    "PMC6335655"
+  ],
+  "doi": [
+    "10.1177/1177932218821362"
+  ],
+  "title": [
+    "Genome-Wide Analysis of Domain-Swap Predicted Products in the Genome of Anti-Stress Medicinal Plant: Ocimum tenuiflorum."
+  ],
+  "authorString": [
+    "Upadhyay AK, Sowdhamini R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Upadhyay AK"
+          ],
+          "firstName": [
+            "Atul Kumar"
+          ],
+          "lastName": [
+            "Upadhyay"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bangalore, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sowdhamini R"
+          ],
+          "firstName": [
+            "Ramanathan"
+          ],
+          "lastName": [
+            "Sowdhamini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6642-2367",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bangalore, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6642-2367",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2773548"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics and biology insights"
+          ],
+          "ISOAbbreviation": [
+            "Bioinform Biol Insights"
+          ],
+          "medlineAbbreviation": [
+            "Bioinform Biol Insights"
+          ],
+          "NLMid": [
+            "101467187"
+          ],
+          "ISSN": [
+            "1177-9322"
+          ],
+          "ESSN": [
+            "1177-9322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1177932218821362"
+  ],
+  "abstractText": [
+    "Computational approaches to high-throughput data are gaining importance because of explosion of sequences in the post-genomic era. This explosion of sequence data creates a huge gap among the domains of sequence structure and function, since the experimental techniques to determine the structure and function are very expensive, time taking, and laborious in nature. Therefore, there is an urgent need to emphasize on the development of computational approaches in the field of biological systems. Engagement of proteins in quaternary arrangements, such as domain swapping, might be relevant for higher compatibility of such genes at stress conditions. In this study, the capacity to engage in domain swapping was predicted from mere sequence information in the whole genome of holy Basil (Ocimum tenuiflorum), which is well known to be an anti-stress agent. Approximately, one-fourth of the proteins of O tenuiflorum are predicted to undergo three-dimensional (3D)-domain swapping. Furthermore, function annotation was carried out on all the predicted domain-swap sequences from the O tenuiflorum and Arabidopsis thaliana for their distribution in different Pfam protein families and gene ontology (GO) terms. These domain-swapped protein sequences are associated with many Pfam protein families with a wide range of GO annotation terms. A comparative analysis of domain-swap-predicted sequences in O tenuiflorum with gene products in A thaliana reveals that around 26% (2522 sequences) are close homologues across the 2 genomes. Functional annotation of predicted domain-swapped sequences infers that predicted domain-swap sequences are involved in diverse molecular functions, such as in gene regulation of abiotic stress conditions and adaptation to different environmental niches. Finally, the positively predicted sequences of A thaliana and O tenuiflorum were also examined for their presence in stress regulome, as recorded in our STIFDB database, to check the involvement of these proteins in different abiotic stresses."
+  ],
+  "affiliation": [
+    "National Centre for Biological Sciences (TIFR), GKVK Campus, Bangalore, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Random Forest",
+        "Protein Sequences",
+        "Machine-learning Approaches",
+        "Genomes And Proteome",
+        "Three-dimensional-domain Swapping"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335655?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335655"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1177932218821362"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pfam",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-30"
+  ],
+  "dateOfRevision": [
+    "2019-02-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

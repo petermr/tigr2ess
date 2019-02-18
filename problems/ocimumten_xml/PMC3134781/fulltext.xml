@@ -1,0 +1,204 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.1 20050630//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.1?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bioinformation</journal-id><journal-id journal-id-type="iso-abbrev">Bioinformation</journal-id><journal-id journal-id-type="publisher-id">Bioinformation</journal-id><journal-title-group><journal-title>Bioinformation</journal-title></journal-title-group><issn pub-type="epub">0973-2063</issn><publisher><publisher-name>Biomedical Informatics</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3134781</article-id><article-id pub-id-type="pmid">21769194</article-id><article-id pub-id-type="publisher-id">97320630006315</article-id><article-categories><subj-group subj-group-type="heading"><subject>Hypothesis</subject></subj-group></article-categories><title-group><article-title>Structure prediction and functional characterization of secondary metabolite proteins of <italic>Ocimum</italic></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Roy</surname><given-names>Sudeep</given-names></name><xref ref-type="corresp" rid="COR1">*</xref></contrib><contrib contrib-type="author"><name><surname>Maheshwari</surname><given-names>Nidhi</given-names></name></contrib><contrib contrib-type="author"><name><surname>Chauhan</surname><given-names>Rashi</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sen</surname><given-names>Naresh Kumar</given-names></name></contrib><contrib contrib-type="author"><name><surname>Sharma</surname><given-names>Ashok</given-names></name></contrib><aff>Biotechnology Division, Central Institute of Medicinal and Aromatic Plants, (Council of Scientific and Industrial Research), Kukrail Picnik Spot Road, P.O. CIMAP, Lucknow - 226015, India</aff></contrib-group><author-notes><corresp id="COR1"><label>*</label>Sudeep Roy: <email>roysudeep28@gmail.com</email>Phone: +919450614880</corresp></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>06</day><month>7</month><year>2011</year></pub-date><volume>6</volume><issue>8</issue><fpage>315</fpage><lpage>319</lpage><history><date date-type="received"><day>18</day><month>6</month><year>2011</year></date><date date-type="accepted"><day>27</day><month>6</month><year>2011</year></date></history><permissions><copyright-statement>&#x000a9; 2011 Biomedical Informatics</copyright-statement><copyright-year>2011</copyright-year><license license-type="open-access"><license-p>This is an open-access article, which permits unrestricted use, distribution, and reproduction in any medium,for non-commercial purposes, provided the original author and source are credited.</license-p></license></permissions><abstract><p>Various species of <italic>Ocimum</italic> have acquired special attention due to their medicinal properties. Different parts of the plant (root, stem, flower, leaves) are used in the
+treatment of a wide range of disorders from centuries. Experimental structures (X-ray and NMR) of proteins from different <italic>Ocimum</italic> species, are not yet available
+in the Protein Databank (PDB). These proteins play a key role in various metabolic pathways in <italic>Ocimum</italic>. 3D structures of the proteins are essential to determine
+most of their functions. Homology modeling approach was employed in order to derive structures for these proteins. A program meant for comparative modeling-
+Modeller 9v7 was utilized for the purpose. The modeled proteins were further validated by Prochek and Verify-3d and Errat servers. Amino acid composition and
+polarity of these proteins was determined by CLC-Protein Workbench tool. Expasy's Prot-param server and Cys_rec tool were used for physico-chemical and
+functional characterization of these proteins. Studies of secondary structure of these proteins were carried out by computational program, Profunc. Swiss-pdb
+viewer was used to visualize and analyze these homology derived structures. The structures are finally submitted in Protein Model Database, PMDB so that they
+become accessible to other users for further studies.</p></abstract><kwd-group><kwd><italic>Ocimum</italic></kwd><kwd>Homology modeling</kwd><kwd>CLC protein work bench</kwd><kwd>Secondary structure prediction</kwd><kwd>Swiss-PDB Viewer</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>Background</title><p>Botanically, basil belongs to the genus <italic>Ocimum</italic> of the family Lamiaceae. More
+than 160 species of <italic>Ocimum</italic> are reported from different parts of the world.
+Different parts (roots, stem, leaves, seeds and flowers) of <italic>Ocimum</italic> have been
+used for treatment of variety of diseases such as bronchitis, malaria, diarrhea,
+dysentery, skin diseases, arthritis etc. <italic>Ocimum</italic> sp. contains monoterpene
+derivatives such as camphor, limonene, thymol, citral, geraniol and linalool. A
+detailed analysis of protein sequences from <italic>Ocimum</italic>, their probable structures
+and mode of action are yet to be accomplished. Plants synthesize chemicals in
+their leaves in order to protect themselves from herbivores. One such class of
+defense compounds that has been used extensively by humans are members of
+phenylpropenoid class namely eugenol, chavicol and their derivatives. It has
+been reported that in basil glands, two closely related (90% identical) enzymes
+chavicol o-methyltransferase (CVOMT) and eugenol o-methyltransferase
+(EOMT) catalyze the formation of methylchavicol and methyleugenol from
+chavicol and eugenol respectively [<xref ref-type="bibr" rid="R01">1</xref>]. The enzymes are involved in aroma
+production in basil. From an evolutionary perspective plant and microbial
+PALs (phenylalanine ammonia lyase) are part of superfamily of enzymes from
+plants, fungi and bacteria, and are likely derived from a precursor of the
+widespread histidine ammonia lyase (HAL) family in the histidine degradation
+pathway [<xref ref-type="bibr" rid="R02">2</xref>]. 
+PAL catalyses the non-oxidative deamination of phenylalanine to
+trans-cinnamate and directs the carbon flow from the shikimate pathway to the
+various branches of the general phenylpropanoid metabolism. Lipooxygenase
+(Fatty-acid metabolism) is one of the most widely studied enzymes found in
+more than 60 species of plant and animal kingdom. The enzyme catalyses the
+biooxygenation of polyunsaturated fatty acids (PUFA) containing a cis, cis-1,
+4-pentadiene unit to form conjugated hydroperoxydienoic acids. Lipoxygenase
+has considerable application in food related products such as in bread making.
+The enzyme plays a significant role in formation of secondary metabolites in
+sweet basil.</p><p>Enzymatic browning of fruits and vegetables is caused mainly by the
+conversion of native phenolic compounds to quinones which are then
+polymerized to brown, red or black pigments imparting colour to various plant
+parts. The enzymes responsible for catalyzing this sequence of reactions are
+termed as polyphenol oxidases, but are also known as tyrosinases, catecholases,
+cresolases and phenolases [<xref ref-type="bibr" rid="R03">3</xref>]. Because of deleterious effect of enzymatic
+browning on fruits and vegetables much work is devoted as to retard or at least
+delay the browning process. Polyphenol oxidase being the causative agent
+responsible for browning is exploited for the purpose. The enzyme is involved
+in iso-quinoline alkaloid biosynthesis and in biosynthesis of other secondary
+metabolites. In order to understand biochemical function and interaction
+properties of the protein at molecular level, three dimensional structure of
+protein is foremost requirement. However, the number of available protein
+sequences exceeds far behind the available three dimensional protein
+structures. In order to compensate this, homology modeling approach came into
+being. These methods are believed to be cost-effective and time-effective when
+compared to X-rays crystallography and NMR techniques. Computational
+methods make use of hidden information inside amino acid sequences in order
+to predict protein structure and function. In the present study, <italic>In silico</italic> analysis
+and homology modeling studies on uncharacterized proteins in different
+species of <italic>Ocimum</italic> like <italic>O. basilicum</italic>, <italic>O. tenuiflorum</italic>, <italic>O. citriodorum</italic>, <italic>O. seloi</italic>,
+<italic>O. gratissimum</italic> and <italic>O. americanum</italic> whose structures are not yet available in
+PDB have been accomplished.</p></sec><sec id="s2"><title>Materials and Methodology</title><p>The amino acid sequences of secondary metabolite proteins of <italic>Ocimum</italic> whose
+structures are not yet available in RCSB Protein Databank (PDB) were
+retrieved from SWISSPROT, a public resource of curated protein sequences 
+[<xref ref-type="bibr" rid="R04">4</xref>]
+and subjected to NCBI BLAST [<xref ref-type="bibr" rid="R05">5</xref>]. Based on high score, lower e-value and
+maximum sequence identity, the best template was selected which was then
+used as reference structure to build a 3D model. Template and target proteins
+considered for the study have been shown in (see 
+<xref ref-type="supplementary-material" rid="SD1">Table 1</xref>).</p><sec id="s2a"><title>Model building and evaluation</title><p>The three dimensional structures of proteins were modeled using Modeler 9v8
+[<xref ref-type="bibr" rid="R06">6</xref>]. 
+Quality of generated models was evaluated with PROCHECK 
+[<xref ref-type="bibr" rid="R07">7</xref>] by
+Ramachandran plot analysis [<xref ref-type="bibr" rid="R08">8</xref>]. 
+Stereochemical quality and accuracy of the
+selected models was further improved by subjecting it to energy minimization
+with the GROMOS 96 43B1 parameters set, implementation of Swiss-PDB
+Viewer [<xref ref-type="bibr" rid="R09">9</xref>]. 
+Validation of generated models was further performed by VERIFY
+3D [<xref ref-type="bibr" rid="R10">10</xref>] and ERRAT 
+[<xref ref-type="bibr" rid="R11">11</xref>] programs. ProSA 
+[<xref ref-type="bibr" rid="R12">12</xref>] was used for the analysis of Zscores
+and energy plots. The three dimensional structures of modeled proteins
+were analyzed using Deep View Swiss PDB viewer. Root Mean Square
+Deviation (RMSD) values were calculated between the set of targets and
+template protein to see how much modeled protein deviates from the template
+protein structure.</p></sec><sec id="s2b"><title>Computation of amino acid composition</title><p>Amino acid composition (see <xref ref-type="supplementary-material" rid="SD1">Table 2</xref>) of <italic>Ocimum</italic>
+proteins under study was calculated using CLC protein workbench tool
+(<ext-link ext-link-type="uri" xlink:href="www.clcbio.com/protein">www.clcbio.com/protein</ext-link>). 
+The tool also provides estimation of percentage of
+hydrophobic and hydrophilic residues present in the protein (see
+<xref ref-type="supplementary-material" rid="SD1">Table 3</xref>).</p></sec><sec id="s2c"><title>Physiochemical characterization</title><p>For physiochemical characterization, theoretical pI (isoelectric point),
+molecular weight, &#x000ad;R and +R (total number of positive and negative residues),
+EI (extinction coefficient) [<xref ref-type="bibr" rid="R13">13</xref>], II 
+(instability index [<xref ref-type="bibr" rid="R14">14</xref>]) 
+[<xref ref-type="bibr" rid="R15">15</xref>], AI (aliphatic
+index) and GRAVY (grand average hydropathy) [<xref ref-type="bibr" rid="R16">16</xref>] were computed using the
+Expasy's ProtParam server [<xref ref-type="bibr" rid="R17">17</xref>] for set of proteins 
+(<ext-link ext-link-type="uri" xlink:href="http://us.expasy.org/tools/protparam.html">http://us.expasy.org/tools/protparam.html</ext-link>). 
+The results are shown in (see <xref ref-type="supplementary-material" rid="SD1">Table 4</xref>)</p></sec><sec id="s2d"><title>Functional characterization</title><p>CYS_REC (<ext-link ext-link-type="uri" xlink:href="http://sunl.softberry.com/berry.phtml?topic">http://sunl.softberry.com/berry.phtml?
+topic</ext-link>) was used to locate
+&#x0201c;SS bond&#x0201d; between the pair of cystein residues, if present. The tool yields
+position of cysteins, total number of cysteins present and pattern, if present, of
+pairs in the protein sequence as output. All the <italic>Ocimum</italic> proteins under study
+showed absence of disulphide bonds. The results are presented in Table 5 (see
+<xref ref-type="supplementary-material" rid="SD1">Supplementary material</xref>).</p></sec><sec id="s2e"><title>Secondary structure prediction</title><p>Profunc [<xref ref-type="bibr" rid="R18">18</xref>] 
+was employed for calculating the secondary structural features of
+<italic>Ocimum</italic> protein sequences. The results are presented in Table 6(see
+<xref ref-type="supplementary-material" rid="SD1">Supplementary material</xref>).</p></sec><sec id="s2f"><title>Submission of the modeled proteins in protein model database (PMDB)</title><p>The models generated for various <italic>Ocimum</italic> proteins were successfully
+submitted in Protein model database, PMDB [<xref ref-type="bibr" rid="R19">19</xref>] without any stereochemical
+errors. The submitted models can be accessed via their PMIDs (see Table 7
+<xref ref-type="supplementary-material" rid="SD1">Supplementary material</xref>).</p></sec></sec><sec id="s3"><title>Results and Discussion</title><p>As experimental structures of some of the important secondary metabolite
+proteins of <italic>Ocimum</italic> are not available, homology modeling approach was used
+in order to derive their structures.</p><sec id="s3a"><title>Model building, refinement and evaluation</title><sec id="s3ai"><title>PROCHECK analysis</title><p>Ramachandran plot for Chavicol O-methyltransferase (D3KYA1) has been
+illustrated in <xref ref-type="fig" rid="F1">Figure 1</xref>. 
+Altogether more than 90% of the residues were found to
+be in favoured and allowed regions, which validate the quality of homology
+models. The overall G-factor for D3KYA1 was &#x000ad;0.19. As the value is greater
+than the acceptable value &#x000ad;0.50, this suggests that the modeled structure is
+acceptable. The modeled structures were also validated by other structure
+verification servers such as Verify 3D and Errat. Verify 3D assigned a 3D-1D
+score of &#x0003e;0.2 for all the modeled proteins. This implies that the models are
+compatible with its sequence. ERRAT showed overall quality factor of 49.62
+for D3KYA1. The plot generated by Verify-3D and Errat for Chavicol
+omethyltransferase has been illustrated in <xref ref-type="fig" rid="F2">Figure 2A &#x00026; 2B</xref>.</p></sec><sec id="s3aii"><title>PROSA analysis</title><p>The z-score for all the modeled proteins was found to be within the range of
+scores typically found for native proteins of similar size showing good quality
+of the model. Energy Plot for chavicol o-methyltransferase (D3KYA1) with
+chain length (257 AA) and z-score (&#x000ad;7.26) is presented in <xref ref-type="fig" rid="F3">Figure 3A &#x00026; 3B</xref>.</p></sec><sec id="s3aiii"><title>Swiss-PDB viewer analysis of predicted model</title><p>Visualization and analysis of the model using Swiss-PDB reveals that there are
+no steric hindrances between the residues and thus modeled structures are
+stable. Structure-structure superimposition was done in order to calculate Root
+Mean Square Deviation (RMSD) between the target and template sequence.
+RMSD values for D3KYA1 were found to be 0.94. This implies good quality
+of the modeled structures. <xref ref-type="fig" rid="F4">Figure 4</xref> represents modeled structure of Chavicol
+o-methyltransferase.</p></sec><sec id="s3aiv"><title>Physiochemical characterization</title><p>The physiochemical parameters viz., theoretical isoelectric point (Ip),
+molecular weight, total number of positive and negative residues, extinction
+coefficient, half-life, instability index, aliphatic index and grand average
+hydropathy (GRAVY) were computed using the Expasy's ProtParam tool
+(<xref ref-type="supplementary-material" rid="SD1">Table 4</xref>). 
+The computed pI value for A8D7D8, B2ZA17, B6VQV5, B6VQV6,
+D3KYA1 (pI&#x0003c;7) indicated their acidic nature, whereas pI for A8D6D7,
+B2ZA12, B2ZA16 (pI&#x0003e;7) revealed there basic behaviour. The computed
+isoelectric point (pI) will be useful for developing buffer system for
+purification by isoelectric focusing method. Extinction coefficient values for
+<italic>Ocimum</italic> proteins at 280 nm ranged from 1490 to 50795 M-1cm-1 for
+B6VQV6 and D3KYA1 indicating the presence of higher concentration of Tyr
+and Trp. Cys was very low in concentration in all the eight <italic>Ocimum</italic> proteins
+studied. This indicates that these proteins cannot be analyzed using UV spectral
+methods. On the basis of instability index Expasy's ProtParam classified the
+B2ZA17 (Eugenol o-methyltransferase), A8D7D8 (Lipoxygenase), B2ZA12
+(Eugenol o-methyltransferase) and B2ZA16 (Eugenol o-methyltransferase)
+proteins as unstable (Instability index&#x0003e;40) and other <italic>Ocimum</italic> proteins as stable
+(Instability index&#x0003c;40). The aliphatic index (AI) which is defined as the relative
+volume of a protein occupied by aliphatic side chain is regarded as the positive
+factor for the increase of thermal stability of globular proteins. The very high
+aliphatic index of all <italic>Ocimum</italic> proteins infers that these proteins may be stable
+for a wide range of temperature. The very low GRAVY index of proteins
+B6VQV6 and D3KYA1 infers that these proteins could result in a better
+interaction with water.</p></sec><sec id="s3av"><title>Functional characterization</title><p>The result of primary analysis suggests that all the <italic>Ocimum</italic> proteins under
+study were hydrophobic in nature due to the presence of high non-polar
+residues content (<xref ref-type="supplementary-material" rid="SD1">Table 2 &#x00026; 3</xref>). As percentage of Cysteine(C) is very low in all
+the <italic>Ocimum</italic> proteins under study (<xref ref-type="supplementary-material" rid="SD1">Table 2</xref>), none of these proteins have
+disulphide bond linkages, as indicated by CYS_REC result (<xref ref-type="supplementary-material" rid="SD1">Table 4</xref>). The
+extensive hydrogen bonding may provide stability to these proteins in absence
+of disulphide bonds. Proteins B2ZA12, A8D6D7 and B6VQV5 have high
+percentage of methionine(M), alanine(A), leucine(L) and lysine(K). As these
+amino acids have high helix-forming propensities, alpha helix are dominant in
+these proteins. This is also evident from analysis of PROFUNC result 
+(<xref ref-type="supplementary-material" rid="SD1">Table 6</xref>). 
+Rest of the <italic>Ocimum</italic> proteins had mixed secondary structures i.e.
+alphahelices, beta-strands and coils. All the proteins showed high percentage of
+glycine and proline (<xref ref-type="supplementary-material" rid="SD1">Table 2</xref>). 
+As these amino acids are common in turns, other
+secondary structures such as Beta turns and Gamma turns are dominant in these
+proteins (<xref ref-type="supplementary-material" rid="SD1">Table 6</xref>).</p></sec><sec id="s3avi"><title>Submission of modeled proteins in PMDB</title><p>The modeled structures of proteins from various species of Ocimum were
+successfully deposited in Protein Model Database (PMDB). The PMDB ID for
+the submitted structures has been presented in (see 
+<xref ref-type="supplementary-material" rid="SD1">Table 7</xref>). 
+These 3D structures may be further used in characterizing the
+protein experimentally.</p></sec></sec></sec><sec id="s4"><title>Conclusion</title><p>In this study proteins from various species of <italic>Ocimum</italic> were modeled using
+homology modeling approach. Different parameters such as isoelectric point,
+molecular weight, total number of positive and negative residues, extinction
+coefficient, instability index, aliphatic index and grand average hydropathy
+(GRAVY) were computed for these proteins in order to determine their
+physiochemical characteristics. All the proteins were found to be deficient in
+amino acid cystein, and therefore lack presence of disulphide linkages as also
+inferred from analysis of cys_rec result. In the absence of disulphide bond,
+extensive hydrogen bonding is believed to be responsible for stability of these
+proteins. Polarity studies using CLC protein work bench tool confirmed all the
+studied proteins to be hydrophobic in nature. This may be due to the presence
+of a large number of non-polar residues. Secondary structure studies showed
+that all the studied proteins contain high proportion of other secondary
+structures ie. Beta-turns and Gamma-turns. This is attributed to the presence of
+higher concentration of proline and glycine residues. The modeled structures
+can be accessed through protein model database PMDB via there PMID's.
+Homology derived models are extensively used in wide range of applications
+such as virtual screening, site-directed mutagenesis experiments or in
+rationalizing the effects of sequence variation. These structures will serve as
+cornerstone for functional analysis of experimentally derived crystal structures.</p></sec><sec sec-type="supplementary-material"><title>Supplementary material</title><supplementary-material content-type="local-data" id="SD1"><caption><title>Data 1</title></caption><media xlink:href="97320630006315S1.pdf" xlink:type="simple" id="d34e436" position="anchor" mimetype="application" mime-subtype="pdf"/></supplementary-material></sec></body><back><ack><p>Financial support of Department of Biotechnology (DBT) Govt of India; New
+Delhi under BTISnet program is gratefully acknowledged. Sudeep Roy is
+thankful to Council of Scientific and Industrial Research for Senior Research
+Fellowship.</p></ack><fn-group><fn id="FN1" fn-type="other"><p><bold>Citation:</bold>Roy <italic>et al</italic>, Bioinformation 6(8): 315-319 (2011)</p></fn></fn-group><ref-list><title>References</title><ref id="R01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>T</surname><given-names>Koeduka</given-names></name><etal/></person-group><source>Plant Physiol</source><year>2009</year><volume>149</volume><fpage>384</fpage><pub-id pub-id-type="pmid">18987218</pub-id><pub-id pub-id-type="pmid">18987218</pub-id></element-citation></ref><ref id="R02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D</surname><given-names>Rother</given-names></name><etal/></person-group><source>Eur J Biochem</source><year>2002</year><volume>269</volume><fpage>3065</fpage><pub-id pub-id-type="pmid">12071972</pub-id><pub-id pub-id-type="pmid">12071972</pub-id></element-citation></ref><ref id="R03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>AM</surname><given-names>Mayer</given-names></name><name><surname>E</surname><given-names>Harel</given-names></name></person-group><source>Phytochemistry</source><year>1979</year><volume>18</volume><fpage>193</fpage></element-citation></ref><ref id="R04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>A</surname><given-names>Bairoch</given-names></name><name><surname>R</surname><given-names>Apweiler</given-names></name></person-group><source>Nucleic Acids Res</source><year>2000</year><volume>28</volume><fpage>45</fpage><pub-id pub-id-type="pmid">10592178</pub-id><pub-id pub-id-type="pmid">10592178</pub-id></element-citation></ref><ref id="R05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>SF</surname><given-names>Altschul</given-names></name><etal/></person-group><source>J Mol Biol</source><year>1990</year><volume>215</volume><fpage>403</fpage><pub-id pub-id-type="pmid">2231712</pub-id><pub-id pub-id-type="pmid">2231712</pub-id></element-citation></ref><ref id="R06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>A</surname><given-names>Sali</given-names></name><name><surname>TL</surname><given-names>Blundell</given-names></name></person-group><source>J Mol Biol</source><year>1993</year><volume>234</volume><fpage>779</fpage><pub-id pub-id-type="pmid">8254673</pub-id><pub-id pub-id-type="pmid">8254673</pub-id></element-citation></ref><ref id="R07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>RA</surname><given-names>Laskowski</given-names></name><etal/></person-group><source>J Appl Cryst</source><year>1993</year><volume>26</volume><fpage>283</fpage></element-citation></ref><ref id="R08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>GN</surname><given-names>Ramachandran</given-names></name><etal/></person-group><source>J Mol Biol</source><year>1963</year><volume>7</volume><fpage>95</fpage><pub-id pub-id-type="pmid">13990617</pub-id><pub-id pub-id-type="pmid">13990617</pub-id></element-citation></ref><ref id="R09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>W</surname><given-names>Kaplan</given-names></name><name><surname>TG</surname><given-names>Littlejohn</given-names></name></person-group><source>Brief Bioinform</source><year>2001</year><volume>2</volume><fpage>195</fpage><pub-id pub-id-type="pmid">11465736</pub-id><pub-id pub-id-type="pmid">11465736</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D</surname><given-names>Eisenberg</given-names></name><etal/></person-group><source>Methods Enzymol</source><year>1997</year><volume>277</volume><fpage>396</fpage><pub-id pub-id-type="pmid">9379925</pub-id><pub-id pub-id-type="pmid">9379925</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>VC</surname><given-names>Colovos</given-names></name><name><surname>TO</surname><given-names>Yeates</given-names></name></person-group><source>Protein Sci</source><year>1993</year><volume>2</volume><fpage>1511</fpage><pub-id pub-id-type="pmid">8401235</pub-id><pub-id pub-id-type="pmid">8401235</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>MJ</surname><given-names>Sippl</given-names></name></person-group><source>Proteins</source><year>1993</year><volume>17</volume><fpage>355</fpage><pub-id pub-id-type="pmid">8108378</pub-id><pub-id pub-id-type="pmid">8108378</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>SC</surname><given-names>Gill</given-names></name><name><surname>PH</surname><given-names>von Hippel</given-names></name></person-group><source>Anal Biochem</source><year>1989</year><volume>182</volume><fpage>319</fpage><pub-id pub-id-type="pmid">2610349</pub-id><pub-id pub-id-type="pmid">2610349</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>K</surname><given-names>Guruprasad</given-names></name><etal/></person-group><source>Protein Eng</source><year>1990</year><volume>4</volume><fpage>155</fpage><pub-id pub-id-type="pmid">2075190</pub-id><pub-id pub-id-type="pmid">2075190</pub-id></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>A</surname><given-names>Ikai</given-names></name><etal/></person-group><source>J Biochem</source><year>1980</year><volume>88</volume><fpage>1895</fpage><pub-id pub-id-type="pmid">7462208</pub-id><pub-id pub-id-type="pmid">7462208</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>J</surname><given-names>Kyte</given-names></name><name><surname>RF</surname><given-names>Doolittle</given-names></name></person-group><source>J Mol Biol</source><year>1982</year><volume>157</volume><fpage>105</fpage><pub-id pub-id-type="pmid">7108955</pub-id><pub-id pub-id-type="pmid">7108955</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>MR</surname><given-names>Wilkins</given-names></name><etal/></person-group><source>Methods Mol Biol</source><year>1999</year><volume>112</volume><fpage>531</fpage><pub-id pub-id-type="pmid">10027275</pub-id><pub-id pub-id-type="pmid">10027275</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>RA</surname><given-names>Laskowski</given-names></name><etal/></person-group><source>Nucleic Acids Res</source><year>2005</year><volume>33</volume><fpage>W89</fpage><pub-id pub-id-type="pmid">15980588</pub-id><pub-id pub-id-type="pmid">15980588</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>T</surname><given-names>Castrignan&#x000f2;</given-names></name><etal/></person-group><source>Nucleic Acids Res</source><year>2006</year><volume>34</volume><fpage>D306</fpage><pub-id pub-id-type="pmid">16381873</pub-id><pub-id pub-id-type="pmid">16381873</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="F1" position="float"><label>Figure 1</label><caption><p>Ramachandran plot of chavicol obtained by PROCHECK. 91.2%
+residues in favourable regions; 8.0% residues in additional residue regions;
+0.0% residues in generously regions; 0.9% residues in disallowed regions; Over
+all G-factor: 0.00.</p></caption><graphic xlink:href="97320630006315F1"/></fig><fig id="F2" position="float"><label>Figure 2</label><caption><p>(A) Verify-3D plot, (B) Errat plot</p></caption><graphic xlink:href="97320630006315F2"/></fig><fig id="F3" position="float"><label>Figure 3</label><caption><p>(A) Prosa-web z-score plot, (B) Prosa-web plot of residue scores</p></caption><graphic xlink:href="97320630006315F3"/></fig><fig id="F4" position="float"><label>Figure 4</label><caption><p>Modeled structure of Chavicol o-methyltransferase as viewed by
+Swiss-PDB viewer</p></caption><graphic xlink:href="97320630006315F4"/></fig></floats-group></article>

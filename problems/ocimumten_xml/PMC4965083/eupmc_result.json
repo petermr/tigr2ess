@@ -1,0 +1,375 @@
+{
+  "id": [
+    "27467780"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27467780"
+  ],
+  "pmcid": [
+    "PMC4965083"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0159627"
+  ],
+  "title": [
+    "Genome-Wide Prediction and Analysis of 3D-Domain Swapped Proteins in the Human Genome from Sequence Information."
+  ],
+  "authorString": [
+    "Upadhyay AK, Sowdhamini R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Upadhyay AK"
+          ],
+          "firstName": [
+            "Atul Kumar"
+          ],
+          "lastName": [
+            "Upadhyay"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9146-8914",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, Bangalore 560 065, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sowdhamini R"
+          ],
+          "firstName": [
+            "Ramanathan"
+          ],
+          "lastName": [
+            "Sowdhamini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, Bangalore 560 065, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9146-8914",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2424094"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0159627"
+  ],
+  "abstractText": [
+    "3D-domain swapping is one of the mechanisms of protein oligomerization and the proteins exhibiting this phenomenon have many biological functions. These proteins, which undergo domain swapping, have acquired much attention owing to their involvement in human diseases, such as conformational diseases, amyloidosis, serpinopathies, proteionopathies etc. Early realisation of proteins in the whole human genome that retain tendency to domain swap will enable many aspects of disease control management. Predictive models were developed by using machine learning approaches with an average accuracy of 78% (85.6% of sensitivity, 87.5% of specificity and an MCC value of 0.72) to predict putative domain swapping in protein sequences. These models were applied to many complete genomes with special emphasis on the human genome. Nearly 44% of the protein sequences in the human genome were predicted positive for domain swapping. Enrichment analysis was performed on the positively predicted sequences from human genome for their domain distribution, disease association and functional importance based on Gene Ontology (GO). Enrichment analysis was also performed to infer a better understanding of the functional importance of these sequences. Finally, we developed hinge region prediction, in the given putative domain swapped sequence, by using important physicochemical properties of amino acids."
+  ],
+  "affiliation": [
+    "National Centre for Biological Sciences (TIFR), GKVK Campus, Bellary Road, Bangalore 560 065, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Theoretical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Support Vector Machine"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4965083?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4965083"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0159627"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-07-18"
+  ],
+  "dateOfCreation": [
+    "2016-07-29"
+  ],
+  "dateOfRevision": [
+    "2017-07-18"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-28"
+  ],
+  "firstPublicationDate": [
+    "2016-07-28"
+  ]
+}

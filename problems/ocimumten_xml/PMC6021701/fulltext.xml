@@ -1,0 +1,356 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Food Sci Nutr</journal-id><journal-id journal-id-type="iso-abbrev">Food Sci Nutr</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2048-7177</journal-id><journal-id journal-id-type="publisher-id">FSN3</journal-id><journal-title-group><journal-title>Food Science &#x00026; Nutrition</journal-title></journal-title-group><issn pub-type="epub">2048-7177</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6021701</article-id><article-id pub-id-type="doi">10.1002/fsn3.622</article-id><article-id pub-id-type="publisher-id">FSN3622</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Mining online activity data to understand food consumption behavior: A case of Asian fish sauce among Japanese consumers</article-title><alt-title alt-title-type="left-running-head">NAKANO et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="fsn3622-cr-0001" contrib-type="author"><name><surname>Nakano</surname><given-names>Mitsutoshi</given-names></name><xref ref-type="aff" rid="fsn3622-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="fsn3622-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="fsn3622-cr-0002" contrib-type="author"><name><surname>Sato</surname><given-names>Hiroaki</given-names></name><xref ref-type="aff" rid="fsn3622-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="fsn3622-cr-0003" contrib-type="author"><name><surname>Watanabe</surname><given-names>Toshihiro</given-names></name><xref ref-type="aff" rid="fsn3622-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="fsn3622-cr-0004" contrib-type="author"><name><surname>Takano</surname><given-names>Katsumi</given-names></name><xref ref-type="aff" rid="fsn3622-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="fsn3622-cr-0005" contrib-type="author" corresp="yes"><name><surname>Sagane</surname><given-names>Yoshimasa</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7815-3141</contrib-id><address><email>y3sagane@bioindustry.nodai.ac.jp</email></address><xref ref-type="aff" rid="fsn3622-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="fsn3622-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Food and Cosmetic Science</named-content>
+<named-content content-type="organisation-division">Faculty of Bioindustry</named-content>
+<institution>Tokyo University of Agriculture</institution>
+<named-content content-type="city">Abashiri</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="fsn3622-aff-0002">
+<label><sup>2</sup></label>
+<institution>The Organization for the Promotion of International Relationship</institution>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="fsn3622-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Applied Biology and Chemistry</named-content>
+<named-content content-type="organisation-division">Faculty of Applied Bioscience</named-content>
+<institution>Tokyo University of Agriculture</institution>
+<named-content content-type="city">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Yoshimasa Sagane, Department of Food and Cosmetic Science, Faculty of Bioindustry, Tokyo University of Agriculture, Abashiri, Japan.<break/>
+Email: <email>y3sagane@bioindustry.nodai.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2018</year></pub-date><volume>6</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/fsn3.2018.6.issue-4</issue-id><fpage>791</fpage><lpage>799</lpage><history><date date-type="received"><day>23</day><month>10</month><year>2017</year></date><date date-type="rev-recd"><day>30</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>11</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Food Science &#x00026; Nutrition</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:FSN3-6-791.pdf"/><abstract id="fsn3622-abs-0001"><title>Abstract</title><p>Internet search engines and online recipe repositories have become increasingly popular resources among households for recipes and meal planning. Meanwhile, fish sauce's distinct flavor makes it a popular condiment in Southeast Asian countries. Although fish sauce is used as a condiment for traditional cuisine in Japan, it is not popular for general household use. To understand the consumption behavior regarding fish sauce in Japanese households, we analyzed search trends for the words <italic>nampla</italic> (Thai fish sauce), <italic>nuoc mam</italic> (Vietnamese fish sauce), and <italic>shottsuru</italic> (Japanese fish sauce) using Google's search engine and the Japanese online recipe site Cookpad. The results clearly indicate <italic>nampla</italic>'s rising popularity due to the rapid spread of Thai cuisine and an annually increasing traditional consumption of Japanese fish sauce. These results provide insights into the household demand for fish sauce.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="fsn3622-kwd-0001">consumer preference</kwd><kwd id="fsn3622-kwd-0002">consumption behavior</kwd><kwd id="fsn3622-kwd-0003">fish sauce</kwd><kwd id="fsn3622-kwd-0004">Japan</kwd><kwd id="fsn3622-kwd-0005">Japanese food</kwd><kwd id="fsn3622-kwd-0006">online recipes</kwd><kwd id="fsn3622-kwd-0007">online search</kwd><kwd id="fsn3622-kwd-0008">Thai food</kwd><kwd id="fsn3622-kwd-0009">Vietnamese food</kwd></kwd-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="9"/><word-count count="4041"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>fsn3622</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.1.1 mode:remove_FC converted:28.06.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="fsn3622-cit-1001">
+<string-name>
+<surname>Nakano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sagane</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Mining online activity data to understand food consumption behavior: A case of Asian fish sauce among Japanese consumers</article-title>. <source xml:lang="en">Food Sci Nutr</source>. <year>2018</year>;<volume>6</volume>:<fpage>791</fpage>&#x02013;<lpage>799</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/fsn3.622">https://doi.org/10.1002/fsn3.622</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="fsn3622-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Consumers choose food based on many factors, such as flavor, appearance, nutritional value, function, and the package's label (Borgmeier &#x00026; Wstenhoefer, <xref rid="fsn3622-bib-0002" ref-type="ref">2009</xref>). Further, familiarity with the food is an important factor in consumer acceptance (Verneau, Caracciolo, Coppola, &#x00026; Lombardi, <xref rid="fsn3622-bib-0020" ref-type="ref">2013</xref>). Food researchers and developers analyze consumers' preferences and acceptance by conducting consumer surveys and interviews (Honkanen &#x00026; Frewer, <xref rid="fsn3622-bib-0008" ref-type="ref">2009</xref>; Kearney, Kearney, Dunne, &#x00026; Gibney, <xref rid="fsn3622-bib-0011" ref-type="ref">2000</xref>; Milo&#x00161;evi&#x00107;, &#x0017d;e&#x0017e;elj, Gorton, &#x00026; Barjolle, <xref rid="fsn3622-bib-0014" ref-type="ref">2012</xref>); they can then construct new product concepts and produce pilot&#x02010;scale products based on this research. This traditional approach to product development requires many respondents for questionnaires, interviews, and sensory evaluations. The quality of the questionnaire and interview analyses primarily depends on the prepared questions as well as the interviewers' capabilities (Bastian, Eggett, &#x00026; Jefferies, <xref rid="fsn3622-bib-0001" ref-type="ref">2015</xref>).</p><p>Currently, information technology has enabled the accumulation of large amounts of data from social Web sites and the simple extraction of such data using search engines. Economists (Carri&#x000e8;re&#x02010;Swallow &#x00026; Labb&#x000e9;, <xref rid="fsn3622-bib-0004" ref-type="ref">2013</xref>; Choi &#x00026; Varian, <xref rid="fsn3622-bib-0005" ref-type="ref">2012</xref>; Vosen &#x00026; Schmidt, <xref rid="fsn3622-bib-0021" ref-type="ref">2011</xref>), policymakers (Ripberger, <xref rid="fsn3622-bib-0017" ref-type="ref">2011</xref>), epidemiologists (Carneiro &#x00026; Mylonakis, <xref rid="fsn3622-bib-0003" ref-type="ref">2009</xref>; Seifter, Schwarzwalder, Geis, &#x00026; Aucott, <xref rid="fsn3622-bib-0018" ref-type="ref">2010</xref>), and biologists (Mccallum &#x00026; Bury, <xref rid="fsn3622-bib-0013" ref-type="ref">2013</xref>; Proulx, Massicotte, &#x00026; P&#x000e9;pino, <xref rid="fsn3622-bib-0016" ref-type="ref">2013</xref>) increasingly use accumulated online data to understand markets, public opinion trends, and the spread of human infectious diseases, and to observe creatures' behaviors. Recently, in addition to Web sites that provide general information, online recipe sites&#x02014;such as Cookpad (<ext-link ext-link-type="uri" xlink:href="https://www.cookpad.com">https://www.cookpad.com</ext-link>) and Allrecipes (<ext-link ext-link-type="uri" xlink:href="http://www.allrecipes.com)-have">http://www.allrecipes.com)-have</ext-link> become popular among households to find recipes shared by users and plan meals.</p><p>Meanwhile, fish sauce is a brown dressing widely consumed in most Southeast Asian countries and is referred to by different names across countries: <italic>nampla</italic> in Thailand, <italic>nuoc mam</italic> in Vietnam, and <italic>shottsuru</italic> in Japan (Akita Prefecture in particular). Generally, fish sauce is produced by fermenting fish material and salt (Fukami, Funatsu, Kawasaki, &#x00026; Watabe, <xref rid="fsn3622-bib-0006" ref-type="ref">2004</xref>), and microorganisms are often used to catalyze fermentation. During this fermentation process, the proteins in the fish material are hydrolyzed into amino acids and peptides, both by endogenous and by microorganism proteases, which results in the fish sauce's distinctive taste (Lopetcharat, Choi, Park, &#x00026; Daeschel, <xref rid="fsn3622-bib-0012" ref-type="ref">2001</xref>; Taira, Funatsu, Satomi, Takano, &#x00026; Abe, <xref rid="fsn3622-bib-0019" ref-type="ref">2007</xref>). The fermentation process also produces volatile compounds responsible for its characteristic odor (Yongsawatdigul, Rodtong, &#x00026; Raksakulthai, <xref rid="fsn3622-bib-0022" ref-type="ref">2007</xref>; Zheng et&#x000a0;al., <xref rid="fsn3622-bib-0023" ref-type="ref">2017</xref>).</p><p>Soy sauce and miso are fermented foods made from soybeans and are widely consumed as condiments in Japan. However, it is difficult to acquire soy sauce and miso in coastal areas due to a lack of soybeans. Therefore, fish are used to produce a substitute for soy sauce; fish sauce is primarily homemade, resulting in a unique fish sauce&#x02010;related food culture in limited areas of Japan. Nonetheless, homemade fish sauce production declined due to the emergence of industrial production and subsequent commercial availability of soy sauce and miso, caused by a drastic change in Japanese society after the Meiji era (Ishige, <xref rid="fsn3622-bib-0010" ref-type="ref">1986</xref>). Thereafter, fish sauce was only produced in limited areas (i.e., <italic>shottsuru</italic> in Akita Prefecture and <italic>ishiru</italic> in Ishikawa Prefecture). Our recent investigation indicates that the Japanese people have gradually lost interest in fish sauce produced in Japan (Nakano et&#x000a0;al., <xref rid="fsn3622-bib-0015" ref-type="ref">2017</xref>). Despite waning consumer demand, fish sauce production has gained attention, and many local fish sauce products are produced to revitalize local communities, which have an advantageous, abundant supply of inedible fish material at a low market value that can be used for fish sauce production. This indicates a substantial gap between consumer demand and supply.</p><p>In this study, we use Google Trends, which enables the plotting of Google search queries related to a particular topic, to analyze fish sauce consumption behaviors in Japan. Additionally, we employ Tabemiru, a tool provided by the online recipe repository Cookpad that enables an analysis of recipe use frequencies, to examine households' fish sauce consumption. The combined data from Google Trends and Tabemiru represent Japan's household fish sauce consumption behavior.</p></sec><sec id="fsn3622-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="fsn3622-sec-0003"><label>2.1</label><title>Data collection from Google Trends</title><p>Temporal or regional trends in web searches for the terms of concern in this study were downloaded from Google Trends (<ext-link ext-link-type="uri" xlink:href="https://trends.google.com/trends/">https://trends.google.com/trends/</ext-link>). This public web facility of Alphabet Inc. (Mountain View, CA, USA) indicates how often people search for a term relative to the total number of searches, in various countries and languages. This study's data were collected by setting the location parameter to &#x0201c;Japan&#x0201d; and the time parameter to &#x0201c;2004&#x02010;present.&#x0201d;</p></sec><sec id="fsn3622-sec-0004"><label>2.2</label><title>Data collection from Tabemiru on Cookpad</title><p>Cookpad, Japan's largest recipe site (<ext-link ext-link-type="uri" xlink:href="http://www.cookpad.com">http://www.cookpad.com</ext-link>), allows visitors to upload and search for original recipes. Tabemiru is an analysis tool provided by Cookpad Inc. (Tokyo, Japan) that allows visitors to examine how often Cookpad visitors use recipes, including relevant search terms. The frequency is expressed as the cook index (CI), according to which Tabemiru considers a recipe that has been uninterruptedly viewed for more than 10&#x000a0;min as &#x0201c;prepared by the site visitor.&#x0201d; The CI is calculated using the following formula: the number of times a recipe, including relevant search terms, was used for cooking/total number of recipes that were used &#x000d7;1,000.</p></sec><sec id="fsn3622-sec-0005"><label>2.3</label><title>Statistical analysis</title><p>The correlation between Google Trends&#x02010;based search volumes and household consumption behavior, as represented by the CI in Tabemiru, was assessed with scatterplots and regression statistics using both the coefficient of determination and Pearson's correlation coefficient. Additionally, the correlations between the search volumes for the terms for fish sauce and the dishes' names were similarly assessed. All statistical analyses were performed using Microsoft Excel (version 15.31; Redmond, WA, USA).</p></sec></sec><sec id="fsn3622-sec-0006"><label>3</label><title>RESULTS</title><sec id="fsn3622-sec-0007"><label>3.1</label><title>Google search trends for fish sauce among Japanese consumers</title><p>We entered the set of terms &#x0201c;&#x030ca;&#x030f3;&#x030d7;&#x030e9;&#x030fc;&#x0201d;(<italic>nampla</italic>; Thai fish sauce), &#x0201c;&#x030cb;&#x030e7;&#x030af;&#x030de;&#x030e0;&#x0201d;(<italic>nuoc mam</italic>; Vietnamese fish sauce), and &#x0201c;&#x03057;&#x03087;&#x03063;&#x03064;&#x0308b;&#x0201d; (<italic>shottsuru</italic>; Japanese fish sauce) on the Google Trends homepage in August 2017 to access the search trends for these three keywords. Figure&#x000a0;<xref rid="fsn3622-fig-0001" ref-type="fig">1</xref>a illustrates a Google Trends graph of the search frequencies for the three terms, from January 2004 to August 2017. Among the three terms, searches for <italic>nampla</italic> had the most traffic, or an average of nine times more than the <italic>nuoc mam</italic> searches, and three times more than the <italic>shottsuru</italic> searches. It is noteworthy that search trends for <italic>nampla</italic> peak in the summer and reach its minimum in the winter, which are remarkable after 2011. Conversely, the search trend for <italic>shottsuru</italic> demonstrates a sharp peak in December. Such seasonal search trends were not observed for <italic>nuoc mam</italic>. The search trends for the three terms for fish sauce on Google Shopping were also analyzed, as Figure&#x000a0;<xref rid="fsn3622-fig-0001" ref-type="fig">1</xref>b reveals. This indicates consumers' willingness to buy and a stronger interest than that of consumers who search using only Google's homepage. Searches for <italic>nampla</italic> occurred every year after 2012, while searches for <italic>shottsuru</italic> occurred only in the winters of 2011 and 2014. <italic>Nuoc mam</italic> searches were not observed for any year.</p><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) Interest in <italic>nampla</italic>,<italic> nuoc mam,</italic> and <italic>shottsuru</italic> and (b) in buying those fish sauce types. This information is represented by the Google search volumes for the query terms &#x030ca;&#x030f3;&#x030d7;&#x030e9;&#x030fc; (<italic>nampla</italic>), &#x030cb;&#x030e7;&#x030af;&#x030de;&#x030e0; (<italic>nuoc mam</italic>), and &#x03057;&#x03087;&#x03063;&#x03064;&#x0308b; (<italic>shottsuru</italic>), from 2004 to 2017</p></caption><graphic id="nlm-graphic-3" xlink:href="FSN3-6-791-g001"/></fig><p>Google Trends also lists the prefectures with the highest search traffic for a given term. As Figure&#x000a0;<xref rid="fsn3622-fig-0002" ref-type="fig">2</xref> demonstrates, 17 of 47 prefectures were listed for <italic>shottsuru</italic> searches, with Akita Prefecture indicating remarkably high search traffic. Alternatively, all prefectures in Japan widely searched for <italic>nampla</italic>. Searches for <italic>nuoc mam</italic> only occurred in metropolitan areas with large populations, such as in Kanagawa, Tokyo, Saitama, and Osaka prefectures.</p><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Interest in <italic>nampla</italic>,<italic> nuoc mam</italic>, and <italic>shottsuru</italic> by prefecture. Each bar indicates the Google search volume index</p></caption><graphic id="nlm-graphic-5" xlink:href="FSN3-6-791-g002"/></fig></sec><sec id="fsn3622-sec-0008"><label>3.2</label><title>Household consumption behavior for fish sauces in Japan</title><p>We clarified the household consumption behavior for the three fish sauce types in Japan by analyzing their frequency from 2014 to 2017 in recipes that include <italic>nampla</italic>,<italic> nuoc mam</italic>, and <italic>shottsuru</italic> on Japan's largest online recipe repository, Cookpad. This was accomplished using Cookpad Inc.'s analysis tool, Tabemiru, which expressed this frequency as its cooking index (CI). As Figure&#x000a0;<xref rid="fsn3622-fig-0003" ref-type="fig">3</xref>a reveals, the frequency of the use of recipes that include <italic>nampla</italic> was 10 times higher than that of <italic>shottsuru</italic>, and 80 times higher than that for <italic>nuoc mam</italic>. The frequency of the use of recipes that include <italic>nampla</italic> increased every year after 2015, while that of <italic>shottsuru</italic> decreased every year since 2014.</p><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(a) Annual and (b) monthly trends in the use of Cookpad recipes including each fish sauce type. This information is represented by the cook index (<styled-content style="fixed-case">CI</styled-content>). The scatterplots and regression statistics indicate a strong positive and linear relationship between the Google search trends and <styled-content style="fixed-case">CI</styled-content>s for <italic>nampla</italic> and <italic>shottsuru</italic>, (c) but not for <italic>nuoc mam</italic>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="FSN3-6-791-g003"/></fig><p>Figure&#x000a0;<xref rid="fsn3622-fig-0003" ref-type="fig">3</xref>b compares the monthly trends regarding the frequency of use for recipes that include the three fish sauce types. Similar to Google's search trends, the frequency of use of recipes that include <italic>nampla</italic> peaked in the summer, while those including <italic>shottsuru</italic> sharply peaked in winter. As the monthly Google search trends and the recipes' frequency of use exhibit similar behaviors, Pearson's correlation coefficient was used to analyze the correlation between these two datasets, as noted in Figure&#x000a0;<xref rid="fsn3622-fig-0003" ref-type="fig">3</xref>c. The results reveal highly positive correlations for <italic>nampla</italic> and <italic>shottsuru</italic> in the Google search frequency and recipes' frequency of use as represented by the CI. The Pearson's correlation coefficient was 0.87 for <italic>nampla</italic>; consequently, a high correlation exists between people's interest and household consumption for both <italic>nampla</italic> and <italic>shottsuru</italic>.</p><p>Next, we analyzed foods that used <italic>nampla</italic>,<italic> nuoc mam</italic>, and <italic>shottsuru</italic> in the recipes on Cookpad using Tabemiru. As Table&#x000a0;<xref rid="fsn3622-tbl-0001" ref-type="table">1</xref> indicates, <italic>shottsuru</italic> is almost always used as a condiment in <italic>shottsuru nabe</italic>, a Japanese stew with <italic>konbu</italic> (kelp) and <italic>hata&#x02010;hata</italic> (Japanese sandfish). The stew is a traditional dish in Akita Prefecture (Ishige, <xref rid="fsn3622-bib-0010" ref-type="ref">1986</xref>). The data also indicate that <italic>nuoc mam</italic> is used as a dipping sauce for various foods or a condiment for fried chicken or other meat. Alternatively, the data also indicate a drastic change since 2016 in <italic>nampla</italic>'s household use. Figure&#x000a0;<xref rid="fsn3622-fig-0004" ref-type="fig">4</xref> indicates the CI for each food that used <italic>nampla</italic>; the constant CI scores for meat, fries, and soup throughout 2014 to 2017 imply that <italic>nampla</italic> was used as a condiment for fried meat, fries, and soup. Further, the data demonstrate a rapidly increasing interest in the search terms &#x0201c;<italic>gapao</italic>&#x0201d; and &#x0201c;<italic>rice</italic>,&#x0201d; referring to a new Thai dish called <italic>gapao</italic> rice that became popular in Japan around 2015 to 2016. The upper panel in Figure&#x000a0;<xref rid="fsn3622-fig-0005" ref-type="fig">5</xref> indicates a Google Trends graph of the search frequencies for &#x030ca;&#x030f3;&#x030d7;&#x030e9;&#x030fc; (<italic>nampla</italic>) and &#x030ac;&#x030d1;&#x030aa; (<italic>gapao</italic>) from January 2004 to August 2017. This panel implies that the trends in <italic>nampla</italic>'s popularity are strongly linked to those of <italic>gapao</italic>, and these terms have increased in popularity since 2012. Additionally, the search frequency for the term&#x030bf;&#x030a4;&#x06599;&#x07406; (Thai foods) has increased since 2012. These results indicate that Thai cuisine has gradually become popular in Japanese society, and especially with the increasing popularity of <italic>gapao</italic> rice, which has been consumed in households as well as restaurants specializing in Thai cuisine.</p><table-wrap id="fsn3622-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Top 3 retrieved terms for dishes that use each fish sauce type</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Rank</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>Nampla</italic>(&#x030ca;&#x030f3;&#x030d7;&#x030e9;&#x030fc;)</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>Nuoc mam</italic>(&#x030cb;&#x030e7;&#x030af;&#x030de;&#x030e0;)</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>Shottsuru</italic>(&#x03057;&#x03087;&#x03063;&#x03064;&#x0308b;)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">2014</th><th align="left" valign="top" rowspan="1" colspan="1">2015</th><th align="left" valign="top" rowspan="1" colspan="1">2016</th><th align="left" valign="top" rowspan="1" colspan="1">2017</th><th align="left" valign="top" rowspan="1" colspan="1">2014</th><th align="left" valign="top" rowspan="1" colspan="1">2015</th><th align="left" valign="top" rowspan="1" colspan="1">2016</th><th align="left" valign="top" rowspan="1" colspan="1">2017</th><th align="left" valign="top" rowspan="1" colspan="1">2014</th><th align="left" valign="top" rowspan="1" colspan="1">2015</th><th align="left" valign="top" rowspan="1" colspan="1">2016</th><th align="left" valign="top" rowspan="1" colspan="1">2017</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">
+&#x0304a;&#x08089;<break/>
+(Meat)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0304a;&#x08089;<break/>
+(Meat)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030ac;&#x030d1;&#x030aa;<xref ref-type="fn" rid="fsn3622-note-0001">a</xref>
+<break/>
+(<italic>Gapao</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030ac;&#x030d1;&#x030aa;<break/>
+(<italic>Gapao</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030bf;&#x030ec;<xref ref-type="fn" rid="fsn3622-note-0002">b</xref>
+<break/>
+(<italic>Tare</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x07092;&#x03081;&#x07269;<break/>
+(Fries)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0304a;&#x08089;<break/>
+(Meat)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030bf;&#x030ec;<break/>
+(<italic>Tare</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0934b;<xref ref-type="fn" rid="fsn3622-note-0003">c</xref>
+<break/>
+(<italic>Nabe</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0934b;<break/>
+(<italic>Nabe</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0934b;<break/>
+(<italic>Nabe</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0934b;<break/>
+(<italic>Nabe</italic>)
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">
+&#x07092;&#x03081;&#x07269;<break/>
+(Fries)
+</td><td align="left" rowspan="1" colspan="1">
+&#x07092;&#x03081;&#x07269;<break/>
+(Fries)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0751f;&#x07c73;<break/>
+(Raw rice)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0751f;&#x07c73;<break/>
+(Raw rice)
+</td><td align="left" rowspan="1" colspan="1">
+&#x07092;&#x03081;&#x07269;<break/>
+(Fries)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0304a;&#x08089;<break/>
+(Meat)
+</td><td align="left" rowspan="1" colspan="1">
+&#x07092;&#x03081;&#x07269;<break/>
+(Fries)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0304a;&#x08089;<break/>
+(Meat)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030b3;&#x030f3;&#x030d6;<xref ref-type="fn" rid="fsn3622-note-0004">d</xref>
+<break/>
+(<italic>Konbu</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0306f;&#x0305f;&#x0306f;&#x0305f;<break/>
+(<italic>Hata&#x02010;hata</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0306f;&#x0305f;&#x0306f;&#x0305f;<break/>
+(<italic>Hata&#x02010;hata</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0306f;&#x0305f;&#x0306f;&#x0305f;<break/>
+(<italic>Hata&#x02010;hata</italic>)
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">
+&#x030b9;&#x030fc;&#x030d7;<break/>
+(Soup)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030b9;&#x030fc;&#x030d7;<break/>
+(Soup)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0767d;&#x07c73;<break/>
+(White rice)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0767d;&#x07c73;<break/>
+(White rice)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0304a;&#x08089;<break/>
+(Meat)
+</td><td align="left" rowspan="1" colspan="1">
+&#x09d8f;<break/>
+(Chicken)
+</td><td align="left" rowspan="1" colspan="1">
+&#x09d8f;<break/>
+(Chicken)
+</td><td align="left" rowspan="1" colspan="1">
+&#x07092;&#x03081;&#x07269;<break/>
+(Fries)
+</td><td align="left" rowspan="1" colspan="1">
+&#x0306f;&#x0305f;&#x0306f;&#x0305f;<xref ref-type="fn" rid="fsn3622-note-0005">e</xref>
+<break/>
+(<italic>Hata&#x02010;hata</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030b3;&#x030f3;&#x030d6;<break/>
+(<italic>Konbu</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030b3;&#x030f3;&#x030d6;<break/>
+(<italic>Konbu</italic>)
+</td><td align="left" rowspan="1" colspan="1">
+&#x030b3;&#x030f3;&#x030d6;<break/>
+(<italic>Konbu</italic>)
+</td></tr></tbody></table><table-wrap-foot><fn id="fsn3622-note-0001"><label>a</label><p>&#x030ac;&#x030d1;&#x030aa; (<italic>Gapao</italic>): Japanese pronunciation for &#x00e01;&#x00e30;&#x00e40;&#x00e1e;&#x00e23;&#x00e32;, the Thai name for holy basil (<italic>Ocimum tenuiflorum</italic>), used in Thai cuisine. <italic>Gapao</italic> is a dish made of minced meat, fried with holy basil or sweet basil, and served with rice.</p></fn><fn id="fsn3622-note-0002"><label>b</label><p>&#x030bf;&#x030ec; (<italic>Tare</italic>): A dipping sauce for cooked food, such as <italic>yaki&#x02010;niku</italic> (Korean&#x02010;style barbecue) and <italic>gyoza</italic> (a dish that evolved from Chinese dumplings).</p></fn><fn id="fsn3622-note-0003"><label>c</label><p>&#x0934b; (<italic>Nabe</italic>): Originally interpreted as a pan for boiling or stewing, the term also refers to food boiled in a <italic>nabe</italic>.</p></fn><fn id="fsn3622-note-0004"><label>d</label><p>&#x030b3;&#x030f3;&#x030d6; (<italic>Konbu</italic>): Kelp used to make <italic>dashi</italic>, a broth in various Japanese dishes.</p></fn><fn id="fsn3622-note-0005"><label>e</label><p>&#x0306f;&#x0305f;&#x0306f;&#x0305f; (<italic>Hata&#x02010;hata</italic>): Japanese sandfish (<italic>Arctoscopus japonicas</italic>).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Annual data on foods that use <italic>nampla</italic> from a combination search on Tabemiru on Cookpad. The bottom panel indicates the top three retrieved terms for dishes that use <italic>nampla</italic> fish sauce</p></caption><graphic id="nlm-graphic-9" xlink:href="FSN3-6-791-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Interest in (a) <italic>nampla</italic> and <italic>gapao</italic> and (b) Thai food. This information is represented by the Google search volumes for the query terms &#x030ca;&#x030f3;&#x030d7;&#x030e9;&#x030fc; (<italic>nampla</italic>), &#x030ac;&#x030d1;&#x030aa;(<italic>gapao</italic>), and &#x030bf;&#x030a4;&#x06599;&#x07406; (Thai food), from 2004 to 2017</p></caption><graphic id="nlm-graphic-11" xlink:href="FSN3-6-791-g005"/></fig></sec><sec id="fsn3622-sec-0009"><label>3.3</label><title>
+<italic>Nampla</italic>'s increasing popularity as a condiment in Southeast Asian cuisine</title><p>As Figure&#x000a0;<xref rid="fsn3622-fig-0006" ref-type="fig">6</xref> illustrates, <italic>nampla</italic>'s search frequency significantly relates to those for <italic>gapao</italic>,<italic> pattai</italic>,<italic> tom yum goong</italic>, and <italic>nama&#x02010;harumaki</italic>, which suggests that the people's interest in <italic>nampla</italic> relates to these dishes. Indeed, some Cookpad recipes for these dishes list <italic>nampla</italic> as a condiment. It is also noteworthy that <italic>nama&#x02010;harumaki</italic> originated in Vietnam and uses <italic>nampla</italic> in place of <italic>nuoc mam</italic>. The search frequency trends for <italic>nuoc mam</italic> did not indicate relationships to any of the dish names analyzed in this study, including the Vietnamese dishes <italic>nama&#x02010;harumaki</italic> and <italic>pho</italic>. The search trends for <italic>shottsuru</italic> relate to both <italic>shottsuru nabe</italic> and <italic>hata&#x02010;hata</italic>.</p><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Monthly Google search volume scatterplots per fish sauce type (<italic>x</italic>&#x02010;axis) and dish (<italic>y</italic>&#x02010;axis). The correlations were assessed with regression lines and Pearson's correlation cohesion</p></caption><graphic id="nlm-graphic-13" xlink:href="FSN3-6-791-g006"/></fig><p>One reason for Thai cuisine's rapidly increasing popularity in Japan is the increasing number of visitors from Thailand. Figure&#x000a0;<xref rid="fsn3622-fig-0007" ref-type="fig">7</xref> indicates that the number of visitors from Thailand to Japan has significantly increased since 2013. Moreover, the Japanese government permitted people from Thailand to enter the country without a visa in July 2013. This increase in visitors from Thailand may have promoted a cultural exchange, including the nations' cuisines.</p><fig fig-type="Figure" xml:lang="en" id="fsn3622-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Monthly data on visitors from Thailand and Vietnam to Japan. The line graph was prepared based on data from the Japan National Tourism Organization (<ext-link ext-link-type="uri" xlink:href="https://www.jnto.go.jp">https://www.jnto.go.jp</ext-link>)</p></caption><graphic id="nlm-graphic-15" xlink:href="FSN3-6-791-g007"/></fig></sec></sec><sec id="fsn3622-sec-0010"><label>4</label><title>DISCUSSION</title><p>Fish sauce has been popular among Japanese households as a substitute for soy sauce, which is a condiment for traditional dishes, or as a dipping sauce (<italic>tare</italic>) for raw fish (<italic>sashimi</italic>) (Ishige, <xref rid="fsn3622-bib-0010" ref-type="ref">1986</xref>). However, drastic changes in Japanese society have led to a decline in fish sauce consumption. Nevertheless, the production of a wide variety of fish sauces has continued throughout Japan, as some local communities have an abundant supply of fish and inedible fish material at a low market value, which can be used to manufacture the product. However, strategies to promote sales and product development are necessary for the industry to succeed. This study performed data mining on Internet activities (searches) related to fish sauce consumption among the Japanese.</p><p>The data mined from Google Trends indicate that fish sauce produced in Japan, represented by <italic>shottsuru</italic>, has a very limited purpose as a condiment for traditional <italic>nabe</italic> (Ishige, <xref rid="fsn3622-bib-0010" ref-type="ref">1986</xref>; Nakano et&#x000a0;al., <xref rid="fsn3622-bib-0015" ref-type="ref">2017</xref>). Thus, there is currently an excess supply of fish sauce relative to consumer demand. Conversely, <italic>nampla</italic> has become widely popular in Japan due to Thai cuisine's rapidly increasing popularity in recent years, as represented by <italic>gapao</italic> rice. The data mined from Cookpad indicate that Thai cuisine has now spread to households, beyond the restaurants that serve such cuisine. These findings may have significant implications for the Japanese fish sauce industry. On the one hand, <italic>gapao</italic> rice's increasing popularity in Japanese society has led to an increased consumption of <italic>nampla</italic>. On the other hand, no dish has led to an increased consumption of Japanese fish sauce, and therefore, it is necessary to develop dishes that use this fish sauce. Additionally, suppliers must explain the benefits of unfamiliar foods to consumers or their households. For instance, fish sauce can be incredibly nutritious because of its essential amino acids (Gildberg, <xref rid="fsn3622-bib-0007" ref-type="ref">2004</xref>). Additionally, fish sauce promotes various biological activities, including angiotensin I&#x02010;converting enzyme inhibitory activity and the stimulation of insulin production (Ichimura, Hu, Aita, &#x00026; Maruyama, <xref rid="fsn3622-bib-0009" ref-type="ref">2003</xref>). The distribution of such useful information to consumers would be part of a sales strategy beneficial to the Japanese fish sauce industry.</p><p>The data mined from Google Trends and Tabemiru indicate the unique seasonal differences in consuming <italic>nampla</italic> and <italic>shottsuru</italic>, with peaks in the summer and winter, respectively. Japanese consumers tend to make spicy foods, such as ethnic foods, in the summer to prevent a loss of appetite. Recently, the cultural exchanges between Japan and Thailand have increased Thai foods' popularity as ethnic foods. Moreover, <italic>nabe</italic> cuisine is popular in the winter season. These reasons justify the seasonal trends demonstrated in Google searches for <italic>shottsuru</italic> as well as its usage on the Cookpad Web site.</p><p>Consumer research and sales data collection are needed for businesses' marketing research to understand consumers' preferences. This study indicates that an analysis of Internet data&#x02014;using search trends from an Internet search engine and an online recipe Web site&#x02014;provides a method to observe consumer preferences that complement existing methods.</p></sec><sec id="fsn3622-sec-0011"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec></body><back><ref-list content-type="cited-references" id="fsn3622-bibl-0001"><title>REFERENCES</title><ref id="fsn3622-bib-0001"><mixed-citation publication-type="journal" id="fsn3622-cit-0001">
+<string-name>
+<surname>Bastian</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Eggett</surname>, <given-names>L. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jefferies</surname>, <given-names>K. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Questionnaire design: Carry&#x02010;over effects of overall acceptance question placement and pre&#x02010;evaluation instructions on overall acceptance scores in central location tests</article-title>. <source xml:lang="en">Journal of Food and Science</source>, <volume>80</volume>, <fpage>435</fpage>&#x02013;<lpage>443</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1750-3841.12777">https://doi.org/10.1111/1750-3841.12777</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0002"><mixed-citation publication-type="journal" id="fsn3622-cit-0002">
+<string-name>
+<surname>Borgmeier</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wstenhoefer</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Impact of different label formats on healthiness evaluation and food choice of consumers: A randomized&#x02010;controlled study</article-title>. <source xml:lang="en">BMC Public Health</source>, <volume>9</volume>, <fpage>184</fpage>&#x02013;<lpage>195</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/1471-2458-9-184">https://doi.org/10.1186/1471-2458-9-184</ext-link>
+<pub-id pub-id-type="pmid">19523212</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0003"><mixed-citation publication-type="journal" id="fsn3622-cit-0003">
+<string-name>
+<surname>Carneiro</surname>, <given-names>A. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mylonakis</surname>, <given-names>E.</given-names>
+</string-name> (<year>2009</year>). <article-title>Google trends: A web&#x02010;based tool for real&#x02010;time surveillance of disease outbreaks</article-title>. <source xml:lang="en">Clinical Infectious Diseases</source>, <volume>49</volume>, <fpage>1557</fpage>&#x02013;<lpage>1564</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/630200">https://doi.org/10.1086/630200</ext-link>
+<pub-id pub-id-type="pmid">19845471</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0004"><mixed-citation publication-type="journal" id="fsn3622-cit-0004">
+<string-name>
+<surname>Carri&#x000e8;re&#x02010;Swallow</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Labb&#x000e9;</surname>, <given-names>F.</given-names>
+</string-name> (<year>2013</year>). <article-title>Nowcasting with Google Trends in an emerging market</article-title>. <source xml:lang="en">Journal of Forecasting</source>, <volume>32</volume>, <fpage>289</fpage>&#x02013;<lpage>298</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/for.1252">https://doi.org/10.1002/for.1252</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0005"><mixed-citation publication-type="journal" id="fsn3622-cit-0005">
+<string-name>
+<surname>Choi</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varian</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>). <article-title>Predicting the present with Google Trends</article-title>. <source xml:lang="en">Economic Record</source>, <volume>88</volume>, <fpage>2</fpage>&#x02013;<lpage>9</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1475-4932.2012.00809.x">https://doi.org/10.1111/j.1475-4932.2012.00809.x</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0006"><mixed-citation publication-type="journal" id="fsn3622-cit-0006">
+<string-name>
+<surname>Fukami</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Funatsu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kawasaki</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Watabe</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>). <article-title>Improvement of fish&#x02010;sauce odor by treatment with bacteria isolated from the fish&#x02010;sauce mush (<italic>moromi</italic>) made from frigate mackerel</article-title>. <source xml:lang="en">Journal of Food Science</source>, <volume>69</volume>, <fpage>45</fpage>&#x02013;<lpage>49</lpage>.</mixed-citation></ref><ref id="fsn3622-bib-0007"><mixed-citation publication-type="journal" id="fsn3622-cit-0007">
+<string-name>
+<surname>Gildberg</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Enzymes and bioactive peptides from fish waste related to fish silage, fish feed, and fish sauce production</article-title>. <source xml:lang="en">Journal of Aquatic Food Product Technology</source>, <volume>13</volume>, <fpage>3</fpage>&#x02013;<lpage>11</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1300/J030v13n02_02">https://doi.org/10.1300/J030v13n02_02</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0008"><mixed-citation publication-type="journal" id="fsn3622-cit-0008">
+<string-name>
+<surname>Honkanen</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Frewer</surname>, <given-names>L.</given-names>
+</string-name> (<year>2009</year>). <article-title>Russian consumers' motives for food choice</article-title>. <source xml:lang="en">Appetite</source>, <volume>52</volume>, <fpage>363</fpage>&#x02013;<lpage>371</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.appet.2008.11.009">https://doi.org/10.1016/j.appet.2008.11.009</ext-link>
+<pub-id pub-id-type="pmid">19073227</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0009"><mixed-citation publication-type="journal" id="fsn3622-cit-0009">
+<string-name>
+<surname>Ichimura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aita</surname>, <given-names>D. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maruyama</surname>, <given-names>S.</given-names>
+</string-name> (<year>2003</year>). <article-title>Angiotensin I&#x02010;converting enzyme inhibitory activity and insulin secretion stimulative activity of fermented fish sauce</article-title>. <source xml:lang="en">Journal of Biochemistry and Bioengineering</source>, <volume>96</volume>, <fpage>496</fpage>&#x02013;<lpage>499</lpage>.</mixed-citation></ref><ref id="fsn3622-bib-0010"><mixed-citation publication-type="journal" id="fsn3622-cit-0010">
+<string-name>
+<surname>Ishige</surname>, <given-names>N.</given-names>
+</string-name> (<year>1986</year>). <article-title>Gyosh&#x0014d; in northeast Asia&#x02014;A study of fermented aquatic products</article-title>. <source xml:lang="en">Bulletin of the National Museum of Ethnology</source>, <volume>11</volume>, <fpage>1</fpage>&#x02013;<lpage>41</lpage>.</mixed-citation></ref><ref id="fsn3622-bib-0011"><mixed-citation publication-type="journal" id="fsn3622-cit-0011">
+<string-name>
+<surname>Kearney</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kearney</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Dunne</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gibney</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Sociodemographic determinants of perceived influences on food choice in a nationally representative sample of Irish adults</article-title>. <source xml:lang="en">Public Health Nutrition</source>, <volume>3</volume>, <fpage>219</fpage>&#x02013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">10948389</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0012"><mixed-citation publication-type="journal" id="fsn3622-cit-0012">
+<string-name>
+<surname>Lopetcharat</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Daeschel</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Fish sauce products and manufacturing: A review</article-title>. <source xml:lang="en">Food Reviews International</source>, <volume>17</volume>, <fpage>65</fpage>&#x02013;<lpage>88</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1081/FRI-100000515">https://doi.org/10.1081/FRI-100000515</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0013"><mixed-citation publication-type="journal" id="fsn3622-cit-0013">
+<string-name>
+<surname>Mccallum</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bury</surname>, <given-names>W. G.</given-names>
+</string-name> (<year>2013</year>). <article-title>Google search patterns suggest declining interest in the environment</article-title>. <source xml:lang="en">Biodiversity and Conservation</source>, <volume>22</volume>, <fpage>1355</fpage>&#x02013;<lpage>1367</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10531-013-0476-6">https://doi.org/10.1007/s10531-013-0476-6</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0014"><mixed-citation publication-type="journal" id="fsn3622-cit-0014">
+<string-name>
+<surname>Milo&#x00161;evi&#x00107;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>&#x0017d;e&#x0017e;elj</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Gorton</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barjolle</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Understanding the motives for food choice in Western Balkan Countries</article-title>. <source xml:lang="en">Appetite</source>, <volume>58</volume>, <fpage>205</fpage>&#x02013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">21986187</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0015"><mixed-citation publication-type="journal" id="fsn3622-cit-0015">
+<string-name>
+<surname>Nakano</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sagane</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Koizumi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nakazawa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yamazaki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sato</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Introduction of a data&#x02010;driven approach to food production: A case study of salmon fish sauce</article-title>. <source xml:lang="en">Food Preservation Science</source>, in press.</mixed-citation></ref><ref id="fsn3622-bib-0016"><mixed-citation publication-type="journal" id="fsn3622-cit-0016">
+<string-name>
+<surname>Proulx</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Massicotte</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>P&#x000e9;pino</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Googling trends in conservation biology</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>28</volume>, <fpage>44</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">24033767</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0017"><mixed-citation publication-type="journal" id="fsn3622-cit-0017">
+<string-name>
+<surname>Ripberger</surname>, <given-names>T. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Capturing curiosity: Using internet search trends to measure public attentiveness</article-title>. <source xml:lang="en">Policy Studies Journal</source>, <volume>39</volume>, <fpage>239</fpage>&#x02013;<lpage>259</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1541-0072.2011.00406.x">https://doi.org/10.1111/j.1541-0072.2011.00406.x</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0018"><mixed-citation publication-type="journal" id="fsn3622-cit-0018">
+<string-name>
+<surname>Seifter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schwarzwalder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Geis</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aucott</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>). <article-title>The utility of &#x0201c;Google Trends&#x0201d; for epidemiological research: Lyme disease an example</article-title>. <source xml:lang="en">Geospatial Health</source>, <volume>4</volume>, <fpage>135</fpage>&#x02013;<lpage>137</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4081/gh.2010.195">https://doi.org/10.4081/gh.2010.195</ext-link>
+<pub-id pub-id-type="pmid">20503183</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0019"><mixed-citation publication-type="journal" id="fsn3622-cit-0019">
+<string-name>
+<surname>Taira</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Funatsu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Satomi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Takano</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Abe</surname>, <given-names>H.</given-names>
+</string-name> (<year>2007</year>). <article-title>Changes in extractive components and microbial proliferation during fermentation of fish sauce from underutilized fish species and quality of final products</article-title>. <source xml:lang="en">Fisheries Science</source>, <volume>73</volume>, <fpage>913</fpage>&#x02013;<lpage>923</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1444-2906.2007.01414.x">https://doi.org/10.1111/j.1444-2906.2007.01414.x</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0020"><mixed-citation publication-type="journal" id="fsn3622-cit-0020">
+<string-name>
+<surname>Verneau</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Caracciolo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Coppola</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lombardi</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Consumer fears and familiarity of processed food. The value of information provided by the FTNS</article-title>. <source xml:lang="en">Appetite</source>, <volume>73</volume>, <fpage>140</fpage>&#x02013;<lpage>146</lpage>.<pub-id pub-id-type="pmid">24231427</pub-id></mixed-citation></ref><ref id="fsn3622-bib-0021"><mixed-citation publication-type="journal" id="fsn3622-cit-0021">
+<string-name>
+<surname>Vosen</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schmidt</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Forecasting private consumption: Survey&#x02010;based indicators vs. Google trends</article-title>. <source xml:lang="en">Journal of Forecasting</source>, <volume>30</volume>, <fpage>565</fpage>&#x02013;<lpage>578</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/for.1213">https://doi.org/10.1002/for.1213</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0022"><mixed-citation publication-type="journal" id="fsn3622-cit-0022">
+<string-name>
+<surname>Yongsawatdigul</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rodtong</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raksakulthai</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>). <article-title>Acceleration of Thai fish sauce fermentation using proteinases and bacterial starter cultures</article-title>. <source xml:lang="en">Journal of Food Science</source>, <volume>72</volume>, <fpage>382</fpage>&#x02013;<lpage>390</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1750-3841.2007.00532.x">https://doi.org/10.1111/j.1750-3841.2007.00532.x</ext-link>
+</mixed-citation></ref><ref id="fsn3622-bib-0023"><mixed-citation publication-type="journal" id="fsn3622-cit-0023">
+<string-name>
+<surname>Zheng</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jiang</surname>, <given-names>W.</given-names>
+</string-name> (<year>2017</year>). <article-title>Quality improvement on half&#x02010;fin anchovy (<italic>Setipinna taty</italic>) fish sauce by <italic>Psychrobacter</italic> sp. SP&#x02010;1 fermentation</article-title>. <source xml:lang="en">Journal of the Science of Food and Agriculture</source>, <volume>97</volume>, <fpage>4484</fpage>&#x02013;<lpage>4493</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jsfa.8313">https://doi.org/10.1002/jsfa.8313</ext-link>
+<pub-id pub-id-type="pmid">28294344</pub-id></mixed-citation></ref></ref-list></back></article>

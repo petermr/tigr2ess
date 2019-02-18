@@ -1,0 +1,305 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bioinform Biol Insights</journal-id><journal-id journal-id-type="iso-abbrev">Bioinform Biol Insights</journal-id><journal-id journal-id-type="publisher-id">BBI</journal-id><journal-id journal-id-type="hwp">spbbi</journal-id><journal-title-group><journal-title>Bioinformatics and Biology Insights</journal-title></journal-title-group><issn pub-type="epub">1177-9322</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6335655</article-id><article-id pub-id-type="doi">10.1177/1177932218821362</article-id><article-id pub-id-type="publisher-id">10.1177_1177932218821362</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Genome-Wide Analysis of Domain-Swap Predicted Products in the Genome
+of Anti-Stress Medicinal Plant: <italic>Ocimum
+tenuiflorum</italic></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Upadhyay</surname><given-names>Atul Kumar</given-names></name><xref ref-type="aff" rid="aff1-1177932218821362">1</xref><xref ref-type="aff" rid="aff2-1177932218821362">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6642-2367</contrib-id><name><surname>Sowdhamini</surname><given-names>Ramanathan</given-names></name><xref ref-type="aff" rid="aff1-1177932218821362">1</xref><xref ref-type="corresp" rid="corresp1-1177932218821362"/></contrib></contrib-group><aff id="aff1-1177932218821362"><label>1</label>National Centre for Biological Sciences
+(TIFR), GKVK Campus, Bangalore, India</aff><aff id="aff2-1177932218821362"><label>2</label>Division of Bioinformatics, School of
+Bioengineering and Biosciences, Lovely Professional University, Phagwara,
+India</aff><author-notes><corresp id="corresp1-1177932218821362">Ramanathan Sowdhamini, National Centre for
+Biological Sciences (TIFR), GKVK Campus, Bellary Road, Bangalore 560065, India.
+Email: <email>mini@ncbs.res.in</email></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="collection"><year>2019</year></pub-date><volume>13</volume><elocation-id>1177932218821362</elocation-id><history><date date-type="received"><day>4</day><month>9</month><year>2018</year></date><date date-type="accepted"><day>8</day><month>11</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2019</copyright-statement><copyright-year>2019</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>Computational approaches to high-throughput data are gaining importance because
+of explosion of sequences in the post-genomic era. This explosion of sequence
+data creates a huge gap among the domains of sequence structure and function,
+since the experimental techniques to determine the structure and function are
+very expensive, time taking, and laborious in nature. Therefore, there is an
+urgent need to emphasize on the development of computational approaches in the
+field of biological systems. Engagement of proteins in quaternary arrangements,
+such as domain swapping, might be relevant for higher compatibility of such
+genes at stress conditions. In this study, the capacity to engage in domain
+swapping was predicted from mere sequence information in the whole genome of
+holy Basil (<italic>Ocimum tenuiflorum</italic>), which is well known to be an
+anti-stress agent. Approximately, one-fourth of the proteins of <italic>O
+tenuiflorum</italic> are predicted to undergo three-dimensional (3D)-domain
+swapping. Furthermore, function annotation was carried out on all the predicted
+domain-swap sequences from the <italic>O tenuiflorum</italic> and
+<italic>Arabidopsis thaliana</italic> for their distribution in different
+Pfam protein families and gene ontology (GO) terms. These domain-swapped protein
+sequences are associated with many Pfam protein families with a wide range of GO
+annotation terms. A comparative analysis of domain-swap-predicted sequences in
+<italic>O tenuiflorum</italic> with gene products in <italic>A
+thaliana</italic> reveals that around 26% (2522 sequences) are close
+homologues across the 2 genomes. Functional annotation of predicted
+domain-swapped sequences infers that predicted domain-swap sequences are
+involved in diverse molecular functions, such as in gene regulation of abiotic
+stress conditions and adaptation to different environmental niches. Finally, the
+positively predicted sequences of <italic>A thaliana</italic> and <italic>O
+tenuiflorum</italic> were also examined for their presence in stress
+regulome, as recorded in our STIFDB database, to check the involvement of these
+proteins in different abiotic stresses.</p></abstract><kwd-group><kwd>Machine-learning approaches</kwd><kwd>Random Forest</kwd><kwd>three-dimensional-domain swapping</kwd><kwd>protein sequences</kwd><kwd>genomes and proteome</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-1177932218821362"><title>Introduction</title><p>Studies suggest that around one-third of the proteins in a cell are in oligomeric state.<sup><xref rid="bibr1-1177932218821362" ref-type="bibr">1</xref></sup> Protein oligomers have evolved because of their advantages over their
+monomers such as oligomers have more chances of allosteric control, form new active
+sites at subunit interfaces of oligomers, provide increase in local concentration of
+active sites as compared with monomers, have chances of retaining larger binding
+surfaces, and will also create economic ways to produce large protein interaction
+networks and molecular machines.</p><p>Three-dimensional (3D)-domain swapping is one of the mechanisms of protein
+oligomerisation. The 3D-domain-swapped oligomers form stronger interactions in
+comparison to side-by-side homologous oligomers.<sup><xref rid="bibr2-1177932218821362" ref-type="bibr">2</xref></sup> The 3D-domain swapping is a mechanism of protein oligomer formation from
+monomeric units by exchanging their whole domains or small structural elements
+(<xref ref-type="fig" rid="fig1-1177932218821362">Figure 1</xref>). The
+monomeric subunits first undergo partial unfolding to form open conformations, and
+these open conformations then undergo domain swapping at high concentrations. First
+time in 1962, 3D-domain swapping was proposed as the mechanism of dimerization of
+RNase A.<sup><xref rid="bibr3-1177932218821362" ref-type="bibr">3</xref></sup> In 1990, crystal structures of &#x003b2;2-crystallin<sup><xref rid="bibr4-1177932218821362" ref-type="bibr">4</xref></sup> were solved and analyzed by Tom Blundell and Christine Slingsby groups, as a
+dimer at 2.1&#x02009;&#x000c5; resolution to show that the linker region between 2 domains is
+extended.</p><fig id="fig1-1177932218821362" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Cartoon representation of 3D-domain swapping.</p></caption><graphic xlink:href="10.1177_1177932218821362-fig1"/></fig><p>This mechanism was first documented by Eisenberg and coworkers<sup><xref rid="bibr5-1177932218821362" ref-type="bibr">5</xref></sup> in the structure of diphtheria toxin in 1994. There are reports of more than
+one domain swapping in a single protein, eg, RNase A dimers exhibit swapping in both
+the N- and C-terminal regions.<sup><xref rid="bibr3-1177932218821362" ref-type="bibr">3</xref></sup> 3D-domain-swapped proteins have wide range of sizes and highly diverse
+sequences. Even the swapped domain can also be an entire tertiary domain consisting
+of hundreds of residues or small structural element like &#x003b2;-strand or &#x003b1;-helix. A
+flexible linker region, namely, &#x0201c;hinge,&#x0201d; possesses intrinsic flexibility to
+facilitate 3D-domain-swapping process. The hinge region adopts different
+conformations in the monomer and in the domain-swapped oligomer. For example, the
+C-terminal &#x003b2;-strand of RNase A is exchanged in both the C-terminal-swapped dimer and
+the cyclic C-terminal-swapped trimer of RNase A. Hence, it is clear that the same
+hinge region adopts distinct conformations in the monomer, the C-terminal-swapped
+dimer, and the cyclic C-terminal-swapped trimer of RNase A, confirming the
+flexibility of hinge region.<sup><xref rid="bibr6-1177932218821362" ref-type="bibr">6</xref></sup> The hinge region, which is not sufficiently long enough for the swapped
+domain to fold back to the core,<sup><xref rid="bibr7-1177932218821362" ref-type="bibr">7</xref></sup> forms metastable and partially unfolded structures. These structures
+oligomerise to form domain-swapped oligomers.</p><p>There are many examples of 3D-domain-swapped proteins in plants, such as the
+light-harvesting complex of photosystem II,<sup><xref rid="bibr8-1177932218821362" ref-type="bibr">8</xref></sup> bleomycin resistance,<sup><xref rid="bibr9-1177932218821362" ref-type="bibr">9</xref></sup> and SET domain protein methyltransferase, involved in many diverse functions.
+Tulsi (<italic>Ocimum tenuiflorum</italic>, also referred as Holy basil) is a herbal
+plant that belongs to the genus <italic>Ocimum L.</italic> (Lamiaceae), which is
+also known as basil. This genus comprises 30 to 160 annual and perennial herbs and
+shrubs native to the tropical and subtropical regions of Asia, Africa, and America.<sup><xref rid="bibr10-1177932218821362" ref-type="bibr">10</xref></sup> Holy basil is well known to be anti-stress agent.<sup><xref rid="bibr11-1177932218821362" ref-type="bibr">11</xref></sup> There are many studies on the use of machine-learning approaches for the
+understanding of structure and function of these complex protein molecules. In this
+article, all the potential 3D-domain-swapped proteins are reported from the draft
+genome of Tulsi,<sup><xref rid="bibr12-1177932218821362" ref-type="bibr">12</xref></sup> along with function elucidation of these proteins for their involvement in
+different stress tolerance. The positively predicted gene products are compared with
+Arabidopsis genome for homologues and in STIFDB database for their possible
+involvement in combating biotic and abiotic stresses in Arabidopsis.</p></sec><sec sec-type="materials|methods" id="section2-1177932218821362"><title>Material and Methods</title><sec id="section3-1177932218821362"><title>Prediction of 3D-domain-swapped sequences of Tulsi</title><p>Using 439 sequence features of known examples of 3D-domain swapping, a Random
+Forest model was generated. Physicochemical features were extracted from AAINDEX database.<sup><xref rid="bibr13-1177932218821362" ref-type="bibr">13</xref></sup> WEKA was consulted for the selection of best features.<sup><xref rid="bibr14-1177932218821362" ref-type="bibr">14</xref></sup> The detailed methodology of prediction method is already discussed in the
+earlier paper.<sup><xref rid="bibr15-1177932218821362" ref-type="bibr">15</xref></sup> This model was applied for the prediction of 3D-domain swapping to 36&#x02009;768
+proteins of <italic>O tenuiflorum</italic> (Ote). Prediction model was also
+applied to the whole genome of reviewed proteins from UniProt of
+<italic>Arabidopsis thaliana</italic> (Ath), <italic>Solanum
+tuberosum</italic> (Stu), <italic>Solanum lycopersicum</italic> (Sly), and
+<italic>Medicago truncatula</italic> (Mtr). In these genomes,
+<italic>Ocimum</italic> has maximum number of proteins (36&#x02009;768) and
+<italic>M. truncatula</italic> has minimum (186) sequences.</p></sec><sec id="section4-1177932218821362"><title>Genome-wide and comparative analyses of predicted 3D-domain-swapping
+sequences of Ocimum and Arabidopsis</title><p>Functional annotation of positively predicted sequences of
+<italic>Ocimum</italic> genome was performed by TRAPID,<sup><xref rid="bibr16-1177932218821362" ref-type="bibr">16</xref></sup> an online tool for the functional and comparative analyses of
+high-throughput data. Functional annotation of all the positively predicted
+sequences of Tulsi genome was performed for their gene ontology (GO) term,
+protein family information, and protein domain associations.</p><p>A comparative analysis was also performed on the predicted sequences of
+<italic>Ocimum</italic> and <italic>Arabidopsis</italic>. Putative
+3D-domain-swap predicted sequences (9419) from <italic>Ocimum</italic> were used
+for searching homologous sequences in different plant genomes. Those gene
+products, which were positively predicted for domain swapping in the draft
+genome of <italic>O tenuiflorum</italic>, were used as query against UniProt at
+<italic>E</italic>-value of 10 for assigning function to these
+sequences.</p><p>Domain-swap predicted sequences from <italic>Arabidopsis</italic> were checked
+for their involvement in abiotic stress, by using an in-house server STIFDB2.<sup><xref rid="bibr17-1177932218821362" ref-type="bibr">17</xref></sup> Common protein sequences to domain swapping and stress were searched
+against the protein structure database. Some of the predicted sequences, which
+have homologues of known structure, were validated by manual visualization of
+these structures with the help of PyMol (<ext-link ext-link-type="uri" xlink:href="https://www.pymol.org/">https://www.pymol.org/</ext-link>), a
+molecular visualization tool.</p></sec></sec><sec sec-type="results" id="section5-1177932218821362"><title>Results</title><sec id="section6-1177932218821362"><title>Prediction of 3D-domain-swapped sequences of Tulsi</title><p>For this study, all the protein sequences (36&#x02009;768) of <italic>O
+tenuiflorum</italic><sup><xref rid="bibr12-1177932218821362" ref-type="bibr">12</xref></sup> were used for the prediction of 3D-domain swapping by using the
+machine-learning approaches. For the sake of comparison, Random Forest model was
+applied on 5 plant genomes for the prediction of 3D-domain swapping. Prediction
+results range from a minimum of 25% in <italic>O tenuiflorum</italic> to a
+maximum of 64% in <italic>A thaliana</italic> for reviewed sequences from
+UniProt (<xref rid="table1-1177932218821362" ref-type="table">Table 1</xref>).
+Plant genomes used in this study are <italic>A thaliana, M truncatula, S
+tuberosum</italic>, and <italic>S lycopersicum</italic>, where the
+percentage of genes predicted to be involved in domain swapping is 64, 48, 52,
+and 43, respectively. In <italic>O tenuiflorum</italic>, the lowest percentage
+of predicted sequences is observed among all the plant genomes considered in
+this study.</p><table-wrap id="table1-1177932218821362" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Prediction result of 3D-domain swapping by RF approach on different plant
+genomes.</p></caption><alternatives><graphic xlink:href="10.1177_1177932218821362-table1"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">S. No.</th><th align="left" rowspan="1" colspan="1">Genomes</th><th align="left" rowspan="1" colspan="1">Total reviewed sequences</th><th align="left" rowspan="1" colspan="1">Positive prediction by RF</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">
+<italic>Arabidopsis thaliana</italic>
+</td><td rowspan="1" colspan="1">12&#x02009;033</td><td rowspan="1" colspan="1">7694 (64%)</td></tr><tr><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">
+<italic>Medicago truncatula</italic>
+</td><td rowspan="1" colspan="1">186</td><td rowspan="1" colspan="1">48 (26%)</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">
+<italic>Solanum tuberosum</italic>
+</td><td rowspan="1" colspan="1">400</td><td rowspan="1" colspan="1">208 (52%)</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">
+<italic>Solanum lycopersicum</italic>
+</td><td rowspan="1" colspan="1">423</td><td rowspan="1" colspan="1">183 (43%)</td></tr><tr><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">
+<italic>Ocimum tenuiflorum</italic>
+</td><td rowspan="1" colspan="1">36&#x02009;768</td><td rowspan="1" colspan="1">9419 (25%)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-1177932218821362"><p>Abbreviation: RF, Random Forest.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section7-1177932218821362"><title>Genome-wide and comparative analysis of predicted 3D-domain sequences of O
+tenuiflorum and A thaliana</title><p>A total of 9346 (25%) protein sequences of Tulsi proteome were predicted to be
+engaged in 3D-domain swapping. The average protein length of positively
+predicted sequences in this dataset is 520.2&#x02009;bp. Out of 9346 positively
+predicted sequences of Tulsi genome, 9082 sequences have homologous sequence in
+other plant genomes with InterPro<sup><xref rid="bibr18-1177932218821362" ref-type="bibr">18</xref></sup> gene family: 8027 of them retain GO term association and 8339 have
+protein domain association.</p><p>All the positively predicted 9346 sequences from Tulsi genome were searched
+against UniProt.<sup><xref rid="bibr19-1177932218821362" ref-type="bibr">19</xref></sup> The distribution of homologous sequences in different organisms is
+plotted (<xref ref-type="fig" rid="fig2-1177932218821362">Figure 2</xref>). Out
+of 9346 predicted sequences, 9265 sequences have homologous sequences in
+UniProt. Within 9265 homologous sequences, 3213 sequences have the best
+homologue in <italic>Arabidopsis</italic>, on the basis of identity percentage
+and bits score. Among the <italic>Arabidopsis</italic> sequence homologues, 2522
+of them are also predicted to be involved in 3D-domain swapping.</p><fig id="fig2-1177932218821362" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Distribution of homologues of predicted 3D-domain-swapped proteins of
+Tulsi in different plant genomes.</p></caption><graphic xlink:href="10.1177_1177932218821362-fig2"/></fig><p>In the <italic>Arabidopsis</italic> genome, a total of 7694 (64%) protein
+sequences were predicted as 3D-domain swapping, out of 12&#x02009;033 reviewed sequences
+from UniProt and 3029 (25.2%) proteins are associated with different stress
+conditions. Proteins, which are common to domain swapping and stress are 1158
+(9.6%) in number (<xref ref-type="fig" rid="fig3-1177932218821362">Figure
+3</xref>; <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/1177932218821362">Supplemental Table 1</ext-link>). Out of 1158 protein sequences, predicted
+to be involved in 3D-domain swapping and also observed in abiotic stress, only
+69 of them are observed to retain homologues of known structure.</p><fig id="fig3-1177932218821362" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Venn diagram showing the number of common proteins to 3D-domain swapping
+and biotic and abiotic stresses in <italic>A thaliana.</italic></p></caption><graphic xlink:href="10.1177_1177932218821362-fig3"/></fig><p>Few of the important examples of well-known cases of 3D-domain swapping in plants
+(<xref rid="table2-1177932218821362" ref-type="table">Table 2</xref>), and
+also found as predicted in Tulsi genome, are Bleomycin resistance protein
+(1BYL), serine/threonine phosphatase activity (3NMT), glyoxalase/bleomycin
+resistance protein (1TG5), dimerization domain protein binding (3C6N), and
+glyceraldehyde-3-phosphate dehydrogenase chloroplastic (3RVD).</p><table-wrap id="table2-1177932218821362" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Some of the plant protein crystal structures with 3D-domain swapping.</p></caption><alternatives><graphic xlink:href="10.1177_1177932218821362-table2"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">S. No.</th><th align="left" rowspan="1" colspan="1">Monomer</th><th align="left" rowspan="1" colspan="1">Domain swap</th><th align="left" rowspan="1" colspan="1">Description</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1GNU</td><td rowspan="1" colspan="1">1WZ3</td><td rowspan="1" colspan="1">Ubiquitin-like</td></tr><tr><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">1G6J</td><td rowspan="1" colspan="1">1GJZ</td><td rowspan="1" colspan="1">Ubiquitin-like</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">1KMZ</td><td rowspan="1" colspan="1">1XY7</td><td rowspan="1" colspan="1">Glyoxalase/bleomycin resistance</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">1GQ9</td><td rowspan="1" colspan="1">1W77</td><td rowspan="1" colspan="1">Nucleotide-diphospho-sugar transferases</td></tr><tr><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">1KL7</td><td rowspan="1" colspan="1">1E5X</td><td rowspan="1" colspan="1">Threonine synthatase</td></tr><tr><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">1X91</td><td rowspan="1" colspan="1">1X8Z</td><td rowspan="1" colspan="1">Plant invertase/pectin methylesterase</td></tr><tr><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1Z84</td><td rowspan="1" colspan="1">Galactose-1-phosphate uridyltransferase-like</td></tr><tr><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1MLV</td><td rowspan="1" colspan="1">Ribulose-1,5 bisphosphate</td></tr><tr><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">2A5V</td><td rowspan="1" colspan="1">1EKJ</td><td rowspan="1" colspan="1">Beta-carbonic anhydrase</td></tr><tr><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1L3A</td><td rowspan="1" colspan="1">Plant transcriptional regulator pbf-2</td></tr><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">3A8R</td><td rowspan="1" colspan="1">Respiratory burst NADPH oxidase</td></tr><tr><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1Z7W</td><td rowspan="1" colspan="1">Cysteine synthase</td></tr><tr><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2Q48</td><td rowspan="1" colspan="1">Protein AT5G48480</td></tr><tr><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2NTX</td><td rowspan="1" colspan="1">EMB|CAB41934.1</td></tr><tr><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2AAO</td><td rowspan="1" colspan="1">Calcium-dependent protein kinase</td></tr><tr><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2Q4H</td><td rowspan="1" colspan="1">Nucleocapsid protein</td></tr><tr><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2066</td><td rowspan="1" colspan="1">PII protein</td></tr><tr><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1Z7Y</td><td rowspan="1" colspan="1">Cysteine synthase</td></tr><tr><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2PC5</td><td rowspan="1" colspan="1">DUTP pyrophosphate-like protein</td></tr><tr><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2P90</td><td rowspan="1" colspan="1">DUTP pyrophosphate-like protein</td></tr><tr><td rowspan="1" colspan="1">21</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">1MLV</td><td rowspan="1" colspan="1">Serine/threonine-protein kinase 10</td></tr><tr><td rowspan="1" colspan="1">22</td><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">2BHW</td><td rowspan="1" colspan="1">Chlorophyll a-b binding protein AB80</td></tr></tbody></table></alternatives></table-wrap><p>Bleomycin resistance protein is from Glyoxalase/Bleomycin resistance
+protein/dihydroxybiphenyl dioxygenase superfamily. It belongs to alpha and beta
+proteins class (&#x003b1; + &#x003b2;) of SCOP,<sup><xref rid="bibr20-1177932218821362" ref-type="bibr">20</xref></sup> which has a <italic>&#x003b2;-&#x003b1;-&#x003b2;</italic> type of fold. There are 10 families in
+this superfamily. Three Pfam<sup><xref rid="bibr21-1177932218821362" ref-type="bibr">21</xref></sup> protein domain families are associated with this superfamily: these are
+PF13669 (Glyoxalase_4), PF00903 (Glyoxalase), and PF06983 (3-dmu-9_3-mt).These
+entire protein domain families are from the same clan, ie, Glyoxalase clan
+(CL0104). This clan is known to have enzymes which catalyze isomerization,
+epimerization, oxidative cleavage of C&#x02013;C bond, and nucleophilic substitution
+reactions. Bleomycin-resistant protein is of 14&#x02009;kDa and consists of compact
+dimer with a hydrophobic interface involved in mutual chain exchange. The hinge
+region is of 3 residues (residue numbers 8V, 9P, and 10V). The hinge region and
+swapped domain are marked in red and green color, respectively. Another example
+of predicted protein engaged in 3D-domain swapping from Tulsi genome and also
+reported earlier to be involved in this phenomenon among plant homologues is
+glyceraldehyde-3-phosphate dehydrogenase (GAPA). In plants, there are 3 types of
+GAPA, namely, GAPA1, 2, and 3. GAPA1 helps in the reduction of
+1,3-diphosphateglycerate by nicotinamide adenine dinucleotide phosphate (NADPH).
+The GAPA1 is of 396 residues long with a molecular mass of 42.4&#x02009;kDa. These
+proteins belong to 2 Pfam families, ie, PF02800 (glyceraldehyde-3-phosphate
+dehydrogenase, C-terminal) and PF00044 (glyceraldehyde-3-phosphate
+dehydrogenase, NAD-binding domain).</p></sec></sec><sec sec-type="conclusions" id="section8-1177932218821362"><title>Conclusions</title><p>Nearly 25% of the protein sequences in Tulsi genome are predicted to be involved in
+the mechanism of 3D-domain swapping of protein oligomerization by Random Forest
+method. Nearly 98% of these predicted sequences have homologues in different plants,
+with majority in <italic>A thaliana</italic>. Functional annotations for almost 90%
+of the sequences could be assigned. The GO term associations could be performed for
+8027 (85%) of Tulsi sequences predicted to be involved in domain swapping, and
+protein domain association could be observed for 8339 (89%) of them. Those sequences
+(85%), which have GO term associations, also have protein domain family associations
+from Pfam database. Some 1158 (12% of domain-swapped predicted) protein sequences
+are involved in both the phenomenon of 3D-domain swapping and in abiotic stress.</p><p>These sequences are involved in many diverse biological functions such as</p><list list-type="order" id="list1-1177932218821362"><list-item><p><italic>Defense mechanism of plants against biotic stress</italic>. Proteins
+involved in this mechanism help in the production of secondary metabolites,
+known as allelochemicals, which acts as plant defense against herbivores by
+changing the behavior, growth, or survival of herbivores.</p></list-item><list-item><p><italic>Against abiotic stress like heat-shock, cold</italic>. In case of
+abiotic stresses, there is production of a group of proteins called
+heat-shock proteins (Hsps) or stress-induced proteins. On the basis of
+molecular weight of these proteins, they are grouped into 5 classes in
+plants: (1) Hsp100, (2) Hsp90, (3) Hsp70, (4) Hsp60, and (5) small
+heat-shock proteins (sHsps). It is reported that because of this high
+diversification of these proteins in plants, they have an adaptation to
+tolerate the different stresses such as heat and cold stress.</p></list-item><list-item><p><italic>Involved as transcription factors to regulate the function of many
+genes</italic>. Transcription factors are proteins that regulate gene
+expression. These proteins bind to specific sites of gene and works as
+regulatory elements such as enhancer. Plants alter transcription and gene
+expression levels during development and in response to environmental
+conditions.</p></list-item></list><p>Some of the examples of the protein sequences involved in 3D-domain swapping and also
+involved in defense mechanism against biotic stress and transcription factors, as
+concluded in the above section, are listed in <ext-link ext-link-type="uri" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/1177932218821362">Supplemental Table 2</ext-link>.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1"><caption><title>Supplementary material</title></caption><media mimetype="application" mime-subtype="xlsx" xlink:href="Suplementarytable1_xyz98007ee1aae0.xlsx" orientation="portrait" id="d35e775" position="anchor"/></supplementary-material><supplementary-material content-type="local-data" id="SD2"><caption><title>Supplementary material</title></caption><media mimetype="application" mime-subtype="xlsx" xlink:href="Suplementarytable2_xyz9800afdf6d7d.xlsx" orientation="portrait" id="d35e780" position="anchor"/></supplementary-material></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold>The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn><fn fn-type="con"><p><bold>Author Contributions:</bold> RS conceived the project ideas. AU carried out all the work and analyses. AU
+wrote first draft of the manuscript and RS critically read to improve it.</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Ramanathan Sowdhamini <inline-graphic xlink:href="10.1177_1177932218821362-img1.jpg"/>
+<ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-6642-2367">https://orcid.org/0000-0002-6642-2367</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-1177932218821362"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goodsell</surname><given-names>DS</given-names></name><name><surname>Olson</surname><given-names>AJ.</given-names></name></person-group>
+<article-title>Structural symmetry and protein function</article-title>.
+<source>Annu Rev Biophys Biomol Struct</source>.
+<year>2000</year>;<volume>29</volume>:<fpage>105</fpage>-<lpage>153</lpage>.<pub-id pub-id-type="pmid">10940245</pub-id></mixed-citation></ref><ref id="bibr2-1177932218821362"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nagradova</surname><given-names>NK.</given-names></name></person-group>
+<article-title>Three-dimensional domain swapping in homooligomeric proteins and
+its functional significance</article-title>. <source>Biochem</source>.
+<year>2002</year>;<volume>67</volume>:<fpage>839</fpage>-<lpage>849</lpage>.<pub-id pub-id-type="pmid">12223084</pub-id></mixed-citation></ref><ref id="bibr3-1177932218821362"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crestfield</surname><given-names>AM</given-names></name><name><surname>Stein</surname><given-names>WH</given-names></name><name><surname>Moor</surname><given-names>S</given-names></name></person-group>
+<article-title>On the aggregation of bovine pancreatic
+ribonuclease</article-title>. <source>Arch Biochem Biophys</source>.
+<volume>1962</volume>;Suppl
+1:<fpage>217</fpage>-<lpage>222</lpage>.</mixed-citation></ref><ref id="bibr4-1177932218821362"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bax</surname><given-names>B</given-names></name><name><surname>Lapatto</surname><given-names>R</given-names></name><name><surname>Nalini</surname><given-names>V</given-names></name><etal>et al</etal></person-group>
+<article-title>X-ray analysis of beta B2-crystallin and
+evolution of oligomeric lens proteins</article-title>.
+<source>Nature</source>.
+<year>1990</year>;<volume>347</volume>:<fpage>776</fpage>-<lpage>780</lpage>.<pub-id pub-id-type="pmid">2234050</pub-id></mixed-citation></ref><ref id="bibr5-1177932218821362"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bennett</surname><given-names>MJ</given-names></name><name><surname>Choe</surname><given-names>S</given-names></name><name><surname>Eisenberg</surname><given-names>D.</given-names></name></person-group>
+<article-title>Domain swapping: entangling alliances between
+proteins</article-title>. <source>Proc Natl Acad Sci U S A</source>.
+<year>1994</year>;<volume>91</volume>:<fpage>3127</fpage>-<lpage>3131</lpage>.<pub-id pub-id-type="pmid">8159715</pub-id></mixed-citation></ref><ref id="bibr6-1177932218821362"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Eisenberg</surname><given-names>D.</given-names></name></person-group>
+<article-title>3D domain swapping: as domains continue to swap</article-title>.
+<source>Protein Sci</source>.
+<year>2002</year>;<volume>11</volume>:<fpage>1285</fpage>-<lpage>1299</lpage>.<pub-id pub-id-type="pmid">12021428</pub-id></mixed-citation></ref><ref id="bibr7-1177932218821362"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bennett</surname><given-names>MJ</given-names></name><name><surname>Schlunegger</surname><given-names>MP</given-names></name><name><surname>Eisenberg</surname><given-names>D.</given-names></name></person-group>
+<article-title>3D domain swapping: a mechanism for oligomer
+assembly</article-title>. <source>Protein Sci</source>.
+<year>1995</year>;<volume>4</volume>:<fpage>2455</fpage>-<lpage>2468</lpage>.<pub-id pub-id-type="pmid">8580836</pub-id></mixed-citation></ref><ref id="bibr8-1177932218821362"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Standfuss</surname><given-names>J</given-names></name><name><surname>Terwisscha van Scheltinga</surname><given-names>AC</given-names></name><name><surname>Lamborghini</surname><given-names>M</given-names></name><name><surname>K&#x000fc;hlbrandt</surname><given-names>W.</given-names></name></person-group>
+<article-title>Mechanisms of photoprotection and nonphotochemical quenching in
+pea light-harvesting complex at 2.5 A resolution</article-title>.
+<source>EMBO J</source>.
+<year>2005</year>;<volume>24</volume>:<fpage>919</fpage>-<lpage>928</lpage>.<pub-id pub-id-type="pmid">15719016</pub-id></mixed-citation></ref><ref id="bibr9-1177932218821362"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trievel</surname><given-names>RC</given-names></name><name><surname>Beach</surname><given-names>BM</given-names></name><name><surname>Dirk</surname><given-names>LMA</given-names></name><name><surname>Houtz</surname><given-names>RL</given-names></name><name><surname>Hurley</surname><given-names>JH.</given-names></name></person-group>
+<article-title>Structure and catalytic mechanism of a SET domain protein
+methyltransferase</article-title>.
+<year>2002</year>;<volume>111</volume>:<fpage>91</fpage>-<lpage>103</lpage>.</mixed-citation></ref><ref id="bibr10-1177932218821362"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vieira</surname><given-names>R</given-names></name><name><surname>Grayer</surname><given-names>R</given-names></name><name><surname>Paton</surname><given-names>A</given-names></name><name><surname>Simon</surname><given-names>J</given-names></name></person-group>
+<article-title>Genetic diversity of Ocimum gratissimum L. based
+on volatile oil constituents, flavonoids and RAPD markers</article-title>.
+<source>Biochem Syst Ecol</source>.
+<year>2001</year>;<volume>29</volume>:<fpage>287</fpage>-<lpage>304</lpage>.<pub-id pub-id-type="pmid">11152947</pub-id></mixed-citation></ref><ref id="bibr11-1177932218821362"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>M.</given-names></name></person-group>
+<article-title>Tulsi - Ocimum sanctum: a herb for all reasons</article-title>.
+<source>J Ayurveda Integr Med</source>.
+<year>2014</year>;<volume>5</volume>:<fpage>251</fpage>.<pub-id pub-id-type="pmid">25624701</pub-id></mixed-citation></ref><ref id="bibr12-1177932218821362"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Upadhyay</surname><given-names>AK</given-names></name><name><surname>Chacko</surname><given-names>AR</given-names></name><name><surname>Gandhimathi</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Genome sequencing of herb Tulsi (Ocimum
+tenuiflorum) unravels key genes behind its strong medicinal
+properties</article-title>. <source>BMC Plant Biol</source>.
+<year>2015</year>;<volume>15</volume>:<fpage>212</fpage>.<pub-id pub-id-type="pmid">26315624</pub-id></mixed-citation></ref><ref id="bibr13-1177932218821362"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawashima</surname><given-names>S</given-names></name><name><surname>Kanehisa</surname><given-names>M.</given-names></name></person-group>
+<article-title>AAindex: amino acid index database</article-title>.
+<source>Nucleic Acids Res</source>.
+<year>2000</year>;<volume>28</volume>:<fpage>374</fpage>.<pub-id pub-id-type="pmid">10592278</pub-id></mixed-citation></ref><ref id="bibr14-1177932218821362"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frank</surname><given-names>E</given-names></name><name><surname>Hall</surname><given-names>M</given-names></name><name><surname>Trigg</surname><given-names>L</given-names></name><name><surname>Holmes</surname><given-names>G</given-names></name><name><surname>Witten</surname><given-names>IH.</given-names></name></person-group>
+<article-title>Data mining in bioinformatics using WEKA</article-title>.
+<source>Bioinformatics</source>.
+<year>2004</year>;<volume>20</volume>:<fpage>2479</fpage>-<lpage>2481</lpage>.<pub-id pub-id-type="pmid">15073010</pub-id></mixed-citation></ref><ref id="bibr15-1177932218821362"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Upadhyay</surname><given-names>AK</given-names></name><name><surname>Sowdhamini</surname><given-names>R.</given-names></name></person-group>
+<article-title>Genome-wide prediction and analysis of 3D-domain swapped proteins
+in the human genome from sequence information</article-title>. <source>PLoS
+ONE</source>.
+<year>2016</year>;<volume>11</volume>:<fpage>e0159627</fpage>.<pub-id pub-id-type="pmid">27467780</pub-id></mixed-citation></ref><ref id="bibr16-1177932218821362"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Bel</surname><given-names>M</given-names></name><name><surname>Proost</surname><given-names>S</given-names></name><name><surname>Van Neste</surname><given-names>C</given-names></name><name><surname>Deforce</surname><given-names>D</given-names></name><name><surname>Van de Peer</surname><given-names>Y</given-names></name><name><surname>Vandepoele</surname><given-names>K</given-names></name></person-group>
+<article-title>TRAPID: an efficient online tool for the
+functional and comparative analysis of de novo RNA-Seq
+transcriptomes</article-title>. <source>Genome Biol</source>.
+<year>2013</year>;<volume>14</volume>:<fpage>R134</fpage>.<pub-id pub-id-type="pmid">24330842</pub-id></mixed-citation></ref><ref id="bibr17-1177932218821362"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Naika</surname><given-names>M</given-names></name><name><surname>Shameer</surname><given-names>K</given-names></name><name><surname>Mathew</surname><given-names>OK</given-names></name><name><surname>Gowda</surname><given-names>R</given-names></name><name><surname>Sowdhamini</surname><given-names>R.</given-names></name></person-group>
+<article-title>STIFDB2: an updated version of plant stress-responsive
+transcription factor database with additional stress signals,
+stress-responsive transcription factor binding sites and stress-responsive
+genes in arabidopsis and rice</article-title>. <source>Plant Cell
+Physiol</source>.
+<year>2013</year>;<volume>54</volume>:<fpage>e8</fpage>.<pub-id pub-id-type="pmid">23314754</pub-id></mixed-citation></ref><ref id="bibr18-1177932218821362"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mulder</surname><given-names>NJ</given-names></name><name><surname>Apweiler</surname><given-names>R</given-names></name><name><surname>Attwood</surname><given-names>TK</given-names></name><etal>et al</etal></person-group>
+<article-title>InterPro: an integrated documentation resource
+for protein families, domains and functional sites</article-title>.
+<source>Brief Bioinform</source>.
+<year>2002</year>;<volume>3</volume>:<fpage>225</fpage>-<lpage>235</lpage>.<pub-id pub-id-type="pmid">12230031</pub-id></mixed-citation></ref><ref id="bibr19-1177932218821362"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Apweiler</surname><given-names>R</given-names></name><name><surname>Bairoch</surname><given-names>A</given-names></name><name><surname>Wu</surname><given-names>CH</given-names></name><etal>et al</etal></person-group>
+<article-title>UniProt: the Universal Protein
+knowledgebase</article-title>. <source>Nucleic Acids Res</source>
+<volume>32</volume>: <fpage>D115</fpage>-<lpage>D119</lpage>.<pub-id pub-id-type="pmid">14681372</pub-id></mixed-citation></ref><ref id="bibr20-1177932218821362"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murzin</surname><given-names>AG</given-names></name><name><surname>Brenner</surname><given-names>SE</given-names></name><name><surname>Hubbard</surname><given-names>T</given-names></name><name><surname>Chothia</surname><given-names>C.</given-names></name></person-group>
+<article-title>SCOP: a structural classification of proteins database for the
+investigation of sequences and structures</article-title>. <source>J Mol
+Biol</source>.
+<year>1995</year>;<volume>247</volume>:<fpage>536</fpage>-<lpage>540</lpage>.<pub-id pub-id-type="pmid">7723011</pub-id></mixed-citation></ref><ref id="bibr21-1177932218821362"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Finn</surname><given-names>RD</given-names></name><name><surname>Mistry</surname><given-names>J</given-names></name><name><surname>Tate</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>The Pfam protein families
+database</article-title>. <source>Nucleic Acids Res</source>.
+<year>2009</year>;<volume>38</volume>:<fpage>D211</fpage>-<lpage>D222</lpage>.<pub-id pub-id-type="pmid">19920124</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,298 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.1 20050630//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.1?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bioinformation</journal-id><journal-id journal-id-type="publisher-id">Bioinformation</journal-id><journal-title-group><journal-title>Bioinformation</journal-title></journal-title-group><issn pub-type="epub">0973-2063</issn><publisher><publisher-name>Biomedical Informatics</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3218416</article-id><article-id pub-id-type="publisher-id">97320630007222</article-id><article-categories><subj-group subj-group-type="heading"><subject>Hypothesis</subject></subj-group></article-categories><title-group><article-title>Computer aided screening and evaluation of herbal therapeutics against MRSA infections</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Skariyachan</surname><given-names>Sinosh</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="COR1">*</xref></contrib><contrib contrib-type="author"><name><surname>Krishnan</surname><given-names>Rao Shruti</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Siddapa</surname><given-names>Snehapriya Bangalore</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Salian</surname><given-names>Chithra</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Bora</surname><given-names>Prerana</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Sebastian</surname><given-names>Denoj</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><aff id="A1"><label>1</label>Department of Biotechnology, Dayananda Sagar College of Engineering, Bangalore, India</aff><aff id="A2"><label>2</label>Department of Microbiology, University of Calicut, Kerala, India</aff></contrib-group><author-notes><corresp id="COR1"><label>*</label>Sinosh Skariyachan: <email>sinoshskariya@gmail.com;</email></corresp></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>31</day><month>10</month><year>2011</year></pub-date><volume>7</volume><issue>5</issue><fpage>222</fpage><lpage>233</lpage><history><date date-type="received"><day>10</day><month>10</month><year>2011</year></date><date date-type="accepted"><day>11</day><month>10</month><year>2011</year></date></history><permissions><copyright-statement>&#x000a9; 2011 Biomedical Informatics</copyright-statement><copyright-year>2011</copyright-year><license license-type="open-access"><license-p>This is an open-access article, which permits unrestricted use, distribution, and reproduction in any medium, 		for non-commercial purposes, provided the original author and source are credited.</license-p></license></permissions><abstract><p>Methicillin resistant  <italic>Staphylococcus aureus</italic> (MRSA), a pathogenic bacterium that causes life threatening outbreaks such as 
+community-onset and nosocomial infections has emerged as &#x02018;superbug&#x02019;. The organism developed resistance to all classes of 
+antibiotics including the best known Vancomycin (VRSA). Hence,  there is a need to develop new therapeutic agents. This study 
+mainly evaluates the potential use of botanicals against MRSA infections. Computer aided design is an initial platform to screen 
+novel inhibitors and the data finds applications in drug development. The drug-likeness and efficiency of various herbal 
+compounds were screened by ADMET and docking studies. The virulent factor of most of the MRSA associated infections are 
+Penicillin Binding Protein 2A (PBP2A) and Panton-Valentine Leukocidin (PVL). Hence, native structures of these proteins (PDB: 
+1VQQ and 1T5R) were used as the drug targets.  The docking studies revealed that the active component of <italic>Aloe vera</italic>, &#x003b2;-sitosterol 
+(3S, 8S, 9S, 10R, 13R, 14S, 17R) &#x000ad;17&#x000ad; [(2R, 5R)-5-ethyl-6-methylheptan-2-yl] -10, 13-dimethyl 2, 3, 4, 7, 8, 9, 11, 12, 14, 15, 16, 17-
+dodecahydro-1H-cyclopenta [a] phenanthren-3-ol) showed best binding energies of -7.40 kcal/mol and &#x000ad;6.34 kcal/mol for PBP2A 
+and PVL toxin, respectively. Similarly, Meliantriol (1S-1-[ (2R, 3R, 5R)-5-hydroxy-3-[(3S, 5R, 9R, 10R, 13S, 14S, 17S)-3-hydroxy 4, 4, 
+10, 13, 14-pentamethyl-2, 3, 5, 6, 9, 11, 12, 15, 16, 17-decahydro-1H-cyclopenta[a] phenanthren-17-yl] oxolan-2-yl] -2- 
+methylpropane-1, 2 diol), active compound in <italic>Azadirachta indica</italic> (Neem) showed the binding energies of &#x000ad;6.02 kcal/mol for PBP2A 
+and &#x000ad;8.94 for PVL toxin. Similar studies were conducted with selected herbal compound based on pharmacokinetic properties. All 
+in silico  data tested  <italic>in vitro</italic> concluded that herbal extracts of  <italic>Aloe-vera</italic>, Neem, Guava (<italic>Psidium guajava</italic>), Pomegranate (<italic>Punica 
+granatum</italic>) and tea (<italic>Camellia sinensis</italic>) can be used as therapeutics against MRSA infections.</p></abstract><kwd-group><kwd>Superbug</kwd><kwd>MRSA</kwd><kwd>PBP2A</kwd><kwd>PVL toxin</kwd><kwd>docking</kwd><kwd>&#x003b2;-sitosterol</kwd><kwd>Meliantriol</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>Background:</title><p>Methicillin resistant <italic>Staphylococcus aureus</italic> (MRSA) is a notorious 
+pathogenic bacterium causing many infections and the disease 
+control has become a serious issue worldwide  [<xref ref-type="bibr" rid="R01">1</xref>]. The high 
+outbreak of MRSA was observed in closed communities such as 
+schools, prisons and sports teams and the disease has mainly 
+transmitted from fomite to person and from person to person 
+and so on [<xref ref-type="bibr" rid="R02">2</xref>]. The pathogenecity of the bacteria includes skin 
+and soft tissue infections (SSTI), bone, joint and implant 
+infections, pneumonia, septicemia and various toxicoses such as 
+toxic shock syndrome, bloodstream infections, osteomyelitis, 
+septic arthritis, and device-related infections, necrotizing 
+fasciitis and purpura fulminans and abscesses  [<xref ref-type="bibr" rid="R03">3</xref>]. Recent 
+reports indicated the emergence of multidrug resistant 
+Staphylococci against all classes of  &#x003b2;-lactam antibiotics. The 
+antibiotic resistance is mainly due to the expression of PC1  &#x003b2;-
+lactamase and the acquisition of mecA gene encoding a 
+penicillin-binding protein, PBP2A [<xref ref-type="bibr" rid="R04">4</xref>]. The bacteria initially 
+penetrate the host's immune system via epidermal and mucosal 
+epithelia and the antimicrobial peptides play necessary role in
+the host's innate immune defense against the initial colonization 
+of bacteria [<xref ref-type="bibr" rid="R05">5</xref>]. It has been studied that many strains of MRSA 
+contain genes that encode the toxin called Panton Valentine 
+Leukocidin (PVL), bi-component leukocidal toxins 
+(synergohymenotropic toxins) consists of F and S components. 
+PVL is encoded by the lukPVoperon encoding the LukF-PV and 
+LukS-PV components (cytotoxins) that lyse leukocyte. Hence, 
+PVL positive Staphylococcal infections exist as life threatening 
+infections of soft tissues and bones [<xref ref-type="bibr" rid="R06">6</xref>]. </p><p>Recent studies revealed that strains of MRSA developed 
+resistance to conventional antibiotics and emerged as multidrug 
+resistant superbugs. Hence, there is a significant demand of 
+finding better therapeutic agents. The active substances present 
+in many medicinal plants could be used as therapeutic 
+alternatives for MRSA infection [<xref ref-type="bibr" rid="R07">7</xref>]. Computer aided method is 
+a preliminary approach to screening novel therapeutic agents 
+and the discipline is an emerging strategy as it reduces many 
+complexities of drug discovery process. The screening of lead 
+molecule with good pharmacological properties and drug 
+likeness is a tedious task in drug development process.  
+Computer  aided  method  is  an  easy  platform  to  search  such 
+kinds of biologically active compounds with favorable ADMET 
+(Absorption, Distribution, Metabolism, Excretion and Toxicity) 
+and drug-likeness properties  [<xref ref-type="bibr" rid="R08">8</xref>]. The study of receptor-ligand 
+interaction is a fundamental concept of rational drug design 
+and the prediction of such interactions by computational 
+docking has increasing importance in the field of structure 
+based drug discovery [<xref ref-type="bibr" rid="R09">9</xref>].</p><p>The study mainly focused to screen potential herbal inhibitors 
+against the drug targets of MRSA by computer based ADMET 
+and docking studies. The data obtained from  <italic>in silico</italic> studies 
+were later used for  <italic>in vitro</italic> studies. The study also provides a 
+comparative account of the efficiency of herbal compounds to 
+that of known antibiotics.</p></sec><sec id="s2"><title>Methodology:</title><sec id="s2a"><title><italic>Identification of potential ligands</italic>:</title><p>Since MRSA has emerged as a multidrug resistant organism the 
+design of alternative therapies are very crucial to treat MRSA 
+outbreaks. There are reports that many herbal based 
+compounds have high medicinal values against many 
+pathogens. Hence, an initial survey of 74 compounds from 13 
+different medicinal plants was carried out by extensive 
+literature studies. It is possible to find out the druggish 
+properties of herbal compounds by computer aided screening 
+and the data will be useful to screen best lead molecules. The 
+3D structures of all plant based ligands are available in drug 
+data base and the structures were retrieved from PubChem 
+[<xref ref-type="bibr" rid="R10">10</xref>], 
+KEGG [<xref ref-type="bibr" rid="R11">11</xref>] and Chemspider 
+[<xref ref-type="bibr" rid="R12">12</xref>].</p></sec><sec id="s2b"><title><italic>ADMET studies and screening of ligands</italic>:</title><p>The ligands with good pharmacological and druggish 
+properties are very crucial for structure based drug discovery. 
+The absorption, distribution, metabolism, excretion and toxicity 
+(ADMET) are the most important part of pharmacological 
+studies of lead molecules and these can be predicted by 
+computational biology tools. Hence, all 74 ligands identified 
+were tested for their drug-likeliness, ADME profile and toxicity 
+analysis by Pre-ADMET. The ADME includes the extent and 
+rate of absorption, distribution, metabolism and excretion. 
+Absorption checks how the substance is entering to the blood 
+circulation, distribution explains how substances are 
+disseminating throughout the fluids and tissues of the body,
+metabolism is the irreversible transformation of parent 
+compounds into daughter metabolites and excretion explains 
+how the substances are excreted from the body after 
+metabolism. Pre-ADMET uses Caco2-cell (heterogeneous 
+human epithelial colorectal adenocarcinoma cell lines) and 
+MDCK (Madin-Darby Canine Kidney) cell models for oral drug 
+absorption prediction and skin permeability, and human 
+intestinal absorption model for oral and trans-dermal drug 
+absorption prediction. Similarly, the programme uses BBB 
+(blood brain barrier) penetration and plasma protein binding 
+models to predict the distribution. Pre-ADMET predicts toxicity 
+based on the mutagenicity of AMES parameters and rodent 
+carcinogenicity assays of rat and mouse [<xref ref-type="bibr" rid="R13">13</xref>].</p></sec><sec id="s2c"><title><italic>Selection of target proteins and molecular docking</italic>:</title><p>The receptor and ligand interaction is the key mechanism of 
+computer aided drug design. Previous studies reported that 
+Penicillin Binding Protein 2A (PBP2A) and Panton-Valentine 
+Leukocidin (PVL) are the major virulent factors of MRSA 
+infections  [<xref ref-type="bibr" rid="R14">14</xref>,
+<xref ref-type="bibr" rid="R15">15</xref>]. Hence, the native structures of the proteins 
+are used as drug targets. The crystal structures of PBP2A 
+(1VQQ) and PVL toxin (1T5R) were retrieved from Protein Data 
+Bank and the coordinate files were used for the study. The 
+selected herbal compounds were docked with target proteins by 
+AutoDock. The program uses a Monte Carlo simulated 
+annealing for configurational exploration using grid based 
+molecular affinity potentials and provides bioactive 
+conformation by energy minimization [<xref ref-type="bibr" rid="R16">16</xref>].</p></sec><sec id="s2d"><title><italic>In vitro</italic>studies</title><p>The data generated by computer aided studies should be tested 
+experimentally for further confirmation. Based on the 
+pharmacological properties studied by ADMET &#x00026; docking 
+studies, five botanicals were identified for <italic>In vitro</italic>  testing. The 
+botanicals used in the study are <italic>Azadirachta indica</italic> 
+[<xref ref-type="bibr" rid="R17">17</xref>], <italic>Aloe vera</italic>
+[<xref ref-type="bibr" rid="R18">18</xref>],  <italic>Camellia sinensis</italic> 
+[<xref ref-type="bibr" rid="R19">19</xref>],  <italic>Punica granatum</italic> 
+[<xref ref-type="bibr" rid="R20">20</xref>] and  <italic>Psidium
+guajava</italic> [<xref ref-type="bibr" rid="R21">21</xref>]. The herbals were collected from Horticulture 
+Centre-Hulimavu, Bangalore. The leaf extracts were prepared 
+by standard solvent extraction method and the antimicrobial 
+activity of each extract was tested in different concentrations. 
+The pure culture of MRSA was swabbed on Muller Hinton agar 
+plates which have many wells. The extracts were added in 
+different concentration to each well (well diffusion method) and 
+the plates were incubated at 37&#x000b0;C for 24 hours. The 
+antimicrobial activity was determined by measuring the zone of 
+inhibition. The efficiency of herbal extracts was also compared 
+with known antibiotics. The antibiotic susceptibility patterns 
+were carried out by disc diffusion method. The sensitivity 
+patterns of each antibiotic were confirmed by measuring the 
+zone of inhibition around the disc and compared with standard 
+antibiotic susceptibility chart.</p></sec></sec><sec id="s3"><title>Discussion:</title><p>The solution for MRSA associated outbreaks are critical 
+problem because the organism  recently emerged as VRSA. 
+Hence, the discovery of an alternative treatment has profound 
+scope and significance. Drug discovery process is time 
+consuming and multistep process which includes many 
+preclinical and clinical trials. One of the major reasons for drug 
+failures is the poor drug-likeness and pharmacokinetic 
+properties of lead compounds. Computer aided method is a 
+rapid and significant screening approach because it selects the 
+lead molecules with good pharmacological and druggish 
+properties. We have selected 74 active compounds from herbal 
+origin such as leaf extracts of <italic>Azadirachta indica</italic> (Neem), <italic>Psidium
+guajava</italic> (Guavas), <italic>Aloe vera, Ocimum tenuiflorum</italic> (Tulsi), <italic>Curcuma 
+longa</italic> (Turmeric),  <italic>Allium sativum</italic> (Garlic),  <italic>Punica granatum</italic> 
+(Pomegranate), <italic>Eucalyptus, Camellia sinensis</italic> (Tea) and the oil of 
+Syzygium aromaticum (Clove). The 3D structures of the ligands 
+were retrieved from drug databases and most of lead molecules 
+qualified the properties of drugs. However, few ligands were 
+found to be better as per Lipinski's rule of 5, CMC-like rule and 
+MDDR-like rule (<xref ref-type="supplementary-material" rid="SD1">Table 1</xref>, see supplementary material).</p><p>Another important concern in drug discovery is the 
+pharmacokinetics properties. The ADME profiles of selected 
+drug candidates are shown in  <xref ref-type="supplementary-material" rid="SD1">Table 2</xref> (see supplementary 
+material).  <italic>In silico</italic> toxicity prediction is the final step of 
+pharmacokinetic screening of lead molecules and 30% of drug 
+failures are due to toxicity issues. In this study, we have found 
+that the predicted toxicities of many herbal compounds were 
+suitable for further studies. Meliantriol from <italic>Azadirachta indica</italic>, 
+&#x003b2;-sitosterol from <italic>Alo vera</italic>, ursolic acid and lupeol from <italic>Ocimum 
+tenuiflorum</italic>, brevifolin  and  ellagic acid from  <italic>Punica granatum</italic>,
+corilagin from <italic>Camellia sinensis</italic>, and many more showed better 
+pharmacokinetic and drug-likeness properties (<xref ref-type="supplementary-material" rid="SD1">Table 3</xref>, see 
+supplementary material). Hence, these lead molecules were 
+identified as the best ligands for docking studies. All these 
+herbal extracts were reported to have high medicinal potential 
+against many pathogenic bacteria and we have tested efficiency 
+of the same against MRSA by computer aided approach and <italic>in 
+vitro</italic> studies. </p><p>The key proteins involved in MRSA infections are PBP2A and 
+PVL toxins. Hence, these proteins have been selected as 
+probable drug targets. The crystal structure of Penicillin 
+Binding Protein 2A (PDBID: 1VQQ) was retrieved from the 
+PDB. The protein consists of two chains and three penicillin 
+binding protein domains. Chain A is the key domain consists of 
+646 amino acids and constitutes 33% helices (31 helices; 214 
+residues) and 26% beta sheet (34 strands; 169 residues) which 
+are important for the functional activity. The crystal structure of 
+Panton-Valentine Leucocidin (PDBID: 1T5R) was also retrieved 
+from PDB and it has 8 chains. All chains have 284 amino acid 
+residues and constitute 3% helices (3 helices; 11 residues) and 
+59% beta sheet (22 strands; 168 residues). The interactions 
+between selected inhibitors and target proteins were studied by 
+docking simulations. Among antibiotics, Vancomycin, best 
+drug currently available against MRSA, showed the best 
+binding energy value of &#x000ad;8.91 kcal/mol. However, recent 
+reports indicate that the organism developed resistance against 
+Vancomycin and emerged as Vancomycin resistant 
+<italic>Staphlococcus areus</italic> (VRSA). The binding efficiencies of herbal
+active compounds also tested against the target proteins by 
+molecular docking. The docking scores and binding energies of 
+all selected ligands with both the targets were shown in 
+<xref ref-type="supplementary-material" rid="SD1">Table 4</xref> 
+(see supplementary material). As the best, Meliantriol, active 
+inhibitor present in Neem, showed binding energies of &#x000ad;6.02 
+kcal/mol with PBP2A and &#x000ad;8.94 kcal/mol with PVL toxin. 
+Similarly,  &#x003b2;-sitosterol, an antimicrobial agent present in 
+medicinal aloe, showed binding energies of &#x000ad;7.40 kcal/mol and 
+&#x000ad;6.34 kcal/mol for PBP2A and PVL toxin respectively 
+(<xref ref-type="fig" rid="F1">Figure 1</xref>).  
+The docking studies reveled that herbal compounds are 
+better inhibitors than chemical drugs; Meliantriol and similar 
+compounds are the potential lead molecules than Vancomycin. 
+As per computer aided studies plant derived inhibitors have 
+high therapeutic value and it should be evaluated through  <italic>in 
+vitro</italic> studies.</p><p>Thus, the study clearly indicates that herbal compounds have 
+good therapeutic value against MRSA than antibiotics.</p><p>Since the data generated by computer aided method has just a 
+hypothetical solution it should be tested <italic>in vitro</italic>  also. We have 
+studied and compared the efficiency of antibiotics and selected 
+herbal extracts (The active compounds of those extracts found 
+to be effective by docking studies) against pure culture of 
+MRSA. The method employed was disc diffusion and well 
+diffusion techniques. Our study revealed that the organism 
+resistant to wide range of antibiotics such as Moxifloxacin, 
+Cefatoxime, Rifampicin, Oxacillin, Co-Trimoxazole, 
+Chloramphenicol Ciprofloxacin, Ceftazidime, Nalidixic acid, 
+Tetracycline, Streptomycin,  Erythromycin, Ampicillin, 
+Norfloxacin and Methicillin. The organism is susceptible to only 
+few antibiotics, Vancomycin is the best one. Moreover, recent 
+studies on Vancomycin resistant  <italic>Staphylococcus areus</italic>  (VRSA) 
+indicated that antibiotic treatments are challenging and 
+pointing  out  &#x02018;the  end  of  antibiotic  era&#x02019;  is  very  near  in  future. 
+The susceptibility pattern of various antibiotics against MRSA is 
+shown in  <xref ref-type="supplementary-material" rid="SD1">Table 5</xref> (see supplementary material). Nonetheless, 
+interestingly, as confirmed by the computer aided approach, the 
+leaf extracts of Neem, Tea, Guava and Pomegranate showed 
+better antimicrobial properties at a concentration of 100 &#x000b5;l, 100 
+&#x000b5;l, 80 &#x000b5;l and 200 &#x000b5;l respectively, which implies the potential of 
+herbal extract against MRSA  (<xref ref-type="fig" rid="F2">Figure 2</xref>). The computer aided 
+method is useful to screen best ligands from wide range of 
+compounds which will reduce the complexities of drug 
+discovery process. Subsequently, the study needs more clinical 
+testing using laboratory animals and further  <italic>in vivo</italic> studies 
+should be conducted. The study would provide all initial inputs 
+to design novel therapeutics against MRSA.</p></sec><sec id="s4"><title>Conclusion:</title><p>Present studies revealed that the mortality rate of MRSA 
+infection is very high and the organism is resistant to 
+Vancomycin (VRSA), the best chemotherapeutic agent available 
+against MRSA. This study concluded that computer aided 
+screening is an effective alternative for identification of novel 
+remedies when all antibiotics seems to have failed. Several 
+natural herbal compounds are screened and their effectiveness 
+against MRSA is compared with known antibiotics. Computer 
+aided ADME and toxicity prediction favored to screen best 
+ligands with good pharmacological activities. It was found that 
+herbal compounds such as Melantriol, &#x003b2;- Sitosterol and similar 
+compounds have good inhibitory activity against Penicillin 
+Binding Protein 2A and Panton-Valentine Leukocidin toxin of 
+MRSA, key virulent factors of MRSA infections. The  <italic>in silico</italic>
+data have been tested  <italic>in vitro</italic> also, as suggested by computer 
+aided method, herbal extracts of neem, medicinal aloe, tea, 
+pomegranate and guava were identified as potential 
+therapeutics against MRSA. The study concluded that, though 
+the organism emerged as a multidrug resistant &#x0201c;superbug&#x0201d; 
+there is high scope and application of herbal remedies towards 
+MRSA infections.</p></sec><sec sec-type="supplementary-material"><title>Supplementary material</title><supplementary-material content-type="local-data" id="SD1"><caption><title>Data 1</title></caption><media xlink:href="97320630007222S1.pdf" xlink:type="simple" id="d32e418" position="anchor" mimetype="application" mime-subtype="pdf"/></supplementary-material></sec></body><back><ack><p>The authors thankfully acknowledge the R &#x00026; D Centre of Life 
+Sciences and Engineering, Dayananda Sagar Institutions for 
+providing all necessary facilities and also grateful to Dr. P.S 
+Rao, Vice President (R &#x00026; D), Life Sciences and Engineering and 
+Dr. G S Jagannatha Rao, Senior Professor and Head, 
+Department of Biotechnology, Dayananda Sagar College of 
+Engineering for their constant support and encouragement 
+throughout the study.</p></ack><fn-group><fn id="FN1" fn-type="other"><p><bold>Citation:</bold>Skariyachan <italic>et al</italic>, Bioinformation 7(5): 222-233 (2011)</p></fn></fn-group><ref-list><title>References</title><ref id="R01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>MJ</surname><given-names>Kuehnert</given-names></name><etal/></person-group><source>Emerg Infect Dis</source><year>2005</year><volume>11</volume><fpage>868</fpage><pub-id pub-id-type="pmid">15963281</pub-id></element-citation></ref><ref id="R02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>MZ</surname><given-names>David</given-names></name><etal/></person-group><source>PLoS One</source><year>2011</year><volume>6</volume><fpage>e18217</fpage><pub-id pub-id-type="pmid">21533238</pub-id></element-citation></ref><ref id="R03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>S</surname><given-names>Monecke</given-names></name><etal/></person-group><source>PLoS One</source><year>2011</year><volume>6</volume><fpage>e17936</fpage><pub-id pub-id-type="pmid">21494333</pub-id></element-citation></ref><ref id="R04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>LI</surname><given-names>Llarrull </given-names></name><etal/></person-group><source>Antimicrob Agents Chemother</source><year>2009</year><volume>53</volume><fpage>4051</fpage><pub-id pub-id-type="pmid">19470504</pub-id></element-citation></ref><ref id="R05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>K</surname><given-names>Ouhara</given-names></name><etal/></person-group><source>J Antimicrob Chemother</source><year>2008</year><volume>61</volume><fpage>1266</fpage><pub-id pub-id-type="pmid">18367458</pub-id></element-citation></ref><ref id="R06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>BA</surname><given-names>Diep</given-names></name><name><surname>M</surname><given-names>Otto</given-names></name></person-group><source>Trends Microbiol</source><year>2008</year><volume>16</volume><fpage>361</fpage><pub-id pub-id-type="pmid">18585915</pub-id></element-citation></ref><ref id="R07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>MT</surname><given-names>Chomnawang</given-names></name><etal/></person-group><source>Fitoterapia</source><year>2009</year><volume>80</volume><fpage>102</fpage><pub-id pub-id-type="pmid">19022354</pub-id></element-citation></ref><ref id="R08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>V</surname><given-names>Khanna</given-names></name><name><surname>S</surname><given-names>Ranganathan</given-names></name></person-group><source>BMC Bioinformatics</source><year>2009</year><volume>10</volume><fpage>S10</fpage><pub-id pub-id-type="pmid">19958509</pub-id></element-citation></ref><ref id="R09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>S</surname><given-names>Lyskov</given-names></name><name><surname>JJ</surname><given-names>Gray</given-names></name></person-group><source>Nucleic Acids Res</source><year>2008</year><volume>36</volume><fpage>W233</fpage><pub-id pub-id-type="pmid">18442991</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Y</surname><given-names>Wang</given-names></name><etal/></person-group><source>Nucleic Acids Res</source><year>2010</year><volume>38</volume><fpage>D255</fpage><pub-id pub-id-type="pmid">19933261</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>M</surname><given-names>Kanehisa</given-names></name><etal/></person-group><source>Nucleic Acids Res</source><year>2010</year><volume>38</volume><fpage>D355</fpage><pub-id pub-id-type="pmid">19880382</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>J</surname><given-names>Anthony</given-names></name><etal/></person-group><source>J Cheminform</source><year>2010</year><volume>2</volume><fpage>O16</fpage><pub-id pub-id-type="pmid">2867124</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>A</surname><given-names>Seal </given-names></name><etal/></person-group><source>Bioinformation</source><year>2011</year><volume>5</volume><fpage>430</fpage><pub-id pub-id-type="pmid">21423889</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D</surname><given-names>Lim</given-names></name><name><surname>NC</surname><given-names>Strynadka</given-names></name></person-group><source>Nat Struct Biol</source><year>2002</year><volume>9</volume><fpage>870</fpage><pub-id pub-id-type="pmid">12389036</pub-id></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>V</surname><given-names>Guillet</given-names></name><etal/></person-group><source>J Biol Chem</source><year>2004</year><volume>279</volume><fpage>41028</fpage><pub-id pub-id-type="pmid">15262988</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>GM</surname><given-names>Morris </given-names></name><etal/></person-group><source>J Comput Aided Mol Des</source><year>1996</year><volume>10</volume><fpage>293</fpage><pub-id pub-id-type="pmid">8877701</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>PG</surname><given-names>Kareru</given-names></name><etal/></person-group><source>Afr J Tradit Complement Altern Med</source><year>2010</year><volume>7</volume><fpage>214</fpage><pub-id pub-id-type="pmid">3025622</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>F</surname><given-names>Habeeb</given-names></name><etal/></person-group><source>Methods</source><year>2007</year><volume>42</volume><fpage>315</fpage><pub-id pub-id-type="pmid">17560318</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>YS</surname><given-names>Cho</given-names></name><etal/></person-group><source>Curr Microbiol</source><year>2008</year><volume>57</volume><fpage>542</fpage><pub-id pub-id-type="pmid">18781360</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>F</surname><given-names>Aqil</given-names></name><etal/></person-group><source>J Basic Microbiol</source><year>2005</year><volume>45</volume><fpage>106</fpage><pub-id pub-id-type="pmid">15812867</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>AM</surname><given-names>Metwally</given-names></name><etal/></person-group><source>Pharmacogn Mag</source><year>2010</year><volume>6</volume><fpage>212</fpage><pub-id pub-id-type="pmid">20931082</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="F1" position="float"><label>Figure 1</label><caption><p>The interaction of Meliantriol and  &#x003b2;-Sitosterol against MRSA drug targets- Penicillin Binding Protein 2A (PBP2A) and 
+Panton-Valentine Leukocidin (PVL) generated by computer aided docking. Neem active compound Melantriol interacts with PVL 
+toxin by four hydrogen bonds (represented as green coloured sticks) and the interacting residues are LYS218 of chain A, THR 84, 
+ASN 85 and ASN 86 of chain E. The lengths of the hydrogen bonds are 2.1 &#x0212b;, 1.86 &#x0212b;, 1.8 &#x0212b; and 1.87 &#x0212b; respectively  (<xref ref-type="fig" rid="F1">Figure A</xref>). 
+Melantriol interacted with PBP2A by ASP 624 of Chain A and the length of the bond formed was 2.21 &#x0212b;  (<xref ref-type="fig" rid="F1">Figure B</xref>). The ligand 
+effectively binds with both PBP2A and PVL toxin with minimum binding energies of -6.02 kcal/mol and &#x000ad;8.94 kcal/mol 
+respectively. <xref ref-type="fig" rid="F1">Figure C and D</xref> showed the inhibitory activity of <italic>Aloe vera</italic> active compound &#x003b2;-sitosterol against both the targets. The 
+ligand interacted to PBP2A by LYS273 (Chain A) with hydrogen bond of length 2.05 &#x0212b; (<xref ref-type="fig" rid="F1">Figure C</xref>). Similarly, &#x003b2;-sitosterol interacted 
+with  PVL  toxin  by  ASN  85  of  Chain  A  with  one  hydrogen  bond  of  2.4  &#x0212b;  (<xref ref-type="fig" rid="F1">Figure D</xref>).  &#x003b2;-sitosterol is also identified as best lead 
+molecule against MRSA targets with minimum binding energy of &#x000ad;7.40 kcal/mol for PBP2A and &#x000ad;6.34 kcal/mol for PVL toxin. The 
+docking studies revealed that herbal compounds have good pharmacological activities against MRSA targets.</p></caption><graphic xlink:href="97320630007222F1"/></fig><fig id="F2" position="float"><label>Figure 2</label><caption><p>The therapeutic potential of selected herbal based 
+compounds against MRSA confirmed by  <italic>in vitro</italic>  studies. The 
+antibiotic susceptibility pattern was identified by Kirby-Bauer 
+disc diffusion method. The resistance pattern of  <italic>Staphylococcus 
+areus</italic> against Methicillin is encircled and which was 
+characterized  by  lack  of  zone  of  inhibition  implies  resistance. 
+Similarly the organism shows resistance against Cefatoxime (30 
+mcg/disc), Norflaxacin (10 mcg/disc) and other antibiotics 
+(<xref ref-type="supplementary-material" rid="SD1">Table 5</xref>, 
+see supplementary material). Hence, the treatment 
+with antibiotics are challenging in future. Figure B to F indicate 
+the efficiency of herbal compounds against MRSA. As 
+confirmed by computer aided screening neem active compound 
+melantriol has significant antimicrobial activity against MRSA, 
+represented by the zone of inhibition (C) around the well (well 
+diffusion method). Figure B shows that the inhibitory activity of 
+&#x003b2;-sitosterol (<italic>Aloe vera</italic> active compound) characterized by zone 
+of clearance around the well, which was selected from docking 
+studies. As screened by the computer aided approach, the 
+active compound present in tea leaf (D), pomogranate (E), and 
+guava (F) showed good inhibitory properties against MRSA.</p></caption><graphic xlink:href="97320630007222F2"/></fig></floats-group></article>

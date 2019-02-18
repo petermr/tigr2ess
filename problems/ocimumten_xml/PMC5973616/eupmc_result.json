@@ -1,0 +1,455 @@
+{
+  "id": [
+    "29813110"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29813110"
+  ],
+  "pmcid": [
+    "PMC5973616"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0198030"
+  ],
+  "title": [
+    "Data-driven analysis of biomedical literature suggests broad-spectrum benefits of culinary herbs and spices."
+  ],
+  "authorString": [
+    "Rakhi NK, Tuwani R, Mukherjee J, Bagler G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rakhi NK"
+          ],
+          "firstName": [
+            "N K"
+          ],
+          "lastName": [
+            "Rakhi"
+          ],
+          "initials": [
+            "NK"
+          ],
+          "affiliation": [
+            "Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT-Delhi), New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuwani R"
+          ],
+          "firstName": [
+            "Rudraksh"
+          ],
+          "lastName": [
+            "Tuwani"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT-Delhi), New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mukherjee J"
+          ],
+          "firstName": [
+            "Jagriti"
+          ],
+          "lastName": [
+            "Mukherjee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT-Delhi), New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bagler G"
+          ],
+          "firstName": [
+            "Ganesh"
+          ],
+          "lastName": [
+            "Bagler"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1924-6070",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT-Delhi), New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1924-6070",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2678126"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0198030"
+  ],
+  "abstractText": [
+    "Spices and herbs are key dietary ingredients used across cultures worldwide. Beyond their use as flavoring and coloring agents, the popularity of these aromatic plant products in culinary preparations has been attributed to their antimicrobial properties. Last few decades have witnessed an exponential growth of biomedical literature investigating the impact of spices and herbs on health, presenting an opportunity to mine for patterns from empirical evidence. Systematic investigation of empirical evidence to enumerate the health consequences of culinary herbs and spices can provide valuable insights into their therapeutic utility. We implemented a text mining protocol to assess the health impact of spices by assimilating, both, their positive and negative effects. We conclude that spices show broad-spectrum benevolence across a range of disease categories in contrast to negative effects that are comparatively narrow-spectrum. We also implement a strategy for disease-specific culinary recommendations of spices based on their therapeutic tradeoff against adverse effects. Further by integrating spice-phytochemical-disease associations, we identify bioactive spice phytochemicals potentially involved in their therapeutic effects. Our study provides a systems perspective on health effects of culinary spices and herbs with applications for dietary recommendations as well as identification of phytochemicals potentially involved in underlying molecular mechanisms."
+  ],
+  "affiliation": [
+    "Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT-Delhi), New Delhi, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Infective Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Diet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evidence-Based Medicine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biomedical Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spices"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Infective Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5973616?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5973616"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0198030"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-26"
+  ],
+  "dateOfCreation": [
+    "2018-05-30"
+  ],
+  "dateOfRevision": [
+    "2018-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-29"
+  ],
+  "firstPublicationDate": [
+    "2018-05-29"
+  ]
+}

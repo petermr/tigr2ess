@@ -1,0 +1,1500 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Phytochem Anal</journal-id><journal-id journal-id-type="iso-abbrev">Phytochem Anal</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1099-1565</journal-id><journal-id journal-id-type="publisher-id">PCA</journal-id><journal-title-group><journal-title>Phytochemical Analysis</journal-title></journal-title-group><issn pub-type="ppub">0958-0344</issn><issn pub-type="epub">1099-1565</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5836936</article-id><article-id pub-id-type="doi">10.1002/pca.2732</article-id><article-id pub-id-type="publisher-id">PCA2732</article-id><article-id pub-id-type="other">PCA-17-0313.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Benefits and Limitations of DNA Barcoding and Metabarcoding in Herbal Product Authentication</article-title><alt-title alt-title-type="right-running-head">DNA barcoding and metabarcoding in herbal product authentication</alt-title><alt-title alt-title-type="left-running-head">Raclariu A. C. <italic>et al</italic>.</alt-title></title-group><contrib-group><contrib id="pca2732-cr-0001" contrib-type="author"><name><surname>Raclariu</surname><given-names>Ancuta Cristina</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1860-9984</contrib-id><xref ref-type="aff" rid="pca2732-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pca2732-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pca2732-cr-0002" contrib-type="author"><name><surname>Heinrich</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="pca2732-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pca2732-cr-0003" contrib-type="author"><name><surname>Ichim</surname><given-names>Mihael Cristin</given-names></name><xref ref-type="aff" rid="pca2732-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pca2732-cr-0004" contrib-type="author" corresp="yes"><name><surname>de Boer</surname><given-names>Hugo</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1985-7859</contrib-id><address><email>hugo.deboer@nhm.uio.no</email></address><xref ref-type="aff" rid="pca2732-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pca2732-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Natural History Museum</named-content>
+<institution>University of Oslo</institution>
+<named-content content-type="street">P.O. Box 1172, Blindern</named-content>
+<named-content content-type="post-code">0318</named-content>
+<named-content content-type="city">Oslo</named-content>
+<country country="NO">Norway</country>
+</aff><aff id="pca2732-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Stejarul Research Centre for Biological Sciences</named-content>
+<institution>National Institute of Research and Development for Biological Sciences</institution>
+<named-content content-type="street">Alexandru cel Bun Street, 6</named-content>
+<named-content content-type="post-code">610004</named-content>
+<named-content content-type="city">Piatra Neamt</named-content>
+<country country="RO">Romania</country>
+</aff><aff id="pca2732-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Research Group of Pharmacognosy and Phytotherapy, Research Cluster &#x02018;Biodiversity and Medicines&#x02019;, UCL School of Pharmacy</named-content>
+<institution>University of London</institution>
+<named-content content-type="street">29&#x02013;39 Brunswick Sq</named-content>
+<named-content content-type="city">London</named-content>
+<named-content content-type="post-code">WC1N 1AX</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence to: Hugo de Boer, Natural History Museum, University of Oslo, P.O. Box 1172, Blindern, 0318 Oslo, Norway.<break/>
+Email: <email>hugo.deboer@nhm.uio.no</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>9</month><year>2017</year></pub-date><pub-date pub-type="ppub"><season>Mar-Apr</season><year>2018</year></pub-date><volume>29</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/pca.v29.2</issue-id><fpage>123</fpage><lpage>128</lpage><history><date date-type="received"><day>07</day><month>8</month><year>2017</year></date><date date-type="rev-recd"><day>23</day><month>8</month><year>2017</year></date><date date-type="accepted"><day>26</day><month>8</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 John Wiley & Sons, Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Phytochemical Analysis Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PCA-29-123.pdf"/><abstract><title>Abstract</title><sec id="pca2732-sec-0001"><title>Introduction</title><p>Herbal medicines play an important role globally in the health care sector and in industrialised countries they are often considered as an alternative to mono&#x02010;substance medicines. Current quality and authentication assessment methods rely mainly on morphology and analytical phytochemistry&#x02010;based methods detailed in pharmacopoeias. Herbal products however are often highly processed with numerous ingredients, and even if these analytical methods are accurate for quality control of specific lead or marker compounds, they are of limited suitability for the authentication of biological ingredients.</p></sec><sec id="pca2732-sec-0002"><title>Objective</title><p>To review the benefits and limitations of DNA barcoding and metabarcoding in complementing current herbal product authentication.</p></sec><sec id="pca2732-sec-0003"><title>Method</title><p>Recent literature relating to DNA based authentication of medicinal plants, herbal medicines and products are summarised to provide a basic understanding of how DNA barcoding and metabarcoding can be applied to this field.</p></sec><sec id="pca2732-sec-0004"><title>Results</title><p>Different methods of quality control and authentication have varying resolution and usefulness along the value chain of these products. DNA barcoding can be used for authenticating products based on single herbal ingredients and DNA metabarcoding for assessment of species diversity in processed products, and both methods should be used in combination with appropriate hyphenated chemical methods for quality control.</p></sec><sec id="pca2732-sec-0005"><title>Conclusions</title><p>DNA barcoding and metabarcoding have potential in the context of quality control of both well and poorly regulated supply systems. Standardisation of protocols for DNA barcoding and DNA sequence&#x02010;based identification are necessary before DNA&#x02010;based biological methods can be implemented as routine analytical approaches and approved by the competent authorities for use in regulated procedures. &#x000a9; 2017 The Authors. Phytochemical Analysis Published by John Wiley &#x00026; Sons Ltd.</p></sec></abstract><abstract abstract-type="short"><p>Herbal medicines play an important role globally in the health care sector and in industrialised countries they are often considered as an alternative to mono&#x02010;substance medicines. Different methods have varying resolution and usefulness along the value chain of these products. DNA barcoding can be used for authenticating products based on single herbal ingredients and DNA metabarcoding for assessment of species diversity in processed products, and both methods should be used in combination with appropriate hyphenated chemical methods for quality control.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pca2732-kwd-0001">authentication</kwd><kwd id="pca2732-kwd-0002">DNA barcoding</kwd><kwd id="pca2732-kwd-0003">DNA metabarcoding</kwd><kwd id="pca2732-kwd-0004">herbal pharmacovigilance</kwd><kwd id="pca2732-kwd-0005">herbal products</kwd><kwd id="pca2732-kwd-0006">NMR metabolomics</kwd><kwd id="pca2732-kwd-0007">quality</kwd><kwd id="pca2732-kwd-0008">safety</kwd></kwd-group><funding-group><award-group><funding-source>Romanian &#x02010; EEA Research Programme</funding-source><award-id>2SEE/2014</award-id></award-group><award-group><funding-source>EEA Financial Mechanism</funding-source><award-id>2SEE/2014</award-id></award-group><award-group><funding-source>Romanian &#x02013; EEA Research Programme</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="6"/><word-count count="3227"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pca2732</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March/April 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:05.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="pca2732-cit-0000">
+<string-name>
+<surname>Raclariu</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ichim</surname>, <given-names>M. C.</given-names>
+</string-name>, and <string-name>
+<surname>de Boer</surname>, <given-names>H.</given-names>
+</string-name> (<year>2018</year>) <article-title>Benefits and Limitations of DNA Barcoding and Metabarcoding in Herbal Product Authentication</article-title>. <source>Phytochem. Anal.</source>, <volume>29</volume>: <fpage>123</fpage>&#x02013;<lpage>128</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1002/pca.2732">10.1002/pca.2732</ext-link>.<pub-id pub-id-type="pmid">28906059</pub-id></mixed-citation>
+</p></notes></front><body><sec id="pca2732-sec-0006"><title>Introduction</title><p>Herbal medicines play an important role in many industrialised countries as a complement and alternative to synthetic pharmaceuticals. The global market for herbal products is projected to reach US$115 billion by 2020, with Europe leading the market (Global Industry Analyst, Inc., <xref rid="pca2732-bib-0035" ref-type="ref">2015</xref>). Their popularity is determined by consumers' health concerns, cultural factors, and the belief that these are natural and thus safe (Lynch and Berry, <xref rid="pca2732-bib-0054" ref-type="ref">2007</xref>; Ipsos MORI, <xref rid="pca2732-bib-0045" ref-type="ref">2008</xref>). Medicinal plants are sources of molecules with tremendous therapeutic potential and remarkable pools for novel drugs leads, but evaluating their safety, pharmacological effects and efficacy requires a thorough multidisciplinary scientific approach (Atanasov <italic>et al</italic>., <xref rid="pca2732-bib-0002" ref-type="ref">2015</xref>). An increasing awareness of quality irregularities is calling attention to the quality of traded mass&#x02010;produced herbal products with direct impact on their efficacy and safety (Heinrich, <xref rid="pca2732-bib-0040" ref-type="ref">2010</xref>; Leonti and Casu, <xref rid="pca2732-bib-0051" ref-type="ref">2013</xref>). Herbal product quality regulations vary between countries and together with a lack of standardised analytical methods (Locatelli <italic>et al</italic>., <xref rid="pca2732-bib-0055" ref-type="ref">2014</xref>; Locatelli and Celia, <xref rid="pca2732-bib-0056" ref-type="ref">2017</xref>; Melucci <italic>et al</italic>., <xref rid="pca2732-bib-0057" ref-type="ref">2017</xref>), complex processes for authentication and quality monitoring along their value chains are needed (Bent, <xref rid="pca2732-bib-0006" ref-type="ref">2008</xref>; Gertsch, <xref rid="pca2732-bib-0031" ref-type="ref">2009</xref>; Heinrich, <xref rid="pca2732-bib-0041" ref-type="ref">2015</xref>; Booker <italic>et al</italic>., <xref rid="pca2732-bib-0012" ref-type="ref">2015</xref>). Furthermore, a challenge in herbal pharmacovigilance is the development of novel approaches to monitor the safety of commercialised products (Barnes, <xref rid="pca2732-bib-0004" ref-type="ref">2003</xref>; de Boer <italic>et al</italic>., <xref rid="pca2732-bib-0020" ref-type="ref">2015</xref>). In this review we discuss the benefits and limitations of the biological identification and authentication methods, DNA barcoding and DNA metabarcoding, and show their potential in improving the quality control procedures of drug substances and resulting herbal products. The production chains of regulated or unregulated herbal medicinal products result in different requirements at the various production stages. Consequently, different analytical (chemical and biological) methods will have different roles in quality control and authentication (Figure&#x000a0;<xref rid="pca2732-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pca2732-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The different stages in the production of regulated or unregulated herbal medicinal products and the role of different analytical (chemical and biological) methods. *Methods used in quality control are also commonly used for authentication. [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-1" xlink:href="PCA-29-123-g001"/></fig></sec><sec id="pca2732-sec-0007"><title>Regulatory status of herbal products</title><p>Herbal product regulation varies between countries. In the European Union/European Economic Area (EU/EEA), herbal products fall into two main categories, herbal medicines and herbal food supplements (botanicals), depending on their primary intended use. The EU directive 2004/24/EC, commonly referred to as the Traditional Herbal Medicinal Products Directive (THMPD) establishes a simplified procedure allowing the registration of herbal medicines as medicinal products (European Commission, <xref rid="pca2732-bib-0028" ref-type="ref">2004</xref>). The regulation applies to herbal products with a longstanding tradition of use, that have been on the market for at least 30&#x000a0;years, including 15&#x000a0;years in an EU member state. No special assays or trials are required to prove the safety of herbal medicines, but proof that the product is not harmful is compulsory (European Commission, <xref rid="pca2732-bib-0028" ref-type="ref">2004</xref>; J&#x000fc;tte <italic>et al</italic>., <xref rid="pca2732-bib-0048" ref-type="ref">2017</xref>). Since 2004, the EU Directive 2004/24/EC has been incorporated into national legal systems to increase the safety of traditional herbal medicines and to facilitate their free movement by harmonising previous national regulatory frameworks (Vlietinck <italic>et al</italic>., <xref rid="pca2732-bib-0079" ref-type="ref">2009</xref>; J&#x000fc;tte <italic>et al</italic>., <xref rid="pca2732-bib-0048" ref-type="ref">2017</xref>). The Herbal Medicinal Products Committee (HMPC) is the European Medicines Agency's (EMA's) committee responsible for establishing monographs on the therapeutic uses and the safety of medicinal products, with the pharmacovigilance of the marketed herbal medicines being a regulatory requirement falling under the full responsibility of manufacturers and suppliers.</p><p>The EU directive 2002/46/EC defines food supplements as concentrated sources of nutrients or other substances with nutritional or physiological effects, whose purpose is to supplement the normal diet (European Commission, <xref rid="pca2732-bib-0027" ref-type="ref">2002</xref>). Herbal food supplements are governed by the legislation of each EU's member state, and their quality and safety need to fulfill the requirements of food legislation, which are considerably less stringent than those for medicines. The safety and conformity with the food law requirements is under the full responsibility of manufactures and suppliers.</p><p>As a result of these distinct legislative frameworks, the same herbal product may coexist under different categories. For instance, <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Ginkgo biloba</styled-content></styled-content> L. is regulated as a medical product in Germany, as a traditional herbal medical product or a food supplement in the UK, and in other European countries, Russia and the United States as a food supplement (Heinrich, <xref rid="pca2732-bib-0041" ref-type="ref">2015</xref>). Similar regulatory differences apply also to <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Hypericum perforatum</styled-content></styled-content>, for example, L. (St John's wort), <italic>Echinacea</italic> sp. (coneflowers), <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Actaea racemosa</styled-content></styled-content> L. (black cohosh), <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Eleutherococcus senticosus</styled-content></styled-content> (Rupr. &#x00026; Maxim.) Maxim. (Siberian ginseng).</p></sec><sec id="pca2732-sec-0008"><title>Quality issues and analytical challenges</title><p>One of the core interests of modern pharmacognosy refers to the identification and authentication of drug substances and to the quality of the resulting herbal medicines (Heinrich <italic>et al</italic>., <xref rid="pca2732-bib-0042" ref-type="ref">2017</xref>). However, the complex natural formulations, as well as the lack of standardised operating procedures and analytical methods, complicate the quality control of the herbal products. The identification and authentication of raw plant material and final herbal products relies on sensory and phytochemical screening techniques to detect species&#x02010;specific characters and compounds respectively (EMA, <xref rid="pca2732-bib-0029" ref-type="ref">2006</xref>; World Health Organisation (WHO), <xref rid="pca2732-bib-0084" ref-type="ref">2011</xref>; EDQM, <xref rid="pca2732-bib-0022" ref-type="ref">2014</xref>). The European Pharmacopoeia (Ph. Eur.) is the cornerstone of the quality control of raw materials and herbal products, that determines analytical procedures to be applied for qualitative and quantitative assays (EDQM, <xref rid="pca2732-bib-0022" ref-type="ref">2014</xref>; Agapouda <italic>et al</italic>., <xref rid="pca2732-bib-0001" ref-type="ref">2017</xref>). Ph. Eur. contains monographs with recommendations of analytical procedures for more than 200 primary materials (botanical drugs) and in some cases the resulting extracts (EDQM, <xref rid="pca2732-bib-0022" ref-type="ref">2014</xref>). However, herbal products are usually complex matrices and formulations, resulting from manifold processing steps, that pose unique challenges to the identification and authentication of raw material using organoleptic, morphological or microscopic features and standard chemical analytical assessments to determine species&#x02010;specific target compounds (Khan and Smillie, <xref rid="pca2732-bib-0049" ref-type="ref">2012</xref>). The various factors that may influence the quality of the raw material and resulting herbal products need to be carefully taken into consideration when determining the analytical method of choice for the authentication and quality control. Factors, as for instance the secondary metabolites in plants, are prone to variability under natural conditions from factors including age, seasonality, latitude, altitude, soil conditions, and herbivory, with direct influence on the concentration of the lead or marker compounds measured in different batches of raw plant material. This complex production and processing will consequently be reflected in the quality of the final herbal product (Zhang <italic>et al</italic>., <xref rid="pca2732-bib-0089" ref-type="ref">2012</xref>). Also, the more complex herbal products contain numerous ingredients, often extracted and processed differently, thus hampering an accurate authentication and quality control (Zhang <italic>et al</italic>., <xref rid="pca2732-bib-0089" ref-type="ref">2012</xref>; Bilia, <xref rid="pca2732-bib-0008" ref-type="ref">2014</xref>). Difficulties in the quality assurance processes arise also from some Pharmacopoeias around the world allow more than one plant species as a source for a botanical drug, or often assign similar functions in treating certain diseases. For instance, 140 out of 551 botanical drugs included in the 2015 edition of the Chinese Pharmacopoeia have multiple sources (Zhao <italic>et al</italic>., <xref rid="pca2732-bib-0090" ref-type="ref">2006</xref>; Wenzig and Bauer, <xref rid="pca2732-bib-0082" ref-type="ref">2009</xref>). Safety issues in the herbal products industry arise from the deliberate use of adulterants and admixture with undeclared fillers, in order to reach a certain chemical level or expected effect (Ko, <xref rid="pca2732-bib-0050" ref-type="ref">1998</xref>; Song <italic>et al</italic>., <xref rid="pca2732-bib-0073" ref-type="ref">2000</xref>; Ernst, <xref rid="pca2732-bib-0024" ref-type="ref">2002</xref>; Yee <italic>et al</italic>., <xref rid="pca2732-bib-0087" ref-type="ref">2005</xref>; Esters <italic>et al</italic>., <xref rid="pca2732-bib-0025" ref-type="ref">2006</xref>; Miller and Stripp, <xref rid="pca2732-bib-0058" ref-type="ref">2007</xref>; Wenzig and Bauer, <xref rid="pca2732-bib-0082" ref-type="ref">2009</xref>; Shewiyo <italic>et al</italic>., <xref rid="pca2732-bib-0071" ref-type="ref">2012</xref>). Most likely, the fraudulent use of fillers and plant materials of inferior quality is driven by the increasing level of consumption of herbal products which exceed the supply capacity for some plant species. Accidental substitutions leading to an improper utilisation of a botanical drug also often occur in the herbal products industry. For instance, plant identification relying on morphological characters of the plant species, or on standard analytical instrumental methods, may lead to misidentification in case of phenotypic plasticity or morphologically cryptic taxa, which often occur in some plant groups (Bickford <italic>et al</italic>., <xref rid="pca2732-bib-0007" ref-type="ref">2007</xref>). Similarly, challenges are posed by inconsistencies among vernacular names, pharmaceutical names, scientific synonyms or incorrect use of scientific generic names of the raw material (Wu <italic>et al</italic>., <xref rid="pca2732-bib-0085" ref-type="ref">2007</xref>; Ouarghidi <italic>et al</italic>., <xref rid="pca2732-bib-0061" ref-type="ref">2012</xref>; Walker and Applequist, <xref rid="pca2732-bib-0080" ref-type="ref">2012</xref>; Bennett and Balick, <xref rid="pca2732-bib-0005" ref-type="ref">2014</xref>; Saslis&#x02010;Lagoudakis <italic>et al</italic>., <xref rid="pca2732-bib-0067" ref-type="ref">2015</xref>; de Boer <italic>et al</italic>., <xref rid="pca2732-bib-0020" ref-type="ref">2015</xref>). The risks from unreported ingredients used in the herbal products may range from simple misleading labelling to potentially serious adverse drug reactions (Ernst, <xref rid="pca2732-bib-0023" ref-type="ref">1998</xref>; Heubl, <xref rid="pca2732-bib-0043" ref-type="ref">2010</xref>; Gilbert, <xref rid="pca2732-bib-0034" ref-type="ref">2011</xref>) or poisoning due to toxic contaminants (Chan, <xref rid="pca2732-bib-0014" ref-type="ref">2003</xref>). In summary, along their entire value chain, from cultivation or harvesting of the medicinal plants to the final marketed herbal product, a plethora of factors may directly influence the quality (Zhang <italic>et al</italic>., <xref rid="pca2732-bib-0089" ref-type="ref">2012</xref>).</p></sec><sec id="pca2732-sec-0009"><title>Developments in analytical methods</title><p>Despite major advances in the development of new analytical approaches, there is still a significant gap in quality control strategies that are applied to herbal products. For industrial analysis, emphasis has been placed on using single quick and thus cost&#x02010;effective techniques (i.e. TLC, HPTLC or HPLC) for primary qualitative analysis, or alternatively using hyphenated methods (i.e. HPLC&#x02010;UV, HPLC&#x02010;DAD, HPLC&#x02010;MS, GC&#x02010;MC, or LC&#x02010;NMR) to enable also the quantification of the lead or marker compounds (Patel <italic>et al</italic>., <xref rid="pca2732-bib-0063" ref-type="ref">2010</xref>; Zhang <italic>et al</italic>., <xref rid="pca2732-bib-0088" ref-type="ref">2017</xref>). Combining phytochemical and metabolomics approaches has been suggested for quality control and authentication in herbal value chains, especially of starting materials (Booker <italic>et al</italic>., <xref rid="pca2732-bib-0011" ref-type="ref">2012</xref>, <xref rid="pca2732-bib-0009" ref-type="ref">2014</xref>, <xref rid="pca2732-bib-0010" ref-type="ref">2016a</xref>, <xref rid="pca2732-bib-0013" ref-type="ref">2016b</xref>). Developments in DNA sequencing have spurred the fields of DNA barcoding and DNA metabarcoding, two approaches of increasing relevance for authentication of herbal ingredients and products (de Boer <italic>et al</italic>., <xref rid="pca2732-bib-0020" ref-type="ref">2015</xref>; Ichim <italic>et al</italic>., <xref rid="pca2732-bib-0044" ref-type="ref">2016</xref>; Raclariu <italic>et al</italic>., <xref rid="pca2732-bib-0065" ref-type="ref">2017a</xref>, <xref rid="pca2732-bib-0066" ref-type="ref">2017b</xref>).</p></sec><sec id="pca2732-sec-0010"><title>DNA barcoding and metabarcoding</title><p>The use of DNA barcoding enables species&#x02010;level identifications using short standard DNA regions, known as DNA barcodes (Hebert <italic>et al</italic>., <xref rid="pca2732-bib-0038" ref-type="ref">2003</xref>). DNA barcoding is widely applied by the scientific community and industry for molecular identification to solve a broad range of questions in taxonomy, molecular phylogenetics, population genetics, and biogeography (Hebert and Gregory, <xref rid="pca2732-bib-0039" ref-type="ref">2005</xref>; Hajibabaei <italic>et al</italic>., <xref rid="pca2732-bib-0036" ref-type="ref">2007</xref>; Valentini <italic>et al</italic>., <xref rid="pca2732-bib-0078" ref-type="ref">2009</xref>), as well as in trade control to prevent illegal wildlife collection and trade of flora and fauna (Chen <italic>et al</italic>., <xref rid="pca2732-bib-0015" ref-type="ref">2008</xref>; Eurlings <italic>et al</italic>., <xref rid="pca2732-bib-0026" ref-type="ref">2013</xref>; Gathier <italic>et al</italic>., <xref rid="pca2732-bib-0030" ref-type="ref">2013</xref>; Ghorbani <italic>et al</italic>., <xref rid="pca2732-bib-0032" ref-type="ref">2015</xref>; Janjua <italic>et al</italic>., <xref rid="pca2732-bib-0047" ref-type="ref">2016</xref>) and food product authenticity monitoring (Wong and Hanner, <xref rid="pca2732-bib-0083" ref-type="ref">2008</xref>; Yancy <italic>et al</italic>., <xref rid="pca2732-bib-0086" ref-type="ref">2008</xref>; Hanner <italic>et al</italic>., <xref rid="pca2732-bib-0037" ref-type="ref">2011</xref>; Cline, <xref rid="pca2732-bib-0017" ref-type="ref">2012</xref>; Di Pinto <italic>et al</italic>., <xref rid="pca2732-bib-0021" ref-type="ref">2016</xref>). In recent years in the field of medicinal plants research on DNA barcoding remarkable progress has been made, as reviewed by Techen <italic>et al</italic>. (<xref rid="pca2732-bib-0077" ref-type="ref">2014</xref>) and de Boer <italic>et al</italic>. (<xref rid="pca2732-bib-0020" ref-type="ref">2015</xref>). Initially used as an identification tool, DNA barcoding is now applied in the industrial quality assurance context to authenticate a wide range of herbal products (de Boer <italic>et al</italic>., <xref rid="pca2732-bib-0020" ref-type="ref">2015</xref>; Parveen <italic>et al</italic>., <xref rid="pca2732-bib-0062" ref-type="ref">2016</xref>; Sgamma <italic>et al</italic>., <xref rid="pca2732-bib-0069" ref-type="ref">2017</xref>). Recently, the British Pharmacopoeia included the first globally general DNA&#x02010;based identification method using <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Ocimum tenuiflorum</styled-content></styled-content> L. (Lamiaceae), with the focus on plant sampling, barcode regions, DNA extraction, purification and amplification, and the sequences reference database (Heinrich <italic>et al</italic>., <xref rid="pca2732-bib-0042" ref-type="ref">2017</xref>; Sgamma <italic>et al</italic>., <xref rid="pca2732-bib-0069" ref-type="ref">2017</xref>). Recent investigations applied DNA barcoding to identify and authenticate various marketed herbal products, reporting various degrees of discrepancy between the expected species and the actual identified species. For instance, significant substitution was found in 98% of products of the traditional Chinese medicine (TCM), Baitouweng, which are expected to contain <italic>Pulsatilla chinensis</italic> (Bge.) Regel (Shi <italic>et al</italic>., <xref rid="pca2732-bib-0072" ref-type="ref">2017</xref>), 26% of single ingredient products purchased from local markets in Iran (Ghorbani <italic>et al</italic>., <xref rid="pca2732-bib-0033" ref-type="ref">2017</xref>), 16% of ginkgo herbal dietary supplements sold as dried and powdered leaves, purchased on&#x02010;line and in retail stores from the New York area (Little, <xref rid="pca2732-bib-0052" ref-type="ref">2014</xref>), 7% of <italic>Senna</italic> and 50% of <italic>Cassia</italic> market products in India (Seethapathy <italic>et al</italic>., <xref rid="pca2732-bib-0068" ref-type="ref">2014</xref>), 6% of saw palmetto herbal dietary supplements sold as dry, cut, gelatine capsules and compression tablets, purchased on&#x02010;line and at retail stores in the New York area (Little and Jeanson, <xref rid="pca2732-bib-0053" ref-type="ref">2013</xref>), 25% of black cohosh dietary supplements purchased on&#x02010;line and at retail stores in the New York area (Baker <italic>et al</italic>., <xref rid="pca2732-bib-0003" ref-type="ref">2012</xref>), 50% of Korean ginseng natural health products capsules, sold as tablets, roots, carved roots, extracts, teas and dried and shredded products, purchased from various commercial sources, including pharmacies and markets in Toronto and New York (Wallace <italic>et al</italic>., <xref rid="pca2732-bib-0081" ref-type="ref">2012</xref>), 35% of herbal tea products purchased from 25 different locations in the New York area (Stoeckle <italic>et al</italic>., <xref rid="pca2732-bib-0075" ref-type="ref">2011</xref>); and in 59% of herbal products sold as capsules, powders and tablets, purchased from the Toronto area or on&#x02010;line from distributors in the United States (Newmaster <italic>et al</italic>., <xref rid="pca2732-bib-0060" ref-type="ref">2013</xref>).</p><p>In the wake of these studies and of other recent cases exposing discrepancies between labelling and constituents actually present in the products, serious concerns were raised about the authenticity and quality of herbal products. Sgamma <italic>et al</italic>. (<xref rid="pca2732-bib-0069" ref-type="ref">2017</xref>) discusses the feasibility and the main aspects of using DNA barcoding in industrial quality assurance procedures. However, conventional DNA barcoding faces practical limitations restricting the method to the authentication of a single ingredient herbal preparations exclusively, and only for unprocessed plant material thus before the plant undergoes various extractions and processing steps that usually lead to loss, degradation or mixing of DNA.</p><p>The combination of high&#x02010;throughput sequencing (HTS) and DNA barcoding, known as DNA metabarcoding, enables simultaneous high&#x02010;throughput multi&#x02010;taxa identification by using the extracellular and/or total DNA extracted from complex samples containing DNA of different origins (Taberlet <italic>et al</italic>., <xref rid="pca2732-bib-0076" ref-type="ref">2012</xref>; Staats <italic>et al</italic>., <xref rid="pca2732-bib-0074" ref-type="ref">2016</xref>). DNA metabarcoding is applicable to identification of plant species diversity in a range of products and has been used to investigate the level of discrepancy between the expected and detected plant species based on the label claims of marketed herbal products (Cheng <italic>et al</italic>., <xref rid="pca2732-bib-0016" ref-type="ref">2014</xref>; Coghlan <italic>et al</italic>., <xref rid="pca2732-bib-0019" ref-type="ref">2015</xref>; Ivanova <italic>et al</italic>., <xref rid="pca2732-bib-0046" ref-type="ref">2016</xref>; Raclariu <italic>et al</italic>., <xref rid="pca2732-bib-0065" ref-type="ref">2017a</xref>, <xref rid="pca2732-bib-0066" ref-type="ref">2017b</xref>). For instance, Coghlan <italic>et al</italic>. (<xref rid="pca2732-bib-0018" ref-type="ref">2012</xref>) found that 15 highly processed TCMs contained species and genera included on CITES appendices I and II. Ivanova <italic>et al</italic>. (<xref rid="pca2732-bib-0046" ref-type="ref">2016</xref>) found that 15 tested herbal supplements contained non&#x02010;listed, non&#x02010;filler plant DNA. The quality of 27 tested herbal preparations was highly affected by the presence of contaminants (Cheng <italic>et al</italic>., <xref rid="pca2732-bib-0016" ref-type="ref">2014</xref>). Out of 78 <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Hypericum perforatum</styled-content></styled-content> herbal products only 68% contained the target species and detected divergence between constituent species and those listed on the label in all products (Raclariu <italic>et al</italic>., 2017b). Only 15% of investigated <italic>Veronica</italic> herbal products contained the target species <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Veronica officinalis</styled-content></styled-content> L., whereas the main known adulterant, <styled-content style="fixed-case"><styled-content style="italic-in-any-context">Veronica chamaedrys</styled-content></styled-content> L., was detected in 62% of the products (Raclariu <italic>et al</italic>., <xref rid="pca2732-bib-0065" ref-type="ref">2017a</xref>).</p><p>All these studies report varying degrees of authentication success. Therefore, obtaining a representative assessment of complex herbal mixtures is influenced by many factors, including the quality and type of raw material, as well as several elements of the analysis that can however be varied to optimise the results (Staats <italic>et al</italic>., <xref rid="pca2732-bib-0074" ref-type="ref">2016</xref>). Some limitations of DNA metabarcoding are similar to those found in DNA barcoding. For instance, such methods may provide positive authentication of plant ingredients based on the presence of any amplifiable DNA, and false negatives can be expected if the DNA has been degraded or lost during post&#x02010;harvest processing or manufacturing (de Boer <italic>et al</italic>., <xref rid="pca2732-bib-0020" ref-type="ref">2015</xref>).</p><p>In the context of the quality control of herbal products, DNA barcoding and metabarcoding do not provide any quantitative nor qualitative information of the active metabolites in the raw plant material or the resulting preparation, and this narrows its applicability only to identification and authentication procedures. However, the use to identify and discern taxa at any developmental or processed stage from which DNA can be extracted is an essential advantage of DNA barcoding and metabarcoding (Hebert <italic>et al</italic>., <xref rid="pca2732-bib-0038" ref-type="ref">2003</xref>; Hajibabaei <italic>et al</italic>., <xref rid="pca2732-bib-0036" ref-type="ref">2007</xref>). The greatest advantage of DNA metabarcoding is its ability to identify each single species within complex multi&#x02010;ingredient and processed mixtures simultaneously, where the application of DNA barcoding and conventional analytical methods is limited considerably. Importantly, DNA metabarcoding data is usable for qualitative evaluation only, to determine presence of taxa, and not for quantitative assessment of relative species abundance based on sequence read numbers, as many variables considerably impact the obtained sequence read results (Staats <italic>et al</italic>., <xref rid="pca2732-bib-0074" ref-type="ref">2016</xref>). Clearly, in the context of pharmacognosy and pharmacovigilance, a combination of analytical methods is unavoidable for comprehensive authentication and quality control of raw material and resulting products (Shetti <italic>et al</italic>., <xref rid="pca2732-bib-0070" ref-type="ref">2011</xref>; Mishra <italic>et al</italic>., <xref rid="pca2732-bib-0059" ref-type="ref">2016</xref>; Parveen <italic>et al</italic>., <xref rid="pca2732-bib-0062" ref-type="ref">2016</xref>; Heinrich <italic>et al</italic>., <xref rid="pca2732-bib-0042" ref-type="ref">2017</xref>; Pawar <italic>et al</italic>., <xref rid="pca2732-bib-0064" ref-type="ref">2017</xref>), and DNA&#x02010;based approaches offer important novel insights.</p></sec><sec id="pca2732-sec-0011"><title>Perspectives</title><p>Both chemical and biological methods require comparison of detected compounds against reference standards. For chemical methods these can be lead or marker compounds, adulterants or more advanced computational scans of chemical databases. For biological DNA&#x02010;based methods there are similar advanced computational scans linked to well&#x02010;curated nucleotide sequence repositories. Chemical methods can be used in all stages for quality control and provide insights into the presence or absence of compounds defining a product. Biological methods based on DNA barcoding can be used for authentication of raw biological materials from cultivation or wild&#x02010;harvest at source or before manufacturing, but not accurately once the material is mixed with other biological material. Biological methods based on DNA metabarcoding can be used for authentication of finished products, post&#x02010;marketing control and pharmacovigilance, and provide insight into the total species diversity in a product.</p><p>Each method has its benefits and limitations, and its specific strength when applied correctly in the herbal product value chain. Both DNA barcoding and metabarcoding have potential in the context of quality control of both well and poorly regulated supply systems. DNA barcoding can be used for authenticating products based on single herbal ingredients and DNA metabarcoding for assessment of species diversity in processed products, and both methods should be used in combination with appropriate hyphenated chemical methods for quality control. Standardisation of protocols for DNA barcoding and DNA sequence&#x02010;based identification are necessary before DNA&#x02010;based biological methods can be implemented as routine analytical approaches and approved by the competent authorities for use in regulated procedures.</p></sec></body><back><ack id="pca2732-sec-0012"><title>Acknowledgements</title><p>The authors acknowledge funding from the Romanian &#x02013; EEA Research Programme operated by the MECS&#x02010;ANCSI PO under the EEA Financial Mechanism 2009&#x02013;2014 and project contract number 2SEE/2014 (to ACR, MI and HdB).</p></ack><ref-list id="pca2732-bibl-0001" content-type="cited-references"><title>References</title><ref id="pca2732-bib-0001"><mixed-citation publication-type="journal" id="pca2732-cit-0002">
+<string-name>
+<surname>Agapouda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Booker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kiss</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hohmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Csupor</surname>
+<given-names>D</given-names>
+</string-name>. <year>2017</year>
+<article-title>Quality control of <italic>Hypericum perforatum</italic> L. analytical challenges and recent progress</article-title>. <source>J Pharm Pharmacol</source>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jphp.12711">https://doi.org/10.1111/jphp.12711</ext-link>.</mixed-citation></ref><ref id="pca2732-bib-0002"><mixed-citation publication-type="journal" id="pca2732-cit-0003">
+<string-name>
+<surname>Atanasov</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Waltenberger</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Pferschy&#x02010;Wenzig</surname>
+<given-names>E&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Linder</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wawrosch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Uhrin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Temml</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schwaiger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heiss</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Rollinger</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Schuster</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Breuss</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Bochkov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mihovilovic</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Kopp</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dirsch</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Stuppner</surname>
+<given-names>H</given-names>
+</string-name>. <year>2015</year>
+<article-title>Discovery and resupply of pharmacologically active plant&#x02010;derived natural products: A review</article-title>. <source>Biotechnol Adv</source>
+<volume>33</volume>: <fpage>1582</fpage>&#x02013;<lpage>1614</lpage>.<pub-id pub-id-type="pmid">26281720</pub-id></mixed-citation></ref><ref id="pca2732-bib-0003"><mixed-citation publication-type="journal" id="pca2732-cit-0004">
+<string-name>
+<surname>Baker</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Stevenson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Little</surname>
+<given-names>DP</given-names>
+</string-name>. <year>2012</year>
+<article-title>DNA barcode identification of black cohosh herbal dietary supplements</article-title>. <source>J AOAC Int</source>
+<volume>95</volume>: <fpage>1023</fpage>&#x02013;<lpage>1034</lpage>.<pub-id pub-id-type="pmid">22970567</pub-id></mixed-citation></ref><ref id="pca2732-bib-0004"><mixed-citation publication-type="journal" id="pca2732-cit-0005">
+<string-name>
+<surname>Barnes</surname>
+<given-names>J</given-names>
+</string-name>. <year>2003</year>
+<article-title>Pharmacovigilance of herbal medicines</article-title>. <source>Drug Saf</source>
+<volume>26</volume>: <fpage>829</fpage>&#x02013;<lpage>851</lpage>.<pub-id pub-id-type="pmid">12959628</pub-id></mixed-citation></ref><ref id="pca2732-bib-0005"><mixed-citation publication-type="journal" id="pca2732-cit-0006">
+<string-name>
+<surname>Bennett</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Balick</surname>
+<given-names>MJ</given-names>
+</string-name>. <year>2014</year>
+<article-title>Does the name really matter? The importance of botanical nomenclature and plant taxonomy in biomedical research</article-title>. <source>J Ethnopharmacol</source>
+<volume>152</volume>: <fpage>387</fpage>&#x02013;<lpage>392</lpage>.<pub-id pub-id-type="pmid">24321863</pub-id></mixed-citation></ref><ref id="pca2732-bib-0006"><mixed-citation publication-type="journal" id="pca2732-cit-0007">
+<string-name>
+<surname>Bent</surname>
+<given-names>S</given-names>
+</string-name>. <year>2008</year>
+<article-title>Herbal medicine in the United States: Review of efficacy, safety, and regulation</article-title>. <source>J Gen Intern Med</source>
+<volume>23</volume>: <fpage>854</fpage>&#x02013;<lpage>859</lpage>.<pub-id pub-id-type="pmid">18415652</pub-id></mixed-citation></ref><ref id="pca2732-bib-0007"><mixed-citation publication-type="journal" id="pca2732-cit-0008">
+<string-name>
+<surname>Bickford</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lohman</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Sodhi</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>PKL</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Winker</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ingram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>
+<given-names>I</given-names>
+</string-name>. <year>2007</year>
+<article-title>Cryptic species as a window on diversity and conservation</article-title>. <source>Trends Ecol Evol</source>
+<volume>22</volume>: <fpage>148</fpage>&#x02013;<lpage>155</lpage>.<pub-id pub-id-type="pmid">17129636</pub-id></mixed-citation></ref><ref id="pca2732-bib-0008"><mixed-citation publication-type="journal" id="pca2732-cit-0009">
+<string-name>
+<surname>Bilia</surname>
+<given-names>AR</given-names>
+</string-name>. <year>2014</year>
+<article-title>Science meets regulation</article-title>. <source>J Ethnopharmacol</source>
+<volume>158</volume>: <fpage>487</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">25017375</pub-id></mixed-citation></ref><ref id="pca2732-bib-0009"><mixed-citation publication-type="journal" id="pca2732-cit-0010">
+<string-name>
+<surname>Booker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Frommenwiler</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Umealajekwu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2014</year>
+<article-title>Chemical variability along the value chains of turmeric (<italic>Curcuma longa</italic>): A comparison of nuclear magnetic resonance spectroscopy and high performance thin layer chromatography</article-title>. <source>J Ethnopharmacol</source>
+<volume>152</volume>: <fpage>292</fpage>&#x02013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">24417868</pub-id></mixed-citation></ref><ref id="pca2732-bib-0010"><mixed-citation publication-type="journal" id="pca2732-cit-0011">
+<string-name>
+<surname>Booker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Frommenwiler</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Horsfield</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2016a</year>
+<article-title>Adulteration and poor quality of <italic>Ginkgo biloba</italic> supplements</article-title>. <source>J Herb Med</source>
+<volume>6</volume>: <fpage>79</fpage>&#x02013;<lpage>87</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0011"><mixed-citation publication-type="journal" id="pca2732-cit-0012">
+<string-name>
+<surname>Booker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2012</year>
+<article-title>Value chains of herbal medicines&#x02014;research needs and key challenges in the context of ethnopharmacology</article-title>. <source>J Ethnopharmacol</source>
+<volume>140</volume>: <fpage>624</fpage>&#x02013;<lpage>633</lpage>.<pub-id pub-id-type="pmid">22326378</pub-id></mixed-citation></ref><ref id="pca2732-bib-0012"><mixed-citation publication-type="book" id="pca2732-cit-0013">
+<string-name>
+<surname>Booker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2015</year>
+<chapter-title>Value chains of herbal medicines &#x02013; ethnopharmacological and analytical challenges in a globalizing world</chapter-title> In <source>Evidence&#x02010;based Validation of Herbal Medicine</source>, <person-group person-group-type="editor"><name><surname>Mukherjee</surname><given-names>PK</given-names></name></person-group> (ed.). <publisher-name>Elsevier</publisher-name>: <publisher-loc>Amsterdam</publisher-loc>; <fpage>29</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0013"><mixed-citation publication-type="journal" id="pca2732-cit-0014">
+<string-name>
+<surname>Booker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gkouva</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2016b</year>
+<article-title>From traditional resource to global commodities: A comparison of <italic>Rhodiola</italic> species using NMR spectroscopy&#x02010;metabolomics and HPTLC</article-title>. <source>Front Pharmacol</source>
+<volume>7</volume>: <fpage>254</fpage>.<pub-id pub-id-type="pmid">27621703</pub-id></mixed-citation></ref><ref id="pca2732-bib-0014"><mixed-citation publication-type="journal" id="pca2732-cit-0015">
+<string-name>
+<surname>Chan</surname>
+<given-names>K</given-names>
+</string-name>. <year>2003</year>
+<article-title>Some aspects of toxic contaminants in herbal medicines</article-title>. <source>Chemosphere</source>
+<volume>52</volume>(<issue>9</issue>): <fpage>1361</fpage>&#x02013;<lpage>1371</lpage>.<pub-id pub-id-type="pmid">12867165</pub-id></mixed-citation></ref><ref id="pca2732-bib-0015"><mixed-citation publication-type="journal" id="pca2732-cit-0016">
+<string-name>
+<surname>Chen</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>H&#x02010;YE</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>K&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>M&#x02010;T</given-names>
+</string-name>, <string-name>
+<surname>But</surname>
+<given-names>PP&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>P&#x02010;C</given-names>
+</string-name>. <year>2008</year>
+<article-title>Authentication of <italic>Saussurea lappa</italic>, an endangered medicinal material, by ITS DNA and 5S rRNA sequencing</article-title>. <source>Planta Med</source>
+<volume>74</volume>: <fpage>889</fpage>&#x02013;<lpage>892</lpage>.<pub-id pub-id-type="pmid">18537077</pub-id></mixed-citation></ref><ref id="pca2732-bib-0016"><mixed-citation publication-type="journal" id="pca2732-cit-0017">
+<string-name>
+<surname>Cheng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ning</surname>
+<given-names>K</given-names>
+</string-name>. <year>2014</year>
+<article-title>Biological ingredient analysis of traditional Chinese medicine preparation based on high&#x02010;throughput sequencing: The story for Liuwei Dihuang Wan</article-title>. <source>Sci Rep</source>
+<volume>4</volume>: <fpage>5147</fpage>.<pub-id pub-id-type="pmid">24888649</pub-id></mixed-citation></ref><ref id="pca2732-bib-0017"><mixed-citation publication-type="journal" id="pca2732-cit-0018">
+<string-name>
+<surname>Cline</surname>
+<given-names>E</given-names>
+</string-name>. <year>2012</year>
+<article-title>Marketplace substitution of Atlantic salmon for Pacific salmon in Washington State detected by DNA barcoding</article-title>. <source>Food Res Int</source>
+<volume>45</volume>: <fpage>388</fpage>&#x02013;<lpage>393</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0018"><mixed-citation publication-type="journal" id="pca2732-cit-0019">
+<string-name>
+<surname>Coghlan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Haile</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Houston</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Moolhuijzen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bellgard</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Bunce</surname>
+<given-names>M</given-names>
+</string-name>. <year>2012</year>
+<article-title>Deep sequencing of plant and animal DNA contained within traditional Chinese medicines reveals legality issues and health safety concerns</article-title>. <source>PLoS Genet</source>
+<volume>8</volume> e1002657.</mixed-citation></ref><ref id="pca2732-bib-0019"><mixed-citation publication-type="journal" id="pca2732-cit-0020">
+<string-name>
+<surname>Coghlan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Maker</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Crighton</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Haile</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Byard</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Bellgard</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Mullaney</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Trengove</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Allcock</surname>
+<given-names>RJN</given-names>
+</string-name>, <string-name>
+<surname>Nash</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hoban</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jarrett</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Musgrave</surname>
+<given-names>IF</given-names>
+</string-name>, <string-name>
+<surname>Bunce</surname>
+<given-names>M</given-names>
+</string-name>. <year>2015</year>
+<article-title>Combined DNA, toxicological and heavy metal analyses provides an auditing toolkit to improve pharmacovigilance of traditional Chinese medicine (TCM)</article-title>. <source>Sci Rep</source>
+<volume>5</volume>: <fpage>1</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0020"><mixed-citation publication-type="journal" id="pca2732-cit-0021">
+<string-name>
+<surname>de Boer</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Ichim</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Newmaster</surname>
+<given-names>SG</given-names>
+</string-name>. <year>2015</year>
+<article-title>DNA barcoding and pharmacovigilance of herbal medicines</article-title>. <source>Drug Saf</source>
+<volume>38</volume>: <fpage>611</fpage>&#x02013;<lpage>620</lpage>.<pub-id pub-id-type="pmid">26076652</pub-id></mixed-citation></ref><ref id="pca2732-bib-0021"><mixed-citation publication-type="journal" id="pca2732-cit-0022">
+<string-name>
+<surname>Di Pinto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mottola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marchetti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bottaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Terio</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bozzo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bonerba</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ceci</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tantillo</surname>
+<given-names>G</given-names>
+</string-name>. <year>2016</year>
+<article-title>Packaged frozen fishery products: Species identification, mislabeling occurrence and legislative implications</article-title>. <source>Food Chem</source>
+<volume>194</volume>: <fpage>279</fpage>&#x02013;<lpage>283</lpage>.<pub-id pub-id-type="pmid">26471555</pub-id></mixed-citation></ref><ref id="pca2732-bib-0022"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0023">
+<collab collab-type="authors">EDQM</collab>
+. <year>2014</year>
+<article-title>European Pharmacopoeia, 8th Edition. Council of Europe: Strasbourg</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.edqm.eu/en/european-pharmacopoeia-8th-edition-1563.html">https://www.edqm.eu/en/european&#x02010;pharmacopoeia&#x02010;8th&#x02010;edition&#x02010;1563.html</ext-link> [March 2017].</mixed-citation></ref><ref id="pca2732-bib-0023"><mixed-citation publication-type="journal" id="pca2732-cit-0024">
+<string-name>
+<surname>Ernst</surname>
+<given-names>E</given-names>
+</string-name>. <year>1998</year>
+<article-title>Harmless herbs? A review of the recent literature</article-title>. <source>Am J Med</source>
+<volume>104</volume>: <fpage>170</fpage>&#x02013;<lpage>178</lpage>.<pub-id pub-id-type="pmid">9528737</pub-id></mixed-citation></ref><ref id="pca2732-bib-0024"><mixed-citation publication-type="journal" id="pca2732-cit-0025">
+<string-name>
+<surname>Ernst</surname>
+<given-names>E</given-names>
+</string-name>. <year>2002</year>
+<article-title>Adulteration of Chinese herbal medicines with synthetic drugs: A systematic review</article-title>. <source>J Intern Med</source>
+<volume>252</volume>: <fpage>107</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">12190885</pub-id></mixed-citation></ref><ref id="pca2732-bib-0025"><mixed-citation publication-type="journal" id="pca2732-cit-0026">
+<string-name>
+<surname>Esters</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Angenot</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Brandt</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fr&#x000e9;d&#x000e9;rich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tits</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Van Nerum</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wauters</surname>
+<given-names>J&#x02010;N</given-names>
+</string-name>, <string-name>
+<surname>Hubert</surname>
+<given-names>P</given-names>
+</string-name>. <year>2006</year>
+<article-title>Validation of a high&#x02010;performance thin&#x02010;layer chromatography/densitometry method for the quantitative determination of glucosamine in a herbal dietary supplement</article-title>. <source>J Chromatogr A</source>
+<volume>1112</volume>: <fpage>156</fpage>&#x02013;<lpage>164</lpage>.<pub-id pub-id-type="pmid">16472532</pub-id></mixed-citation></ref><ref id="pca2732-bib-0026"><mixed-citation publication-type="journal" id="pca2732-cit-0027">
+<string-name>
+<surname>Eurlings</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lens</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pakusza</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Peelen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wieringa</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Gravendeel</surname>
+<given-names>B</given-names>
+</string-name>. <year>2013</year>
+<article-title>Forensic identification of Indian snakeroot (<italic>Rauvolfia serpentina</italic> Benth. ex Kurz) using DNA barcoding</article-title>. <source>J Forensic Sci</source>
+<volume>58</volume>: <fpage>822</fpage>&#x02013;<lpage>830</lpage>.<pub-id pub-id-type="pmid">23458029</pub-id></mixed-citation></ref><ref id="pca2732-bib-0027"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0028">
+<collab collab-type="authors">European Commission</collab>
+. <year>2002</year>
+<article-title>Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements</article-title>. <ext-link ext-link-type="uri" xlink:href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:183:0051:0057:en:pdf">http://eur&#x02010;lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:183:0051:0057:en:pdf</ext-link> [March 2016].</mixed-citation></ref><ref id="pca2732-bib-0028"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0029">
+<collab collab-type="authors">European Commission</collab>
+. <year>2004</year>
+<article-title>European Parliament and the Council of the European Union. Directive 2004/24/EC of the European Parliament and of the Council of 31 March 2004 amending, as regards traditional herbal medicinal products, Directive 2001/83/EC on the Community code relating to medicinal products for human use</article-title>
+<italic>. Official Journal of the European Union</italic>
+<ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/health/sites/health/files/files/eudralex/vol-1/dir_2004_24/dir_2004_24_en.pdf">https://ec.europa.eu/health//sites/health/files/files/eudralex/vol&#x02010;1/dir_2004_24/dir_2004_24_en.pdf</ext-link> [June 2017].</mixed-citation></ref><ref id="pca2732-bib-0029"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0030">
+<collab collab-type="authors">European Medicine Agency (EMA)</collab>
+. <year>2006</year>
+<article-title>Guideline on specifications: Test procedures and acceptance criteria for herbal substances, herbal preparations and herbal medicinal products. Document No. EMA/CPMP/QWP/2820/00</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2011/09/WC500113210.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2011/09/WC500113210.pdf</ext-link> [May 2017].</mixed-citation></ref><ref id="pca2732-bib-0030"><mixed-citation publication-type="journal" id="pca2732-cit-0031">
+<string-name>
+<surname>Gathier</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>van der Niet</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Peelen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>van Vugt</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Eurlings</surname>
+<given-names>MCM</given-names>
+</string-name>, <string-name>
+<surname>Gravendeel</surname>
+<given-names>B</given-names>
+</string-name>. <year>2013</year>
+<article-title>Forensic identification of CITES protected slimming Cactus (Hoodia) using DNA barcoding</article-title>. <source>J Forensic Sci</source>
+<volume>58</volume>: <fpage>1467</fpage>&#x02013;<lpage>1471</lpage>.<pub-id pub-id-type="pmid">23865560</pub-id></mixed-citation></ref><ref id="pca2732-bib-0031"><mixed-citation publication-type="journal" id="pca2732-cit-0032">
+<string-name>
+<surname>Gertsch</surname>
+<given-names>J</given-names>
+</string-name>. <year>2009</year>
+<article-title>How scientific is the science in ethnopharmacology? Historical perspectives and epistemological problems</article-title>. <source>J Ethnopharmacol</source>
+<volume>122</volume>: <fpage>177</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">19185054</pub-id></mixed-citation></ref><ref id="pca2732-bib-0032"><mixed-citation publication-type="journal" id="pca2732-cit-0033">
+<string-name>
+<surname>Ghorbani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Saeedi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>HJ</given-names>
+</string-name>. <year>2015</year>
+<article-title>DNA barcoding in ethnobotany and ethnopharmacology: Identifying medicinal plants traded in local markets</article-title>. <source>Genome</source>
+<volume>58</volume>: <fpage>220</fpage>&#x02013;<lpage>220</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0033"><mixed-citation publication-type="journal" id="pca2732-cit-0034">
+<string-name>
+<surname>Ghorbani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Saeedi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>De Boer</surname>
+<given-names>HJ</given-names>
+</string-name>. <year>2017</year>
+<article-title>Unidentifiable by morphology: DNA barcoding of plant material in local markets in Iran</article-title>. <source>PLoS One</source>
+<volume>12</volume> e0175722. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0175722">https://doi.org/10.1371/journal.pone.0175722</ext-link>.</mixed-citation></ref><ref id="pca2732-bib-0034"><mixed-citation publication-type="journal" id="pca2732-cit-0035">
+<string-name>
+<surname>Gilbert</surname>
+<given-names>N</given-names>
+</string-name>. <year>2011</year>
+<article-title>Regulations: Herbal medicine rule book</article-title>. <source>Nature</source>
+<volume>480</volume>: <fpage>S98</fpage>&#x02013;<lpage>S99</lpage>.<pub-id pub-id-type="pmid">22190094</pub-id></mixed-citation></ref><ref id="pca2732-bib-0035"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0036">
+<collab collab-type="authors">Global Industry Analyst, Inc</collab>
+. <year>2015</year>
+<article-title>Herbal supplements and remedies market trends</article-title>
+<ext-link ext-link-type="uri" xlink:href="http://www.strategyr.com/MarketResearch/Herbal_Supplements_and_Remedies_Market_Trends.asp">http://www.strategyr.com/MarketResearch/Herbal_Supplements_and_Remedies_Market_Trends.asp</ext-link> [July 2017].</mixed-citation></ref><ref id="pca2732-bib-0036"><mixed-citation publication-type="journal" id="pca2732-cit-0037">
+<string-name>
+<surname>Hajibabaei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Hebert</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Hickey</surname>
+<given-names>DA</given-names>
+</string-name>. <year>2007</year>
+<article-title>DNA barcoding: How it complements taxonomy, molecular phylogenetics and population genetics</article-title>. <source>Trends Genet</source>
+<volume>23</volume>: <fpage>167</fpage>&#x02013;<lpage>172</lpage>.<pub-id pub-id-type="pmid">17316886</pub-id></mixed-citation></ref><ref id="pca2732-bib-0037"><mixed-citation publication-type="journal" id="pca2732-cit-0038">
+<string-name>
+<surname>Hanner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ivanova</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Steinke</surname>
+<given-names>D</given-names>
+</string-name>. <year>2011</year>
+<article-title>FISH&#x02010;BOL and seafood identification: Geographically dispersed case studies reveal systemic market substitution across Canada</article-title>. <source>Mitochondrial DNA</source>
+<volume>22</volume>: <fpage>106</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">21980986</pub-id></mixed-citation></ref><ref id="pca2732-bib-0038"><mixed-citation publication-type="journal" id="pca2732-cit-0039">
+<string-name>
+<surname>Hebert</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Cywinska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>eWaard JR.</surname>
+</string-name>
+<year>2003</year>
+<article-title>Biological identifications through DNA barcodes</article-title>. <source>Proc R Soc Lond B Biol Sci</source>
+<volume>270</volume>: <fpage>313</fpage>&#x02013;<lpage>321</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0039"><mixed-citation publication-type="journal" id="pca2732-cit-0040">
+<string-name>
+<surname>Hebert</surname>
+<given-names>PDN</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>
+<given-names>TR</given-names>
+</string-name>. <year>2005</year>
+<article-title>The promise of DNA barcoding for Taxonomy</article-title>. <source>Syst Biol</source>
+<volume>54</volume>: <fpage>852</fpage>&#x02013;<lpage>859</lpage>.<pub-id pub-id-type="pmid">16243770</pub-id></mixed-citation></ref><ref id="pca2732-bib-0040"><mixed-citation publication-type="journal" id="pca2732-cit-0041">
+<string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2010</year>
+<article-title>Ethnopharmacology in the 21st century &#x02013; grand challenges</article-title>. <source>Front Pharmacol</source>
+<volume>1</volume>: <fpage>8</fpage>.<pub-id pub-id-type="pmid">21713103</pub-id></mixed-citation></ref><ref id="pca2732-bib-0041"><mixed-citation publication-type="journal" id="pca2732-cit-0042">
+<string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>. <year>2015</year>
+<article-title>Quality and safety of herbal medical products: Regulation and the need for quality assurance along the value chains</article-title>. <source>Br J Clin Pharmacol</source>
+<volume>80</volume>: <fpage>62</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">25581270</pub-id></mixed-citation></ref><ref id="pca2732-bib-0042"><mixed-citation publication-type="journal" id="pca2732-cit-0043">
+<string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anagnostou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tschirch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Anagnostou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Blaschek</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wichtl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Phillipson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Bohlin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;ransson</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Backlund</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kinghorn</surname>
+<given-names>AD</given-names>
+</string-name>. <year>2017</year>
+<article-title>From pharmacognosia to DNA&#x02010;based medicinal plant authentication &#x02013; pharmacognosy through the centuries</article-title>. <source>Planta Med</source>
+<volume>4</volume>: <fpage>37</fpage>&#x02013;<lpage>47</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0043"><mixed-citation publication-type="journal" id="pca2732-cit-0044">
+<string-name>
+<surname>Heubl</surname>
+<given-names>G</given-names>
+</string-name>. <year>2010</year>
+<article-title>New aspects of DNA&#x02010;based authentication of Chinese medicinal plants by molecular biological techniques</article-title>. <source>Planta Med</source>
+<volume>76</volume>: <fpage>1963</fpage>&#x02013;<lpage>1974</lpage>.<pub-id pub-id-type="pmid">21058240</pub-id></mixed-citation></ref><ref id="pca2732-bib-0044"><mixed-citation publication-type="journal" id="pca2732-cit-0045">
+<string-name>
+<surname>Ichim</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Andrei</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Popa</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Raclariu</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Rosca</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sosoi</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Tomescu</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Tebrencu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Crisan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>HJ</given-names>
+</string-name>. <year>2016</year>
+<article-title>Progress towards efficient and cost effective molecular authentication of complex herbal food supplements through biochemical fingerprinting and DNA barcoding</article-title>. <source>Analele Stiintifice Ale Univ Al Cuza din Iasi</source>
+<volume>62</volume>: <fpage>158</fpage>.</mixed-citation></ref><ref id="pca2732-bib-0045"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0046">
+<collab collab-type="authors">Ipsos MORI</collab>
+. <year>2008</year>
+<article-title>Public perceptions of herbal medicines. General public qualitative &#x00026; quantitative research</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.ipsos.com/sites/default/files/migrations/en-uk/files/Assets/Docs/Polls/public-perceptions-of-herbal-medicines-report.pdf">https://www.ipsos.com/sites/default/files/migrations/en&#x02010;uk/files/Assets/Docs/Polls/public&#x02010;perceptions&#x02010;of&#x02010;herbal&#x02010;medicines&#x02010;report.pdf</ext-link> [July 2017].</mixed-citation></ref><ref id="pca2732-bib-0046"><mixed-citation publication-type="journal" id="pca2732-cit-0047">
+<string-name>
+<surname>Ivanova</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Kuzmina</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Braukmann</surname>
+<given-names>TWA</given-names>
+</string-name>, <string-name>
+<surname>Borisenko</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Zakharov</surname>
+<given-names>EV</given-names>
+</string-name>. <year>2016</year>
+<article-title>Authentication of herbal supplements using next&#x02010;generation sequencing</article-title>. <source>PLoS One</source>
+<volume>11</volume>: e0156426.</mixed-citation></ref><ref id="pca2732-bib-0047"><mixed-citation publication-type="journal" id="pca2732-cit-0048">
+<string-name>
+<surname>Janjua</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fakhar&#x02010;I&#x02010;Abbas</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Malik</surname>
+<given-names>IU</given-names>
+</string-name>, <string-name>
+<surname>Mehr</surname>
+<given-names>J</given-names>
+</string-name>. <year>2016</year>
+<article-title>DNA Mini&#x02010;barcoding for wildlife trade control: A case study on identification of highly processed animal materials</article-title>. <source>Mitochondrial DNA Part A</source>
+<volume>28</volume>: <fpage>544</fpage>&#x02013;<lpage>456</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0048"><mixed-citation publication-type="journal" id="pca2732-cit-0049">
+<string-name>
+<surname>J&#x000fc;tte</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Heinrich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Helmst&#x000e4;dter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Langhorst</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Niebling</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Pommerening</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Trampisch</surname>
+<given-names>HJ</given-names>
+</string-name>. <year>2017</year>
+<article-title>Herbal medicinal products &#x02013; evidence and tradition from a historical perspective</article-title>. <source>J Ethnopharmacol</source>
+<volume>207</volume>: <fpage>220</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">28668645</pub-id></mixed-citation></ref><ref id="pca2732-bib-0049"><mixed-citation publication-type="journal" id="pca2732-cit-0050">
+<string-name>
+<surname>Khan</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Smillie</surname>
+<given-names>T</given-names>
+</string-name>. <year>2012</year>
+<article-title>Implementing a &#x0201c;quality by design&#x0201d; approach to assure the safety and integrity of botanical dietary supplements</article-title>. <source>J Nat Prod</source>
+<volume>75</volume>: <fpage>1665</fpage>&#x02013;<lpage>1673</lpage>.<pub-id pub-id-type="pmid">22938174</pub-id></mixed-citation></ref><ref id="pca2732-bib-0050"><mixed-citation publication-type="journal" id="pca2732-cit-0051">
+<string-name>
+<surname>Ko</surname>
+<given-names>RJ</given-names>
+</string-name>. <year>1998</year>
+<article-title>Adulterants in Asian patent medicines</article-title>. <source>N Engl J Med</source>
+<volume>339</volume>: <fpage>847</fpage>&#x02013;<lpage>847</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0051"><mixed-citation publication-type="journal" id="pca2732-cit-0052">
+<string-name>
+<surname>Leonti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Casu</surname>
+<given-names>L</given-names>
+</string-name>. <year>2013</year>
+<article-title>Traditional medicines and globalization: Current and future perspectives in ethnopharmacology</article-title>. <source>Front Pharmacol</source>
+<volume>4</volume>: <fpage>92</fpage>.<pub-id pub-id-type="pmid">23898296</pub-id></mixed-citation></ref><ref id="pca2732-bib-0052"><mixed-citation publication-type="journal" id="pca2732-cit-0053">
+<string-name>
+<surname>Little</surname>
+<given-names>DP</given-names>
+</string-name>. <year>2014</year>
+<article-title>Authentication of <italic>Ginkgo biloba</italic> herbal dietary supplements using DNA barcoding</article-title>. <source>Genome</source>
+<volume>57</volume>: <fpage>513</fpage>&#x02013;<lpage>516</lpage>.<pub-id pub-id-type="pmid">25495290</pub-id></mixed-citation></ref><ref id="pca2732-bib-0053"><mixed-citation publication-type="journal" id="pca2732-cit-0054">
+<string-name>
+<surname>Little</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Jeanson</surname>
+<given-names>ML</given-names>
+</string-name>. <year>2013</year>
+<article-title>DNA barcode authentication of Saw Palmetto herbal dietary supplements</article-title>. <source>Sci Rep</source>
+<volume>3</volume>: <fpage>3518</fpage>.<pub-id pub-id-type="pmid">24343362</pub-id></mixed-citation></ref><ref id="pca2732-bib-0054"><mixed-citation publication-type="journal" id="pca2732-cit-0055">
+<string-name>
+<surname>Lynch</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Berry</surname>
+<given-names>D</given-names>
+</string-name>. <year>2007</year>
+<article-title>Differences in perceived risks and benefits of herbal, over&#x02010;the&#x02010;counter conventional, and prescribed conventional, medicines, and the implications of this for the safe and effective use of herbal products</article-title>. <source>Complement Ther Med</source>
+<volume>15</volume>: <fpage>84</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">17544858</pub-id></mixed-citation></ref><ref id="pca2732-bib-0055"><mixed-citation publication-type="journal" id="pca2732-cit-0056">
+<string-name>
+<surname>Locatelli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Melucci</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Locatelli</surname>
+<given-names>M</given-names>
+</string-name>. <year>2014</year>
+<article-title>Toxic metals in herbal medicines. A review</article-title>. <source>Curr Bioact Compd</source>
+<volume>10</volume>: <fpage>181</fpage>&#x02013;<lpage>188</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0056"><mixed-citation publication-type="book" id="pca2732-cit-0057">
+<person-group person-group-type="editor"><name><surname>Locatelli</surname><given-names>M</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Celia</surname><given-names>C</given-names></name></person-group> (eds.). <year>2017</year>
+<source>Analytical Chemistry: Developments, Applications and Challenges in Food Analysis</source>. <publisher-name>Nova Science Publishers</publisher-name>: <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="pca2732-bib-0057"><mixed-citation publication-type="journal" id="pca2732-cit-0058">
+<string-name>
+<surname>Melucci</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Locatelli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De Laurentiis</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zengin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Locatelli</surname>
+<given-names>C</given-names>
+</string-name>. <year>2017</year>
+<article-title>Herbal medicines: Application of a sequential voltammetric procedure to the determination of mercury, copper, lead, cadmium and zinc at trace level</article-title>. <source>Lett Drug Des Discov</source>
+<volume>14</volume>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2174/1570180814666170412124634">https://doi.org/10.2174/1570180814666170412124634</ext-link>.</mixed-citation></ref><ref id="pca2732-bib-0058"><mixed-citation publication-type="journal" id="pca2732-cit-0059">
+<string-name>
+<surname>Miller</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Stripp</surname>
+<given-names>R</given-names>
+</string-name>. <year>2007</year>
+<article-title>A study of western pharmaceuticals contained within samples of Chinese herbal/patent medicines collected from New York City's Chinatown</article-title>. <source>Legal Med</source>
+<volume>9</volume>: <fpage>258</fpage>&#x02013;<lpage>264</lpage>.<pub-id pub-id-type="pmid">17652006</pub-id></mixed-citation></ref><ref id="pca2732-bib-0059"><mixed-citation publication-type="journal" id="pca2732-cit-0060">
+<string-name>
+<surname>Mishra</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nagireddy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mani</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Shukla</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Tiwari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sundaresan</surname>
+<given-names>V</given-names>
+</string-name>. <year>2016</year>
+<article-title>DNA barcoding: An efficient tool to overcome authentication challenges in the herbal market</article-title>. <source>Plant Biotechnol J</source>
+<volume>14</volume>: <fpage>8</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">26079154</pub-id></mixed-citation></ref><ref id="pca2732-bib-0060"><mixed-citation publication-type="journal" id="pca2732-cit-0061">
+<string-name>
+<surname>Newmaster</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Grguric</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shanmughanandhan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ramalingam</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ragupathy</surname>
+<given-names>S</given-names>
+</string-name>. <year>2013</year>
+<article-title>DNA barcoding detects contamination and substitution in North American herbal products</article-title>. <source>BMC Med</source>
+<volume>11</volume>: <fpage>222</fpage>.<pub-id pub-id-type="pmid">24120035</pub-id></mixed-citation></ref><ref id="pca2732-bib-0061"><mixed-citation publication-type="journal" id="pca2732-cit-0062">
+<string-name>
+<surname>Ouarghidi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Abbad</surname>
+<given-names>A</given-names>
+</string-name>. <year>2012</year>
+<article-title>Species substitution in medicinal roots and possible implications for toxicity of herbal remedies in Morocco</article-title>. <source>Econ Bot</source>
+<volume>66</volume>: <fpage>370</fpage>&#x02013;<lpage>382</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0062"><mixed-citation publication-type="journal" id="pca2732-cit-0063">
+<string-name>
+<surname>Parveen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Gafner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Techen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Murch</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>IA</given-names>
+</string-name>. <year>2016</year>
+<article-title>DNA barcoding for the identification of botanicals in herbal medicine and dietary supplements: Strengths and limitations</article-title>. <source>Planta Med</source>
+<volume>82</volume>: <fpage>1225</fpage>&#x02013;<lpage>1235</lpage>.<pub-id pub-id-type="pmid">27392246</pub-id></mixed-citation></ref><ref id="pca2732-bib-0063"><mixed-citation publication-type="journal" id="pca2732-cit-0064">
+<string-name>
+<surname>Patel</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Rajput</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>HA</given-names>
+</string-name>. <year>2010</year>
+<article-title>Introduction to hyphenated techniques and their applications in pharmacy</article-title>. <source>Pharm Methods</source>
+<volume>1</volume>: <fpage>2</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">23781411</pub-id></mixed-citation></ref><ref id="pca2732-bib-0064"><mixed-citation publication-type="journal" id="pca2732-cit-0065">
+<string-name>
+<surname>Pawar</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Handy</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shyong</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Grundel</surname>
+<given-names>E</given-names>
+</string-name>. <year>2017</year>
+<article-title>Assessment of the authenticity of herbal dietary supplements: Comparison of chemical and DNA barcoding methods</article-title>. <source>Planta Med</source>
+<volume>83</volume>: <fpage>921</fpage>&#x02013;<lpage>936</lpage>.<pub-id pub-id-type="pmid">28454189</pub-id></mixed-citation></ref><ref id="pca2732-bib-0065"><mixed-citation publication-type="journal" id="pca2732-cit-0066">
+<string-name>
+<surname>Raclariu</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Mocan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Popa</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Vlase</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ichim</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Crisan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brysting</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>H</given-names>
+</string-name>. <year>2017a</year>
+<article-title>
+<italic>Veronica officinalis</italic> product authentication using DNA metabarcoding and HPLC&#x02010;MS reveals widespread adulteration with <italic>Veronica chamaedrys</italic>
+</article-title>. <source>Front Pharmacol</source>
+<volume>8</volume>: <fpage>378</fpage>.<pub-id pub-id-type="pmid">28674497</pub-id></mixed-citation></ref><ref id="pca2732-bib-0066"><mixed-citation publication-type="journal" id="pca2732-cit-0067">
+<string-name>
+<surname>Raclariu</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Paltinean</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vlase</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Labarre</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Manzanilla</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ichim</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Crisan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brysting</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>De Boer</surname>
+<given-names>H</given-names>
+</string-name>. <year>2017b</year>
+<article-title>Comparative authentication of <italic>Hypericum perforatum</italic> herbal products using DNA metabarcoding, TLC and HPLC&#x02010;MS</article-title>. <source>Sci Rep</source>
+<volume>7</volume>: <fpage>1291</fpage>.<pub-id pub-id-type="pmid">28465563</pub-id></mixed-citation></ref><ref id="pca2732-bib-0067"><mixed-citation publication-type="journal" id="pca2732-cit-0068">
+<string-name>
+<surname>Saslis&#x02010;Lagoudakis</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Bruun&#x02010;Lund</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Iwanycki</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Seberg</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>J&#x000e4;ger</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f8;nsted</surname>
+<given-names>N</given-names>
+</string-name>. <year>2015</year>
+<article-title>Identification of common horsetail (<italic>Equisetum arvense</italic> L.; Equisetaceae) using thin layer chromatography versus DNA barcoding</article-title>. <source>Sci Rep</source>
+<volume>5</volume>: <fpage>11942</fpage>.<pub-id pub-id-type="pmid">26165523</pub-id></mixed-citation></ref><ref id="pca2732-bib-0068"><mixed-citation publication-type="journal" id="pca2732-cit-0069">
+<string-name>
+<surname>Seethapathy</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Ganesh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>JUS</given-names>
+</string-name>, <string-name>
+<surname>Senthilkumar</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Newmaster</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Ragupathy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shaanker</surname>
+<given-names>RU</given-names>
+</string-name>, <string-name>
+<surname>Ravikanth</surname>
+<given-names>G</given-names>
+</string-name>. <year>2014</year>
+<article-title>Assessing product adulteration in natural health products for laxative yielding plants, <italic>Cassia</italic>, <italic>Senna</italic>, and <italic>Chamaecrista</italic>, in southern India using DNA barcoding</article-title>. <source>Int J Legal Med</source>
+<volume>129</volume>: <fpage>693</fpage>&#x02013;<lpage>700</lpage>.<pub-id pub-id-type="pmid">25425095</pub-id></mixed-citation></ref><ref id="pca2732-bib-0069"><mixed-citation publication-type="journal" id="pca2732-cit-0070">
+<string-name>
+<surname>Sgamma</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lockie&#x02010;Williams</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kreuzer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Scheyhing</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Slater</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Howard</surname>
+<given-names>C</given-names>
+</string-name>. <year>2017</year>
+<article-title>DNA barcoding for industrial quality assurance</article-title>. <source>Planta Med</source>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1055/s-0043-113448">https://doi.org/10.1055/s&#x02010;0043&#x02010;113448</ext-link>.</mixed-citation></ref><ref id="pca2732-bib-0070"><mixed-citation publication-type="journal" id="pca2732-cit-0071">
+<string-name>
+<surname>Shetti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Sriwastava</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>IP</given-names>
+</string-name>. <year>2011</year>
+<article-title>Pharmacovigilance of herbal medicines: Current state and future directions</article-title>. <source>Pharmacogn Mag</source>
+<volume>7</volume>: <fpage>69</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">21472083</pub-id></mixed-citation></ref><ref id="pca2732-bib-0071"><mixed-citation publication-type="journal" id="pca2732-cit-0072">
+<string-name>
+<surname>Shewiyo</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Kaale</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Risha</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Dejaegher</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Smeyers&#x02010;Verbeke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Heyden</surname>
+<given-names>YV</given-names>
+</string-name>. <year>2012</year>
+<article-title>HPTLC methods to assay active ingredients in pharmaceutical formulations: A review of the method development and validation steps</article-title>. <source>J Pharm Biomed Anal</source>
+<volume>66</volume>: <fpage>11</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">22494517</pub-id></mixed-citation></ref><ref id="pca2732-bib-0072"><mixed-citation publication-type="journal" id="pca2732-cit-0073">
+<string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>. <year>2017</year>
+<article-title>Rapidly discriminate commercial medicinal <italic>Pulsatilla chinensis</italic> (Bge.) Regel from its adulterants using ITS2 barcoding and specific PCR&#x02010;RFLP assay</article-title>. <source>Sci Rep</source>
+<volume>7</volume> 40000.</mixed-citation></ref><ref id="pca2732-bib-0073"><mixed-citation publication-type="journal" id="pca2732-cit-0074">
+<string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>H&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>G&#x02010;R</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>
+<given-names>K&#x02010;C</given-names>
+</string-name>. <year>2000</year>
+<article-title>Analysis of synthetic drugs in Chinese medicine by high performance liquid chromatography/mass spectrometry with in&#x02010;source collision induced dissociation</article-title>. <source>J Chin Chem Soc</source>
+<volume>47</volume>: <fpage>475</fpage>&#x02013;<lpage>480</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0074"><mixed-citation publication-type="journal" id="pca2732-cit-0075">
+<string-name>
+<surname>Staats</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Arulandhu</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Gravendeel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Holst&#x02010;Jensen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scholtens</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Peelen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Prins</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Kok</surname>
+<given-names>E</given-names>
+</string-name>. <year>2016</year>
+<article-title>Advances in DNA metabarcoding for food and wildlife forensic species identification</article-title>. <source>Anal Bioanal Chem</source>: <fpage>1</fpage>&#x02013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">26493979</pub-id></mixed-citation></ref><ref id="pca2732-bib-0075"><mixed-citation publication-type="journal" id="pca2732-cit-0076">
+<string-name>
+<surname>Stoeckle</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Gamble</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Kirpekar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Little</surname>
+<given-names>DP</given-names>
+</string-name>. <year>2011</year>
+<article-title>Commercial teas highlight plant DNA barcode identification successes and obstacles</article-title>. <source>Sci Rep</source>
+<volume>1</volume>: <fpage>42</fpage>.<pub-id pub-id-type="pmid">22355561</pub-id></mixed-citation></ref><ref id="pca2732-bib-0076"><mixed-citation publication-type="journal" id="pca2732-cit-0077">
+<string-name>
+<surname>Taberlet</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Coissac</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pompanon</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Brochmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Willerslev</surname>
+<given-names>E</given-names>
+</string-name>. <year>2012</year>
+<article-title>Towards next&#x02010;generation biodiversity assessment using DNA metabarcoding</article-title>. <source>Mol Ecol</source>
+<volume>21</volume>: <fpage>2045</fpage>&#x02013;<lpage>2050</lpage>.<pub-id pub-id-type="pmid">22486824</pub-id></mixed-citation></ref><ref id="pca2732-bib-0077"><mixed-citation publication-type="journal" id="pca2732-cit-0078">
+<string-name>
+<surname>Techen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Parveen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>IA</given-names>
+</string-name>. <year>2014</year>
+<article-title>DNA barcoding of medicinal plant material for identification</article-title>. <source>Curr Opin Biotechnol</source>
+<volume>25</volume>: <fpage>103</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">24484887</pub-id></mixed-citation></ref><ref id="pca2732-bib-0078"><mixed-citation publication-type="journal" id="pca2732-cit-0079">
+<string-name>
+<surname>Valentini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pompanon</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Taberlet</surname>
+<given-names>P</given-names>
+</string-name>. <year>2009</year>
+<article-title>DNA barcoding for ecologists</article-title>. <source>Trends Ecol Evol</source>
+<volume>24</volume>: <fpage>110</fpage>&#x02013;<lpage>117</lpage>.<pub-id pub-id-type="pmid">19100655</pub-id></mixed-citation></ref><ref id="pca2732-bib-0079"><mixed-citation publication-type="journal" id="pca2732-cit-0080">
+<string-name>
+<surname>Vlietinck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pieters</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Apers</surname>
+<given-names>S</given-names>
+</string-name>. <year>2009</year>
+<article-title>Legal requirements for the quality of herbal substances and herbal preparations for the manufacturing of herbal medicinal products in the European Union</article-title>. <source>Planta Med</source>
+<volume>75</volume>: <fpage>683</fpage>&#x02013;<lpage>688</lpage>.<pub-id pub-id-type="pmid">19204891</pub-id></mixed-citation></ref><ref id="pca2732-bib-0080"><mixed-citation publication-type="journal" id="pca2732-cit-0081">
+<string-name>
+<surname>Walker</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Applequist</surname>
+<given-names>WL</given-names>
+</string-name>. <year>2012</year>
+<article-title>Adulteration of selected unprocessed botanicals in the U.S. retail herbal trade</article-title>. <source>Econ Bot</source>
+<volume>66</volume>: <fpage>321</fpage>&#x02013;<lpage>327</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0081"><mixed-citation publication-type="journal" id="pca2732-cit-0082">
+<string-name>
+<surname>Wallace</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Boilard</surname>
+<given-names>SMAL</given-names>
+</string-name>, <string-name>
+<surname>Eagle</surname>
+<given-names>SHC</given-names>
+</string-name>, <string-name>
+<surname>Spall</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Shokralla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hajibabaei</surname>
+<given-names>M</given-names>
+</string-name>. <year>2012</year>
+<article-title>DNA barcodes for everyday life: Routine authentication of natural health products</article-title>. <source>Food Res Int</source>
+<volume>49</volume>: <fpage>446</fpage>&#x02013;<lpage>452</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0082"><mixed-citation publication-type="book" id="pca2732-cit-0083">
+<string-name>
+<surname>Wenzig</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>
+<given-names>R</given-names>
+</string-name>. <year>2009</year>
+<chapter-title>Quality control of Chinese herbal drugs</chapter-title> In <source>Evolution of Herbal Medicinal Products</source>, <person-group person-group-type="editor"><name><surname>Houghton</surname><given-names>P</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Mukherjee</surname><given-names>PK</given-names></name></person-group> (eds.). <publisher-name>Pharmaceutical Press</publisher-name>: <publisher-loc>London</publisher-loc>; <fpage>393</fpage>&#x02013;<lpage>425</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0083"><mixed-citation publication-type="journal" id="pca2732-cit-0084">
+<string-name>
+<surname>Wong</surname>
+<given-names>EH&#x02010;K</given-names>
+</string-name>, <string-name>
+<surname>Hanner</surname>
+<given-names>RH</given-names>
+</string-name>. <year>2008</year>
+<article-title>DNA barcoding detects market substitution in North American seafood</article-title>. <source>Food Res Int</source>
+<volume>41</volume>: <fpage>828</fpage>&#x02013;<lpage>837</lpage>.</mixed-citation></ref><ref id="pca2732-bib-0084"><mixed-citation publication-type="miscellaneous" id="pca2732-cit-0085">
+<collab collab-type="authors">Word Health Organisation (WHO)</collab>
+. <year>2011</year>
+<article-title>Quality control methods for herbal materials</article-title>. <ext-link ext-link-type="uri" xlink:href="http://apps.who.int/medicinedocs/en/d/Jh1791e/">http://apps.who.int/medicinedocs/en/d/Jh1791e/</ext-link> [July 2017].</mixed-citation></ref><ref id="pca2732-bib-0085"><mixed-citation publication-type="journal" id="pca2732-cit-0086">
+<string-name>
+<surname>Wu</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Farrelly</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Upton</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>. <year>2007</year>
+<article-title>Complexities of the herbal nomenclature system in traditional Chinese medicine (TCM): Lessons learned from the misuse of <italic>Aristolochia</italic>&#x02010;related species and the importance of the pharmaceutical name during botanical drug product development</article-title>. <source>Phytomedicine</source>
+<volume>14</volume>: <fpage>273</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">16863692</pub-id></mixed-citation></ref><ref id="pca2732-bib-0086"><mixed-citation publication-type="journal" id="pca2732-cit-0087">
+<string-name>
+<surname>Yancy</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name>
+<surname>Zemlak</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Washington</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Tenge</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>N&#x02010;LT</given-names>
+</string-name>, <string-name>
+<surname>Barnett</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Savary</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Fry</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Randolph</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Hebert</surname>
+<given-names>PD</given-names>
+</string-name>. <year>2008</year>
+<article-title>Potential use of DNA barcodes in regulatory science: Applications of the regulatory fish encyclopedia</article-title>. <source>J Food Prot</source>
+<volume>71</volume>: <fpage>210</fpage>&#x02013;<lpage>217</lpage>.<pub-id pub-id-type="pmid">18236687</pub-id></mixed-citation></ref><ref id="pca2732-bib-0087"><mixed-citation publication-type="journal" id="pca2732-cit-0088">
+<string-name>
+<surname>Yee</surname>
+<given-names>S&#x02010;K</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>
+<given-names>S&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Choo</surname>
+<given-names>P&#x02010;L</given-names>
+</string-name>. <year>2005</year>
+<article-title>Regulatory control of Chinese proprietary medicines in Singapore</article-title>. <source>Health Policy</source>
+<volume>71</volume>: <fpage>133</fpage>&#x02013;<lpage>149</lpage>.<pub-id pub-id-type="pmid">15607377</pub-id></mixed-citation></ref><ref id="pca2732-bib-0088"><mixed-citation publication-type="journal" id="pca2732-cit-0089">
+<string-name>
+<surname>Zhang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>. <year>2017</year>
+<article-title>Recent developments and emerging trends of mass spectrometry for herbal ingredients analysis</article-title>. <source>TrAC Trends Anal Chem</source>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.trac.2017.07.007">https://doi.org/10.1016/j.trac.2017.07.007</ext-link>.</mixed-citation></ref><ref id="pca2732-bib-0089"><mixed-citation publication-type="journal" id="pca2732-cit-0090">
+<string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wider</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ernst</surname>
+<given-names>E</given-names>
+</string-name>. <year>2012</year>
+<article-title>Quality of herbal medicines: Challenges and solutions</article-title>. <source>Complement Ther Med</source>
+<volume>20</volume>: <fpage>100</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">22305255</pub-id></mixed-citation></ref><ref id="pca2732-bib-0090"><mixed-citation publication-type="journal" id="pca2732-cit-0091">
+<string-name>
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Yuen</surname>
+<given-names>JP&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>KS&#x02010;Y</given-names>
+</string-name>. <year>2006</year>
+<article-title>Authentication is fundamental for standardization of Chinese medicines</article-title>. <source>Planta Med</source>
+<volume>72</volume>: <fpage>865</fpage>&#x02013;<lpage>874</lpage>.<pub-id pub-id-type="pmid">16902852</pub-id></mixed-citation></ref></ref-list></back></article>

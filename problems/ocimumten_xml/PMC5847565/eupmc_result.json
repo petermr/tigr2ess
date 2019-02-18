@@ -1,0 +1,381 @@
+{
+  "id": [
+    "29531263"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29531263"
+  ],
+  "pmcid": [
+    "PMC5847565"
+  ],
+  "doi": [
+    "10.1038/s41598-018-22631-z"
+  ],
+  "title": [
+    "IMPPAT: A curated database of Indian Medicinal Plants, Phytochemistry And Therapeutics."
+  ],
+  "authorString": [
+    "Mohanraj K, Karthikeyan BS, Vivek-Ananth RP, Chand RPB, Aparna SR, Mangalapandi P, Samal A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mohanraj K"
+          ],
+          "firstName": [
+            "Karthikeyan"
+          ],
+          "lastName": [
+            "Mohanraj"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Karthikeyan BS"
+          ],
+          "firstName": [
+            "Bagavathy Shanmugam"
+          ],
+          "lastName": [
+            "Karthikeyan"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Vivek-Ananth RP"
+          ],
+          "firstName": [
+            "R P"
+          ],
+          "lastName": [
+            "Vivek-Ananth"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "affiliation": [
+            "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chand RPB"
+          ],
+          "firstName": [
+            "R P Bharath"
+          ],
+          "lastName": [
+            "Chand"
+          ],
+          "initials": [
+            "RPB"
+          ],
+          "affiliation": [
+            "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Aparna SR"
+          ],
+          "firstName": [
+            "S R"
+          ],
+          "lastName": [
+            "Aparna"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Stella Maris College, Chennai, 600086, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mangalapandi P"
+          ],
+          "firstName": [
+            "Pattulingam"
+          ],
+          "lastName": [
+            "Mangalapandi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Samal A"
+          ],
+          "firstName": [
+            "Areejit"
+          ],
+          "lastName": [
+            "Samal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6796-9604",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India. asamal@imsc.res.in."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6796-9604",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2656503"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "4329"
+  ],
+  "abstractText": [
+    "Phytochemicals of medicinal plants encompass a diverse chemical space for drug discovery. India is rich with a flora of indigenous medicinal plants that have been used for centuries in traditional Indian medicine to treat human maladies. A comprehensive online database on the phytochemistry of Indian medicinal plants will enable computational approaches towards natural product based drug discovery. In this direction, we present, IMPPAT, a manually curated database of 1742 Indian Medicinal Plants, 9596 Phytochemicals, And 1124 Therapeutic uses spanning 27074 plant-phytochemical associations and 11514 plant-therapeutic associations. Notably, the curation effort led to a non-redundant in silico library of 9596 phytochemicals with standard chemical identifiers and structure information. Using cheminformatic approaches, we have computed the physicochemical, ADMET (absorption, distribution, metabolism, excretion, toxicity) and drug-likeliness properties of the IMPPAT phytochemicals. We show that the stereochemical complexity and shape complexity of IMPPAT phytochemicals differ from libraries of commercial compounds or diversity-oriented synthesis compounds while being similar to other libraries of natural products. Within IMPPAT, we have filtered a subset of 960 potential druggable phytochemicals, of which majority have no significant similarity to existing FDA approved drugs, and thus, rendering them as good candidates for prospective drugs. IMPPAT database is openly accessible at: https://cb.imsc.res.in/imppat ."
+  ],
+  "affiliation": [
+    "The Institute of Mathematical Sciences (IMSc), Homi Bhabha National Institute (HBNI), Chennai, 600113, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5847565?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5847565"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-22631-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR15640"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-14"
+  ],
+  "dateOfRevision": [
+    "2018-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-12"
+  ],
+  "firstPublicationDate": [
+    "2018-03-12"
+  ]
+}
