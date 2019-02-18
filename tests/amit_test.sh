@@ -3,8 +3,8 @@
 HOME_DIR=$HOME
 #DICTIONARY_CREATION=$HOME_DIR/Desktop/Workshop/Github/testing/millets/dictionary_creation
 DICTIONARY_CREATION=$HOME_DIR/Desktop/Workshop/Github/testing/millets/dictionary_creation
-VERSION = ami20190216b
-DICTIONARY_DIR = $DICTIONARY_CREATION/$VERSION
+VERSION=ami20190217
+DICTIONARY_DIR=$DICTIONARY_CREATION/$VERSION
 #dictionary creation from terms
 echo "Dictionary creation from terms"
 
