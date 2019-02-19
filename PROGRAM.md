@@ -91,8 +91,8 @@ The terms will then link back to Wikidata and Wikipedia for interpretation.
  <tt>AMI</tt> can display the co-occurrence of termsfrom different dictionaries.
 
 ### dictionary editing *Ambarish*
-At this stage it should become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries shoudl reference Wikidata.
-Later delegates can create complete (small) dictionaries either by including items by hand, or using AMI to explode Wikipedia pages into dictionaries.
+At this stage it should become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries should reference Wikidata.
+Later delegates can create complete (small) dictionaries either by including items by hand, or using AMI to explore Wikipedia pages into dictionaries.
 
 ## Delegate research (Afternoon)
 In the latter part of the day we invite delegates to form small groups and tackle meaningful literature-based projects. These could be centred on other plant (or animal/microbial) species, geographical regions, genes, and even political entities. This may involve:
