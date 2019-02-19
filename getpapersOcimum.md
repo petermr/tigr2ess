@@ -1,16 +1,15 @@
 # getpapers 
 
-`getpapers` (written by Rik Smith-Unna, supported by ContentMine with Shuttleworth Funding) is a simple, powerful tool for querying repositories of scholarly articles using a simple one-line command.
+`getpapers` is a simple, powerful tool for querying repositories of scholarly articles using a simple one-line command.
 
-Full instructions for installation and use are given at [getpapers repository](http://github.com/contentmine/getpapers). Please download and 
-install.
+Full instructions for installation and use are given at [getpapers repository](http://github.com/contentmine/getpapers). Please download and install.
 
 This document is specially for the day of the workshop.
 
 ## first step
 By default `getpapers` uses the [EuropePMC](http://www.europepmc.org) API. It's worth testing this online.
 
-Ambarish Kumar is interested in the plant Ocimum Sanctum ("Holy Basil") and its terpinome so we'll use that - it's a useful size of problem with lots of interest. Try it on the EPMC site as well.
+We will use Ocimum Sanctum ("Holy Basil") as a test dataset. It's a useful size of problem with lots of interest. Try it on the EPMC site as well.
 
 If you've installed `getpapers`, make a directory for the results (we'll call it `tigr2ess` here). Then:
 ```
