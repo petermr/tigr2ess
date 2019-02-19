@@ -15,6 +15,17 @@ This is a template for tutorials (There will normally be one per directory, but 
 ## step 1
 ### command to issue
 
+---
+*Action:* Enter `Holy basil` into the window
+---
+---
+
+OR
+
+<blockquote>
+  *Action:* Enter `Holy basil` into the window
+</blockquote>
+  
 precise command that can be cut and pasted.
 
 ### what you should see
