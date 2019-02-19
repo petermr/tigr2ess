@@ -22,8 +22,10 @@ precise command that can be cut and pasted.
 1 sentence and optionally
 link to results
 
-### outputs
+* edited/clipped output <= 8 lines
 * *time taken*
+
+### outputs
 * size of output
 * location of outputs
 
