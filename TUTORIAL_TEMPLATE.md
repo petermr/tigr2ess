@@ -23,10 +23,32 @@ precise command that can be cut and pasted.
 link to results
 
 * edited/clipped output <= 8 lines
-* *time taken*
+* *time taken if important*
+* *screenshots* keep visually small and/link to PNG.
+
 
 ### outputs
 * size of output
 * location of outputs
 
 
+## step 2
+### command to issue
+
+precise command that can be cut and pasted.
+
+### what you should see
+
+1 sentence and optionally
+link to results
+
+* edited/clipped output <= 8 lines
+* *time taken if important*
+* *screenshots* keep visually small and/link to PNG.
+
+
+### outputs
+* size of output
+* location of outputs
+
+## step 3
