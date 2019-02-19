@@ -21,7 +21,7 @@ semantic fulltext but the development of preprints and Open Access should impriv
 
 ### goals
 Delegates will learn how to:
- * [search EPMC for plant science articles] (epmcSearch.md) 
+ * [search EPMC for plant science articles](epmcSearch.md) 
  * [download and organize them](getpapers.md) in Content Mine projects (CProjects)
  * understand the power of [Wikipedia and Wikidata](wikimedia/overview.md) for plant sciences and run searches.
  * [create small dictionaries](dictionaries/overview.md) of relevance to TIGR2ESS. 
