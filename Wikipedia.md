@@ -43,7 +43,8 @@ Three goals of plant taxonomy are the identification, classification and descrip
 * Genus: Pine, Wattles, Milkvetch, Dandelion, etc.
 * Species: Common water Hyacinth, Yellow star-thistle, Purple loosestrife, Kudzu, etc.
 * Variety: ......
-* The classification of plants results in an organized system for the naming and cataloging of future specimens, and ideally reflects scientific ideas about inter-relationships between plants. The set of rules and recommendations for formal botanical nomenclature, including plants, is governed by the International Code of Nomenclature for algae, fungi, and plants abbreviated as ICN.
+
+The classification of plants results in an organized system for the naming and cataloging of future specimens, and ideally reflects scientific ideas about inter-relationships between plants. The set of rules and recommendations for formal botanical nomenclature, including plants, is governed by the International Code of Nomenclature for algae, fungi, and plants abbreviated as ICN.
 
 3.Plant description is a formal description of a newly discovered species, usually in the form of a scientific paper using ICN guidelines. The names of these plants are then registered on the International Plant Names Index along with all other validly published names.
 
