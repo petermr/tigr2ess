@@ -1,5 +1,7 @@
 # OVERVIEW file in each directory
 
+This file should be the basis of OVERVIEW.md in each directory.
+
 ## purpose of directory 
 1-sentence
 
