@@ -4,12 +4,12 @@
 ## program
 
 * Agenda_roles_and_responsibilities_schedule
-* Agenda_roles_and_responsibilities_schedule.txt
-* PROGRAM.md
-* README.md
-* ami.md
-* gettingStarted.md
-* resources.md
+* [Agenda_roles_and_responsibilities_schedule.txt] (Agenda_roles_and_responsibilities_schedule.txt)
+* [PROGRAM](PROGRAM.md)
+* [README.md](README.md)
+* [ami.md](ami.md)
+* [gettingStarted.md](gettingStarted.md)
+* [resources.md](resources.md)
 * [program](program/overview.md)
 
 ### pre-workshop
