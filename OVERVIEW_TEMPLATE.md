@@ -13,6 +13,12 @@ This file should be the basis of OVERVIEW.md in each directory.
 * [Description of file](filename1) Optional info (only 1 sentence)
 * [Description of file](filename2)  Optional info (only 1 sentence)
 
+In some cases there may need to be subdirectories/
+
+## assets
+All PNGs should be in an `assets/` subdirectory.
+
+
 
 
 
