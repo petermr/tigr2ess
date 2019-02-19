@@ -21,11 +21,11 @@ semantic fulltext but the development of preprints and Open Access should impriv
 
 ### goals
 Delegates will learn how to:
- * search EPMC for plant science articles
- * download and organize them in Content Mine projects (CProjects)
- * understand the power of Wikidata for plant sciences and run searches.
- * create small dictionaries of relevance to TIGR2ESS. 
- * use dictionaries to search downloaded data for terms (entities) of special interest (typically genes, plant species, plant parts, phytochemicals, human diseases,
+ * [search EPMC for plant science articles] (epmcSearch.md) 
+ * [download and organize them](getpapers.md) in Content Mine projects (CProjects)
+ * understand the power of [Wikipedia and Wikidata](wikimedia/overview.md) for plant sciences and run searches.
+ * [create small dictionaries](dictionaries/overview.md) of relevance to TIGR2ESS. 
+ * [use dictionaries to search downloaded data](search/overview.md) for terms (entities) of special interest (typically genes, plant species, plant parts, phytochemicals, human diseases,
    countries, funding agencies).
  * analyze the frequency of entities (showing what the "literature" is most interested in).
  * plot the co-occurrence of terms (e.g. plants associated with disease).
