@@ -22,3 +22,9 @@ precise command that can be cut and pasted.
 1 sentence and optionally
 link to results
 
+### outputs
+* *time taken*
+* size of output
+* location of outputs
+
+
