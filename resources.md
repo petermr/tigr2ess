@@ -1,0 +1,26 @@
+total 96
+-rw-r--r--@   1 pm286  staff   3189  7 Feb 08:34 Agenda_roles_and_responsibilities_schedule
+-rw-r--r--@   1 pm286  staff   3176  8 Feb 15:58 Agenda_roles_and_responsibilities_schedule.txt
+-rw-r--r--@   1 pm286  staff   6415  9 Feb 12:51 PROGRAM.md
+-rw-r--r--    1 pm286  staff    536 13 Feb 08:26 README.md
+-rw-r--r--    1 pm286  staff   8185  7 Feb 08:34 ami.md
+drwxr-xr-x    6 pm286  staff    192  9 Feb 10:05 crops
+drwxr-xr-x   21 pm286  staff    672 16 Feb 23:13 dictionaries
+drwxr-xr-x   27 pm286  staff    864 14 Feb 14:00 epmcSearches
+-rw-r--r--    1 pm286  staff  12247  7 Feb 08:34 getpapers.md
+-rw-r--r--    1 pm286  staff    471  7 Feb 08:34 gettingStarted.md
+drwxr-xr-x    6 pm286  staff    192 18 Feb 16:20 installation
+-rw-r--r--    1 pm286  staff   1562 14 Feb 08:37 materials.md
+drwxr-xr-x    3 pm286  staff     96 13 Feb 08:25 misc
+drwxr-xr-x    6 pm286  staff    192 11 Feb 22:37 mydictionaries
+drwxr-xr-x  124 pm286  staff   3968 18 Feb 13:19 osanctum
+drwxr-xr-x  217 pm286  staff   6944 18 Feb 15:13 osanctum200
+drwxr-xr-x    4 pm286  staff    128 18 Feb 11:06 problems
+drwxr-xr-x   12 pm286  staff    384 11 Feb 11:23 program
+-rw-r--r--    1 pm286  staff      0 19 Feb 09:40 resources.md
+drwxr-xr-x    3 pm286  staff     96 15 Feb 10:28 results
+drwxr-xr-x    9 pm286  staff    288 18 Feb 20:10 scratch
+drwxr-xr-x   11 pm286  staff    352 19 Feb 09:39 search
+drwxr-xr-x    4 pm286  staff    128 18 Feb 14:24 target
+drwxr-xr-x    3 pm286  staff     96 18 Feb 10:19 tests
+drwxr-xr-x   33 pm286  staff   1056 14 Feb 16:18 wikimedia
