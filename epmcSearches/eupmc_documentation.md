@@ -5,7 +5,7 @@
 * Open [Query window](http://europepmc.org)
 * search for "Holy basil". 
 ---
-<div style="background-color: #FFFF00; border:solid 1px;">Enter `Holy basil` into the window</div>.
+Enter `Holy basil` into the window
 ---
 
 *We always give the query in either single-quotes(') or in double-quotes(") because in quotes it takes as a compelet query otherwise eupmc search it for words only* 
