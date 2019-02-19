@@ -67,7 +67,7 @@ Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpape
 ### Classifications and searches (AMI-Search) *Amit* 
  Open resources (MESH/Medline, Taxdump, etc. etc.) . Many of these are being subsumed into Wikidata.
  
-### Wikipedia (online) *Ambarish*
+### [`Wikipedia](https://github.com/petermr/tigr2ess/blob/master/Wikipedia.md) (online) *Ambarish*
  What WP is, how it is updated and checked. Overview of plant taxonomy in WP. Special pages (Category: foo, List_of_foo). 
 
 ### wikidata (online) *Vinita*
