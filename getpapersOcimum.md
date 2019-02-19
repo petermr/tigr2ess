@@ -50,7 +50,7 @@ We'll be using the most of the options, especially `-q`,`-x`,`-k` and `-o`.
 
 There are over 2 million articles in EPMC; we don't want to download all by mistake so it's worth running a query with `-n` to test, and pass-on the value of option `- k` as per your interest. Let's say `-k 10` to download the first trial set. You *can* download thousands, but the connection may break and it's worth being able to develop the analysis anyway.
 
-#### At the point of ongoing the workshop and downloading the articles, if you have limited access of internet and have to get the `getpaper` work done, go for the option `-k 10` and `-x`. It will limit the count of articles being downloaded to 10 and articles will be downloaded into light-weight `xml` fileformat. It will help you out in case of limited internet access, reduced query processing time  and memory storage. 
+#### At the point of ongoing the workshop and downloading the articles, if you have limited access of internet and have to get the `getpapers` work done, go for the option `-k 10` and `-x`. It will limit the count of articles being downloaded to 10 and articles will be downloaded into light-weight `xml` fileformat. It will help you out in case of limited internet access, reduced query processing time  and memory storage. 
 
 #### Run following `getpaper` command with specified search query (this would only be for the day of the workshop). This will be a way out in case of limited band-width.  
 
