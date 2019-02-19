@@ -12,11 +12,16 @@
 * [resources.md](resources.md)
 * [program](program/overview.md)
 
+### syntax
+Every directory should have an [OVERVIEW](OVERVIEW_TEMPLATE.md) file
+
 ### pre-workshop
 * [installation](installation/overview.md) Installation (Pre or M)
 
 ### morning
-* [dictionaries](dictionaries/overview.md) Creating dictionaries from Wikipedia (M)
+
+
+* [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
 * [epmcSearches](epmcSearches/overview.md) Searching EuropePMC (M)
 * [getpapers.md](getpapers.md/overview.md) Downloading papers (M)
 * [wikimedia](wikimedia/overview.md)
