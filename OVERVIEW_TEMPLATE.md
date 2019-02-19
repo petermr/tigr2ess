@@ -6,7 +6,7 @@ This file should be the basis of OVERVIEW.md in each directory.
 1-sentence
 
 ## tutorial material
-[TUTORIAL](TUTORIAL.md)
+[TUTORIAL_TEMPLATE](TUTORIAL_TEMPLATE.md)
 
 ## files in directory
 
