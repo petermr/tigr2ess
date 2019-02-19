@@ -56,24 +56,24 @@ This lists the formal exercises that we will carry out in the first half of the 
 ## program flow
 (Each of these will have a separate full page)
 
-### EuropePMC (online) Vinita
+### EuropePMC (online) *Vinita*
  Use the EuropePMC.org interface to explore how queries work. Understand false positives. Development of complex queries (AND, OR) and the likely pitfalls. 
 [details](program/epmc.md)
 
-### getpapers (online) Ambarish
+### getpapers (online) *Ambarish*
   *Note. Bandwidth may need to be managed.* 
 Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers</tt> initially in XML. Extend query to "ocimum AND country" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
  
-### Classifications and searches (AMI-Search) Amit 
+### Classifications and searches (AMI-Search) *Amit* 
  Open resources (MESH/Medline, Taxdump, etc. etc.) . Many of these are being subsumed into Wikidata.
  
-### Wikipedia (online) Ambarish
+### Wikipedia (online) *Ambarish*
  What WP is, how it is updated and checked. Overview of plant taxonomy in WP. Special pages (Category: foo, List_of_foo). 
 
-### wikidata (online) Vinita
+### wikidata (online) *Vinita*
  Exploration and discussion of Items (Q) and Properties (P) relating to *O. sanctum* .
 
-### wikifactmine,(online) Vinita
+### wikifactmine,(online) *Vinita*
  https://www.wikidata.org/wiki/Wikidata:WikiFactMine . A large set of dictionaries developed by ContentMine generally from SPARQL queries. 
  Creation of a Wikifactmine dictionary for "crops". 
 
@@ -87,10 +87,10 @@ Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpape
  <tt>AMI</tt> will be used to search the local HTML papers using *dictionaries*. Initially these will be bundled with the system. Results added to <tt>dataTables</tt>.
 The terms will then link back to Wikidata and Wikipedia for interpretation.
 
-### co-occurence
+### co-occurence AMI-Search
  <tt>AMI</tt> can display the co-occurrence of termsfrom different dictionaries.
 
-### dictionary editing Ambarish
+### dictionary editing *Ambarish*
 At this stage it should become clear what the value of dictionaries are. Delegates will be invited to edit JSON dictionaries, initially by adding extra entries. Ideally all entries shoudl reference Wikidata.
 Later delegates can create complete (small) dictionaries either by including items by hand, or using AMI to explode Wikipedia pages into dictionaries.
 
@@ -100,6 +100,17 @@ In the latter part of the day we invite delegates to form small groups and tackl
  * downloading more articles 
  
  There is also the opportunity to use other downstream analysis programs, e.g. R. The <tt>AMI</tt> output is text files on the file system - there are no databases required. Instead there is a schema of file hierarchy and sematics. Therefore any delegates who are fluent in R, Python, shell, etc. can use these files directly.
+
+## crop resources
+
+### Millet *Amit*
+[Overview](millet/overview.md) 
+
+### Rice *Ambarish*
+[Overview](rice/overview.md) 
+
+### Wheat *Vinita*
+[Overview](wheat/overview.md) 
 
  
  
