@@ -44,6 +44,11 @@ This should output a help similar to
 ```
 We'll be using the most of the options, especially `-q`,`-x`,`-k` and `-o`.
 
+* `-q` - option for the search query.
+* `-x` - option to download xml file fomatted articles.
+* `-k` - option to set the count of downloadable articles.
+* `-o` - option to set output directory name.
+
 There are over 2 million articles in EPMC; we don't want to download all by mistake so it's worth running a query with `-n` to test, and pass-on the value of option `- k` as per your interest. Let's say `-k 10` to download the first trial set. You *can* download thousands, but the connection may break and it's worth being able to develop the analysis anyway.
 
 #### At the point of ongoing the workshop and downloading the articles, if you have limited access of internet and have to get the `getpaper` work done, go for the option `-k 10` and `-x`. It will limit the count of articles being downloaded to 10 and articles will be downloaded into light-weight `xml` fileformat. It will help you out in case of limited internet access, reduced query processing time  and memory storage. 
@@ -62,34 +67,41 @@ getpapers -q "ocimum AND country" -x -k 10 -o Ocimum/
 
 ```
 ## CProject and CTrees
-`osanctum` is a normal directory and it contains 100 normal subdirectories (`PMC*`). ContentMine tools universally use this structure where `ocimum` is the `CProject` (directory) and `PMC*` are the `CTree`s (directories). You can treat these as normal files but if you move them or rename them you might break `AMI` so use our tools. (There are also 2 log files which we shan't us at present).
+`Ocimum` is a normal directory and it contains 10 normal subdirectories (`PMC*`). ContentMine tools universally use this structure where `Ocimum` is the `CProject` (directory) and `PMC*` are the `CTree`s (directories). You can treat these as normal files but if you move them or rename them you might break `AMI` so use our tools. (There are also 2 log files which we shan't us at present).
 
 The `CTree` have the following structure:
 ```
 tree
 .
 ├── PMC1397864
-│   ├── eupmc_result.json
-│   └── fulltext.xml
+│   ├── fulltext.xml
 ├── PMC2249741
-│   ├── eupmc_result.json
-│   └── fulltext.xml
+│   ├── fulltext.xml
 ├── PMC2803133
-│   ├── eupmc_result.json
-│   └── fulltext.xml
-... (these dots mean material has been snipped for easier reading)
+│   ├── fulltext.xml
 ├── PMC6289780
-│   ├── eupmc_result.json
-│   └── fulltext.xml
+│   ├── fulltext.xml
 ├── PMC6313609
-│   ├── eupmc_result.json
-│   └── fulltext.xml
+│   ├── fulltext.xml
+
 ```
 Note how every `CTree` has an XML file, conventionally called `fulltext.xml`. XML files contain all the text, but also "markup", so they are easy for machines to understand. `AMI` relies on XML for further processing. Note: if you like this simple display, install the `tree` program on `Unix` or `Mac`.
 
 This is sufficient for an initial analysis
 
 You may try for advanced and boolean queries as well as increased number of count of articles and option for pdf download you may refer to the [`getpapers`](https://github.com/petermr/tigr2ess/blob/master/getpapers/getpapers.md) document. 
+
+## XML
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+Elements 
+
+### sreenshot
+![`XML file format`]()
+
+## XML and PDF
+
+
+
 
 ## problems
 If you have problems **during the TIGR2ESS workshop program only** please raise a Github issue here. Otherwise raise it on the `getpapers` site.
