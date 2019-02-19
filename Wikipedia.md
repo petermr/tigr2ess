@@ -50,3 +50,10 @@ The classification of plants results in an organized system for the naming and c
 
 
 ## Special pages (Category:foo, List_of_foo)
+
+#### Category:contents
+This is a list of Wikipedia's major topic classifications. They are used throughout Wikipedia to organize the presentation of links to articles in its various reference systems, including Wikipedia's overviews, outlines, glossaries, lists, portals, indices, and categories.
+
+#### List:contents
+
+
