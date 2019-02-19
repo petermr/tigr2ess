@@ -6,33 +6,33 @@
 *1.When we type "holy basil" into eupmc search we get the result as shown below :271 results shown here*
 
 
-  ![holy_basil](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/holy_basil.png)
+  ![holy_basil](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil.png)
   
   *2.After typing "O.sanctum" we get :295 results as showed below*
   
   
-  ![O.sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/o_scanctum.png)
+  ![O.sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/o_scanctum.png)
   
   *3.Using "Ocimum sanctum" as a query we get :976 results below*
   
   
-  ![Ocimum_sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/ocimum_sanctum.png)
+  ![Ocimum_sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/ocimum_sanctum.png)
   
   *4.If we give only "Ocimum" as a query it searches for only ocimum in articles and gives the:3650 results* 
   
   
-  ![ocimum in too general ](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/ocimum_too_general.png)
+  ![ocimum in too general ](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/ocimum_too_general.png)
   
   
   **Using Advanced search we can remove false-positive i.e we can eliminate the False information from search which we Don't want to be in our search.**
   
   *5.Example to remove false-positive,type "tulsi" in your search box of eupmc and get:835 results*
   
-  ![tulsi](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/tulsi_fp.png)
+  ![tulsi](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/tulsi_fp.png)
   
   **After using Advanced search**
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/auth_fp.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/auth_fp.png)
   
   
   **we get**
