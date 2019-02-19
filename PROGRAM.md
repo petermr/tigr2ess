@@ -62,7 +62,7 @@ This lists the formal exercises that we will carry out in the first half of the 
 
 ### getpapers (online)
   *Note. Bandwidth may need to be managed.* 
-Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers<tt> initially in XML. Extend query to "ocimum AND country" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
+Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers</tt> initially in XML. Extend query to "ocimum AND country" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
  
 ### Classifications and searches
  Open resources (MESH/Medline, Taxdump, etc. etc.) . Many of these are being subsumed into Wikidata.
