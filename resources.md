@@ -4,7 +4,7 @@
 ## program
 
 * Agenda_roles_and_responsibilities_schedule
-* [Agenda_roles_and_responsibilities_schedule.txt] (Agenda_roles_and_responsibilities_schedule.txt)
+* [Agenda_roles_and_responsibilities_schedule.txt](Agenda_roles_and_responsibilities_schedule.txt)
 * [PROGRAM](PROGRAM.md)
 * [README.md](README.md)
 * [ami.md](ami.md)
