@@ -1,4 +1,9 @@
-# Retrieving Queries using `eupmc`
+# EuropPMC online query system
+
+## EPMC query window
+
+* Open [Query window](http://europepmc.org)
+* search for "Holy basil". Enter `Holy basil` into the window.
 
 *We always give the query in either single-quotes(') or in double-quotes(") because in quotes it takes as a compelet query otherwise eupmc search it for words only* 
 **For example if we type holy basil, then it  search for holy and basil for two different words omly not as a query**
