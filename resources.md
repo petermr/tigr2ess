@@ -1,11 +1,12 @@
+# Resources
 
-Agenda_roles_and_responsibilities_schedule
-Agenda_roles_and_responsibilities_schedule.txt
-PROGRAM.md
-README.md
-ami.md
-gettingStarted.md
-resources.md
+* Agenda_roles_and_responsibilities_schedule
+* Agenda_roles_and_responsibilities_schedule.txt
+* PROGRAM.md
+* README.md
+* ami.md
+* gettingStarted.md
+* resources.md
 
 ## directories
 
