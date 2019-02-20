@@ -8,7 +8,7 @@ Wikimedia launched `Wikidata` (https://en.wikipedia.org/wiki/wikidata) to suppor
 
 Wikidata defines **Items**. An item is any object which can be precisely identified and given a permanent unique identifier. Thus *Ocimum tenuiflorum* has the unique ID Q960124. Every Wikidata `item` (over 50 million) has a Wikidata page, e.g.
 https://www.wikidata.org/wiki/Q960124. Note that unlike Wikipedia pages , Wikidata pages are **language-independent**. The page is large; here's the start
-![](wd_otenuiflorum.png)
+![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wd_otenuiflorum.png)
 
 ## wikidata page
 
@@ -59,7 +59,7 @@ Properties are generally of two types:
  
 ## alternate wikidata pages and synonyms
 Synonyms are inescapable in plant science! Wikipedia collects synonyms and provides a single page. Thus searching Wikipedia for "Ocimum sanctum" redirects to https://en.wikipedia.org/Ocimum_tenuiflorum. However Wikidata has a separate page for many synonyms, so "Ocimum sanctum" https://www.wikidata.org/wiki/Q24852786 has:
-![](wd_osanctum.png)
+![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wd_osanctum.png)
 Now! Shouldn't this page say it is a synonym of *O. tenuiflorum*? Yes! and that highlights an important part od Wikidata - it relies on US to keep it up to date. Note that many of its IDs point to *O. tenuiflorum* pages.
 
 ## Identifiers
@@ -77,7 +77,7 @@ Wikidata has collected a huge number of identifier systems; at least 25 for plan
 
 ## Other wikipediaa and commons
 **This is the best place to find non-Englilsh Wikipedias** 
-![](wd_otherwp.png)
+![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wd_otherwp.png)
 
 
 
