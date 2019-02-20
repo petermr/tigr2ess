@@ -86,6 +86,8 @@
   
   `Using ADVANCE SEARCH BOX FOR Synonym Query we get different results`
   
+  
+  
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_synanoums_advance_search.png)
   
   
