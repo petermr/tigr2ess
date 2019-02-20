@@ -24,9 +24,9 @@
    
 **For example if we type holy basil, then it  search for holy and basil for two different words only `not as a query`**
 
-
+# Step 1.
    
-    # Type  `Holy basil` into EPMC Search box and get following results.
+    Type  `holy basil` into EPMC Search box and get following results.
 
 
   ![holy_basil1](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil1.png)
