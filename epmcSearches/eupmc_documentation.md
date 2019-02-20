@@ -94,7 +94,7 @@
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_synanoums_advance_search.png)
   
   
- # Suppose we want something only in Body Not in the Title then type your query in Advance search as following in Bibliographic Fields
+ # Suppose we want something only in Body Not in the Title then type your query in Advance search as following in Bibliographic Fields.
   
   
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/wheat_body.png)
