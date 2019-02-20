@@ -15,7 +15,9 @@
 **2.Number of Dictionaries  and way for choose them is simply click on `try it` link **
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/select_Dict_106.png)
+# ![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/select_Dict_106.png)
+
+![](Assest/select_Dict_106.png)
 
 
 
