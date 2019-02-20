@@ -21,7 +21,10 @@
 ---
 
    *We always give the query in either single-quotes(') or in double-quotes(") because in quotes it takes as a compelet query otherwise     `EPMC` search it for words only* 
-   # if we type `holy basil`, then it  search for holy and basil for two different words only `not as a query`.
+   
+   if we type `holy basil`, then it  search for holy and basil for two different words only `not as a query`.
+   
+   
 
 # Step 1.
    
