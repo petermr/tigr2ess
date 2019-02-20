@@ -1,4 +1,7 @@
-# EuropPMC online query system
+# What is Europe PMC?
+*Europe PMC is a repository, providing access to worldwide life sciences articles, books, patents and clinical guidelines. Europe PMC provides links to `relevant records` in databases such as Uniprot, European Nucleotide Archive (ENA), Protein Data Bank Europe (PDBE) and BioStudies.*
+
+By default, the Europe PMC RESTful(one of the `API`of epmc searches)  search results are sorted by relevance, with the most relevant result being presented first in the list.
 
 ## EPMC query window
 
@@ -10,7 +13,7 @@
 ---
 
 *We always give the query in either single-quotes(') or in double-quotes(") because in quotes it takes as a compelet query otherwise eupmc search it for words only* 
-**For example if we type holy basil, then it  search for holy and basil for two different words omly not as a query**
+**For example if we type holy basil, then it  search for holy and basil for two different words only not as a query**
 
 *1.When we type "holy basil" into eupmc search we get the result as shown below :271 results shown here*
 
