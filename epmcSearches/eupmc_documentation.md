@@ -25,17 +25,16 @@
 **For example if we type holy basil, then it  search for holy and basil for two different words only `not as a query`**
 
 
-# Step 1.
    
-    **Type  `Holy basil` into EPMC Search box and get following results:**
+    # Type  `Holy basil` into EPMC Search box and get following results.
 
 
   ![holy_basil1](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil1.png)
   
-  # Step 2.
+ 
   
   
-    **Using `"Holy basil"` we get following results:**
+    **using `"Holy basil"` we get following results**
   
   ![holy_basil2](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil2.png)
   
@@ -96,7 +95,7 @@
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_synanoums_advance_search.png)
   
   
-  **Suppose we want something only in Body Not in the Title then type your query in Advance search as following in Bibliographic Fields**
+ # Suppose we want something only in Body Not in the Title then type your query in Advance search as following in Bibliographic Fields
   
   
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/wheat_body.png)
