@@ -31,7 +31,7 @@
     Type  `holy basil` into EPMC Search box and get following results.
 
 
-  ![holy_basil1](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil1.png)
+  ![holy_basil1](assets/holy_basil1.png)
   
  
   
@@ -42,7 +42,7 @@
     
     
   
-  ![holy_basil2](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil2.png)
+  ![holy_basil2](assets/holy_basil2.png)
   
   
   
@@ -53,17 +53,17 @@
   
   
   
-  ![O.sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/O_sanctum.png)
+  ![O.sanctum](assets/O_sanctum.png)
   
   **Using "Ocimum sanctum" as a query we get :976 results below**
   
   
-  ![Ocimum_sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/ocimum_sanctum.png)
+  ![Ocimum_sanctum](assets/ocimum_sanctum.png)
   
   **Type  "Ocimum" as a query it searches for only ocimum in articles and gives the:3650 results**
   
   
-  ![ocimum in too general ](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/ocimum_too_general.png)
+  ![ocimum in too general ](assets/ocimum_too_general.png)
   
   
   **Using Advanced search we can remove false-positive i.e we can eliminate the False information from search which we Don't want to be in our search.**
@@ -71,7 +71,7 @@
   **Example to remove false-positive,type `"tulsi"` in your search box of eupmc and get:835 results**
   
   
-  ![tulsi](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/tulsi_fp.png)
+  ![tulsi](assets/tulsi_fp.png)
   
   
   
@@ -80,7 +80,7 @@
   
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/title_tulsi_advance_box.png)
+  ![](assets/title_tulsi_advance_box.png)
   
   
  
@@ -88,7 +88,7 @@
   
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/TITLE_tulsi.png)
+  ![](assets/TITLE_tulsi.png)
   
   
   
@@ -102,18 +102,18 @@
   
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/Authors%20from%20nipgr%20OR%20cambridge.png)
+  ![](assets/Authors%20from%20nipgr%20OR%20cambridge.png)
   
   
   **After clicking on   `Open Access Button` on right-hand corner of  Content-Types to see all Downloadable papers from EPMC.**
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/Open%20Access%20button%20to%20restrict%20to%20retrievable%20fulltext.png)
+  ![](assets/Open%20Access%20button%20to%20restrict%20to%20retrievable%20fulltext.png)
   
   **Search using Different Synonyms, Type `(ocimum) OR (o.sanctum) OR (Tulsi)` in the `search box` we get the following results.**
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_syn_in_search_box.png)
+  ![](assets/different_syn_in_search_box.png)
   
   
   
@@ -123,13 +123,13 @@
   
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_synanoums_advance_search.png)
+  ![](assets/different_synanoums_advance_search.png)
   
   
  # Suppose we want something only in Body Not in the Title then type your query in Advance search as following in Bibliographic Fields.
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/wheat_body.png)
+  ![](assets/wheat_body.png)
   
   
   
