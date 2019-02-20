@@ -4,18 +4,31 @@ This is a template for tutorials (There will normally be one per directory, but 
 
 ## Purpose of Tutorial
 
-1 sentence.
+Creation of local rice dictionary using wikipedia page. 
 
 ## Resources and software required
 
-1 sentence.
+ami-dictionary - 
+
+Wikipedia page links - 
+
+[`../wiki/Rice`](https://en.wikipedia.org/wiki/Rice)
+[`../wiki/Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
+[`../wiki/List_of_rice_varieties`](https://en.wikipedia.org/wiki/List_of_rice_varieties)
+[`../wiki/Category:Rice_varieties'](https://en.wikipedia.org/wiki/Category:Rice_varieties)
+
 
 ## Instructions
 
 ## step 1
 ### command to issue
 
-precise command that can be cut and pasted.
+```
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary  Rice_varieties_category --outformats xml,json,html
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
+> ami-dictionary create --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html
+```
 
 ---
 *Action:* Enter `Holy basil` into the window
@@ -35,7 +48,7 @@ link to results
 
 - JSON fo edited/clipped output <= 8 lines
 ```
- {
+     {
       "identifiers": {
         "contentmine": "CM.9febrice.5"
       },
@@ -68,9 +81,5 @@ link to results
 ## step 2
 ###
 ```
-> ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
-> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary Rice_varieties_category --outformats xml,json,html
-> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
-> ami-dictionary create --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html
 
 ## step 3
