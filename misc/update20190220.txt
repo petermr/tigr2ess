@@ -1,0 +1,138 @@
+MacBook-Pro-3:tigr2ess pm286$ git pull
+remote: Enumerating objects: 134, done.
+remote: Counting objects: 100% (134/134), done.
+remote: Compressing objects: 100% (99/99), done.
+remote: Total 193 (delta 94), reused 35 (delta 35), pack-reused 59
+Receiving objects: 100% (193/193), 1.81 MiB | 1.43 MiB/s, done.
+Resolving deltas: 100% (115/115), completed with 4 local objects.
+From https://github.com/petermr/tigr2ess
+   73e5e98..dfde6cc  master     -> origin/master
+Updating 73e5e98..dfde6cc
+Fast-forward
+ OVERVIEW_TEMPLATE.md                                                           |   2 +-
+ crops/rice/Overview.md                                                         |  30 ++++++++++++++++++++++
+ crops/rice/{CreatingRiceDictionaries.md => creatingriceDictionaries.md}        |   0
+ crops/rice/{GetpapersSearchQueryRice.md => getpapersSearchQueryRice.md}        |   0
+ crops/rice/{List_Rice_Varieties.xml => listriceVarieties.xml}                  |   0
+ crops/rice/{Oryza_Category.xml => oryzaCategory.xml}                           |   0
+ crops/rice/{Rice_Varieties_Category.xml => riceVarietiesCategory.xml}          |   0
+ epmcSearches/assets/Authors from nipgr OR cambridge.png                        | Bin 0 -> 161791 bytes
+ epmcSearches/assets/O_sanctum.png                                              | Bin 0 -> 162906 bytes
+ epmcSearches/assets/Open Access button to restrict to retrievable fulltext.png | Bin 0 -> 198152 bytes
+ epmcSearches/assets/TITLE_tulsi.png                                            | Bin 0 -> 164248 bytes
+ epmcSearches/assets/author_search.png                                          | Bin 0 -> 159890 bytes
+ epmcSearches/assets/different_syn_in_search_box.png                            | Bin 0 -> 184960 bytes
+ epmcSearches/assets/different_synanoums_advance_search.png                     | Bin 0 -> 324886 bytes
+ epmcSearches/assets/holy_basil.png                                             | Bin 150392 -> 0 bytes
+ epmcSearches/assets/holy_basil1.png                                            | Bin 0 -> 192124 bytes
+ epmcSearches/assets/holy_basil2.png                                            | Bin 0 -> 161314 bytes
+ epmcSearches/assets/nipgr_cam_authors.png                                      | Bin 195516 -> 0 bytes
+ epmcSearches/assets/o_scanctum.png                                             | Bin 149888 -> 0 bytes
+ epmcSearches/assets/oabutton.png                                               | Bin 156447 -> 0 bytes
+ epmcSearches/assets/ocimum sanctum.png                                         | Bin 0 -> 165710 bytes
+ epmcSearches/assets/ocimum_sanctum.png                                         | Bin 165710 -> 180253 bytes
+ epmcSearches/assets/synonyms.png                                               | Bin 168778 -> 0 bytes
+ epmcSearches/assets/title_tulsi_advance_box.png                                | Bin 0 -> 27239 bytes
+ epmcSearches/eupmc_documentation.md                                            |  71 ++++++++++++++++++++++++++++++++++++----------------
+ wikimedia/{ => Assest}/Ocimum_family_results.png                               | Bin
+ wikimedia/{ => Assest}/Rice_wikiFactMine.png                                   | Bin
+ wikimedia/{ => Assest}/canidae_treemap.png                                     | Bin
+ wikimedia/{ => Assest}/homepage_wikidata_query_service.png                     | Bin
+ wikimedia/Assest/nipgr.png                                                     | Bin 0 -> 207909 bytes
+ wikimedia/Assest/nipgr1.png                                                    | Bin 0 -> 293591 bytes
+ wikimedia/Assest/ocimumgenus.png                                               | Bin 0 -> 247921 bytes
+ wikimedia/{ => Assest}/plant_taxon_Laurales_results.png                        | Bin
+ wikimedia/{ => Assest}/put_query_and_run.png                                   | Bin
+ wikimedia/{ => Assest}/select_Dict_106.png                                     | Bin
+ wikimedia/Assest/wd_osanctum.png                                               | Bin 0 -> 114718 bytes
+ wikimedia/Assest/wd_otenuiflorum.png                                           | Bin 0 -> 329261 bytes
+ wikimedia/Assest/wd_otherwp.png                                                | Bin 0 -> 84586 bytes
+ wikimedia/{ => Assest}/wheat_wikifactMine.png                                  | Bin
+ wikimedia/{ => Assest}/wikiFactMine_SPARQL_homepage.png                        | Bin
+ wikimedia/Assest/wp_categories.png                                             | Bin 0 -> 32824 bytes
+ wikimedia/Assest/wp_chemids.png                                                | Bin 0 -> 118901 bytes
+ wikimedia/Assest/wp_formula.png                                                | Bin 0 -> 54693 bytes
+ wikimedia/Assest/wp_header.png                                                 | Bin 0 -> 156484 bytes
+ wikimedia/Assest/wp_identifiers.png                                            | Bin 0 -> 122919 bytes
+ wikimedia/Assest/wp_list2.png                                                  | Bin 0 -> 278141 bytes
+ wikimedia/Assest/wp_listofspices.png                                           | Bin 0 -> 253842 bytes
+ wikimedia/Assest/wp_listofspicestable.png                                      | Bin 0 -> 449997 bytes
+ wikimedia/Assest/wp_names.png                                                  | Bin 0 -> 54335 bytes
+ wikimedia/Assest/wp_properties.png                                             | Bin 0 -> 91818 bytes
+ wikimedia/Assest/wp_synonyms.png                                               | Bin 0 -> 104148 bytes
+ wikimedia/Assest/wp_taxonomy.png                                               | Bin 0 -> 573571 bytes
+ wikimedia/overview.md                                                          |  20 +++++++--------
+ wikimedia/wikiFactMine_documentation.md                                        |  18 ++++++-------
+ 54 files changed, 99 insertions(+), 42 deletions(-)
+ create mode 100644 crops/rice/Overview.md
+ rename crops/rice/{CreatingRiceDictionaries.md => creatingriceDictionaries.md} (100%)
+ rename crops/rice/{GetpapersSearchQueryRice.md => getpapersSearchQueryRice.md} (100%)
+ rename crops/rice/{List_Rice_Varieties.xml => listriceVarieties.xml} (100%)
+ rename crops/rice/{Oryza_Category.xml => oryzaCategory.xml} (100%)
+ rename crops/rice/{Rice_Varieties_Category.xml => riceVarietiesCategory.xml} (100%)
+ create mode 100644 epmcSearches/assets/Authors from nipgr OR cambridge.png
+ create mode 100644 epmcSearches/assets/O_sanctum.png
+ create mode 100644 epmcSearches/assets/Open Access button to restrict to retrievable fulltext.png
+ create mode 100644 epmcSearches/assets/TITLE_tulsi.png
+ create mode 100644 epmcSearches/assets/author_search.png
+ create mode 100644 epmcSearches/assets/different_syn_in_search_box.png
+ create mode 100644 epmcSearches/assets/different_synanoums_advance_search.png
+ delete mode 100644 epmcSearches/assets/holy_basil.png
+ create mode 100644 epmcSearches/assets/holy_basil1.png
+ create mode 100644 epmcSearches/assets/holy_basil2.png
+ delete mode 100644 epmcSearches/assets/nipgr_cam_authors.png
+ delete mode 100644 epmcSearches/assets/o_scanctum.png
+ delete mode 100644 epmcSearches/assets/oabutton.png
+ create mode 100644 epmcSearches/assets/ocimum sanctum.png
+ delete mode 100644 epmcSearches/assets/synonyms.png
+ create mode 100644 epmcSearches/assets/title_tulsi_advance_box.png
+ rename wikimedia/{ => Assest}/Ocimum_family_results.png (100%)
+ rename wikimedia/{ => Assest}/Rice_wikiFactMine.png (100%)
+ rename wikimedia/{ => Assest}/canidae_treemap.png (100%)
+ rename wikimedia/{ => Assest}/homepage_wikidata_query_service.png (100%)
+ create mode 100644 wikimedia/Assest/nipgr.png
+ create mode 100644 wikimedia/Assest/nipgr1.png
+ create mode 100644 wikimedia/Assest/ocimumgenus.png
+ rename wikimedia/{ => Assest}/plant_taxon_Laurales_results.png (100%)
+ rename wikimedia/{ => Assest}/put_query_and_run.png (100%)
+ rename wikimedia/{ => Assest}/select_Dict_106.png (100%)
+ create mode 100644 wikimedia/Assest/wd_osanctum.png
+ create mode 100644 wikimedia/Assest/wd_otenuiflorum.png
+ create mode 100644 wikimedia/Assest/wd_otherwp.png
+ rename wikimedia/{ => Assest}/wheat_wikifactMine.png (100%)
+ rename wikimedia/{ => Assest}/wikiFactMine_SPARQL_homepage.png (100%)
+ create mode 100644 wikimedia/Assest/wp_categories.png
+ create mode 100644 wikimedia/Assest/wp_chemids.png
+ create mode 100644 wikimedia/Assest/wp_formula.png
+ create mode 100644 wikimedia/Assest/wp_header.png
+ create mode 100644 wikimedia/Assest/wp_identifiers.png
+ create mode 100644 wikimedia/Assest/wp_list2.png
+ create mode 100644 wikimedia/Assest/wp_listofspices.png
+ create mode 100644 wikimedia/Assest/wp_listofspicestable.png
+ create mode 100644 wikimedia/Assest/wp_names.png
+ create mode 100644 wikimedia/Assest/wp_properties.png
+ create mode 100644 wikimedia/Assest/wp_synonyms.png
+ create mode 100644 wikimedia/Assest/wp_taxonomy.png
+MacBook-Pro-3:tigr2ess pm286$ cd dictionaries/
+MacBook-Pro-3:dictionaries pm286$ ls -lt
+total 1960
+-rw-r--r--  1 pm286  staff      25 19 Feb 11:09 OVERVIEW.md
+-rw-r--r--@ 1 pm286  staff    6566 16 Feb 23:13 ocimumSpecies.xml
+-rw-r--r--  1 pm286  staff   14411 11 Feb 23:37 creating_dictionaries.md
+-rw-r--r--@ 1 pm286  staff  465096 11 Feb 23:32 indianspices.png
+-rw-r--r--@ 1 pm286  staff  162534 11 Feb 22:55 ocimumgenus.png
+-rw-r--r--@ 1 pm286  staff    6930 10 Feb 10:57 spices.xml
+-rw-r--r--  1 pm286  staff    1463  9 Feb 12:51 JsonDictionaries
+-rw-r--r--  1 pm286  staff  150667  7 Feb 08:34 jsoneditor.png
+-rw-r--r--  1 pm286  staff     300  7 Feb 08:34 testvirus2.sh
+-rwxr-xr-x  1 pm286  staff     268  7 Feb 08:34 testvirus1.sh
+-rw-r--r--  1 pm286  staff   10843  7 Feb 08:34 spices.json
+-rw-r--r--  1 pm286  staff   44821  7 Feb 08:34 spices.html
+-rw-r--r--  1 pm286  staff   18824  7 Feb 08:34 plantvirusesB.xml
+-rw-r--r--  1 pm286  staff    7856  7 Feb 08:34 plantvirusesA.xml
+-rw-r--r--  1 pm286  staff    7697  7 Feb 08:34 plantviruses.xml
+-rw-r--r--  1 pm286  staff   12074  7 Feb 08:34 monoterpenes.xml
+-rw-r--r--  1 pm286  staff   12543  7 Feb 08:34 monoterpenes.json
+-rw-r--r--  1 pm286  staff   42821  7 Feb 08:34 monoterpenes.html
+-rw-r--r--  1 pm286  staff    1369  7 Feb 08:34 minidictionary.md
+
