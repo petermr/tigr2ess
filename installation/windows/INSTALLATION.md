@@ -35,7 +35,7 @@ Please follow the below steps for installing `ami`.
 
 #### Step1: JAVA
 
-Please check whether you have java8(same as java version 1.8) installed on your system by running the command `java -version` at the command prompt. It should look as following:
+Please check that you have java8(same as java version 1.8) installed on your system by running the command `java -version` at the command prompt. It should look as following:
 
 ![java8](java8_windows.png)
 
