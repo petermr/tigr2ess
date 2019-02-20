@@ -13,15 +13,18 @@ ami-dictionary -
 Wikipedia page links - 
 
 [`../wiki/Rice`](https://en.wikipedia.org/wiki/Rice)
+
 [`../wiki/Category:Oryza`](https://en.wikipedia.org/wiki/Category:Oryza)
+
 [`../wiki/List_of_rice_varieties`](https://en.wikipedia.org/wiki/List_of_rice_varieties)
+
 [`../wiki/Category:Rice_varieties'](https://en.wikipedia.org/wiki/Category:Rice_varieties)
 
 
 ## Instructions
 
 ## step 1
-### command to issue
+### commands for creating Rice Dictionaries. 
 
 ```
 > ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
@@ -37,8 +40,7 @@ Wikipedia page links -
 
   
 
-### Creating Rice Dictionaries 
-link to results
+### link to results
 * [`Rice.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml). 
 * [`Rice.json`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml).
 * [`Rice.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.html).
@@ -67,10 +69,10 @@ link to results
  ```
  
  ###### Output is xml,json or html formatted dictionary files as per the specified --outformats option.
- ###### Time take for dictionary creation varies as per the available links into the Wikipedia page.
+ ###### Time taken for dictionary creation varies as per the available links into the Wikipedia page.
  
  
- * ![screenshots](https://github.com/petermr/tigr2ess/blob/master/crops/rice/ricejson.png).
+ ![screenshots](https://github.com/petermr/tigr2ess/blob/master/crops/rice/ricejson.png).
  
 
 ### outputs
@@ -84,8 +86,3 @@ link to results
 * [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml)
 * [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
 
-## step 2
-###
-```
-
-## step 3
