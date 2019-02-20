@@ -1,18 +1,18 @@
 # Search EuropePMC
 
-**Documented By:** 
+# Documented By
 
-*Vinita Lamba*
+**Vinita Lamba**
 
 
-## purpose of directory: 
-How to search your scientific  Queries using EPMC Searches. 
+## Purpose of Directory 
+Search your scientific  Queries using EPMC Searches. 
 
-## tutorial material:
+## Tutorial Material:
 [TUTORIAL](eupmc_documentation.md)
  
 
-## Files in directory:
+## Files in Directory:
 
 1.Number of Screen shots are in an `assets/` subdirectory.
 
