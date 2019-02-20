@@ -96,7 +96,8 @@
   
   *10.Try following Excercise of wheat,you get an idea how EPMC searches work :*
   
-  ## Queries
+  ## Queries You can try
+  
 1. Wheat papers since 2015:
 
 (PUB_YEAR:"PUB_YEAR:[2015 TO 2019]") AND (TITLE:"Wheat")--> 47974 results
