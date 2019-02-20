@@ -30,7 +30,7 @@ Note the `1.8` version
 
 - For OSX, Click <a href=/installation/mac/INSTALLATION.md>Here </a>
 
-- For WINDOWS, Click <a href=/installation/windows/installation.md>Here </a>
+- For WINDOWS, Click <a href=/installation/windows/INSTALLATION.md>Here </a>
 
 
 
