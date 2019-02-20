@@ -1,6 +1,6 @@
 # OVERVIEW file in each directory
 
-*Documenter/maintainer*
+*Documentor/maintainer*
 
 This file should be the basis of OVERVIEW.md in each directory.
 
