@@ -1,10 +1,5 @@
 # Search EuropePMC
 
-# Documented By
-
-**Vinita Lamba**
-
-
 ## Purpose of Directory 
 Search your scientific  Queries using EPMC Searches. 
 
