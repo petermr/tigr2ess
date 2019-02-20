@@ -39,9 +39,72 @@ Short description of the command-line options are as follows.
 
 ### link to results
 
-* edited/clipped output <= 8 lines
 * *time taken if important* - IT would take around 03 minimutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
+* Tree view of CProject folder.
+
+```
+├── PMC6357162
+│   ├── eupmc_result.json
+│   ├── fulltext.xml
+│   ├── gene.human.count.xml
+│   ├── gene.human.snippets.xml
+│   ├── results
+│   │   ├── gene
+│   │   │   └── human
+│   │   │       └── results.xml
+│   │   ├── search
+│   │   │   ├── country
+│   │   │   │   └── results.xml
+│   │   │   └── drugs
+│   │   │       └── results.xml
+│   │   └── word
+│   │       └── frequencies
+│   │           ├── results.html
+│   │           └── results.xml
+│   ├── scholarly.html
+│   ├── search.country.count.xml
+│   ├── search.country.snippets.xml
+│   ├── search.drugs.count.xml
+│   ├── search.drugs.snippets.xml
+│   ├── word.frequencies.count.xml
+│   └── word.frequencies.snippets.xml
+├── search.country.count.xml
+├── search.country.documents.xml
+├── search.country.snippets.xml
+├── search.drugs.count.xml
+```
+* Tree view of cooccurrence results and folders.
+```
+.
+├── country
+│   └── histogram.csv
+├── country-country
+│   ├── cooccur.csv
+│   └── cooccur.svg
+├── country-drugs
+│   ├── cooccur.csv
+│   └── cooccur.svg
+├── country-gene
+│   └── cooccur.csv
+├── drugs
+│   └── histogram.csv
+├── drugs-drugs
+│   ├── cooccur.csv
+│   └── cooccur.svg
+├── gene
+│   └── histogram.csv
+├── gene-drugs
+│   └── cooccur.csv
+└── gene-gene
+    └── cooccur.csv
+```
+
+
 * *screenshots* keep visually small and/link to PNG.
+
+![`full.DataTables.html`]()
+![`common.DataTables.html`]()
+![`entries.DataTables.html`]()
 
 
 ### outputs
