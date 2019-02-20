@@ -6,9 +6,13 @@ Wikipedia and Wikidata. This gives them semantic structure and also adds an auth
 ## prerequisites and help
 
 You must have installed AMI and be able to run:
+
+---
 ```
 ami-dictionary
 ```
+---
+
 This should output the help. It's long, and we have snipped ([...]) most of the 25+ options
 ```
 Usage: ami-dictionary [OPTIONS] [<operation>[,<operation>...]...]
@@ -23,11 +27,6 @@ Parameters
                               Default: help
 Options
 =======
-      --basename=<userBasename>
-                            User's basename for outputfiles (e.g. foo/bar/<basename>.
-                              png. By default this is computed by AMI. This allows
-                              users to create their own variants, but they won't be
-                              known by default to subsequentapplications
   [...]
       --directory=<dictionaryTopname>
                             top directory containing dictionary/s. Subdirectories
@@ -35,11 +34,6 @@ Options
                               'animals' is found in '<directory>/animals.xml', while
                               'plants.parts' is found in <directory>/plants/parts.
                               xml. Required for relative dictionary names.
-  [...]
-                              
-      --hreftext            hyperlinks from text (maybe excludes tables); requires
-                              wikipedia or wikitable input at present; still under
-                              test
   [...]
                               
       --informat=input format
@@ -82,7 +76,6 @@ Options
   Options control what the command does and operates upon. Here are ones you will encounter
   
   * `--directory`
-  * `--hreftext`
   * `--informat`
   * `--outformats`
   * `--terms`
@@ -91,6 +84,7 @@ Options
  You are unlikely to use anything else in the TIGR2ESS workshop.
 
 ## input values
+
  The system also outputs the values you entered (some may be created by default). If you have bugs/problems you should always 
  include these when reporting errors.
   
@@ -118,9 +112,13 @@ This is the simplest way. Create a list of terms that are likely to be in Wikipe
 `cd` to the place where you want to put the dictionaries.
 
 ## input
+
+---
 ```
 ami-dictionary create --terms thymol pineol menthol --dictionary myterpenes --directory mydictionaries --outformats xml,html
 ```
+---
+
 Let's look at the components:
 * `ami-dictionary` runs the command.
 * `create` is one of the several parameters that can be used (we'll see others later).
@@ -129,10 +127,13 @@ Let's look at the components:
 * `--directory mydictionaries` the directory where to put the dictionaries. This is relative to where you run the command (unless a full pathname is given, e.g. `/Users/pm286/ContentMine/dictionaries/`.
 * `outformats "xml,html"` output dictionaries in various formats. Hers it creates `myterpenes.xml` and `myterpenes.html`. 
 
-## output
+## COMMAND1 create from manual input
+---
 ```
  ami-dictionary create --terms thymol pineol menthol --dictionary myterpenes --directory mydictionaries --outformats xml,html
 ```
+---
+
 ### input values
 This echoes the input parameters. (Some are snipped [...]). The important ones are annotated with <b>***</b>.
 ```
@@ -204,13 +205,19 @@ This is a <b>`dictionary`</b> "element" with 3 <b>`entry`</b> "child elements" (
 
 ### goof-up!!
 The entry for `pineol` is not a chemical compound! That's because I mistyped `cineol`! And that's why we never found its entry. Wikidata did a fuzzy search and found `pineal` .
+
 **This is a warning to check everything! Don't trust Wikidata blindly. Or anything else!**
 
-# 2. Creating from Wikipedia pages.
+### 2. Creating from Wikipedia pages
+
 This is a simple brute-force way of extracting links from Wikipedia. We are interested in **links to other Wikipedia pages**. In some cases this adds valuable similar terms; in other cases it's mainly noise. You will certainly need to edit the result. Trying "holy basil"...
+
+---
 ```
 ami-dictionary create --informat wikipage --input https://en.wikipedia.org/wiki/Ocimum_tenuiflorum --dictionary otenuiflorum --directory mydictionaries --outformats xml,html
 ```
+---
+
 Note the input:
 ```
 --informat wikipage --input https://en.wikipedia.org/wiki/Ocimum_tenuiflorum
@@ -264,7 +271,7 @@ The created dictionary has 80 entries and we have annotated probable FPs (you ma
 
 ```
 
-# 3. Creating from Wikipedia lists.
+### 3. Creating from Wikipedia lists.
 
 Many Wikipedia pages have lists of links to related pages. There are 3 main types:
 * Pages with HTML lists (typically for genus, with species children)
@@ -278,9 +285,14 @@ Many pages, especialy for a *genus* of plants, contain a list of related items, 
 
 This has a number of active Wikpedia links (blue) and rather more red links (no Wikipedis pages (yet)). A useful dictionary can be created
 in the same way as (2) above:
+
+### COMMAND2
+---
 ```
 ami-dictionary create --informat wikipage --input https://en.wikipedia.org/wiki/Ocimum --dictionary ocimum--directory mydictionaries --outformats xml,html
 ```
+---
+
 ## List_of_foo
 There are many Wikipedia pages with titles "List_of", which are excellent for dictionaries. They normally contain (HTML) tables, such as
 https://en.wikipedia.org/wiki/List_of_Indian_spices .
