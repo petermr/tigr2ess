@@ -45,7 +45,7 @@
   
   
   **we get**
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/auth_result_fp.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/auth_result_fp.png)
   
   *we can see that using TITLE:"tulsi" Advanced search we get: 56 hits of tulsi*
   
@@ -53,22 +53,22 @@
   
   *6.When we want to know that how many Authors are from NIPGR and Cmbridge*
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/nipgr_cam_authors.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/nipgr_cam_authors.png)
   
   *7.Use Open Access Button to see all Downloadable papers from eupmc.*
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/oabutton.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/oabutton.png)
   
   *8.Search using Different Synonyms,this also an example  of OR operator use in Advanced Search*
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/synonyms.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/synonyms.png)
   
   *9.When we want something only in Body Not in the Title then type:*
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/wheat_body.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/wheat_body.png)
   
   *10.Try following Excercise of wheat:*
   
