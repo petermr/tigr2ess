@@ -24,7 +24,7 @@
 ![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/put_query_and_run.png)
 
 
-**5.Here i use an Example of plant taxon contain"ocimum" in WFM dictionary**
+**5.Here i use an Example of plant taxon contained in "ocimum" in WFM dictionary**
 
 *In red highlighted are we show how query look and with blue button we can run it*
 
