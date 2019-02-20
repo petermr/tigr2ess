@@ -78,7 +78,7 @@ link to results
 * location of outputs - 
 
 * [`Rice.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml). 
-* [`Rice.json`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml).
+* [`Rice.json`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.json).
 * [`Rice.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.html).
 * [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml)
 * [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml)
