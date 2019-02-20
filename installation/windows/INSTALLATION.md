@@ -1,64 +1,50 @@
-# Installation hints
+## INSTALLATION of `getpapers`
 
-## Installing ContentMine TDM softwares over Windows
+Please follow the below steps for installing `getpapers`.
 
-### The Latest Java versions of JDK and JRE
+### Step1: installing `nvm-windows`
 
-   - Download and Install the latest JDK for your OS from <a href=https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>here</a>
-   - Check your JAva Installation <a href=https://www.java.com/en/download/help/version_manual.xml>here</a>
-   - Open a Terminal and type <code>java -version</code>
-   - Make sure you have the latest version (At the time of writing: We have 1.8_201)
+Go to the [downloads page](https://github.com/coreybutler/nvm-windows/releases) and download latest version of `nvm-setup.zip`. 
 
-
-### nvm-windows (Node virtual manager for Windows)
-
-- Go to the downloads page of [`nvm`](https://github.com/coreybutler/nvm-windows/releases) and download nvm-setup.zip for the latest version.
 Unzip the downloaded file and run the included installer.
-Run following commands over windows command-prompt.
 
-> nvm install 7
+### Step2: installing `node`
 
-- Check for the installed node version and enable nvm to use installed node. Run the following command.
+Open your command prompt, and run the following commands one after the other.
 
->nvm on
-
->nvm use 7.x.x
-
-(7.x.x is the installed version of the node)
+```
+nvm install 7
+nvm use 7.10.1
+```
 
 
-### installing a node tool
+### Step3: installing a `node` tool:
 
-> npm install --global getpapers
+Run the following command at command prompt:
+```bash
+npm install --global getpapers
+```
 
-- Set environment variables to access installed getpapers tools.
+Now run the command `getpapers` at the command prompt, and you should see something as below:
 
-For example on my laptop it is installed into following directory.
-C:\Users\hadoop_pc\AppData\Roaming\npm
+![getpapers_windows](getpapers_windows_screenshoot.png)
 
+## INSTALLATION OF `ami`
 
-## AMI tool installation over windows - 8 and 10
+Please follow the below steps for installing `ami`.
 
-- Make your own installation area (directory containing the package).
+#### Step1: JAVA
 
-> mkdir AMI
-  
-- Get the ami software package into the directory.          
-- Set environment variable to access the bin directory (containing ami plugins or tools) of          software package.  
+Please check whether you have java8(same as java version 1.8) installed on your system by running the command `java -version` at the command prompt. It should look as following:
 
-- To set environment variable in Windows - 08.
-  
-       - From the desktop, right click the Computer icon.
-       - Choose System from the context menu.
-       - Click the Advanced system settings link.
-       - Click new option into user variables for desktop.
-       - Set variable name (environment variable name) and value (absolute path value).
+![java8](java8_windows.png)
 
-- Check for the installation.
-              
-> ami-dictionary
+It is important that above you get java version 1.8 , and not java version 1.7 or any earlier version. 
+If you don't have java version 1.8, please dowload java from the this link (https://www.java.com/en/download/)[https://www.java.com/en/download/].
 
-If exported or installed correctly. It will list out all tool help and usage information.
+#### Step2: Set path
+
+Please follow this step after you have got the `ami` software in the pendrive. This page will be updated
 
 ## issues
 
