@@ -9,9 +9,9 @@ Search your scientific  Queries using EPMC Searches.
 
 ## Files in Directory:
 
-1.Number of Screen shots are in an `assets/` subdirectory.
+1. [Screen shots directory](./assets/)
 
-2.getpaper_documentation.md
+2. [getpapers documentation]](getpapers_documentation_for_ocimum.md)
 
 
 
