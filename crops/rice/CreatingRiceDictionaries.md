@@ -34,32 +34,43 @@ link to results
 * [`riceVarietiesCategory`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
 
 - JSON fo edited/clipped output <= 8 lines
-* *time taken if important*
-* *screenshots* keep visually small and/link to PNG.
-
+```
+ {
+      "identifiers": {
+        "contentmine": "CM.9febrice.5"
+      },
+      "name": "African rice",
+      "term": "African rice"
+    },
+   
+    {
+      "identifiers": {
+        "contentmine": "CM.9febrice.33"
+      },
+      "name": "Asian rice",
+      "term": "Asian rice"
+    },
+    
+ ```
+ 
+ ###### Output is xml,json or html formatted dictionary files as per the specified --outformats option.
+ ###### Time take for dictionary creation varies as per the available links into the Wikipedia page.
+ 
+ 
+ * ![screenshots](https://github.com/petermr/tigr2ess/blob/master/crops/rice/ricejson.png).
+ 
 
 ### outputs
-* size of output
-* location of outputs
+* size of output - 5.25 KB.
+* location of outputs - 
 
 
 ## step 2
-### command to issue
-
-precise command that can be cut and pasted.
-
-### what you should see
-
-1 sentence and optionally
-link to results
-
-* edited/clipped output <= 8 lines
-* *time taken if important*
-* *screenshots* keep visually small and/link to PNG.
-
-
-### outputs
-* size of output
-* location of outputs
+###
+```
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary Rice_varieties_category --outformats xml,json,html
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
+> ami-dictionary create --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html
 
 ## step 3
