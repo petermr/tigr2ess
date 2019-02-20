@@ -102,33 +102,15 @@ Short description of the command-line options are as follows.
 
 * *screenshots* keep visually small and/link to PNG.
 
-![`full.DataTables.html`]()
-![`common.DataTables.html`]()
-![`entries.DataTables.html`]()
+![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/full.DataTables.html1.png)
+
+![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.DataTables.html1.png)
+
+![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.DataTables.html1.png)
 
 
 ### outputs
-* size of output - 
-* location of outputs
+* size of output - 1.5 MB.
+* [location of outputs](https://github.com/petermr/tigr2ess/blob/master/crops/rice/rice.tar.gz) 
 
 
-## step 2
-### command to issue
-
-precise command that can be cut and pasted.
-
-### what you should see
-
-1 sentence and optionally
-link to results
-
-* edited/clipped output <= 8 lines
-* *time taken if important*
-* *screenshots* keep visually small and/link to PNG.
-
-
-### outputs
-* size of output
-* location of outputs
-
-## step 3
