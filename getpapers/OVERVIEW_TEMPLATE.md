@@ -24,5 +24,3 @@ All PNGs should be in an `assets/` subdirectory.
 
 
 
-
-

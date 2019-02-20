@@ -38,3 +38,12 @@ These are the modules with owners
 Using the model of *Ocimum* choose your own plant (e.g. Millet, Rice, Wheat) to do a free-form project and report back. Partial resources for all these are supplied. 
 
 (Optionally some delegates may wish to re-run the *Ocimum* material privately or explore the technology.) All material is licensed CC BY or Apache 2 and can be used without permission for any purpose (teaching, research, software, as long as attributed).
+
+
+## directories 
+List of directories in `tigr2ess` distribution and at http://github.com/petermr/tigr2ess. We shall refer to these throught the day. The definitive
+version will always be Github. Read the following to find where the resources are.
+
+[ContentMine Directories in tigr2ess](DIRECTORIES.md)
+
+
