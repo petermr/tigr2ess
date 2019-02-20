@@ -30,7 +30,7 @@
 
   ![holy_basil1](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil1.png)
   
-  `NOW USING QUOTES WE CAN DIFFERENCIATE THE RESULTS (271)`
+  # `AFTER USING QUOTES WE CAN DIFFERENCIATE THE RESULTS (271)`
   
   ![holy_basil2](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil2.png)
   
@@ -57,7 +57,7 @@
   
   ![tulsi](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/tulsi_fp.png)
   
-  **Open your advance search box and type tulsi in `title` in Bibiliographic Fields:as shown below**
+  **Open your advance search box and type tulsi in `title` in Bibliographic Fields:as shown below**
   
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/title_tulsi_advance_box.png)
   
@@ -65,7 +65,7 @@
  
   *we can see that using TITLE:"tulsi" Advanced search we get: 56 hits of tulsi*
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/title_tulsi_advance_box.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/TITLE_tulsi.png)
   
   
   **Here we get a clear picture of Advanced search that how it eliminate the false-positive ,when we are using "tulsi" we get so many hits because it search tulsi as a name of human-being(tulsi) but after using TITLE:"tulsi" it give only 56 hits ,only regarding scientific query.**
