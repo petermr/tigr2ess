@@ -3,6 +3,12 @@
 
 By default, the Europe PMC RESTful(one of the `API`of epmc searches)  search results are sorted by relevance, with the most relevant result being presented first in the list.
 
+
+How do I search Europe PMC?
+The main Europe PMC site provides two search functions: a free text search, direct from the main search box, or an advanced search, from the advanced search page which provides you with a number of different parameter options.
+
+You can refine your search by entering search syntax in the search box. The search syntax reference at the bottom of this page includes many examples.
+
 ## EPMC query window
 
 * Open [Query window](http://europepmc.org)
