@@ -11,25 +11,37 @@ dictionaries
 ## instructions/tutorial
 
 ### installation
+Help and materials on installing and debugging the system.
+
 [Installation](installation/)
 
 ### epmcSearches
+Tutorial on running searches on EuropePMC.
 [EPMC searches](epmcSearches/)
 
 ### getpapers
+Tutorial on running `getpapers`.
 [getpapers](getpapers/)
 
 ### wikimedia
+Tutorial on Wikipedia, Wikidata and WikiFactMine. 
+
 [wikimedia](wikimedia/)
 
 ### dictionaries
+Tutorial for creating dictionaries from Wikimedia.
+
 [dictionaries](dictionaries/)
 
 ### search
+Tutorial for running AMI-searches.
+
 [search](search/)
 
 ## personal area
 ### mydictionaries
+Storage for any dictionaries you need or create.
+
 [mydictionaries](mydictionaries/)
 
 ### results
@@ -37,13 +49,15 @@ dictionaries
 
 ## project work
 ### crops
+Three directories with resources for crops (Millet, Rice, Wheat).
 [crops](crops)
 
 ## resources
-[osanctum](osanctum/) *Ocimum sanctum* corpus
-[osanctum200](osanctum200/) later *Ocimum sanctum* corpus
+* [osanctum](osanctum/) *Ocimum sanctum* corpus
+* [osanctum200](osanctum200/) later *Ocimum sanctum* corpus
 
 ## tests
+Run these to test the software and corpus.
 [test scripts for software and corpus](tests)
 
 ## problems
