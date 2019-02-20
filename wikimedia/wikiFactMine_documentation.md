@@ -7,21 +7,21 @@
 
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wikiFactMine_SPARQL_homepage.png)
+![](assets/wikiFactMine_SPARQL_homepage.png)
 
 
 
 
-**2.Number of Dictionaries  and way for choose them is simply click on `try it` link **
+**2.Number of Dictionaries  and way for choose them is simply click on `try it` link**
 
 
-# ![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/select_Dict_106.png)
+![](assets/select_Dict_106.png)
 
 
 
 **3.This is how  wikiData query service page looks like  shown below**
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/put_query_and_run.png)
+![](assets/put_query_and_run.png)
 
 
 **5.Here i use an Example of plant taxon contained in "ocimum" in WFM dictionary**
@@ -29,19 +29,19 @@
 *In red highlighted are we show how query look and with blue button we can run it*
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/plant_taxon_Laurales_results.png)
+![](assets/plant_taxon_Laurales_results.png)
 
 
 **6. Wheat wikidata Query page having wikidata id (Q) and taxon poales**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wheat_wikifactMine.png)
+![](assets/wheat_wikifactMine.png)
 
 
 **7. Rice Dictionary having `taxon poales` and `wikidata id:Q5090`** 
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/Rice_wikiFactMine.png)
+![](assets/Rice_wikiFactMine.png)
 
 
 
@@ -49,6 +49,6 @@
 **9.Ocimum family wikiFactmine Query Service page**
 
 
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/Ocimum_family_results.png)
+![](assets/Ocimum_family_results.png)
 
 
