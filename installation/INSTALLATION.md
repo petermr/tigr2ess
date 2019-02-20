@@ -1,6 +1,6 @@
 # Installation and problems
 
-This covers the installation and any problems relating to 
+For Day 06 of our workshop, this page covers the installation and any problems relating to software
  * `getpapers`
  * `ami`
 
@@ -24,9 +24,12 @@ Note the `1.8` version
 ### If you do not have JAVA 8, PLEASE UPDATE JAVA 
 
 ## Detailed Step by Step Installation over UNIX, WINDOWS & macOSX
-### For UNIX, Click <a href=/installation/unix/INSTALLATION.md>Here</a>
-### [`macOSX`](https://github.com/petermr/tigr2ess/blob/master/installation/mac/INSTALLATION.md)
-### [`windows`](https://github.com/petermr/tigr2ess/blob/master/installation/windows/installation.md)
+
+- For UNIX, Click <a href=/installation/unix/INSTALLATION.md>Here</a>
+
+- For OSX, Click <a href=/installation/mac/INSTALLATION.md>Here </a>
+
+- For WINDOWS, Click <a href=/installation/windows/installation.md>Here </a>
 
 Full instructions for installation and use are given at ['getpapers'](http://github.com/contentmine/getpapers) page. 
 In case of getting help, follow the documentation over there.
