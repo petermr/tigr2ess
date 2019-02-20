@@ -1,4 +1,4 @@
-# Creatring Rice Dictionary
+# Creating Rice Dictionary
 
 This is a template for tutorials (There will normally be one per directory, but there may be more)
 
