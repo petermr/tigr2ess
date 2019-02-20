@@ -4,9 +4,9 @@ This covers the installation and any problems relating to
  * `getpapers`
  * `ami`
 
-## installing 
+## Installation Pre-requistes 
 
-## Java version
+## JAVA
 You will need Java 8 (aka Java 1.8) to run.
 At your commandline type:
 ```
@@ -21,11 +21,10 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.60-b23, mixed mode)
 ```
 Note the `1.8` version
 
-### updating java 
-*** ADD instructions here ***
+### If you do not have JAVA 8, PLEASE UPDATE JAVA 
 
-## installation over unix, windows, macOSX
-### [`unix`](https://github.com/petermr/tigr2ess/blob/master/installation/unixTALLATION.md)
+## Detailed Step by Step Installation over UNIX, WINDOWS & macOSX
+### [`unix`](https://github.com/petermr/tigr2ess/blob/master/installation/unix/INSTALLATION.md)
 ### [`macOSX`](https://github.com/petermr/tigr2ess/blob/master/installation/mac/INSTALLATION.md)
 ### [`windows`](https://github.com/petermr/tigr2ess/blob/master/installation/windows/installation.md)
 
