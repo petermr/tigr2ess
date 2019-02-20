@@ -1,4 +1,4 @@
-# Installation and problems
+# Software Installation 
 
 For Day 06 of our workshop, this page covers the installation and any problems relating to software
  * `getpapers`
@@ -6,7 +6,7 @@ For Day 06 of our workshop, this page covers the installation and any problems r
 
 ## Installation Pre-requistes 
 
-## JAVA
+# JAVA
 You will need Java 8 (aka Java 1.8) to run.
 At your commandline type:
 ```
@@ -21,9 +21,10 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.60-b23, mixed mode)
 ```
 Note the `1.8` version
 
-### If you do not have JAVA 8, PLEASE UPDATE JAVA 
+**If you do not have JAVA 8, PLEASE UPDATE JAVA**
 
-## Detailed Step by Step Installation over UNIX, WINDOWS & macOSX
+
+## Step by Step Installation over UNIX, WINDOWS & macOSX
 
 - For UNIX, Click <a href=/installation/unix/INSTALLATION.md>Here</a>
 
@@ -31,11 +32,13 @@ Note the `1.8` version
 
 - For WINDOWS, Click <a href=/installation/windows/installation.md>Here </a>
 
+
+
 Full instructions for installation and use are given at ['getpapers'](http://github.com/contentmine/getpapers) page. 
 In case of getting help, follow the documentation over there.
 
 
-## problems
+## Problems
 
 ### 32 vs 64 bit 
 Amit has filed a bug and fix on Github:
