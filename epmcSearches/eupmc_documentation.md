@@ -37,11 +37,20 @@
   
   
     **using `"Holy basil"` we get following results**
+    
+    
+    
+    
   
   ![holy_basil2](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil2.png)
   
   
+  
+  
+  
   **Using "O.sanctum" as a query we get :15 results as showed below**
+  
+  
   
   
   ![O.sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/O_sanctum.png)
@@ -61,9 +70,15 @@
   
   **Example to remove false-positive,type `"tulsi"` in your search box of eupmc and get:835 results**
   
+  
   ![tulsi](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/tulsi_fp.png)
   
+  
+  
   **Now Open your advance search box and type tulsi in `title` in Bibliographic Fields:as shown below**
+  
+  
+  
   
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/title_tulsi_advance_box.png)
   
@@ -71,12 +86,21 @@
  
   **we can see that using `TITLE:"tulsi"` Advanced search we get: 56 hits of tulsi**
   
+  
+  
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/TITLE_tulsi.png)
+  
   
   
   **Here we get a clear picture of Advanced search that how it eliminate the false-positive ,when we are using "tulsi" we get so many hits because it search tulsi as a name of human-being(tulsi) but after using TITLE:"tulsi" it give only 56 hits ,only regarding scientific query.**
   
-  **To how many Authors are from NIPGR and Cmbridge type `(AUTH_CON:"cambridge" OR AUTH_CON:"nipgr")`**
+  
+  
+  
+  
+  **To Search how many Authors are from NIPGR and Cmbridge type `(AUTH_CON:"cambridge" OR AUTH_CON:"nipgr")`**
+  
+  
   
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/Authors%20from%20nipgr%20OR%20cambridge.png)
   
@@ -88,7 +112,12 @@
   
   **Search using Different Synonyms, Type `(ocimum) OR (o.sanctum) OR (Tulsi)` in the `search box` we get the following results.**
   
+  
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_syn_in_search_box.png)
+  
+  
+  
+  
   
   **Type your Synonym Query into Advance search box  as shown below and  we get different results`
   
@@ -101,6 +130,10 @@
   
   
   ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/wheat_body.png)
+  
+  
+  
+  
   
   ## Try following Excercises of wheat,you get an idea how EPMC searches work
   
