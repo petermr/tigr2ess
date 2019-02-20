@@ -40,13 +40,13 @@ Please check whether you have java8(same as java version 1.8) installed on your 
 ![java8](java8_windows.png)
 
 It is important that above you get java version 1.8 , and not java version 1.7 or any earlier version. 
-If you don't have java version 1.8, please dowload java from the this link (https://www.java.com/en/download/)[https://www.java.com/en/download/].
+If you don't have java version 1.8, please dowload java from the this link https://www.java.com/en/download/.
 
 #### Step2: Set path
 
 Please follow this step after you have got the `ami` software in the pendrive. This page will be updated
 
-## issues
+## Issues
 
 Steps for setting environment PATH variable may slightly differ from one platform to another. Always try to locate systems setting followed by advanced system settings. Always try to keep the value of environment variable - PATH as short as possible. Else there may be error running the tools/plugins. I extracted jars and placed all contents - bin/, repo/, dependencies into C:/ directory and then exported the PATH for C:/bin 
 
