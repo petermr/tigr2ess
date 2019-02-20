@@ -24,7 +24,7 @@ Note the `1.8` version
 ### If you do not have JAVA 8, PLEASE UPDATE JAVA 
 
 ## Detailed Step by Step Installation over UNIX, WINDOWS & macOSX
-### [`unix`](https://github.com/petermr/tigr2ess/blob/master/installation/unix/INSTALLATION.md)
+### For UNIX, Click <a href=/installation/unix/INSTALLATION.md>Here</a>
 ### [`macOSX`](https://github.com/petermr/tigr2ess/blob/master/installation/mac/INSTALLATION.md)
 ### [`windows`](https://github.com/petermr/tigr2ess/blob/master/installation/windows/installation.md)
 
