@@ -48,12 +48,12 @@ Please follow the below steps for installing `ami`.
 
 #### Step1: JAVA
 
-Please check whether you have java8(same as java version 1.8) installed on your system by running the command `java -version` at the command prompt. It should look as following:
+Please check that you have java8(same as java version 1.8) installed on your system by running the command `java -version` at the command prompt. It should look as following:
 
 ![java8](java8_linux.png)
 
-It is important that you get java version 1.8 above, and not java version 1.7 or any earlier version. 
-If you don't have java version 1.8, please dowload java from the this link (https://www.java.com/en/download/)[https://www.java.com/en/download/].
+It is important that above you get java version 1.8, and not java version 1.7 or any earlier version. 
+If you don't have java version 1.8, please dowload it from this link https://www.java.com/en/download/.
 
 #### Step2: Set path
 
