@@ -21,15 +21,23 @@ You can refine your search by entering search syntax in the search box. The sear
 *We always give the query in either single-quotes(') or in double-quotes(") because in quotes it takes as a compelet query otherwise eupmc search it for words only* 
 **For example if we type holy basil, then it  search for holy and basil for two different words only not as a query**
 
-*1.When we type "holy basil" into eupmc search we get the result as shown below :271 results shown here*
+*1.When we type holy basil into eupmc search we get the result as shown below : results shown here*
 
 
-  ![holy_basil](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil.png)
+  ![holy_basil1](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil1.png)
+  
+  NOW USING QUOTES WE CAN DIFFERENCIATE THE RESULTS 
+  
+  ![holy_basil2](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/holy_basil2.png)
+  
+  
+  
+  
   
   *2.After typing "O.sanctum" we get :295 results as showed below*
   
   
-  ![O.sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/o_scanctum.png)
+  ![O.sanctum](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/O_sanctum.png)
   
   *3.Using "Ocimum sanctum" as a query we get :976 results below*
   
@@ -58,21 +66,29 @@ You can refine your search by entering search syntax in the search box. The sear
   
   *we can see that using TITLE:"tulsi" Advanced search we get: 56 hits of tulsi*
   
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/title_tulsi_advance_box.png)
+  
   **Here we get a clear picture of Advanced search that how it eliminate the false-positive ,when we are using "tulsi" we get so many hits because it search tulsi as a name of human-being(tulsi) but after using TITLE:"tulsi" it give only 56 hits ,only regarding scientific query.**
   
   *6.When we want to know that how many Authors are from NIPGR and Cmbridge*
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/nipgr_cam_authors.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/Authors%20from%20nipgr%20OR%20cambridge.png))
   
   *7.Use Open Access Button to see all Downloadable papers from eupmc.*
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/oabutton.png)
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/Open%20Access%20button%20to%20restrict%20to%20retrievable%20fulltext.png)
   
-  *8.Search using Different Synonyms,this also an example  of OR operator use in Advanced Search*
+  *8.Search using Different Synonyms in the search box.*
+  
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_syn_in_search_box.png)
+  
+  WHEN WE USE  ADVANCE SEARCH BOX FOR SYNONUMS QUERY WE GET DIFFERENT RESULTS*
+  
+  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/different_synanoums_advance_search.png)
   
   
-  ![](https://github.com/petermr/tigr2ess/blob/master/epmcSearches/assets/synonyms.png)
+  
   
   *9.When we want something only in Body Not in the Title then type:*
   
