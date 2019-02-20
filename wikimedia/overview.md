@@ -16,12 +16,12 @@ This is because *Ocimum tenuiflorum* is a **synonym** and preferred in Wikipedia
 
 ### header
 The first sentence of the entry/page is very useful, especially when creating dictionaries.
-![](./wp_header.png)
+![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wp_header.png)
 This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
 
 <table>
-<tr><td><img src="./wp_taxonomy.png" height="50%"/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td><td><img src="../misc/blank.png" style="height:50%;"/></td></tr>
+<tr><td><img src="https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wp_header.png/wp_taxonomy.png" height="50%"/></td><td><img src="./wp_synonyms.png" style="height:50%;"/></td><td><img src="../misc/blank.png" style="height:50%;"/></td></tr>
 </table>
 
 
