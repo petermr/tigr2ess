@@ -7,7 +7,7 @@
 
 
 
-![]()
+![](./wikiFactMine_SPARQL_homepage.png)
 
 
 
