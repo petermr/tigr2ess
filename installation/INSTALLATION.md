@@ -36,7 +36,7 @@ In case of getting help, follow the documentation over there.
 
 
 ## problems
-(AAV - please add general problems here)
+
 ### 32 vs 64 bit 
 Amit has filed a bug and fix on Github:
 https://github.com/petermr/tigr2ess/issues/51
@@ -96,17 +96,4 @@ This also affects Step3, where we issue the command nvm use 7.10.1 32 instead of
 
 After the above changes, the command npm install --global getpapers successfully installs getpapers on the system.
 ```
-### Issues
-Please report issues on the [Tigr2ess repo](
-
-Problems for specific machine types / OS should be added here:
-
- * [unix](unix/)
- All steps of installation and tool running goes well over unix machine. 
- * [mac](mac/)
- Make sure of pre-installation requirements over macOSX i.e XCode or Apple's developer environent - free from the mac App Store
-the command-line developer tools.
- * [windows](windows/)
- environment variable PATH value should be set as small as possible. I kept all ami-jar contents i.e bin/, repo/ and mentioned dependencies into C:/ directory and exported the C:/bin from Advanced System Settings.
-
 
