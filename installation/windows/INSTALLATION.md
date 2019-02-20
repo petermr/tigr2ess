@@ -44,17 +44,8 @@ If you don't have java version 1.8, please dowload it from the this link https:/
 
 #### Step2: Set path
 
-Please follow this step after you have got the `ami` software in the pendrive. This page will be updated
+Please follow this step after you have got the `ami` software in the pendrive. This step will be updated
 
 ## Issues
 
 Steps for setting environment PATH variable may slightly differ from one platform to another. Always try to locate systems setting followed by advanced system settings. Always try to keep the value of environment variable - PATH as short as possible. Else there may be error running the tools/plugins. I extracted jars and placed all contents - bin/, repo/, dependencies into C:/ directory and then exported the PATH for C:/bin 
-
-
-
-## Commandline problems 
-(Amit Yadav)
-Not able to maximize the Command prompt to full screen on Windows systems is a common problem.
-Following are some links in this regard:
-https://www.thewindowsclub.com/full-screen-command-prompt-in-windows-7
-https://www.wikihow.com/Fix-Full-Screen-Command-Prompt
