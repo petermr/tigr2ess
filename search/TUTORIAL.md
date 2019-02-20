@@ -46,7 +46,7 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 ```
 - Open `full.dataTables.html` in a web-browser. It looks following:  
  
-![full.dataTables.html](3_ami-search-new_plantparts.png)  
+![full.dataTables.html](./assets/2_ami-search-new_plantparts.png)  
 
 ### COMMAND3
 - Issue the following command (or copy-paste):  
@@ -65,13 +65,13 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 ```
 - Open `full.dataTables.html` in a web-browser. It looks following: 
  
-![full.dataTables.html](5_ami-search-new-country.png)
+![full.dataTables.html](./assets/3_ami-search-new-country.png)
 
 ### COOCCURENCE INTERPRETATION
 
 - Go to `__cooccurrence` directory, then to `binomial-binomial` directory. Inside it, open `cooccur.svg` in a web-browser.
 
-![cooccur.svg](7_binomial-binomial_cooccur_1.png)
+![cooccur.svg](./assets/binomial-binomial_cooccur_1.png)
 
 
 ### COMMAND4
@@ -93,7 +93,7 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 - Go to `__cooccurrence` directory, then to `binomial-binomial` directory. Inside it, open `cooccur.svg` in a web-browser.  
 
-![cooccur.svg](8_binomial_country_cooccur_1.png)
+![cooccur.svg](./assets/4_binomial_country_cooccur_1.png)
 
 *Interpretation*: `Ocimum Sanctum` occurs maximum with country `India`, followed by `China`. 
 
