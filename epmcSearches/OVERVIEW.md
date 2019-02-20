@@ -1,7 +1,7 @@
 # Search EuropePMC
 
-## Purpose of Directory 
-Search your scientific  Queries using EPMC Searches. 
+## Purpose 
+Search EuropePubMedCentral. 
 
 ## Tutorial Material:
 [TUTORIAL](eupmc_documentation.md)
