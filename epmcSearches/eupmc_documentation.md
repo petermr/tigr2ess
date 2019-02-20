@@ -35,8 +35,9 @@
   
  
   
+  # Step 2.
   
-    **using `"Holy basil"` we get following results**
+    Type  ` "Holy basil" ` we get following results:
     
     
     
@@ -46,29 +47,58 @@
   
   
   
+  *`So from here we get an idea that how we should put our queries in proper way into EPMC searche box and get Relevant results.`*
   
   
-  **Using "O.sanctum" as a query we get :15 results as showed below**
+  # Further More  Queries For Better Understanding.
+ 
+ 
+  
+  **Type ` "O.sanctum" ` as a query we get :15 results as showed below**
+ 
   
   
   
   
   ![O.sanctum](assets/O_sanctum.png)
   
-  **Using "Ocimum sanctum" as a query we get :976 results below**
+  
+ 
+  
+  **Type ` "Ocimum sanctum" ` as a query we get :976 results below**
+  
+  
   
   
   ![Ocimum_sanctum](assets/ocimum_sanctum.png)
   
+  
+  
+  
+  
   **Type  "Ocimum" as a query it searches for only ocimum in articles and gives the:3650 results**
+  
+  
+  
+  
+  
+  
+  
   
   
   ![ocimum in too general ](assets/ocimum_too_general.png)
   
   
+  
+  
+  
+  
   **Using Advanced search we can remove false-positive i.e we can eliminate the False information from search which we Don't want to be in our search.**
   
-  **Example to remove false-positive,type `"tulsi"` in your search box of eupmc and get:835 results**
+  
+  
+  
+  *Example to remove false-positive,type `"tulsi"` in your search box of eupmc and get:835 results.*
   
   
   ![tulsi](assets/tulsi_fp.png)
@@ -88,11 +118,15 @@
   
   
   
+  
+  
   ![](assets/TITLE_tulsi.png)
   
   
   
-  **Here we get a clear picture of Advanced search that how it eliminate the false-positive ,when we are using "tulsi" we get so many hits because it search tulsi as a name of human-being(tulsi) but after using TITLE:"tulsi" it give only 56 hits ,only regarding scientific query.**
+  
+  
+  **Here we get a clear picture of `Advanced search ` that how it eliminate the false-positive ,when we are using "tulsi" we get so many hits because it search tulsi as a  word which mean it can be name of any human-being(tulsi) but after using `TITLE:"tulsi" ` it give only 56 hits ,that means we get ourresults only regarding scientific query.**
   
   
   
@@ -119,14 +153,19 @@
   
   
   
-  **Type your Synonym Query into Advance search box  as shown below and  we get different results`
+  **Type your `Synonym ` Query into Advance search box  as shown below and  we get different results.**
   
   
   
   ![](assets/different_synanoums_advance_search.png)
   
   
- # Suppose we want something only in Body Not in the Title then type your query in Advance search as following in Bibliographic Fields.
+  
+  # NOTE: Use Operators (AND , OR , NOT) While using Synonyms.
+  
+  
+  
+ *Suppose we want something `only in Body`  NOT in the Title then type your query in Advance search as following in Bibliographic Fields.*
   
   
   ![](assets/wheat_body.png)
@@ -135,9 +174,9 @@
   
   
   
-  ## Try following Excercises of wheat,you get an idea how EPMC searches work
+  ## Try following Excercises of wheat,you get to know how exactly EPMC searches give results.
   
-  ## Queries You can try
+  # Queries You can try
   
 1. Wheat papers since 2015:
 
