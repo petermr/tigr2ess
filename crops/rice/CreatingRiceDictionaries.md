@@ -44,7 +44,7 @@ link to results
 * [`Rice.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.html).
 * [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml)
 * [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml)
-* [`riceVarietiesCategory`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
+* [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
 
 - JSON fo edited/clipped output <= 8 lines
 ```
@@ -77,6 +77,12 @@ link to results
 * size of output - 5.25 KB.
 * location of outputs - 
 
+* [`Rice.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml). 
+* [`Rice.json`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml).
+* [`Rice.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.html).
+* [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml)
+* [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml)
+* [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
 
 ## step 2
 ###
