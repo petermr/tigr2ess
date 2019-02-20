@@ -8,7 +8,7 @@ Tutorial and resources to create dictionaries, mainly from Wikimedia.
 
 ## tutorial material
 
-* [TUTORIAL](TUTORIAL_TEMPLATE.md)
+* [TUTORIAL](TUTORIAL.md)
 
 ## files in directory
 
