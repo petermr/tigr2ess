@@ -1,4 +1,4 @@
-# OVERVIEW file of Rice crop dictionary.
+# OVERVIEW of file contents of Rice crop directory.
 
 
 *Documenter/maintainer - AMBARISH KUMAR (er.ambarish@nipgr.ac.in, ambari73_sit@jnu.ac.in)*
