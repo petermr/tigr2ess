@@ -3,16 +3,19 @@
 
 
 ## Purpose of Tutorial
+
 This will help you into scientific articles download using getpapers and performing search with the help of ami-search-new tool/plugin of ami-jars. 
+
 ## Resources and software required
 
 * getpapers - [Downloads and installation](http://github.com/contentmine/getpapers)
 * ami-search-new - [Downloads and installation]()
-* dictionary - built-in dictionaries as well as local [rice dictionary]().
+* dictionary - built-in dictionaries as well as local [rice dictionary](https://github.com/petermr/tigr2ess/tree/master/crops/rice/rice.xml).
 
 ## Instructions
 
-## step 1
+## step 1 - getpapers.
+
 By default `getpapers` uses the [EuropePMC](http://www.europepmc.org) API. It's worth testing this online.
 
 If you've installed `getpapers`, make a directory for the results (we'll call it `tigr2ess` here). Then:
@@ -59,7 +62,7 @@ There are over 2 million articles in EPMC; we don't want to download all by mist
 
 ##### At the point of ongoing the workshop and downloading the articles, if you have limited access of internet and have to get the `getpapers` work done, go for the option `-k 10` and `-x`. It will limit the count of articles being downloaded to 10 and articles will be downloaded into light-weight `xml` file format. It will help you out in case of limited internet access, reduced query processing time  and memory storage. 
 
-##### Run following `getpaper` command with specified search query (this would only be for the day of the workshop). This will be a way out in case of limited band-width.  
+##### Run following `getpapers` command with specified search query (this would only be for the day of the workshop). This will be a way out in case of limited band-width.  
 
 ---
 *Action:* Enter `Holy basil` into the window
@@ -67,18 +70,40 @@ There are over 2 million articles in EPMC; we don't want to download all by mist
 ---
 
 ```
-##### Command-line syntax:
+Command-line syntax:
 
 getpapers -q "rice AND country" -x -k 10 -o <output_dir>
 
-##### Example:
+Example:
 
 getpapers -q "rice AND country" -x -k 10 -o rice/
 
 ```
 Run time log
 
-* Total run time - 
+```
+ambarish123@ubuntu:~$ getpapers -q "rice AND country" -x -k 10 -o rice
+info: Searching using eupmc API
+info: Found 8573 open access results
+warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
+warn: getpapers EuPMCVersion: 5.3.2 vs. 6.0.3 reported by api
+info: Limiting to 10 hits
+Retrieving results [==============================] 100% (eta 0.0s)
+info: Done collecting results
+info: limiting hits
+info: Saving result metadata
+info: Full EUPMC result metadata written to eupmc_results.json
+info: Individual EUPMC result metadata records written
+info: Extracting fulltext HTML URL list (may not be available for all articles)
+info: Fulltext HTML URL list written to eupmc_fulltext_html_urls.txt
+info: Got XML URLs for 10 out of 10 results
+info: Downloading fulltext XML files
+Downloading files [=======================] 100% (10/10) [0.0s elapsed, eta 0.0]
+info: All downloads succeeded!
+
+```
+
+* Total run time - downloads of 10 scholarly articles into xml format would take only few seconds. 
 
 
 ### what you should see
@@ -88,31 +113,58 @@ This will form a CProject directory - rice.
 Tree view of the project folder.
 
 ```
-tree
+ambarish123@ubuntu:~/rice$ tree
 .
-├── PMC1397864
-│   ├── fulltext.xml
-├── PMC2249741
-│   ├── fulltext.xml
-├── PMC2803133
-│   ├── fulltext.xml
-├── PMC6289780
-│   ├── fulltext.xml
-├── PMC6313609
-│   ├── fulltext.xml
+├── eupmc_fulltext_html_urls.txt
+├── eupmc_results.json
+├── PMC6024620
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6024883
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6031371
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6082532
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6147479
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6210429
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6243107
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6328150
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+├── PMC6348286
+│   ├── eupmc_result.json
+│   └── fulltext.xml
+└── PMC6352273
+    ├── eupmc_result.json
+    └── fulltext.xml
+
+10 directories, 22 files
 
 ```
 
 ### outputs
-* size of output 
-* location of [outputs]()
+
+* size of output - 1.5 MB.
+
+* location of [rice CPRoject](https://github.com/petermr/tigr2ess/tree/master/crops/rice/rice)
 
 
 ## step 2
+
 ### Perform search and find cooccurrence using tool/plugin - ami-search-new and built-in dictionaries.
 
 ```
-ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs gene
+ambarish123@ubuntu:~$ ami-search-new rice/ country drugs gene
 
 Short description of the command-line options are as follows.
 
@@ -123,10 +175,18 @@ Short description of the command-line options are as follows.
 - `country`, `drugs`, `gene` - built-in dictionaries and search terms. These have to be placed white-space seperated.
 
 ```
+Run time log (snippet)
 
+```
+running: word; word([frequencies])[{xpath:@count>20}, {w.stopwords:pmcstop.txt stopwords.txt}]...
+running: search; search([country])[]...
+running: search; search([drugs])[]...
+running: gene; gene([human])[]77592 [main] DEBUG org.contentmine.ami.dictionary.gene.HGNCDictionary  - is /org/contentmine/ami/plugins/gene/hgnc/hgnc.xml
+
+```
 ### link to results
 
-* *time taken if important* - It would take around 03 minimutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
+* *time taken if important* - It would take around 03 minutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
 
 * Tree view of CProject folder.
 
@@ -160,8 +220,11 @@ Short description of the command-line options are as follows.
 ├── search.country.documents.xml
 ├── search.country.snippets.xml
 ├── search.drugs.count.xml
+
 ```
+
 * Tree view of cooccurrence results and folders.
+
 ```
 .
 ├── country
@@ -185,10 +248,11 @@ Short description of the command-line options are as follows.
 │   └── cooccur.csv
 └── gene-gene
     └── cooccur.csv
+
 ```
 
-
 * *screenshots* keep visually small and/link to PNG.
+
 * [`full.DataTables.html`]
 
 ![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/full.DataTables.html1.png)
@@ -209,12 +273,14 @@ Short description of the command-line options are as follows.
 * [location of outputs](https://github.com/petermr/tigr2ess/blob/master/crops/rice/rice.tar.gz) 
 
 
+
 ## Perform search and find cooccurrence using tool/plugin - ami-search-new and local dictionaries.
+
 
 ### command to issue
 
 ```
-> ambarish123@ubuntu:~$ ami-search-new -p rice/ --dictionary /home/ambarish123/rice.xml
+ambarish123@ubuntu:~$ ami-search-new -p rice/ --dictionary /home/ambarish123/rice.xml
 
 Short description of the command-line options are as follows.
 
@@ -232,15 +298,58 @@ Short description of the command-line options are as follows.
 
 * *time taken if important* - It would take around 02-03 minutes to find all searches and cooccurrences for entries into the local dictionary. 
 
-```
+Run time log (snippet)
 
 ```
-* Tree view of cooccurrence results and folders.
+running: word; word([frequencies])[{xpath:@count>20}, {w.stopwords:pmcstop.txt stopwords.txt}]...
+running: search; search([/home/ambarish123/rice.xml])[]1    [main] DEBUG org.contentmine.cproject.files.ResourceLocation  - FILE /home/ambarish123/rice.xml
 
 ```
 
-```
+* Tree view of CProject
 
+```
+ambarish123@ubuntu:~/rice$ tree
+
+├── PMC6352273
+│   ├── eupmc_result.json
+│   ├── fulltext.xml
+│   ├── results
+│   │   ├── search
+│   │   │   └── 9febrice
+│   │   │       └── results.xml
+│   │   └── word
+│   │       └── frequencies
+│   │           ├── results.html
+│   │           └── results.xml
+│   ├── scholarly.html
+│   ├── search.rice.count.xml
+│   ├── search.rice.snippets.xml
+│   ├── word.frequencies.count.xml
+│   └── word.frequencies.snippets.xml
+├── search.rice.count.xml
+├── search.rice.documents.xml
+├── search.rice.snippets.xml
+├── word.frequencies.count.xml
+├── word.frequencies.documents.xml
+└── word.frequencies.snippets.xml
+
+63 directories, 114 files
+
+```
+Tree view of cooccurrence directory.
+
+```
+ambarish123@ubuntu:~/rice/__cooccurrence$ tree
+.
+├── rice
+│   └── histogram.csv
+└── rice-rice
+    └── cooccur.csv
+
+2 directories, 2 files
+
+```
 
 * *screenshots* keep visually small and/link to PNG.
 
