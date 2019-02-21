@@ -16,6 +16,11 @@ This will help you into scientific articles download using getpapers and perform
 
 ## step 1 - getpapers.
 
+---
+getpapers
+---
+---
+
 By default `getpapers` uses the [EuropePMC](http://www.europepmc.org) API. It's worth testing this online.
 
 If you've installed `getpapers`, make a directory for the results (we'll call it `tigr2ess` here). Then:
@@ -64,10 +69,7 @@ There are over 2 million articles in EPMC; we don't want to download all by mist
 
 ##### Run following `getpapers` command with specified search query (this would only be for the day of the workshop). This will be a way out in case of limited band-width.  
 
----
-*Action:* Enter `Holy basil` into the window
----
----
+
 
 ```
 Command-line syntax:
@@ -106,7 +108,7 @@ info: All downloads succeeded!
 * Total run time - downloads of 10 scholarly articles into xml format would take only few seconds. 
 
 
-### what you should see
+### results
 
 This will form a CProject directory - rice.
 
@@ -161,6 +163,11 @@ ambarish123@ubuntu:~/rice$ tree
 
 ## step 2
 
+---
+ami-search-new
+---
+---
+
 ### Perform search and find cooccurrence using tool/plugin - ami-search-new and built-in dictionaries.
 
 ```
@@ -184,9 +191,9 @@ running: search; search([drugs])[]...
 running: gene; gene([human])[]77592 [main] DEBUG org.contentmine.ami.dictionary.gene.HGNCDictionary  - is /org/contentmine/ami/plugins/gene/hgnc/hgnc.xml
 
 ```
-### link to results
+### results
 
-* *time taken if important* - It would take around 03 minutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
+* *time taken* - It would take around 03 minutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
 
 * Tree view of CProject folder.
 
@@ -251,7 +258,7 @@ running: gene; gene([human])[]77592 [main] DEBUG org.contentmine.ami.dictionary.
 
 ```
 
-* *screenshots* keep visually small and/link to PNG.
+* *screenshots*
 
 * [`full.DataTables.html`]
 
@@ -294,7 +301,7 @@ Short description of the command-line options are as follows.
 
 ```
 
-### link to results
+### results
 
 * *time taken if important* - It would take around 02-03 minutes to find all searches and cooccurrences for entries into the local dictionary. 
 
@@ -351,7 +358,7 @@ ambarish123@ubuntu:~/rice/__cooccurrence$ tree
 
 ```
 
-* *screenshots* keep visually small and/link to PNG.
+* *screenshots* 
 
 * [`full.DataTables.html`]
 
