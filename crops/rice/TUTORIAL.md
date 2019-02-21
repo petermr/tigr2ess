@@ -9,7 +9,7 @@ This will help you into scientific articles download using getpapers and perform
 ## Resources and software required
 
 * getpapers - [Downloads and installation](http://github.com/contentmine/getpapers)
-* ami-search-new - [Downloads and installation]()
+* ami-search-new - [Downloads and installation](https://github.com/petermr/normami/blob/master/INSTALL.md)
 * dictionary - built-in dictionaries as well as local [rice dictionary](https://github.com/petermr/tigr2ess/tree/master/crops/rice/rice.xml).
 
 ## Instructions
