@@ -24,12 +24,37 @@
 ![](assets/put_query_and_run.png)
 
 
-**5.Here i use an Example of plant taxon contained in "ocimum" in WFM dictionary**
+**5.Here i use an Example of plant taxon contained in "Lamiaceae" in WFM dictionary**
 
-*In red highlighted are we show how query look and with blue button we can run it*
+   **Copy and Paste this Query into your Wikidata Query Service page.**
 
 
-![](assets/plant_taxon_Laurales_results.png)
+`
+#Plant taxons contained in "Lamiaceae".
+SELECT ?item
+WHERE {
+  ?item wdt:P31* wd:Q960124.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}
+`
+
+    *And you get as shown below:*
+
+A.After putting query--
+
+  ![](assets/Ocimum_tenuiflorum.png)
+
+
+B.Click on Results shown below in `item` you get following:
+
+
+  ![](assets/Ocimum_tenuiflorum_1.png)
+
+
+C.When you open Wikidata Home page for Ocimum tenuiflorum goto `Statements` and mouseover `instance of` you get `Property:P31` and over `taxon` you Find `Q16521`
+
+
+   ![](assets/taxon_.png)
 
 
 **6. Wheat wikidata Query page having wikidata id (Q) and taxon poales**
