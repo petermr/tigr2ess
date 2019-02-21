@@ -9,9 +9,11 @@ Search EuropePubMedCentral.
 
 ## Files in Directory:
 
-1. [Screen shots directory](./assets/)
+  1. [Screen shots directory](./assets/)
 
-2. [epmc-1](epmc-1.md)
+  2. [epmc-1](epmc-1.md)
+
+  3. [eupmc_documentation](eupmc_documentation.md)
 
 
 
