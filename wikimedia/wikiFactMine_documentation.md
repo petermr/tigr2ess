@@ -36,7 +36,7 @@
 }
 `
 
-    *And you get as shown below:*
+  *And you get as shown below*
     
     
 
