@@ -60,14 +60,14 @@ This lists the formal exercises that we will carry out in the first half of the 
  Use the EuropePMC.org interface to explore how queries work. Understand false positives. Development of complex queries (AND, OR) and the likely pitfalls. 
 [details](program/epmc.md)
 
-### [`getpapers`](https://github.com/petermr/tigr2ess/blob/master/getpapersOcimum.md) (online) *Ambarish*
+### getpapers (online) *Ambarish*
   *Note. Bandwidth may need to be managed.* 
 Download a subset (10 articles) of the *Ocimum* papers in EPMC using <tt>getpapers</tt> initially in XML. Extend query to "ocimum AND country" (this will limit bandwidth). Delegates will then retrieve PDF.  Feedback/discussion of semantics and  XML and the differences between XML and PDF and the values of each. (Delegates can then download more papers in their own time. 
  
 ### Classifications and searches (AMI-Search) *Amit* 
  Open resources (MESH/Medline, Taxdump, etc. etc.) . Many of these are being subsumed into Wikidata.
  
-### [`Wikipedia](https://github.com/petermr/tigr2ess/blob/master/Wikipedia.md) (online) *Ambarish*
+### Wikipedia (online) *Ambarish*
  What WP is, how it is updated and checked. Overview of plant taxonomy in WP. Special pages (Category: foo, List_of_foo). 
 
 ### wikidata (online) *Vinita*
