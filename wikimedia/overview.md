@@ -21,13 +21,13 @@ This shows disambiguation, and the first line shows synonyms.
 ### taxonomy and synonyms (right)
 
 <table>
-  <tr><td><img src="assets/wp_header.png"/></td> </tr>
+  <td><img src="assets/wp_header.png"/></td> 
   
-  <tr><td> <img src="assets/wp_taxonomy.png" height="50%"/></td></tr>
+  <td> <img src="assets/wp_taxonomy.png"/></td>
   
-  <tr><td><img src="assets/wp_synonyms.png" style="height:50%;"/></td></tr>
+  <td><img src="assets/wp_synonyms.png"/></td>
   
-  <tr><td><img src="../misc/blank.png" style="height:50%;"/></td></tr>
+  </tr>
 </table>
 
 
@@ -55,7 +55,7 @@ Note the huge *infobox* on the right. This contains:
 <table>
 <tr>
   <td><img src="assets/wp_formula.png"/></td>
-  <td><img src="assets/wp_names.png"/>)</td>
+  <td><img src="assets/wp_names.png"/></td>
   <td><img src="assets/wp_chemids.png"/></td>
   <td><img src="assets/wp_properties.png"/></td>
   </tr>
