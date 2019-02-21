@@ -1,10 +1,8 @@
 # Software Installation 
 
-For Day 06 of our workshop, you need to install `getpapers` and `ami`.
+For Day 06 of our workshop, you need to install `getpapers` and `ami`. Please click on the appropriate link below depending on your Operating system.
 
-## Step by Step Installation over UNIX, WINDOWS & macOSX
-
-- For UNIX, Click <a href=/installation/unix/INSTALLATION.md>Here</a>
+- For UNIX(Ubuntu), Click <a href=/installation/unix/INSTALLATION.md>Here</a>
 
 - For OSX, Click <a href=/installation/mac/INSTALLATION.md>Here </a>
 
