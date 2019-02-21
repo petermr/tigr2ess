@@ -369,6 +369,6 @@ ambarish123@ubuntu:~/rice/__cooccurrence$ tree
 ### outputs
 
 * size of output - 3.5 MB.
-
+ 
 * [location of outputs](https://github.com/petermr/tigr2ess/blob/master/crops/rice/rice1.tar.gz) 
 
