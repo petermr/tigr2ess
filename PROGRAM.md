@@ -107,7 +107,7 @@ In the latter part of the day we invite delegates to form small groups and tackl
 [Overview](millet/overview.md) 
 
 ### Rice *Ambarish*
-[Overview](rice/overview.md) 
+[Overview](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Overview.md) 
 
 ### Wheat *Vinita*
 [Overview](wheat/overview.md) 
