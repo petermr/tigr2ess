@@ -7,5 +7,5 @@ Resources for 3 crops:
 * wheat
 
 ### corpora
-Each dictionary will have a pre-downloaded `CProject` with the latest Open Access articles on the crop (ca 1000) which can be used for exploration without connecting to the net.
+Each dictionary will have a pre-downloaded `CProject` (millet_corpus_2019, etc.) with the latest Open Access articles on the crop (ca 1000) which can be used for exploration without connecting to the net.
 
