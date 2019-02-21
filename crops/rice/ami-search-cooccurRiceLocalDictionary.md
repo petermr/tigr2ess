@@ -1,7 +1,5 @@
 # ami-search-cooccur for rice project using local dictionaries.
 
-### Compiled by Ambarish (ambari73_sit@jnu.ac.in, er.ambarish@nipgr.ac.in)
-
 ## Here is demonstrated search using `ami-search-cooccur` and local dictionary.
 
 Short description of the dictionary and usage.
