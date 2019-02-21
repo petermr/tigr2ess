@@ -1,7 +1,5 @@
 # Wheat Dictionary
 
-*Compiled by Vinita (vinitamehlawat@nipgr.ac.in)*
-
 ## overview
 We are creating 3 crop dictionaries for delegates in the workshop. This one is for Wheat (*Triticum spp.*). This is a model for all crop-based dictionaries.
 
