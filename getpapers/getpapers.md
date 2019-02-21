@@ -1,7 +1,6 @@
 # getpapers
 
-`getpapers` (written by Rik Smith-Unna, supported by ContentMine with Shuttleworth Funding) is a simple, powerful toolf for querying repositories
-of scholarly articles using a simple one-line command.
+###### `getpapers`(written by Rik Smith-Unna, supported by ContentMine with Shuttleworth Funding) is a simple, powerful tool for querying repositories of scholarly articles using a simple one-line command.
 
 Full instructions for installation and use are given at [getpapers repository](http://github.com/contentmine/getpapers). Please download and 
 install.
@@ -265,6 +264,31 @@ info: Found 1059 open access results
 This has doubled our corpus (recall). We shan't know how accurate (precision) this is until we run `AMI` and human eyes over the 1000 papers.
 
 Thank you Ambarish for this nice problem!
+
+##### Discussed getpapers commands all put together.
+
+```
+$ getpapers -q "Ocimum sanctum" -n
+
+$ getpapers -q "Ocimum sanctum" -o osanctum -x -k 100
+
+$ getpapers -q "xxyyxx" -n
+
+$ getpapers -q "a" -n
+
+$ getpapers -q "ocimum" -n
+
+$ getpapers -q "sanctum" -n
+
+$ getpapers -q "ocimum AND sanctum" -n
+
+$ getpapers -q "ocimum sanctum" -n
+
+$ getpapers -q "((Ocimum sanctum) OR (Ocimum tenuiflorum) OR (thulasi) OR (tulasi) OR (tulsi) OR (holy basil))" -n
+
+
+
+
 
 ## problems
 If you have problems **during the TIGR2ESS workshop program only** please raise a Github issue here. Otherwise raise it on the `getpapers` site.
