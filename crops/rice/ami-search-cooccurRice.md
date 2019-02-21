@@ -1,5 +1,4 @@
 # ami-search-cooccur for the rice project.
-### Compiled by Ambarish (ambari73_sit@jnu.ac.in, er.ambarish@nipgr.ac.in)
 ## ami-search-cooccur using built-in dictionaries.
 ```
 ambarish123@ubuntu:~$ ami-search-cooccur rice/ country drugs plantparts species gene
