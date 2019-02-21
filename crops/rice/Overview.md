@@ -1,10 +1,5 @@
 # OVERVIEW of file contents of Rice crop directory.
 
-
-*Documenter/maintainer - AMBARISH KUMAR (er.ambarish@nipgr.ac.in, ambari73_sit@jnu.ac.in)*
-
-
-
 ## purpose of directory 
 This file is for an overview of the directory content (to help users to navigate through it). 
 
