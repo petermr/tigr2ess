@@ -1,4 +1,7 @@
-# ami analysis
+# ami analysis for Millet
+
+**WARN** repeat using singular "millet" to get more hits.
+
 Using `getpapers`, we retrieved 100 papers for millets in xml format, and stored them in `millets_xml` directory.
 
 ## ami-search-cooccur (on default ami dictionaries)

@@ -1,4 +1,4 @@
-# CROP Directories
+# Millet Directory
 
 ## overview
 Resources for 3 crops:
@@ -6,9 +6,11 @@ Resources for 3 crops:
 * [rice](rice/OVERVIEW.md)
 * [wheat](wheat/OVERVIEW.md)
 
-## corpora
-Each dictionary will have a pre-downloaded `CProject` (corpus, etc.) with the latest Open Access articles (2017-2019) (ca 1000) 
-which can be used for exploration without connecting to the net.
+## dictionaries
+From Wikimedia millet category
+* [HTML](millet_dictionary_wikicategory.html) for reading
+* [JSON](millet_dictionary_wikicategory.json)
+* [XML](millet_dictionary_wikicategory.ml) for searching
 
 ## other resources 
 Directories contain dictionaries, preliminary results, etc.
