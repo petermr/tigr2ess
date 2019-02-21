@@ -10,29 +10,27 @@
 ![](assets/wikiFactMine_SPARQL_homepage.png)
 
 
-
-
-**2.Number of Dictionaries  and way for choose them is simply click on `try it` link**
+**2.Number of Dictionaries  and way for choose them is simply click on `try it` link.**
 
 
 ![](assets/select_Dict_106.png)
 
 
 
-**3.This is how  wikiData query service page looks like  shown below**
+**3.This is how  wikiData query service page looks like  shown below.**
 
 ![](assets/put_query_and_run.png)
 
 
-**5.Here i use an Example of plant taxon contained in "Lamiaceae" in WFM dictionary**
+**5.Here i use an Example of `plant taxon contained in "Lamiaceae" ` in WFM dictionary.**
 
    **Copy and Paste this Query into your Wikidata Query Service page.**
 
 
 `
-#Plant taxons contained in "Lamiaceae".
-SELECT ?item
-WHERE {
+  #Plant taxons contained in "Lamiaceae".
+  SELECT ?item
+  WHERE {
   ?item wdt:P31* wd:Q960124.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
 }
@@ -40,7 +38,7 @@ WHERE {
 
     *And you get as shown below:*
 
-A.After putting query--
+A.After putting query:
 
   ![](assets/Ocimum_tenuiflorum.png)
 
@@ -57,13 +55,13 @@ C.When you open Wikidata Home page for Ocimum tenuiflorum goto `Statements` and 
    ![](assets/taxon_.png)
 
 
-**6. Wheat wikidata Query page having wikidata id (Q) and taxon poales**
+**6. Wheat wikidata Query page having wikidata id (Q) and taxon poales.**
 
 
 ![](assets/wheat_wikifactMine.png)
 
 
-**7. Rice Dictionary having `taxon poales` and `wikidata id:Q5090`** 
+**7. Rice Dictionary having `taxon poales` and `wikidata id:Q5090`.** 
 
 
 ![](assets/Rice_wikiFactMine.png)
@@ -71,7 +69,7 @@ C.When you open Wikidata Home page for Ocimum tenuiflorum goto `Statements` and 
 
 
 
-**9.Ocimum family wikiFactmine Query Service page**
+**9.`Ocimum family` wikiFactmine Query Service page**
 
 
 ![](assets/Ocimum_family_results.png)
