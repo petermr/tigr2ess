@@ -6,9 +6,9 @@
 This will help you into scientific articles download using getpapers and performing search with the help of ami-search-new tool/plugin of ami-jars. 
 ## Resources and software required
 
-* getpapers
-* ami-search-new
-* dictionary
+* getpapers - [Downloads links]()
+* ami-search-new - [Download links]()
+* dictionary - built-in dictionaries as well as local [rice dictionary]().
 
 ## Instructions
 
@@ -57,9 +57,9 @@ We'll be using the most of the options, especially `-q`,`-x`,`-k` and `-o`.
 
 There are over 2 million articles in EPMC; we don't want to download all by mistake so it's worth running a query with `-n` to test, and pass-on the value of option `- k` as per your interest. Let's say `-k 10` to download the first trial set. You *can* download thousands, but the connection may break and it's worth being able to develop the analysis anyway.
 
-#### At the point of ongoing the workshop and downloading the articles, if you have limited access of internet and have to get the `getpapers` work done, go for the option `-k 10` and `-x`. It will limit the count of articles being downloaded to 10 and articles will be downloaded into light-weight `xml` file format. It will help you out in case of limited internet access, reduced query processing time  and memory storage. 
+##### At the point of ongoing the workshop and downloading the articles, if you have limited access of internet and have to get the `getpapers` work done, go for the option `-k 10` and `-x`. It will limit the count of articles being downloaded to 10 and articles will be downloaded into light-weight `xml` file format. It will help you out in case of limited internet access, reduced query processing time  and memory storage. 
 
-#### Run following `getpaper` command with specified search query (this would only be for the day of the workshop). This will be a way out in case of limited band-width.  
+##### Run following `getpaper` command with specified search query (this would only be for the day of the workshop). This will be a way out in case of limited band-width.  
 
 ---
 *Action:* Enter `Holy basil` into the window
@@ -75,10 +75,9 @@ getpapers -q "rice AND country" -x -k 10 -o <output_dir>
 
 getpapers -q "rice AND country" -x -k 10 -o rice/
 
+```
 Run time log
 
-```
-```
 * Total run time - 
 
 
@@ -127,7 +126,8 @@ Short description of the command-line options are as follows.
 
 ### link to results
 
-* *time taken if important* - IT would take around 03 minimutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
+* *time taken if important* - It would take around 03 minimutes to find all cooccurrences among specified search terms. Our data set would confined to CProject containing 10 scientific articles.
+
 * Tree view of CProject folder.
 
 ```
@@ -189,22 +189,30 @@ Short description of the command-line options are as follows.
 
 
 * *screenshots* keep visually small and/link to PNG.
+* [`full.DataTables.html`]
 
 ![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/full.DataTables.html1.png)
 
+* [`common.DataTables.html`]
+
 ![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.DataTables.html1.png)
+
+* [`entries.DataTables.html`]
 
 ![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.DataTables.html1.png)
 
 
 ### outputs
+
 * size of output - 1.5 MB.
+
 * [location of outputs](https://github.com/petermr/tigr2ess/blob/master/crops/rice/rice.tar.gz) 
 
 
 ## Perform search and find cooccurrence using tool/plugin - ami-search-new and local dictionaries.
 
 ### command to issue
+
 ```
 > ambarish123@ubuntu:~$ ami-search-new -p rice/ --dictionary /home/ambarish123/rice.xml
 
@@ -228,6 +236,7 @@ Short description of the command-line options are as follows.
 
 ```
 * Tree view of cooccurrence results and folders.
+
 ```
 
 ```
@@ -235,14 +244,22 @@ Short description of the command-line options are as follows.
 
 * *screenshots* keep visually small and/link to PNG.
 
+* [`full.DataTables.html`]
+
 ![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/full.DataTables.html2.png)
 
+* [`common.DataTables.html`]
+
 ![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.DataTables.html2.png)
+
+* [`entries.DataTables.html`]
 
 ![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.DataTables.html2.png)
 
 
 ### outputs
+
 * size of output - 3.5 MB.
+
 * [location of outputs](https://github.com/petermr/tigr2ess/blob/master/crops/rice/rice1.tar.gz) 
 
