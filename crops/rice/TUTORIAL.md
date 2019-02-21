@@ -6,8 +6,8 @@
 This will help you into scientific articles download using getpapers and performing search with the help of ami-search-new tool/plugin of ami-jars. 
 ## Resources and software required
 
-* getpapers - [Downloads links]()
-* ami-search-new - [Download links]()
+* getpapers - [Downloads and installation](http://github.com/contentmine/getpapers)
+* ami-search-new - [Downloads and installation]()
 * dictionary - built-in dictionaries as well as local [rice dictionary]().
 
 ## Instructions
