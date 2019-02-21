@@ -255,15 +255,15 @@ running: gene; gene([human])[]77592 [main] DEBUG org.contentmine.ami.dictionary.
 
 * [`full.DataTables.html`]
 
-![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/full.DataTables.html1.png)
+![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/full.DataTables.html1.png)
 
 * [`common.DataTables.html`]
 
-![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.DataTables.html1.png)
+![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/commonest.DataTables.html1.png)
 
 * [`entries.DataTables.html`]
 
-![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.DataTables.html1.png)
+![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/entries.DataTables.html1.png)
 
 
 ### outputs
@@ -355,15 +355,15 @@ ambarish123@ubuntu:~/rice/__cooccurrence$ tree
 
 * [`full.DataTables.html`]
 
-![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/full.DataTables.html2.png)
+![`full.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/full.DataTables.html2.png)
 
 * [`common.DataTables.html`]
 
-![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/commonest.DataTables.html2.png)
+![`common.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/commonest.DataTables.html2.png)
 
 * [`entries.DataTables.html`]
 
-![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/entries.DataTables.html2.png)
+![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/entries.DataTables.html2.png)
 
 
 ### outputs
