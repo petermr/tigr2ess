@@ -1,0 +1,287 @@
+{
+  "id": [
+    "30105054"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30105054"
+  ],
+  "pmcid": [
+    "PMC6076898"
+  ],
+  "doi": [
+    "10.1155/2018/8032831"
+  ],
+  "title": [
+    "Authenticity Detection of Black Rice by Near-Infrared Spectroscopy and Support Vector Data Description."
+  ],
+  "authorString": [
+    "Chen H, Tan C, Lin Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Lab of Process Analysis and Control of Sichuan Universities, Yibin University, Yibin, Sichuan 644000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4652-2053",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Lab of Process Analysis and Control of Sichuan Universities, Yibin University, Yibin, Sichuan 644000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin Z"
+          ],
+          "firstName": [
+            "Zan"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Lab of Process Analysis and Control of Sichuan Universities, Yibin University, Yibin, Sichuan 644000, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4652-2053",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2655192"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of analytical chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Int J Anal Chem"
+          ],
+          "medlineAbbreviation": [
+            "Int J Anal Chem"
+          ],
+          "NLMid": [
+            "101519424"
+          ],
+          "ISSN": [
+            "1687-8760"
+          ],
+          "ESSN": [
+            "1687-8779"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "8032831"
+  ],
+  "abstractText": [
+    "Black rice is an important rice species in Southeast Asia. It is a common phenomenon to pass low-priced black rice off as high-priced ones for economic benefit, especially in some remote towns. There is increasing need for the development of fast, easy-to-use, and low-cost analytical methods for authenticity detection. The feasibility to utilize near-infrared (NIR) spectroscopy and support vector data description (SVDD) for such a goal is explored. Principal component analysis (PCA) is used for exploratory analysis and feature extraction. Another two data description methods, i.e., k-nearest neighbor data description (KNNDD) and GAUSS method, are used as the reference. A total of 142 samples from three brands were collected for spectral analysis. Each time, the samples of a brand serve as the target class whereas other samples serve as the outlier class. Based on both the first two principal components (PCs) and original variables, three types of data descriptions were constructed. On average, the optimized SVDD model achieves acceptable performance, i.e., a specificity of 100% and a sensitivity of 94.2% on the independent test set with tight boundary. It indicates that SVDD combined with NIR is feasible and effective for authenticity detection of black rice."
+  ],
+  "affiliation": [
+    "Key Lab of Process Analysis and Control of Sichuan Universities, Yibin University, Yibin, Sichuan 644000, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6076898?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6076898"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/8032831"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-15"
+  ],
+  "dateOfRevision": [
+    "2018-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-09"
+  ],
+  "firstPublicationDate": [
+    "2018-07-09"
+  ]
+}

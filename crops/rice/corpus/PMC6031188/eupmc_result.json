@@ -1,0 +1,876 @@
+{
+  "id": [
+    "29973285"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29973285"
+  ],
+  "pmcid": [
+    "PMC6031188"
+  ],
+  "doi": [
+    "10.1186/s13059-018-1458-5"
+  ],
+  "title": [
+    "A large-scale whole-genome sequencing analysis reveals highly specific genome editing by both Cas9 and Cpf1 (Cas12a) nucleases in rice."
+  ],
+  "authorString": [
+    "Tang X, Liu G, Zhou J, Ren Q, You Q, Tian L, Xin X, Zhong Z, Liu B, Zheng X, Zhang D, Malzahn A, Gong Z, Qi Y, Zhang T, Zhang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tang X"
+          ],
+          "firstName": [
+            "Xu"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu G"
+          ],
+          "firstName": [
+            "Guanqing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Crop Genetics and Physiology, Co-Innovation Center for Modern Production Technology of Grain Crops, Key Laboratory of Plant Functional Genomics of the Ministry of Education, Yangzhou University, Yangzhou, 225009, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Jianping"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren Q"
+          ],
+          "firstName": [
+            "Qiurong"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "You Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Crop Genetics and Physiology, Co-Innovation Center for Modern Production Technology of Grain Crops, Key Laboratory of Plant Functional Genomics of the Ministry of Education, Yangzhou University, Yangzhou, 225009, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xin X"
+          ],
+          "firstName": [
+            "Xuhui"
+          ],
+          "lastName": [
+            "Xin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong Z"
+          ],
+          "firstName": [
+            "Zhaohui"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu B"
+          ],
+          "firstName": [
+            "Binglin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng X"
+          ],
+          "firstName": [
+            "Xuelian"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Dengwei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Malzahn A"
+          ],
+          "firstName": [
+            "Aimee"
+          ],
+          "lastName": [
+            "Malzahn"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Plant Science and Landscape Architecture, University of Maryland, College Park, MD, 20742, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Z"
+          ],
+          "firstName": [
+            "Zhiyun"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Crop Genetics and Physiology, Co-Innovation Center for Modern Production Technology of Grain Crops, Key Laboratory of Plant Functional Genomics of the Ministry of Education, Yangzhou University, Yangzhou, 225009, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qi Y"
+          ],
+          "firstName": [
+            "Yiping"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Plant Science and Landscape Architecture, University of Maryland, College Park, MD, 20742, USA. Yiping@umd.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Jiangsu Key Laboratory of Crop Genetics and Physiology, Co-Innovation Center for Modern Production Technology of Grain Crops, Key Laboratory of Plant Functional Genomics of the Ministry of Education, Yangzhou University, Yangzhou, 225009, China. zhangtao@yzu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3704-4835",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China. zhangyong916@uestc.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3704-4835",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2703166"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "84"
+  ],
+  "abstractText": [
+    "BACKGROUND:Targeting specificity has been a barrier to applying genome editing systems in functional genomics, precise medicine and plant breeding. In plants, only limited studies have used whole-genome sequencing (WGS) to test off-target effects of Cas9. The cause of numerous discovered mutations is still controversial. Furthermore, WGS-based off-target analysis of Cpf1 (Cas12a) has not been reported in any higher organism to date. RESULTS:We conduct a WGS analysis of 34 plants edited by Cas9 and 15 plants edited by Cpf1 in T0 and T1 generations along with 20 diverse control plants in rice. The sequencing depths range from 45× to 105× with read mapping rates above 96%. Our results clearly show that most mutations in edited plants are created by the tissue culture process, which causes approximately 102 to 148 single nucleotide variations (SNVs) and approximately 32 to 83 insertions/deletions (indels) per plant. Among 12 Cas9 single guide RNAs (sgRNAs) and three Cpf1 CRISPR RNAs (crRNAs) assessed by WGS, only one Cas9 sgRNA resulted in off-target mutations in T0 lines at sites predicted by computer programs. Moreover, we cannot find evidence for bona fide off-target mutations due to continued expression of Cas9 or Cpf1 with guide RNAs in T1 generation. CONCLUSIONS:Our comprehensive and rigorous analysis of WGS data across multiple sample types suggests both Cas9 and Cpf1 nucleases are very specific in generating targeted DNA modifications and off-targeting can be avoided by designing guide RNAs with high specificity."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, School of Life Sciences and Technology, Center for Informational Biology, University of Electronic Science and Technology of China, Room 216, Main Building, No. 4, Section 2, North Jianshe Road, Chengdu, 610054, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018ZX08022001-003"
+          ],
+          "agency": [
+            "National Transgenic Major Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31771486"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31330017"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (CN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endonucleases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Guide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Endonucleases"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Guide"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6031188?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6031188"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-018-1458-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR16668"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-10-30"
+  ],
+  "dateOfCreation": [
+    "2018-07-06"
+  ],
+  "dateOfRevision": [
+    "2018-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-04"
+  ],
+  "firstPublicationDate": [
+    "2018-07-04"
+  ]
+}

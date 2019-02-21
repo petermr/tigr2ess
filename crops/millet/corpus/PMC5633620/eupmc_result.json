@@ -1,0 +1,3605 @@
+{
+  "id": [
+    "28374097"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28374097"
+  ],
+  "pmcid": [
+    "PMC5633620"
+  ],
+  "doi": [
+    "10.1007/s00134-017-4766-4"
+  ],
+  "title": [
+    "Performance and economic evaluation of the molecular detection of pathogens for patients with severe infections: the EVAMICA open-label, cluster-randomised, interventional crossover trial."
+  ],
+  "authorString": [
+    "Cambau E, Durand-Zaleski I, Bretagne S, Brun-Buisson C, Cordonnier C, Duval X, Herwegh S, Pottecher J, Courcol R, Bastuji-Garin S, EVAMICA study team."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cambau E"
+          ],
+          "firstName": [
+            "Emmanuelle"
+          ],
+          "lastName": [
+            "Cambau"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5944-2530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "APHP-Lariboisière, Bacteriology Laboratory, 75010, Paris, France. emmanuelle.cambau@aphp.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Durand-Zaleski I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Durand-Zaleski"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "APHP-URC ECO, Créteil, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bretagne S"
+          ],
+          "firstName": [
+            "Stéphane"
+          ],
+          "lastName": [
+            "Bretagne"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "APHP-Henri Mondor, Parasitology and Mycology Laboratory, 94010, Créteil, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Brun-Buisson C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Brun-Buisson"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "APHP- Henri Mondor, Intensive Care Department, 94010, Créteil, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Cordonnier C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Cordonnier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "APHP- Henri Mondor, Haematology Department and University Paris-Est Créteil, 94010, Créteil, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Duval X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Duval"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "APHP-Bichat, Centre d'investigation Clinique CIC 1425, INSERM UMR 1137 IAME, University Paris Diderot, 75018, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Herwegh S"
+          ],
+          "firstName": [
+            "Stéphanie"
+          ],
+          "lastName": [
+            "Herwegh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "CHU Lille, Microbiology Institute, 59000, Lille, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pottecher J"
+          ],
+          "firstName": [
+            "Julien"
+          ],
+          "lastName": [
+            "Pottecher"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6073-4354",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hôpitaux Universitaires de Strasbourg, Hôpital de Hautepierre, Service d'Anesthésie-Réanimation chirurgicale, Université de Strasbourg, FMTS, EA 3072, 67098, Strasbourg, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Courcol R"
+          ],
+          "firstName": [
+            "René"
+          ],
+          "lastName": [
+            "Courcol"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "CHU Lille, Microbiology Institute, 59000, Lille, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bastuji-Garin S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Bastuji-Garin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9855-5183",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "APHP-Henri Mondor, Public Health Department, 94010, Créteil, France."
+          ]
+        },
+        {
+          "collectiveName": [
+            "EVAMICA study team"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Lefort A"
+          ],
+          "firstName": [
+            "Agnès"
+          ],
+          "lastName": [
+            "Lefort"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Mantz J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Mantz"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Pease S"
+          ],
+          "firstName": [
+            "Sébastien"
+          ],
+          "lastName": [
+            "Pease"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Lavagna L"
+          ],
+          "firstName": [
+            "Leïla"
+          ],
+          "lastName": [
+            "Lavagna"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Nicolas-Chanoine MH"
+          ],
+          "firstName": [
+            "Marie Hélène"
+          ],
+          "lastName": [
+            "Nicolas-Chanoine"
+          ],
+          "initials": [
+            "MH"
+          ]
+        },
+        {
+          "fullName": [
+            "Leflon V"
+          ],
+          "firstName": [
+            "Véronique"
+          ],
+          "lastName": [
+            "Leflon"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Marcon E"
+          ],
+          "firstName": [
+            "Estelle"
+          ],
+          "lastName": [
+            "Marcon"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Ruimy R"
+          ],
+          "firstName": [
+            "Raymond"
+          ],
+          "lastName": [
+            "Ruimy"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Andremont A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Andremont"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Lebras J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Lebras"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Iung B"
+          ],
+          "firstName": [
+            "Bernard"
+          ],
+          "lastName": [
+            "Iung"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Regnier B"
+          ],
+          "firstName": [
+            "Bernard"
+          ],
+          "lastName": [
+            "Regnier"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Yeni P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Yeni"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Montravers P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Montravers"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Mourvillier B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Mourvillier"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Ilic-Habensus E"
+          ],
+          "firstName": [
+            "Emila"
+          ],
+          "lastName": [
+            "Ilic-Habensus"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Talbi NEA"
+          ],
+          "firstName": [
+            "Nadia El Alami"
+          ],
+          "lastName": [
+            "Talbi"
+          ],
+          "initials": [
+            "NEA"
+          ]
+        },
+        {
+          "fullName": [
+            "Lasocki S"
+          ],
+          "firstName": [
+            "Sigismond"
+          ],
+          "lastName": [
+            "Lasocki"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Bouscary D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Bouscary"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3654-5064",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mira JP"
+          ],
+          "firstName": [
+            "Jean-Paul"
+          ],
+          "lastName": [
+            "Mira"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Grimaldi D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Grimaldi"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Marin N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Marin"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Doloy A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Doloy"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Poyart C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Poyart"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2158-6293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scherrer E"
+          ],
+          "firstName": [
+            "Emmanuel"
+          ],
+          "lastName": [
+            "Scherrer"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Chambon-Pautas C"
+          ],
+          "firstName": [
+            "Cecile"
+          ],
+          "lastName": [
+            "Chambon-Pautas"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Cook F"
+          ],
+          "firstName": [
+            "Fabrice"
+          ],
+          "lastName": [
+            "Cook"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Mekontso-Dessap A"
+          ],
+          "firstName": [
+            "Armand"
+          ],
+          "lastName": [
+            "Mekontso-Dessap"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Schortgen F"
+          ],
+          "firstName": [
+            "Frédérique"
+          ],
+          "lastName": [
+            "Schortgen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1756-7508",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chedevergne K"
+          ],
+          "firstName": [
+            "Karine"
+          ],
+          "lastName": [
+            "Chedevergne"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Vernant JP"
+          ],
+          "firstName": [
+            "Jean-Paul"
+          ],
+          "lastName": [
+            "Vernant"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Gauvin-Bodin L"
+          ],
+          "firstName": [
+            "Liliane"
+          ],
+          "lastName": [
+            "Gauvin-Bodin"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Trouillet JL"
+          ],
+          "firstName": [
+            "Jean-Louis"
+          ],
+          "lastName": [
+            "Trouillet"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Chastre J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Chastre"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Bricaire F"
+          ],
+          "firstName": [
+            "François"
+          ],
+          "lastName": [
+            "Bricaire"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Brossier F"
+          ],
+          "firstName": [
+            "Florence"
+          ],
+          "lastName": [
+            "Brossier"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Jarlier V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Jarlier"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Dheder N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Dheder"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Nieszkowska A"
+          ],
+          "firstName": [
+            "Ania"
+          ],
+          "lastName": [
+            "Nieszkowska"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Datry A"
+          ],
+          "firstName": [
+            "Annick"
+          ],
+          "lastName": [
+            "Datry"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Fekkar A"
+          ],
+          "firstName": [
+            "Arnaud"
+          ],
+          "lastName": [
+            "Fekkar"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Buffet P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "Buffet"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4010-929X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mazier R"
+          ],
+          "firstName": [
+            "Rommy"
+          ],
+          "lastName": [
+            "Mazier"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Brun S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Brun"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Meyssonnier V"
+          ],
+          "firstName": [
+            "Vanina"
+          ],
+          "lastName": [
+            "Meyssonnier"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Isnard F"
+          ],
+          "firstName": [
+            "Françoise"
+          ],
+          "lastName": [
+            "Isnard"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Baudel JL"
+          ],
+          "firstName": [
+            "Jean-Luc"
+          ],
+          "lastName": [
+            "Baudel"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Meynard JL"
+          ],
+          "firstName": [
+            "Jean-Luc"
+          ],
+          "lastName": [
+            "Meynard"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Petit JC"
+          ],
+          "firstName": [
+            "Jean-Claude"
+          ],
+          "lastName": [
+            "Petit"
+          ],
+          "initials": [
+            "JC"
+          ]
+        },
+        {
+          "fullName": [
+            "Lalande V"
+          ],
+          "firstName": [
+            "Valérie"
+          ],
+          "lastName": [
+            "Lalande"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Roux P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Roux"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Raffoux E"
+          ],
+          "firstName": [
+            "Emmanuel"
+          ],
+          "lastName": [
+            "Raffoux"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Ribaud P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Ribaud"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Das V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Schlemmer B"
+          ],
+          "firstName": [
+            "Benoit"
+          ],
+          "lastName": [
+            "Schlemmer"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Azoulay E"
+          ],
+          "firstName": [
+            "Elie"
+          ],
+          "lastName": [
+            "Azoulay"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Chimot L"
+          ],
+          "firstName": [
+            "Loic"
+          ],
+          "lastName": [
+            "Chimot"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Molina JM"
+          ],
+          "firstName": [
+            "Jean-Michel"
+          ],
+          "lastName": [
+            "Molina"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Ponscarme D"
+          ],
+          "firstName": [
+            "Diane"
+          ],
+          "lastName": [
+            "Ponscarme"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Pavie J"
+          ],
+          "firstName": [
+            "Juliette"
+          ],
+          "lastName": [
+            "Pavie"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Simon F"
+          ],
+          "firstName": [
+            "François"
+          ],
+          "lastName": [
+            "Simon"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Casin I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Casin"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Menotti J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Menotti"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gruson D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Gruson"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Bessède E"
+          ],
+          "firstName": [
+            "Emilie"
+          ],
+          "lastName": [
+            "Bessède"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Guilhon E"
+          ],
+          "firstName": [
+            "Emmanuelle"
+          ],
+          "lastName": [
+            "Guilhon"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Accoceberry I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Accoceberry"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Millet P"
+          ],
+          "firstName": [
+            "Pascal"
+          ],
+          "lastName": [
+            "Millet"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Bébéar C"
+          ],
+          "firstName": [
+            "Cécile"
+          ],
+          "lastName": [
+            "Bébéar"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Berthoux C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Berthoux"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Tonnelier JM"
+          ],
+          "firstName": [
+            "Jean-Marie"
+          ],
+          "lastName": [
+            "Tonnelier"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Garre M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Garre"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Hery-Arnaud G"
+          ],
+          "firstName": [
+            "Geneviève"
+          ],
+          "lastName": [
+            "Hery-Arnaud"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Payan C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Payan"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Nevez G"
+          ],
+          "firstName": [
+            "Gilles"
+          ],
+          "lastName": [
+            "Nevez"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Timsit JF"
+          ],
+          "firstName": [
+            "Jean-Francois"
+          ],
+          "lastName": [
+            "Timsit"
+          ],
+          "initials": [
+            "JF"
+          ]
+        },
+        {
+          "fullName": [
+            "Cahn JY"
+          ],
+          "firstName": [
+            "Jean-Yves"
+          ],
+          "lastName": [
+            "Cahn"
+          ],
+          "initials": [
+            "JY"
+          ]
+        },
+        {
+          "fullName": [
+            "Brion JP"
+          ],
+          "firstName": [
+            "Jean-Paul"
+          ],
+          "lastName": [
+            "Brion"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Le Beau B"
+          ],
+          "firstName": [
+            "Bernard"
+          ],
+          "lastName": [
+            "Le Beau"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Courby S"
+          ],
+          "firstName": [
+            "Stephane"
+          ],
+          "lastName": [
+            "Courby"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Pelloux H"
+          ],
+          "firstName": [
+            "Hervé"
+          ],
+          "lastName": [
+            "Pelloux"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Maurin M"
+          ],
+          "firstName": [
+            "Max"
+          ],
+          "lastName": [
+            "Maurin"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Epaulard O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Epaulard"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Hamidfar R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Hamidfar"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Berthon C"
+          ],
+          "firstName": [
+            "Céline"
+          ],
+          "lastName": [
+            "Berthon"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Coiteux V"
+          ],
+          "firstName": [
+            "Valérie"
+          ],
+          "lastName": [
+            "Coiteux"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Terriou L"
+          ],
+          "firstName": [
+            "Louis"
+          ],
+          "lastName": [
+            "Terriou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5919-9956",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nseir S"
+          ],
+          "firstName": [
+            "Saadalla"
+          ],
+          "lastName": [
+            "Nseir"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Auffray JL"
+          ],
+          "firstName": [
+            "Jean-Luc"
+          ],
+          "lastName": [
+            "Auffray"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Jouet JP"
+          ],
+          "firstName": [
+            "Jean-Pierre"
+          ],
+          "lastName": [
+            "Jouet"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Durocher A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Durocher"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Faure K"
+          ],
+          "firstName": [
+            "Karine"
+          ],
+          "lastName": [
+            "Faure"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Clavel M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Clavel"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Camus D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Camus"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Dugard A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Dugard"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Tisseuil C"
+          ],
+          "firstName": [
+            "Chantal"
+          ],
+          "lastName": [
+            "Tisseuil"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Duchiron C"
+          ],
+          "firstName": [
+            "Cécile"
+          ],
+          "lastName": [
+            "Duchiron"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Ajzenberg D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Ajzenberg"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5357-3318",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bordessoule D"
+          ],
+          "firstName": [
+            "Dominique"
+          ],
+          "lastName": [
+            "Bordessoule"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Garnier F"
+          ],
+          "firstName": [
+            "Fabien"
+          ],
+          "lastName": [
+            "Garnier"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "François B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "François"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Ploy MC"
+          ],
+          "firstName": [
+            "Marie-Cécile"
+          ],
+          "lastName": [
+            "Ploy"
+          ],
+          "initials": [
+            "MC"
+          ]
+        },
+        {
+          "fullName": [
+            "Darde ML"
+          ],
+          "firstName": [
+            "Marie-Laure"
+          ],
+          "lastName": [
+            "Darde"
+          ],
+          "initials": [
+            "ML"
+          ]
+        },
+        {
+          "fullName": [
+            "Chaury MP"
+          ],
+          "firstName": [
+            "Marie-Pierre"
+          ],
+          "lastName": [
+            "Chaury"
+          ],
+          "initials": [
+            "MP"
+          ]
+        },
+        {
+          "fullName": [
+            "Giraud S"
+          ],
+          "firstName": [
+            "Stephane"
+          ],
+          "lastName": [
+            "Giraud"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Jaccard A"
+          ],
+          "firstName": [
+            "Arnaud"
+          ],
+          "lastName": [
+            "Jaccard"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreau S"
+          ],
+          "firstName": [
+            "Stéphane"
+          ],
+          "lastName": [
+            "Moreau"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Réménieras L"
+          ],
+          "firstName": [
+            "Liliane"
+          ],
+          "lastName": [
+            "Réménieras"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Touati M"
+          ],
+          "firstName": [
+            "Mohamed"
+          ],
+          "lastName": [
+            "Touati"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Turlure P"
+          ],
+          "firstName": [
+            "Pascal"
+          ],
+          "lastName": [
+            "Turlure"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Amiel JB"
+          ],
+          "firstName": [
+            "Jean-Bernard"
+          ],
+          "lastName": [
+            "Amiel"
+          ],
+          "initials": [
+            "JB"
+          ]
+        },
+        {
+          "fullName": [
+            "Pichon N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Pichon"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Postil D"
+          ],
+          "firstName": [
+            "Déborah"
+          ],
+          "lastName": [
+            "Postil"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Vignon P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Vignon"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Espinouse D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Espinouse"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Jacques D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Jacques"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "De Monbrison F"
+          ],
+          "firstName": [
+            "Frédérique"
+          ],
+          "lastName": [
+            "De Monbrison"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Grozel JM"
+          ],
+          "firstName": [
+            "Jean-Michel"
+          ],
+          "lastName": [
+            "Grozel"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Chomarat M"
+          ],
+          "firstName": [
+            "Monique"
+          ],
+          "lastName": [
+            "Chomarat"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Gueugniaud PY"
+          ],
+          "firstName": [
+            "Pierre-Yves"
+          ],
+          "lastName": [
+            "Gueugniaud"
+          ],
+          "initials": [
+            "PY"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanogo R"
+          ],
+          "firstName": [
+            "Rokiatou"
+          ],
+          "lastName": [
+            "Sanogo"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Drancourt M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Drancourt"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Fournier PE"
+          ],
+          "firstName": [
+            "Pierre Edouard"
+          ],
+          "lastName": [
+            "Fournier"
+          ],
+          "initials": [
+            "PE"
+          ]
+        },
+        {
+          "fullName": [
+            "Roux V"
+          ],
+          "firstName": [
+            "Véronique"
+          ],
+          "lastName": [
+            "Roux"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Delmer A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Delmer"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Himberlin C"
+          ],
+          "firstName": [
+            "Chantal"
+          ],
+          "lastName": [
+            "Himberlin"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Kolb B"
+          ],
+          "firstName": [
+            "Brigitte"
+          ],
+          "lastName": [
+            "Kolb"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Lé QH"
+          ],
+          "firstName": [
+            "Quoc Hung"
+          ],
+          "lastName": [
+            "Lé"
+          ],
+          "initials": [
+            "QH"
+          ]
+        },
+        {
+          "fullName": [
+            "Appriou M"
+          ],
+          "firstName": [
+            "Morgane"
+          ],
+          "lastName": [
+            "Appriou"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Cousson J"
+          ],
+          "firstName": [
+            "Joël"
+          ],
+          "lastName": [
+            "Cousson"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Nazeyrollas P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "Nazeyrollas"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Strady C"
+          ],
+          "firstName": [
+            "Christophe"
+          ],
+          "lastName": [
+            "Strady"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Dechamps C"
+          ],
+          "firstName": [
+            "Christophe"
+          ],
+          "lastName": [
+            "Dechamps"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Vernet V"
+          ],
+          "firstName": [
+            "Véronique"
+          ],
+          "lastName": [
+            "Vernet"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Delmer A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Delmer"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Toubas D"
+          ],
+          "firstName": [
+            "Dominique"
+          ],
+          "lastName": [
+            "Toubas"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Guyotat D"
+          ],
+          "firstName": [
+            "Denis"
+          ],
+          "lastName": [
+            "Guyotat"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Auboyer C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Auboyer"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Zeni F"
+          ],
+          "firstName": [
+            "Fabrice"
+          ],
+          "lastName": [
+            "Zeni"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Alamartine E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Alamartine"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Cathebras P"
+          ],
+          "firstName": [
+            "Pascal"
+          ],
+          "lastName": [
+            "Cathebras"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Lucht F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Lucht"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Viallon A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Viallon"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Melis A"
+          ],
+          "firstName": [
+            "Adrien"
+          ],
+          "lastName": [
+            "Melis"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ros A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Ros"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Carricajo A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Carricajo"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Devanlay C"
+          ],
+          "firstName": [
+            "Camille"
+          ],
+          "lastName": [
+            "Devanlay"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Labruyere C"
+          ],
+          "firstName": [
+            "Carine"
+          ],
+          "lastName": [
+            "Labruyere"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Vautrin C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Vautrin"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Cazorla C"
+          ],
+          "firstName": [
+            "Céline"
+          ],
+          "lastName": [
+            "Cazorla"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Tavernier E"
+          ],
+          "firstName": [
+            "Emmanuelle"
+          ],
+          "lastName": [
+            "Tavernier"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Grattard F"
+          ],
+          "firstName": [
+            "Florence"
+          ],
+          "lastName": [
+            "Grattard"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Aubert G"
+          ],
+          "firstName": [
+            "Gérald"
+          ],
+          "lastName": [
+            "Aubert"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Morel J"
+          ],
+          "firstName": [
+            "Jerome"
+          ],
+          "lastName": [
+            "Morel"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Cornillon J"
+          ],
+          "firstName": [
+            "Jérome"
+          ],
+          "lastName": [
+            "Cornillon"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Abba K"
+          ],
+          "firstName": [
+            "Karima"
+          ],
+          "lastName": [
+            "Abba"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Flori P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "Flori"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Sung RTM"
+          ],
+          "firstName": [
+            "Roger Tran Manh"
+          ],
+          "lastName": [
+            "Sung"
+          ],
+          "initials": [
+            "RTM"
+          ]
+        },
+        {
+          "fullName": [
+            "Pozzetto B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Pozzetto"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Schneider F"
+          ],
+          "firstName": [
+            "Francis"
+          ],
+          "lastName": [
+            "Schneider"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Hansmann Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Hansmann"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Herbrecht R"
+          ],
+          "firstName": [
+            "Raoul"
+          ],
+          "lastName": [
+            "Herbrecht"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9381-4876",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jaulhac B"
+          ],
+          "firstName": [
+            "Benoit"
+          ],
+          "lastName": [
+            "Jaulhac"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Piémont Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Piémont"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Lestcher V"
+          ],
+          "firstName": [
+            "Valérie"
+          ],
+          "lastName": [
+            "Lestcher"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Colombat P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Colombat"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Senecal D"
+          ],
+          "firstName": [
+            "Delphine"
+          ],
+          "lastName": [
+            "Senecal"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Garot D"
+          ],
+          "firstName": [
+            "Denis"
+          ],
+          "lastName": [
+            "Garot"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Perrottin D"
+          ],
+          "firstName": [
+            "Dominique"
+          ],
+          "lastName": [
+            "Perrottin"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Besnier JM"
+          ],
+          "firstName": [
+            "Jean-Marc"
+          ],
+          "lastName": [
+            "Besnier"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Goudeau A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Goudeau"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Lanotte P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Lanotte"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Chandenier J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Chandenier"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Baloul S"
+          ],
+          "firstName": [
+            "Samia"
+          ],
+          "lastName": [
+            "Baloul"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Corbel C"
+          ],
+          "firstName": [
+            "Céline"
+          ],
+          "lastName": [
+            "Corbel"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Dabbech M"
+          ],
+          "firstName": [
+            "Moufida"
+          ],
+          "lastName": [
+            "Dabbech"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Gaba M"
+          ],
+          "firstName": [
+            "Mabel"
+          ],
+          "lastName": [
+            "Gaba"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Jozefowicz E"
+          ],
+          "firstName": [
+            "Elsa"
+          ],
+          "lastName": [
+            "Jozefowicz"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Lafaye M"
+          ],
+          "firstName": [
+            "Magali"
+          ],
+          "lastName": [
+            "Lafaye"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Maugard F"
+          ],
+          "firstName": [
+            "Fabien"
+          ],
+          "lastName": [
+            "Maugard"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Rabeuf R"
+          ],
+          "firstName": [
+            "Remi"
+          ],
+          "lastName": [
+            "Rabeuf"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Rabetrano H"
+          ],
+          "firstName": [
+            "Hasina"
+          ],
+          "lastName": [
+            "Rabetrano"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Veerabudun K"
+          ],
+          "firstName": [
+            "Kalaivani"
+          ],
+          "lastName": [
+            "Veerabudun"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Viallette C"
+          ],
+          "firstName": [
+            "Cédric"
+          ],
+          "lastName": [
+            "Viallette"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Stahl JP"
+          ],
+          "firstName": [
+            "Jean-Paul"
+          ],
+          "lastName": [
+            "Stahl"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0086-3557",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Delhaes L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Delhaes"
+          ],
+          "initials": [
+            "L"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1756-7508",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9381-4876",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6073-4354",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5919-9956",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5357-3318",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0086-3557",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3654-5064",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2158-6293",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5944-2530",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9855-5183",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4010-929X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "43"
+      ],
+      "journalIssueId": [
+        "2606408"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Intensive care medicine"
+          ],
+          "ISOAbbreviation": [
+            "Intensive Care Med"
+          ],
+          "medlineAbbreviation": [
+            "Intensive Care Med"
+          ],
+          "NLMid": [
+            "7704851"
+          ],
+          "ISSN": [
+            "0342-4642"
+          ],
+          "ESSN": [
+            "1432-1238"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1613-1625"
+  ],
+  "abstractText": [
+    "Microbiological diagnosis (MD) of infections remains insufficient. The resulting empirical antimicrobial therapy leads to multidrug resistance and inappropriate treatments. We therefore evaluated the cost-effectiveness of direct molecular detection of pathogens in blood for patients with severe sepsis (SES), febrile neutropenia (FN) and suspected infective endocarditis (SIE).Patients were enrolled in a multicentre, open-label, cluster-randomised crossover trial conducted during two consecutive periods, randomly assigned as control period (CP; standard diagnostic workup) or intervention period (IP; additional testing with LightCycler®SeptiFast). Multilevel models used to account for clustering were stratified by clinical setting (SES, FN, SIE).A total of 1416 patients (907 SES, 440 FN, 69 SIE) were evaluated for the primary endpoint (rate of blood MD). For SES patients, the MD rate was higher during IP than during CP [42.6% (198/465) vs. 28.1% (125/442), odds ratio (OR) 1.89, 95% confidence interval (CI) 1.43-2.50; P < 0.001], with an absolute increase of 14.5% (95% CI 8.4-20.7). A trend towards an association was observed for SIE [35.4% (17/48) vs. 9.5% (2/21); OR 6.22 (0.98-39.6)], but not for FN [32.1% (70/218) vs. 30.2% (67/222), P = 0.66]. Overall, turn-around time was shorter during IP than during CP (22.9 vs. 49.5 h, P < 0.001) and hospital costs were similar (median, mean ± SD: IP €14,826, €18,118 ± 17,775; CP €17,828, €18,653 ± 15,966). Bootstrap analysis of the incremental cost-effectiveness ratio showed weak dominance of intervention in SES patients.Addition of molecular detection to standard care improves MD and thus efficiency of healthcare resource usage in patients with SES. ClinicalTrials.gov registration number: NCT00709358."
+  ],
+  "affiliation": [
+    "APHP-Lariboisière, Bacteriology Laboratory, 75010, Paris, France. emmanuelle.cambau@aphp.fr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "STIC IC0703; P070308 & IDRCB 2007-A01443-50)"
+          ],
+          "agency": [
+            "French Ministry of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sepsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endocarditis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Bacterial Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Diagnostic Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hospital Mortality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Over Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intensive Care Units"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intention to Treat Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality Improvement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time-to-Treatment"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Febrile Neutropenia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "PCR",
+        "Sepsis",
+        "bacteremia",
+        "Aetiological Source"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Bacterial Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5633620?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5633620"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00134-017-4766-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28536877"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Intensive Care Med. 2017 Nov;43(11):1714-1716"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "44"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-07-11"
+  ],
+  "dateOfCreation": [
+    "2017-04-05"
+  ],
+  "dateOfRevision": [
+    "2018-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-03"
+  ],
+  "firstPublicationDate": [
+    "2017-04-03"
+  ]
+}

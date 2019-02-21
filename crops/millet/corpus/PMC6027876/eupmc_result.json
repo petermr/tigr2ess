@@ -1,0 +1,782 @@
+{
+  "id": [
+    "29794163"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29794163"
+  ],
+  "pmcid": [
+    "PMC6027876"
+  ],
+  "doi": [
+    "10.1534/g3.118.200242"
+  ],
+  "title": [
+    "Phenotypic Data from Inbred Parents Can Improve Genomic Prediction in Pearl Millet Hybrids."
+  ],
+  "authorString": [
+    "Liang Z, Gupta SK, Yeh CT, Zhang Y, Ngu DW, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupta R, Yang J, Varshney RK, Schnable PS, Schnable JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liang Z"
+          ],
+          "firstName": [
+            "Zhikai"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9963-8631",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Nebraska-Lincoln, Lincoln, NE."
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta SK"
+          ],
+          "firstName": [
+            "Shashi K"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, Telangana State, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh CT"
+          ],
+          "firstName": [
+            "Cheng-Ting"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1392-2018",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Iowa State University, Ames, IA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1712-7211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Nebraska-Lincoln, Lincoln, NE."
+          ]
+        },
+        {
+          "fullName": [
+            "Ngu DW"
+          ],
+          "firstName": [
+            "Daniel W"
+          ],
+          "lastName": [
+            "Ngu"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "University of Nebraska-Lincoln, Lincoln, NE."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar R"
+          ],
+          "firstName": [
+            "Ramesh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Chaudhary Charan Singh Haryana Agricultural University, Hisar, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Patil HT"
+          ],
+          "firstName": [
+            "Hemant T"
+          ],
+          "lastName": [
+            "Patil"
+          ],
+          "initials": [
+            "HT"
+          ],
+          "affiliation": [
+            "Mahatma Phule Krishi Vidyapeeth, Dhule, Maharashtra, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mungra KD"
+          ],
+          "firstName": [
+            "Kanulal D"
+          ],
+          "lastName": [
+            "Mungra"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "affiliation": [
+            "Junagadh Agricultural University, Jamnagar, Gujarat, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yadav DV"
+          ],
+          "firstName": [
+            "Dev Vart"
+          ],
+          "lastName": [
+            "Yadav"
+          ],
+          "initials": [
+            "DV"
+          ],
+          "affiliation": [
+            "Chaudhary Charan Singh Haryana Agricultural University, Hisar, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Rathore A"
+          ],
+          "firstName": [
+            "Abhishek"
+          ],
+          "lastName": [
+            "Rathore"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6887-4095",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, Telangana State, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Srivastava RK"
+          ],
+          "firstName": [
+            "Rakesh K"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "affiliation": [
+            "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, Telangana State, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta R"
+          ],
+          "firstName": [
+            "Rajeev"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, Telangana State, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jinliang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0999-3518",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Nebraska-Lincoln, Lincoln, NE."
+          ]
+        },
+        {
+          "fullName": [
+            "Varshney RK"
+          ],
+          "firstName": [
+            "Rajeev K"
+          ],
+          "lastName": [
+            "Varshney"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4562-9131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, Telangana State, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Schnable PS"
+          ],
+          "firstName": [
+            "Patrick S"
+          ],
+          "lastName": [
+            "Schnable"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9169-5204",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Iowa State University, Ames, IA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schnable JC"
+          ],
+          "firstName": [
+            "James C"
+          ],
+          "lastName": [
+            "Schnable"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6739-5527",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Nebraska-Lincoln, Lincoln, NE schnable@unl.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1392-2018",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9169-5204",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6887-4095",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9963-8631",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1712-7211",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4562-9131",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6739-5527",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0999-3518",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2701804"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2513-2522"
+  ],
+  "abstractText": [
+    "Pearl millet is a non-model grain and fodder crop adapted to extremely hot and dry environments globally. In India, a great deal of public and private sectors' investment has focused on developing pearl millet single cross hybrids based on the cytoplasmic-genetic male sterility (CMS) system, while in Africa most pearl millet production relies on open pollinated varieties. Pearl millet lines were phenotyped for both the inbred parents and hybrids stage. Many breeding efforts focus on phenotypic selection of inbred parents to generate improved parental lines and hybrids. This study evaluated two genotyping techniques and four genomic selection schemes in pearl millet. Despite the fact that 6× more sequencing data were generated per sample for RAD-seq than for tGBS, tGBS yielded more than 2× as many informative SNPs (defined as those having MAF > 0.05) than RAD-seq. A genomic prediction scheme utilizing only data from hybrids generated prediction accuracies (median) ranging from 0.73-0.74 (1000-grain weight), 0.87-0.89 (days to flowering time), 0.48-0.51 (grain yield) and 0.72-0.73 (plant height). For traits with little to no heterosis, hybrid only and hybrid/inbred prediction schemes performed almost equivalently. For traits with significant mid-parent heterosis, the direct inclusion of phenotypic data from inbred lines significantly (P < 0.05) reduced prediction accuracy when all lines were analyzed together. However, when inbreds and hybrid trait values were both scored relative to the mean trait values for the respective populations, the inclusion of inbred phenotypic datasets moderately improved genomic predictions of the hybrid genomic estimated breeding values. Here we show that modern approaches to genotyping by sequencing can enable genomic selection in pearl millet. While historical pearl millet breeding records include a wealth of phenotypic data from inbred lines, we demonstrate that the naive incorporation of this data into a hybrid breeding program can reduce prediction accuracy, while controlling for the effects of heterosis per se allowed inbred genotype and trait data to improve the accuracy of genomic estimated breeding values for pearl millet hybrids."
+  ],
+  "affiliation": [
+    "University of Nebraska-Lincoln, Lincoln, NE."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pennisetum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hybridization, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Inbreeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genotyping",
+        "Hybrid breeding",
+        "Genomic Selection",
+        "Pearl Millet",
+        "Genpred",
+        "Shared Data Resources"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6027876?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6027876"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.118.200242"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-08"
+  ],
+  "dateOfCreation": [
+    "2018-05-26"
+  ],
+  "dateOfRevision": [
+    "2018-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-02"
+  ],
+  "firstPublicationDate": [
+    "2018-07-02"
+  ]
+}

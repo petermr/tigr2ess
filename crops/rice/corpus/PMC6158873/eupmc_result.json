@@ -1,0 +1,667 @@
+{
+  "id": [
+    "30257650"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30257650"
+  ],
+  "pmcid": [
+    "PMC6158873"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5109-8"
+  ],
+  "title": [
+    "Comparative analysis of Cd-responsive maize and rice transcriptomes highlights Cd co-modulated orthologs."
+  ],
+  "authorString": [
+    "Cheng D, Tan M, Yu H, Li L, Zhu D, Chen Y, Jiang M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan M"
+          ],
+          "firstName": [
+            "Mingpu"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5766-3580",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China. tempo@njau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu H"
+          ],
+          "firstName": [
+            "Haijuan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu D"
+          ],
+          "firstName": [
+            "Dandan"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yahua"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Mingyi"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5766-3580",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2722464"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "709"
+  ],
+  "abstractText": [
+    "BACKGROUND:Metal tolerance is often an integrative result of metal uptake and distribution, which are fine-tuned by a network of signaling cascades and metal transporters. Thus, with the goal of advancing the molecular understanding of such metal homeostatic mechanisms, comparative RNAseq-based transcriptome analysis was conducted to dissect differentially expressed genes (DEGs) in maize roots exposed to cadmium (Cd) stress. RESULTS:To unveil conserved Cd-responsive genes in cereal plants, the obtained 5166 maize DEGs were compared with 2567 Cd-regulated orthologs in rice roots, and this comparison generated 880 universal Cd-responsive orthologs groups composed of 1074 maize DEGs and 981 rice counterparts. More importantly, most of the orthologous DEGs showed coordinated expression pattern between Cd-treated maize and rice, and these include one large orthologs group of pleiotropic drug resistance (PDR)-type ABC transporters, two clusters of amino acid transporters, and 3 blocks of multidrug and toxic compound extrusion (MATE) efflux family transporters, and 3 clusters of heavy metal-associated domain (HMAD) isoprenylated plant proteins (HIPPs), as well as all 4 groups of zinc/iron regulated transporter protein (ZIPs). Additionally, several blocks of tandem maize paralogs, such as germin-like proteins (GLPs), phenylalanine ammonia-lyases (PALs) and several enzymes involved in JA biosynthesis, displayed consistent co-expression pattern under Cd stress. Out of the 1074 maize DEGs, approximately 30 maize Cd-responsive genes such as ZmHIPP27, stress-responsive NAC transcription factor (ZmSNAC1) and 9-cis-epoxycarotenoid dioxygenase (NCED, vp14) were also common stress-responsive genes reported to be uniformly regulated by multiple abiotic stresses. Moreover, the aforementioned three promising Cd-upregulated genes with rice counterparts were identified to be novel Cd-responsive genes in maize. Meanwhile, one maize glutamate decarboxylase (ZmGAD1) with Cd co-modulated rice ortholog was selected for further analysis of Cd tolerance via heterologous expression, and the results suggest that ZmGAD1 can confer Cd tolerance in yeast and tobacco leaves. CONCLUSIONS:These novel findings revealed the conserved function of Cd-responsive orthologs and paralogs, which would be valuable for elucidating the genetic basis of the plant response to Cd stress and unraveling Cd tolerance genes."
+  ],
+  "affiliation": [
+    "National Key Laboratory of Crop Genetics and Germplasm Enhancement, College of Life Sciences, Nanjing Agricultural University, Nanjing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31271421"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (CN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cadmium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Conserved Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cadmium"
+          ],
+          "registryNumber": [
+            "00BH33GNGH"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6158873?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6158873"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5109-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-09-28"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-26"
+  ],
+  "firstPublicationDate": [
+    "2018-09-26"
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "id": [
+    "28369461"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28369461"
+  ],
+  "pmcid": [
+    "PMC5466707"
+  ],
+  "doi": [
+    "10.1093/gigascience/giw005"
+  ],
+  "title": [
+    "Updated foxtail millet genome assembly and gene mapping of nine key agronomic traits by resequencing a RIL population."
+  ],
+  "authorString": [
+    "Ni X, Xia Q, Zhang H, Cheng S, Li H, Fan G, Guo T, Huang P, Xiang H, Chen Q, Li N, Zou H, Cai X, Lei X, Wang X, Zhou C, Zhao Z, Zhang G, Du G, Cai W, Quan Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ni X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia Q"
+          ],
+          "firstName": [
+            "Qiuju"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Houbao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng S"
+          ],
+          "firstName": [
+            "Shu"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan G"
+          ],
+          "firstName": [
+            "Guangyu"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, Zhangjiakou 075000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang H"
+          ],
+          "firstName": [
+            "Haitao"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qingchun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zou H"
+          ],
+          "firstName": [
+            "Hongfeng"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lei X"
+          ],
+          "firstName": [
+            "Xuejing"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, Zhangjiakou 075000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou C"
+          ],
+          "firstName": [
+            "Chengshu"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhihai"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, Zhangjiakou 075000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Gengyun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du G"
+          ],
+          "firstName": [
+            "Guohua"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "BGI Millet Co., Ltd, BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "BGI Millet Co., Ltd, BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Quan Z"
+          ],
+          "firstName": [
+            "Zhiwu"
+          ],
+          "lastName": [
+            "Quan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2543044"
+      ],
+      "dateOfPublication": [
+        "2017 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1-8"
+  ],
+  "abstractText": [
+    "Foxtail millet (Setaria italica) provides food and fodder in semi-arid regions and infertile land. Resequencing of 184 foxtail millet recombinant inbred lines (RILs) was carried out to aid essential research on foxtail millet improvement. A total 483 414 single nucleotide polymorphisms were determined. Bin maps were constructed based on the RILs' recombination data. Based on the high-density bin map, we updated Zhanggu reference with 416 Mb after adding 16 Mb unanchored scaffolds and Yugu reference with some assembly error correction and 3158 gaps filled. Quantitative trait loci (QTL) mapping of nine agronomic traits was done based on this RIL population, five of which were controlled by a single gene. Meanwhile, two QTLs were found for plant height, and a candidate gene showed 89% identity to the known rice gibberellin-synthesis gene sd1. Three QTLs were found for the trait of heading date. The whole genome resequencing and QTL mapping provided important tools for foxtail millet research and breeding. Resequencing of the RILs could also provide an effective way for high-quality genome assembly and gene identification."
+  ],
+  "affiliation": [
+    "BGI-Shenzhen, Shenzhen 518083, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Setaria Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Markers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Chromosome Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Inbreeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Recombination, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait, Heritable"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quantitative Trait Loci"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosome Breakpoints"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Genetic Markers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5466707?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5466707"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giw005"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR27263"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-06-29"
+  ],
+  "dateOfCreation": [
+    "2017-04-04"
+  ],
+  "dateOfRevision": [
+    "2018-06-08"
+  ],
+  "firstPublicationDate": [
+    "2017-02-01"
+  ]
+}

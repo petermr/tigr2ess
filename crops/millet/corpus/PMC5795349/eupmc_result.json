@@ -1,0 +1,557 @@
+{
+  "id": [
+    "29186425"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29186425"
+  ],
+  "pmcid": [
+    "PMC5795349"
+  ],
+  "doi": [
+    "10.1093/gigascience/gix117"
+  ],
+  "title": [
+    "Conventional and hyperspectral time-series imaging of maize lines widely used in field trials."
+  ],
+  "authorString": [
+    "Liang Z, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, Schnable JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liang Z"
+          ],
+          "firstName": [
+            "Zhikai"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9963-8631",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Plant Science Innovation, Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Beadle Center N231, 1901 Vine St., Lincoln, NE 68503, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandey P"
+          ],
+          "firstName": [
+            "Piyush"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biological System Engineering, University of Nebraska-Lincoln, 209 L.W. Chase Hall, Lincoln, NE 68583, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stoerger V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Stoerger"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Plant Phenotyping Facilities Manager, University of Nebraska-Lincoln, Greenhouse Innovation Center, 1920 N 21st St., A155, Lincoln, NE 68588, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yuhang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Statistics, University of Nebraska-Lincoln, Hardin Hall 342D, Lincoln, NE 68583, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu Y"
+          ],
+          "firstName": [
+            "Yumou"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Statistics, University of Nebraska-Lincoln, Hardin Hall 343D, Lincoln, NE 68583, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ge Y"
+          ],
+          "firstName": [
+            "Yufeng"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biological System Engineering, University of Nebraska-Lincoln, 209 L.W. Chase Hall, Lincoln, NE 68583, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schnable JC"
+          ],
+          "firstName": [
+            "James C"
+          ],
+          "lastName": [
+            "Schnable"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Center for Plant Science Innovation, Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Beadle Center N231, 1901 Vine St., Lincoln, NE 68503, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9963-8631",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2647539"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1-11"
+  ],
+  "abstractText": [
+    "Background:Maize (Zea mays ssp. mays) is 1 of 3 crops, along with rice and wheat, responsible for more than one-half of all calories consumed around the world. Increasing the yield and stress tolerance of these crops is essential to meet the growing need for food. The cost and speed of plant phenotyping are currently the largest constraints on plant breeding efforts. Datasets linking new types of high-throughput phenotyping data collected from plants to the performance of the same genotypes under agronomic conditions across a wide range of environments are essential for developing new statistical approaches and computer vision-based tools. Findings:A set of maize inbreds-primarily recently off patent lines-were phenotyped using a high-throughput platform at University of Nebraska-Lincoln. These lines have been previously subjected to high-density genotyping and scored for a core set of 13 phenotypes in field trials across 13 North American states in 2 years by the Genomes 2 Fields Consortium. A total of 485 GB of image data including RGB, hyperspectral, fluorescence, and thermal infrared photos has been released. Conclusions:Correlations between image-based measurements and manual measurements demonstrated the feasibility of quantifying variation in plant architecture using image data. However, naive approaches to measuring traits such as biomass can introduce nonrandom measurement errors confounded with genotype variation. Analysis of hyperspectral image data demonstrated unique signatures from stem tissue. Integrating heritable phenotypes from high-throughput phenotyping data with field data from different environments can reveal previously unknown factors that influence yield plasticity."
+  ],
+  "affiliation": [
+    "Center for Plant Science Innovation, Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Beadle Center N231, 1901 Vine St., Lincoln, NE 68503, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AH"
+                  ],
+                  "qualifierName": [
+                    "anatomy & histology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Imaging, Three-Dimensional"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inbreeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait, Heritable"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Breeding"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Maize",
+        "Image",
+        "Phenomics",
+        "Field-phenotype"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5795349?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5795349"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/gix117"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR20759"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-19"
+  ],
+  "dateOfCreation": [
+    "2017-11-30"
+  ],
+  "dateOfRevision": [
+    "2018-11-19"
+  ],
+  "firstPublicationDate": [
+    "2018-02-01"
+  ]
+}

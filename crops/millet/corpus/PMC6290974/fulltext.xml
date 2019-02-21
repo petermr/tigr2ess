@@ -1,0 +1,1229 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?subarticle report40635?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6290974</article-id><article-id pub-id-type="doi">10.12688/f1000research.15606.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Milestones achieved in response to drought stress through reverse genetic approaches</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Singh</surname><given-names>Baljeet</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7981-6624</contrib-id><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Kukreja</surname><given-names>Sarvjeet</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Goutam</surname><given-names>Umesh</given-names></name><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8754-7986</contrib-id><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1">
+<label>1</label>Biotechnology, Lovely Professional University, Phagwara, Punjab, 144411, India</aff><aff id="a2">
+<label>2</label>Department of Botany, Ch. MRM Memorial College, Sriganganagar, Rajasthan, 335804, India</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:umeshbiotech@gmail.com">umeshbiotech@gmail.com</email></corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>17</day><month>8</month><year>2018</year></pub-date><pub-date pub-type="collection"><year>2018</year></pub-date><volume>7</volume><elocation-id>1311</elocation-id><history><date date-type="accepted"><day>20</day><month>7</month><year>2018</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2018 Singh B et al.</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-7-17024.pdf"/><abstract><p>Drought stress is the most important abiotic stress that constrains crop production and reduces yield drastically. The germplasm of most of the cultivated crops possesses numerous unknown drought stress tolerant genes. Moreover, there are many reports suggesting that the wild species of most of the modern cultivars have abiotic stress tolerant genes. Due to climate change and population booms, food security has become a global issue. To develop drought tolerant crop varieties knowledge of various genes involved in drought stress is required. Different reverse genetic approaches such as virus-induced gene silencing (VIGS), clustered regularly interspace short palindromic repeat (CRISPR), targeting induced local lesions in genomes (TILLING) and expressed sequence tags (ESTs) have been used extensively to study the functionality of different genes involved in response to drought stress. In this review, we described the contributions of different techniques of functional genomics in the study of drought tolerant genes.</p></abstract><kwd-group kwd-group-type="author"><kwd>VIGS</kwd><kwd>CRISPR</kwd><kwd>TILLING</kwd><kwd>ESTs</kwd><kwd>Drought stress</kwd><kwd>Climate change</kwd><kwd>Reverse Genetics</kwd><kwd>Functional genomics</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that no grants were involved in supporting this work.</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Nowadays, global food security has becomes a major challenge due to the extreme changes to the climate and increases in the global population
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup>. Therefore, plants are growing under various kinds of unfavourable environmental stresses such as drought, salinity, heat, cold and oxidative stresses which are retarding the growth and yield
+<sup><xref rid="ref-2" ref-type="bibr">2</xref>,
+<xref rid="ref-3" ref-type="bibr">3</xref></sup>. Of these, drought stress is the most predominant abiotic stress making this situation worse. Over the last decade, climate change has been increasing the frequency drought conditions and reduced the crop yield (
+<xref rid="T1" ref-type="table">Table 1</xref>) by affecting the basic plant growth processes such as seed germination, photosynthesis, source sink relationships, turgor pressure, cell division and elongation, enzyme activities, and secondary metabolites production
+<sup><xref rid="ref-14" ref-type="bibr">14</xref>&#x02013;
+<xref rid="ref-24" ref-type="bibr">24</xref></sup>. In addition, drought can also increase the production and accumulation of reactive oxygen species (ROS) in plants which leads to oxidative stress too
+<sup><xref rid="ref-25" ref-type="bibr">25</xref>,
+<xref rid="ref-26" ref-type="bibr">26</xref></sup>. Several genes that express under drought conditions are involved in the regulation of all these processes and pathways. In recent years, many drought tolerant genes have been identified in major food crops and still there are numerous genes taking part in drought stress whose functions are unknown. With the help of available genomic and transcriptomic data reverse genetic approaches accelerated the investigations of gene function under different abiotic stresses
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup>.</p><table-wrap id="T1" orientation="portrait" position="anchor"><label>Table 1. </label><caption><title>Yield loss in various crops under different drought conditions.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="center" rowspan="1" colspan="1">Crop</th><th align="center" rowspan="1" colspan="1">Yield loss (approx. %)</th><th align="center" rowspan="1" colspan="1">References</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">Wheat</td><td align="center" rowspan="1" colspan="1">57
+<break/>21
+<break/>26</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-4" ref-type="bibr">4</xref>
+<break/>
+<xref rid="ref-5" ref-type="bibr">5</xref>
+<break/>
+<xref rid="ref-6" ref-type="bibr">6</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Rice</td><td align="center" rowspan="1" colspan="1">53&#x02013;92</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-7" ref-type="bibr">7</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Maize</td><td align="center" rowspan="1" colspan="1">63&#x02013;87
+<break/>40
+<break/>40</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-8" ref-type="bibr">8</xref>
+<break/>
+<xref rid="ref-5" ref-type="bibr">5</xref>
+<break/>
+<xref rid="ref-6" ref-type="bibr">6</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Chickpea</td><td align="center" rowspan="1" colspan="1">45&#x02013;69</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-9" ref-type="bibr">9</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Soybean</td><td align="center" rowspan="1" colspan="1">46&#x02013;71</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-10" ref-type="bibr">10</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Sunflower</td><td align="center" rowspan="1" colspan="1">60</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-11" ref-type="bibr">11</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Potato</td><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-12" ref-type="bibr">12</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">Barley</td><td align="center" rowspan="1" colspan="1">37&#x02013;41</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</td></tr></tbody></table></table-wrap><p>From the perspective of crop improvement, transgenic approaches have been successfully used in many crops. However, development of stable transgenic lines is relatively expensive, time consuming and a laborious task. Moreover, it is not successful in many cultivated crops and slows down the investigations into specific gene
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>. In contrast, there are several techniques available for the study of these genes which give prompt results and have other advantages over transgenic techniques for analysis of target gene(s) such as virus-induced gene silencing (VIGS), clustered regularly interspace short palindromic repeat (CRISPR)-Cas9 system, targeting induced local lesions in genomes (TILLING) and expressed sequence tags (ESTs)
+<sup><xref rid="ref-29" ref-type="bibr">29</xref>&#x02013;
+<xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p></sec><sec><title>VIGS</title><p>It is a simple, rapid, reliable and cost-effective post-transcriptional gene silencing (PTGS) technique for the study of endogenous genes. It is a powerful tool for the mining and study of genes involved in drought tolerance (
+<xref rid="T2" ref-type="table">Table 2</xref>). In VIGS a 200-400bp long fragment of the target gene is selected and cloned into a viral vector which infects the plant and triggers the silencing of that particular gene
+<sup><xref rid="ref-29" ref-type="bibr">29</xref>,
+<xref rid="ref-55" ref-type="bibr">55</xref></sup>. For efficient gene silencing the selection of the target fragment is very crucial. This technology can be used for forward and reverse genetics for both monocotyledonous and dicotyledonous plants
+<sup><xref rid="ref-56" ref-type="bibr">56</xref>,
+<xref rid="ref-57" ref-type="bibr">57</xref></sup>. There is no requirement of stable plant transformants in VIGS technology
+<sup><xref rid="ref-58" ref-type="bibr">58</xref></sup>. Moreover, a number of different genes can be studied simultaneously and a specific target can also be silenced individually through this technology
+<sup><xref rid="ref-59" ref-type="bibr">59</xref>,
+<xref rid="ref-60" ref-type="bibr">60</xref></sup>. Many VIGS vectors have been developed for different crops by modifying plant viruses and have been used successfully for the functional study of genes expressed under drought stress
+<sup><xref rid="ref-61" ref-type="bibr">61</xref>&#x02013;
+<xref rid="ref-64" ref-type="bibr">64</xref></sup>. These VIGS vectors along with the target gene can be inoculated into the plants by different methods such as agrodrench, needleless syringe inoculation, agro inoculation, prick inoculation, and biolistic inoculation
+<sup><xref rid="ref-29" ref-type="bibr">29</xref>,
+<xref rid="ref-65" ref-type="bibr">65</xref></sup>.</p><table-wrap id="T2" orientation="portrait" position="anchor"><label>Table 2. </label><caption><title>Successfully confirmed genes via different virus-induced gene silencing (VIGS) systems.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="center" valign="top" rowspan="1" colspan="1">Viral vector</th><th align="center" valign="top" rowspan="1" colspan="1">Type</th><th align="center" valign="top" rowspan="1" colspan="1">Crop</th><th align="center" valign="top" rowspan="1" colspan="1">Target gene</th><th align="center" valign="top" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td align="center" valign="top" rowspan="1" colspan="1">BSMV (Barley Stripe Mosaic Virus)</td><td align="center" valign="top" rowspan="1" colspan="1">RNA virus</td><td align="center" valign="top" rowspan="1" colspan="1">Wheat
+<break/>
+<break/>
+<break/>
+<break/>
+<break/>Barley</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>TaEra1,</italic>
+<break/>
+<italic>TaSal1</italic>
+<break/>
+<italic>TaBTF3</italic>
+<break/>
+<italic>TaPGR5</italic>
+<break/>
+<italic>TdAtg8</italic>
+<break/>
+<italic>HvHVA1</italic>
+<break/>
+<italic>HvDhn6</italic>
+<break/>
+<italic>HvEXPB7</italic>
+<break/>
+<italic>HvATG6</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="ref-33" ref-type="bibr">33</xref>
+<break/>
+<xref rid="ref-33" ref-type="bibr">33</xref>
+<break/>
+<xref rid="ref-34" ref-type="bibr">34</xref>
+<break/>
+<xref rid="ref-35" ref-type="bibr">35</xref>
+<break/>
+<xref rid="ref-36" ref-type="bibr">36</xref>
+<break/>
+<xref rid="ref-37" ref-type="bibr">37</xref>
+<break/>
+<xref rid="ref-37" ref-type="bibr">37</xref>
+<break/>
+<xref rid="ref-38" ref-type="bibr">38</xref>
+<break/>
+<xref rid="ref-39" ref-type="bibr">39</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">TRV (Tobacco Rattle Virus)</td><td align="center" valign="top" rowspan="1" colspan="1">RNA virus</td><td align="center" valign="top" rowspan="1" colspan="1">Tomato
+<break/>
+<break/>
+<break/>
+<break/>
+<break/>
+<break/>
+<italic>Pyrus betulaefolia</italic>
+<break/>Chili pepper
+<break/>Cotton</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>Sllea4</italic>
+<break/>
+<italic>SpMPK1,</italic>
+<break/>
+<italic>SpMPK2,</italic>
+<break/>
+<italic>SpMPK3</italic>
+<break/>
+<italic>SlMPK4</italic>
+<break/>
+<italic>SlSR1L</italic>
+<break/>
+<italic>SlJUB1</italic>
+<break/>
+<italic>PbrMYB21</italic>
+<break/>
+<italic>CaPO2</italic>
+<break/>
+<italic>CaMLO2</italic>
+<break/>
+<italic>CaAIR1</italic>
+<break/>
+<italic>CaAIP1</italic>
+<break/>
+<italic>CaWDP1</italic>
+<break/>
+<italic>GhMKK3</italic>
+<break/>
+<italic>GhWRKY27a</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="ref-40" ref-type="bibr">40</xref>
+<break/>
+<xref rid="ref-41" ref-type="bibr">41</xref>
+<break/>
+<xref rid="ref-41" ref-type="bibr">41</xref>
+<break/>
+<xref rid="ref-41" ref-type="bibr">41</xref>
+<break/>
+<xref rid="ref-42" ref-type="bibr">42</xref>
+<break/>
+<xref rid="ref-43" ref-type="bibr">43</xref>
+<break/>
+<xref rid="ref-44" ref-type="bibr">44</xref>
+<break/>
+<xref rid="ref-45" ref-type="bibr">45</xref>
+<break/>
+<xref rid="ref-46" ref-type="bibr">46</xref>
+<break/>
+<xref rid="ref-47" ref-type="bibr">47</xref>
+<break/>
+<xref rid="ref-48" ref-type="bibr">48</xref>
+<break/>
+<xref rid="ref-49" ref-type="bibr">49</xref>
+<break/>
+<xref rid="ref-50" ref-type="bibr">50</xref>
+<break/>
+<xref rid="ref-51" ref-type="bibr">51</xref>
+<break/>
+<xref rid="ref-52" ref-type="bibr">52</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">TYLCCNV (Tomato Yellow Leaf Curl China Virus)</td><td align="center" valign="top" rowspan="1" colspan="1">DNA virus</td><td align="center" valign="top" rowspan="1" colspan="1">Tomato</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>SlGRX1</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="ref-53" ref-type="bibr">53</xref>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CLCrV(Cotton Leaf Crumple Virus)</td><td align="center" valign="top" rowspan="1" colspan="1">DNA virus</td><td align="center" valign="top" rowspan="1" colspan="1">Cotton</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic>GhNAC79</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<xref rid="ref-54" ref-type="bibr">54</xref>
+</td></tr></tbody></table></table-wrap><p>Plants have adopted many molecular mechanisms to withstand different abiotic stress, and a number of stress related genes get stimulated under stress conditions
+<sup><xref rid="ref-66" ref-type="bibr">66</xref>,
+<xref rid="ref-67" ref-type="bibr">67</xref></sup>. Among them, MAPKs (Mitogen Activated Protein Kinases) are the most important enzymes for the plant growth and development and also play an important role in signal transduction under extreme conditions
+<sup><xref rid="ref-68" ref-type="bibr">68</xref>&#x02013;
+<xref rid="ref-72" ref-type="bibr">72</xref></sup>. The role of different MAPKs under drought stress has been studied through VIGS technology. The silencing of genes
+<italic>SpMAPK1</italic>,
+<italic>SpMAPK2</italic>,
+<italic>SpMAPK3</italic> in
+<italic>Solanum pimpinellifolium, SlMPK</italic> in
+<italic>Solanum Lycopersicum</italic> and
+<italic>GhMKK3</italic> in
+<italic>Gossypium hirsutum</italic> reduced the drought tolerance in silenced plants
+<sup><xref rid="ref-41" ref-type="bibr">41</xref>,
+<xref rid="ref-42" ref-type="bibr">42</xref>,
+<xref rid="ref-51" ref-type="bibr">51</xref></sup>.</p><p>In addition, various transcriptional factors regulate the plants behaviour in response to environmental conditions
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup>. The WRKYs transcription factors play crucial role in the plant development under drought stress
+<sup><xref rid="ref-74" ref-type="bibr">74</xref></sup>. In cotton the VIGS of
+<italic>GhWRKY27a</italic> enhanced the tolerance against drought stress
+<sup><xref rid="ref-52" ref-type="bibr">52</xref></sup>. Further, another family of transcriptional factor, NAC, plays an important role under drought
+<sup><xref rid="ref-75" ref-type="bibr">75</xref></sup>. Silencing of the
+<italic>GhNAC79</italic> and
+<italic>JUB1</italic> genes in cotton and tomato respectively made the plants more sensitive to drought
+<sup><xref rid="ref-44" ref-type="bibr">44</xref>,
+<xref rid="ref-54" ref-type="bibr">54</xref></sup>. In addition,
+<italic>PbrMYB21</italic> gene belonging to MYB family of transcription factors (TFs) studied in
+<italic>Pyrus betulaefolia.</italic> The
+<italic>PbrMYB21</italic> silenced plants exhibited decreased drought tolerance in comparison to control plants
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>. Beside these, SR/CAMTA proteins from a small family of TFs and silencing of
+<italic>SISR1L</italic> and
+<italic>SlGRX1</italic> genes from this resulted in decreased tolerance against drought stress in tomato
+<sup><xref rid="ref-43" ref-type="bibr">43</xref>,
+<xref rid="ref-53" ref-type="bibr">53</xref></sup>. </p><p>Beside these, autophagy, a protein degradation process induced in plants in response to environmental stimuli, has been reported to be involved due to the involvement of autophagy-related genes (ATG) under drought stress
+<sup><xref rid="ref-76" ref-type="bibr">76</xref>&#x02013;
+<xref rid="ref-78" ref-type="bibr">78</xref></sup>. The
+<italic>ATG8</italic> gene in wheat and
+<italic>ATG6</italic> and its orthologs get induced in wheat, rice and barley in response to multiple abiotic stresses. Barley stripe mosaic virus (BSMV) based VIGS system was used for their functionality under drought stress. The results indicated the active participation of
+<italic>ATG</italic> genes in various survival mechanisms used by plants under drought
+<sup><xref rid="ref-36" ref-type="bibr">36</xref>,
+<xref rid="ref-39" ref-type="bibr">39</xref></sup>. In spite of these, many drought tolerant genes have been reported in weeds and also wild species of major cultivars. For instance,
+<italic>ApDRI15</italic> gene in a weed named,
+<italic>Alternanthera philoxeroidsi</italic> has been identified as a drought tolerant gene through VIGS
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>.</p></sec><sec><title>Expressed sequence tags (ESTs)</title><p>It is a sequence based technique that can be used to identify or study genes. ESTs can be generated from cDNA libraries
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>. Functional studies of specific genes using this technique, can provide results in a cost-effective manner
+<sup><xref rid="ref-81" ref-type="bibr">81</xref></sup>. Large scale EST sequencing has been performed in various crops and in several crops it is in progress. Millions of ESTs of different crops are available at
+<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/dbEST/">Expressed Sequence Tags Database of National Center of Biotechnology Information</ext-link>. To identify drought stress responsive genes, first cDNA libraries are developed from plants growing under stressed conditions or from drought challenged tissues of drought responsive genotypes. Then by sequencing the clones ESTs can be identified
+<sup><xref rid="ref-80" ref-type="bibr">80</xref>,
+<xref rid="ref-82" ref-type="bibr">82</xref></sup>. ESTs provide high quality transcripts for investigation of genes as functional markers under stress conditions. During the last two decades, drought responsive genes have been identified and studied by ESTs in a number of crops such as common beans
+<sup><xref rid="ref-83" ref-type="bibr">83</xref></sup>, barley
+<sup><xref rid="ref-84" ref-type="bibr">84</xref></sup>, chickpea
+<sup><xref rid="ref-85" ref-type="bibr">85</xref>&#x02013;
+<xref rid="ref-88" ref-type="bibr">88</xref></sup>, sorghum
+<sup><xref rid="ref-89" ref-type="bibr">89</xref>,
+<xref rid="ref-90" ref-type="bibr">90</xref></sup>, rice
+<sup><xref rid="ref-91" ref-type="bibr">91</xref>&#x02013;
+<xref rid="ref-94" ref-type="bibr">94</xref></sup>,
+<italic>Camelina sativa</italic>
+<sup><xref rid="ref-95" ref-type="bibr">95</xref></sup>, wheat
+<sup><xref rid="ref-96" ref-type="bibr">96</xref>,
+<xref rid="ref-97" ref-type="bibr">97</xref></sup> Kodo millet
+<sup><xref rid="ref-98" ref-type="bibr">98</xref></sup>, pearl millet
+<sup><xref rid="ref-99" ref-type="bibr">99</xref>,
+<xref rid="ref-100" ref-type="bibr">100</xref></sup>, sweet potato
+<sup><xref rid="ref-101" ref-type="bibr">101</xref></sup>, rapeseed
+<sup><xref rid="ref-102" ref-type="bibr">102</xref></sup>, Peanut
+<sup><xref rid="ref-103" ref-type="bibr">103</xref></sup>, and
+<italic>Ammopiptanthus mongolicus</italic>
+<sup><xref rid="ref-104" ref-type="bibr">104</xref></sup>. Analysis by
+<ext-link ext-link-type="uri" xlink:href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?LINK_LOC=blasthome&#x00026;PAGE_TYPE=BlastSearch&#x00026;PROGRAM=blastx">BLASTX</ext-link> or qRT-PCR can be performed to find the most promising ESTs
+<sup><xref rid="ref-82" ref-type="bibr">82</xref></sup>. </p></sec><sec><title>TILLING</title><p>With the advancements in high-throughput techniques genomes of a large number of crops are available now which present a number of new opportunities for the application of traditional mutation based reverse genetic techniques
+<sup><xref rid="ref-105" ref-type="bibr">105</xref></sup>. TILLING is a nontransgenic method used to study allelic variations in the target gene in a mutant population and the effect of the mutant gene is studied from the changes in plant phenotypes
+<sup><xref rid="ref-28" ref-type="bibr">28</xref>,
+<xref rid="ref-106" ref-type="bibr">106</xref>,
+<xref rid="ref-107" ref-type="bibr">107</xref></sup>. It is a quick and comparatively cheap method for the screening of single nucleotide polymorphisms (SNP) in the target sequence. These point mutations in the target genes can be identified by PCR
+<sup><xref rid="ref-105" ref-type="bibr">105</xref>,
+<xref rid="ref-108" ref-type="bibr">108</xref></sup>. Moreover, this technique is applicable to any plant species whose genome sequence is available, regardless of its ploidy levels. In TILLING, to induce mutations in plant genome chemical mutagens are used that generated random mutations
+<sup><xref rid="ref-105" ref-type="bibr">105</xref></sup>. In most of the experiments, to generate the TILLING population ethymethansulfonate (EMS) is used as a mutagen
+<sup><xref rid="ref-30" ref-type="bibr">30</xref></sup>. However, to study the polymorphism developed, due to environmental conditions, a modified technique called as EcoTILLING has been developed. It seems a more promising strategy to study the genes related to abiotic stresses
+<sup><xref rid="ref-109" ref-type="bibr">109</xref>,
+<xref rid="ref-110" ref-type="bibr">110</xref></sup>.</p></sec><sec><title>CRISPR Technology</title><p>CRISPR (Clustered Regularly Interspace Short Palindromic Repeat)/ CRISPR-associated nuclease protein (Cas) 9 technology based upon plant antiviral defense mechanisms, offered various new opportunities for researchers. It is relatively simple, easy, less cytotoxic and very efficient targeted genome editing technology in comparison to traditional techniques used for the same purpose
+<sup><xref rid="ref-111" ref-type="bibr">111</xref>,
+<xref rid="ref-112" ref-type="bibr">112</xref></sup>. CRISPR/CAS9 based gene editing technology has become common practice in various labs. It involves the use of the CAS9 endonuclease, originally derived from
+<italic>Streptococcus pyogenes,</italic> and a guide RNA which leads CAS9 to the target sequence working together and generate double stranded DNA breaks which are later repaired by the error prone non-homologous end joining (NHEJ) method or by the homology directed repair (HDR) pathway
+<sup><xref rid="ref-113" ref-type="bibr">113</xref>,
+<xref rid="ref-114" ref-type="bibr">114</xref></sup>. Recently, this technology has been used extensively for crop improvement
+<sup><xref rid="ref-31" ref-type="bibr">31</xref>,
+<xref rid="ref-115" ref-type="bibr">115</xref>&#x02013;
+<xref rid="ref-120" ref-type="bibr">120</xref></sup>. This system has been successfully used to study the genes involved in drought stress (
+<xref rid="T3" ref-type="table">Table 3</xref>) in model plant Arabidopsis
+<sup><xref rid="ref-121" ref-type="bibr">121</xref></sup> and also in a number of crops such as soybean, maize
+<sup><xref rid="ref-114" ref-type="bibr">114</xref>,
+<xref rid="ref-122" ref-type="bibr">122</xref></sup>, rice
+<sup><xref rid="ref-123" ref-type="bibr">123</xref></sup>, tomato
+<sup><xref rid="ref-124" ref-type="bibr">124</xref></sup>.</p><table-wrap id="T3" orientation="portrait" position="anchor"><label>Table 3. </label><caption><title>Recent examples of drought associated genes studied by clustered regularly interspace short palindromic repeat (CRISPR)/Cas9.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="center" rowspan="1" colspan="1">Sr. No.</th><th align="center" rowspan="1" colspan="1">Crop</th><th align="center" rowspan="1" colspan="1">Gene Name</th><th align="center" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">1.</td><td align="center" rowspan="1" colspan="1">Arabidopsis</td><td align="center" rowspan="1" colspan="1">
+<italic>mir169a</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-113" ref-type="bibr">113</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">2.</td><td align="center" rowspan="1" colspan="1">Arabidopsis</td><td align="center" rowspan="1" colspan="1">
+<italic>UGT79B2,UGT79B3</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-121" ref-type="bibr">121</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">3.</td><td align="center" rowspan="1" colspan="1">Maize</td><td align="center" rowspan="1" colspan="1">
+<italic>ARGOS8</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-114" ref-type="bibr">114</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">4.</td><td align="center" rowspan="1" colspan="1">Tomato</td><td align="center" rowspan="1" colspan="1">
+<italic>slmapk3</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-124" ref-type="bibr">124</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">5.</td><td align="center" rowspan="1" colspan="1">Arabidopsis, Poplar</td><td align="center" rowspan="1" colspan="1">
+<italic>PtoMYB216</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-125" ref-type="bibr">125</xref>
+</td></tr><tr><td align="center" rowspan="1" colspan="1">6.</td><td align="center" rowspan="1" colspan="1">Rice</td><td align="center" rowspan="1" colspan="1">
+<italic>OsSAPK2</italic>
+</td><td align="center" rowspan="1" colspan="1">
+<xref rid="ref-123" ref-type="bibr">123</xref>
+</td></tr></tbody></table></table-wrap></sec><sec><title>Conclusion and future perspectives</title><p>Severe droughts are becoming more common every year and are reducing crop yield considerably. There is an urgent need for drought tolerant varieties. Breeding and transgenic approaches could solve this problem but the knowledge of molecular mechanisms and genes taking part in drought tolerance is essential. Several reverse genetic techniques have proved their potential in many crops and some are still evolving. During the last decade, the genomes of several crops were successfully sequenced, various new VIGS systems have been developed for different crops
+<sup><xref rid="ref-126" ref-type="bibr">104</xref>&#x02013;
+<xref rid="ref-131" ref-type="bibr">131</xref></sup> and CRISPR has become the most powerful tool for genome editing
+<sup><xref rid="ref-126" ref-type="bibr">126</xref>&#x02013;
+<xref rid="ref-131" ref-type="bibr">131</xref></sup>. Thus, these techniques can play a pivotal role in crop improvement and can contribute highly in the development of drought tolerant varieties.</p></sec><sec><title>Data availability</title><p>No data are associated with this article</p></sec></body><back><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lesk</surname><given-names>C</given-names></name><name><surname>Rowhani</surname><given-names>P</given-names></name><name><surname>Ramankutty</surname><given-names>N</given-names></name></person-group>:
+<article-title>Influence of extreme weather disasters on global crop production.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2016</year>;<volume>529</volume>(<issue>7584</issue>):<fpage>84</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature16467</pub-id>
+<?supplied-pmid 26738594?><pub-id pub-id-type="pmid">26738594</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nouri</surname><given-names>MZ</given-names></name><name><surname>Moumeni</surname><given-names>A</given-names></name><name><surname>Komatsu</surname><given-names>S</given-names></name></person-group>:
+<article-title>Abiotic Stresses: Insight into Gene Regulation and Protein Expression in Photosynthetic Pathways of Plants.</article-title>
+<source><italic>Int J Mol Sci.</italic></source>
+<year>2015</year>;<volume>16</volume>(<issue>9</issue>):<fpage>20392</fpage>&#x02013;<lpage>416</lpage>.
+<pub-id pub-id-type="doi">10.3390/ijms160920392</pub-id>
+<!--<pub-id pub-id-type="pmcid">4613210</pub-id>-->
+<?supplied-pmid 26343644?><pub-id pub-id-type="pmid">26343644</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mickelbart</surname><given-names>MV</given-names></name><name><surname>Hasegawa</surname><given-names>PM</given-names></name><name><surname>Bailey-Serres</surname><given-names>J</given-names></name></person-group>:
+<article-title>Genetic mechanisms of abiotic stress tolerance that translate to crop yield stability.</article-title>
+<source><italic>Nat Rev Genet.</italic></source>
+<year>2015</year>;<volume>16</volume>(<issue>4</issue>):<fpage>237</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrg3901</pub-id>
+<?supplied-pmid 25752530?><pub-id pub-id-type="pmid">25752530</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balla</surname><given-names>K</given-names></name><name><surname>Rakszegi</surname><given-names>M</given-names></name><name><surname>Li</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>Quality of winter wheat in relation to heat and drought shock after anthesis.</article-title>
+<source><italic>Czech J Food Sci.</italic></source>
+<year>2011</year>;<volume>29</volume>(<issue>2</issue>):<fpage>117</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="doi">10.17221/227/2010-CJFS</pub-id>
+</mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fahad</surname><given-names>S</given-names></name><name><surname>Bajwa</surname><given-names>AA</given-names></name><name><surname>Nazir</surname><given-names>U</given-names></name><etal/></person-group>:
+<article-title>Crop Production under Drought and Heat Stress: Plant Responses and Management Options.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>1147</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.01147</pub-id>
+<!--<pub-id pub-id-type="pmcid">5489704</pub-id>-->
+<?supplied-pmid 28706531?><pub-id pub-id-type="pmid">28706531</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Daryanto</surname><given-names>S</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Jacinthe</surname><given-names>PA</given-names></name></person-group>:
+<article-title>Global Synthesis of Drought Effects on Maize and Wheat Production.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2016</year>;<volume>11</volume>(<issue>5</issue>):<fpage>e0156362</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0156362</pub-id>
+<!--<pub-id pub-id-type="pmcid">4880198</pub-id>-->
+<?supplied-pmid 27223810?><pub-id pub-id-type="pmid">27223810</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lafitte</surname><given-names>HR</given-names></name><name><surname>Yongsheng</surname><given-names>G</given-names></name><name><surname>Yan</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Whole plant responses, key processes, and adaptation to drought stress: the case of rice.</article-title>
+<source><italic>J Exp Bot.</italic></source>
+<year>2007</year>;<volume>58</volume>(<issue>2</issue>):<fpage>169</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="doi">10.1093/jxb/erl101</pub-id>
+<?supplied-pmid 16997901?><pub-id pub-id-type="pmid">16997901</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kamara</surname><given-names>AY</given-names></name><name><surname>Menkir</surname><given-names>A</given-names></name><name><surname>Badu-Apraku</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>The influence of drought stress on growth, yield and yield components of selected maize genotypes.</article-title>
+<source><italic>J Agric Sci.</italic></source>
+<year>2003</year>;<volume>141</volume>(<issue>1</issue>):<fpage>43</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="doi">10.1017/S0021859603003423</pub-id>
+</mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nayyar</surname><given-names>H</given-names></name><name><surname>Kaur</surname><given-names>S</given-names></name><name><surname>Singh</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Differential sensitivity of Desi (small-seeded) and Kabuli (large-seeded) chickpea genotypes to water stress during seed filling: Effects on accumulation of seed reserves and yield.</article-title>
+<source><italic>J Sci Food Agric.</italic></source>
+<year>2006</year>;<volume>86</volume>(<issue>13</issue>):<fpage>2076</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.1002/jsfa.2574</pub-id>
+</mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Samarah</surname><given-names>NH</given-names></name><name><surname>Mullen</surname><given-names>RE</given-names></name><name><surname>Cianzio</surname><given-names>SR</given-names></name><etal/></person-group>:
+<article-title>Dehydrin-like proteins in soybean seeds in response to drought stress during seed filling.</article-title>
+<source><italic>Crop Sci.</italic></source>
+<year>2006</year>;<volume>46</volume>(<issue>5</issue>):<fpage>2141</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="doi">10.2135/cropsci2006.02.0066</pub-id>
+</mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mazahery-Laghab</surname><given-names>H</given-names></name><name><surname>Nouri</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Effects of the reduction of drought stress using supplementary irrigation for sunflower (Helianthus annuus) in dry farming conditions.</article-title>
+<source><italic>Pajouheshva Sazandegi Agron Hortic.</italic></source>
+<year>2003</year>;<volume>59</volume>:<fpage>81</fpage>&#x02013;<lpage>6</lpage>.
+<ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/313227609_Effects_of_the_reduction_of_drought_stress_using_supplementary_irrigation_for_sunflower_Helianthus_annuus_in_dry_farming_conditions">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deblonde</surname><given-names>PMK</given-names></name><name><surname>Ledent</surname><given-names>JF</given-names></name></person-group>:
+<article-title>Effects of moderate drought conditions on green leaf number, stem height, leaf length and tuber yield of potato cultivars.</article-title>
+<source><italic>Eur J Agron.</italic></source>
+<year>2001</year>;<volume>14</volume>(<issue>1</issue>):<fpage>31</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1161-0301(00)00081-2</pub-id>
+</mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jamieson</surname><given-names>PD</given-names></name><name><surname>Martin</surname><given-names>RJ</given-names></name><name><surname>Francis</surname><given-names>GS</given-names></name></person-group>:
+<article-title>Drought influences on grain yield of barley, wheat, and maize.</article-title>
+<source><italic>New Zeal J Crop Hortic Sci.</italic></source>
+<year>1995</year>;<volume>23</volume>(<issue>1</issue>):<fpage>55</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="doi">10.1080/01140671.1995.9513868</pub-id>
+</mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basu</surname><given-names>S</given-names></name><name><surname>Ramegowda</surname><given-names>V</given-names></name><name><surname>Kumar</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Plant adaptation to drought stress [version 1; referees: 3 approved].</article-title>
+<source><italic>F1000Res.</italic></source>
+<year>2016</year>;<volume>5</volume>: pii: F1000 Faculty Rev-1554.
+<pub-id pub-id-type="doi">10.12688/f1000research.7678.1</pub-id>
+<!--<pub-id pub-id-type="pmcid">4937719</pub-id>-->
+<?supplied-pmid 27441087?><pub-id pub-id-type="pmid">27441087</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tietjen</surname><given-names>B</given-names></name><name><surname>Schlaepfer</surname><given-names>DR</given-names></name><name><surname>Bradford</surname><given-names>JB</given-names></name><etal/></person-group>:
+<article-title>Climate change-induced vegetation shifts lead to more ecological droughts despite projected rainfall increases in many global temperate drylands.</article-title>
+<source><italic>Glob Chang Biol.</italic></source>
+<year>2017</year>;<volume>23</volume>(<issue>7</issue>):<fpage>2743</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1111/gcb.13598</pub-id>
+<?supplied-pmid 27976449?><pub-id pub-id-type="pmid">27976449</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flexas</surname><given-names>J</given-names></name><name><surname>Bota</surname><given-names>J</given-names></name><name><surname>Loreto</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Diffusive and metabolic limitations to photosynthesis under drought and salinity in C
+<sub>3</sub> plants.</article-title>
+<source><italic>Plant Biol (Stuttg).</italic></source>
+<year>2004</year>;<volume>6</volume>(<issue>3</issue>):<fpage>269</fpage>&#x02013;<lpage>79</lpage>.
+<pub-id pub-id-type="doi">10.1055/s-2004-820867</pub-id>
+<?supplied-pmid 15143435?><pub-id pub-id-type="pmid">15143435</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lobell</surname><given-names>DB</given-names></name><name><surname>Schlenker</surname><given-names>W</given-names></name><name><surname>Costa-Roberts</surname><given-names>J</given-names></name></person-group>:
+<article-title>Climate trends and global crop production since 1980.</article-title>
+<source><italic>Science.</italic></source>
+<year>2011</year>;<volume>333</volume>(<issue>6042</issue>):<fpage>616</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1204531</pub-id>
+<?supplied-pmid 21551030?><pub-id pub-id-type="pmid">21551030</pub-id></mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Si</surname><given-names>C</given-names></name><name><surname>Zhang</surname><given-names>JY</given-names></name><name><surname>Xu</surname><given-names>HC</given-names></name></person-group>:
+<article-title>[Advances in studies on growth metabolism and response mechanisms of medicinal plants under drought stress].</article-title>
+<source><italic>Zhongguo Zhong Yao Za Zhi.</italic></source>
+<year>2014</year>;<volume>39</volume>(<issue>13</issue>):<fpage>2432</fpage>&#x02013;<lpage>7</lpage>.
+<?supplied-pmid 25276959?><pub-id pub-id-type="pmid">25276959</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yordanov</surname><given-names>I</given-names></name><name><surname>Velikova</surname><given-names>V</given-names></name><name><surname>Tsonev</surname><given-names>T</given-names></name></person-group>:
+<article-title>Plant responses to drought, acclimation, and stress tolerance.</article-title>
+<source><italic>Photosynthetica.</italic></source>
+<year>2000</year>;<volume>38</volume>(<issue>2</issue>):<fpage>171</fpage>&#x02013;<lpage>86</lpage>.
+<pub-id pub-id-type="doi">10.1023/A:1007201411474</pub-id>
+</mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barnab&#x000e1;s</surname><given-names>B</given-names></name><name><surname>J&#x000e4;ger</surname><given-names>K</given-names></name><name><surname>Feh&#x000e9;r</surname><given-names>A</given-names></name></person-group>:
+<article-title>The effect of drought and heat stress on reproductive processes in cereals.</article-title>
+<source><italic>Plant Cell Environ.</italic></source>
+<year>2008</year>;<volume>31</volume>(<issue>1</issue>):<fpage>11</fpage>&#x02013;<lpage>38</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-3040.2007.01727.x</pub-id>
+<?supplied-pmid 17971069?><pub-id pub-id-type="pmid">17971069</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaya</surname><given-names>MD</given-names></name><name><surname>Ok&#x000e7;u</surname><given-names>G</given-names></name><name><surname>Atak</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Seed treatments to overcome salt and drought stress during germination in sunflower (
+<italic>Helianthus annuus L</italic>.).</article-title>
+<source><italic>Eur J Agron.</italic></source>
+<year>2006</year>;<volume>24</volume>(<issue>4</issue>):<fpage>291</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.eja.2005.08.001</pub-id>
+</mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farooq</surname><given-names>M</given-names></name><name><surname>Wahid</surname><given-names>A</given-names></name><name><surname>Kobayashi</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Plant drought stress: effects, mechanisms and management.</article-title>
+<source><italic>Agron Sustain Dev.</italic></source>
+<year>2009</year>;<volume>29</volume>(<issue>1</issue>):<fpage>185</fpage>&#x02013;<lpage>212</lpage>.
+<pub-id pub-id-type="doi">10.1051/agro:2008021</pub-id>
+</mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hussain</surname><given-names>M</given-names></name><name><surname>Malik</surname><given-names>MA</given-names></name><name><surname>Farooq</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Improving drought tolerance by exogenous application of glycinebetaine and salicylic acid in sunflower.</article-title>
+<source><italic>J Agron Crop Sci.</italic></source>
+<year>2008</year>;<volume>194</volume>(<issue>3</issue>):<fpage>193</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1439-037X.2008.00305.x</pub-id>
+</mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Praba</surname><given-names>ML</given-names></name><name><surname>Cairns</surname><given-names>JE</given-names></name><name><surname>Babu</surname><given-names>RC</given-names></name><etal/></person-group>:
+<article-title>Identification of physiological traits underlying cultivar differences in drought tolerance in rice and wheat.</article-title>
+<source><italic>J Agron Crop Sci.</italic></source>
+<year>2009</year>;<volume>195</volume>(<issue>1</issue>):<fpage>30</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1439-037X.2008.00341.x</pub-id>
+</mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pastori</surname><given-names>GM</given-names></name><name><surname>Foyer</surname><given-names>CH</given-names></name></person-group>:
+<article-title>Common components, networks, and pathways of cross-tolerance to stress. The central role of "redox" and abscisic acid-mediated controls.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<year>2002</year>;<volume>129</volume>(<issue>2</issue>):<fpage>460</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1104/pp.011021</pub-id>
+<!--<pub-id pub-id-type="pmcid">1540233</pub-id>-->
+<?supplied-pmid 12068093?><pub-id pub-id-type="pmid">12068093</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nagahatenna</surname><given-names>DS</given-names></name><name><surname>Langridge</surname><given-names>P</given-names></name><name><surname>Whitford</surname><given-names>R</given-names></name></person-group>:
+<article-title>Tetrapyrrole-based drought stress signalling.</article-title>
+<source><italic>Plant Biotechnol J.</italic></source>
+<year>2015</year>;<volume>13</volume>(<issue>4</issue>):<fpage>447</fpage>&#x02013;<lpage>59</lpage>.
+<pub-id pub-id-type="doi">10.1111/pbi.12356</pub-id>
+<!--<pub-id pub-id-type="pmcid">5054908</pub-id>-->
+<?supplied-pmid 25756609?><pub-id pub-id-type="pmid">25756609</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Azevedo</surname><given-names>H</given-names></name><name><surname>Silva-Correia</surname><given-names>J</given-names></name><name><surname>Oliveira</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>A strategy for the identification of new abiotic stress determinants in
+<italic>Arabidopsis</italic> using web-based data mining and reverse genetics.</article-title>
+<source><italic>OMICS.</italic></source>
+<year>2011</year>;<volume>15</volume>(<issue>12</issue>):<fpage>935</fpage>&#x02013;<lpage>47</lpage>.
+<pub-id pub-id-type="doi">10.1089/omi.2011.0083</pub-id>
+<?supplied-pmid 22136640?><pub-id pub-id-type="pmid">22136640</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slade</surname><given-names>AJ</given-names></name><name><surname>Knauf</surname><given-names>VC</given-names></name></person-group>:
+<article-title>TILLING moves beyond functional genomics into crop improvement.</article-title>
+<source><italic>Transgenic Res.</italic></source>
+<year>2005</year>;<volume>14</volume>(<issue>2</issue>):<fpage>109</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11248-005-2770-x</pub-id>
+<?supplied-pmid 16022382?><pub-id pub-id-type="pmid">16022382</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Senthil-Kumar</surname><given-names>M</given-names></name><name><surname>Mysore</surname><given-names>KS</given-names></name></person-group>:
+<article-title>Tobacco rattle virus-based virus-induced gene silencing in
+<italic>Nicotiana benthamiana</italic>.</article-title>
+<source><italic>Nat Protoc.</italic></source>
+<year>2014</year>;<volume>9</volume>(<issue>7</issue>):<fpage>1549</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="doi">10.1038/nprot.2014.092</pub-id>
+<?supplied-pmid 24901739?><pub-id pub-id-type="pmid">24901739</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tadele</surname><given-names>Z</given-names></name></person-group>:
+<article-title>Drought Adaptation in Millets.</article-title>In:
+<italic>Abiotic and Biotic Stress in Plants - Recent Advances and Future Perspectives</italic><year>2016</year>
+<pub-id pub-id-type="doi">10.5772/61929</pub-id>
+</mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khatodia</surname><given-names>S</given-names></name><name><surname>Bhatotia</surname><given-names>K</given-names></name><name><surname>Passricha</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>The CRISPR/Cas Genome-Editing Tool: Application in Improvement of Crops.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2016</year>;<volume>7</volume>:<fpage>506</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2016.00506</pub-id>
+<!--<pub-id pub-id-type="pmcid">4835450</pub-id>-->
+<?supplied-pmid 27148329?><pub-id pub-id-type="pmid">27148329</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mohanta</surname><given-names>TK</given-names></name><name><surname>Bashir</surname><given-names>T</given-names></name><name><surname>Hashem</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Genome Editing Tools in Plants.</article-title>
+<source><italic>Genes (Basel).</italic></source>
+<year>2017</year>;<volume>8</volume>(<issue>12</issue>): pii: E399.
+<pub-id pub-id-type="doi">10.3390/genes8120399</pub-id>
+<!--<pub-id pub-id-type="pmcid">5748717</pub-id>-->
+<?supplied-pmid 29257124?><pub-id pub-id-type="pmid">29257124</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manmathan</surname><given-names>H</given-names></name><name><surname>Shaner</surname><given-names>D</given-names></name><name><surname>Snelling</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Virus-induced gene silencing of
+<italic>Arabidopsis thaliana</italic> gene homologues in wheat identifies genes conferring improved drought tolerance.</article-title>
+<source><italic>J Exp Bot.</italic></source>
+<year>2013</year>;<volume>64</volume>(<issue>5</issue>):<fpage>1381</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="doi">10.1093/jxb/ert003</pub-id>
+<!--<pub-id pub-id-type="pmcid">3598424</pub-id>-->
+<?supplied-pmid 23364940?><pub-id pub-id-type="pmid">23364940</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>G</given-names></name><name><surname>Li</surname><given-names>G</given-names></name><name><surname>Ma</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Proteomic analysis on the leaves of
+<italic>TaBTF3</italic> gene virus-induced silenced wheat plants may reveal its regulatory mechanism.</article-title>
+<source><italic>J Proteomics.</italic></source>
+<year>2013</year>;<volume>83</volume>:<fpage>130</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jprot.2013.03.020</pub-id>
+<?supplied-pmid 23563083?><pub-id pub-id-type="pmid">23563083</pub-id></mixed-citation></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>He</surname><given-names>X</given-names></name><name><surname>Ma</surname><given-names>W</given-names></name><etal/></person-group>:
+<article-title>Wheat
+<italic>PROTON GRADIENT REGULATION 5</italic> is involved in tolerance to photoinhibition.</article-title>
+<source><italic>J Integr Agric.</italic></source>
+<year>2014</year>;<volume>13</volume>(<issue>6</issue>):<fpage>1206</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1016/S2095-3119(13)60604-8</pub-id>
+</mixed-citation></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuzuoglu-Ozturk</surname><given-names>D</given-names></name><name><surname>Cebeci Yalcinkaya</surname><given-names>O</given-names></name><name><surname>Akpinar</surname><given-names>BA</given-names></name><etal/></person-group>:
+<article-title>Autophagy-related gene,
+<italic>TdAtg8</italic>, in wild emmer wheat plays a role in drought and osmotic stress response.</article-title>
+<source><italic>Planta.</italic></source>
+<year>2012</year>;<volume>236</volume>(<issue>4</issue>):<fpage>1081</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00425-012-1657-3</pub-id>
+<?supplied-pmid 22569921?><pub-id pub-id-type="pmid">22569921</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liang</surname><given-names>J</given-names></name><name><surname>Deng</surname><given-names>G</given-names></name><name><surname>Long</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Virus-induced silencing of genes encoding LEA protein in Tibetan hulless barley (
+<italic>Hordeum vulgare ssp. vulgare</italic>) and their relationship to drought tolerance.</article-title>
+<source><italic>Mol Breed.</italic></source>
+<year>2012</year>;<volume>30</volume>(<issue>1</issue>):<fpage>441</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11032-011-9633-3</pub-id>
+</mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>X</given-names></name><name><surname>Zeng</surname><given-names>J</given-names></name><name><surname>Cao</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>HvEXPB
+<sub>7</sub>, a novel &#x003b2;-expansin gene revealed by the root hair transcriptome of Tibetan wild barley, improves root hair growth under drought stress.</article-title>
+<source><italic>J Exp Bot.</italic></source>
+<year>2015</year>;<volume>66</volume>(<issue>22</issue>):<fpage>7405</fpage>&#x02013;<lpage>19</lpage>.
+<pub-id pub-id-type="doi">10.1093/jxb/erv436</pub-id>
+<!--<pub-id pub-id-type="pmcid">4765802</pub-id>-->
+<?supplied-pmid 26417018?><pub-id pub-id-type="pmid">26417018</pub-id></mixed-citation></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeng</surname><given-names>X</given-names></name><name><surname>Zeng</surname><given-names>Z</given-names></name><name><surname>Liu</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>A barley homolog of yeast ATG6 is involved in multiple abiotic stress responses and stress resistance regulation.</article-title>
+<source><italic>Plant Physiol Biochem.</italic></source>
+<year>2017</year>;<volume>115</volume>:<fpage>97</fpage>&#x02013;<lpage>106</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.plaphy.2017.03.013</pub-id>
+<?supplied-pmid 28343064?><pub-id pub-id-type="pmid">28343064</pub-id></mixed-citation></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Senthil-Kumar</surname><given-names>M</given-names></name><name><surname>Udayakumar</surname><given-names>M</given-names></name></person-group>:
+<article-title>High-throughput virus-induced gene-silencing approach to assess the functional relevance of a moisture stress-induced cDNA homologous to
+<italic>lea4</italic>.</article-title>
+<source><italic>J Exp Bot.</italic></source>
+<year>2006</year>;<volume>57</volume>(<issue>10</issue>):<fpage>2291</fpage>&#x02013;<lpage>302</lpage>.
+<pub-id pub-id-type="doi">10.1093/jxb/erj200</pub-id>
+<?supplied-pmid 16798849?><pub-id pub-id-type="pmid">16798849</pub-id></mixed-citation></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>C</given-names></name><name><surname>Yan</surname><given-names>JM</given-names></name><name><surname>Li</surname><given-names>YZ</given-names></name><etal/></person-group>:
+<article-title>Silencing the
+<italic>SpMPK1</italic>,
+<italic>SpMPK2</italic>, and
+<italic>SpMPK3</italic> genes in tomato reduces abscisic acid-mediated drought tolerance.</article-title>
+<source><italic>Int J Mol Sci.</italic></source>
+<year>2013</year>;<volume>14</volume>(<issue>11</issue>):<fpage>21983</fpage>&#x02013;<lpage>96</lpage>.
+<pub-id pub-id-type="doi">10.3390/ijms141121983</pub-id>
+<!--<pub-id pub-id-type="pmcid">3856046</pub-id>-->
+<?supplied-pmid 24201128?><pub-id pub-id-type="pmid">24201128</pub-id></mixed-citation></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Virk</surname><given-names>N</given-names></name><name><surname>Liu</surname><given-names>B</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Tomato
+<italic>SlMPK4</italic> is required for resistance against Botrytis cinerea and tolerance to drought stress.</article-title>
+<source><italic>Acta Physiol Plant.</italic></source>
+<year>2013</year>;<volume>35</volume>(<issue>4</issue>):<fpage>1211</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11738-012-1160-2</pub-id>
+</mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Huang</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Tomato SR/CAMTA transcription factors SlSR1 and SlSR3L negatively regulate disease resistance response and SlSR1L positively modulates drought stress tolerance.</article-title>
+<source><italic>BMC Plant Biol.</italic></source>
+<year>2014</year>;<volume>14</volume>(<issue>1</issue>):<fpage>286</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12870-014-0286-3</pub-id>
+<!--<pub-id pub-id-type="pmcid">4219024</pub-id>-->
+<?supplied-pmid 25348703?><pub-id pub-id-type="pmid">25348703</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thirumalaikumar</surname><given-names>VP</given-names></name><name><surname>Devkar</surname><given-names>V</given-names></name><name><surname>Mehterov</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>NAC transcription factor JUNGBRUNNEN1 enhances drought tolerance in tomato.</article-title>
+<source><italic>Plant Biotechnol J.</italic></source>
+<year>2018</year>;<volume>16</volume>(<issue>2</issue>):<fpage>354</fpage>&#x02013;<lpage>366</lpage>.
+<pub-id pub-id-type="doi">10.1111/pbi.12776</pub-id>
+<!--<pub-id pub-id-type="pmcid">5787828</pub-id>-->
+<?supplied-pmid 28640975?><pub-id pub-id-type="pmid">28640975</pub-id></mixed-citation></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>K</given-names></name><name><surname>Xing</surname><given-names>C</given-names></name><name><surname>Yao</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>
+<italic>PbrMYB21</italic>, a novel MYB protein of
+<italic>Pyrus betulaefolia</italic>, functions in drought tolerance and modulates polyamine levels by regulating arginine decarboxylase gene.</article-title>
+<source><italic>Plant Biotechnol J.</italic></source>
+<year>2017</year>;<volume>15</volume>(<issue>9</issue>):<fpage>1186</fpage>&#x02013;<lpage>203</lpage>.
+<pub-id pub-id-type="doi">10.1111/pbi.12708</pub-id>
+<!--<pub-id pub-id-type="pmcid">5552480</pub-id>-->
+<?supplied-pmid 28190292?><pub-id pub-id-type="pmid">28190292</pub-id></mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choi</surname><given-names>HW</given-names></name><name><surname>Hwang</surname><given-names>BK</given-names></name></person-group>:
+<article-title>The pepper extracellular peroxidase CaPO2 is required for salt, drought and oxidative stress tolerance as well as resistance to fungal pathogens.</article-title>
+<source><italic>Planta.</italic></source>
+<year>2012</year>;<volume>235</volume>(<issue>6</issue>):<fpage>1369</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00425-011-1580-z</pub-id>
+<?supplied-pmid 22210598?><pub-id pub-id-type="pmid">22210598</pub-id></mixed-citation></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lim</surname><given-names>CW</given-names></name><name><surname>Lee</surname><given-names>SC</given-names></name></person-group>:
+<article-title>Functional roles of the pepper MLO protein gene,
+<italic>CaMLO2</italic>, in abscisic acid signaling and drought sensitivity.</article-title>
+<source><italic>Plant Mol Biol.</italic></source>
+<year>2014</year>;<volume>85</volume>(<issue>1&#x02013;2</issue>):<fpage>1</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11103-013-0155-8</pub-id>
+<?supplied-pmid 24282068?><pub-id pub-id-type="pmid">24282068</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>C</given-names></name><name><surname>Lim</surname><given-names>CW</given-names></name><name><surname>Baek</surname><given-names>W</given-names></name><etal/></person-group>:
+<article-title>RING Type E3 Ligase CaAIR1 in Pepper Acts in the Regulation of ABA Signaling and Drought Stress Response.</article-title>
+<source><italic>Plant Cell Physiol.</italic></source>
+<year>2015</year>;<volume>56</volume>(<issue>9</issue>):<fpage>1808</fpage>&#x02013;<lpage>19</lpage>.
+<pub-id pub-id-type="doi">10.1093/pcp/pcv103</pub-id>
+<?supplied-pmid 26169196?><pub-id pub-id-type="pmid">26169196</pub-id></mixed-citation></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>C</given-names></name><name><surname>Lim</surname><given-names>CW</given-names></name><name><surname>Lee</surname><given-names>SC</given-names></name></person-group>:
+<article-title>The pepper RING-Type E3 ligase, CaAIP1, functions as a positive regulator of drought and high salinity stress responses.</article-title>
+<source><italic>Plant Cell Physiol.</italic></source>
+<year>2016</year>;<volume>57</volume>(<issue>10</issue>):<fpage>2202</fpage>&#x02013;<lpage>12</lpage>.
+<pub-id pub-id-type="doi">10.1093/pcp/pcw139</pub-id>
+<?supplied-pmid 27503217?><pub-id pub-id-type="pmid">27503217</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>C</given-names></name><name><surname>Lim</surname><given-names>WC</given-names></name><name><surname>Baek</surname><given-names>W</given-names></name><etal/></person-group>:
+<article-title>The pepper WPP domain protein, CaWDP1, acts as a novel negative regulator of drought stress via ABA signaling.</article-title>
+<source><italic>Plant Cell Physiol.</italic></source>
+<year>2017</year>;<volume>58</volume>(<issue>4</issue>):<fpage>779</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1093/pcp/pcx017</pub-id>
+<?supplied-pmid 28339719?><pub-id pub-id-type="pmid">28339719</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>C</given-names></name><name><surname>Lu</surname><given-names>W</given-names></name><name><surname>He</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>The Cotton
+<italic>Mitogen-Activated Protein Kinase Kinase 3</italic> Functions in Drought Tolerance by Regulating Stomatal Responses and Root Growth.</article-title>
+<source><italic>Plant Cell Physiol.</italic></source>
+<year>2016</year>;<volume>57</volume>(<issue>8</issue>):<fpage>1629</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1093/pcp/pcw090</pub-id>
+<?supplied-pmid 27335349?><pub-id pub-id-type="pmid">27335349</pub-id></mixed-citation></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yan</surname><given-names>Y</given-names></name><name><surname>Jia</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Overexpression of
+<italic>GhWRKY27a</italic> reduces tolerance to drought stress and resistance to
+<italic>Rhizoctonia solani</italic> infection in transgenic
+<italic>Nicotiana benthamiana</italic>.</article-title>
+<source><italic>Front Physiol.</italic></source>
+<year>2015</year>;<volume>6</volume>:<fpage>265</fpage>.
+<pub-id pub-id-type="doi">10.3389/fphys.2015.00265</pub-id>
+<!--<pub-id pub-id-type="pmcid">4586331</pub-id>-->
+<?supplied-pmid 26483697?><pub-id pub-id-type="pmid">26483697</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>Y</given-names></name><name><surname>Huang</surname><given-names>C</given-names></name><name><surname>Xie</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>A tomato glutaredoxin gene
+<italic>SlGRX1</italic> regulates plant responses to oxidative, drought and salt stresses.</article-title>
+<source><italic>Planta.</italic></source>
+<year>2010</year>;<volume>232</volume>(<issue>6</issue>):<fpage>1499</fpage>&#x02013;<lpage>509</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00425-010-1271-1</pub-id>
+<?supplied-pmid 20862491?><pub-id pub-id-type="pmid">20862491</pub-id></mixed-citation></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>Y</given-names></name><name><surname>Pang</surname><given-names>C</given-names></name><name><surname>Jia</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>An NAM Domain Gene,
+<italic>GhNAC79</italic>, Improves Resistance to Drought Stress in Upland Cotton.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>1657</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.01657</pub-id>
+<!--<pub-id pub-id-type="pmcid">5622203</pub-id>-->
+<?supplied-pmid 28993786?><pub-id pub-id-type="pmid">28993786</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tasaki</surname><given-names>K</given-names></name><name><surname>Terada</surname><given-names>H</given-names></name><name><surname>Masuta</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Virus-induced gene silencing (VIGS) in
+<italic>Lilium leichtlinii using the Cucumber mosaic virus vector</italic>.</article-title>
+<source><italic>Plant Biotechnol.</italic></source>
+<year>2016</year>;<volume>33</volume>(<issue>5</issue>):<fpage>373</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.5511/plantbiotechnology.16.1018a</pub-id>
+</mixed-citation></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramegowda</surname><given-names>V</given-names></name><name><surname>Mysore</surname><given-names>KS</given-names></name><name><surname>Senthil-Kumar</surname><given-names>M</given-names></name></person-group>:
+<article-title>Virus-induced gene silencing is a versatile tool for unraveling the functional relevance of multiple abiotic-stress-responsive genes in crop plants.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2014</year>;<volume>5</volume>:<fpage>323</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2014.00323</pub-id>
+<!--<pub-id pub-id-type="pmcid">4085877</pub-id>-->
+<?supplied-pmid 25071806?><pub-id pub-id-type="pmid">25071806</pub-id></mixed-citation></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Becker</surname><given-names>A</given-names></name><name><surname>Lange</surname><given-names>M</given-names></name></person-group>:
+<article-title>VIGS--genomics goes functional.</article-title>
+<source><italic>Trends Plant Sci.</italic></source>
+<year>2010</year>;<volume>15</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tplants.2009.09.002</pub-id>
+<?supplied-pmid 19819180?><pub-id pub-id-type="pmid">19819180</pub-id></mixed-citation></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sahu</surname><given-names>PP</given-names></name><name><surname>Puranik</surname><given-names>S</given-names></name><name><surname>Khan</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Recent advances in tomato functional genomics: utilization of VIGS.</article-title>
+<source><italic>Protoplasma.</italic></source>
+<year>2012</year>;<volume>249</volume>(<issue>4</issue>):<fpage>1017</fpage>&#x02013;<lpage>27</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00709-012-0421-7</pub-id>
+<?supplied-pmid 22669349?><pub-id pub-id-type="pmid">22669349</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Purkayastha</surname><given-names>A</given-names></name><name><surname>Dasgupta</surname><given-names>I</given-names></name></person-group>:
+<article-title>Virus-induced gene silencing: a versatile tool for discovery of gene functions in plants.</article-title>
+<source><italic>Plant Physiol Biochem.</italic></source>
+<year>2009</year>;<volume>47</volume>(<issue>11&#x02013;12</issue>):<fpage>967</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.plaphy.2009.09.001</pub-id>
+<?supplied-pmid 19783452?><pub-id pub-id-type="pmid">19783452</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fernandez-Pozo</surname><given-names>N</given-names></name><name><surname>Rosli</surname><given-names>HG</given-names></name><name><surname>Martin</surname><given-names>GB</given-names></name><etal/></person-group>:
+<article-title>The SGN VIGS tool: user-friendly software to design virus-induced gene silencing (VIGS) constructs for functional genomics.</article-title>
+<source><italic>Mol Plant.</italic></source>
+<year>2015</year>;<volume>8</volume>(<issue>3</issue>):<fpage>486</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.molp.2014.11.024</pub-id>
+<?supplied-pmid 25667001?><pub-id pub-id-type="pmid">25667001</pub-id></mixed-citation></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ratcliff</surname><given-names>F</given-names></name><name><surname>Martin-Hernandez</surname><given-names>AM</given-names></name><name><surname>Baulcombe</surname><given-names>DC</given-names></name><etal/></person-group>:
+<article-title>Technical Advance. Tobacco rattle virus as a vector for analysis of gene function by silencing.</article-title>
+<source><italic>Plant J.</italic></source>
+<year>2001</year>;<volume>25</volume>(<issue>2</issue>):<fpage>237</fpage>&#x02013;<lpage>45</lpage>.
+<pub-id pub-id-type="doi">10.1046/j.0960-7412.2000.00942.x</pub-id>
+<?supplied-pmid 11169199?><pub-id pub-id-type="pmid">11169199</pub-id></mixed-citation></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robertson</surname><given-names>D</given-names></name></person-group>:
+<article-title>VIGS vectors for gene silencing: many targets, many tools.</article-title>
+<source><italic>Annu Rev Plant Biol.</italic></source>
+<year>2004</year>;<volume>55</volume>(<issue>1</issue>):<fpage>495</fpage>&#x02013;<lpage>519</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev.arplant.55.031903.141803</pub-id>
+<?supplied-pmid 15377229?><pub-id pub-id-type="pmid">15377229</pub-id></mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Igarashi</surname><given-names>A</given-names></name><name><surname>Yamagata</surname><given-names>K</given-names></name><name><surname>Sugai</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>
+<italic>Apple latent spherical virus</italic> vectors for reliable and effective virus-induced gene silencing among a broad range of plants including tobacco, tomato,
+<italic>Arabidopsis thaliana</italic>, cucurbits, and legumes.</article-title>
+<source><italic>Virology.</italic></source>
+<year>2009</year>;<volume>386</volume>(<issue>2</issue>):<fpage>407</fpage>&#x02013;<lpage>16</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.virol.2009.01.039</pub-id>
+<?supplied-pmid 19243807?><pub-id pub-id-type="pmid">19243807</pub-id></mixed-citation></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lange</surname><given-names>M</given-names></name><name><surname>Yellina</surname><given-names>AL</given-names></name><name><surname>Orashakova</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Virus-induced gene silencing (VIGS) in plants: an overview of target species and the virus-derived vector systems.</article-title>
+<source><italic>Methods Mol Biol.</italic></source>
+<year>2013</year>;<volume>975</volume>:<fpage>1</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1007/978-1-62703-278-0_1</pub-id>
+<?supplied-pmid 23386291?><pub-id pub-id-type="pmid">23386291</pub-id></mixed-citation></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Corbin</surname><given-names>C</given-names></name><name><surname>Lafontaine</surname><given-names>F</given-names></name><name><surname>Sep&#x000fa;lveda</surname><given-names>LJ</given-names></name><etal/></person-group>:
+<article-title>Virus-induced gene silencing in
+<italic>Rauwolfia</italic> species.</article-title>
+<source><italic>Protoplasma.</italic></source>
+<year>2017</year>;<volume>254</volume>(<issue>4</issue>):<fpage>1813</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00709-017-1079-y</pub-id>
+<?supplied-pmid 28120101?><pub-id pub-id-type="pmid">28120101</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>JP</given-names></name><name><surname>Chao</surname><given-names>DY</given-names></name><name><surname>Lin</surname><given-names>HX</given-names></name></person-group>:
+<article-title>Toward Understanding Molecular Mechanisms of Abiotic Stress Responses in Rice.</article-title>
+<source><italic>Rice.</italic></source>
+<year>2008</year>;<volume>1</volume>(<issue>1</issue>):<fpage>36</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12284-008-9006-7</pub-id>
+</mixed-citation></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shivani</surname></name><name><surname>Dwivedi</surname><given-names>DK</given-names></name><name><surname>Husain</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Physiological, Morphological and Molecular Mechanisms for Drought Tolerance in Rice.</article-title>
+<source><italic>Int J Curr Microbiol Appl Sci.</italic></source>
+<year>2017</year>;<volume>6</volume>(<issue>7</issue>):<fpage>4160</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.20546/ijcmas.2017.607.431</pub-id>
+</mixed-citation></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ara</surname><given-names>H</given-names></name><name><surname>Sinha</surname><given-names>AK</given-names></name></person-group>:
+<article-title>Conscientiousness of mitogen activated protein kinases in acquiring tolerance for abiotic stresses in plants.</article-title>
+<source><italic>Proc Indian Natl Sci Acad.</italic></source>
+<year>2014</year>;<volume>80</volume>(<issue>2</issue>):<fpage>211</fpage>&#x02013;<lpage>9</lpage>.
+<ext-link ext-link-type="uri" xlink:href="http://223.31.159.10:8080/jspui/bitstream/123456789/392/1/Sinha%20AK_2014_3.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakagami</surname><given-names>H</given-names></name><name><surname>Pitzschke</surname><given-names>A</given-names></name><name><surname>Hirt</surname><given-names>H</given-names></name></person-group>:
+<article-title>Emerging MAP kinase pathways in plant stress signalling.</article-title>
+<source><italic>Trends Plant Sci.</italic></source>
+<year>2005</year>;<volume>10</volume>(<issue>7</issue>):<fpage>339</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tplants.2005.05.009</pub-id>
+<?supplied-pmid 15953753?><pub-id pub-id-type="pmid">15953753</pub-id></mixed-citation></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pitzschke</surname><given-names>A</given-names></name><name><surname>Schikora</surname><given-names>A</given-names></name><name><surname>Hirt</surname><given-names>H</given-names></name></person-group>:
+<article-title>MAPK cascade signalling networks in plant defence.</article-title>
+<source><italic>Curr Opin Plant Biol.</italic></source>
+<year>2009</year>;<volume>12</volume>(<issue>4</issue>):<fpage>421</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pbi.2009.06.008</pub-id>
+<?supplied-pmid 19608449?><pub-id pub-id-type="pmid">19608449</pub-id></mixed-citation></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>S</given-names></name><name><surname>Klessig</surname><given-names>DF</given-names></name></person-group>:
+<article-title>MAPK cascades in plant defense signaling.</article-title>
+<source><italic>Trends Plant Sci.</italic></source>
+<year>2001</year>;<volume>6</volume>(<issue>11</issue>):<fpage>520</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1360-1385(01)02103-3</pub-id>
+<?supplied-pmid 11701380?><pub-id pub-id-type="pmid">11701380</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Romeis</surname><given-names>T</given-names></name></person-group>:
+<article-title>Protein kinases in the plant defence response.</article-title>
+<source><italic>Curr Opin Plant Biol.</italic></source>
+<year>2001</year>;<volume>4</volume>(<issue>5</issue>):<fpage>407</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1369-5266(00)00193-X</pub-id>
+<?supplied-pmid 11597498?><pub-id pub-id-type="pmid">11597498</pub-id></mixed-citation></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>R</given-names></name><name><surname>Yu</surname><given-names>F</given-names></name><name><surname>Gao</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>
+<italic>GhWRKY3</italic>, a novel cotton (
+<italic>Gossypium hirsutum</italic> L.)
+<italic>WRKY</italic> gene, is involved in diverse stress responses.</article-title>
+<source><italic>Mol Biol Rep.</italic></source>
+<year>2011</year>;<volume>38</volume>(<issue>1</issue>):<fpage>49</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11033-010-0076-4</pub-id>
+<?supplied-pmid 20238169?><pub-id pub-id-type="pmid">20238169</pub-id></mixed-citation></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>T</given-names></name><name><surname>Huang</surname><given-names>L</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Differential transcriptome profiling of chilling stress response between shoots and rhizomes of
+<italic>Oryza longistaminata</italic> using RNA sequencing.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2017</year>;<volume>12</volume>(<issue>11</issue>):<fpage>e0188625</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0188625</pub-id>
+<!--<pub-id pub-id-type="pmcid">5708648</pub-id>-->
+<?supplied-pmid 29190752?><pub-id pub-id-type="pmid">29190752</pub-id></mixed-citation></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nuruzzaman</surname><given-names>M</given-names></name><name><surname>Sharoni</surname><given-names>AM</given-names></name><name><surname>Kikuchi</surname><given-names>S</given-names></name></person-group>:
+<article-title>Roles of NAC transcription factors in the regulation of biotic and abiotic stress responses in plants.</article-title>
+<source><italic>Front Microbiol.</italic></source>
+<year>2013</year>;<volume>4</volume>:<fpage>248</fpage>.
+<pub-id pub-id-type="doi">10.3389/fmicb.2013.00248</pub-id>
+<!--<pub-id pub-id-type="pmcid">3759801</pub-id>-->
+<?supplied-pmid 24058359?><pub-id pub-id-type="pmid">24058359</pub-id></mixed-citation></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Xiong</surname><given-names>Y</given-names></name><name><surname>Bassham</surname><given-names>DC</given-names></name></person-group>:
+<article-title>Autophagy is required for tolerance of drought and salt stress in plants.</article-title>
+<source><italic>Autophagy.</italic></source>
+<year>2009</year>;<volume>5</volume>(<issue>7</issue>):<fpage>954</fpage>&#x02013;<lpage>63</lpage>.
+<pub-id pub-id-type="doi">10.4161/auto.5.7.9290</pub-id>
+<?supplied-pmid 19587533?><pub-id pub-id-type="pmid">19587533</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nolan</surname><given-names>TM</given-names></name><name><surname>Brennan</surname><given-names>B</given-names></name><name><surname>Yang</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Selective Autophagy of BES1 Mediated by DSK2 Balances Plant Growth and Survival.</article-title>
+<source><italic>Dev Cell.</italic></source>
+<year>2017</year>;<volume>41</volume>(<issue>1</issue>):<fpage>33</fpage>&#x02013;<lpage>46.e7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.devcel.2017.03.013</pub-id>
+<!--<pub-id pub-id-type="pmcid">5720862</pub-id>-->
+<?supplied-pmid 28399398?><pub-id pub-id-type="pmid">28399398</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Xu</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Autophagy: An Important Biological Process That Protects Plants from Stressful Environments.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>7</volume>:<fpage>2030</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2016.02030</pub-id>
+<!--<pub-id pub-id-type="pmcid">5225088</pub-id>-->
+<?supplied-pmid 28123390?><pub-id pub-id-type="pmid">28123390</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bai</surname><given-names>C</given-names></name><name><surname>Wang</surname><given-names>P</given-names></name><name><surname>Fan</surname><given-names>Q</given-names></name><etal/></person-group>:
+<article-title>Analysis of the Role of the Drought-Induced Gene
+<italic>DRI15</italic> and Salinity-Induced Gene SI1 in
+<italic>Alternanthera philoxeroides</italic> Plasticity Using a Virus-Based Gene Silencing Tool.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>1579</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.01579</pub-id>
+<!--<pub-id pub-id-type="pmcid">5601067</pub-id>-->
+<?supplied-pmid 28955366?><pub-id pub-id-type="pmid">28955366</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blair</surname><given-names>MW</given-names></name><name><surname>Hurtado</surname><given-names>N</given-names></name><name><surname>Chavarro</surname><given-names>CM</given-names></name><etal/></person-group>:
+<article-title>Gene-based SSR markers for common bean (
+<italic>Phaseolus vulgaris</italic> L.) derived from root and leaf tissue ESTs: an integration of the BMc series.</article-title>
+<source><italic>BMC Plant Biol.</italic></source>
+<year>2011</year>;<volume>11</volume>:<fpage>50</fpage>.
+<pub-id pub-id-type="doi">10.1186/1471-2229-11-50</pub-id>
+<!--<pub-id pub-id-type="pmcid">3068092</pub-id>-->
+<?supplied-pmid 21426554?><pub-id pub-id-type="pmid">21426554</pub-id></mixed-citation></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouchez</surname><given-names>D</given-names></name><name><surname>H&#x000f6;fte</surname><given-names>H</given-names></name></person-group>:
+<article-title>Functional genomics in plants.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<year>1998</year>;<volume>118</volume>(<issue>3</issue>):<fpage>725</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1104/pp.118.3.725</pub-id>
+<!--<pub-id pub-id-type="pmcid">1539195</pub-id>-->
+<?supplied-pmid 9808716?><pub-id pub-id-type="pmid">9808716</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mir</surname><given-names>RR</given-names></name><name><surname>Zaman-Allah</surname><given-names>M</given-names></name><name><surname>Sreenivasulu</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Integrated genomics, physiology and breeding approaches for improving drought tolerance in crops.</article-title>
+<source><italic>Theor Appl Genet.</italic></source>
+<year>2012</year>;<volume>125</volume>(<issue>4</issue>):<fpage>625</fpage>&#x02013;<lpage>45</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00122-012-1904-9</pub-id>
+<!--<pub-id pub-id-type="pmcid">3405239</pub-id>-->
+<?supplied-pmid 22696006?><pub-id pub-id-type="pmid">22696006</pub-id></mixed-citation></ref><ref id="ref-83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>LM</given-names></name><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Cheng</surname><given-names>LJ</given-names></name><etal/></person-group>:
+<article-title>Identification of key drought stress-related genes in the hyacinth bean.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2013</year>;<volume>8</volume>(<issue>3</issue>):<fpage>e58108</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0058108</pub-id>
+<!--<pub-id pub-id-type="pmcid">3589356</pub-id>-->
+<?supplied-pmid 23472143?><pub-id pub-id-type="pmid">23472143</pub-id></mixed-citation></ref><ref id="ref-84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radwan</surname><given-names>A</given-names></name><name><surname>Ali</surname><given-names>RMIA</given-names></name><name><surname>Nada</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Isolation and characterization of some drought-related ESTs from barley.</article-title>
+<source><italic>African J Biotechnol.</italic></source>
+<year>2015</year>;<volume>14</volume>(<issue>9</issue>):<fpage>794</fpage>&#x02013;<lpage>810</lpage>.
+<pub-id pub-id-type="doi">10.5897/AJB2014.14273</pub-id>
+</mixed-citation></ref><ref id="ref-85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramalingam</surname><given-names>A</given-names></name><name><surname>Kudapa</surname><given-names>H</given-names></name><name><surname>Pazhamala</surname><given-names>LT</given-names></name><etal/></person-group>:
+<article-title>Gene Expression and Yeast Two-Hybrid Studies of 1R-MYB Transcription Factor Mediating Drought Stress Response in Chickpea (
+<italic>Cicer arietinum</italic> L.).</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2015</year>;<volume>6</volume>:<fpage>1117</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2015.01117</pub-id>
+<!--<pub-id pub-id-type="pmcid">4689849</pub-id>-->
+<?supplied-pmid 26734027?><pub-id pub-id-type="pmid">26734027</pub-id></mixed-citation></ref><ref id="ref-86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deokar</surname><given-names>AA</given-names></name><name><surname>Kondawar</surname><given-names>V</given-names></name><name><surname>Jain</surname><given-names>PK</given-names></name><etal/></person-group>:
+<article-title>Comparative analysis of expressed sequence tags (ESTs) between drought-tolerant and -susceptible genotypes of chickpea under terminal drought stress.</article-title>
+<source><italic>BMC Plant Biol.</italic></source>
+<year>2011</year>;<volume>11</volume>:<fpage>70</fpage>.
+<pub-id pub-id-type="doi">10.1186/1471-2229-11-70</pub-id>
+<!--<pub-id pub-id-type="pmcid">3110109</pub-id>-->
+<?supplied-pmid 21513527?><pub-id pub-id-type="pmid">21513527</pub-id></mixed-citation></ref><ref id="ref-87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Varshney</surname><given-names>RK</given-names></name><name><surname>Hiremath</surname><given-names>PJ</given-names></name><name><surname>Lekha</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>A comprehensive resource of drought- and salinity- responsive ESTs for gene discovery and marker development in chickpea (
+<italic>Cicer arietinum</italic> L.).</article-title>
+<source><italic>BMC Genomics.</italic></source>
+<year>2009</year>;<volume>10</volume>:<fpage>523</fpage>.
+<pub-id pub-id-type="doi">10.1186/1471-2164-10-523</pub-id>
+<!--<pub-id pub-id-type="pmcid">2784481</pub-id>-->
+<?supplied-pmid 19912666?><pub-id pub-id-type="pmid">19912666</pub-id></mixed-citation></ref><ref id="ref-88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jain</surname><given-names>D</given-names></name><name><surname>Chattopadhyay</surname><given-names>D</given-names></name></person-group>:
+<article-title>Analysis of gene expression in response to water deficit of chickpea (
+<italic>Cicer arietinum</italic> L.) varieties differing in drought tolerance.</article-title>
+<source><italic>BMC Plant Biol.</italic></source>
+<year>2010</year>;<volume>10</volume>:<fpage>24</fpage>.
+<pub-id pub-id-type="doi">10.1186/1471-2229-10-24</pub-id>
+<!--<pub-id pub-id-type="pmcid">2831037</pub-id>-->
+<?supplied-pmid 20144227?><pub-id pub-id-type="pmid">20144227</pub-id></mixed-citation></ref><ref id="ref-89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woldesemayat</surname><given-names>AA</given-names></name><name><surname>Van Heusden</surname><given-names>P</given-names></name><name><surname>Ndimba</surname><given-names>BK</given-names></name><etal/></person-group>:
+<article-title>An integrated and comparative approach towards identification, characterization and functional annotation of candidate genes for drought tolerance in sorghum (
+<italic>Sorghum bicolor</italic> (L.) Moench).</article-title>
+<source><italic>BMC Genet.</italic></source>
+<year>2017</year>;<volume>18</volume>(<issue>1</issue>):<fpage>119</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12863-017-0584-5</pub-id>
+<!--<pub-id pub-id-type="pmcid">5741957</pub-id>-->
+<?supplied-pmid 29273003?><pub-id pub-id-type="pmid">29273003</pub-id></mixed-citation></ref><ref id="ref-90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Srinivas</surname><given-names>G</given-names></name><name><surname>Satish</surname><given-names>K</given-names></name><name><surname>Madhusudhana</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Exploration and mapping of microsatellite markers from subtracted drought stress ESTs in
+<italic>Sorghum bicolor</italic> (L.) Moench.</article-title>
+<source><italic>Theor Appl Genet.</italic></source>
+<year>2009</year>;<volume>118</volume>(<issue>4</issue>):<fpage>703</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00122-008-0931-z</pub-id>
+<?supplied-pmid 19034408?><pub-id pub-id-type="pmid">19034408</pub-id></mixed-citation></ref><ref id="ref-91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nie</surname><given-names>YY</given-names></name><name><surname>Zhang</surname><given-names>L</given-names></name><name><surname>Wu</surname><given-names>YH</given-names></name><etal/></person-group>:
+<article-title>Retracted: Screening of candidate genes and fine mapping of drought tolerance quantitative trait loci on chromosome 4 in rice (
+<italic>Oryza sativa</italic> L.) under drought stress.</article-title>
+<source><italic>Ecol Evol.</italic></source>
+<year>2015</year>;<volume>5</volume>(<issue>21</issue>):<fpage>5007</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1002/ece3.1786</pub-id>
+<!--<pub-id pub-id-type="pmcid">4662333</pub-id>-->
+<?supplied-pmid 26640678?><pub-id pub-id-type="pmid">26640678</pub-id></mixed-citation></ref><ref id="ref-92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>H</given-names></name><name><surname>Zheng</surname><given-names>X</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Genetic differentiation revealed by selective loci of drought-responding EST-SSRs between upland and lowland rice in China.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2014</year>;<volume>9</volume>(<issue>10</issue>):<fpage>e106352</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0106352</pub-id>
+<!--<pub-id pub-id-type="pmcid">4186790</pub-id>-->
+<?supplied-pmid 25286109?><pub-id pub-id-type="pmid">25286109</pub-id></mixed-citation></ref><ref id="ref-93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gorantla</surname><given-names>M</given-names></name><name><surname>Babu</surname><given-names>PR</given-names></name><name><surname>Reddy Lachagari</surname><given-names>VB</given-names></name><etal/></person-group>:
+<article-title>Identification of stress-responsive genes in an
+<italic>indica</italic> rice (
+<italic>Oryza sativa</italic> L.) using ESTs generated from drought-stressed seedlings.</article-title>
+<source><italic>J Exp Bot.</italic></source>
+<year>2007</year>;<volume>58</volume>(<issue>2</issue>):<fpage>253</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1093/jxb/erl213</pub-id>
+<?supplied-pmid 17132712?><pub-id pub-id-type="pmid">17132712</pub-id></mixed-citation></ref><ref id="ref-94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hadiarto</surname><given-names>T</given-names></name><name><surname>Tran</surname><given-names>LS</given-names></name></person-group>:
+<article-title>Progress studies of drought-responsive genes in rice.</article-title>
+<source><italic>Plant Cell Rep.</italic></source>
+<year>2011</year>;<volume>30</volume>(<issue>3</issue>):<fpage>297</fpage>&#x02013;<lpage>310</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00299-010-0956-z</pub-id>
+<?supplied-pmid 21132431?><pub-id pub-id-type="pmid">21132431</pub-id></mixed-citation></ref><ref id="ref-95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kanth</surname><given-names>BK</given-names></name><name><surname>Kumari</surname><given-names>S</given-names></name><name><surname>Choi</surname><given-names>SH</given-names></name><etal/></person-group>:
+<article-title>Generation and analysis of expressed sequence tags (ESTs) of
+<italic>Camelina sativa</italic> to mine drought stress-responsive genes.</article-title>
+<source><italic>Biochem Biophys Res Commun.</italic></source>
+<year>2015</year>;<volume>467</volume>(<issue>1</issue>):<fpage>83</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.bbrc.2015.09.116</pub-id>
+<?supplied-pmid 26410535?><pub-id pub-id-type="pmid">26410535</pub-id></mixed-citation></ref><ref id="ref-96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>ZY</given-names></name><name><surname>Guo</surname><given-names>XJ</given-names></name><name><surname>Chen</surname><given-names>ZX</given-names></name><etal/></person-group>:
+<article-title>Genome-wide characterization of developmental stage- and tissue-specific transcription factors in wheat.</article-title>
+<source><italic>BMC Genomics.</italic></source>
+<year>2015</year>;<volume>16</volume>(<issue>1</issue>):<fpage>125</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12864-015-1313-y</pub-id>
+<!--<pub-id pub-id-type="pmcid">4344791</pub-id>-->
+<?supplied-pmid 25766308?><pub-id pub-id-type="pmid">25766308</pub-id></mixed-citation></ref><ref id="ref-97"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ergen</surname><given-names>NZ</given-names></name><name><surname>Budak</surname><given-names>H</given-names></name></person-group>:
+<article-title>Sequencing over 13 000 expressed sequence tags from six subtractive cDNA libraries of wild and modern wheats following slow drought stress.</article-title>
+<source><italic>Plant Cell Environ.</italic></source>
+<year>2009</year>;<volume>32</volume>(<issue>3</issue>):<fpage>220</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-3040.2008.01915.x</pub-id>
+<?supplied-pmid 19054353?><pub-id pub-id-type="pmid">19054353</pub-id></mixed-citation></ref><ref id="ref-98"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siddappa</surname><given-names>N</given-names></name><name><surname>Raghu</surname><given-names>GK</given-names></name><name><surname>Devaraj</surname><given-names>VR</given-names></name></person-group>:
+<article-title>Identification of Drought-Responsive Transcripts in Kodo Millet (
+<italic>Paspalumscrobiculatum</italic> L).</article-title>
+<source><italic>Int J Innov Res Dev.</italic></source>
+<year>2016</year>;<volume>5</volume>(<issue>11</issue>).
+<ext-link ext-link-type="uri" xlink:href="http://www.ijird.com/index.php/ijird/article/download/103713/74118">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-99"><label>99</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shivhare</surname><given-names>R</given-names></name><name><surname>Lata</surname><given-names>C</given-names></name></person-group>:
+<article-title>Exploration of Genetic and Genomic Resources for Abiotic and Biotic Stress Tolerance in Pearl Millet.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>7</volume>:<fpage>2069</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2016.02069</pub-id>
+<!--<pub-id pub-id-type="pmcid">5253385</pub-id>-->
+<?supplied-pmid 28167949?><pub-id pub-id-type="pmid">28167949</pub-id></mixed-citation></ref><ref id="ref-100"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choudhary</surname><given-names>M</given-names></name><name><surname>Jayanand</surname></name><name><surname>Padaria</surname><given-names>JC</given-names></name></person-group>:
+<article-title>Transcriptional profiling in pearl millet (
+<italic>Pennisetum glaucum L.R. Br</italic>.) for identification of differentially expressed drought responsive genes.</article-title>
+<source><italic>Physiol Mol Biol Plants.</italic></source>
+<year>2015</year>;<volume>21</volume>(<issue>2</issue>):<fpage>187</fpage>&#x02013;<lpage>96</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12298-015-0287-1</pub-id>
+<!--<pub-id pub-id-type="pmcid">4411378</pub-id>-->
+<?supplied-pmid 25964713?><pub-id pub-id-type="pmid">25964713</pub-id></mixed-citation></ref><ref id="ref-101"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>YH</given-names></name><name><surname>Jeong</surname><given-names>JC</given-names></name><name><surname>Lee</surname><given-names>HS</given-names></name><etal/></person-group>:
+<article-title>Comparative characterization of sweetpotato antioxidant genes from expressed sequence tags of dehydration-treated fibrous roots under different abiotic stress conditions.</article-title>
+<source><italic>Mol Biol Rep.</italic></source>
+<year>2013</year>;<volume>40</volume>(<issue>4</issue>):<fpage>2887</fpage>&#x02013;<lpage>96</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11033-012-2304-6</pub-id>
+<?supplied-pmid 23187736?><pub-id pub-id-type="pmid">23187736</pub-id></mixed-citation></ref><ref id="ref-102"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shamloo-Dashtpagerdi</surname><given-names>R</given-names></name><name><surname>Razi</surname><given-names>H</given-names></name><name><surname>Ebrahimie</surname><given-names>E</given-names></name></person-group>:
+<article-title>Mining expressed sequence tags of rapeseed (
+<italic>Brassica napus</italic> L.) to predict the drought responsive regulatory network.</article-title>
+<source><italic>Physiol Mol Biol Plants.</italic></source>
+<year>2015</year>;<volume>21</volume>(<issue>3</issue>):<fpage>329</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12298-015-0311-5</pub-id>
+<!--<pub-id pub-id-type="pmcid">4524867</pub-id>-->
+<?supplied-pmid 26261397?><pub-id pub-id-type="pmid">26261397</pub-id></mixed-citation></ref><ref id="ref-103"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pruthvi</surname><given-names>V</given-names></name><name><surname>Rama</surname><given-names>N</given-names></name><name><surname>Govind</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Expression analysis of drought stress specific genes in Peanut (
+<italic>Arachis hypogaea</italic>, L.).</article-title>
+<source><italic>Physiol Mol Biol Plants.</italic></source>
+<year>2013</year>;<volume>19</volume>(<issue>2</issue>):<fpage>277</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12298-012-0156-0</pub-id>
+<!--<pub-id pub-id-type="pmcid">3656185</pub-id>-->
+<?supplied-pmid 24431496?><pub-id pub-id-type="pmid">24431496</pub-id></mixed-citation></ref><ref id="ref-104"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Shi</surname><given-names>J</given-names></name><name><surname>Lu</surname><given-names>C</given-names></name></person-group>:
+<article-title>Identification of stress-responsive genes in
+<italic>Ammopiptanthus mongolicus</italic> using ESTs generated from cold- and drought-stressed seedlings.</article-title>
+<source><italic>BMC Plant Biol.</italic></source>
+<year>2013</year>;<volume>13</volume>(<issue>1</issue>):<fpage>88</fpage>.
+<pub-id pub-id-type="doi">10.1186/1471-2229-13-88</pub-id>
+<!--<pub-id pub-id-type="pmcid">3679971</pub-id>-->
+<?supplied-pmid 23734749?><pub-id pub-id-type="pmid">23734749</pub-id></mixed-citation></ref><ref id="ref-105"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurowska</surname><given-names>M</given-names></name><name><surname>Daszkowska-Golec</surname><given-names>A</given-names></name><name><surname>Gruszka</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>TILLING: a shortcut in functional genomics.</article-title>
+<source><italic>J Appl Genet.</italic></source>
+<year>2011</year>;<volume>52</volume>(<issue>4</issue>):<fpage>371</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1007/s13353-011-0061-1</pub-id>
+<!--<pub-id pub-id-type="pmcid">3189332</pub-id>-->
+<?supplied-pmid 21912935?><pub-id pub-id-type="pmid">21912935</pub-id></mixed-citation></ref><ref id="ref-106"><label>106</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moens</surname><given-names>CB</given-names></name><name><surname>Donn</surname><given-names>TM</given-names></name><name><surname>Wolf-Saxon</surname><given-names>ER</given-names></name><etal/></person-group>:
+<article-title>Reverse genetics in zebrafish by TILLING.</article-title>
+<source><italic>Brief Funct Genomic Proteomic.</italic></source>
+<year>2008</year>;<volume>7</volume>(<issue>6</issue>):<fpage>454</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1093/bfgp/eln046</pub-id>
+<!--<pub-id pub-id-type="pmcid">2899843</pub-id>-->
+<?supplied-pmid 19028802?><pub-id pub-id-type="pmid">19028802</pub-id></mixed-citation></ref><ref id="ref-107"><label>107</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dwivedi</surname><given-names>SL</given-names></name><name><surname>Scheben</surname><given-names>A</given-names></name><name><surname>Edwards</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Assessing and Exploiting Functional Diversity in Germplasm Pools to Enhance Abiotic Stress Adaptation and Yield in Cereals and Food Legumes.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>1461</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.01461</pub-id>
+<!--<pub-id pub-id-type="pmcid">5581882</pub-id>-->
+<?supplied-pmid 28900432?><pub-id pub-id-type="pmid">28900432</pub-id></mixed-citation></ref><ref id="ref-108"><label>108</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Comai</surname><given-names>L</given-names></name><name><surname>Henikoff</surname><given-names>S</given-names></name></person-group>:
+<article-title>TILLING: practical single-nucleotide mutation discovery.</article-title>
+<source><italic>Plant J.</italic></source>
+<year>2006</year>;<volume>45</volume>(<issue>4</issue>):<fpage>684</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-313X.2006.02670.x</pub-id>
+<?supplied-pmid 16441355?><pub-id pub-id-type="pmid">16441355</pub-id></mixed-citation></ref><ref id="ref-109"><label>109</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akpinar</surname><given-names>BA</given-names></name><name><surname>Lucas</surname><given-names>SJ</given-names></name><name><surname>Budak</surname><given-names>H</given-names></name></person-group>:
+<article-title>Genomics approaches for crop improvement against abiotic stress.</article-title>
+<source><italic>ScientificWorldJournal.</italic></source>
+<year>2013</year>;<volume>2013</volume>: 361921.
+<pub-id pub-id-type="doi">10.1155/2013/361921</pub-id>
+<!--<pub-id pub-id-type="pmcid">3690750</pub-id>-->
+<?supplied-pmid 23844392?><pub-id pub-id-type="pmid">23844392</pub-id></mixed-citation></ref><ref id="ref-110"><label>110</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>S</given-names></name><name><surname>Liao</surname><given-names>F</given-names></name><name><surname>Wang</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Identification of rice transcription factors associated with drought tolerance using the Ecotilling method.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2012</year>;<volume>7</volume>(<issue>2</issue>):<fpage>e30765</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0030765</pub-id>
+<!--<pub-id pub-id-type="pmcid">3278407</pub-id>-->
+<?supplied-pmid 22348023?><pub-id pub-id-type="pmid">22348023</pub-id></mixed-citation></ref><ref id="ref-111"><label>111</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qi</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>C</given-names></name><name><surname>Song</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>
+<italic>PaCYP78A9</italic>, a Cytochrome P450, Regulates Fruit Size in Sweet Cherry (
+<italic>Prunus avium</italic> L.).</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>2076</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.02076</pub-id>
+<!--<pub-id pub-id-type="pmcid">5723407</pub-id>-->
+<?supplied-pmid 29259616?><pub-id pub-id-type="pmid">29259616</pub-id></mixed-citation></ref><ref id="ref-112"><label>112</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Romay</surname><given-names>G</given-names></name><name><surname>Bragard</surname><given-names>C</given-names></name></person-group>:
+<article-title>Antiviral Defenses in Plants through Genome Editing.</article-title>
+<source><italic>Front Microbiol.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>47</fpage>.
+<pub-id pub-id-type="doi">10.3389/fmicb.2017.00047</pub-id>
+<!--<pub-id pub-id-type="pmcid">5253358</pub-id>-->
+<?supplied-pmid 28167937?><pub-id pub-id-type="pmid">28167937</pub-id></mixed-citation></ref><ref id="ref-113"><label>113</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>C</given-names></name><name><surname>Liu</surname><given-names>W</given-names></name><etal/></person-group>:
+<article-title>An alternative strategy for targeted gene replacement in plants using a dual-sgRNA/Cas9 design.</article-title>
+<source><italic>Sci Rep.</italic></source>
+<year>2016</year>;<volume>6</volume>: 23890.
+<pub-id pub-id-type="doi">10.1038/srep23890</pub-id>
+<!--<pub-id pub-id-type="pmcid">4817149</pub-id>-->
+<?supplied-pmid 27033976?><pub-id pub-id-type="pmid">27033976</pub-id></mixed-citation></ref><ref id="ref-114"><label>114</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shi</surname><given-names>J</given-names></name><name><surname>Gao</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>ARGOS8 variants generated by CRISPR-Cas9 improve maize grain yield under field drought stress conditions.</article-title>
+<source><italic>Plant Biotechnol J.</italic></source>
+<year>2017</year>;<volume>15</volume>(<issue>2</issue>):<fpage>207</fpage>&#x02013;<lpage>16</lpage>.
+<pub-id pub-id-type="doi">10.1111/pbi.12603</pub-id>
+<!--<pub-id pub-id-type="pmcid">5258859</pub-id>-->
+<?supplied-pmid 27442592?><pub-id pub-id-type="pmid">27442592</pub-id></mixed-citation></ref><ref id="ref-115"><label>115</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Wu</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Engineering Herbicide-Resistant Rice Plants through CRISPR/Cas9-Mediated Homologous Recombination of Acetolactate Synthase.</article-title>
+<source><italic>Mol Plant.</italic></source>
+<year>2016</year>;<volume>9</volume>(<issue>4</issue>):<fpage>628</fpage>&#x02013;<lpage>631</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.molp.2016.01.001</pub-id>
+<?supplied-pmid 26768120?><pub-id pub-id-type="pmid">26768120</pub-id></mixed-citation></ref><ref id="ref-116"><label>116</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cardi</surname><given-names>T</given-names></name><name><surname>D&#x02019;Agostino</surname><given-names>N</given-names></name><name><surname>Tripodi</surname><given-names>P</given-names></name></person-group>:
+<article-title>Genetic Transformation and Genomic Resources for Next-Generation Precise Genome Engineering in Vegetable Crops.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>241</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.00241</pub-id>
+<!--<pub-id pub-id-type="pmcid">5319998</pub-id>-->
+<?supplied-pmid 28275380?><pub-id pub-id-type="pmid">28275380</pub-id></mixed-citation></ref><ref id="ref-117"><label>117</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arora</surname><given-names>L</given-names></name><name><surname>Narula</surname><given-names>A</given-names></name></person-group>:
+<article-title>Gene Editing and Crop Improvement Using CRISPR-Cas9 System.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>1932</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.01932</pub-id>
+<!--<pub-id pub-id-type="pmcid">5682324</pub-id>-->
+<?supplied-pmid 29167680?><pub-id pub-id-type="pmid">29167680</pub-id></mixed-citation></ref><ref id="ref-118"><label>118</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>K</given-names></name><name><surname>Raboanatahiry</surname><given-names>N</given-names></name><name><surname>Zhu</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Progress in Genome Editing Technology and Its Application in Plants.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>177</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.00177</pub-id>
+<!--<pub-id pub-id-type="pmcid">5306361</pub-id>-->
+<?supplied-pmid 28261237?><pub-id pub-id-type="pmid">28261237</pub-id></mixed-citation></ref><ref id="ref-119"><label>119</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cao</surname><given-names>HX</given-names></name><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Le</surname><given-names>HT</given-names></name><etal/></person-group>:
+<article-title>The Power of CRISPR-Cas9-Induced Genome Editing to Speed Up Plant Breeding.</article-title>
+<source><italic>Int J Genomics.</italic></source>
+<year>2016</year>;<volume>2016</volume>: 5078796.
+<pub-id pub-id-type="doi">10.1155/2016/5078796</pub-id>
+<!--<pub-id pub-id-type="pmcid">5206445</pub-id>-->
+<?supplied-pmid 28097123?><pub-id pub-id-type="pmid">28097123</pub-id></mixed-citation></ref><ref id="ref-120"><label>120</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Noman</surname><given-names>A</given-names></name><name><surname>Aqeel</surname><given-names>M</given-names></name><name><surname>He</surname><given-names>S</given-names></name></person-group>:
+<article-title>CRISPR-Cas9: Tool for Qualitative and Quantitative Plant Genome Editing.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2016</year>;<volume>7</volume>:<fpage>1740</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2016.01740</pub-id>
+<!--<pub-id pub-id-type="pmcid">5116475</pub-id>-->
+<?supplied-pmid 27917188?><pub-id pub-id-type="pmid">27917188</pub-id></mixed-citation></ref><ref id="ref-121"><label>121</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>P</given-names></name><name><surname>Li</surname><given-names>YJ</given-names></name><name><surname>Zhang</surname><given-names>FJ</given-names></name><etal/></person-group>:
+<article-title>The Arabidopsis UDP-glycosyltransferases UGT79B2 and UGT79B3, contribute to cold, salt and drought stress tolerance via modulating anthocyanin accumulation.</article-title>
+<source><italic>Plant J.</italic></source>
+<year>2017</year>;<volume>89</volume>(<issue>1</issue>):<fpage>85</fpage>&#x02013;<lpage>103</lpage>.
+<pub-id pub-id-type="doi">10.1111/tpj.13324</pub-id>
+<?supplied-pmid 27599367?><pub-id pub-id-type="pmid">27599367</pub-id></mixed-citation></ref><ref id="ref-122"><label>122</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chilcoat</surname><given-names>D</given-names></name><name><surname>Liu</surname><given-names>ZB</given-names></name><name><surname>Sander</surname><given-names>J</given-names></name></person-group>:
+<article-title>Use of CRISPR/Cas9 for Crop Improvement in Maize and Soybean.</article-title>
+<source><italic>Prog Mol Biol Transl Sci.</italic></source>
+<year>2017</year>;<volume>149</volume>:<fpage>27</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.1016/bs.pmbts.2017.04.005</pub-id>
+<?supplied-pmid 28712499?><pub-id pub-id-type="pmid">28712499</pub-id></mixed-citation></ref><ref id="ref-123"><label>123</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lou</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Liang</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>OsSAPK2 Confers Abscisic Acid Sensitivity and Tolerance to Drought Stress in Rice.</article-title>
+<source><italic>Front Plant Sci.</italic></source>
+<year>2017</year>;<volume>8</volume>:<fpage>993</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpls.2017.00993</pub-id>
+<!--<pub-id pub-id-type="pmcid">5468418</pub-id>-->
+<?supplied-pmid 28659944?><pub-id pub-id-type="pmid">28659944</pub-id></mixed-citation></ref><ref id="ref-124"><label>124</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Zhao</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Reduced Drought Tolerance by CRISPR/Cas9-Mediated
+<italic>SlMAPK3</italic> Mutagenesis in Tomato Plants.</article-title>
+<source><italic>J Agric Food Chem.</italic></source>
+<year>2017</year>;<volume>65</volume>(<issue>39</issue>):<fpage>8674</fpage>&#x02013;<lpage>8682</lpage>.
+<pub-id pub-id-type="doi">10.1021/acs.jafc.7b02745</pub-id>
+<?supplied-pmid 28873302?><pub-id pub-id-type="pmid">28873302</pub-id></mixed-citation></ref><ref id="ref-125"><label>125</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>C</given-names></name><name><surname>Fu</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>PtoMYB170 positively regulates lignin deposition during wood formation in poplar and confers drought tolerance in transgenic Arabidopsis.</article-title>
+<source><italic>Tree Physiol.</italic></source>
+<year>2017</year>;<volume>37</volume>(<issue>12</issue>):<fpage>1713</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="doi">10.1093/treephys/tpx093</pub-id>
+<?supplied-pmid 28985414?><pub-id pub-id-type="pmid">28985414</pub-id></mixed-citation></ref><ref id="ref-126"><label>126</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>J</given-names></name><name><surname>Gunapati</surname><given-names>S</given-names></name><name><surname>Kumar</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Virus-induced gene silencing using a modified betasatellite: a potential candidate for functional genomics of crops.</article-title>
+<source><italic>Arch Virol.</italic></source>
+<year>2014</year>;<volume>159</volume>(<issue>8</issue>):<fpage>2109</fpage>&#x02013;<lpage>13</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00705-014-2039-x</pub-id>
+<?supplied-pmid 24610555?><pub-id pub-id-type="pmid">24610555</pub-id></mixed-citation></ref><ref id="ref-127"><label>127</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kushwaha</surname><given-names>NK</given-names></name><name><surname>Chakraborty</surname><given-names>S</given-names></name></person-group>:
+<article-title>
+<italic>Chilli leaf curl virus</italic>-based vector for phloem-specific silencing of endogenous genes and overexpression of foreign genes.</article-title>
+<source><italic>Appl Microbiol Biotechnol.</italic></source>
+<year>2017</year>;<volume>101</volume>(<issue>5</issue>):<fpage>2121</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00253-016-7964-z</pub-id>
+<?supplied-pmid 27878582?><pub-id pub-id-type="pmid">27878582</pub-id></mixed-citation></ref><ref id="ref-128"><label>128</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ido</surname><given-names>Y</given-names></name><name><surname>Nakahara</surname><given-names>KS</given-names></name><name><surname>Uyeda</surname><given-names>I</given-names></name></person-group>:
+<article-title>
+<italic>White clover mosaic virus</italic>-induced gene silencing in pea.</article-title>
+<source><italic>J Gen Plant Pathol.</italic></source>
+<year>2012</year>;<volume>78</volume>(<issue>2</issue>):<fpage>127</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10327-012-0360-3</pub-id>
+</mixed-citation></ref><ref id="ref-129"><label>129</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liou</surname><given-names>MR</given-names></name><name><surname>Huang</surname><given-names>YW</given-names></name><name><surname>Hu</surname><given-names>CC</given-names></name><etal/></person-group>:
+<article-title>A dual gene-silencing vector system for monocot and dicot plants.</article-title>
+<source><italic>Plant Biotechnol J.</italic></source>
+<year>2014</year>;<volume>12</volume>(<issue>3</issue>):<fpage>330</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1111/pbi.12140</pub-id>
+<?supplied-pmid 24283212?><pub-id pub-id-type="pmid">24283212</pub-id></mixed-citation></ref><ref id="ref-130"><label>130</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mei</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>C</given-names></name><name><surname>Kernodle</surname><given-names>BM</given-names></name><etal/></person-group>:
+<article-title>A
+<italic>Foxtail mosaic virus</italic> Vector for Virus-Induced Gene Silencing in Maize.</article-title>
+<source><italic>Plant Physiol.</italic></source>
+<year>2016</year>;<volume>171</volume>(<issue>2</issue>):<fpage>760</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1104/pp.16.00172</pub-id>
+<!--<pub-id pub-id-type="pmcid">4902600</pub-id>-->
+<?supplied-pmid 27208311?><pub-id pub-id-type="pmid">27208311</pub-id></mixed-citation></ref><ref id="ref-131"><label>131</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yamagishi</surname><given-names>M</given-names></name><name><surname>Masuta</surname><given-names>C</given-names></name><name><surname>Suzuki</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>
+<italic>Peanut stunt virus</italic>-induced gene silencing in white lupin (
+<italic>Lupinus albus</italic>).</article-title>
+<source><italic>Plant Biotechnol.</italic></source>
+<year>2015</year>;<volume>32</volume>(<issue>3</issue>):<fpage>181</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.5511/plantbiotechnology.15.0521a</pub-id>
+</mixed-citation></ref><ref id="ref-132"><label>132</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>N</given-names></name><name><surname>Wang</surname><given-names>R</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Revolutionize Genetic Studies and Crop Improvement with High-Throughput and Genome-Scale CRISPR/Cas9 Gene Editing Technology.</article-title>
+<source><italic>Mol Plant.</italic></source>
+<year>2017</year>;<volume>10</volume>(<issue>9</issue>):<fpage>1141</fpage>&#x02013;<lpage>1143</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.molp.2017.08.001</pub-id>
+<!--<pub-id pub-id-type="pmcid">5736387</pub-id>-->
+<?supplied-pmid 28803899?><pub-id pub-id-type="pmid">28803899</pub-id></mixed-citation></ref><ref id="ref-133"><label>133</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hussain</surname><given-names>B</given-names></name><name><surname>Lucas</surname><given-names>SJ</given-names></name><name><surname>Budak</surname><given-names>H</given-names></name></person-group>:
+<article-title>CRISPR/Cas9 in plants: at play in the genome and at work for crop improvement.</article-title>
+<source><italic>Brief Funct Genomics.</italic></source>
+<year>2018</year>.
+<pub-id pub-id-type="doi">10.1093/bfgp/ely016</pub-id>
+<?supplied-pmid 29912293?><pub-id pub-id-type="pmid">29912293</pub-id></mixed-citation></ref><ref id="ref-134"><label>134</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>C</given-names></name></person-group>:
+<article-title>The future of CRISPR technologies in agriculture.</article-title>
+<source><italic>Nat Rev Mol Cell Biol.</italic></source>
+<year>2018</year>;<volume>19</volume>(<issue>5</issue>):<fpage>275</fpage>&#x02013;<lpage>276</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrm.2018.2</pub-id>
+<?supplied-pmid 29382940?><pub-id pub-id-type="pmid">29382940</pub-id></mixed-citation></ref></ref-list></back><sub-article id="report40635" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.17024.r40635</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bhardwaj</surname><given-names>Pardeep Kumar</given-names></name><xref ref-type="aff" rid="r40635a1">1</xref><role>Referee</role></contrib><aff id="r40635a1">
+<label>1</label>Institute of Bioresources and Sustainable Development, Sikkim Centre, Gangtok, Sikkim, India</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>10</day><month>12</month><year>2018</year></pub-date><related-article id="d35e8035" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.15606.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>The review entitled &#x0201c;Milestones achieved in response to drought stress through reverse genetic approaches&#x0201d; by Singh
+<italic>et al.,</italic> presents recent advances in understanding the response of drought stress in crop plants using reverse genetic technologies. It is well known that drought stress is major concern in the era of climate change. Therefore, it is important to address the recent updates on drought stress response in crop plants to scientific communities. The review article is written and organized very well but minor points need to be taken care.
+<list list-type="order"><list-item><p>Authors have explained several techniques available to study the functionality of different genes involved in response to drought stress but should also include the advantages of these techniques in monocots/dicots.</p></list-item><list-item><p>In VIGS, authors should explain the functional analysis of
+<italic>DREB</italic> transcription factors using VIGS technology citing some latest references.</p></list-item><list-item><p>In ESTs analysis, authors should include the analysis of drought responsive ESTs generated through chemical priming studied in crop plants.</p></list-item></list>
+</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="report38198" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.17024.r38198</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mani</surname><given-names>Elangovan</given-names></name><xref ref-type="aff" rid="r38198a1">1</xref><role>Referee</role></contrib><aff id="r38198a1">
+<label>1</label>Advanta India Ltd., Hyderabad, Telangana, India</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>31</day><month>10</month><year>2018</year></pub-date><related-article id="d35e8101" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.15606.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>
+<bold>Title:</bold>&#x000a0;Ok, it represents the article well&#x000a0;</p><p>
+<bold>Abstract:&#x000a0;</bold>Ok, it provide the central idea about the article precisely. However, authors can expand it a little more.</p><p>
+<bold>Keywords:</bold>&#x000a0; Authors should arrange them alphabetically</p><p>
+<bold>Introduction:</bold> At the end of first paragraph, authors suggested about available transcriptomic data. I believe there they can add some references of available transcriptomes related to the topic. Overall, it has been written fine.</p><p>
+<bold>VIGS: </bold>Authors provided all the required information related to this technology. However, there are some bioinformatics tools, which helps in the selection of target fragment within the gene. They can add these too.</p><p>
+<bold>Expressed sequence tags (ESTs):</bold>&#x000a0; Ok</p><p>
+<bold>TILLING: </bold>Ok</p><p>
+<bold>CRISPR Technology: </bold>Ok</p><p>
+<bold>Conclusion: </bold>Ok, Nicely written.</p><p> To summarize, the review by
+<italic>Singh et al. </italic>presents our current knowledge of many genes deciphered by reverse genetic technologies:
+<italic>VIGS, EST, TILLING </italic>and
+<italic> CRISPR. </italic>The tables represents ample amount of information in a well-organised way. Overall, the Review provides a useful compilation of subject matter related to addressed topic in a coherent way.</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

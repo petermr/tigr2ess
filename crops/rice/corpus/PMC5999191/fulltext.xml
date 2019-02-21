@@ -1,0 +1,822 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5999191</article-id><article-id pub-id-type="doi">10.1111/pbi.12878</article-id><article-id pub-id-type="publisher-id">PBI12878</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>A maize phytochrome&#x02010;interacting factors protein ZmPIF1 enhances drought tolerance by inducing stomatal closure and improves grain yield in <italic>Oryza sativa</italic>
+</article-title><alt-title alt-title-type="left-running-head"><italic>Yong Gao</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12878-cr-0001" contrib-type="author"><name><surname>Gao</surname><given-names>Yong</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0002" contrib-type="author"><name><surname>Wu</surname><given-names>Meiqin</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Mengjiao</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0004" contrib-type="author"><name><surname>Jiang</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0005" contrib-type="author"><name><surname>Ren</surname><given-names>Xiaoyun</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0006" contrib-type="author"><name><surname>Liang</surname><given-names>Enxing</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0007" contrib-type="author"><name><surname>Zhang</surname><given-names>Dongping</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0008" contrib-type="author"><name><surname>Zhang</surname><given-names>Changquan</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0009" contrib-type="author"><name><surname>Xiao</surname><given-names>Ning</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12878-cr-0010" contrib-type="author"><name><surname>Li</surname><given-names>Yan</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12878-cr-0011" contrib-type="author"><name><surname>Dai</surname><given-names>Yi</given-names></name><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12878-cr-0012" contrib-type="author" corresp="yes"><name><surname>Chen</surname><given-names>Jianmin</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5377-1245</contrib-id><address><email>jmchen@yzu.edu.cn</email></address><xref ref-type="aff" rid="pbi12878-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12878-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Jiangsu Key Laboratories of Crop Genetics and Physiology and Plant Functional Genomics of the Ministry of Education</named-content>
+<institution>Yangzhou University</institution>
+<named-content content-type="city">Yangzhou</named-content>
+<named-content content-type="country-part">Jiangsu</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12878-aff-0002">
+<label><sup>2</sup></label>
+<institution>Lixiahe Region Agricultural Scientific Research Institute of Jiangsu</institution>
+<named-content content-type="city">Yangzhou</named-content>
+<named-content content-type="country-part">Jiangsu</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12878-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Crop Biology</named-content>
+<named-content content-type="organisation-division">College of Agronomy</named-content>
+<institution>Shandong Agricultural University</institution>
+<named-content content-type="city">Taian</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +86051487979286; fax +86051487979286; email <email>jmchen@yzu.edu.cn</email>)</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2018</year></pub-date><volume>16</volume><issue>7</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-7</issue-id><fpage>1375</fpage><lpage>1387</lpage><history><date date-type="received"><day>01</day><month>4</month><year>2017</year></date><date date-type="rev-recd"><day>18</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>23</day><month>12</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-1375.pdf"/><abstract id="pbi12878-abs-0001"><title>Summary</title><p>Phytochrome&#x02010;interacting factors (<styled-content style="fixed-case">PIF</styled-content>s) play major roles in regulating plant growth and development, but their roles in drought stress remain elusive. Here, we cloned and characterized a maize (<italic>Zea mays</italic>) <styled-content style="fixed-case">PIF</styled-content> transcription factor, <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic>. The expression level of <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> was significantly induced by independent drought and abscisic acid (<styled-content style="fixed-case">ABA</styled-content>) treatments. The <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> transgenic rice and <italic>Arabidopsis</italic> displayed water saving and drought resistance, which were associated with reduced a stomatal aperture and transpiration rate. Moreover, the <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> transgenic rice were hypersensitive to exogenous <styled-content style="fixed-case">ABA</styled-content>, while the endogenous <styled-content style="fixed-case">ABA</styled-content> level was not significantly changed, suggesting that <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> was a positive regulator of the <styled-content style="fixed-case">ABA</styled-content> signalling pathway. Digital gene expression (<styled-content style="fixed-case">DGE</styled-content>) results further indicated that <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> participated in <styled-content style="fixed-case">ABA</styled-content> signalling pathway and regulated the stomatal aperture in rice. In addition, grain yield and agronomic traits analysis over 4&#x000a0;years showed that <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> was able&#x000a0;to increase the grain yield through an increase in tiller and panicle numbers in transgenic rice. Overall, <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> plays an important role in the <styled-content style="fixed-case">ABA</styled-content>&#x02010;mediated regulation of stomatal closure to control water loss. <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> can enhance water saving and drought resistance and improve the crop yield in rice, illustrating the capacity of <italic>Zm<styled-content style="fixed-case">PIF</styled-content>1</italic> for crop improvement.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12878-kwd-0001">drought tolerance</kwd><kwd id="pbi12878-kwd-0002">water saving</kwd><kwd id="pbi12878-kwd-0003">morphological character</kwd><kwd id="pbi12878-kwd-0004">physiological trait</kwd><kwd id="pbi12878-kwd-0005">transcription factor</kwd><kwd id="pbi12878-kwd-0006">stomata</kwd></kwd-group><funding-group><award-group><funding-source>The National Key Research and Development Program of China</funding-source><award-id>2016YFD0101002</award-id></award-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>31771686</award-id></award-group><award-group><funding-source>Natural Science Foundation of the Jiangsu Province</funding-source><award-id>BK20161334</award-id></award-group><award-group><funding-source>State Key Laboratory of Crop Biology</funding-source><award-id>2015KF07</award-id></award-group><award-group><funding-source>Priority Academic Program Development of Jiangsu Higher Education Institutions</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="13"/><word-count count="10087"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12878</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.3 mode:remove_FC converted:05.07.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="pbi12878-ntgp-0001"><fn fn-type="equal" id="pbi12878-note-1001"><p>Yong Gao and Meiqin Wu contributed equally to this work.</p></fn></fn-group></notes></front><body><sec id="pbi12878-sec-0001"><title>Introduction</title><p>Global warming is expected to increase the frequency and intensity of droughts worldwide. Additionally, water scarcity is a major agricultural problem, restricting crop expansion and reducing crop yield. Of the total human water consumption, 70% is agricultural water. Thus, adaptation and mitigation strategies should focus on researching the mechanism of crop water saving and drought resistance to reduce current and future drought risks. In fact, even a small improvement in crop water saving will result in large reductions in crop loss (Claeys and Inze, <xref rid="pbi12878-bib-0002" ref-type="ref">2013</xref>).</p><p>Stress avoidance and stress tolerance are two different mechanisms for dealing with low water availability, and both responses are related to abscisic acid (ABA)&#x02010;dependent and ABA&#x02010;independent mechanisms (Claeys and Inze, <xref rid="pbi12878-bib-0002" ref-type="ref">2013</xref>; Lawlor, <xref rid="pbi12878-bib-0020" ref-type="ref">2013</xref>). In plants, ABA is a main regulator of the transpiration rate and other mechanisms of water saving and drought resistance (Jones, <xref rid="pbi12878-bib-0013" ref-type="ref">2015</xref>). It has been extensively shown that plants accumulate more ABA, which controls stomatal closure under drought conditions, thereby saving water (Murata <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0029" ref-type="ref">2015</xref>).</p><p>Phytochrome&#x02010;interacting factors (PIFs) are a subset of basic helix&#x02010;loop&#x02010;helix (bHLH) transcription factors. The first <italic>PIF</italic> gene cloned from bHLH transcription factors was <italic>PIF3</italic> (Ni <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0032" ref-type="ref">1998</xref>). Subsequently, <italic>PIF1</italic>,<italic> PIF4</italic>,<italic> PIF5</italic>,<italic> PIF6</italic>,<italic> PIF7</italic> and <italic>PIF8</italic> were identified (Leivar and Monte, <xref rid="pbi12878-bib-0021" ref-type="ref">2014</xref>; Leivar and Quail, <xref rid="pbi12878-bib-0022" ref-type="ref">2011</xref>). All of these PIFs contain a conserved bHLH domain that is responsible for DNA binding. These PIFs also contain an active phytochrome B (APB) motif, which is conserved in the N&#x02010;terminal sequence and necessary for phytochrome B (phyB)&#x02010;specific binding. Moreover, <italic>PIF1</italic> and <italic>PIF3</italic> also contain the active phytochrome A&#x02010;binding (APA) region, which is necessary for phytochrome A (phyA) binding (Leivar and Monte, <xref rid="pbi12878-bib-0021" ref-type="ref">2014</xref>; Leivar and Quail, <xref rid="pbi12878-bib-0022" ref-type="ref">2011</xref>; Shen <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0039" ref-type="ref">2008</xref>). Until now, there has been little information on <italic>PIFs</italic> in crop. Six phytochrome&#x02010;interacting factor&#x02010;like (PIL) homologs (OsPIL11&#x02010;OsPIL16) have been found in rice by evaluating the rice databases (Nakamura <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0030" ref-type="ref">2007</xref>). In addition, two other PIF proteins have been identified and characterized, including <italic>LjPIF4</italic> in <italic>Lotus japonicas</italic> (Ono <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0035" ref-type="ref">2010</xref>) and <italic>ZmPIF3</italic> in maize (Gao <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0009" ref-type="ref">2015</xref>; Kumar <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0019" ref-type="ref">2016</xref>).</p><p>Activated phyB interacts with PIF1 and induces PIF1 phosphorylation and degradation under light irradiation (Krzymuski <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0017" ref-type="ref">2014</xref>). It has been reported that phyB is able to induce tolerance to stresses by enhancing ABA sensitivity (Gonzalez <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0010" ref-type="ref">2012</xref>; Staneloni <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0040" ref-type="ref">2008</xref>). The phyB mutants were able to reduce water loss and improve drought tolerance by regulating stomatal opening and density (Boccalandro <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0001" ref-type="ref">2009</xref>; Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0023" ref-type="ref">2012</xref>). In addition, <italic>PIF1</italic> can indirectly inhibit the gibberellic acid (GA) pathway and plays an important role in regulating the expression of ABA biosynthesis&#x02010;related genes and promoting ABA biosynthesis (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0014" ref-type="ref">2008</xref>; Oh <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0033" ref-type="ref">2009</xref>). <italic>PIF1</italic> also interacts with the ABA&#x02010;positive signalling component gene <italic>ABI5</italic>, which inhibits seed germination via ABA signalling (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0015" ref-type="ref">2016</xref>). Thus, <italic>PIF1</italic> can regulate endogenous ABA and ABA signalling, and ABA can regulate plant adaptation to drought stress (Osakabe <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0036" ref-type="ref">2014</xref>). However, the role of <italic>PIF1</italic> in drought stress remains poorly understood.</p><p>Although the regulatory functions of the PIFs have been widely explored in light responses, seed germination and hormone regulation, the roles of <italic>PIFs</italic> in the drought stress response remain elusive (Leivar and Quail, <xref rid="pbi12878-bib-0022" ref-type="ref">2011</xref>; Oh <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0033" ref-type="ref">2009</xref>). The rice PIF&#x02010;like protein OsPIL1 is down&#x02010;regulated under drought stress conditions (Todaka <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0043" ref-type="ref">2012</xref>), and overexpression of both <italic>DREB1A</italic> and <italic>OsPIL1</italic> enhances drought tolerance in <italic>Arabidopsis</italic> (Kudo <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0018" ref-type="ref">2016</xref>), while <italic>ZmPIF3</italic> regulates plant responses to drought stresses (Gao <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0009" ref-type="ref">2015</xref>). Thus, PIFs likely play complicated roles under drought stress. In this study, we focused on the role of PIFs in water saving, drought resistance and grain yield and suggest that maize <italic>ZmPIF1</italic> is a promising candidate gene for transgenic breeding of water saving and drought&#x02010;resistant plants for crop improvement.</p></sec><sec id="pbi12878-sec-0002"><title>Results</title><sec id="pbi12878-sec-0003"><title>Isolation and characterization of <italic>ZmPIF1</italic> encoding a phytochrome&#x02010;interacting factor in maize</title><p>The clone of the target gene was 1704&#x000a0;bp in length, and a database search showed that the sequence was similar to those of other PIFs. Outside of the bHLH domain, the ZmPIF1 amino acid sequence also contained two characteristic domains, APB motif and APA motif (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S1</xref>). The Y2H study results indicated that the APB domain of ZmPIF1 interacts with maize phytochrome B1 (ZmPhyB1) and the APA domain of ZmPIF1 interacts with maize phytochrome A1 (ZmPhyA1) in yeast (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>a). A phylogenetic analysis revealed that ZmPIF1 was closely related to ZmPIF3 in maize, PIF1 and PIF3 in <italic>Arabidopsis</italic>, and OsPIL15 and OsPIL16 in rice (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Y2H assays, subcellular localization and expression profiles of <italic>ZmPIF1</italic>. (a) Y2H assays. Positive interactions were determined using the auxotrophic selection media SD/&#x02010;Ade/&#x02010;His&#x02010;Leu/&#x02010;Trp and SD/&#x02010;Ade/&#x02010;His&#x02010;Leu/&#x02010;Trp+x&#x02010;&#x003b1;&#x02010;gal. pGADT7&#x02010;ZmPIF1 interacts with pGBKT7&#x02010;ZmPhyB and pGBKT7&#x02010;ZmPhyA. (b) Subcellular localization of <italic>ZmPIF1</italic>. GFP fusions of full&#x02010;length <italic>ZmPIF1</italic> were transiently transformed into onion epidermal cells. The plant nuclei were stained with DAPI. Images were obtained using confocal microscopy (GFP fluorescence, green; DAPI fluorescence, blue; visible, visible light image; merged, merged images of above three images). Empty vector (smGFP)&#x02010;transformed cells are shown as a control. Arrows indicate <italic>ZmPIF1</italic>&#x02010;localized nuclei. Bar&#x000a0;=&#x000a0;100&#x000a0;mm. (c) Expression patterns of <italic>ZmPIF1</italic> in maize tissues at different developmental stages. (d&#x02010;g) Expression patterns of <italic>ZmPIF1</italic> under various abiotic stresses in seedlings (<italic>n</italic>&#x000a0;=&#x000a0;20). (d) Drought stress (20% PEG6000); (e) salt stress (200&#x000a0;m<sc>m</sc> NaCl); (f) low temperature stress (4&#x000a0;&#x000b0;C); (g) abscisic acid (ABA) stress (100&#x000a0;&#x003bc;<sc>m</sc>). The relative expression was quantified by qRT&#x02010;PCR and normalized to &#x003b2;&#x02010;actin. Data represent the mean&#x000a0;&#x000b1;&#x000a0;SD.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-1375-g001"/></fig><p>The full&#x02010;length <italic>ZmPIF1</italic> was introduced into the p2GWF7 vector, and a <italic>ZmPIF1</italic>&#x02010;green fluorescent protein (GFP) fusion protein was constructed to investigate the subcellular localization of ZmPIF1 (Gao <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0009" ref-type="ref">2015</xref>). Transient expression assays suggested that the <italic>ZmPIF1</italic>&#x02010;GFP fusion protein was localized in the nucleus (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>b), which was corroborated by bimolecular fluorescence complementation (BiFC) tests. The results suggest that <italic>ZmPIF1</italic> can interact with itself via BiFC and may form homodimers (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S3</xref>). Thus, <italic>ZmPIF1</italic> is located in the nucleus.</p><p>Different tissue expression patterns of <italic>ZmPIF1</italic> were examined. As shown in Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>, the expression of <italic>ZmPIF1</italic> was higher in pistils and leaves, while lower expression levels were observed in seeds, stamens and roots (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>c). The expression level of <italic>ZmPIF1</italic> under polyethylene glycol (PEG), salt, ABA and low&#x02010;temperature treatments was examined and was significantly regulated by PEG, salt and ABA, while its expression did not change under cold temperature conditions (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>d&#x02013;g). Thus, <italic>ZmPIF1</italic> may play important roles in drought, salt and ABA responses.</p></sec><sec id="pbi12878-sec-0004"><title>Expression of <italic>ZmPIF1</italic> enhances tolerance to drought stress in rice</title><p>The expression patterns suggest that <italic>ZmPIF1</italic> plays an important role in drought stress. To investigate whether the overexpression of <italic>ZmPIF1</italic> can improve drought resistance in rice, the full&#x02010;length of <italic>ZmPIF1</italic> was transformed into &#x02018;Wuyunjing&#x02019; rice, and eleven transgenic lines were screened by qRT&#x02010;PCR. The qRT&#x02010;PCR results indicated that the expression level of <italic>ZmPIF1</italic> in transgenic plants could be detected, but not in the wild&#x02010;type (WT) or the vector control (VC) (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S4</xref>a). The <italic>ZmPIF1</italic> overexpression (OE) transgenic lines OE&#x02010;1, OE&#x02010;3 and OE&#x02010;7 were chosen for all assays in this study, and there were no obvious differences in plant morphology between the transgenic lines and the two controls under normal conditions (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S4</xref>b&#x02013;d).</p><p>To investigate the drought tolerance of <italic>ZmPIF1</italic>, two controls and <italic>ZmPIF1</italic> transgenic rice were exposed to water deficit using a 20% PEG solution treatment. Under normal conditions, there were no differences in plant morphology between the two controls and <italic>ZmPIF1</italic> transgenic rice (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>a). After 4&#x000a0;days of PEG treatment, the majority of the two control plants began to wither, while a few of the leaves in the transgenic rice were rolled and wilted (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>a). After recovery in a normal hydroponic solution, some of the transgenic rice survived and recovered, while most of the leaves of the two control plants were still rolled and wilted (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>a). Ten days after recovery, the survival rates of the two controls and the transgenic rice were determined. The survival rate of the transgenic lines, at ~60%, was higher than those of the two control plants, which had almost completely died (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<italic>ZmPIF1</italic> improves drought tolerance of transgenic rice. (a) Seedlings treated with 20% polyethylene glycol (PEG) (<italic>n</italic>&#x000a0;=&#x000a0;32). Two&#x02010;week&#x02010;old rice seedlings of <italic>ZmPIF1</italic> transgenic lines, wild&#x02010;type and vector controls were exposed to 20% PEG for 4&#x000a0;days and then allowed to recover for 10&#x000a0;days. Bar&#x000a0;=&#x000a0;5&#x000a0;cm. (b) Survival rates of the transgenic and the control rice after PEG treatment. (c) Relative water content (RWC) (<italic>n</italic>&#x000a0;=&#x000a0;20). (d) Chlorophyll content (<italic>n</italic>&#x000a0;=&#x000a0;20). (e) Chlorophyll fluorescence (Fv/Fm) (<italic>n</italic>&#x000a0;=&#x000a0;20). (f) Cell membrane stability (CMS) (<italic>n</italic>&#x000a0;=&#x000a0;20). (c&#x02013;f) Two&#x02010;week&#x02010;old rice seedlings were treated 20% PEG for 48&#x000a0;h. (g) <italic>ZmPIF1</italic> transgenic rice have enhanced tolerance to drought in soil. Forty&#x02010;day&#x02010;old seedlings of <italic>ZmPIF1</italic> transgenic rice, wild&#x02010;type and vector controls grown in soil subjected to drought stress for 7&#x000a0;days and then rewatered for 10&#x000a0;days. Bar&#x000a0;=&#x000a0;5&#x000a0;cm. (h) Survival rates of transgenic and control rice after drought stress (<italic>n</italic>&#x000a0;=&#x000a0;20&#x02013;40). (b, h) Data represent the mean&#x000a0;&#x000b1;&#x000a0;SD. (c&#x02013;f) Data represent the mean&#x000a0;&#x000b1;&#x000a0;SE. ** <italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; *<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-1375-g002"/></fig><p>Four physiological parameters, relative water content (RWC), chlorophyll content, chlorophyll fluorescence and cell membrane stability (CMS), were assayed (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>c&#x02013;f). In this study, no differences were observed in these four physiological parameters between the two controls and the transgenic lines under nonstressed conditions. Under PEG treatment, the physiological parameters of the two controls were significantly lower than those of the <italic>ZmPIF1</italic> transgenic rice (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>c&#x02013;f). These results revealed that <italic>ZmPIF1</italic> improves water retention and photosynthetic and cell membrane stability capabilities compared with the controls under PEG treatment in rice.</p><p>To further verify the drought tolerance of <italic>ZmPIF1</italic>, two controls and <italic>ZmPIF1</italic> transgenic rice were exposed in soil to a water deficit. Before the drought treatment, the growth of two controls and transgenic rice was similar under normal conditions (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>g, under normal conditions). After 7 days without watering, the leaves of the two control plants were rolled and wilted, while only a few leaves of the <italic>ZmPIF1</italic> transgenic rice had begun to roll and wilt (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>g, drought for 7 days). After 1&#x000a0;day of recovery, the two control plants still had drought phenotypes. Moreover, more than half of the transgenic rice were green and healthy (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>g, <xref rid="pbi12878-fig-0001" ref-type="fig">1</xref> day after rewatering). After 10&#x000a0;days of recovery in water, the majority of the two control lines did not recover and only approximately 5% survived, while more than 90% of the transgenic plants survived (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>h). Taken together, these results reveal that <italic>ZmPIF1</italic> can increase drought tolerance in rice.</p></sec><sec id="pbi12878-sec-0005"><title>Expression of <italic>ZmPIF1</italic> prevents water loss and participates positively in stomatal closure</title><p>Interestingly, when <italic>ZmPIF1</italic> transgenic rice and WT rice were grown in different individual pots, the drought&#x02010;resistant phenotype of the <italic>ZmPIF1</italic> transgenic rice was more apparent compared with the WT phenotype. However, when the <italic>ZmPIF1</italic> transgenic and WT rice were planted in the same pot, the drought&#x02010;resistant phenotypes of the <italic>ZmPIF1</italic> transgenic and WT rice were not obviously different (data not shown). We hypothesize that <italic>ZmPIF1</italic> transgenic rice differs in terms of transpiration and may exhibit improved drought tolerance through water saving. To further investigate the involvement of <italic>ZmPIF1</italic> in modulating water saving, a water loss assay was tested. Thirty&#x02010;five well&#x02010;grown <italic>ZmPIF1</italic> transgenic rice and control seedlings, respectively, were transplanted into clear pots of the same size containing the same volume of hydroponic culture solution. After 3 days under normal conditions, the water levels of the <italic>ZmPIF1</italic> transgenic lines were obviously higher relative to those of the two controls (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>a). These results demonstrate that <italic>ZmPIF1</italic> can significantly improve water retention in rice seedlings.</p><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<italic>ZmPIF1</italic> enhanced stomatal closure and reduced transpiration in rice. (a) The phenotype of the <italic>ZmPIF1</italic> transgenic rice showed decreased transpiration. Seedlings of wild&#x02010;type, vector control and <italic>ZmPIF1</italic> transgenic rice cultured after 3&#x000a0;days; water level of <italic>ZmPIF1</italic> transgenic rice and control plants was marked with black lines. Bar&#x000a0;=&#x000a0;10&#x000a0;cm. (b) Water loss assays for the leaves of the <italic>ZmPIF1</italic> transgenic lines and wild type were performed within 6&#x000a0;h (<italic>n</italic>&#x000a0;=&#x000a0;5). (c&#x02013;h) The transpiration rate, stomatal conductance and photosynthetic rate of the <italic>ZmPIF1</italic> transgenic lines and wild type: (c&#x02013;e) no treatment and (f&#x02013;h) 100&#x000a0;&#x003bc;<sc>m</sc> abscisic acid (ABA) treatment (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;50). (i) Scanning electron microscopy images of three levels of stomatal opening. Bar&#x000a0;=&#x000a0;20&#x000a0;&#x003bc;m. (j&#x02013;k) The percentage of three levels of stomatal opening in <italic>ZmPIF1</italic> transgenic lines and wild type: (j) no treatment and (k) 100&#x000a0;&#x003bc;<sc>m</sc> ABA treatments (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;400). All tests were performed in 40&#x02010;day&#x02010;old well&#x02010;watered plants in the glasshouse. Data represent the mean&#x000a0;&#x000b1;&#x000a0;SE. **<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; *<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-1375-g003"/></fig><p>The water loss rates of <italic>ZmPIF1</italic> transgenic and WT rice were consistent with the water loss assay results. The leaves of <italic>ZmPIF1</italic> transgenic rice lost less water than the WT control (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>b). Subsequently, we measured the transpiration rates and stomatal conductance levels of rice leaves. The transpiration rate and stomatal conductance levels of transgenic rice were lower relative to the WT control (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>c,d). We speculated that overexpression of <italic>ZmPIF1</italic> in rice led to a lower rate of water loss.</p><p>In response to drought stress, stomatal movements are regulated to control water loss by transpiration (Murata <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0029" ref-type="ref">2015</xref>). Thus, we measured the stomatal density, length and aperture in WT and <italic>ZmPIF1</italic> transgenic rice. In <italic>ZmPIF1</italic> transgenic rice, no significant alterations were observed in the density or length of stomata relative to WT rice (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>l,m). More stomata were completely closed, and fewer stomata were completely open in the leaves of <italic>ZmPIF1</italic> transgenic lines compared with WT rice (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>i,j). The aforementioned results indicate that the reduction in <italic>ZmPIF1</italic> stomatal aperture decreased the transpiration rate, which led to enhanced water saving and drought resistance in rice.</p><p>To verify the function of <italic>ZmPIF1</italic>&#x02010;enhanced water saving and drought resistance in <italic>Arabidopsis</italic>, we constructed <italic>ZmPIF1</italic> overexpression transgenic plants of in <italic>Arabidopsis</italic>. Six T3 transgenic lines were obtained, and two of them were used to verify the function of <italic>ZmPIF1</italic> (Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>; Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S5</xref>). A water loss assay was performed in <italic>Arabidopsis</italic>. Thirty well&#x02010;grown <italic>ZmPIF1</italic> overexpression <italic>Arabidopsis</italic> seedlings and WT seedlings were transferred into the same pot with 300&#x000a0;mL water. After 4&#x000a0;days, the water level was significantly higher in the pots containing the <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> compared with the WT plants (Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>a,b). Measurements of the water loss rate from the leaves showed that <italic>ZmPIF1</italic> transgenic plants lost less water than WT plants (Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>c). Moreover, we measured the stomatal aperture, density and length of stomatal pores in the overexpression transgenic plants of <italic>ZmPIF1</italic> (Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>d&#x02013;g), and the results were consistent with those in rice. The density and length of stomata showed no significant alterations in <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> relative to in WT plants (Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>d&#x02013;e). More stomata were completely closed and fewer stomata were completely open in the leaves of the <italic>ZmPIF1</italic> transgenic lines compared with WT <italic>Arabidopsis</italic> (Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>f&#x02013;g). These results also suggested that enhanced water saving and drought resistance in <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> were largely due to reducing stomatal opening.</p><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<italic>ZmPIF1</italic> enhanced stomatal closure and reduced transpiration in <italic>Arabidopsis</italic>. (a) The phenotype of <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> and wild type (col) with reduced transpiration (<italic>n</italic>&#x000a0;=&#x000a0;30). Seedlings of wild&#x02010;type (col) and <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> were transplanted into the same transparent pots (containing the same weight of soil) and supplemented with 300&#x000a0;mL water after saturation of the soil water. After 4&#x000a0;days, the water level of <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> and wild type (col) were marked with black lines. Bar&#x000a0;=&#x000a0;5&#x000a0;cm. (b) Surplus water of wild&#x02010;type (col) and <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> after 4&#x000a0;days. (c) Water loss assays for <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic>. Water loss assays for the leaves of the <italic>ZmPIF1</italic> transgenic lines and wild type (col) were performed within 200&#x000a0;min in <italic>Arabidopsis</italic> (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;5). Comparisons of stomatal length (d) and stomatal density (e) in wild&#x02010;type (col) and transgenic <italic>Arabidopsis</italic> at the seedling stage (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;200). (f) The stomatal aperture observed with a scanning electron microscope. Bar&#x000a0;=&#x000a0;20&#x000a0;&#x003bc;m. (g) The percentage of three levels of stomatal opening in ZmPIF1 transgenic <italic>Arabidopsis</italic> and wild type (col) (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;200). col: <italic>Arabidopsis thaliana</italic> L. Heynh, Columbia; OE9, OE12, two <italic>ZmPIF1</italic> transgenic lines.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-16-1375-g004"/></fig></sec><sec id="pbi12878-sec-0006"><title>Expression of <italic>ZmPIF1</italic> increased ABA sensitivity in rice</title><p>Under drought stress, ABA promotes stomatal closure and decreases water loss (Desikan <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0005" ref-type="ref">2004</xref>; Schroeder <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0038" ref-type="ref">2001</xref>). Previous experiments have shown that ABA can induce the expression of <italic>ZmPIF1</italic> (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>g); therefore, we speculated that <italic>ZmPIF1</italic> may be involved in the ABA pathway. In this study, we measured the transpiration rates and stomatal conductance levels of rice leaves treated with ABA. With ABA treatment, the transpiration rate and stomatal conductance levels of transgenic rice were significantly lower than that of the WT control (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>f&#x02013;h). We also compared the aperture of the stomata of WT and transgenic rice treated with ABA. The results showed that more stomata were completely closed and fewer stomata were completely open in the leaves of <italic>ZmPIF1</italic> transgenic rice compared with WT (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>k). These results indicated that the transgenic rice potentially showed a hypersensitivity to ABA.</p><p>To further verify whether the transgenic rice were sensitive to ABA, we measured the seed germination rates, root lengths and plant heights of WT and transgenic rice treated with ABA. In the absence of ABA, the seed germination rates of <italic>ZmPIF1</italic> transgenic lines and WT were not significantly different (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>a,b). With increasing ABA concentrations, the germination rates of WT seeds decreased from 99% (0&#x000a0;&#x003bc;<sc>m</sc> ABA) to 59% (5&#x000a0;&#x003bc;<sc>m</sc> ABA) and 37% (10&#x000a0;&#x003bc;<sc>m</sc> ABA) (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>b). However, the seeds of transgenic rice showed a hypersensitivity to ABA. Almost 90% of <italic>ZmPIF1</italic> transgenic rice seeds germinated with 0&#x000a0;&#x003bc;<sc>m</sc> ABA, but only 9% of the <italic>ZmPIF1</italic> transgenic rice germinated with 10&#x000a0;&#x003bc;<sc>m</sc> ABA (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>a,b). Germination assays were also performed under mannitol and NaCl treatments. The same germination phenotypes of transgenic plants were shown in response to NaCl and mannitol (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S6</xref>). These results suggested that the transgenic rice seeds showed a hypersensitivity to ABA during the germination process.</p><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Increasing abscisic acid (ABA) sensitivity of <italic>ZmPIF1</italic> transgenic rice at the germination and seedling stages. (a) Germination phenotype of <italic>ZmPIF1</italic> transgenic and wild&#x02010;type rice seeds on wet filter paper containing 0, 5 or 10&#x000a0;&#x003bc;<sc>m</sc> ABA for 5&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;35). Bar&#x000a0;=&#x000a0;5&#x000a0;cm. (b) The germination rates of <italic>ZmPIF1</italic> transgenic and wild&#x02010;type rice seeds subjected to ABA treatment (<italic>n</italic>&#x000a0;=&#x000a0;35). (c) Phenotype of plant height of <italic>ZmPIF1</italic> transgenic and wild&#x02010;type rice transplanted into water containing 5&#x000a0;&#x003bc;<sc>m</sc> ABA for 7&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;20). Bar&#x000a0;=&#x000a0;5&#x000a0;cm. (d) The plant height of the lines grown in normal and 5&#x000a0;&#x003bc;<sc>m</sc> ABA&#x02010;containing water for 7&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;20). (e) Phenotype of the root length of <italic>ZmPIF1</italic> transgenic and wild&#x02010;type rice transplanted into water containing 10&#x000a0;&#x003bc;<sc>m</sc> ABA for 5&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;20). Bar&#x000a0;=&#x000a0;5&#x000a0;cm. (f) The root length of the lines grown in normal and 10&#x000a0;&#x003bc;<sc>m</sc> ABA&#x02010;containing water for 5&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;20). (g) ABA content of <italic>ZmPIF1</italic> transgenic rice and wild type (<italic>n</italic>&#x000a0;=&#x000a0;15). (b, g) Data represent the mean &#x000b1; SD. (d, f) Data represent the mean&#x000a0;&#x000b1;&#x000a0;SE. **<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; *<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-16-1375-g005"/></fig><p>For the root length and plant height measurements, the seedling growth rates of different genotypes were similar in the absence of ABA (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>c,e). In response to different ABA concentrations (0, 5 and 10&#x000a0;&#x003bc;<sc>m</sc>), the root lengths and plant heights of the transgenic rice were more suppressed relative to those of WT (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>c&#x02013;f). These experiments demonstrated that root lengths and plant heights of transgenic rice showed a hypersensitivity to ABA during the postgermination process. These results indicated that <italic>ZmPIF1</italic> is a positive regulator of ABA signalling.</p><p>To more systematically evaluate the function of <italic>ZmPIF1</italic>, we analyzed the endogenous ABA levels in transgenic and WT rice, which were not significantly different under normal conditions (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>g), suggesting that <italic>ZmPIF1</italic> is not involved in ABA synthesis but contributes significantly to the ABA signalling pathway.</p></sec><sec id="pbi12878-sec-0007"><title>
+<italic>ZmPIF1</italic> affects the expression of ABA&#x02010;induced, stress&#x02010;responsive and stomata&#x02010;related genes</title><p>We performed a digital gene expression (DGE) analysis to determine the differential gene expression between WT and the transgenic rice at the seedling stage (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S7</xref>). Interestingly, the involvement of the hormone pathways, abiotic stress and stomatal&#x02010;related genes were modulated in leaves of <italic>ZmPIF1</italic>&#x02010;transgenic rice relative to WT (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>, Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S8</xref>).</p><table-wrap id="pbi12878-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Expression of plant hormone signal transduction, stress&#x02010; and stomatal&#x02010;related genes identified by digital gene expression tag profiling</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Gene ID</th><th align="left" valign="top" rowspan="1" colspan="1">Description</th><th align="center" valign="top" rowspan="1" colspan="1">Fold change</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">Plant hormone signal transduction</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g64000</td><td align="left" rowspan="1" colspan="1">bZIP transcription factor, putative, expressed (OsABI5/OsbZIP10)</td><td align="char" char="." rowspan="1" colspan="1">1.584962501</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os12g40920</td><td align="left" rowspan="1" colspan="1">bZIP transcription factor domain containing protein, expressed (bZIP88)</td><td align="char" char="." rowspan="1" colspan="1">3.663107306</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g26760</td><td align="left" rowspan="1" colspan="1">Dehydrin, putative, expressed (OsRAB16C)</td><td align="char" char="." rowspan="1" colspan="1">4.36923381</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g26790</td><td align="left" rowspan="1" colspan="1">Dehydrin, putative, expressed (OsRAB16A/OsRAB21)</td><td align="char" char="." rowspan="1" colspan="1">2.584962501</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g47240</td><td align="left" rowspan="1" colspan="1">Leucine&#x02010;rich repeat receptor protein kinase EXS precursor, putative, expressed (BRI1)</td><td align="char" char="." rowspan="1" colspan="1">2.571528352</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os06g48200</td><td align="left" rowspan="1" colspan="1">Glycosyl hydrolases family 16, putative, expressed (BRII)</td><td align="char" char="." rowspan="1" colspan="1">3.335934953</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os02g43330</td><td align="left" rowspan="1" colspan="1">Homeobox associated leucine zipper, putative, expressed</td><td align="char" char="." rowspan="1" colspan="1">1.972316441</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os04g54900</td><td align="left" rowspan="1" colspan="1">HLH transcription factor (OsILI1)</td><td align="char" char="." rowspan="1" colspan="1">3.415037</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g39000</td><td align="left" rowspan="1" colspan="1">Helix&#x02010;loop&#x02010;helix DNA&#x02010;binding domain containing protein, expressed (OsILI2)</td><td align="char" char="." rowspan="1" colspan="1">4.196397</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g02880</td><td align="left" rowspan="1" colspan="1">O&#x02010;methyltransferase, putative, expressed</td><td align="char" char="." rowspan="1" colspan="1">3.832890014</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g24710</td><td align="left" rowspan="1" colspan="1">Jacalin&#x02010;like lectin domain containing protein, expressed (SalT)</td><td align="char" char="." rowspan="1" colspan="1">3.310787537</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g06560</td><td align="left" rowspan="1" colspan="1">Transcription factor HBP&#x02010;1b, putative, expressed</td><td align="char" char="." rowspan="1" colspan="1">4.087462841</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os08g31340</td><td align="left" rowspan="1" colspan="1">Heavy metal&#x02010;associated domain containing protein, expressed</td><td align="char" char="." rowspan="1" colspan="1">1.846087317</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os03g18490</td><td align="left" rowspan="1" colspan="1">RPGR, putative, expressed</td><td align="char" char="." rowspan="1" colspan="1">2.874469118</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os07g03730</td><td align="left" rowspan="1" colspan="1">SCP&#x02010;like extracellular protein, expressed</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;3.115538327</td></tr><tr><td align="left" colspan="3" rowspan="1">Stress&#x02010;related genes</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g36180</td><td align="left" rowspan="1" colspan="1">Expressed protein (OsRD29)</td><td align="char" char="." rowspan="1" colspan="1">2.662965013</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g26780</td><td align="left" rowspan="1" colspan="1">Dehydrin, putative, expressed (OsRab16D)</td><td align="char" char="." rowspan="1" colspan="1">3.841302254</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g26790</td><td align="left" rowspan="1" colspan="1">Dehydrin, putative, expressed (OsRAB16A/OsRAB21)</td><td align="char" char="." rowspan="1" colspan="1">2.584962501</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g26750</td><td align="left" rowspan="1" colspan="1">Dehydrin, putative, expressed (OsRAB16B)</td><td align="char" char="." rowspan="1" colspan="1">2.938599455</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g50910</td><td align="left" rowspan="1" colspan="1">Late embryogenesis abundant protein, group 3, putative, expressed (OsLEA14a)</td><td align="char" char="." rowspan="1" colspan="1">1.767165832</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g37960</td><td align="left" rowspan="1" colspan="1">WIP4&#x02014;Wound&#x02010;induced protein precursor, expressed (OsPR4b)</td><td align="char" char="." rowspan="1" colspan="1">2.52118263</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g37950</td><td align="left" rowspan="1" colspan="1">WIP3&#x02014;Wound&#x02010;induced protein precursor, expressed (OsPR4c)</td><td align="char" char="." rowspan="1" colspan="1">4.377933505</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os07g48010</td><td align="left" rowspan="1" colspan="1">Peroxidase precursor, putative, expressed (POX8_1)</td><td align="char" char="." rowspan="1" colspan="1">1.674759171</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os07g02440</td><td align="left" rowspan="1" colspan="1">Peroxidase precursor, putative, expressed (OsPOD1)</td><td align="char" char="." rowspan="1" colspan="1">1.722466024</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g51990</td><td align="left" rowspan="1" colspan="1">AN1&#x02010;like zinc finger domain containing protein, expressed (OsSAP13)</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;4.523561956</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os09g35030</td><td align="left" rowspan="1" colspan="1">Dehydration&#x02010;responsive element&#x02010;binding protein, putative, expressed (OsDREB1A)</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;2.767914182</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os09g35010</td><td align="left" rowspan="1" colspan="1">Dehydration&#x02010;responsive element&#x02010;binding protein, putative, expressed (OsDREB1B)</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;3.040157126</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os08g43334</td><td align="left" rowspan="1" colspan="1">HSF&#x02010;type DNA&#x02010;binding domain containing protein, expressed (OsHsfB2b)</td><td align="char" char="." rowspan="1" colspan="1">2.130629443</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os04g14680</td><td align="left" rowspan="1" colspan="1">OsAPx3&#x02014;Peroxisomal Ascorbate Peroxidase encoding gene 5,8, expressed (ROS&#x02010;related genes)</td><td align="char" char="." rowspan="1" colspan="1">1.628031223</td></tr><tr><td align="left" colspan="3" rowspan="1">Stomatal&#x02010;related gene</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g60770</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPA2)</td><td align="char" char="." rowspan="1" colspan="1">2.444048586</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os05g39990</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPA4)</td><td align="char" char="." rowspan="1" colspan="1">1.90442234</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g40710</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB2)</td><td align="char" char="." rowspan="1" colspan="1">1.865982652</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g40720</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB3)</td><td align="char" char="." rowspan="1" colspan="1">3.759333407</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g40730</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB4)</td><td align="char" char="." rowspan="1" colspan="1">4.544320516</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g40700</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB6)</td><td align="char" char="." rowspan="1" colspan="1">2.911463325</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os03g01270</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB7)</td><td align="char" char="." rowspan="1" colspan="1">1.959358016</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os02g44108</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB11)</td><td align="char" char="." rowspan="1" colspan="1">2.637429921</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os02g40240</td><td align="left" rowspan="1" colspan="1">Receptor kinase, putative, expressed (LP2)</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;2.321928095</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os10g40090</td><td align="left" rowspan="1" colspan="1">Expansin precursor, putative, expressed (OsEXPB9)</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;1.736965594</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os01g68598</td><td align="left" rowspan="1" colspan="1">Expressed protein (EPFL9)</td><td align="char" char="." rowspan="1" colspan="1">&#x02010;1.823122238</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LOC_Os11g32100</td><td align="left" rowspan="1" colspan="1">Inducer of CBF expression 1, putative, expressed, (OsSCRM1)</td><td align="char" char="." rowspan="1" colspan="1">2.280107919</td></tr></tbody></table><table-wrap-foot><fn id="pbi12878-note-0002"><p>Selected up&#x02010;regulated and down&#x02010;regulated genes in <italic>ZmPIF1</italic> transgenic rice relative to wild&#x02010;type plants. Genes with at least a 1.5&#x02010;fold change in the <italic>ZmPIF1</italic> transgenic rice are shown.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The expression levels of genes involved in the ABA signalling network were altered in <italic>ZmPIF1</italic> transgenic rice compared with WT plants. The expression levels of <italic>OsABI5</italic> and <italic>OsbZIP88</italic>, which were predicted to be ABA&#x02010;responsive binding factors, were elevated in <italic>ZmPIF1</italic> transgenic rice (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>). The expression levels of <italic>OsRAB16A</italic> and <italic>OsRAB16C</italic>, which have been reported to be the downstream of ABA signalling (Hong <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0012" ref-type="ref">2009</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0044" ref-type="ref">2007</xref>), were increased in <italic>ZmPIF1</italic> transgenic rice (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>). However, the expression levels of <italic>OsNCED1</italic>&#x02010;<italic>5</italic>, which are the key genes in ABA biosynthesis (Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0054" ref-type="ref">2009</xref>), did not significantly change in <italic>ZmPIF1</italic> transgenic and WT rice (data not shown).</p><p>The transcript levels of many well&#x02010;known drought resistance&#x02010;related genes, including <italic>OsRAB16A</italic>,<italic> OsRAB16B</italic>,<italic> OsRAB16D</italic>,<italic> OsPR4b</italic> and <italic>OsPR4c</italic>, were up&#x02010;regulated in <italic>ZmPIF1</italic> transgenic rice compared with WT (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>) (Du <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0006" ref-type="ref">2010</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0044" ref-type="ref">2007</xref>, <xref rid="pbi12878-bib-0045" ref-type="ref">2011</xref>). Overexpression of <italic>Leaf Panicle 2</italic> (<italic>LP2</italic>), which is a leucine&#x02010;rich repeat receptor&#x02010;like kinase, leads to a decrease in stomatal closure (Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0048" ref-type="ref">2015</xref>). In the present study, the <italic>LP2</italic> expression level was decreased in <italic>ZmPIF1</italic> transgenic rice. To investigate the differentially expressed genes, some <italic>EXPANSIN</italic> family genes related to stomata aperture were identified. The expression levels of these genes, including <italic>OsEXPA2</italic>,<italic> OsEXPA4</italic>,<italic> OsEXPB2</italic>,<italic> OsEXPB3</italic>,<italic> OsEXPB4</italic>,<italic> OsEXPB6</italic>,<italic> OsEXPB7</italic> and <italic>OsEXPB11</italic>, were up&#x02010;regulated at least 1.5&#x02010;fold (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>) (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0023" ref-type="ref">2012</xref>).</p></sec><sec id="pbi12878-sec-0008"><title>
+<italic>ZmPIF1</italic> increases the grain yield in rice</title><p>Grain yield is the one of most important agronomic traits of crops. Thus, we examined several agronomic traits of WT and <italic>ZmPIF1</italic> transgenic rice over 4&#x000a0;years of cultivation (2014, 2015, 2016 and 2017). The 4&#x02010;year data sets were consistent, but the number of scored plants was reduced in 2014, while the data for 2015, 2016 and 2017 showed greater statistical rigour (Table&#x000a0;<xref rid="pbi12878-tbl-0002" ref-type="table">2</xref>; Table&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S1</xref>). In 2015, 2016 and 2017, <italic>ZmPIF1</italic> transgenic rice showed an increased grain yield relative to WT because of the increased numbers of tillers and panicles (Table&#x000a0;<xref rid="pbi12878-tbl-0002" ref-type="table">2</xref>; Figure&#x000a0;<xref rid="pbi12878-fig-0006" ref-type="fig">6</xref>; Table&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S1</xref>). Moreover, the unit area yield of <italic>ZmPIF1</italic> transgenic lines was higher than in the WT control in 2017 (Figure&#x000a0;<xref rid="pbi12878-fig-0007" ref-type="fig">7</xref>). An additional interesting phenotype of <italic>ZmPIF1</italic> transgenic plants was that their tiller angles were significantly wider than those of WT plants (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S9</xref>). It is speculated that <italic>ZmPIF1</italic> is important for grain yield production by increasing the numbers of panicles.</p><table-wrap id="pbi12878-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Agronomic traits of <italic>ZmPIF1</italic> transgenic rice grown in paddy field conditions in 2015, 2016 and 2017</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Lines</th><th align="center" valign="top" rowspan="1" colspan="1">No. of tillers per plant</th><th align="center" valign="top" rowspan="1" colspan="1">Panicle number per plant</th><th align="center" valign="top" rowspan="1" colspan="1">Panicle length (cm)</th><th align="center" valign="top" rowspan="1" colspan="1">No. of grains per panicle</th><th align="center" valign="top" rowspan="1" colspan="1">Filled grains per panicle</th><th align="center" valign="top" rowspan="1" colspan="1">Seed&#x02010;setting rate (%)</th><th align="center" valign="top" rowspan="1" colspan="1">1000&#x02010;Grain weight (g)</th><th align="center" valign="top" rowspan="1" colspan="1">Grain yield per plant (g)</th></tr></thead><tbody><tr><td align="left" colspan="9" rowspan="1">2015</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WT</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.96&#x000a0;&#x000b1;&#x000a0;1.97</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.92&#x000a0;&#x000b1;&#x000a0;2.00</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">15.16&#x000a0;&#x000b1;&#x000a0;1.93</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">152.20&#x000a0;&#x000b1;&#x000a0;28.57</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">136.70&#x000a0;&#x000b1;&#x000a0;25.12</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">90.32&#x000a0;&#x000b1;&#x000a0;1.79</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.47&#x000a0;&#x000b1;&#x000a0;0.23</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">20.70&#x000a0;&#x000b1;&#x000a0;3.00</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">VC</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.04&#x000a0;&#x000b1;&#x000a0;2.49</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.96&#x000a0;&#x000b1;&#x000a0;2.56</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">15.58&#x000a0;&#x000b1;&#x000a0;1.60</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">160.40&#x000a0;&#x000b1;&#x000a0;15.74</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">134.40&#x000a0;&#x000b1;&#x000a0;10.43</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">83.10&#x000a0;&#x000b1;&#x000a0;4.34<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">26.55&#x000a0;&#x000b1;&#x000a0;0.25<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">20.11&#x000a0;&#x000b1;&#x000a0;2.97</td></tr><tr><td align="left" colspan="9" rowspan="1">
+<italic>ZmPIF1</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE1</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.87&#x000a0;&#x000b1;&#x000a0;2.75<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.83&#x000a0;&#x000b1;&#x000a0;2.74<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">15.63&#x000a0;&#x000b1;&#x000a0;1.68<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">145.60&#x000a0;&#x000b1;&#x000a0;24.77</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">120.00&#x000a0;&#x000b1;&#x000a0;26.70</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">81.61&#x000a0;&#x000b1;&#x000a0;2.79<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">27.54&#x000a0;&#x000b1;&#x000a0;0.05<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">27.08&#x000a0;&#x000b1;&#x000a0;3.10<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE3</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.75&#x000a0;&#x000b1;&#x000a0;2.98<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.54&#x000a0;&#x000b1;&#x000a0;3.15<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">15.27&#x000a0;&#x000b1;&#x000a0;2.27</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">166.60&#x000a0;&#x000b1;&#x000a0;18.64</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">122.80&#x000a0;&#x000b1;&#x000a0;14.10</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">75.94&#x000a0;&#x000b1;&#x000a0;4.74<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.99&#x000a0;&#x000b1;&#x000a0;0.13<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.83&#x000a0;&#x000b1;&#x000a0;3.06</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE7</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.17&#x000a0;&#x000b1;&#x000a0;3.35<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">12.17&#x000a0;&#x000b1;&#x000a0;2.85<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">15.87&#x000a0;&#x000b1;&#x000a0;1.90<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">167.00&#x000a0;&#x000b1;&#x000a0;25.62</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">124.70&#x000a0;&#x000b1;&#x000a0;19.28</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">73.62&#x000a0;&#x000b1;&#x000a0;5.81<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.17&#x000a0;&#x000b1;&#x000a0;0.18<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.59&#x000a0;&#x000b1;&#x000a0;4.35</td></tr><tr><td align="left" colspan="9" rowspan="1">2016</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WT</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.53&#x000a0;&#x000b1;&#x000a0;1.38</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.53&#x000a0;&#x000b1;&#x000a0;1.38</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">17.28&#x000a0;&#x000b1;&#x000a0;0.25</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">141.43&#x000a0;&#x000b1;&#x000a0;9.59</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">134.00&#x000a0;&#x000b1;&#x000a0;9.86</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">95.09&#x000a0;&#x000b1;&#x000a0;3.20</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">24.25&#x000a0;&#x000b1;&#x000a0;0.18</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">29.07&#x000a0;&#x000b1;&#x000a0;5.33</td></tr><tr><td align="left" colspan="9" rowspan="1">
+<italic>ZmPIF1</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE1</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">12.60&#x000a0;&#x000b1;&#x000a0;2.28<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">12.53&#x000a0;&#x000b1;&#x000a0;2.33<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">16.44&#x000a0;&#x000b1;&#x000a0;0.23<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">138.27&#x000a0;&#x000b1;&#x000a0;10.03</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">128.33&#x000a0;&#x000b1;&#x000a0;9.90</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">93.06&#x000a0;&#x000b1;&#x000a0;4.52<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">28.66&#x000a0;&#x000b1;&#x000a0;0.04<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">35.82&#x000a0;&#x000b1;&#x000a0;8.61</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE3</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.80&#x000a0;&#x000b1;&#x000a0;2.44<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.73&#x000a0;&#x000b1;&#x000a0;2.55<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">16.49&#x000a0;&#x000b1;&#x000a0;0.30<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">148.07&#x000a0;&#x000b1;&#x000a0;12.76<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">136.97&#x000a0;&#x000b1;&#x000a0;12.87</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">92.35&#x000a0;&#x000b1;&#x000a0;4.56<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">27.41&#x000a0;&#x000b1;&#x000a0;0.08<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">38.44&#x000a0;&#x000b1;&#x000a0;7.93<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE7</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.60&#x000a0;&#x000b1;&#x000a0;1.90<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">12.63&#x000a0;&#x000b1;&#x000a0;1.88<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">16.71&#x000a0;&#x000b1;&#x000a0;0.66<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">145.97&#x000a0;&#x000b1;&#x000a0;13.87</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">134.37&#x000a0;&#x000b1;&#x000a0;17.05</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">92.00&#x000a0;&#x000b1;&#x000a0;8.36<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.57&#x000a0;&#x000b1;&#x000a0;0.14<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">30.73&#x000a0;&#x000b1;&#x000a0;6.96</td></tr><tr><td align="left" colspan="9" rowspan="1">2017</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WT</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">12.34&#x000a0;&#x000b1;&#x000a0;2.36</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">12.13&#x000a0;&#x000b1;&#x000a0;2.45</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">15.13&#x000a0;&#x000b1;&#x000a0;1.52</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">91.00&#x000a0;&#x000b1;&#x000a0;10.08</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">80.44&#x000a0;&#x000b1;&#x000a0;12.05</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">89.98&#x000a0;&#x000b1;&#x000a0;4.58</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">27.33&#x000a0;&#x000b1;&#x000a0;0.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">24.78&#x000a0;&#x000b1;&#x000a0;1.99</td></tr><tr><td align="left" colspan="9" rowspan="1">
+<italic>ZmPIF1</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE1</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.01&#x000a0;&#x000b1;&#x000a0;3.12<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.62&#x000a0;&#x000b1;&#x000a0;2.25<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.83&#x000a0;&#x000b1;&#x000a0;2.04</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">87.24&#x000a0;&#x000b1;&#x000a0;12.63</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">71.12&#x000a0;&#x000b1;&#x000a0;10.71<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">85.23&#x000a0;&#x000b1;&#x000a0;4.86<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">30.39&#x000a0;&#x000b1;&#x000a0;0.12<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.63&#x000a0;&#x000b1;&#x000a0;1.61<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE3</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.13&#x000a0;&#x000b1;&#x000a0;3.13<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.07&#x000a0;&#x000b1;&#x000a0;2.22<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.27&#x000a0;&#x000b1;&#x000a0;2.27</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">106.34&#x000a0;&#x000b1;&#x000a0;18.26<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">80.59&#x000a0;&#x000b1;&#x000a0;22.03</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">80.91&#x000a0;&#x000b1;&#x000a0;7.13<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">27.81&#x000a0;&#x000b1;&#x000a0;0.06<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">26.69&#x000a0;&#x000b1;&#x000a0;1.56<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OE7</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.35&#x000a0;&#x000b1;&#x000a0;2.59<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.04&#x000a0;&#x000b1;&#x000a0;2.59<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">14.51&#x000a0;&#x000b1;&#x000a0;1.52</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">102.12&#x000a0;&#x000b1;&#x000a0;16.82<xref ref-type="fn" rid="pbi12878-note-0003">*</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">84.45&#x000a0;&#x000b1;&#x000a0;14.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">83.38&#x000a0;&#x000b1;&#x000a0;6.16<xref ref-type="fn" rid="pbi12878-note-0003">**</xref>
+</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">27.43&#x000a0;&#x000b1;&#x000a0;0.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">25.00&#x000a0;&#x000b1;&#x000a0;2.28</td></tr></tbody></table><table-wrap-foot><fn id="pbi12878-note-0003"><p>Values are the mean&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;15). * and ** indicate significant differences at <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01, respectively.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Panicle phenotype and seed morphology of <italic>ZmPIF1</italic> transgenic and wild&#x02010;type rice. Agronomic traits of the <italic>ZmPIF1</italic> transgenic rice under normal conditions for three cultivating seasons (2014, 2015, 2016 and 2017). Bar&#x000a0;=&#x000a0;5&#x000a0;cm.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-16-1375-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12878-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>The unit area yield of <italic>ZmPIF1</italic> transgenic and wild&#x02010;type rice in 2017. The planting density was 30/m<sup>2</sup>. The unit area yields were calculated for four replicates in different regions and &#x0003e;100 plants per replicate. Data represent the mean&#x000a0;&#x000b1;&#x000a0;SE. **<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; *<italic>t</italic>&#x02010;test, with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-16-1375-g007"/></fig></sec></sec><sec id="pbi12878-sec-0009"><title>Discussion</title><sec id="pbi12878-sec-0010"><title>
+<italic>ZmPIF1</italic> plays a positive role in drought tolerance</title><p>The overexpression of some stress&#x02010;related genes can improve the environmental stress tolerance of plants (Tang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0042" ref-type="ref">2012</xref>). As previously discussed, the expression of <italic>ZmPIF1</italic> was strongly up&#x02010;regulated by PEG and salt stress (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>d,e). Although PIFs have recently attracted much interest, their functions in abiotic stress remain largely unexplored. Some data have shown that <italic>PIF4</italic> expression may be regulated by high temperature in <italic>Arabidopsis</italic> (Franklin <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0008" ref-type="ref">2011</xref>; Koini <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0016" ref-type="ref">2009</xref>; Stavang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0041" ref-type="ref">2009</xref>). Todaka <italic>et&#x000a0;al</italic>. (<xref rid="pbi12878-bib-0043" ref-type="ref">2012</xref>) reported that drought down&#x02010;regulates the PIF&#x02010;like gene <italic>OsPIL1</italic>. In our previous study, the maize PIF gene <italic>ZmPIF3</italic>, a homolog of <italic>ZmPIF1</italic>, was found to function in the response to abiotic stress (Gao <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0009" ref-type="ref">2015</xref>). Following exposure to drought stress, the survival rates of the <italic>ZmPIF1</italic> transgenic rice were higher than in the two control plants grown in a hydroponic solution or soil (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>). The RWC, chlorophyll content, chlorophyll fluorescence, and CMS of the <italic>ZmPIF1</italic> transgenic rice were significantly increased under stress conditions. These results suggested that PIFs may be involved in regulating plant growth and development, as well as in responding to drought stress.</p></sec><sec id="pbi12878-sec-0011"><title>
+<italic>ZmPIF1</italic> positively regulates ABA&#x02010;dependent drought tolerance by regulating the stomata aperture</title><p>The drought responses of plants are complicated and modulated by multiple molecular pathways. Stomatal pores are involved in drought tolerance (Hetherington and Woodward, <xref rid="pbi12878-bib-0011" ref-type="ref">2003</xref>; Schroeder <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0038" ref-type="ref">2001</xref>). Stomatal responses can regulate water loss from plants to control the utilization of water (Murata <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0029" ref-type="ref">2015</xref>). The <italic>ZmPIF1</italic> transgenic rice and <italic>Arabidopsis</italic> all showed lower water loss rate than WT (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>a,b; Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>a&#x02013;c) and significantly promoted stomatal closure and a reduced stomatal conductance and transpiration rate (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>c&#x02013;e, i,j; Figure&#x000a0;<xref rid="pbi12878-fig-0004" ref-type="fig">4</xref>f,g). Consequently, <italic>ZmPIF1</italic> transgenic plants could better avoid dehydration when the soil water became limiting in both rice and <italic>Arabidopsis</italic>. These findings indicate that <italic>ZmPIF1</italic> plays an important role in water saving by regulating the stomatal aperture.</p><p>Plants regulate gene expression levels and stomatal apertures in response to drought stress mainly by enhancing ABA biosynthesis and signalling (Cutler <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0004" ref-type="ref">2010</xref>; Pizzio <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0037" ref-type="ref">2013</xref>). As previously discussed, the <italic>ZmPIF1</italic> expression level was rapidly induced by ABA (Figure&#x000a0;<xref rid="pbi12878-fig-0001" ref-type="fig">1</xref>g), and <italic>ZmPIF1</italic> transgenic rice had higher survival rates after exposure to drought stress, which promoted stomatal closure (Figure&#x000a0;<xref rid="pbi12878-fig-0002" ref-type="fig">2</xref>; Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>c&#x02013;e,j). Therefore, further exploration of the relationship between ABA and <italic>ZmPIF1</italic> was essential. <italic>ZmPIF1</italic> transgenic rice were tested for ABA responsiveness, and they exhibited a hypersensitive to ABA during germination and postgermination processes and in the seedling stage (Figure&#x000a0;<xref rid="pbi12878-fig-0003" ref-type="fig">3</xref>f&#x02013;h, k; Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>). Moreover, the endogenous ABA levels in transgenic rice were also tested under normal conditions (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>g). However, the endogenous ABA level of <italic>ZmPIF1</italic> transgenic rice was not significantly altered. Thus, <italic>ZmPIF1</italic> was not involved in ABA biosynthesis. We hypothesized that <italic>ZmPIF1</italic> participates in the ABA signalling pathway to reduce the stomatal aperture and inhibit the transpiration rate, thereby enhancing water saving and drought&#x02010;tolerance in the transgenic rice.</p><p>Digital gene expression profiling can assist in screening for key genes and possibly mechanisms. Under normal conditions, the DGE profiles of the <italic>ZmPIF1</italic> transgenic and WT control rice were compared to identify differentially expressed genes. The expression levels of the ABA biosynthesis&#x02010;related genes <italic>OsNCED1</italic>&#x02010;<italic>5</italic> were not significantly changed in <italic>ZmPIF1</italic> transgenic or WT rice (Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0054" ref-type="ref">2009</xref>), consistent with the endogenous ABA content (Figure&#x000a0;<xref rid="pbi12878-fig-0005" ref-type="fig">5</xref>g), which further suggested that <italic>ZmPIF1</italic> was not involved in the ABA biosynthesis pathway.</p><p>
+<italic>OsABI5</italic> is a rice bZIP transcription factor, and <italic>OsABI5</italic>&#x02010;overexpression rice are hypersensitive to ABA. In <italic>Arabidopsis</italic>, in contrast, the ABA sensitivity of abi5&#x02010;1 can be recovered by <italic>OsABI5</italic> in a complementation test (Zou <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0055" ref-type="ref">2008</xref>). <italic>OsbZIP88</italic> is also a bZIP transcription factor that can interact with <italic>OsbZIP71</italic> by forming heterodimers, while <italic>OsbZIP71</italic> may be involved in salt and drought tolerance (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0024" ref-type="ref">2014</xref>). Relative to WT plants, the expression levels of <italic>OsABI5</italic> and <italic>OsbZIP88</italic> increased in <italic>ZmPIF1</italic> transgenic rice. Moreover, the expression levels of ABA signalling downstream genes <italic>RAB16A</italic> and <italic>RAB16C</italic> increased in <italic>ZmPIF1</italic> transgenic rice (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>; Hong <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0012" ref-type="ref">2009</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0044" ref-type="ref">2007</xref>). These results suggested that <italic>ZmPIF1</italic> participated downstream in the ABA signalling pathway through bZIP transcription factors to positively regulate the ABA signalling pathway.</p><p>
+<italic>EXPANSIN</italic> is a cell wall protein that is involved in regulating the stomatal aperture and stomatal density (L&#x000fc; <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0025" ref-type="ref">2013</xref>; Marowa <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0027" ref-type="ref">2016</xref>; Wei <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0046" ref-type="ref">2011</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0052" ref-type="ref">2011</xref>). Our DGE results revealed that eight <italic>EXPANSIN</italic> genes were up&#x02010;regulated in <italic>ZmPIF1</italic>&#x02010;transgenetic rice (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>). The expression of <italic>LP2</italic>, a leucine&#x02010;rich repeat receptor&#x02010;like kinase, was decreased in <italic>ZmPIF1</italic> transgenic rice. The expression of <italic>LP2</italic> is down&#x02010;regulated by drought, while transgenic plants overexpressing <italic>LP2</italic> have increased stomatal apertures in leaves (Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0048" ref-type="ref">2015</xref>). The expression levels of stomatal&#x02010;related genes also revealed that <italic>ZmPIF1</italic> might participate in regulating the stomatal aperture. In addition, <italic>ZmPIF1</italic> transgenic lines showed an induction of the expression of stress&#x02010;related genes, such as <italic>OsRAB16A</italic>,<italic> OsRAB16B</italic>,<italic> OsRAB16D</italic>,<italic> OsPR4b</italic> and <italic>OsPR4c</italic>, even under normal condition (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>; Du <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0006" ref-type="ref">2010</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0044" ref-type="ref">2007</xref>). Taken together, the DGE analysis indicated that <italic>ZmPIF1</italic> promoted closure of stomata and decreases in the transpiration rate by influencing the ABA&#x02010;dependent signalling pathway, which enhances water saving and drought resistance in rice.</p></sec><sec id="pbi12878-sec-0012"><title>
+<italic>ZmPIF1</italic> transgenic rice have an increased grain yield</title><p>In crops, overexpression of stress tolerance genes may be lead to abnormal development and productivity loss (Dubouzet <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0007" ref-type="ref">2003</xref>; Nakashima <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0031" ref-type="ref">2007</xref>; Yu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0050" ref-type="ref">2013</xref>). Thus, it is also important to develop transgenic plants that can enhance stress tolerance and maintain grain yields. Under normal conditions, <italic>ZmPIF1</italic> can enhance grain yields in transgenic rice. The increased grain yield was mainly attributable to the increase in the number of panicles, without a substantial change in the number of spikelets per panicle (Table&#x000a0;<xref rid="pbi12878-tbl-0002" ref-type="table">2</xref>; Figure&#x000a0;<xref rid="pbi12878-fig-0006" ref-type="fig">6</xref>; Figure&#x000a0;<xref rid="pbi12878-fig-0007" ref-type="fig">7</xref>; Table&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S1</xref>). An additional phenotype of <italic>ZmPIF1</italic>&#x02010;transgenetic rice was their tiller angle, which was significantly wider than that of WT rice (Figure&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S9</xref>). Thus, the wider tiller angle of <italic>ZmPIF1</italic> transgenic rice provided a larger growth space, promoting increased growth of the tillers relative to the WT rice. The grain yields were increased in <italic>ZmPIF1</italic> transgenic lines, indicating a wider applicability of <italic>ZmP</italic>IF1 for crop improvement.</p><p>PIFs function as a signal hub in cells and participate in multiple signalling pathways. To date, many studies have shown that PIFs can affect Brassinosteroid (BR; de Lucas and Prat, <xref rid="pbi12878-bib-0026" ref-type="ref">2014</xref>; Oh <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0034" ref-type="ref">2012</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0051" ref-type="ref">2009</xref>). BR is associated with the plant panicle, and BRs are involved in panicle development in rice. Some BR signal transgenic plants appear to have more tillers, larger panicles, and more seeds per panicle than wild&#x02010;type plants (Mori <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0028" ref-type="ref">2002</xref>; Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0047" ref-type="ref">2008</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12878-bib-0051" ref-type="ref">2009</xref>). In the present study, the DGE results showed that BR signalling pathway genes, such as BRI1 (LOC_Os11g47240), BRII (LOC_Os06g48200), OsILI1 (LOC_Os04g54900) and OsILI2 (LOC_Os11g39000), were significantly induced in <italic>ZmPIF1</italic> transgenic lines (Table&#x000a0;<xref rid="pbi12878-tbl-0001" ref-type="table">1</xref>). Therefore, we hypothesized that <italic>ZmPIF1</italic> might affect number of panicles by influencing other signalling pathways such as BR.</p><p>In this study, <italic>ZmPIF1</italic> was found to be a positive regulator of ABA signalling and to enhance water saving and drought resistance by reducing stomatal opening to control water loss. <italic>ZmPIF1</italic> can enhance drought tolerance and improve the grain yield of rice, which indicates that <italic>ZmPIF1</italic> plays important roles in drought tolerance and crop improvement. Further investigations are necessary to establish how <italic>ZmPIF1</italic> responds to drought stress with ABA signalling&#x02010;induced stomatal closure.</p></sec></sec><sec id="pbi12878-sec-0013"><title>Experimental procedures</title><sec id="pbi12878-sec-0014"><title>Plant materials and stress treatments</title><p>Maize &#x02018;Zhengdan 958&#x02019; (<italic>Zea mays</italic>, hybrid line) was germinated for 6&#x000a0;days. The seedlings were transferred to hydroponic growth conditions at 25&#x000a0;&#x000b0;C with a 16/8&#x02010;h photoperiod. Four&#x02010;leaf&#x02010;stage maize seedlings were used for all the stress treatments. For the ABA treatment, twenty well&#x02010;grown seedlings were treated for 0, 1, 3, 6, 12, 24 and 48&#x000a0;h with 100&#x000a0;&#x003bc;<sc>m</sc> ABA (<italic>n</italic>&#x000a0;=&#x000a0;20). For high&#x02010;salinity and PEG treatment, twenty well&#x02010;grown seedlings were treated for 0, 1, 3, 6, 12, 24 and 48&#x000a0;h with 200&#x000a0;m<sc>m</sc> NaCl or 20% PEG6000 (<italic>n</italic>&#x000a0;=&#x000a0;20). For the cold treatment, twenty well&#x02010;grown seedlings were treated for 0, 1, 3, 6, 12, 24 and 48&#x000a0;h in a growth chamber at 4&#x000a0;&#x000b0;C for cold stress. (<italic>n</italic>&#x000a0;=&#x000a0;20). All tests were repeated a minimum of three times.</p><p>Maize plants were grown in the field to obtain different tissues. At the jointing stage, total RNA from roots, stems and leaves was isolated separately. Stamens and pistils were sampled at heading stage.</p><p>The wild&#x02010;type rice material &#x02018;Wuyunjing&#x02019; (<italic>Oryza sativa</italic> L.) and transgenic rice were grown in a chamber at 28/25&#x000a0;&#x000b0;C with a 16/8&#x02010;h light/dark cycle and 70% relative humidity. The wild&#x02010;type <italic>Arabidopsis thaliana</italic> (Columbia 0 type) and transgenic <italic>Arabidopsis</italic> were placed in a climate chamber at 22&#x000a0;&#x000b0;C with 70% relative humidity and a 12&#x02010;h light/12&#x02010;h dark photoperiod. The growth and harvesting of transgenic lines were performed under the same conditions. All tests were repeated a minimum of three times.</p></sec><sec id="pbi12878-sec-0015"><title>Sequence homology and phylogenetic analyses</title><p>Based on the <italic>PIF3</italic> and <italic>PIF1</italic> gene sequences in <italic>Arabidopsis</italic>, a maize PIF gene, named <italic>ZmPIF1</italic>, was obtained from GenBank and MaizeGDB. The sequence of <italic>ZmPIF1</italic> was analyzed at the websites (<ext-link ext-link-type="uri" xlink:href="http://www.expasy.org/">http://www.expasy.org/</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.plantgdb.org/">http://www.plantgdb.org/</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/">http://www.ncbi.nlm.nih.gov/</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.maizegdb.org/">http://www.maizegdb.org/</ext-link>). The phylogenetic analysis was generated with DNAMAN and MEGA version 6.</p></sec><sec id="pbi12878-sec-0016"><title>Yeast two&#x02010;hybrid (Y2H) assays</title><p>A kit for two&#x02010;hybrid analysis was obtained (Oebiotech, Shanghai, China). This kit contained all the tools essential for two&#x02010;hybrid assay, including vectors: pGBKT7, providing the GAL4 DNA&#x02010;binding domain, and pGADT7, providing the GAL4 activation domain. The following plasmids were constructed in this study: pGBKT7&#x02010;ZmPhyA1, pGBKT7&#x02010;ZmPhyA2, pGBKT7&#x02010;ZmPhyB1, pGBKT7&#x02010;ZmPhyB2 and pGADT7&#x02010;ZmPIF1.</p></sec><sec id="pbi12878-sec-0017"><title>Subcellular localization</title><p>
+<italic>ZmPIF1</italic> was fused upstream of the GFP gene in the p2GWF7 expression vector and transformed into living onion epidermal cells by biolistic bombardment with a GeneGu. The subcellular location of ZmPIF1 was measured as stated in Gao <italic>et&#x000a0;al</italic>. (<xref rid="pbi12878-bib-0009" ref-type="ref">2015</xref>).</p></sec><sec id="pbi12878-sec-0018"><title>Gene expression quantified by qRT&#x02010;PCR</title><p>Total RNAs were extracted using the manufacturer's instructions of the TRIzol reagent (Takara, China), and reverse transcription reactions were performed using manufacturer's instructions of the Transcriptor First Strand cDNA Synthesis kit (Roche, Mannheim, IN, Germany). qRT&#x02010;PCR was performed using a SYBR Green Master Mix kit (Roche, Mannheim, IN, Germany) and specific primers (Table&#x000a0;<xref rid="pbi12878-sup-0001" ref-type="supplementary-material">S2</xref>) on an ABI 7300 system. Three separate biological replicates were carried out for the qRT&#x02010;PCR experiments.</p></sec><sec id="pbi12878-sec-0019"><title>Rice and <italic>Arabidopsis</italic> transformation</title><p>To create overexpression constructs of <italic>ZmPIF1</italic>, a fragment of <italic>ZmPIF1</italic> was cloned in maize. The <italic>ZmPIF1</italic> fragment was then&#x000a0;inserted into the binary plasmid p1011, which contains&#x000a0;a ubiquitin promoter. This construct was introduced into <italic>Agrobacterium tumefaciens</italic> strain EHA105, and transgenic&#x000a0;rice of <italic>ZmPIF1</italic> were produced as described by Xu <italic>et&#x000a0;al</italic>. (<xref rid="pbi12878-bib-0049" ref-type="ref">2005</xref>).</p><p>The <italic>ZmPIF1</italic> fragment was subcloned into the vector LZ007, in which transgene expression is under control of the CaMV 35S promoter. Transformation of <italic>Arabidopsis</italic> was performed by the floral dip method (Clough and Bent, <xref rid="pbi12878-bib-0003" ref-type="ref">1998</xref>) using <italic>Agrobacterium tumefaciens</italic> strain GV3101.</p></sec><sec id="pbi12878-sec-0020"><title>Drought phenotype analysis</title><p>For PEG treatment at the seedling stage, 2&#x02010;week&#x02010;old T3 <italic>ZmPIF1</italic> transgenic and two control rice were treated for 4&#x000a0;days with 20% PEG. Ten days after recovery, the survival rate of each line was measured. For drought treatment in soil, 40&#x02010;day&#x02010;old rice from each line were sown in individual pots. Water was withheld from the plants of each line for 7&#x000a0;days and then recovered. After 10&#x000a0;days of recovery in water, the survival rate of each line was determined.</p></sec><sec id="pbi12878-sec-0021"><title>Physiological measurements</title><p>The chlorophyll florescence, chlorophyll content, RWC and CMS values were measured as stated in Gao <italic>et&#x000a0;al</italic>. (<xref rid="pbi12878-bib-0009" ref-type="ref">2015</xref>). All of the tests were measured under normal or stress conditions (20% PEG6000 for 2&#x000a0;days). These tests used 2&#x02010;week&#x02010;old rice of each line.</p></sec><sec id="pbi12878-sec-0022"><title>Phenotype of transpiration assay</title><p>Hydroponic cultured seedlings of T3 <italic>ZmPIF1</italic> transgenic rice and two controls (40&#x000a0;days old) were transplanted into the same transparent pot filled with hydroponic culture solution. Thirty&#x02010;five seedlings of each line were planted in each pot and grown under normal conditions. After 3&#x000a0;days, the water level of each line was marked with black lines.</p><p>Thirty&#x02010;day&#x02010;old seedlings of WT (col) and T3 <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> were transplanted into the same transparent pots (containing the same weight of soil) with addition of 300&#x000a0;mL water after saturation of the soil water. After 4&#x000a0;days, the water levels of <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> and WT were marked with black lines. The remaining water in the WT and <italic>ZmPIF1</italic> transgenic <italic>Arabidopsis</italic> was measured after 4&#x000a0;days.</p></sec><sec id="pbi12878-sec-0023"><title>Measurements of water loss rate, transpiration rate and stomatal conductance</title><p>Leaves of 40&#x02010;day&#x02010;old rice of <italic>ZmPIF1</italic> transgenic lines and WT were detached. Leaves of 30&#x02010;day&#x02010;old <italic>Arabidopsis</italic> of <italic>ZmPIF1</italic> transgenic lines and WT were detached. The water loss rates of each line were calculated. A portable photosynthesis system (Li&#x02010;Cor 6400; Li&#x02010;Cor, Lincoln, NE) was used to test the stomatal conductance and transpiration rates in rice. Flag leaves of 40&#x02010;day&#x02010;old rice of each line were measured. For ABA treatment, thirty 40&#x02010;day rice seedlings were treated for 3&#x000a0;h with 100&#x000a0;&#x003bc;<sc>m</sc> ABA (<italic>n</italic>&#x000a0;=&#x000a0;40).</p></sec><sec id="pbi12878-sec-0024"><title>Scanning electron microscopy (SEM) images of stomata</title><p>Flag leaves of 40&#x02010;day&#x02010;old rice of <italic>ZmPIF1</italic> transgenic lines and WT were detached. Leaves of 30&#x02010;day&#x02010;old <italic>Arabidopsis</italic> of <italic>ZmPIF1</italic> transgenic lines and WT were detached and fixed in glutaraldehyde (2.5%), and images of the stomata were obtained by environmental scanning electron microscopy (XL&#x02010;30ESEM, PHILIPS, Netherland). Stomatal densities, lengths and apertures were measured randomly using Image&#x02010;Pro Plus6.0 software (Media Cybernetics, USA).</p></sec><sec id="pbi12878-sec-0025"><title>Germination assay and growth measurement</title><p>Thirty&#x02010;five seeds were placed in square dishes supplemented with 0, 5 and 10&#x000a0;&#x003bc;<sc>m</sc> of ABA after geminating for 1&#x000a0;day. After 5&#x000a0;days, the germination rate of each line was determined. Additionally, twenty seeds were transplanted into 96&#x02010;well plates in which the bottoms were moved after the shoots reached 2&#x000a0;cm. Seeds were grown in water containing 0 and 5&#x000a0;&#x003bc;<sc>m</sc> ABA. After 7&#x000a0;days of growth, plant heights were measured. Concurrently, twenty seeds were grown in water containing 0, 10&#x000a0;&#x003bc;<sc>m</sc> ABA. After 5&#x000a0;days, root lengths were measured.</p></sec><sec id="pbi12878-sec-0026"><title>Quantification of the endogenous ABA contents</title><p>The ABA levels of <italic>ZmPIF1</italic> transgenic lines and the WT were quantified as stated in Zhang <italic>et&#x000a0;al</italic>. (<xref rid="pbi12878-bib-0053" ref-type="ref">2015</xref>). Flag leaves 40&#x02010;day&#x02010;old plants from each line were harvested to measure the endogenous ABA contents.</p></sec><sec id="pbi12878-sec-0027"><title>DGE analysis</title><p>Thirty well&#x02010;grown WT and <italic>ZmPIF1</italic> transgenic plant seedlings each were selected. The second fully expanded leaves of WT and ZmPIF1 transgenic seedlings were rapidly cut, frozen and stored. We established three replicates of the WT control and named them WT&#x02010;1, WT&#x02010;2 and WT&#x02010;3. We also established OE1, OE3 and OE7 as three replicates of <italic>ZmPIF1</italic> transgenic plants and designated OE1, OE3 and OE7 as F1&#x02010;1, F1&#x02010;2 and F1&#x02010;3. Total RNAs were extracted in accordance with the instructions provided with the RNAprep pure Plant Kit (Tiangen, China). DGE was performed in accordance with the standard protocol of Beijing Genomics Institute (<ext-link ext-link-type="uri" xlink:href="http://www.genomics.cn/index">http://www.genomics.cn/index</ext-link>; Shenzhen, China).</p></sec><sec id="pbi12878-sec-0028"><title>Grain yield analysis</title><p>Thirty&#x02010;day&#x02010;old seedlings of <italic>ZmPIF1</italic> and WT control were transplanted in a paddy field in Jiangsu Province, China. Agronomic traits were calculated for three replicates and 3 (2014), 20 (2015), 15 (2016) and 40 (2016) plants per replicate using statistical analyses. The unit area yields of <italic>ZmPIF1</italic> transgenic and WT rice in the field were tested in 2017. The planting density was 30/m<sup>2</sup>. The unit area yields of ZmPIF1 transgenic and WT rice were calculated for 4 replicates in different regions and &#x0003e;100 plants per replicate.</p></sec></sec><sec id="pbi12878-sec-0029"><title>Accession numbers</title><p>Sequence data for the genes described in this article can be found&#x000a0;in the Maize Genome Initiative or GenBank/EMBL&#x000a0;databases under following accession numbers: ZmPIF1 (GRMZM2G115960_T03), ZmPIF3 (GRMZM2G387528_T02), PIF1 (Q8GZM7.1) and PIF3 (Q80536.1).</p></sec><sec id="pbi12878-sec-0031"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12878-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Sequence alignment of <italic>ZmPIF1</italic> in other <italic>Zea mays</italic> and <italic>Arabidopsis</italic> PIFs family.</p><p>
+<bold>Figure&#x000a0;S2</bold> Phylogenetic tree analysis of <italic>ZmPIF1</italic> from other PIFs family.</p><p>
+<bold>Figure&#x000a0;S3</bold> Confirmation of the subcellular localization of <italic>ZmPIF1</italic> by BiFC in <italic>N.&#x000a0;Benthamiana</italic>.</p><p>
+<bold>Figure&#x000a0;S4</bold> Molecular characterization and phenotypes of <italic>ZmPIF1</italic> transgenic rice.</p><p>
+<bold>Figure&#x000a0;S5</bold> Expression patterns of <italic>ZmPIF3</italic> in transgenic <italic>Arabidopsis</italic>.</p><p>
+<bold>Figure&#x000a0;S6</bold> The germination rates of <italic>ZmPIF1</italic> transgenic rice and wild type seeds under NaCl and mannitol treatment.</p><p>
+<bold>Figure&#x000a0;S7</bold> Hierarchical clustering analysis of all DEGs.</p><p>
+<bold>Figure&#x000a0;S8</bold> Quantitative real&#x02010;time PCR validation of the results of DGE tag profiling.</p><p>
+<bold>Figure&#x000a0;S9</bold>
+<italic>ZmPIF1</italic> transgenic rice showed wider tiller angle and more number of panicle phenotype.</p><p>
+<bold>Table&#x000a0;S1</bold> Agronomic traits of <italic>ZmPIF1</italic> transgenic plants grown in the paddy field conditions in 2014.</p><p>
+<bold>Table&#x000a0;S2</bold> Primer pairs used in quantitative real&#x02010;time PCR.</p></caption><media xlink:href="PBI-16-1375-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12878-sec-0030"><title>Acknowledgements</title><p>This work was supported by The National Key Research and Development Program of China (2016YFD0101002); National Natural Science Foundation of China (No. 31771686); Natural Science Foundation of the Jiangsu Province (No. BK20161334); State Key Laboratory of Crop Biology (No. 2015KF07). We also thank another financial support for the Priority Academic Program Development of Jiangsu Higher Education Institutions and State Key Laboratory of Crop Biology.</p></ack><ref-list content-type="cited-references" id="pbi12878-bibl-0001"><title>References</title><ref id="pbi12878-bib-0001"><mixed-citation publication-type="journal" id="pbi12878-cit-0001">
+<string-name>
+<surname>Boccalandro</surname>, <given-names>H.E.</given-names>
+</string-name>, <string-name>
+<surname>Rugnone</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Ploschuk</surname>, <given-names>E.L.</given-names>
+</string-name>, <string-name>
+<surname>Serna</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yanovsky</surname>, <given-names>M.J.</given-names>
+</string-name> and <string-name>
+<surname>Casal</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Phytochrome B enhances photosynthesis at the expense of water&#x02010;use efficiency in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>150</volume>, <fpage>1083</fpage>&#x02013;<lpage>1092</lpage>.<pub-id pub-id-type="pmid">19363093</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0002"><mixed-citation publication-type="journal" id="pbi12878-cit-0002">
+<string-name>
+<surname>Claeys</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Inze</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>) <article-title>The agony of choice: how plants balance growth and survival under water&#x02010;limiting conditions</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>162</volume>, <fpage>1768</fpage>&#x02013;<lpage>1779</lpage>.<pub-id pub-id-type="pmid">23766368</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0003"><mixed-citation publication-type="journal" id="pbi12878-cit-0003">
+<string-name>
+<surname>Clough</surname>, <given-names>S.J.</given-names>
+</string-name> and <string-name>
+<surname>Bent</surname>, <given-names>A.F.</given-names>
+</string-name> (<year>1998</year>) <article-title>Floral dip: a simplified method for Agrobacterium&#x02010;mediated transformation of <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>16</volume>, <fpage>735</fpage>&#x02013;<lpage>743</lpage>.<pub-id pub-id-type="pmid">10069079</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0004"><mixed-citation publication-type="journal" id="pbi12878-cit-0004">
+<string-name>
+<surname>Cutler</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Finkelstein</surname>, <given-names>R.R.</given-names>
+</string-name> and <string-name>
+<surname>Abrams</surname>, <given-names>S.R.</given-names>
+</string-name> (<year>2010</year>) <article-title>Abscisic acid: emergence of a core signaling network</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>61</volume>, <fpage>651</fpage>&#x02013;<lpage>679</lpage>.<pub-id pub-id-type="pmid">20192755</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0005"><mixed-citation publication-type="journal" id="pbi12878-cit-0005">
+<string-name>
+<surname>Desikan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Bright</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Henson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hancock</surname>, <given-names>J.T.</given-names>
+</string-name> and <string-name>
+<surname>Neill</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2004</year>) <article-title>ABA, hydrogen peroxide and nitric oxide signalling in stomatal guard cells</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>55</volume>, <fpage>205</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">14673026</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0006"><mixed-citation publication-type="journal" id="pbi12878-cit-0006">
+<string-name>
+<surname>Du</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Xiong</surname>, <given-names>L.</given-names>
+</string-name> (<year>2010</year>) <article-title>Characterization of the beta&#x02010;carotene hydroxylase gene DSM2 conferring drought and oxidative stress resistance by increasing xanthophylls and abscisic acid synthesis in rice</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>154</volume>, <fpage>1304</fpage>&#x02013;<lpage>1318</lpage>.<pub-id pub-id-type="pmid">20852032</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0007"><mixed-citation publication-type="journal" id="pbi12878-cit-0007">
+<string-name>
+<surname>Dubouzet</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Sakuma</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kasuga</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dubouzet</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>Miura</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Seki</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>OsDREB genes in rice, <italic>Oryza sativa</italic> L. encode transcription activators that function in drought&#x02010;, high&#x02010;salt&#x02010; and cold&#x02010;responsive gene expression</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>33</volume>, <fpage>751</fpage>&#x02013;<lpage>763</lpage>.<pub-id pub-id-type="pmid">12609047</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0008"><mixed-citation publication-type="journal" id="pbi12878-cit-0008">
+<string-name>
+<surname>Franklin</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Spartz</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>S.Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>PHYTOCHROME&#x02010;INTERACTING FACTOR 4 (PIF4) regulates auxin biosynthesis at high temperature</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>108</volume>, <fpage>20231</fpage>&#x02013;<lpage>20235</lpage>.<pub-id pub-id-type="pmid">22123947</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0009"><mixed-citation publication-type="journal" id="pbi12878-cit-0009">
+<string-name>
+<surname>Gao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>C.Q.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>A maize phytochrome&#x02010;interacting factor 3 improves drought and salt stress tolerance in rice</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>87</volume>, <fpage>413</fpage>&#x02013;<lpage>428</lpage>.<pub-id pub-id-type="pmid">25636202</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0010"><mixed-citation publication-type="journal" id="pbi12878-cit-0010">
+<string-name>
+<surname>Gonzalez</surname>, <given-names>C.V.</given-names>
+</string-name>, <string-name>
+<surname>Ibarra</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Piccoli</surname>, <given-names>P.N.</given-names>
+</string-name>, <string-name>
+<surname>Botto</surname>, <given-names>J.F.</given-names>
+</string-name> and <string-name>
+<surname>Boccalandro</surname>, <given-names>H.E.</given-names>
+</string-name> (<year>2012</year>) <article-title>Phytochrome B increases drought tolerance by enhancing ABA sensitivity in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>35</volume>, <fpage>1958</fpage>&#x02013;<lpage>1968</lpage>.<pub-id pub-id-type="pmid">22553988</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0011"><mixed-citation publication-type="journal" id="pbi12878-cit-0011">
+<string-name>
+<surname>Hetherington</surname>, <given-names>A.M.</given-names>
+</string-name> and <string-name>
+<surname>Woodward</surname>, <given-names>F.I.</given-names>
+</string-name> (<year>2003</year>) <article-title>The role of stomata in sensing and driving environmental change</article-title>. <source xml:lang="en">Nature</source>, <volume>424</volume>, <fpage>901</fpage>&#x02013;<lpage>908</lpage>.<pub-id pub-id-type="pmid">12931178</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0012"><mixed-citation publication-type="journal" id="pbi12878-cit-0012">
+<string-name>
+<surname>Hong</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Chao</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>M.Y.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>S.C.</given-names>
+</string-name> and <string-name>
+<surname>Kao</surname>, <given-names>C.H.</given-names>
+</string-name> (<year>2009</year>) <article-title>NaCl&#x02010;induced expression of glutathione reductase in roots of rice (<italic>Oryza sativa</italic> L.) seedlings is mediated through hydrogen peroxide but not abscisic acid</article-title>. <source xml:lang="en">Plant Soil</source>, <volume>320</volume>, <fpage>103</fpage>&#x02013;<lpage>115</lpage>.</mixed-citation></ref><ref id="pbi12878-bib-0013"><mixed-citation publication-type="journal" id="pbi12878-cit-0013">
+<string-name>
+<surname>Jones</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>A new look at stress: abscisic acid patterns and dynamics at high&#x02010;resolution</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>210</volume>, <fpage>38</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">26201893</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0014"><mixed-citation publication-type="journal" id="pbi12878-cit-0014">
+<string-name>
+<surname>Kim</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hanada</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kamiya</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>SOMNUS, a CCCH&#x02010;type zinc finger protein in <italic>Arabidopsis</italic>, negatively regulates light&#x02010;dependent seed germination downstream of PIL5</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>20</volume>, <fpage>1260</fpage>&#x02013;<lpage>1277</lpage>.<pub-id pub-id-type="pmid">18487351</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0015"><mixed-citation publication-type="journal" id="pbi12878-cit-0015">
+<string-name>
+<surname>Kim</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yoo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>PIF1&#x02010;interacting transcription factors and their binding sequence elements determine the in&#x000a0;vivo targeting sites of PIF1</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>28</volume>, <fpage>1388</fpage>&#x02013;<lpage>1405</lpage>.<pub-id pub-id-type="pmid">27303023</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0016"><mixed-citation publication-type="journal" id="pbi12878-cit-0016">
+<string-name>
+<surname>Koini</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Alvey</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Tilley</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Harberd</surname>, <given-names>N.P.</given-names>
+</string-name>, <string-name>
+<surname>Whitelam</surname>, <given-names>G.C.</given-names>
+</string-name> and <string-name>
+<surname>Franklin</surname>, <given-names>K.A.</given-names>
+</string-name> (<year>2009</year>) <article-title>High temperature&#x02010;mediated adaptations in plant architecture require the bHLH transcription factor PIF4</article-title>. <source xml:lang="en">Curr. Biol.</source>
+<volume>19</volume>, <fpage>408</fpage>&#x02013;<lpage>413</lpage>.<pub-id pub-id-type="pmid">19249207</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0017"><mixed-citation publication-type="journal" id="pbi12878-cit-0017">
+<string-name>
+<surname>Krzymuski</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cerdan</surname>, <given-names>P.D.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vinh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chory</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huq</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Casal</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2014</year>) <article-title>Phytochrome A antagonizes PHYTOCHROME INTERACTING FACTOR 1 to prevent over&#x02010;activation of photomorphogenesis</article-title>. <source xml:lang="en">Mol. Plant</source>, <volume>7</volume>, <fpage>1415</fpage>&#x02013;<lpage>1428</lpage>.<pub-id pub-id-type="pmid">25009301</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0018"><mixed-citation publication-type="journal" id="pbi12878-cit-0018">
+<string-name>
+<surname>Kudo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kidokoro</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mizoi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Todaka</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fernie</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Shinozaki</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Double overexpression of DREB and PIF transcription factors improves drought stress tolerance and cell elongation in transgenic plants</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>15</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>.</mixed-citation></ref><ref id="pbi12878-bib-0019"><mixed-citation publication-type="journal" id="pbi12878-cit-0019">
+<string-name>
+<surname>Kumar</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Swaminathan</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hudson</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Hudson</surname>, <given-names>M.E.</given-names>
+</string-name> (<year>2016</year>) <article-title>Evolutionary divergence of phytochrome protein function in <italic>Zea mays</italic> PIF3 signaling</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>67</volume>, <fpage>4231</fpage>&#x02013;<lpage>4240</lpage>.<pub-id pub-id-type="pmid">27262126</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0020"><mixed-citation publication-type="journal" id="pbi12878-cit-0020">
+<string-name>
+<surname>Lawlor</surname>, <given-names>D.W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Genetic engineering to improve plant performance under drought: physiological evaluation of achievements, limitations, and possibilities</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>64</volume>, <fpage>83</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">23162116</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0021"><mixed-citation publication-type="journal" id="pbi12878-cit-0021">
+<string-name>
+<surname>Leivar</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Monte</surname>, <given-names>E.</given-names>
+</string-name> (<year>2014</year>) <article-title>PIFs: systems integrators in plant development</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>26</volume>, <fpage>56</fpage>&#x02013;<lpage>78</lpage>.<pub-id pub-id-type="pmid">24481072</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0022"><mixed-citation publication-type="journal" id="pbi12878-cit-0022">
+<string-name>
+<surname>Leivar</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Quail</surname>, <given-names>P.H.</given-names>
+</string-name> (<year>2011</year>) <article-title>PIFs: pivotal components in a cellular signaling hub</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>16</volume>, <fpage>19</fpage>&#x02013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">20833098</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0023"><mixed-citation publication-type="journal" id="pbi12878-cit-0023">
+<string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>B.S.</given-names>
+</string-name> and <string-name>
+<surname>Xie</surname>, <given-names>X.Z.</given-names>
+</string-name> (<year>2012</year>) <article-title>Phytochrome B control of total leaf area and stomatal density affects drought tolerance in rice</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>78</volume>, <fpage>289</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">22138855</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0024"><mixed-citation publication-type="journal" id="pbi12878-cit-0024">
+<string-name>
+<surname>Liu</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.C.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.B.</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>, <given-names>C.C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>OsbZIP71, a bZIP transcription factor, confers salinity and drought tolerance in rice</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>84</volume>, <fpage>19</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">23918260</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0025"><mixed-citation publication-type="journal" id="pbi12878-cit-0025">
+<string-name>
+<surname>L&#x000fc;</surname>, <given-names>P.T.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>X.Q.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>F.W.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>J.P.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>C.Q.</given-names>
+</string-name> (<year>2013</year>) <article-title>RhEXPA4, a rose expansin gene, modulates leaf growth and confers drought and salt tolerance to <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Planta</source>, <volume>237</volume>, <fpage>1547</fpage>&#x02013;<lpage>1559</lpage>.<pub-id pub-id-type="pmid">23503758</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0026"><mixed-citation publication-type="journal" id="pbi12878-cit-0026">
+<string-name>
+<surname>de Lucas</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Prat</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>PIFs get BRright: PHYTOCHROME INTERACTING FACTORs as integrators of light and hormonal signals</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>202</volume>, <fpage>1126</fpage>&#x02013;<lpage>1141</lpage>.<pub-id pub-id-type="pmid">24571056</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0027"><mixed-citation publication-type="journal" id="pbi12878-cit-0027">
+<string-name>
+<surname>Marowa</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>A.M.</given-names>
+</string-name> and <string-name>
+<surname>Kong</surname>, <given-names>Y.Z.</given-names>
+</string-name> (<year>2016</year>) <article-title>Expansins: roles in plant growth and potential applications in crop improvement</article-title>. <source xml:lang="en">Plant Cell Rep.</source>
+<volume>35</volume>, <fpage>949</fpage>&#x02013;<lpage>965</lpage>.<pub-id pub-id-type="pmid">26888755</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0028"><mixed-citation publication-type="journal" id="pbi12878-cit-0028">
+<string-name>
+<surname>Mori</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nomura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ooka</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ishizaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yokota</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sugimoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Okabe</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2002</year>) <article-title>Isolation and characterization of a rice dwarf mutant with a defect in brassinosteroid biosynthesis</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>130</volume>, <fpage>1152</fpage>&#x02013;<lpage>1161</lpage>.<pub-id pub-id-type="pmid">12427982</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0029"><mixed-citation publication-type="journal" id="pbi12878-cit-0029">
+<string-name>
+<surname>Murata</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>, <given-names>I.C.</given-names>
+</string-name> and <string-name>
+<surname>Munemasa</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Diverse stomatal signaling and the signal integration mechanism</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>66</volume>, <fpage>369</fpage>&#x02013;<lpage>392</lpage>.<pub-id pub-id-type="pmid">25665132</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0030"><mixed-citation publication-type="journal" id="pbi12878-cit-0030">
+<string-name>
+<surname>Nakamura</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yamashino</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Murakami</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Mizuno</surname>, <given-names>T.</given-names>
+</string-name> (<year>2007</year>) <article-title>Characterization of a set of phytochrome&#x02010;interacting factor&#x02010;like bHLH proteins in <italic>Oryza sativa</italic>
+</article-title>. <source xml:lang="en">Biosci. Biotechnol. Biochem.</source>
+<volume>71</volume>, <fpage>1183</fpage>&#x02013;<lpage>1191</lpage>.<pub-id pub-id-type="pmid">17485859</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0031"><mixed-citation publication-type="journal" id="pbi12878-cit-0031">
+<string-name>
+<surname>Nakashima</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>, <given-names>L.S.</given-names>
+</string-name>, <string-name>
+<surname>Van Nguyen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fujita</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Maruyama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Todaka</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>Functional analysis of a NAC&#x02010;type transcription factor OsNAC6 involved in abiotic and biotic stress&#x02010;responsive gene expression in rice</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>51</volume>, <fpage>617</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">17587305</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0032"><mixed-citation publication-type="journal" id="pbi12878-cit-0032">
+<string-name>
+<surname>Ni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tepperman</surname>, <given-names>J.M.</given-names>
+</string-name> and <string-name>
+<surname>Quail</surname>, <given-names>P.H.</given-names>
+</string-name> (<year>1998</year>) <article-title>PIF3, a phytochrome&#x02010;interacting factor necessary for normal photoinduced signal transduction, is a novel basic helix&#x02010;loop&#x02010;helix protein</article-title>. <source xml:lang="en">Cell</source>, <volume>95</volume>, <fpage>657</fpage>&#x02013;<lpage>667</lpage>.<pub-id pub-id-type="pmid">9845368</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0033"><mixed-citation publication-type="journal" id="pbi12878-cit-0033">
+<string-name>
+<surname>Oh</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kamiya</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Choi</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>) <article-title>Genome&#x02010;wide analysis of genes targeted by PHYTOCHROME INTERACTING FACTOR 3&#x02010;LIKE5 during seed germination in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>21</volume>, <fpage>403</fpage>&#x02013;<lpage>419</lpage>.<pub-id pub-id-type="pmid">19244139</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0034"><mixed-citation publication-type="journal" id="pbi12878-cit-0034">
+<string-name>
+<surname>Oh</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>J.Y.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>Z.Y.</given-names>
+</string-name> (<year>2012</year>) <article-title>Interaction between BZR1 and PIF4 integrates brassinosteroid and environmental responses</article-title>. <source xml:lang="en">Nat. Cell Biol.</source>
+<volume>14</volume>, <fpage>802</fpage>&#x02013;<lpage>809</lpage>.<pub-id pub-id-type="pmid">22820378</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0035"><mixed-citation publication-type="journal" id="pbi12878-cit-0035">
+<string-name>
+<surname>Ono</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ishida</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yamashino</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tabata</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Mizuno</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>) <article-title>Genomewide characterization of the light&#x02010;responsive and clock&#x02010;controlled output pathways in Lotus japonicus with special emphasis of its uniqueness</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>51</volume>, <fpage>1800</fpage>&#x02013;<lpage>1814</lpage>.<pub-id pub-id-type="pmid">20833628</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0036"><mixed-citation publication-type="journal" id="pbi12878-cit-0036">
+<string-name>
+<surname>Osakabe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi&#x02010;Shinozaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shinozaki</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Tran</surname>, <given-names>L.S.</given-names>
+</string-name> (<year>2014</year>) <article-title>ABA control of plant macroelement membrane transport systems in response to water deficit and high salinity</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>202</volume>, <fpage>35</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">24283512</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0037"><mixed-citation publication-type="journal" id="pbi12878-cit-0037">
+<string-name>
+<surname>Pizzio</surname>, <given-names>G.A.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Antoni</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez&#x02010;Guzman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yunta</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Merilo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kollist</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>The PYL4 A194T mutant uncovers a key role of PYR1&#x02010;LIKE4/protein PHOSPHATASE 2CA interaction for abscisic acid signaling and plant drought resistance</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>163</volume>, <fpage>441</fpage>&#x02013;<lpage>455</lpage>.<pub-id pub-id-type="pmid">23864556</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0038"><mixed-citation publication-type="journal" id="pbi12878-cit-0038">
+<string-name>
+<surname>Schroeder</surname>, <given-names>J.I.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Hugouvieux</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kwak</surname>, <given-names>J.M.</given-names>
+</string-name> and <string-name>
+<surname>Waner</surname>, <given-names>D.</given-names>
+</string-name> (<year>2001</year>) <article-title>Guard cell signal transduction</article-title>. <source xml:lang="en">Annu. Rev. Plant Physiol. Plant Mol. Biol.</source>
+<volume>52</volume>, <fpage>627</fpage>&#x02013;<lpage>658</lpage>.<pub-id pub-id-type="pmid">11337411</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0039"><mixed-citation publication-type="journal" id="pbi12878-cit-0039">
+<string-name>
+<surname>Shen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Castillon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Majee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Downie</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Huq</surname>, <given-names>E.</given-names>
+</string-name> (<year>2008</year>) <article-title>Light&#x02010;induced phosphorylation and degradation of the negative regulator phytochrome&#x02010;interacting factor1 from <italic>Arabidopsis</italic> depend upon its direct physical interactions with photoactivated phytochromes</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>20</volume>, <fpage>1586</fpage>&#x02013;<lpage>1602</lpage>.<pub-id pub-id-type="pmid">18539749</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0040"><mixed-citation publication-type="journal" id="pbi12878-cit-0040">
+<string-name>
+<surname>Staneloni</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Batiller</surname>, <given-names>M.J.</given-names>
+</string-name> and <string-name>
+<surname>Casal</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Abscisic acid, high&#x02010;light, and oxidative stress down&#x02010;regulate a photosynthetic gene via a promoter motif not involved in phytochrome&#x02010;mediated transcriptional regulation</article-title>. <source xml:lang="en">Mol. Plant</source>, <volume>1</volume>, <fpage>75</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">20031916</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0041"><mixed-citation publication-type="journal" id="pbi12878-cit-0041">
+<string-name>
+<surname>Stavang</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Gallego&#x02010;Bartolome</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Asami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Martinez</surname>, <given-names>J.L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Hormonal regulation of temperature&#x02010;induced growth in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>60</volume>, <fpage>589</fpage>&#x02013;<lpage>601</lpage>.<pub-id pub-id-type="pmid">19686536</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0042"><mixed-citation publication-type="journal" id="pbi12878-cit-0042">
+<string-name>
+<surname>Tang</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.H.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>J.H.</given-names>
+</string-name> and <string-name>
+<surname>Xiong</surname>, <given-names>L.Z.</given-names>
+</string-name> (<year>2012</year>) <article-title>Constitutive activation of transcription factor OsbZIP46 improves drought tolerance in rice</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>158</volume>, <fpage>1755</fpage>&#x02013;<lpage>1768</lpage>.<pub-id pub-id-type="pmid">22301130</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0043"><mixed-citation publication-type="journal" id="pbi12878-cit-0043">
+<string-name>
+<surname>Todaka</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nakashima</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Maruyama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kidokoro</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Osakabe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Matsukura</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Rice phytochrome&#x02010;interacting factor&#x02010;like protein OsPIL1 functions as a key regulator of internode elongation and induces a morphological response to drought stress</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>109</volume>, <fpage>15947</fpage>&#x02013;<lpage>15952</lpage>.<pub-id pub-id-type="pmid">22984180</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0044"><mixed-citation publication-type="journal" id="pbi12878-cit-0044">
+<string-name>
+<surname>Wang</surname>, <given-names>X.S.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>G.L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.L.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>W.R.</given-names>
+</string-name> and <string-name>
+<surname>Zhu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Genome&#x02010;scale identification and analysis of LEA genes in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Plant Sci.</source>
+<volume>172</volume>, <fpage>414</fpage>&#x02013;<lpage>420</lpage>.</mixed-citation></ref><ref id="pbi12878-bib-0045"><mixed-citation publication-type="journal" id="pbi12878-cit-0045">
+<string-name>
+<surname>Wang</surname>, <given-names>N.L.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>B.Z.</given-names>
+</string-name> and <string-name>
+<surname>Xiong</surname>, <given-names>L.Z.</given-names>
+</string-name> (<year>2011</year>) <article-title>Identification of a cluster of PR4&#x02010;like genes involved in stress responses in rice</article-title>. <source xml:lang="en">J. Plant Physiol.</source>
+<volume>168</volume>, <fpage>2212</fpage>&#x02013;<lpage>2224</lpage>.<pub-id pub-id-type="pmid">21955397</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0046"><mixed-citation publication-type="journal" id="pbi12878-cit-0046">
+<string-name>
+<surname>Wei</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2011</year>) <article-title>An a&#x02010;expansin, VfEXPA1, is involved in regulation of stomatal movement in <italic>Vicia faba</italic> L</article-title>. <source xml:lang="en">Chin. Sci. Bull.</source>
+<volume>56</volume>, <fpage>3531</fpage>&#x02013;<lpage>3537</lpage>.</mixed-citation></ref><ref id="pbi12878-bib-0047"><mixed-citation publication-type="journal" id="pbi12878-cit-0047">
+<string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Trieu</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Radhakrishnan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kwok</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Brassinosteroids regulate grain filling in rice</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>20</volume>, <fpage>2130</fpage>&#x02013;<lpage>2145</lpage>.<pub-id pub-id-type="pmid">18708477</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0048"><mixed-citation publication-type="journal" id="pbi12878-cit-0048">
+<string-name>
+<surname>Wu</surname>, <given-names>F.Q.</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>, <given-names>P.K.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.L.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>W.W.</given-names>
+</string-name>, <string-name>
+<surname>Heng</surname>, <given-names>Y.Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Plasma membrane receptor&#x02010;like kinase leaf panicle 2 acts downstream of the DROUGHT AND SALT TOLERANCE transcription factor to regulate drought sensitivity in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>66</volume>, <fpage>271</fpage>&#x02013;<lpage>281</lpage>.<pub-id pub-id-type="pmid">25385766</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0049"><mixed-citation publication-type="journal" id="pbi12878-cit-0049">
+<string-name>
+<surname>Xu</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Bi</surname>, <given-names>Y.R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>FPF1 transgene leads to altered flowering time and root development in rice</article-title>. <source xml:lang="en">Plant Cell Rep.</source>
+<volume>24</volume>, <fpage>79</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">15666165</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0050"><mixed-citation publication-type="journal" id="pbi12878-cit-0050">
+<string-name>
+<surname>Yu</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.P.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Q.S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Arabidopsis enhanced drought tolerance1/HOMEODOMAIN GLABROUS11 confers drought tolerance in transgenic rice without yield penalty</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>162</volume>, <fpage>1378</fpage>&#x02013;<lpage>1391</lpage>.<pub-id pub-id-type="pmid">23735506</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0051"><mixed-citation publication-type="journal" id="pbi12878-cit-0051">
+<string-name>
+<surname>Zhang</surname>, <given-names>L.Y.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>M.Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>J.Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Antagonistic HLH/bHLH transcription factors mediate brassinosteroid regulation of cell elongation and plant development in rice and Arabidopsis</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>21</volume>, <fpage>3767</fpage>&#x02013;<lpage>3780</lpage>.<pub-id pub-id-type="pmid">20009022</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0052"><mixed-citation publication-type="journal" id="pbi12878-cit-0052">
+<string-name>
+<surname>Zhang</surname>, <given-names>X.Q.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>P.C.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>Y.M.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>X.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Overexpression of the <italic>Arabidopsis</italic> alpha&#x02010;expansin gene AtEXPA1 accelerates stomatal opening by decreasing the volumetric elastic modulus</article-title>. <source xml:lang="en">Plant Cell Rep.</source>
+<volume>30</volume>, <fpage>27</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">20976459</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0053"><mixed-citation publication-type="journal" id="pbi12878-cit-0053">
+<string-name>
+<surname>Zhang</surname>, <given-names>D.P.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>X.J.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>W.F.</given-names>
+</string-name>, <string-name>
+<surname>Balu&#x00161;ka</surname>, <given-names>F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Rice G&#x02010;protein subunits qPE9&#x02010;1 and RGB1 play distinct roles in abscisic acid responses and drought adaptation</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>66</volume>, <fpage>6371</fpage>&#x02013;<lpage>6384</lpage>.<pub-id pub-id-type="pmid">26175353</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0054"><mixed-citation publication-type="journal" id="pbi12878-cit-0054">
+<string-name>
+<surname>Zhu</surname>, <given-names>G.H.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>N.H.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>J.H.</given-names>
+</string-name> (<year>2009</year>) <article-title>Glucose&#x02010;induced delay of seed germination in rice is mediated by the suppression of ABA catabolism rather than an enhancement of ABA biosynthesis</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>50</volume>, <fpage>644</fpage>&#x02013;<lpage>651</lpage>.<pub-id pub-id-type="pmid">19208695</pub-id></mixed-citation></ref><ref id="pbi12878-bib-0055"><mixed-citation publication-type="journal" id="pbi12878-cit-0055">
+<string-name>
+<surname>Zou</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>F.</given-names>
+</string-name> (<year>2008</year>) <article-title>A bZIP transcription factor, OsABI5, is involved in rice fertility and stress tolerance</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>66</volume>, <fpage>675</fpage>&#x02013;<lpage>683</lpage>.<pub-id pub-id-type="pmid">18236009</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1058 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6330539</article-id><article-id pub-id-type="doi">10.1111/pbi.12957</article-id><article-id pub-id-type="publisher-id">PBI12957</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>An actin&#x02010;depolymerizing factor from the halophyte smooth cordgrass, <italic>Spartina alterniflora</italic> (<italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>), is superior to its rice homolog (<italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic>) in conferring drought and salt tolerance when constitutively overexpressed in rice</article-title><alt-title alt-title-type="left-running-head"><italic>Sonali Sengupta</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12957-cr-0001" contrib-type="author"><name><surname>Sengupta</surname><given-names>Sonali</given-names></name><xref ref-type="aff" rid="pbi12957-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="pbi12957-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12957-cr-0002" contrib-type="author"><name><surname>Mangu</surname><given-names>Venkata</given-names></name><xref ref-type="aff" rid="pbi12957-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12957-curr-0001">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="pbi12957-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12957-cr-0003" contrib-type="author"><name><surname>Sanchez</surname><given-names>Luis</given-names></name><xref ref-type="aff" rid="pbi12957-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12957-curr-0002">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12957-cr-0004" contrib-type="author"><name><surname>Bedre</surname><given-names>Renesh</given-names></name><xref ref-type="aff" rid="pbi12957-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12957-curr-0003">
+<sup>5</sup>
+</xref></contrib><contrib id="pbi12957-cr-0005" contrib-type="author"><name><surname>Joshi</surname><given-names>Rohit</given-names></name><xref ref-type="aff" rid="pbi12957-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12957-curr-0004">
+<sup>6</sup>
+</xref></contrib><contrib id="pbi12957-cr-0006" contrib-type="author"><name><surname>Rajasekaran</surname><given-names>Kanniah</given-names></name><xref ref-type="aff" rid="pbi12957-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12957-cr-0007" contrib-type="author" corresp="yes"><name><surname>Baisakh</surname><given-names>Niranjan</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8733-0923</contrib-id><address><email>nbaisakh@agcenter.lsu.edu</email></address><xref ref-type="aff" rid="pbi12957-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12957-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Plant</named-content>
+<named-content content-type="organisation-division">Environmental and Soil Sciences</named-content>
+<institution>Louisiana State University Agricultural Center</institution>
+<named-content content-type="city">Baton Rouge</named-content>
+<named-content content-type="country-part">LA</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12957-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Southern Regional Research Center</named-content>
+<institution>USDA&#x02010;ARS</institution>
+<named-content content-type="city">New Orleans</named-content>
+<named-content content-type="country-part">LA</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12957-curr-0001"><label><sup>3</sup></label>Present address:
+<named-content content-type="organisation-division">Department of Biochemistry</named-content>
+<institution>School of Dental Medicine</institution>
+<institution>University of Pennsylvania</institution>
+<named-content content-type="city">Philadelphia</named-content>
+<named-content content-type="country-part">PA</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12957-curr-0002"><label><sup>4</sup></label>Present address:
+<named-content content-type="organisation-division">Escuela Superior Polit&#x000e9;cnica del Litoral</named-content>
+<institution>Centro de Investigaciones Biotecnol&#x000f3;gicas del Ecuador</institution>
+<named-content content-type="city">Guayaquil</named-content>
+<country country="EC">Ecuador</country>
+</aff><aff id="pbi12957-curr-0003"><label><sup>5</sup></label>Present address:
+<institution>Texas A&#x00026;M AgriLife Research and Extension Center</institution>
+<named-content content-type="city">Weslaco</named-content>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12957-curr-0004"><label><sup>6</sup></label>Present address:
+<named-content content-type="organisation-division">School of Life Sciences</named-content>
+<institution>Jawaharlal Nehru University</institution>
+<named-content content-type="city">New Delhi</named-content>
+<country country="IN">India</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel 1 225 5781300; fax 1 225 578 1403; email <email>nbaisakh@agcenter.lsu.edu</email>)</corresp><fn fn-type="equal" id="pbi12957-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>28</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2019</year></pub-date><volume>17</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/pbi.2019.17.issue-1</issue-id><fpage>188</fpage><lpage>205</lpage><history><date date-type="received"><day>07</day><month>1</month><year>2018</year></date><date date-type="rev-recd"><day>18</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>25</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-17-188.pdf"/><abstract id="pbi12957-abs-0001"><title>Summary</title><p>Actin&#x02010;depolymerizing factors (<styled-content style="fixed-case">ADF</styled-content>s) maintain the cellular actin network dynamics by regulating severing and disassembly of actin filaments in response to environmental cues. An <italic><styled-content style="fixed-case">ADF</styled-content></italic> isolated from a monocot halophyte, <italic>Spartina alterniflora</italic> (<italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>), imparted significantly higher level of drought and salinity tolerance when expressed in rice than its rice homologue <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic>. Sa<styled-content style="fixed-case">ADF</styled-content>2 differs from Os<styled-content style="fixed-case">ADF</styled-content>2 by a few amino acid residues, including a substitution in the regulatory phosphorylation site serine&#x02010;6, which accounted for its weak interaction with Os<styled-content style="fixed-case">CDPK</styled-content>6 (calcium&#x02010;dependent protein kinase), thus resulting in an increased efficacy of Sa<styled-content style="fixed-case">ADF</styled-content>2 and enhanced cellular actin dynamics. Sa<styled-content style="fixed-case">ADF</styled-content>2 overexpression preserved the actin filament organization better in rice protoplasts under desiccation stress. The predicted tertiary structure of Sa<styled-content style="fixed-case">ADF</styled-content>2 showed a longer F&#x02010;loop than Os<styled-content style="fixed-case">ADF</styled-content>2 that could have contributed to higher actin&#x02010;binding affinity and rapid F&#x02010;actin depolymerization in&#x000a0;vitro by Sa<styled-content style="fixed-case">ADF</styled-content>2. Rice transgenics constitutively overexpressing <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> (<italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>&#x02010;<styled-content style="fixed-case">OE</styled-content>) showed better growth, relative water content, and photosynthetic and agronomic yield under drought conditions than wild&#x02010;type (<styled-content style="fixed-case">WT</styled-content>) and <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> overexpressers (<italic>Os<styled-content style="fixed-case">ADF</styled-content></italic>2&#x02010;<styled-content style="fixed-case">OE</styled-content>). <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>&#x02010;<styled-content style="fixed-case">OE</styled-content> preserved intact grana structure after prolonged drought stress, whereas <styled-content style="fixed-case">WT</styled-content> and <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic>&#x02010;<styled-content style="fixed-case">OE</styled-content> presented highly damaged and disorganized grana stacking. The possible role of <styled-content style="fixed-case">ADF</styled-content>2 in transactivation was hypothesized from the comparative transcriptome analyses, which showed significant differential expression of stress&#x02010;related genes including interacting partners of <styled-content style="fixed-case">ADF</styled-content>2 in overexpressers. Identification of a complex, differential interactome decorating or regulating stress&#x02010;modulated cytoskeleton driven by <styled-content style="fixed-case">ADF</styled-content> isoforms will lead us to key pathways that could be potential target for genome engineering to improve abiotic stress tolerance in agricultural crops.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12957-kwd-0001">actin&#x02010;depolymerizing factor</kwd><kwd id="pbi12957-kwd-0002">drought</kwd><kwd id="pbi12957-kwd-0003">halophyte</kwd><kwd id="pbi12957-kwd-0004"><italic>Oryza sativa</italic></kwd><kwd id="pbi12957-kwd-0005">salinity</kwd><kwd id="pbi12957-kwd-0006"><italic>Spartina alterniflora</italic></kwd></kwd-group><funding-group><award-group><funding-source>United States Department of Agriculture, National Institute of Agriculture</funding-source></award-group></funding-group><counts><fig-count count="9"/><table-count count="0"/><page-count count="18"/><word-count count="11571"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12957</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:14.01.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="pbi12957-ntgp-0001"><fn id="pbi12957-note-1002"><p>Accession numbers: RNA&#x02010;seq raw reads deposited NCBI SRA database, Acc. No. PRJNA393177.</p></fn></fn-group></notes></front><body><sec id="pbi12957-sec-0001"><title>Introduction</title><p>The cytoskeleton is one of the most dynamic cellular components, which modulates its architecture by responding constantly to various environmental stimuli. In plants, cytoskeleton dynamics is critical for numerous cellular processes, such as cell division, morphogenesis, polarized cell expansion, root and pollen tube tip growth, cytoplasmic streaming/cyclosis (Menand <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0041" ref-type="ref">2007</xref>; Pollard and Cooper, <xref rid="pbi12957-bib-0048" ref-type="ref">2009</xref>), cell&#x02010;to&#x02010;cell communication through plasmodesmata (Higaki <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0022" ref-type="ref">2008</xref>), perception of gravitropism (Kordyum <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0032" ref-type="ref">2009</xref>; Stanga <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0061" ref-type="ref">2009</xref>), regulation of cell shape (Smith and Oppenheimer, <xref rid="pbi12957-bib-0055" ref-type="ref">2005</xref>), and in response to wounding, pathogen attack, hormone distribution and cold acclimation (Deng <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0018" ref-type="ref">2010</xref>; Hussey <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0024" ref-type="ref">2006</xref>; Staiger, <xref rid="pbi12957-bib-0058" ref-type="ref">2000</xref>; Staiger and Blanchoin, <xref rid="pbi12957-bib-0059" ref-type="ref">2006</xref>; Wasteneys and Galway, <xref rid="pbi12957-bib-0067" ref-type="ref">2003</xref>).</p><p>Filamentous actin (F&#x02010;actin) network constitutes majority of the cytoskeleton (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0035" ref-type="ref">2015</xref>). The stochastic dynamics of the F&#x02010;actin via polymerization, depolymerization, severing, nucleation and large&#x02010;scale cellular translocation events affect the overall cytoskeletal integrity (Augustine <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0005" ref-type="ref">2011</xref>). Actin remodelling plays an important role in plant cell, tissue, and organ development reprogramming, cell division and cellular organelles assembly. Actin also predictably participates in nucleosome occupancy, chromatin modification and regulation of gene expression (Bettinger <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0011" ref-type="ref">2004</xref>; Miralles and Visa, <xref rid="pbi12957-bib-0042" ref-type="ref">2006</xref>). Actin, in coordination with a large group (over 70 families) of both cytoplasmic and nuclear actin&#x02010;binding proteins (ABPs), provides the cytoskeleton with high plasticity during growth and environmental challenges (Augustine <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0005" ref-type="ref">2011</xref>; Deng <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0018" ref-type="ref">2010</xref>; Tholl <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0062" ref-type="ref">2011</xref>). ABPs, singly or in combination, regulate the stoichiometric ratio between the free monomeric G&#x02010;actin (globular actin) and constantly depolymerizing F&#x02010;actin in plant cell. Of the total pool of actin moieties, only 5% usually remains in filamentous state at a given time (Gibbon <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0020" ref-type="ref">1999</xref>; Snowman <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0056" ref-type="ref">2002</xref>). The constant entry and exit of the G&#x02010;actin pool within the cytoskeletal mesh requires a number of ABPs and their functional partners to be expressed and active during the process.</p><p>Actin&#x02010;depolymerizing factors (ADFs)/cofilins are a family of ubiquitous, low molecular mass (15 to 20&#x000a0;kDa) ABPs that bind both the G&#x02010;actin and F&#x02010;actin in plants, and their functions are regulated by cellular pH, ionic strength and the availability of other binding partners (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0034" ref-type="ref">2010</xref>). ADF is reportedly essential for plant viability (Augustine <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0004" ref-type="ref">2008</xref>). By binding to the ADP&#x02010;bound form of actin, ADFs sever actin filaments and thus provide more barbed filament ends for polymerization (Cl&#x000e9;ment <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0015" ref-type="ref">2009</xref>; Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0034" ref-type="ref">2010</xref>; Staiger <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0060" ref-type="ref">2009</xref>; Tian <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0064" ref-type="ref">2009</xref>). ADFs also increase the rate of dissociation of F&#x02010;actin monomers from the pointed ends by changing the helical twist of the actin filament, thus accelerating the dissociation of subunits (Bamburg and Bernstein, <xref rid="pbi12957-bib-0009" ref-type="ref">2008</xref>; Bowman <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0012" ref-type="ref">2000</xref>; Cooper and Schafer, <xref rid="pbi12957-bib-0016" ref-type="ref">2000</xref>; Daher <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0017" ref-type="ref">2011</xref>). These two activities together make ADFs to be the major regulator of actin dynamics in plant cell, with important functional association with other regulatory proteins, for example actin&#x02010;interacting protein 1 (AIP1, Amberg <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0003" ref-type="ref">1995</xref>; Iida and Yahara, <xref rid="pbi12957-bib-0025" ref-type="ref">1999</xref>; Konzok <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0031" ref-type="ref">1999</xref>) and calcium&#x02010;dependent protein kinase (CDPK, Smertenko <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0054" ref-type="ref">1998</xref>).</p><p>To date, only a few plant ADFs, such as <italic>Arabidopsis</italic> (Bowman <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0012" ref-type="ref">2000</xref>; Carlier <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0013" ref-type="ref">1997</xref>; Nan <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0085" ref-type="ref">2017</xref>; Tholl <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0062" ref-type="ref">2011</xref>), maize <italic>ZmADF</italic> (Gungabissoon <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0021" ref-type="ref">1998</xref>) and a pollen&#x02010;specific ADF from lily (Allwood <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0080" ref-type="ref">2002</xref>), have been biochemically characterized. The inhibition of ADF activity by phosphatidylinositol 4, 5&#x02010;bisphosphate and phosphatidylinositol 4&#x02010;monophosphate and that they can also shut down phospholipase C activity reveal a close association of ADFs with phosphoinositide signalling in plants (Gungabissoon <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0021" ref-type="ref">1998</xref>). Phosphorylation of plant ADFs at the conserved serine&#x02010;6 residue by CDPK inhibits their depolymerization activity (Allwood <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0002" ref-type="ref">2001</xref>; Smertenko <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0054" ref-type="ref">1998</xref>), which suggests that Ca<sup>2+</sup> status of the cell may play an important role in the regulation of ADF activity.</p><p>Drought and salinity are the two most important environmental stressors that negatively impact the growth and productivity of agricultural crops, including rice, arguably the most important global food crop. Plants, as sessile organisms, have developed strategies to adapt to these stresses by physiological and biochemical adjustments achieved through the coordinated expression of genes involved in stress&#x02010;responsive gene regulatory networks. Many ABPs influence actin filament dynamics in response to environmental signals (Hussey <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0024" ref-type="ref">2006</xref>; McCurdy <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0040" ref-type="ref">2001</xref>; Staiger and Blanchoin, <xref rid="pbi12957-bib-0059" ref-type="ref">2006</xref>; Yokota and Shimmen, <xref rid="pbi12957-bib-0071" ref-type="ref">2006</xref>). Plant cytoskeleton is thus emerging as an active receiver of environmental stress signals through the recruitment of ABPs, including ADFs (Drobak <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0084" ref-type="ref">2004</xref>; Solanke and Sharma, <xref rid="pbi12957-bib-0057" ref-type="ref">2008</xref>). However, there are only a few reports of implications of ADFs in abiotic stress response. <italic>TaADF</italic> was regulated specifically under cold stress in wheat (Ouellet <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0044" ref-type="ref">2001</xref>). A hydrophobic ADF mutant (valine 69 to alanine) was shown to rescue a partial RNA interference&#x02010;mediated stunted growth phenotype at a permissive temperature (20 to 25&#x000a0;&#x000b0;C) but not at 32&#x000a0;&#x000b0;C, a restrictive temperature (Vidali <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0066" ref-type="ref">2009</xref>) in temperature&#x02010;sensitive candidates of moss, <italic>Physcomitrella patens</italic>. Freezing induced an ADF activity leading to depolymerization of actin filaments in oilseed rape (Egierszdorff and Kacperska, <xref rid="pbi12957-bib-0019" ref-type="ref">2001</xref>). ADF was up&#x02010;regulated in rice after 2 to 6&#x000a0;days of drought stress (Ali and Komatsu, <xref rid="pbi12957-bib-0001" ref-type="ref">2006</xref>). Rice <italic>OsADF3</italic> was shown to be induced under stress and enhance drought stress tolerance in <italic>Arabidopsis</italic> (Huang <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0023" ref-type="ref">2012</xref>).</p><p>Halophytes adapt to salt and drought by virtue of their superior alleles of the genes involved ion homeostasis, osmotic adjustment, ion extrusion and compartmentalization in comparison with glycophytes (Zhu, <xref rid="pbi12957-bib-0076" ref-type="ref">2000</xref>). Many halophytes, such as <italic>Thellungiella halophila</italic> (Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0069" ref-type="ref">2012</xref>), <italic>Mesembryanthemum crystallinum</italic> (Chiang <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0081" ref-type="ref">2016</xref>; Tsukagoshi <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0065" ref-type="ref">2015</xref>), <italic>Porteresia coarctata</italic> (Majee <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0039" ref-type="ref">2004</xref>), have been proved to be elite source of stress tolerance genes for bioprospecting. A perennial grass halophyte, <italic>Spartina alterniflora</italic> (Loisel) (smooth cordgrass), is reported to grow in salinity ranging from 5 to 32 psu, that is double the strength of marine water (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0007" ref-type="ref">2008</xref>). Along with <italic>P.&#x000a0;coarctata</italic>,<italic> S.&#x000a0;alterniflora</italic> was proposed to be a model halophyte grass for monocotyledonous crops (Joshi <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0030" ref-type="ref">2015</xref>; Subudhi and Baisakh, <xref rid="pbi12957-bib-0098" ref-type="ref">2011</xref>). Bioprospecting of <italic>S.&#x000a0;alterniflora</italic> genes has been reported to improve salinity and drought stress resistance when overexpressed in model plant <italic>Arabidopsis</italic> and rice (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>; Joshi <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0028" ref-type="ref">2013</xref>, <xref rid="pbi12957-bib-0029" ref-type="ref">2014</xref>). The present study emanates from the hypothesis that modulation of cytoskeleton architecture by manipulating actin turnover provides abiotic stress resistance in crops and that an ADF of a halophyte is superior to its homolog from the glycophytic rice. Here, we report on the biochemical and functional implications of an ADF from <italic>S.&#x000a0;alterniflora</italic> (<italic>SaADF2</italic>) in drought and salt stress response when overexpressed in rice. Further, its superiority over rice homolog <italic>OsADF2</italic> was studied by overexpressing <italic>OsADF2</italic>. Structural differences between the two highly identical proteins as possible reasons of the functional superiority of the former in conferring abiotic stress tolerance are discussed.</p></sec><sec id="pbi12957-sec-0002"><title>Results</title><sec id="pbi12957-sec-0003"><title>
+<italic>SaADF2</italic> was highly identical to OsADF2 and nuclear localized</title><p>A 438&#x02010;bp&#x02010;long cDNA isolated from abiotic stress&#x02010;responsive transcriptome of the grass halophyte <italic>Spartina alterniflora</italic> (Baisakh and Mangu, <xref rid="pbi12957-bib-0006" ref-type="ref">2016</xref>) codes for a conserved and ubiquitous actin&#x02010;binding protein (ADF) of 145 amino acid residues. Protein sequence comparison of <italic>S.&#x000a0;alterniflora</italic> ADF with ADF gene family members from rice showed that <italic>S.&#x000a0;alterniflora</italic> ADF was &#x0003e;95% identical to rice ADF isoform, OsADF2, and hence was annotated as SaADF2 (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>a), which clustered with AtADF6 from <italic>Arabidopsis</italic> (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>b). SaADF2 showed nuclear localization (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S1</xref>), as was observed for OsADF2 by Huang <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0023" ref-type="ref">2012</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Sequence analysis of actin depolymerization factor (Sa<styled-content style="fixed-case">ADF</styled-content>2) of <italic>Spartina alterniflora</italic>. Multiple sequence alignment of Sa<styled-content style="fixed-case">ADF</styled-content>2 and rice <styled-content style="fixed-case">ADF</styled-content>s (a). Phylogenetic relationship among Sa<styled-content style="fixed-case">ADF</styled-content>2, rice and <italic>Arabidopsis </italic>
+<styled-content style="fixed-case">ADF</styled-content>s (b). Homology modelling&#x02010;based tertiary structures of Os<styled-content style="fixed-case">ADF</styled-content>2 and Sa<styled-content style="fixed-case">ADF</styled-content>2 (c). Ribbon models of Os<styled-content style="fixed-case">ADF</styled-content>2 (rainbow) and Sa<styled-content style="fixed-case">ADF</styled-content>2 (blue) aligned in three&#x02010;dimensional space (right), with the amino acid differences positioned on Sa<styled-content style="fixed-case">ADF</styled-content>2. The globular model for Os<styled-content style="fixed-case">ADF</styled-content>2 shows the small F&#x02010;loop tip. Red to white&#x02010;to&#x02010;blue colour transition indicates hydrophobic to hydrophilic transition of the protein surface (d). Dimension of the coil component of F&#x02010;loop in Sa<styled-content style="fixed-case">ADF</styled-content>2 and Os<styled-content style="fixed-case">ADF</styled-content>2 (e).</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-17-188-g001"/></fig></sec><sec id="pbi12957-sec-0004"><title>SaADF2 is structurally different from OsADF2</title><p>SaADF2 is a typical plant ADF with a highly conserved cofilin/ADF domain spanning the C&#x02010;terminus of the monomer (ADF&#x02010;H domain, N19 to H145). It weighs 16.8&#x000a0;kDa with a predicted pI of 6.20, while it is 5.65&#x000a0;kDa for OsADF2. The core structures of SaADF2 and OsADF2 are highly similar with five central &#x003b1;&#x02010;helices and five &#x003b2;&#x02010;strands, but SaADF2 shows a sixth &#x003b2;&#x02010;strand at the N&#x02010;terminal end (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>c). Predicted tertiary structures showed a central core barrel of &#x003b2;4 and &#x003b2;5 in SaADF2 (&#x003b2;3 and &#x003b2;4 in OsADF2), surrounded by &#x003b1;&#x02010;helices and other &#x003b2;&#x02010;sheets. The two core &#x003b2;&#x02010;sheets are joined by the F&#x02010;loop (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>d), a flexible coil responsible for F&#x02010;actin binding (Singh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0092" ref-type="ref">2011</xref>). In OsADF2, the F&#x02010;loop is 6.50 to 8.86&#x000a0;&#x000c5; high from N&#x02010; and C&#x02010;terminal side, respectively, with a base 4.98&#x000a0;&#x000c5; and active plane radius 5.6&#x000a0;&#x000c5;. Contrastingly, the F&#x02010;loop in SaADF2 is 12.76 and 14.47&#x000a0;&#x000c5; high from &#x003b2;4 and &#x003b2;5 (N and C termini), respectively, with active plane radius 8.9&#x000a0;&#x000c5; (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>e). The long F&#x02010;loop of SaADF2 is significantly exposed outside the protein core providing it a high rotational free space. The F&#x02010;loop tip is highly hydrophilic and organized with two hydrophobic patches on both sides of SaADF2, whereas the hydrophilic tip volume is much reduced in OsADF2 (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>d). OsADF2 and SaADF2 differ by six amino acid substitutions (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>d). Serine 6, the key phosphorylation site of plant ADFs, is substituted in SaADF2 by threonine. At the helix subproximal to C&#x02010;terminus in SaADF2, phosphosensitive proline 132 and threonine 133 are both substituted by serine in OsADF2. Other substitutions, 19N&#x0003e;19D, 25H&#x0003e;25L and 118H&#x0003e;118Q, are positioned on OsADF2 model superimposed over SaADF2 (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>d). The Mn<sup>+</sup> ligand binding sites on both proteins are K106 and R102.</p></sec><sec id="pbi12957-sec-0005"><title>SaADF2 had greater actin&#x02010;binding affinity than OsADF2 i<italic>n vitro</italic>
+</title><p>Immunoblotting results showed that the recombinant SaADF2 and OsADF2 proteins (17&#x000a0;kDa) were mostly expressed in the membrane fraction of the prokaryotic system (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S2</xref>; Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>). F&#x02010;actin binding and bundling assay showed that both SaADF2 and OsADF2 co&#x02010;sediment with actin at low&#x02010;speed centrifugation in a concentration&#x02010;dependent manner (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>a&#x02013;d). Both proteins bound to G&#x02010;actin monomer and F&#x02010;actin bundles, but their actin&#x02010;binding efficiency differed with protein concentration. In a dose&#x02010;dependent assay using 0.1 to 2&#x000a0;&#x003bc;<sc>m</sc> protein concentration, actin (3&#x000a0;&#x003bc;<sc>m</sc>) co&#x02010;sedimented with SaADF2 at 0.1&#x000a0;&#x003bc;<sc>m</sc> (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>b,d), whereas OsADF2 started to co&#x02010;sediment only at 0.5&#x000a0;&#x003bc;<sc>m</sc>, and at low concentration, a major portion of the protein remained in the supernatant fraction (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>a,d). Both proteins at 2&#x000a0;&#x003bc;<sc>m</sc> co&#x02010;sedimented with 20% input actin (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>d). However, at 0.5&#x000a0;&#x003bc;<sc>m</sc> ADF2, the binding of SaADF2 was twofold higher than OsADF2. At 0.1 to 0.3&#x000a0;&#x003bc;<sc>m</sc> concentration range, OsADF2 showed no binding, but SaADF2 showed binding proportionate to protein concentration (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>d). On the other hand, OsADF2/6&#x003b1; mutant protein with serine&#x02010;6 replaced by threonine had an actin&#x02010;binding efficiency equivalent to SaADF2, that is the protein co&#x02010;sedimented at its lowest concentration (0.1&#x000a0;&#x003bc;<sc>m</sc>) with actin and the amount of co&#x02010;sedimented protein increased with increase in its concentration (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>c,d).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Low&#x02010;speed co&#x02010;sedimentation assay showing binding of actin bundles/G&#x02010;actin with Os<styled-content style="fixed-case">ADF</styled-content>2 (a, d, Sa<styled-content style="fixed-case">ADF</styled-content>2 (b, d), and Os<styled-content style="fixed-case">ADF</styled-content>2/6&#x003b1; (c, d). Approximate degree of binding was measured by densitometry scanning of the gel (d). Depolymerization activity of Sa<styled-content style="fixed-case">ADF</styled-content>2, Os<styled-content style="fixed-case">ADF</styled-content>2 and Os<styled-content style="fixed-case">ADF</styled-content>2/6&#x003b1; proteins using prepolymerized F&#x02010;actin at <styled-content style="fixed-case">pH</styled-content> 8.0 (e) and <styled-content style="fixed-case">pH</styled-content> 6.0 (f)). Severing and depolymerization of steady&#x02010;state actin single&#x02010;filaments incubated with&#x000a0;8&#x000a0;&#x003bc;<sc>m</sc> Sa<styled-content style="fixed-case">ADF</styled-content>2, Os<styled-content style="fixed-case">ADF</styled-content>2 and Os<styled-content style="fixed-case">ADF</styled-content>2/6&#x003b1; (g&#x02010;i). Analysis of severing activities (h) and average time to half&#x02010;maximal severing (i) by the proteins of interest (<styled-content style="fixed-case">POI</styled-content>) and in the absence of protein (F&#x02010;actin) is shown at end time point of the assay (<italic>n</italic>&#x000a0;=&#x000a0;5). Inhibitory phosphorylation of Sa<styled-content style="fixed-case">ADF</styled-content>2, Os<styled-content style="fixed-case">ADF</styled-content>2, Os<styled-content style="fixed-case">ADF</styled-content>2/6&#x003b1; and another phosphosensitive mutant, Os<styled-content style="fixed-case">ADF</styled-content>2/132/133&#x003b1;, by <styled-content style="fixed-case">CDPK</styled-content> shown by immunoprecipitation (j) followed by densitometric quantification (k). Data are shown as means with standard error of means, <italic>n</italic>&#x000a0;=&#x000a0;3).</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-17-188-g002"/></fig></sec><sec id="pbi12957-sec-0006"><title>SaADF2 depolymerized F&#x02010;actin filaments at a wider pH range and more efficiently than OsADF2</title><p>F&#x02010;actin binding as well as depolymerizing activity of the purified recombinant ADF2 proteins was monitored by a fluorescence assay by incubating the proteins with 0.8&#x000a0;&#x003bc;<sc>m</sc> pyrene&#x02010;labelled actin. Fluorescence quenching of undiluted F&#x02010;actin suggested that both ADF2s bind to F&#x02010;actin and thus promote actin depolymerization and enhance actin turnover rate (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>e&#x02013;h). At pH 8.0, both ADF2s showed comparable F&#x02010;actin depolymerization activity (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>e). While SaADF2 showed 20% decrease in fluorescence over a 10&#x02010;min period, OsADF2 showed 18% decrease (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>e). However, at pH 6.0, OsADF2 lost its potency to depolymerize F&#x02010;actin significantly and the decrease in fluorescence dropped to 9%, whereas SaADF2 maintained its depolymerization activity at 18% (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>f). Interestingly, OsADF2/6&#x003b1; showed slow, early depolymerizing activity at pH 8.0, which increased to 12% by 11&#x000a0;min (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>e), but at pH 6.0, it had the highest (23%) actin depolymerization activity (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>f). In the absence of any binding protein in&#x000a0;vitro, 4&#x02010; to 8&#x02010;&#x003bc;m&#x02010;long actin filaments were observed by total internal reflection fluorescence (TIRF), which began dissociating following disassembly (severing/depolymerization) in the presence of excess (8&#x000a0;&#x003bc;<sc>m</sc>) of the ADF proteins (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>g&#x02013;i). SaADF2 predominantly severed the filaments by depolymerizing from ends, whereas OsADF2 mostly disassembled them into shorter fragments (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>g). Steady&#x02010;state actin single filaments showed more severing and depolymerization by SaADF2 and OsADF2/6&#x003b1; as compared to slow and moderate severing by OsADF2 (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>h,i). Higher depolymerization by SaADF2 may have led to more enrichment of the G&#x02010;actin pool than by OsADF2.</p></sec><sec id="pbi12957-sec-0007"><title>OsCDPK6 preferentially phosphorylated OsADF2 at serine&#x02010;6</title><p>Immunoblot with antiphosphoserine antibody showed apparent difference in the degree of phosphorylation by the ADF2s (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>j,k). OsADF2 produced at least two times higher phosphorylation signal compared to SaADF2 and OsADF2/6&#x003b1; (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>k). Although threonine is also phosphorylated by the promiscuous CDPK, its preference for serine&#x02010;6 was evident with no substantial change in phosphorylation of the OsADF2 mutated at two other serine sites, 132 and 133 (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>j,k).</p></sec><sec id="pbi12957-sec-0008"><title>
+<italic>SaADF2</italic> and <italic>OsADF2</italic> overexpression conferred contrasting drought tolerance phenotypes</title><p>Thirty&#x02010;two and 15 primary transgenic rice &#x02018;Nipponbare&#x02019; lines overexpressing <italic>SaADF2</italic> and <italic>OsADF2</italic>, respectively, under the control of the constitutive cauliflower mosaic virus 35S promoter (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>a) (hereinafter referred to as <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE) were generated. T<sub>1</sub> lines showing single&#x02010;copy Mendelian inheritance and expression of <italic>ADF</italic> genes were grown for attainment of homozygosity and further analysis.</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>T&#x02010;<styled-content style="fixed-case">DNA</styled-content> structure of rice transformation vector p35S:Sa<styled-content style="fixed-case">ADF</styled-content>2 containing expression cassettes of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>/<italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> and hygromycin phosphotransferase (<italic>hpt</italic>) under the control of Ca<styled-content style="fixed-case">MV</styled-content> 35S promoter (P35S). <styled-content style="fixed-case">MCS</styled-content>&#x000a0;=&#x000a0;multicloning site, <styled-content style="fixed-case">LB</styled-content>&#x000a0;=&#x000a0;left border, <styled-content style="fixed-case">RB</styled-content>&#x000a0;=&#x000a0;right border, 35S T&#x000a0;=&#x000a0;Ca<styled-content style="fixed-case">MV</styled-content> 35S terminator (a). Shoot (b) and root morphology (c) and physiological traits of transgenic <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>/<italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> overexpressers (<styled-content style="fixed-case">OE</styled-content>) plants after 7&#x000a0;days of drought stress (<styled-content style="fixed-case">DAS</styled-content>): % relative water content (d), membrane stability index (e), proline content (f), plant height (g), fresh biomass (h) and dry weight (i). Blue and red bars represent control (unstressed) and stressed conditions, respectively. Expression of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> and <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> under control (0D), and 3&#x000a0;days (3D) and 7&#x000a0;days (7D) after drought stress (7D) (j). The faint nonspecific signals for <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> in <styled-content style="fixed-case">WT</styled-content> are from the endogenous <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic>. Data are presented as means with standard error of means (<italic>n</italic>&#x000a0;=&#x000a0;3). Bars topped with different letters represent values that are significantly different (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at 0&#x000a0;day or 7&#x000a0;day after stress.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-17-188-g003"/></fig><p>Under 7&#x02013;14&#x000a0;days after drought stress (DAS) at prebooting stage (10% FC), the <italic>SaADF2</italic>&#x02010;OE showed significantly greater tolerance with less wilting, withering, and reduction in shoot and root growth than the <italic>OsADF2</italic>&#x02010;OE and WT plants (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>b,c,g&#x02013;i). Upon resuming irrigation, <italic>SaADF2&#x02010;OE</italic> recovered to normal growth quickly as compared to the WT (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S3</xref>; Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>). Under well&#x02010;watered control condition, no significant difference was observed in growth and development between WT and <italic>SaADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S3</xref>).</p></sec><sec id="pbi12957-sec-0009"><title>
+<italic>SaADF2</italic>&#x02010;OE held high relative water content and stomatal conductance under drought stress</title><p>Relative water content (RWC), the physiological ability of a cell to maintain water status through osmotic adjustment, was ~90% for both WT and transgenic plants. However, RWC of WT and <italic>OsADF2</italic>&#x02010;OE plants dropped to 15% and 43%&#x02013;45% 7 DAS. On the other hand, <italic>SaADF2</italic>&#x02010;OE maintained 65%&#x02013;70% RWC 7 DAS (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>d). <italic>SaADF2</italic>&#x02010;OE maintained higher membrane stability (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>e), accumulated more proline (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>f) under drought as compared to <italic>OsADF2</italic>&#x02010;OE and WT. Similar observations were recorded for other agronomic traits, such as plant height (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>g), and fresh and dry plant biomass (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>h,i), where <italic>SaADF2</italic>&#x02010;OE maintained superiority over WT and <italic>OsADF2</italic>&#x02010;OE following drought. The expression of <italic>SaADF2</italic> was maintained under drought while <italic>OsADF2</italic> expression reduced under drought (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>j). Scanning electron micrographs revealed that <italic>SaADF2</italic>&#x02010;OE maintained stomatal aperture opening comparable to control condition, but <italic>OsADF2</italic>&#x02010;OE showed reduced aperture opening and WT showed complete closure of stomatal aperture with visibly shrunken guard cells under drought (Figure&#x000a0;<xref rid="pbi12957-fig-0004" ref-type="fig">4</xref>a). <italic>SaADF2</italic>&#x02010;OE efficiently maintained the cellular osmotic potential under water deficit with less reduction in stomatal conductance than <italic>OsADF2</italic>&#x02010;OE and WT (Figure&#x000a0;<xref rid="pbi12957-fig-0004" ref-type="fig">4</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Scanning electron micrographs showing stomatal aperture (a, b), and stomatal conductance (c) of overexpressers of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> and <italic><styled-content style="fixed-case">OSADF</styled-content>2</italic> vis&#x02010;&#x000e0;&#x02010;vis <styled-content style="fixed-case">WT</styled-content> 7d after drought. Data are presented as means with standard error of means (<italic>n</italic>&#x000a0;=&#x000a0;3). Blue and red bars represent control (unstressed) and stressed conditions, respectively. Bars topped with different letters represent values that are significantly different (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at 0&#x000a0;day or 7&#x000a0;day after stress.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-17-188-g004"/></fig></sec><sec id="pbi12957-sec-0010"><title>
+<italic>SaADF2</italic>&#x02010;OE lines maintained intact chloroplast ultrastructure, higher chlorophyll content and photosynthesis under drought stress</title><p>Control plants showed well&#x02010;defined, normal kidney&#x02010;shaped chloroplasts with clearly distinct envelope membranes and a well&#x02010;developed internal membrane system with evenly distributed, well&#x02010;packed grana and long stromal thylakoids (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>a). Drought caused disintegration of the chloroplast fine structures including outer membrane and thylakoid disorganization with disoriented grana stacking; many plastoglobuli appeared with high electron density in both WT and <italic>OsADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>a). In contrast, typical fine structure of chloroplasts was conserved in <italic>SaADF2</italic>&#x02010;OE at 7 DAS. Chloroplastids were disarranged in WT plant mesophyll cells as compared to the regular arrangement in <italic>SaADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S3</xref>, Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Transmission electron micrographs showing chloroplast ultrastructure with thylakoid membrane arrangement of overexpressers of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> and <italic><styled-content style="fixed-case">OSADF</styled-content>2,</italic> and <styled-content style="fixed-case">WT</styled-content> under control C) and drought stress (S) (a). Total chlorophyll content (b), photosynthetic performance (Fv/Fm) (c), <styled-content style="fixed-case">DAB</styled-content> assay showing H<sub>2</sub>O<sub>2</sub> (d) and <styled-content style="fixed-case">NBT</styled-content> assay showing O<sup>2&#x02212;</sup> (e) accumulation in overexpressers of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> and <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> vis&#x02010;&#x000e0;&#x02010;vis <styled-content style="fixed-case">WT</styled-content> under control (C) and drought stress (S). Blue and red bars represent control (unstressed) and stressed conditions, respectively. Data are presented as means with standard error of means (<italic>n</italic>&#x000a0;=&#x000a0;3). Bars topped with different letters represent values that are significantly different (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at 0&#x000a0;day or 7&#x000a0;day after stress.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-17-188-g005"/></fig><p>
+<italic>SaADF2</italic>&#x02010;OE maintained higher chlorophyll concentration than <italic>OsADF2</italic>&#x02010;OE and WT at 7 DAS (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>b). <italic>SaADF2</italic>&#x02010;OE showed better photosynthetic performance as reflected by less damage to photosystem II with higher Fv/Fm over <italic>OsADF2</italic>&#x02010;OE and WT&#x000a0;under drought stress (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>c), which indicated that <italic>SaADF2</italic>&#x02010;OE plants were less sensitive to drought&#x02010;induced photo&#x02010;inhibition.</p></sec><sec id="pbi12957-sec-0011"><title>
+<italic>SaADF2</italic>&#x02010;OE produced less reactive oxygen species (ROS) than <italic>OsADF2</italic>&#x02010;OE and WT plants under drought stress</title><p>Both <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE accumulated less ROS compared to WT under drought as shown by less coloration of the leaves in DAB and NBT assay. DAB assay showed the accumulation of H<sub>2</sub>O<sub>2</sub> in only mid&#x02010;vein region of <italic>SaDAF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>d). On the contrary, <italic>OsADF2</italic>&#x02010;OE demonstrated higher accumulation of ROS with more coloration in the vein and H<sub>2</sub>O<sub>2</sub> accumulation all over the leaf strip (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>d). <italic>SaADF2</italic>&#x02010;OE lines were particularly superior with very less characteristic dark blue coloration of the leaf strips in NBT assay (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>e). O<sup>2&#x02212;</sup> accumulation in the leaves of <italic>SaADF2</italic>&#x02010;OE under drought was comparable to control condition.</p></sec><sec id="pbi12957-sec-0012"><title>
+<italic>SaADF2</italic>&#x02010;OE were agronomically superior under drought stress</title><p>Drought&#x02010;stressed <italic>SaADF2</italic>&#x02010;OE had markedly higher grain yield and yield attributing traits compared to <italic>OsADF2</italic>&#x02010;OE and WT (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>). Drought&#x02010;stressed <italic>OsADF2</italic>&#x02010;OE and WT showed ~45% and ~41% reduction in tiller number compared to 28% in <italic>SaADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>a). There was ~70% and ~50% decrease in panicle number in WT and <italic>OsADF2</italic>&#x02010;OE compared to 30% in <italic>SaADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>b). Panicles had less spikelets in <italic>OsADF2</italic>&#x02010;OE than WT and <italic>SaADF2</italic>&#x02010;OE under unstressed condition, and drought caused a reduction of 53%, 26%, and 18% in WT, <italic>OsADF2</italic>&#x02010;OE and <italic>SaADF2</italic>&#x02010;OE, respectively (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>c). A striking difference was noted in the fertile seeds count, which declined by about 88% in WT, 66% in <italic>OsADF2</italic>&#x02010;OE, but only 11% in <italic>SaADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>d,e). This was reflected in grain yield per panicle where drought caused 76% and 70% yield reduction in WT and <italic>OsADF2</italic>&#x02010;OE compared to only 31% in <italic>SaADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>f). Interestingly, <italic>ADF2</italic>&#x02010;OE showed some superiority over the WT plants for reproductive traits, such as number of tillers and panicles per plant, and spikelet number (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>a&#x02013;c) as well as vegetative growth&#x000a0;traits, such as fresh and dry biomass (Figure&#x000a0;<xref rid="pbi12957-fig-0003" ref-type="fig">3</xref>h,i) under control conditions. This suggested that ADF2 overexpression conferred an overall growth benefit to the transgenic plants.</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Postharvest yield parameters (a&#x02013;f) and other agronomic traits (g&#x02013;i) of 1&#x02010;week drought&#x02010;stressed overexpressers of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> and <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> vis&#x02010;&#x000e0;&#x02010;vis <styled-content style="fixed-case">WT</styled-content>. Data are presented as means with standard error of means (<italic>n</italic>&#x000a0;=&#x000a0;3). Blue and red bars represent control (unstressed) and stressed conditions, respectively. Bars topped with different letters represent values that are significantly different (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at 0&#x000a0;day or 7&#x000a0;day after stress.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-17-188-g006"/></fig></sec><sec id="pbi12957-sec-0013"><title>
+<italic>SaADF2</italic> overexpression conferred salt tolerance in rice plants</title><p>
+<italic>SaADF2</italic>&#x02010;OE showed enhanced salt tolerance as revealed by less chlorophyll bleaching of the leaf tissues in the cut&#x02010;leaf float assay (Figure&#x000a0;<xref rid="pbi12957-fig-0007" ref-type="fig">7</xref>a) as well as seedlings in hydroponics (150&#x000a0;m<sc>m</sc> NaCl) (Figure&#x000a0;<xref rid="pbi12957-fig-0007" ref-type="fig">7</xref>b). As under drought stress, <italic>SaADF2</italic>&#x02010;OE maintained superior physiological traits over <italic>OsADF2</italic>&#x02010;OE and WT under salinity (Figure&#x000a0;<xref rid="pbi12957-fig-0007" ref-type="fig">7</xref>c&#x02013;j). The <italic>SaADF2</italic>&#x02010;OE also displayed an unabated photosystem II functioning as reflected by higher Fv/Fm compared to WT (Figure&#x000a0;<xref rid="pbi12957-fig-0007" ref-type="fig">7</xref>f). <italic>SaADF2</italic> transcript accumulation was maintained in the leaf and root tissue of <italic>SaADF2</italic>&#x02010;OE under salt stress at all time points except a slight reduction at 24&#x000a0;h after stress (Figure&#x000a0;<xref rid="pbi12957-fig-0007" ref-type="fig">7</xref>k).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Salt tolerance assay showing greater tolerance of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>&#x02010;overexpressing transgenics compared to <styled-content style="fixed-case">WT</styled-content>. Cut&#x02010;leaf float assay (a), seedling assay (b) and physiological parameters (c&#x02010;j). Temporal accumulation of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> transcript in leaf and root tissue of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic>&#x02010;overexpresser and <styled-content style="fixed-case">WT</styled-content> under salt stress vis&#x02010;&#x000e0;&#x02010;vis control (0&#x000a0;h) (k). Blue and red bars represent control (unstressed) and stressed conditions, respectively. Data are presented as means with standard&#x000a0;error of means (<italic>n</italic>&#x000a0;=&#x000a0;3). Bars topped with different letters represent values that are significantly different (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at 0&#x000a0;day or 7&#x000a0;day after stress.</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-17-188-g007"/></fig></sec><sec id="pbi12957-sec-0014"><title>
+<italic>SaADF2</italic> expression differed from <italic>OsADF2</italic> in actin filament organization under drought stress</title><p>Leaf mesophyll protoplasts from 10&#x02010;day&#x02010;old mannitol&#x02010;treated <italic>ADF2</italic>&#x02010;OE (Figure&#x000a0;<xref rid="pbi12957-fig-0008" ref-type="fig">8</xref>a) showed thick and long actin filaments (AFs) arranged longitudinally along the length of the cortical cells of the untreated control seedling (Figure&#x000a0;<xref rid="pbi12957-fig-0008" ref-type="fig">8</xref>b). However, AF organization in WT cells was significantly affected with no finer AFs, and the length of the thicker filaments was greatly reduced under osmotic stress. The small AFs, instead of adhering to organelles or being dispersed in cytosol, were shifted to the periphery closer to the plasma membrane. In <italic>OsADF2</italic>&#x02010;OE cells, although the mesh of cytosolic AFs was not completely lost, the integrity of fine filament structures was lost (Figure&#x000a0;<xref rid="pbi12957-fig-0008" ref-type="fig">8</xref>b). On the other hand, the number and length of filaments were considerably higher and fine filaments remained conserved in <italic>SaADF2</italic>&#x02010;OE cells under both control and stress. The basketlike mesh in the cytosol also remained preserved with no apparent shift of small AFs towards plasma membrane (Figure&#x000a0;<xref rid="pbi12957-fig-0008" ref-type="fig">8</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Visualization of actin filament in green plant protoplasts (b) isolated from control and stressed (mannitol, &#x02212;0.3&#x000a0;Mpa) (a) overexpressers of <italic>Sa<styled-content style="fixed-case">ADF</styled-content>2</italic> and <italic>Os<styled-content style="fixed-case">ADF</styled-content>2</italic> and <styled-content style="fixed-case">WT</styled-content>.</p></caption><graphic id="nlm-graphic-15" xlink:href="PBI-17-188-g008"/></fig></sec><sec id="pbi12957-sec-0015"><title>
+<italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE had differential global gene expression pattern</title><p>RNA&#x02010;Seq analysis showed that unstressed control and drought stress&#x02010;induced (3 and 7 DAS) leaf transcriptome of <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE vis&#x02010;&#x000e0;&#x02010;vis WT resulted in 1871 significantly (log2FC &#x02265;2 for up&#x02010;regulated and &#x02264;&#x02212;2 for down&#x02010;regulated; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) differentially expressed genes (DEGs). Under drought stress, 255 genes (65 at 3 DAS and 190 at 7 DAS) were up&#x02010;regulated in <italic>SaADF2</italic>&#x02010;OE over <italic>OsADF2</italic>&#x02010;OE, whereas only 30 genes were up&#x02010;regulated under control. Altogether, 5566 genes were significantly down&#x02010;regulated (Data <xref rid="pbi12957-sup-0004" ref-type="supplementary-material">S1</xref>).</p><p>DEGs in <italic>OsADF2</italic>&#x02010;OE were significantly enriched in anion transport, photosynthesis and chlorophyll metabolism when compared to WT (Data <xref rid="pbi12957-sup-0005" ref-type="supplementary-material">S2</xref>). Photosynthesis was the most significantly enriched biological process, and genes predominantly localized in plastid and photosynthetic membranes, specifically in PSII, represented the cellular component. Nucleotide binding was the most enriched molecular pathway. Photosynthesis was also the most enriched biological process in <italic>SaADF2</italic>&#x02010;OE, but genes involved in light harvesting process, generation of precursor metabolites and energy coins were significantly enriched compared to <italic>OsADF2</italic>&#x02010;OE. The molecular components were concentrated in nucleotide/nucleoside binding (specifically adenosyl), phosphorylation (phosphatase and kinase) and oxidoreductase. Cellular components were mostly membrane localized.</p><p>
+<italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE differed significantly (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) for genes down&#x02010;regulated in response to abiotic stimulus (GO:000385) and response to water stress (GO:0009415). Genes in membrane integral components were significantly down&#x02010;regulated in <italic>SaADF2</italic>&#x02010;OE. A significantly enriched term between <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE was cation transport (GO:0006812) and others related to stress response (Data <xref rid="pbi12957-sup-0005" ref-type="supplementary-material">S2</xref>).</p><p>KEGG analysis also showed high enrichment of photosynthesis and general metabolism&#x02010;related pathways in <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE (Data <xref rid="pbi12957-sup-0006" ref-type="supplementary-material">S3</xref>). Ribosomal proteins biosynthesis was increased as a common abiotic stress response to accommodate the translation of stress&#x02010;responsive proteins. Proline and arginine metabolism path:osa00330 was also up&#x02010;regulated as a general stress response in WT/<italic>SaADF2</italic>&#x02010;OE at 3 DAS. Genes involved in carbohydrate biosynthetic pathways and inositol phosphate metabolism were overrepresented.</p></sec><sec id="pbi12957-sec-0016"><title>
+<italic>ADF2</italic>&#x02010;related transcripts showed differential expression in transgenic lines</title><p>Expression analysis of DEGs, such as Ca<sup>2+</sup>&#x02010;dependent kinases (<italic>CDPK/CAM Kinases</italic>), <italic>Rho&#x02010;GTPases</italic>, phosphoinositide (PI) signalling&#x02010;regulated transcripts (<italic>PI45K4</italic>,<italic> I145PP</italic> and <italic>PLD</italic>) and protein phosphatases (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S4</xref>; Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>), which were enriched in drought&#x02010;induced transcriptome and likely interact with <italic>ADF2</italic>, showed down&#x02010;regulation of most <italic>CDPK/CAM Kinases</italic> in <italic>SaADF2</italic>&#x02010;OE but fivefold to sixfold up&#x02010;regulation in WT and <italic>OsADF2</italic>&#x02010;OE under drought. <italic>CAMK</italic> isoform <italic>AK1</italic> (Os02g56310) was up&#x02010;regulated in <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE, but expression was lower than WT. WT and <italic>OsADF2</italic>&#x02010;OE accumulated eightfold and 3.5&#x02010;fold, respectively, <italic>CAMK28</italic> at 7 DAS, while it was down&#x02010;regulated in <italic>SaADF2</italic>&#x02010;OE at 7 DAS, although with 3.5&#x02010;fold accumulation over WT at 3 DAS. <italic>Rho&#x02010;GTPases</italic>, known to positively regulate <italic>CDPK</italic> activation, were down&#x02010;regulated in <italic>SaADF2</italic>&#x02010;OE. Phosphatases also showed down&#x02010;regulation in <italic>SaADF2</italic>&#x02010;OE under drought. Of the PI signalling&#x02010;regulated transcripts, <italic>PLD</italic> showed the same trend as <italic>CaMK AK1</italic>. <italic>ADF</italic> overexpression down&#x02010;regulated the expression of <italic>PI4,5&#x02010;K4</italic> and <italic>I&#x02010;1,4,5&#x02010;PP</italic> with no significant difference among the genotypes.</p><p>RT&#x02010;PCR of 12 putative interacting partners of <italic>OsADF2</italic> under drought stress in six independent <italic>SaADF2</italic>&#x02010;OE lines showed temporal variation in their expression profile. <italic>SaADF2</italic> transcript accumulation in <italic>SaODF2</italic>&#x02010;OE showed increase under drought stress, especially 7 DAS (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S5</xref>; Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>). Adenyl cyclase&#x02010;associated protein (<italic>ACP</italic>), the known ADF&#x02010;interacting partner, demonstrated drought&#x02010;induced up&#x02010;regulation up to 1.4&#x02010;fold (D1) in <italic>SaADF2</italic>&#x02010;OE relative to WT.</p></sec><sec id="pbi12957-sec-0017"><title>SaADF2 and OsADF2 interacted differently with candidate proteins</title><p>Bimolecular fluorescence complementation (BiFC) assay validated four ADF2&#x02010;interacting proteins, namely calcium&#x02010;dependent protein kinase (OsCDPK6, Os02g58520.1), cysteine&#x02010;rich receptor&#x02010;like protein kinase 21 (OsCRLK21, Os11g11780.1), adenylyl cyclase&#x02010;associated protein (OsACP, Os03g51250.1) and WD&#x02010;40 (G&#x02010;beta) repeat domain&#x02010;containing protein (OsWD40, Os01g03510.1) (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>a). OsCDPK6 exhibited nuclear interaction with both SaADF2 and OsADF2, but substantially less fluorescence intensity for SaADF2 (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>a,b). Fluorescence restitution showed that both SaADF2 and OsADF2 interacted with OsACP inside the nucleus, with no significant difference in fluorescence between the ADF2s (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>a,c). SaADF2 showed nucleus&#x02010;localized interaction with OsWD40 stronger than OsADF2, which demonstrated faint fluorescence signal (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>a,d). OsCRLK21 showed comparable interaction affinity with both ADF2s in cytosol, predominantly adjacent to cell membrane (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>a,e). As expected, cells bombarded with only N&#x02010;terminal fragment of split&#x02010;YFP bimolecular constructs with SaADF2 or OsADF2 (negative control) did not show any fluorescence signal while optimal transactivation signal was observed in cells bombarded with constructs carrying both domains of <italic>bHLH</italic> transcription factor (positive control) (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S8</xref>; Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12957-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Cellular interaction pattern of Sa<styled-content style="fixed-case">ADF</styled-content>2 (left panel) and Os<styled-content style="fixed-case">ADF</styled-content>2 (right panel) with four predicted interaction partners, Os<styled-content style="fixed-case">CDPK</styled-content>6, Os<styled-content style="fixed-case">CAP</styled-content>, Os<styled-content style="fixed-case">WD</styled-content>40 and Os<styled-content style="fixed-case">CRLK</styled-content>21 in onion epidermal cells using a split&#x02010;<styled-content style="fixed-case">YFP</styled-content> system. <styled-content style="fixed-case">BRIGHT</styled-content>&#x02014;Bright&#x02010;field images, <styled-content style="fixed-case">YFP</styled-content>&#x02014;fluorescence images and <styled-content style="fixed-case">MERGED</styled-content>&#x02014;overlapped images. Bars indicate mean corrected total cell fluorescence (<styled-content style="fixed-case">CTCF</styled-content>)&#x000a0;&#x000b1;&#x000a0;standard deviation (<italic>n</italic>&#x000a0;=&#x000a0;15 cells; five cells each of three independent experiments). Bars topped with different letters represent values that are significantly different (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at 0d or 7d after stress.</p></caption><graphic id="nlm-graphic-17" xlink:href="PBI-17-188-g009"/></fig></sec></sec><sec id="pbi12957-sec-0018"><title>Discussion</title><p>The present study reports biochemical and functional characterization of an actin&#x02010;depolymerizing factor (<italic>SaADF2</italic>) from a halophyte, <italic>Spartina alterniflora</italic> and its rice homolog (<italic>OsADF2</italic>), and that <italic>SaADF2</italic> overexpression imparts higher drought (and salt) tolerance in rice (as well as <italic>Arabidopsis thaliana</italic>; Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S6</xref>, Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>) in comparison with <italic>OsADF2</italic>. <italic>ADFs</italic> are present in multiple isoforms in higher plants (Maciver and Hussey, <xref rid="pbi12957-bib-0038" ref-type="ref">2002</xref>). Of the 11 isoforms reported in rice, <italic>OsADF2</italic> is expressed in both vegetative and reproductive tissues without significant change in its expression under abiotic stresses (Huang <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0023" ref-type="ref">2012</xref>). In <italic>Physcomitrella patens</italic>, cell viability is compromised in knockdown mutants of a single intronless <italic>ADF</italic> isoform (Augustine <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0004" ref-type="ref">2008</xref>), suggesting that ADF functionality is essential for plant cells. ADF is reportedly essential for cytoskeleton rearrangement in response to extra&#x02010; and/or intercellular stress (Ali and Komatsu, <xref rid="pbi12957-bib-0001" ref-type="ref">2006</xref>; Augustine <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0004" ref-type="ref">2008</xref>).</p><p>Superior in&#x000a0;vitro activity of SaADF2 could be due to its longer and more exposed F&#x02010;loop than OsADF2 (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>c&#x02010;e), because binding ability of ADF to F&#x02010;actin and subsequent filament severing or disassembly is attributed to the charged residues at the exposed tip of its F&#x02010;loop (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>d&#x02013;e) in coordination with C&#x02010;terminal &#x003b1;&#x02010;helix and tail (Lappalainen <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0033" ref-type="ref">1997</xref>; Ono <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0043" ref-type="ref">2000</xref>; Pope <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0049" ref-type="ref">2000</xref>). F&#x02010;actin&#x02010;binding motif of ADF is highly divergent, and only a single exposed charged residue may be sufficient to effect binding (Wong <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0108" ref-type="ref">2011</xref>), but the degree of binding may differ depending on other structural factors. SaADF2 and OsADF2, with subtle tertiary structure difference (Figure&#x000a0;<xref rid="pbi12957-fig-0001" ref-type="fig">1</xref>d), have three amino acid differences in the mostly conserved G&#x02010;actin&#x02010;binding motifs, which is comprised of N&#x02010;termini, the long &#x003b1;3&#x02010;helix, and the turn connecting &#x003b2;6 and &#x003b1;4/5 (Wong <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0108" ref-type="ref">2011</xref>). This could result in their differential actin&#x02010;binding affinity (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>d). Plant cells normally exhibit a slightly higher alkaline pH, and most ADFs are more active at pH ~8.0 with a few exceptions (Gungabissoon <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0021" ref-type="ref">1998</xref>). SaADF2's ability to depolymerize actin at a broader pH range (pH 6.0&#x02013;8.0) and more efficiently compared to OsADF2 along with its high actin affinity (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>d&#x02013;f) could prove useful to keep the plant growth and development unabated under drought (or salt) stress that frequently changes the cellular ionic concentration.</p><p>Serine&#x02010;6 in OsADF2 and its homologs from other drought and/salt tolerant/sensitive rice varieties and a halophyte wild rice (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S7</xref>, Appendix&#x000a0;<xref rid="pbi12957-sup-0003" ref-type="supplementary-material">S1</xref>), which is substituted by threonine in SaADF2, participates in an inhibitory regulatory phosphorylation by CDPK family in plants and protists (Allwood <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0002" ref-type="ref">2001</xref>; Smertenko <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0054" ref-type="ref">1998</xref>). Various isoforms of CDPKs inactivate ADF by phosphorylating and inhibiting its actin binding, and consequently interfere in actin dynamics. Mutations in serine&#x02010;6 lead to the loss and/or alteration of its binding constant with CDPK that could compromise growth and development as revealed by abnormal polar tip growth of phosphomimetic and unphosphorylatable mutant protonema (Augustine <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0004" ref-type="ref">2008</xref>). ADF interacts with CDPK in different organisms (Allwood <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0002" ref-type="ref">2001</xref>). Less fluorescence intensity of SaADF2&#x02010;OsCDPK6 interaction indicated a physiologically more active SaADF2 protein due to a partial lift in the negative regulation of OsCDPK6 (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>a,b). Lower in&#x000a0;vitro phosphorylation efficiency of SaADF2 and OsADF2 serine&#x02010;6 mutant (OsADF2/6&#x003b1;) than OsADF2 by OsCDPK6 in the presence of Ca<sup>2+</sup> further confirms such observation (Figure&#x000a0;<xref rid="pbi12957-fig-0002" ref-type="fig">2</xref>j&#x02013;k). Thus, down&#x02010;regulation of <italic>OsCAMKs</italic> (Figure&#x000a0;<xref rid="pbi12957-sup-0001" ref-type="supplementary-material">S4</xref>) may be functionally relevant for sustained actin dynamics in <italic>SaADF2</italic>&#x02010;OE.</p><p>OsWD40 is the WD&#x02010;40 (or G&#x02010;beta) repeat domain&#x02010;containing 66&#x02010;kDa stress&#x02010;regulated protein. WD domains, when present in tandem, form a propeller&#x02010;shaped scaffold useful for multiprotein interaction. WD40 has important roles in histone recognition, chromatin function, RNA processing and transcriptional regulation (Suganuma <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0102" ref-type="ref">2008</xref>). WD repeat domain&#x02010;containing proteins, such as AIP1, disassemble the actin filaments decorated with ADF and shorten the ADF&#x02010;severed actin filaments, thus maintaining a high concentration of cellular actin monomers (Nomura <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0086" ref-type="ref">2016</xref>). The adenylyl cyclase&#x02010;associated protein (OsACP) is highly implicated in positive regulation of actin turnover process (Ono, <xref rid="pbi12957-bib-0087" ref-type="ref">2013</xref>) as an actin&#x02010;sequestering protein. ACP interacts with ADF (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0074" ref-type="ref">2013</xref>) for G&#x02010;actin binding, and promotes nucleotide exchange and severing of ADF&#x02010;bound actin filaments (Ono, <xref rid="pbi12957-bib-0087" ref-type="ref">2013</xref>). Both interactions suggested a more active SaADF2 compared to OsADF2 in BiFC assay (Figure&#x000a0;<xref rid="pbi12957-fig-0009" ref-type="fig">9</xref>).</p><p>Amino acid substitutions could alter binding of co&#x02010;regulatory proteins, thereby changing the turnover of actin&#x02010;ADF complex in&#x000a0;vivo. ADF may also compromise its depolymerizing activity by binding to phosphoinositide (PIP2) and inhibiting phospholipase C activity (Gungabissoon <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0021" ref-type="ref">1998</xref>; Smertenko <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0054" ref-type="ref">1998</xref>), thus removing itself from the cytoplasm. PIP/PIP2 binding ideally localizes plant ADF near the plasma membrane where it may participate in stress signalling (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0036" ref-type="ref">2013</xref>; Ouellet <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0044" ref-type="ref">2001</xref>).</p><p>Although <italic>OsADF2</italic> was not significantly induced under stress (Huang <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0023" ref-type="ref">2012</xref>), <italic>OsADF2</italic>&#x02010;OE in the present study showed higher drought tolerance than WT. Superiority of <italic>SaADF2</italic>&#x02010;OE over <italic>OsADF2</italic>&#x02010;OE for drought (and salt) stress tolerance phenotype endorses that the difference in <italic>in&#x000a0;vitro</italic> activities between highly identical SaADF2 and OsADF2 could relate to their differential response <italic>in&#x000a0;vivo</italic>. Studies showing enhanced salt and/or drought tolerance of transgenics overexpressing <italic>Spartina alterniflora</italic> genes with subtle sequence differences from rice provide further credence (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>; Joshi <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0028" ref-type="ref">2013</xref>, <xref rid="pbi12957-bib-0029" ref-type="ref">2014</xref>). Environmental perturbations restrict photosystem II (PSII) activity by inhibiting its repair, which leads to photo&#x02010;inhibition (Jin <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0027" ref-type="ref">2011</xref>). Better vegetative and prereproductive growth of <italic>SaADF2</italic>&#x02010;OE under drought could be attributed to their improved photosynthetic efficiency due to less sensitivity to photo&#x02010;inhibition shown by higher Fv/Fm than <italic>OsADF2&#x02010;</italic>OE and WT. Quantum yield of PSII activity is directly related to chlorophyll &#x02018;a&#x02019; (Checker <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0014" ref-type="ref">2012</xref>). Higher chlorophyll content observed in <italic>SaADF2</italic>&#x02010;OE suggested more efficient internal carbon adjustment in comparison with WT and <italic>OsADF2</italic>&#x02010;OE under stress. Stress&#x02010;induced excessive chloroplastidic reactive oxygen species (ROS), generated as a result of imbalance between electron transport and CO<sub>2</sub> fixation, reduce photosynthetic yield by dissociating or bleaching of pigment centres. Genes coding for ROS&#x02010;scavenging enzymes were up&#x02010;regulated in <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2&#x02010;OE</italic> when compared to WT, including mitochondrial superoxide dismutase, glutaredoxin, glutathione S&#x02010;transferase, peroxiredoxin, aldehyde dehydrogenase and ascorbate peroxidase (Data <xref rid="pbi12957-sup-0004" ref-type="supplementary-material">S1</xref>). Hence, low accumulation of O<sup>2&#x02212;</sup> and H<sub>2</sub>O<sub>2</sub> in <italic>SaADF2</italic>&#x02010;OE may have protected the plants from membrane and PS&#x02010;II damage and photo&#x02010;inhibition under drought (Figure&#x000a0;<xref rid="pbi12957-fig-0005" ref-type="fig">5</xref>d,e). Further, maintenance of chloroplast integrity with intact grana and organized thylakoid in <italic>SaADF2</italic>&#x02010;OE with higher Fv/Fm under drought possibly contributed to their higher grain and biomass yield than <italic>OSADF</italic>&#x02010;OE and WT.</p><p>Higher RWC of <italic>SaADF2</italic>&#x02010;OE than <italic>OsADF2</italic>&#x02010;OE and WT under drought indicated greater tissue tolerance of <italic>SaADF2</italic>&#x02010;OE likely through superior osmotic adjustment. Transcriptome analysis (Data <xref rid="pbi12957-sup-0004" ref-type="supplementary-material">S1</xref>) showed up&#x02010;regulation of trehalose synthase, proline oxidase (LOC_Os10&#x000a0;g40360; proline dehydrogenase) and inositol synthase in <italic>SaADF2</italic>&#x02010;OE as compared to WT, which may be related to the protected osmotic status and conservation of relative water content of the transgenics. Additionally, group 1 and 3 LEA (late embryogenesis abundant) proteins and dehydrins that are known to impart enhanced desiccation tolerance were up&#x02010;regulated in <italic>SaADF2&#x02010;OE</italic> (as well as in <italic>OsADF2</italic>&#x02010;OE) compared to WT. Plants lose control over stomatal conductance to maintain the balance of water and gas exchange under drought and switch to flight mechanism by closing stomata to reduce water loss (Sikuku <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0053" ref-type="ref">2010</xref>). The positive correlation between osmotic stress regulation of actin organization and K<sup>+</sup> channel activity in guard cells (Luan, <xref rid="pbi12957-bib-0037" ref-type="ref">2002</xref>) could explain higher stomatal conductance of <italic>SaADF2</italic>&#x02010;OE plants under drought stress leading to more efficient maintenance of CO<sub>2</sub> exchange capacity and cellular osmotic potential than <italic>OsADF2</italic>&#x02010;OE and WT plants. The results indicated that drought did not affect stomatal conductance much in <italic>SaADF2&#x02010;OE</italic> plants, which is possibly because of their superior osmotic adjustment more by osmolyte/osmoprotectant accumulation and less by stomatal closure.</p><p>ADF increases AFs turnover through the combination of depolymerization and severing. The average length of an AF is a function of the ADF and actin monomer concentration, phosphorylation status of the subunits, availability of other ABPs (CAP or AIP) and the average time the subunit resides inside the AF. In a resting cell, fluctuation of AF length depends on the filament severing and is ~20% of average filament length (Roland <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0091" ref-type="ref">2008</xref>). The integrity of the structural components including cytoskeleton with protected actin fibres and preserved actin mesh of the <italic>SaADF2&#x02010;</italic>OE could be due to maintenance of high water potential of the plants under water deficit.</p><p>Induction of <italic>ADF</italic> expression by salt and cold stress besides drought because of the increased rate of actin turnover suggested their role in osmoregulation (Ali and Komatsu, <xref rid="pbi12957-bib-0001" ref-type="ref">2006</xref>; Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0007" ref-type="ref">2008</xref>; Ouellet <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0044" ref-type="ref">2001</xref>; Salekdeh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0051" ref-type="ref">2002</xref>; Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0070" ref-type="ref">2003</xref>). Relative superiority of <italic>SaADF2</italic>&#x02010;OE over <italic>OsADF2</italic>&#x02010;OE and WT with better root and shoot growth under salinity is the manifestation of their better physiological responses by high RWC, membrane stability index and high Fv/Fm (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>). Rapid repolymerization of AFs in cortex and nuclear envelope was recorded in cold&#x02010;treated tobacco cells (Pokorna <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0047" ref-type="ref">2004</xref>). The significant differential expression of downstream stress&#x02010;related genes in <italic>SaADF2</italic>&#x02010;OE plants provides a strong indication of its role as a transactivator, in addition to modulating cytoskeleton architecture via reorganization of actin dynamics with interacting protein partners, to provide drought tolerance phenotype. Detail biochemical and functional investigation of different ADF isoforms will lead to identification of undefined molecular pathways related to cytoskeleton modulation and their precise role in abiotic stress responses (Nan <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0085" ref-type="ref">2017</xref>).</p><p>Our data showed that ADF overexpression did not compromise with the agronomic yield of <italic>ADF2&#x02010;OE</italic> lines (Figure&#x000a0;<xref rid="pbi12957-fig-0006" ref-type="fig">6</xref>a&#x02010;f). On the other hand, ADF overexpression had a positive impact on important agricultural traits of transgenics at both vegetative and reproductive stages under control condition. This could be attributed to the enhanced actin dynamics in transgenics that promote cell division and expansion, and polar growth. Also, high enrichment of genes involved in photosynthesis and general metabolism&#x02010;related pathways in <italic>ADF2</italic>&#x02010;OE (Data <xref rid="pbi12957-sup-0006" ref-type="supplementary-material">S3</xref>) might have contributed to the vigour of the transgenics. Identification of the complex, differential interactome regulating stress&#x02010;modulated cytoskeleton driven by <italic>ADF</italic> isoforms will lead us to key genetic conduits that could be potential targets for genome engineering to improve abiotic stress resistance in crops.</p></sec><sec id="pbi12957-sec-0019"><title>Experimental procedures</title><sec id="pbi12957-sec-0020"><title>Sequence analysis and subcellular localization of <italic>SaADF2</italic>
+</title><p>An actin&#x02010;depolymerizing factor (SaADF2) from the salt&#x02010;induced transcriptome of <italic>Spartina alterniflora</italic> (Baisakh and Mangu, <xref rid="pbi12957-bib-0006" ref-type="ref">2016</xref>; Bedre <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0010" ref-type="ref">2016</xref>) was queried against the NCBI and UniProtKB nonredundant database. <italic>SaADF2</italic> and orthologs from rice and <italic>Arabidopsis</italic> were aligned, and phylogenetic tree was constructed using CLC workbench v7.0. Homology&#x02010;based threading was performed in I&#x02010;TASSER stand&#x02010;alone server (Yang <italic>et&#x000a0;al</italic>., 2015) or LOMETS (Wu and Zhang, <xref rid="pbi12957-bib-0068" ref-type="ref">2007</xref>) and predicted three&#x02010;dimensional structures were analysed and aligned using UCSF Chimera (Pettersen <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0046" ref-type="ref">2004</xref>).</p><p>
+<italic>SaADF2</italic> was cloned in frame with green fluorescent protein gene (<italic>gfp</italic>) under 35S promoter at <italic>Nco</italic> I and <italic>Spe</italic> I sites of pCAMBIA1302, and the resulting P35S::<italic>SaADF2</italic>:<italic>gfp</italic> fusion construct was bombarded into onion epidermal cells to visualize subcellular localization as described by Baisakh <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>).</p></sec><sec id="pbi12957-sec-0021"><title>Expression and purification of recombinant ADF2 proteins</title><p>Full&#x02010;length cDNA of <italic>SaADF2</italic>,<italic> OsADF2</italic> (LOC_Os03&#x000a0;g56790) and OsCDPK6 (LOC_Os02&#x000a0;g58520.1) was cloned in pET200 carrying an N&#x02010;terminal His&#x02010;tag to generate pET200&#x02010;SaADF2/OsADF2 using the standard Gateway technology (Invitrogen, Carlsbad, CA). A point mutant 6&#x003b1; was generated at the serine&#x02010;6, the major phosphorylation site in OsADF2 by substituting serine with threonine to mimic SaADF2 using In&#x02010;Fusion cloning kit (Clontech, Paolo Alto, CA) in pET200&#x02010;SaADF2/OsADF2 according to the manufacturer's instructions. The recombinant proteins were expressed in <italic>Escherichia coli</italic> BL21 (DE3) and purified following standard protocol (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>). The affinity tag was removed from the recombinant proteins with thrombin restriction 3 (EMD Millipore, Chicago, IL) for all downstream biochemical analyses, except phosphorylation.</p></sec><sec id="pbi12957-sec-0022"><title>Actin polymerization and co&#x02010;sedimentation assay</title><p>Human platelet G&#x02010;actin (Cytoskeleton Inc., Denver, CO) was polymerized at RT following the manufacturer's protocol. The F&#x02010;actin/actin bundles were separated from the G&#x02010;actin by centrifugation (40&#x000a0;000&#x000a0;<italic><bold>g</bold></italic>) at 4&#x000a0;&#x000b0;C for 3&#x000a0;h. The pellet was reconstituted in actin&#x02010;binding buffer (ABB; 10&#x000a0;m<sc>m</sc> Tris, 1&#x000a0;m<sc>m</sc> ATP, 0.2&#x000a0;m<sc>m</sc> DTT, 1&#x000a0;m<sc>m</sc> EGTA, 0.1&#x000a0;m<sc>m</sc> CaCl<sub>2</sub> and 2&#x000a0;m<sc>m</sc> MgCl<sub>2</sub>), and used immediately for binding assays. Low&#x02010;speed co&#x02010;sedimentation of SaADF2 and OsADF2 with actin was performed as described by Allwood <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0002" ref-type="ref">2001</xref>) (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="pbi12957-sec-0023"><title>F&#x02010;actin depolymerization assay and visualization of actin disassembly and severing</title><p>Four micromolar rabbit muscle 30% pyrene&#x02010;labelled actin (Cytoskeleton, Inc.) was polymerized as described by Singh <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0092" ref-type="ref">2011</xref>). F&#x02010;actin depolymerization was induced with 0.8&#x000a0;&#x003bc;<sc>m</sc> SaADF2/OsADF2 either by using prepolymerized actin or by adding proteins to an actively polymerizing G&#x02010;actin following Carlier <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0013" ref-type="ref">1997</xref>) (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>). Actin filament disassembly and severing by ADF proteins was observed by total internal reflection fluorescence (TIRF) microscopy, as described by Shekhar and Carlier (<xref rid="pbi12957-bib-0052" ref-type="ref">2017</xref>), with modifications (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="pbi12957-sec-0024"><title>In vitro phosphorylation</title><p>In vitro phosphorylation was performed following in the presence of 4&#x000a0;&#x003bc;<sc>m</sc> CDPK, 16&#x000a0;&#x003bc;<sc>m</sc> ADF and 4&#x000a0;&#x003bc;<sc>m</sc> ATP following Allwood <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0002" ref-type="ref">2001</xref>). All proteins were dephosphorylated with calf intestinal phosphatase (CIP, New England Biolabs, Ipswich, MA) prior to phosphorylation. Following phosphorylation, His&#x02010;tagged ADF was immunoprecipitated with anti&#x02010;His antibody and protein A/G sepharose (Pierce, Waltham, MA), eluted in low pH, and dialysed (Methods <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>). The protein fractions were immunoblotted with antiphosphoserine antibody (Abcam, Cambridge, MA). The membrane was CIP&#x02010;treated prior to blocking with rabbit serum. Membrane was developed using ECL chemiluminescence kit (Pierce) following the manufacturer's instructions.</p></sec><sec id="pbi12957-sec-0025"><title>Construction of binary vector and development of rice transgenics</title><p>First&#x02010;strand cDNA was synthesized from total RNA isolated from <italic>S. alterniflora</italic> and rice as described in Baisakh <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>). The complete coding sequence of <italic>SaADF2</italic> and <italic>OsADF2</italic> was amplified from the respective first&#x02010;strand cDNA using forward and reverse primers containing <italic>Bgl</italic> II and <italic>Bst</italic> EII restriction endonuclease recognition sites, respectively (Table&#x000a0;<xref rid="pbi12957-sup-0002" ref-type="supplementary-material">S1</xref>). Construction of p35S:<italic>SaADF2/OsADF2</italic> in pCAMBIA1305.1 backbone and its subsequent mobilization into <italic>Agrobacterium tumefaciens</italic> LBA4404 was performed following Baisakh <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>).</p><p>
+<italic>Agrobacterium tumefaciens</italic>&#x02010;mediated transformation of rice cultivar &#x02018;Nipponbare&#x02019; was performed following Rao <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0050" ref-type="ref">2009</xref>). Primary transgenics, confirmed using <italic>SaADF2/OsADF2</italic> gene&#x02010;specific primers (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>, Table&#x000a0;<xref rid="pbi12957-sup-0002" ref-type="supplementary-material">S1</xref>), were seed&#x02010;advanced to T<sub>2</sub> generation for achieving homozygosity.</p></sec><sec id="pbi12957-sec-0026"><title>Drought and salinity tolerance assay</title><p>Drought stress was imposed on 50&#x02010;d&#x02010;old homozygous progenies of <italic>SaADF2</italic>&#x02010;OE#23, 38, and 41, <italic>OsADF2</italic>&#x02010;OE#2, 5, 20, and WT as described earlier (Joshi <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0029" ref-type="ref">2014</xref>; Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>). Three&#x02010;week&#x02010;old seedlings of homozygous progenies of <italic>SaADF2</italic>&#x02010;OE, <italic>OsADF2</italic>&#x02010;OE and WT grown in hydroponics with Yoshida's nutrient solution (Yoshida <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0072" ref-type="ref">1976</xref>) were subjected to salt stress (150&#x000a0;m<sc>m</sc> NaCl) for a week as described earlier (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>).</p></sec><sec id="pbi12957-sec-0027"><title>Phenotypic, physiological, biochemical and microscopic analyses</title><p>Control and stressed plants were observed for common stress&#x02010;induced phenotypes, and physiological traits were measured following the procedures described earlier (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>; Joshi <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0029" ref-type="ref">2014</xref>). O<sup>2&#x02212;</sup> and H<sub>2</sub>O<sub>2</sub> were visualized in&#x000a0;situ following Jabs <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0026" ref-type="ref">1996</xref>) and Thordal&#x02010;Christensen <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0063" ref-type="ref">1997</xref>), respectively. Transmission electron microscopy (Marques <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0083" ref-type="ref">2018</xref>) and scanning electron microscopy (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>) were conducted to examine chloroplast ultrastructure and stomata, respectively (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>). All quantitative data were analysed statistically for variance (ANOVA), and treatment means were compared by Tukey's HSD in XLSTAT add&#x02010;in of Microsoft Excel.</p></sec><sec id="pbi12957-sec-0028"><title>(Semi)&#x02010;quantitative reverse transcription PCR</title><p>RT&#x02010;PCR was conducted using first&#x02010;strand cDNA from leaf and root tissues of control and stressed <italic>SaADF2</italic>&#x02010;OE and WT plants as described earlier (Baisakh <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>; Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>) to study the expression of <italic>SaADF2</italic> and genes, which were overrepresented in the comparative transcriptome analysis (<italic>SaADF2</italic>&#x02010;OE vs <italic>OsADF2</italic>&#x02010;OE and WT) and selected from the network analysis using STRING (<ext-link ext-link-type="uri" xlink:href="http://www.stringdb.org">www.stringdb.org</ext-link>) and RiceNet v2 (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0095" ref-type="ref">2011</xref>) after excluding the hypothetical and ribosomal proteins, using gene&#x02010;specific primers (Table&#x000a0;<xref rid="pbi12957-sup-0002" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="pbi12957-sec-0029"><title>Leaf protoplast isolation and staining of actin filaments</title><p>Green protoplasts were isolated from 10&#x02010;d&#x02010;old control and mannitol&#x02010;stressed (equivalent with water stress to &#x00471;<sub>os</sub>&#x000a0;= &#x02212;0.3&#x000a0;MPa) seedlings of WT, <italic>SaADF2</italic>&#x02010;OE, and <italic>OsADF2</italic>&#x02010;OE following Zhang <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0073" ref-type="ref">2011</xref>). Twenty microlitre of intact protoplast suspensions was permeabilized on poly&#x02010;L&#x02010;lysine&#x02010;coated slides in a humid chamber with 3% Triton X&#x02010;100 in PBS (pH 7.4). Actin staining with 5&#x000a0;IU of Alexa Fluor 488&#x02010;Phalloidin (Cytoskeleton Inc) was performed following Zhao <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0075" ref-type="ref">2011</xref>), and optical sections in Z&#x02010;stacks at 1&#x000a0;&#x003bc;<sc>m</sc> interval were taken by LSM700 (Zeiss; 40x/1.3 objective; Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="pbi12957-sec-0030"><title>Bimolecular fluorescence (BiFC) complementation</title><p>Bimolecular fluorescence (BiFC) complementation was performed using the method described by Pattanaik <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0045" ref-type="ref">2011</xref>). Split&#x02010;YFP vectors, pA7&#x02010;<italic>SaADF2</italic>/NYFP and pA7&#x02010;<italic>OsADF2</italic>/NYFP containing SaADF2 and OsADF2 fused with N&#x02010;terminal end of YFP, and pA7&#x02010;interacting protein(s) fused with C&#x02010;terminal end of YFP, were constructed (Method <xref rid="pbi12957-sup-0007" ref-type="supplementary-material">S1</xref>) and delivered by a particle gun into onion epidermal cells at 1100 psi following Baisakh <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0008" ref-type="ref">2012</xref>). GFP fluorescence was observed after 22&#x000a0;h under blue light with an Olympus SZH10 GFP&#x02010;stereomicroscope equipped with a Nikon DXM1200C camera and ACT&#x02010;1 software.</p></sec><sec id="pbi12957-sec-0031"><title>Genomewide transcriptome analysis of <italic>SaADF2</italic>&#x02010;OE vis&#x02010;&#x000e0;&#x02010;vis <italic>OsADF2</italic>&#x02010;OE and WT</title><p>RNA&#x02010;Seq libraries were prepared from unstressed (control) and 3 and 7 DAS WT, <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE in three biological replicates and sequenced in an Illumina HiSeq 2000 platform with 150&#x02010;cycle paired&#x02010;end as described in Bedre <italic>et&#x000a0;al</italic>. (2015). A total of 706&#x000a0;904&#x000a0;570 sequence reads (70.69&#x000a0;Gbp) were generated that corresponded to 623.83X coverage of the transcriptome (raw reads deposited in NCBI SRA database, Acc. No. PRJNA393177). Downstream sequence manipulations, such as filtering, mapping, assembly, differential gene expression, GO and KEGG analyses, were performed following Bedre <italic>et&#x000a0;al</italic>. (<xref rid="pbi12957-bib-0010" ref-type="ref">2016</xref>).</p></sec></sec><sec id="pbi12957-sec-0033"><title>Conflict of interest</title><p>The authors have no conflict of interest to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12957-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Nuclear localization of SaADF2.</p><p>
+<bold>Figure&#x000a0;S2</bold> SDS&#x02010;PAGE analysis of N&#x02010;terminal 6X&#x02010;His&#x02010;tagged OsADF2 (a), SaADF2 (b) and OsADF2/6&#x003b1; after ammonium sulphate precipitation and Ni&#x02010;NTA resin purification. CL; Cell Lysate, FT; Column Flow Through, W1/2; Wash 1/2, F1; Fraction 1, 200&#x000a0;m<sc>m</sc> Imidazole eluate containing purified protein; F2; Fraction 2, 250&#x000a0;m<sc>m</sc> Imidazole eluate containing purified protein, M; Molecular Weight Marker. Immunoblot from soluble and membrane fractions of <italic>E.&#x000a0;coli</italic> cell lysate expressing OsADF2, SaADF2 or OsADF2/6&#x003b1; recombinant proteins with monoclonal anti&#x02010;His antibody (c). US; Uninduced Supernatant fraction, UP; Uninduced Pellet fraction, IS; Induced Supernatant fraction, IP; Induced Pellet fraction, S; Supernatant, P; Pellet. BL21 cell lysate was used as negative control.</p><p>
+<bold>Figure&#x000a0;S3</bold> Drought tolerance of the SaADF2&#x02010;overexpressing transgenics 7 DAS (a), 11 DAS (b), and 14 DAS (c) compared to WT. Recovery of the 14d&#x02010;stressed SaADF2&#x02010;overexpressing transgenics and WT after 4 d of resuming irrigation (d), 11d&#x02010;stressed flowering plants 14 and 28&#x000a0;days after recovery (e, f). In the absence of stress, WT and SaADF2&#x02010;overexpressing plants have similar growth and reproduction (g). Plastid arrangement of WT and SaADF2&#x02010;overexpressing transgenic line under drought stress (h). Soil moisture content of the soil 7 DAS (i). Stomatal mean aperture (j) C=control, S=Stress.</p><p>
+<bold>Figure&#x000a0;S4</bold> Quantitative real&#x02010;time PCR profile of functionally important genes enriched in RNA&#x02010;seq data. phosphatidylinositol&#x02010;4&#x02010;phosphate 5&#x02010;kinase, PI45K4; histidine acid phosphatase, HIP; protein phosphatase 2C, PP2C1; type I inositol&#x02010;1,4,5&#x02010;trisphosphate 5&#x02010;phosphatase, I145PP; phosphatidic acid phosphatase&#x02010;related, PAP; protein phosphatase 2C, PP2C2; protein phosphatase 2C, PP2C3; mitochondrial Rho&#x02010;GTPase 1, mRho1; rhoGAP domain&#x02010;containing protein, Rho; rho&#x02010;GTPase&#x02010;activating protein&#x02010;related, RhoL; CAMK_KIN1/SNF1/Nim1_like.8 &#x02010; CAMK includes calcium/calmodulin dependent protein kinases, CAMK8; CAMK_CAMK_like 7, CAMK7; calcium&#x02010;dependent protein kinase isoform AK1, AK1; CAMK_KIN1/SNF1/Nim1_like.15, CAMK15; CAMK_KIN1/SNF1/Nim1_like. 26, CAMK26; CAMK_CAMK_like.20, CAMK20; CAMK_KIN1/SNF1/Nim1_like.3, CAMKL3; CAMK_KIN1/SNF1/Nim1_like.30, CAMK30; CAMK_KIN1/SNF1/Nim1_like.28, CAMK28; PhospholipaseD, PLD. WT, wild type, Sa, SaADF2, Os, OsADF2; 0,3, an7d denote 0, 3, and 7&#x000a0;days after stress.</p><p>
+<bold>Figure&#x000a0;S5</bold> Predicted filtered interactome map of SaADF2/OsADF2 constructed using RiceNet v2 (a). b. Semiquantitative expression analysis of representative interactive partners under control (D0) and 1&#x000a0;day (D1), 3&#x000a0;days (D3), and 7&#x000a0;days (D7) after drought stress in WT and six independent lines of SaADF2&#x02010;overexpressing transgenics. WD domain G&#x02010;beta repeat domain&#x02010;containing Protein/ At5&#x000a0;g58230 MSI1 (MSI, MULTICOPY SUPRESSOR OF IRA1), GTP&#x02010;binding protein (OsRAc1), mitochondrial heat shock protein ((mtHSP70&#x02010;1, mtHSP70&#x02010;2), chloroplastidic heat shock protein (cHSP70&#x02010;4), Copper/Zinc superoxide dismutase1 (C/Z&#x02010;SD1, C/Z&#x02010;SD2), Adenyl cyclase&#x02010;associated protein (ACP), T&#x02010;complex protein, putative, expressed (TCP), CS domain&#x02010;containing protein (CS).</p><p>
+<bold>Figure&#x000a0;S6 </bold>
+<italic>SaADF2</italic> overexpression conferred salt (a) and drought tolerance to <italic>Arabidopsis</italic> transgenics as compared with wild type (WT). Salt (100&#x000a0;m<sc>m</sc> NaCl) and drought stress (withholding irrigation) was imposed on 3&#x02010;week seedlings until flowering and seed setting.</p><p>
+<bold>Figure&#x000a0;S7</bold> Alignment of ADF2 amino acid sequences from Nipponbare, Nagina 22 (N22), <italic>Porteresia coarctata</italic> (Por), IR29, Pokkali (Pok), Geumgbyeo (Geu), Nonabokra (NB), Cocodrie (Coco), Vandana (Van) and IR64.</p><p>
+<bold>Figure&#x000a0;S8</bold> Negative (a) and positive (b) control for BiFC. Only&#x02010;N&#x02010;terminal fragments of split&#x02010;YFP bimolecular constructs carrying SaADF2 and OsADF2 was bombarded as a negative control. And as a positive control, bombarded transactivation domains of <italic>bHLH</italic> TF with the same construct was bombarded (Pattanaik <italic>et&#x000a0;al</italic>., <xref rid="pbi12957-bib-0045" ref-type="ref">2011</xref>).</p></caption><media xlink:href="PBI-17-188-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12957-sup-0002"><caption><p>
+<bold>Table&#x000a0;S1</bold> Sequences of primers used in the study.</p></caption><media xlink:href="PBI-17-188-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12957-sup-0003"><caption><p>
+<bold>Appendix&#x000a0;S1</bold> Descriptive legends to supporting figures.</p></caption><media xlink:href="PBI-17-188-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12957-sup-0004"><caption><p>
+<bold>Data S1</bold> Comparison of differentially expressed genes among WT, <italic>SaADF2</italic>&#x02010;OE and <italic>OsADF2</italic>&#x02010;OE).</p></caption><media xlink:href="PBI-17-188-s004.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12957-sup-0005"><caption><p>
+<bold>Data S2</bold> Gene ontology of genes differentially expressed in <italic>ADF2</italic>&#x02010;overexpressers vis&#x02010;&#x000e0;&#x02010;vis WT under control and drought.</p></caption><media xlink:href="PBI-17-188-s005.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12957-sup-0006"><caption><p>
+<bold>Data S3</bold> KEGG enrichment analysis for differentially expressed genes.</p></caption><media xlink:href="PBI-17-188-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12957-sup-0007"><caption><p>
+<bold>Method S1</bold> Supporting experimental procedures.</p></caption><media xlink:href="PBI-17-188-s007.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12957-sec-0032"><title>Acknowledgements</title><p>The study was funded by a grant from the United States Department of Agriculture, National Institute of Agriculture. The authors acknowledge Dr. Davis Burke, LSU Socolofsky Microscopy Center, for his technical help. The manuscript is approved for publication by the Louisiana Agricultural Experiment Station as manuscript number 2017&#x02010;306&#x02010;31587. This study pertains to a pending patent application (Baisakh and Mangu, <xref rid="pbi12957-bib-0006" ref-type="ref">2016</xref>).</p></ack><ref-list content-type="cited-references" id="pbi12957-bibl-0001"><title>References</title><ref id="pbi12957-bib-0001"><mixed-citation publication-type="journal" id="pbi12957-cit-0001">
+<string-name>
+<surname>Ali</surname>, <given-names>G.M.</given-names>
+</string-name> and <string-name>
+<surname>Komatsu</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>) <article-title>Proteomic analysis of rice leaf sheath during drought stress</article-title>. <source xml:lang="en">J. Proteome Res.</source>
+<volume>5</volume>, <fpage>396</fpage>&#x02013;<lpage>403</lpage>.<pub-id pub-id-type="pmid">16457606</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0002"><mixed-citation publication-type="journal" id="pbi12957-cit-0002">
+<string-name>
+<surname>Allwood</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>Smertenko</surname>, <given-names>A.P.</given-names>
+</string-name> and <string-name>
+<surname>Hussey</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>2001</year>) <article-title>Phosphorylation of plant actin&#x02010;depolymerising factor by calmodulin&#x02010;like domain protein kinase</article-title>. <source xml:lang="en">FEBS Lett.</source>
+<volume>499</volume>, <fpage>97</fpage>&#x02013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">11418120</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0080"><mixed-citation publication-type="journal" id="pbi12957-cit-0080">
+<string-name>
+<surname>Allwood</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>Anthony</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Smertenko</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Reichelt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Drobak</surname>, <given-names>B.K.</given-names>
+</string-name>, <string-name>
+<surname>Doonan</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Weeds</surname>, <given-names>A.G.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2002</year>) <article-title>Regulation of the pollen&#x02010;specific actin&#x02010;depolymerizing factor LlADF1</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>14</volume>, <fpage>2915</fpage>&#x02010;<lpage>2927</lpage>.<pub-id pub-id-type="pmid">12417710</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0003"><mixed-citation publication-type="journal" id="pbi12957-cit-0003">
+<string-name>
+<surname>Amberg</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Basart</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Botstein</surname>, <given-names>D.</given-names>
+</string-name> (<year>1995</year>) <article-title>Defining protein interactions with yeast actin <italic>in&#x000a0;vivo</italic>
+</article-title>. <source xml:lang="en">Nat. Struct. Biol.</source>
+<volume>2</volume>, <fpage>28</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">7719850</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0004"><mixed-citation publication-type="journal" id="pbi12957-cit-0004">
+<string-name>
+<surname>Augustine</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Vidali</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kleinman</surname>, <given-names>K.P.</given-names>
+</string-name> and <string-name>
+<surname>Bezanilla</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Actin depolymerizing factor is essential for viability in plants, and its phosphoregulation is important for tip growth</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>54</volume>, <fpage>863</fpage>&#x02013;<lpage>875</lpage>.<pub-id pub-id-type="pmid">18298672</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0005"><mixed-citation publication-type="journal" id="pbi12957-cit-0005">
+<string-name>
+<surname>Augustine</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Pattavina</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>T&#x000fc;zel</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Vidali</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Bezanilla</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Actin interacting protein1 and actin depolymerizing factor drive rapid actin dynamics in <italic>Physcomitrella patens</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>23</volume>, <fpage>3696</fpage>&#x02013;<lpage>3710</lpage>.<pub-id pub-id-type="pmid">22003077</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0006"><mixed-citation publication-type="miscellaneous" id="pbi12957-cit-0006">
+<string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> and <string-name>
+<surname>Mangu</surname>, <given-names>V.</given-names>
+</string-name> (<year>2016</year>) <article-title>Abiotic stress resistance</article-title>. United States Patent Application 20160145637.</mixed-citation></ref><ref id="pbi12957-bib-0007"><mixed-citation publication-type="journal" id="pbi12957-cit-0007">
+<string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Subudhi</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Varadwaj</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>) <article-title>Primary responses to salt stress in a halophyte <italic>Spartina alterniflora</italic> (Loisel)</article-title>. <source xml:lang="en">Funct. Integr. Genet.</source>
+<volume>8</volume>, <fpage>287</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0008"><mixed-citation publication-type="journal" id="pbi12957-cit-0008">
+<string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>RamanaRao</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Rajasekaran</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Subudhi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Janda</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Galbraith</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vanier</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Enhanced salt stress tolerance of rice plants expressing a vacuolar H+&#x02010;ATPase subunit c1 (SaVHAc1) gene from the halophyte grass <italic>Spartina alterniflora</italic> Loisel</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>10</volume>, <fpage>453</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">22284568</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0009"><mixed-citation publication-type="journal" id="pbi12957-cit-0009">
+<string-name>
+<surname>Bamburg</surname>, <given-names>J.R.</given-names>
+</string-name> and <string-name>
+<surname>Bernstein</surname>, <given-names>B.W.</given-names>
+</string-name> (<year>2008</year>) <article-title>ADF/cofilin</article-title>. <source xml:lang="en">Curr. Biol.</source>
+<volume>18</volume>, <fpage>R273</fpage>&#x02013;<lpage>R275</lpage>.<pub-id pub-id-type="pmid">18397729</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0010"><mixed-citation publication-type="journal" id="pbi12957-cit-0010">
+<string-name>
+<surname>Bedre</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mangu</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Timm</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> (<year>2016</year>) <article-title>Transcriptome analysis of smooth cordgrass (<italic>Spartina alterniflora</italic> Loisel), a monocot halophyte, reveals candidate genes involved in its adaptation to salinity</article-title>. <source xml:lang="en">BMC Genom.</source>
+<volume>17</volume>, <fpage>657</fpage>.</mixed-citation></ref><ref id="pbi12957-bib-0011"><mixed-citation publication-type="journal" id="pbi12957-cit-0011">
+<string-name>
+<surname>Bettinger</surname>, <given-names>B.T.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>D.M.</given-names>
+</string-name> and <string-name>
+<surname>Amberg</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2004</year>) <article-title>Actin up in the nucleus</article-title>. <source xml:lang="en">Nat. Rev. Mol. Cell Biol.</source>
+<volume>5</volume>, <fpage>410</fpage>&#x02013;<lpage>415</lpage>.<pub-id pub-id-type="pmid">15122354</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0012"><mixed-citation publication-type="journal" id="pbi12957-cit-0012">
+<string-name>
+<surname>Bowman</surname>, <given-names>G.D.</given-names>
+</string-name>, <string-name>
+<surname>Nodelman</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Lindberg</surname>, <given-names>U.</given-names>
+</string-name> and <string-name>
+<surname>Schutt</surname>, <given-names>C.E.</given-names>
+</string-name> (<year>2000</year>) <article-title>A comparative structural analysis of the ADF/cofilin family</article-title>. <source xml:lang="en">Proteins</source>, <volume>41</volume>, <fpage>374</fpage>&#x02013;<lpage>384</lpage>.<pub-id pub-id-type="pmid">11025548</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0013"><mixed-citation publication-type="journal" id="pbi12957-cit-0013">
+<string-name>
+<surname>Carlier</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Laurent</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Santolini</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Melki</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Didry</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>G.X.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>1997</year>) <article-title>Actin depolymerizing factor (ADF/Cofilin) enhances the rate of filament turnover: implication in actin&#x02010;based motility</article-title>. <source xml:lang="en">J. Cell. Biochem.</source>
+<volume>136</volume>, <fpage>1307</fpage>&#x02013;<lpage>1322</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0014"><mixed-citation publication-type="journal" id="pbi12957-cit-0014">
+<string-name>
+<surname>Checker</surname>, <given-names>V.G.</given-names>
+</string-name>, <string-name>
+<surname>Chhibbar</surname>, <given-names>A.K.</given-names>
+</string-name> and <string-name>
+<surname>Khurana</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>) <article-title>Stress&#x02010;inducible expression of barley <italic>Hva1</italic> gene in transgenic mulberry displays enhanced tolerance against drought, salinity and cold stress</article-title>. <source xml:lang="en">Transgenic Res.</source>
+<volume>21</volume>, <fpage>939</fpage>&#x02013;<lpage>957</lpage>.<pub-id pub-id-type="pmid">22160463</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0081"><mixed-citation publication-type="journal" id="pbi12957-cit-0081">
+<string-name>
+<surname>Chiang</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Yim</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Ohnishi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mimura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Cushman</surname>, <given-names>J.C.</given-names>
+</string-name> and <string-name>
+<surname>Yen</surname>, <given-names>H.E.</given-names>
+</string-name> (<year>2016</year>) <article-title>Identification of ice plant (Mesembryanthemum crystallinum L.) microRNAs using RNA&#x02010;Seq and their putative roles in high salinity responses in seedlings. Front</article-title>. <source xml:lang="en">Plant Sci.</source>
+<volume>7</volume>, <fpage>1143</fpage>.</mixed-citation></ref><ref id="pbi12957-bib-0015"><mixed-citation publication-type="journal" id="pbi12957-cit-0015">
+<string-name>
+<surname>Cl&#x000e9;ment</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ketelaar</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rodiuc</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Banora</surname>, <given-names>M.Y.</given-names>
+</string-name>, <string-name>
+<surname>Smertenko</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Engler</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Abad</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Actin&#x02010;depolymerizing factor 2&#x02010;mediated actin dynamics are essential for root&#x02010;knot nematode infection of <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>21</volume>, <fpage>2963</fpage>&#x02013;<lpage>2979</lpage>.<pub-id pub-id-type="pmid">19794115</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0016"><mixed-citation publication-type="journal" id="pbi12957-cit-0016">
+<string-name>
+<surname>Cooper</surname>, <given-names>J.A.</given-names>
+</string-name> and <string-name>
+<surname>Schafer</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2000</year>) <article-title>Control of actin assembly and disassembly at filament ends</article-title>. <source xml:lang="en">Curr. Opin. Cell Biol.</source>
+<volume>12</volume>, <fpage>97</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">10679358</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0017"><mixed-citation publication-type="journal" id="pbi12957-cit-0017">
+<string-name>
+<surname>Daher</surname>, <given-names>F.B.</given-names>
+</string-name>, <string-name>
+<surname>van Oostende</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Geitmann</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Spatial and temporal expression of actin depolymerizing factors ADF7 and ADF10 during male gametophyte development in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>52</volume>, <fpage>1177</fpage>&#x02013;<lpage>1192</lpage>.<pub-id pub-id-type="pmid">21632657</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0018"><mixed-citation publication-type="journal" id="pbi12957-cit-0018">
+<string-name>
+<surname>Deng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>Z.</given-names>
+</string-name> and <string-name>
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Molecular cloning and characterization of an actin depolymerizing factor gene in <italic>Hevea brasiliensis</italic>
+</article-title>. <source xml:lang="en">Afr. J. Biotechnol.</source>
+<volume>9</volume>, <fpage>7603</fpage>&#x02013;<lpage>7610</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0084"><mixed-citation publication-type="journal" id="pbi12957-cit-0084">
+<string-name>
+<surname>Drobak</surname>, <given-names>B.K.</given-names>
+</string-name>, <string-name>
+<surname>Franklin&#x02010;Tong</surname>, <given-names>V.E.</given-names>
+</string-name> and <string-name>
+<surname>Staiger</surname>, <given-names>C.T.</given-names>
+</string-name> (<year>2004</year>) <article-title>The role of the actin cytoskeleton in plant cell signaling</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>163</volume>, <fpage>13</fpage>&#x02013;<lpage>30</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0019"><mixed-citation publication-type="journal" id="pbi12957-cit-0019">
+<string-name>
+<surname>Egierszdorff</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Kacperska</surname>, <given-names>A.</given-names>
+</string-name> (<year>2001</year>) <article-title>Low temperature effects on growth and actin cytoskeleton organisation in suspension cells of winter oilseed rape</article-title>. <source xml:lang="en">Plant Cell Tissue Org. Cult.</source>
+<volume>65</volume>, <fpage>149</fpage>&#x02013;<lpage>158</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0020"><mixed-citation publication-type="journal" id="pbi12957-cit-0020">
+<string-name>
+<surname>Gibbon</surname>, <given-names>B.C.</given-names>
+</string-name>, <string-name>
+<surname>Kovar</surname>, <given-names>D.R.</given-names>
+</string-name> and <string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>1999</year>) <article-title>Latrunculin B has different effects on pollen germination and tube growth</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>11</volume>, <fpage>2349</fpage>&#x02013;<lpage>2363</lpage>.<pub-id pub-id-type="pmid">10590163</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0021"><mixed-citation publication-type="journal" id="pbi12957-cit-0021">
+<string-name>
+<surname>Gungabissoon</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Drobak</surname>, <given-names>B.K.</given-names>
+</string-name>, <string-name>
+<surname>Maciver</surname>, <given-names>S.K.</given-names>
+</string-name> and <string-name>
+<surname>Hussey</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>1998</year>) <article-title>Interaction of maize actin&#x02010;depolymerization factor with actin and phosphoinositides and its inhibition of plant phospholipase C</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>16</volume>, <fpage>689</fpage>&#x02013;<lpage>696</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0022"><mixed-citation publication-type="journal" id="pbi12957-cit-0022">
+<string-name>
+<surname>Higaki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kutsuna</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sano</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Hasezawa</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Quantitative analysis of changes in actin microfilament contribution to cell plate development in plant cytokinesis</article-title>. <source xml:lang="en">BMC Plant Biol.</source>
+<volume>8</volume>, <fpage>80</fpage>.<pub-id pub-id-type="pmid">18637163</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0023"><mixed-citation publication-type="journal" id="pbi12957-cit-0023">
+<string-name>
+<surname>Huang</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Lur</surname>, <given-names>H.S.</given-names>
+</string-name> and <string-name>
+<surname>Chang</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2012</year>) <article-title>Comprehensive analysis of differentially expressed rice actin depolymerizing factor gene family and heterologous overexpression of OsADF3 confers <italic>Arabidopsis thaliana</italic> drought tolerance</article-title>. <source xml:lang="en">Rice</source>, <volume>5</volume>, <fpage>33</fpage>.<pub-id pub-id-type="pmid">24279948</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0024"><mixed-citation publication-type="journal" id="pbi12957-cit-0024">
+<string-name>
+<surname>Hussey</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Ketelaar</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Deeks</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>2006</year>) <article-title>Control of the actin cytoskeleton in plant cell growth</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>57</volume>, <fpage>109</fpage>&#x02013;<lpage>125</lpage>.<pub-id pub-id-type="pmid">16669757</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0025"><mixed-citation publication-type="journal" id="pbi12957-cit-0025">
+<string-name>
+<surname>Iida</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Yahara</surname>, <given-names>I.</given-names>
+</string-name> (<year>1999</year>) <article-title>Cooperation of two actin&#x02010;binding proteins, cofilin and AIP1, in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Genes Cells</source>, <volume>4</volume>, <fpage>21</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">10231390</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0026"><mixed-citation publication-type="journal" id="pbi12957-cit-0026">
+<string-name>
+<surname>Jabs</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dietrich</surname>, <given-names>R.A.</given-names>
+</string-name> and <string-name>
+<surname>Dangl</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>1996</year>) <article-title>Initiation of runaway cell death in an <italic>Arabidopsis</italic> mutant by extracellular superoxide</article-title>. <source xml:lang="en">Science</source>, <volume>273</volume>, <fpage>1853</fpage>&#x02013;<lpage>1856</lpage>.<pub-id pub-id-type="pmid">8791589</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0027"><mixed-citation publication-type="journal" id="pbi12957-cit-0027">
+<string-name>
+<surname>Jin</surname>, <given-names>Z.L.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Naeem</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Jilani</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Zhou</surname>, <given-names>W.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Chlorophyll fluorescence responses to application of new herbicide BZJ0273 in winter oilseed rape species</article-title>. <source xml:lang="en">Int. J. Agric. and Biol.</source>
+<volume>13</volume>, <fpage>43</fpage>&#x02013;<lpage>50</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0028"><mixed-citation publication-type="journal" id="pbi12957-cit-0028">
+<string-name>
+<surname>Joshi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ramanarao</surname>, <given-names>M.V.</given-names>
+</string-name> and <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>) <article-title>
+<italic>Arabidopsis</italic> plants constitutively overexpressing a myo&#x02010;inositol 1&#x02010;phosphate synthase gene (<italic>SaINO1</italic>) from the halophyte smooth cordgrass exhibits enhanced level of tolerance to salt stress</article-title>. <source xml:lang="en">Plant Physiol. Biochem.</source>
+<volume>65</volume>, <fpage>61</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">23416497</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0029"><mixed-citation publication-type="journal" id="pbi12957-cit-0029">
+<string-name>
+<surname>Joshi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ramanarao</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>, <given-names>N.</given-names>
+</string-name> and <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> (<year>2014</year>) <article-title>Ectopic expression of ADP ribosylation factor 1 (<italic>SaARF1</italic>) from smooth cordgrass (<italic>Spartina alterniflora</italic> Loisel) confers drought and salt tolerance in transgenic rice and <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Cell Tissure Org. Cult.</source>
+<volume>117</volume>, <fpage>17</fpage>&#x02013;<lpage>30</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0030"><mixed-citation publication-type="book" id="pbi12957-cit-0030">
+<string-name>
+<surname>Joshi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ramanarao</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Bedre</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pilcher</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Salt adaptation mechanisms of halophytes: Improvement of salt tolerance in crop plants</chapter-title> In <source xml:lang="en">Elucidation of Abiotic Stress Signaling in Plants</source> (<person-group person-group-type="editor"><name><surname>Pandey</surname><given-names>G.K.</given-names></name></person-group>, ed), pp. <fpage>243</fpage>&#x02013;<lpage>279</lpage>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi12957-bib-0031"><mixed-citation publication-type="journal" id="pbi12957-cit-0031">
+<string-name>
+<surname>Konzok</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Simmeth</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hacker</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Maniak</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>M&#x000fc;ller&#x02010;Taubenberger</surname>, <given-names>A.</given-names>
+</string-name> (<year>1999</year>) <article-title>Daip1, a <italic>Dictyostelium</italic> homologue of the yeast actin&#x02010;interacting protein 1, is involved in endocytosis, cytokinesis, and motility</article-title>. <source xml:lang="en">J. Cell Biol.</source>
+<volume>146</volume>, <fpage>453</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">10427097</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0032"><mixed-citation publication-type="book" id="pbi12957-cit-0032">
+<string-name>
+<surname>Kordyum</surname>, <given-names>E.L.</given-names>
+</string-name>, <string-name>
+<surname>Shevchenko</surname>, <given-names>G.V.</given-names>
+</string-name>, <string-name>
+<surname>Kalinina</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Demkiv</surname>, <given-names>O.T.</given-names>
+</string-name> and <string-name>
+<surname>Khorkavtsiv</surname>, <given-names>Y.D.</given-names>
+</string-name> (<year>2009</year>) <chapter-title>The role of the cytoskeleton in plant cell gravisensitivity</chapter-title> In <source xml:lang="en">The Plant Cytoskeleton: A Key Tool for Agro&#x02010;Biotechnology</source> (<person-group person-group-type="editor"><name><surname>Blume</surname><given-names>Y.B.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Baird</surname><given-names>W.V.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Yemets</surname><given-names>A.I.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Breviario</surname><given-names>D.</given-names></name></person-group>, eds), pp. <fpage>173</fpage>&#x02013;<lpage>196</lpage>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi12957-bib-0033"><mixed-citation publication-type="journal" id="pbi12957-cit-0033">
+<string-name>
+<surname>Lappalainen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fedorov</surname>, <given-names>E.V.</given-names>
+</string-name>, <string-name>
+<surname>Fedorov</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Almo</surname>, <given-names>S.C.</given-names>
+</string-name> and <string-name>
+<surname>Drubin</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>1997</year>) <article-title>Essential functions and actin&#x02010;binding surfaces of yeast cofilin revealed by systematic mutagenesis</article-title>. <source xml:lang="en">EMBO J.</source>
+<volume>16</volume>, <fpage>5520</fpage>&#x02013;<lpage>5530</lpage>.<pub-id pub-id-type="pmid">9312011</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0095"><mixed-citation publication-type="journal" id="pbi12957-cit-0095">
+<string-name>
+<surname>Lee</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>, <given-names>Y.S.</given-names>
+</string-name>, <string-name>
+<surname>Coltrane</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Marcotte</surname>, <given-names>E.M.</given-names>
+</string-name> and <string-name>
+<surname>Ronald</surname>, <given-names>P.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Genetic dissection of the biotic stress response using a genome&#x02010;scale gene network for rice</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>108</volume>, <fpage>18548</fpage>&#x02013;<lpage>18553</lpage>.<pub-id pub-id-type="pmid">22042862</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0034"><mixed-citation publication-type="journal" id="pbi12957-cit-0034">
+<string-name>
+<surname>Li</surname>, <given-names>X.B.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>G.Q.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Three cotton genes preferentially expressed in flower tissues encode actin&#x02010;depolymerizing factors which are involved in F&#x02010;actin dynamics in cells</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>61</volume>, <fpage>41</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">19861654</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0035"><mixed-citation publication-type="journal" id="pbi12957-cit-0035">
+<string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Blanchoin</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Signaling to actin stochastic dynamics</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>66</volume>, <fpage>415</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">25423079</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0036"><mixed-citation publication-type="journal" id="pbi12957-cit-0036">
+<string-name>
+<surname>Liu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fallen</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Upadhyay</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Song</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>) <article-title>The actin cytoskeleton coordinates the signal transduction and antigen processing functions of the B cell antigen receptor</article-title>. <source xml:lang="en">Front. Biol.</source>
+<volume>8</volume>, <fpage>475</fpage>&#x02013;<lpage>485</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0037"><mixed-citation publication-type="journal" id="pbi12957-cit-0037">
+<string-name>
+<surname>Luan</surname>, <given-names>S.</given-names>
+</string-name> (<year>2002</year>) <article-title>Signaling drought in guard cells</article-title>. <source xml:lang="en">Plant Cell Environ.</source>
+<volume>25</volume>, <fpage>229</fpage>&#x02013;<lpage>237</lpage>.<pub-id pub-id-type="pmid">11841666</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0038"><mixed-citation publication-type="journal" id="pbi12957-cit-0038">
+<string-name>
+<surname>Maciver</surname>, <given-names>S.K.</given-names>
+</string-name> and <string-name>
+<surname>Hussey</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>2002</year>) <article-title>The ADF/cofilin family: actin&#x02010;remodeling proteins</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>3</volume>, <fpage>3007.1</fpage>&#x02013;<lpage>3007.12</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0039"><mixed-citation publication-type="journal" id="pbi12957-cit-0039">
+<string-name>
+<surname>Majee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Maitra</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dastidar</surname>, <given-names>K.G.</given-names>
+</string-name>, <string-name>
+<surname>Pattnaik</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chatterjee</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hait</surname>, <given-names>N.C.</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>, <given-names>K.P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2004</year>) <article-title>A novel salt&#x02010;tolerant L&#x02010;myo&#x02010;inositol&#x02010;1&#x02010;phosphate synthase from <italic>Porteresia coarctata</italic> (Roxb.) Tateoka, a halophytic wild rice: molecular cloning, bacterial overexpression, characterization, and functional introgression into tobacco&#x02010;conferring salt tolerance phenotype</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>279</volume>, <fpage>28539</fpage>&#x02013;<lpage>28552</lpage>.<pub-id pub-id-type="pmid">15016817</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0083"><mixed-citation publication-type="journal" id="pbi12957-cit-0083">
+<string-name>
+<surname>Marques</surname>, <given-names>J.P.R.</given-names>
+</string-name>, <string-name>
+<surname>Hoy</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Appezzato&#x02010;da&#x02010;Gloria</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Viveros</surname>, <given-names>A.F.G.</given-names>
+</string-name>, <string-name>
+<surname>Vieira</surname>, <given-names>M.L.C.</given-names>
+</string-name> and <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> (<year>2018</year>) <article-title>Sugarcane cell wall&#x02010;associated defense responses to infection by Sporisorium scitamineum</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>9</volume>, <fpage>698</fpage>.<pub-id pub-id-type="pmid">29875793</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0040"><mixed-citation publication-type="journal" id="pbi12957-cit-0040">
+<string-name>
+<surname>McCurdy</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Kovar</surname>, <given-names>D.R.</given-names>
+</string-name> and <string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2001</year>) <article-title>Actin and actin&#x02010;binding proteins in higher plants</article-title>. <source xml:lang="en">Protoplasma</source>, <volume>215</volume>, <fpage>89</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">11732068</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0041"><mixed-citation publication-type="journal" id="pbi12957-cit-0041">
+<string-name>
+<surname>Menand</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Calder</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Dolan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Both chloronemal and caulonemal cells expand by tip growth in the moss <italic>Physcomitrella patens</italic>
+</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>58</volume>, <fpage>1843</fpage>&#x02013;<lpage>1849</lpage>.<pub-id pub-id-type="pmid">17404383</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0042"><mixed-citation publication-type="journal" id="pbi12957-cit-0042">
+<string-name>
+<surname>Miralles</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Visa</surname>, <given-names>N.</given-names>
+</string-name> (<year>2006</year>) <article-title>Actin in transcription and transcription regulation</article-title>. <source xml:lang="en">Curr. Opin. Cell Biol.</source>
+<volume>18</volume>, <fpage>261</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">16687246</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0085"><mixed-citation publication-type="journal" id="pbi12957-cit-0085">
+<string-name>
+<surname>Nan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Plant actin&#x02010;depolymerizing factors possess opposing biochemical properties arising from key amino acid changes throughout evolution</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>29</volume>, <fpage>395</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">28123105</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0086"><mixed-citation publication-type="journal" id="pbi12957-cit-0086">
+<string-name>
+<surname>Nomura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hayakawa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tatsumi</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Ono</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>) <article-title>Actin&#x02010;interacting protein 1 promotes disassembly of actin&#x02010;depolymerizing factor/cofilin&#x02010;bound actin filaments in a pH&#x02010;dependent manner</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>291</volume>, <fpage>5146</fpage>&#x02013;<lpage>5156</lpage>.<pub-id pub-id-type="pmid">26747606</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0043"><mixed-citation publication-type="journal" id="pbi12957-cit-0043">
+<string-name>
+<surname>Ono</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McGough</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pope</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Tolbert</surname>, <given-names>V.T.</given-names>
+</string-name>, <string-name>
+<surname>Bui</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pohl</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Benian</surname>, <given-names>G.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2000</year>) <article-title>The C&#x02010;terminal tail of UNC&#x02010;60B (actin depolymerizing factor/cofilin) is critical for maintaining its stable association with F&#x02010;actin and is implicated in the second actin&#x02010;binding site</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>276</volume>, <fpage>5952</fpage>&#x02013;<lpage>5958</lpage>.<pub-id pub-id-type="pmid">11050090</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0087"><mixed-citation publication-type="journal" id="pbi12957-cit-0087">
+<string-name>
+<surname>Ono</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of cyclase&#x02010;associated protein in regulating actin filament dynamics &#x02010; more than a monomer&#x02010;sequestration factor</article-title>. <source xml:lang="en">J. Cell Sci.</source>
+<volume>126</volume>, <fpage>3249</fpage>&#x02010;<lpage>3258</lpage>.<pub-id pub-id-type="pmid">23908377</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0044"><mixed-citation publication-type="journal" id="pbi12957-cit-0044">
+<string-name>
+<surname>Ouellet</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Carpentier</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cope</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Monroy</surname>, <given-names>A.F.</given-names>
+</string-name> and <string-name>
+<surname>Sarhan</surname>, <given-names>F.</given-names>
+</string-name> (<year>2001</year>) <article-title>Regulation of a wheat actin&#x02010;depolymerizing factor during cold acclimation</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>125</volume>, <fpage>360</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">11154343</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0045"><mixed-citation publication-type="journal" id="pbi12957-cit-0045">
+<string-name>
+<surname>Pattanaik</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wekerman</surname>, <given-names>J.R.</given-names>
+</string-name> and <string-name>
+<surname>Yuan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2011</year>) <article-title>Bimolecular fluorescence complementation as a tool to study interaction of regulatory proteins in plant protoplasts</article-title>. <source xml:lang="en">Methods Mol. Biol.</source>
+<volume>754</volume>, <fpage>185</fpage>&#x02013;<lpage>193</lpage>.<pub-id pub-id-type="pmid">21720953</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0046"><mixed-citation publication-type="journal" id="pbi12957-cit-0046">
+<string-name>
+<surname>Pettersen</surname>, <given-names>E.F.</given-names>
+</string-name>, <string-name>
+<surname>Goddard</surname>, <given-names>T.D.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Couch</surname>, <given-names>G.S.</given-names>
+</string-name>, <string-name>
+<surname>Greenblatt</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>, <given-names>E.C.</given-names>
+</string-name> and <string-name>
+<surname>Ferrin</surname>, <given-names>T.E.</given-names>
+</string-name> (<year>2004</year>) <article-title>UCSF Chimera&#x02014;a visualization system for exploratory research and analysis</article-title>. <source xml:lang="en">J. Comput. Chem.</source>
+<volume>25</volume>, <fpage>1605</fpage>&#x02013;<lpage>1612</lpage>.<pub-id pub-id-type="pmid">15264254</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0047"><mixed-citation publication-type="journal" id="pbi12957-cit-0047">
+<string-name>
+<surname>Pokorna</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schwarzerova</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zelenkova</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Petrasek</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Janotova</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>&#x0010c;apkov&#x000e1;</surname>, <given-names>V.</given-names>
+</string-name> and <string-name>
+<surname>Opatrn&#x000fd;</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2004</year>) <article-title>Sites of actin filament initiation and reorganization in cold&#x02010;treated tobacco cells</article-title>. <source xml:lang="en">Plant Cell Environ.</source>
+<volume>27</volume>, <fpage>641</fpage>&#x02013;<lpage>653</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0048"><mixed-citation publication-type="journal" id="pbi12957-cit-0048">
+<string-name>
+<surname>Pollard</surname>, <given-names>T.D.</given-names>
+</string-name> and <string-name>
+<surname>Cooper</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2009</year>) <article-title>Actin, a central player in cell shape and movement</article-title>. <source xml:lang="en">Science</source>, <volume>326</volume>, <fpage>1208</fpage>&#x02013;<lpage>1212</lpage>.<pub-id pub-id-type="pmid">19965462</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0049"><mixed-citation publication-type="journal" id="pbi12957-cit-0049">
+<string-name>
+<surname>Pope</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Gonsior</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Yeoh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McGough</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Weeds</surname>, <given-names>A.G.</given-names>
+</string-name> (<year>2000</year>) <article-title>Uncoupling actin filament fragmentation by cofilin from increased subunit turnover</article-title>. <source xml:lang="en">J. Mol. Biol.</source>
+<volume>298</volume>, <fpage>649</fpage>&#x02013;<lpage>661</lpage>.<pub-id pub-id-type="pmid">10788327</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0050"><mixed-citation publication-type="journal" id="pbi12957-cit-0050">
+<string-name>
+<surname>Rao</surname>, <given-names>M.V.R.</given-names>
+</string-name>, <string-name>
+<surname>Behera</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Datta</surname>, <given-names>S.K.</given-names>
+</string-name> and <string-name>
+<surname>Rao</surname>, <given-names>G.J.N.</given-names>
+</string-name> (<year>2009</year>) <article-title>Transgenic indica rice cultivar &#x02018;Swarna&#x02019; expressing a potato chymotrypsin inhibitor <italic>pin2</italic> gene show enhanced levels of resistance to yellow stem borer</article-title>. <source xml:lang="en">Plant Cell Tissue Org. Cult.</source>
+<volume>99</volume>, <fpage>277</fpage>&#x02013;<lpage>285</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0091"><mixed-citation publication-type="journal" id="pbi12957-cit-0091">
+<string-name>
+<surname>Roland</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Berro</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Michelot</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Blanchoin</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Martiel</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2008</year>) <article-title>Stochastic severing of actin filaments by actin depolymerizing factor/cofilin controls the emergence of a steady dynamical regime</article-title>. <source xml:lang="en">Biophys. J.</source>
+<volume>94</volume>, <fpage>2082</fpage>&#x02013;<lpage>2094</lpage>.<pub-id pub-id-type="pmid">18065447</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0051"><mixed-citation publication-type="journal" id="pbi12957-cit-0051">
+<string-name>
+<surname>Salekdeh</surname>, <given-names>G.H.</given-names>
+</string-name>, <string-name>
+<surname>Siopongco</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Wade</surname>, <given-names>L.J.</given-names>
+</string-name> (<year>2002</year>) <article-title>Proteomic analysis of rice leaves during drought stress and recovery</article-title>. <source xml:lang="en">Proteomics</source>, <volume>2</volume>, <fpage>1131</fpage>&#x02013;<lpage>1145</lpage>.<pub-id pub-id-type="pmid">12362332</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0052"><mixed-citation publication-type="journal" id="pbi12957-cit-0052">
+<string-name>
+<surname>Shekhar</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Carlier</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Enhanced depolymerization of actin filaments by ADF/Cofilin and monomer funneling by capping protein cooperate to accelerate barbed&#x02010;end growth</article-title>. <source xml:lang="en">Curr. Biol.</source>
+<volume>27</volume>, <fpage>1990</fpage>&#x02013;<lpage>1998</lpage>.<pub-id pub-id-type="pmid">28625780</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0053"><mixed-citation publication-type="journal" id="pbi12957-cit-0053">
+<string-name>
+<surname>Sikuku</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Netondo</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Onyango</surname>, <given-names>J.C.</given-names>
+</string-name> and <string-name>
+<surname>Musyimi</surname>, <given-names>D.M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Effects of water deficit on physiology and morphology of three varieties of NERICA rainfed rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">ARPN J. Agric. Biol. Sci.</source>
+<volume>5</volume>, <fpage>23</fpage>&#x02013;<lpage>28</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0092"><mixed-citation publication-type="journal" id="pbi12957-cit-0092">
+<string-name>
+<surname>Singh</surname>, <given-names>B.K.</given-names>
+</string-name>, <string-name>
+<surname>Sattler</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Chatterjee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Huttu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000fc;ler</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Kursula</surname>, <given-names>I.</given-names>
+</string-name> (<year>2011</year>) <article-title>Crystal structures explain functional differences in the two actin depolymerization factors of the malaria parasite</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>286</volume>, <fpage>28256</fpage>&#x02010;<lpage>28264</lpage>.<pub-id pub-id-type="pmid">21832095</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0054"><mixed-citation publication-type="journal" id="pbi12957-cit-0054">
+<string-name>
+<surname>Smertenko</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Simmons</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Weeds</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>D.R.</given-names>
+</string-name> and <string-name>
+<surname>Hussey</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>1998</year>) <article-title>Ser 6 in the maize actin&#x02010;depolymerizing factor, ZmADF3, is phosphorylated by a calcium&#x02010;stimulated protein kinase and is essential for the control of functional activity</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>14</volume>, <fpage>187</fpage>&#x02013;<lpage>193</lpage>.<pub-id pub-id-type="pmid">9669865</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0055"><mixed-citation publication-type="journal" id="pbi12957-cit-0055">
+<string-name>
+<surname>Smith</surname>, <given-names>L.G.</given-names>
+</string-name> and <string-name>
+<surname>Oppenheimer</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>2005</year>) <article-title>Spatial control of cell expansion by the plant cytoskeleton</article-title>. <source xml:lang="en">Annu. Rev. Cell Dev. Biol.</source>
+<volume>21</volume>, <fpage>271</fpage>&#x02013;<lpage>295</lpage>.<pub-id pub-id-type="pmid">16212496</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0056"><mixed-citation publication-type="journal" id="pbi12957-cit-0056">
+<string-name>
+<surname>Snowman</surname>, <given-names>B.N.</given-names>
+</string-name>, <string-name>
+<surname>Kovar</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Shevchenko</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Franklin&#x02010;Tong</surname>, <given-names>V.E.</given-names>
+</string-name> and <string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2002</year>) <article-title>Signal&#x02010;mediated depolymerization of actin in pollen during the self&#x02010;incompatibility response</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>14</volume>, <fpage>2613</fpage>&#x02013;<lpage>2626</lpage>.<pub-id pub-id-type="pmid">12368508</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0057"><mixed-citation publication-type="journal" id="pbi12957-cit-0057">
+<string-name>
+<surname>Solanke</surname>, <given-names>A.U.</given-names>
+</string-name> and <string-name>
+<surname>Sharma</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2008</year>) <article-title>Signal transduction during cold stress in plants</article-title>. <source xml:lang="en">Physiol. Mol. Biol. Plants</source>, <volume>14</volume>, <fpage>69</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">23572874</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0058"><mixed-citation publication-type="journal" id="pbi12957-cit-0058">
+<string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2000</year>) <article-title>Signaling to the actin cytoskeleton in plants</article-title>. <source xml:lang="en">Annu. Rev. Plant Physiol. Plant Mol. Biol.</source>
+<volume>51</volume>, <fpage>257</fpage>&#x02013;<lpage>288</lpage>.<pub-id pub-id-type="pmid">15012193</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0059"><mixed-citation publication-type="journal" id="pbi12957-cit-0059">
+<string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> and <string-name>
+<surname>Blanchoin</surname>, <given-names>L.</given-names>
+</string-name> (<year>2006</year>) <article-title>Actin dynamics: old friends with new stories</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>9</volume>, <fpage>554</fpage>&#x02013;<lpage>562</lpage>.<pub-id pub-id-type="pmid">17011229</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0060"><mixed-citation publication-type="journal" id="pbi12957-cit-0060">
+<string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Sheahan</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Khurana</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>McCurdy</surname>, <given-names>D.W.</given-names>
+</string-name> and <string-name>
+<surname>Blanchoin</surname>, <given-names>L.</given-names>
+</string-name> (<year>2009</year>) <article-title>Actin filament dynamics are dominated by rapid growth and severing activity in the <italic>Arabidopsis</italic> cortical array</article-title>. <source xml:lang="en">J. Cell Biol.</source>
+<volume>184</volume>, <fpage>269</fpage>&#x02013;<lpage>280</lpage>.<pub-id pub-id-type="pmid">19171759</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0061"><mixed-citation publication-type="book" id="pbi12957-cit-0061">
+<string-name>
+<surname>Stanga</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Neal</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vaughn</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Jia</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>) <chapter-title>Signaling in plant gravitropism</chapter-title> In <source xml:lang="en">Signaling in Plants</source> (<person-group person-group-type="editor"><name><surname>Mancuso</surname><given-names>S.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Balu&#x00161;ka</surname><given-names>F.</given-names></name></person-group>, eds), pp. <fpage>209</fpage>&#x02013;<lpage>237</lpage>. <publisher-loc>Berlin</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi12957-bib-0098"><mixed-citation publication-type="journal" id="pbi12957-cit-0098">
+<string-name>
+<surname>Subudhi</surname>, <given-names>P.K.</given-names>
+</string-name> and <string-name>
+<surname>Baisakh</surname>, <given-names>N.</given-names>
+</string-name> (<year>2011</year>) <article-title>Spartina alterniflora Loisel., a halophyte grass model to dissect salt stress tolerance</article-title>. <source xml:lang="en">In Vitro Cell Dev. Biol. Plant.</source>
+<volume>47</volume>, <fpage>441</fpage>&#x02013;<lpage>457</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0102"><mixed-citation publication-type="journal" id="pbi12957-cit-0102">
+<string-name>
+<surname>Suganuma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pattenden</surname>, <given-names>S.G.</given-names>
+</string-name> and <string-name>
+<surname>Workman</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2008</year>) <article-title>Diverse functions of WD40 repeat proteins in histone recognition</article-title>. <source xml:lang="en">Genes Dev.</source>
+<volume>22</volume>, <fpage>1265</fpage>&#x02013;<lpage>1268</lpage>.<pub-id pub-id-type="pmid">18483215</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0062"><mixed-citation publication-type="journal" id="pbi12957-cit-0062">
+<string-name>
+<surname>Tholl</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Arumugam</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Dieterle</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moes</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>
+<italic>Arabidopsis</italic> actin&#x02010;depolymerizing factors (ADFs) 1 and 9 display antagonist activities</article-title>. <source xml:lang="en">FEBS Lett.</source>
+<volume>585</volume>, <fpage>1821</fpage>&#x02013;<lpage>1827</lpage>.<pub-id pub-id-type="pmid">21570971</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0063"><mixed-citation publication-type="journal" id="pbi12957-cit-0063">
+<string-name>
+<surname>Thordal&#x02010;Christensen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Collinge</surname>, <given-names>D.B.</given-names>
+</string-name> (<year>1997</year>) <article-title>Subcellular localization of H<sub>2</sub>O<sub>2</sub> in plants. H<sub>2</sub>O<sub>2</sub> accumulation in papillae and hypersensitive response during the barley&#x02010;powdery mildew interaction</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>11</volume>, <fpage>1187</fpage>&#x02013;<lpage>1194</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0064"><mixed-citation publication-type="journal" id="pbi12957-cit-0064">
+<string-name>
+<surname>Tian</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chaudhry</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ruzicka</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Meagher</surname>, <given-names>R.B.</given-names>
+</string-name>, <string-name>
+<surname>Staiger</surname>, <given-names>C.J.</given-names>
+</string-name> and <string-name>
+<surname>Day</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>) <article-title>
+<italic>Arabidopsis</italic> actin&#x02010;depolymerizing factor AtADF4 mediates defense signal transduction triggered by the <italic>Pseudomonas syringae</italic> effector AvrPphB</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>150</volume>, <fpage>815</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">19346440</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0065"><mixed-citation publication-type="journal" id="pbi12957-cit-0065">
+<string-name>
+<surname>Tsukagoshi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nishikawa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Agarie</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ishiguro</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Higashiyama</surname>, <given-names>T.</given-names>
+</string-name> (<year>2015</year>) <article-title>RNA&#x02010;Seq analysis of the response of the halophyte, <italic>Mesembryanthemum crystallinum</italic> (Ice plant) to high salinity</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>(<issue>2</issue>), <fpage>e0118339</fpage>.<pub-id pub-id-type="pmid">25706745</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0066"><mixed-citation publication-type="journal" id="pbi12957-cit-0066">
+<string-name>
+<surname>Vidali</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>van Gisbergen</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Gu&#x000e9;rin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Franco</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Burkart</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name>
+<surname>Augustine</surname>, <given-names>R.C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Rapid formin&#x02010;mediated actin&#x02010;filament elongation is essential for polarized plant cell growth</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>106</volume>, <fpage>13341</fpage>&#x02013;<lpage>13346</lpage>.<pub-id pub-id-type="pmid">19633191</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0067"><mixed-citation publication-type="journal" id="pbi12957-cit-0067">
+<string-name>
+<surname>Wasteneys</surname>, <given-names>G.O.</given-names>
+</string-name> and <string-name>
+<surname>Galway</surname>, <given-names>M.E.</given-names>
+</string-name> (<year>2003</year>) <article-title>Remodeling the cytoskeleton for growth and form: an overview with some new views</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>54</volume>, <fpage>691</fpage>&#x02013;<lpage>722</lpage>.<pub-id pub-id-type="pmid">14503008</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0108"><mixed-citation publication-type="journal" id="pbi12957-cit-0108">
+<string-name>
+<surname>Wong</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Skau</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Marapana</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Hanssen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>N.L.</given-names>
+</string-name>, <string-name>
+<surname>Riglar</surname>, <given-names>D.T.</given-names>
+</string-name>, <string-name>
+<surname>Zuccala</surname>, <given-names>E.S.</given-names>
+</string-name>, et al. (<year>2011</year>) <article-title>Minimal requirements for actin filament disassembly revealed by structural analysis of malaria parasite actin&#x02010;depolymerizing factor 1</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>108</volume>, <fpage>9869</fpage>&#x02013;<lpage>9874</lpage>.<pub-id pub-id-type="pmid">21628589</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0068"><mixed-citation publication-type="journal" id="pbi12957-cit-0068">
+<string-name>
+<surname>Wu</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2007</year>) <article-title>LOMETS: a local meta&#x02010;threading&#x02010;server for protein structure prediction</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>35</volume>, <fpage>3375</fpage>&#x02013;<lpage>3382</lpage>.<pub-id pub-id-type="pmid">17478507</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0069"><mixed-citation publication-type="journal" id="pbi12957-cit-0069">
+<string-name>
+<surname>Wu</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.Y.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Dassanayake</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Insights into salt tolerance from the genome of <italic>Thellungiella salsuginea</italic>
+</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>109</volume>, <fpage>12219</fpage>&#x02013;<lpage>12224</lpage>.<pub-id pub-id-type="pmid">22778405</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0700"><mixed-citation publication-type="journal" id="pbi12957-cit-0700">
+<string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>Protein structure and function prediction using I&#x02010;TASSER</article-title>. <source xml:lang="en">Curr. Prot. Bioinform</source>, <volume>52</volume>, <fpage>5.8.1</fpage>&#x02013;<lpage>5.815</lpage>.</mixed-citation></ref><ref id="pbi12957-bib-0070"><mixed-citation publication-type="journal" id="pbi12957-cit-0070">
+<string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>, <given-names>Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>cDNA AFLP analysis of inducible gene expression in rice seminal root tips under a water deficit</article-title>. <source xml:lang="en">Gene</source>, <volume>314</volume>, <fpage>141</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">14527726</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0071"><mixed-citation publication-type="book" id="pbi12957-cit-0071">
+<string-name>
+<surname>Yokota</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Shimmen</surname>, <given-names>T.</given-names>
+</string-name> (<year>2006</year>) <chapter-title>The actin cytoskeleton in pollen tubes: actin and actin binding proteins</chapter-title> In <source xml:lang="en">The Pollen Tube: A Cellular and Molecular Perspective</source> (<person-group person-group-type="editor"><name><surname>Malh&#x000f3;</surname><given-names>R.</given-names></name></person-group>, ed), pp. <fpage>139</fpage>&#x02013;<lpage>155</lpage>. <publisher-loc>Berlin</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi12957-bib-0072"><mixed-citation publication-type="book" id="pbi12957-cit-0072">
+<string-name>
+<surname>Yoshida</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Forno</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Cock</surname>, <given-names>J.H.</given-names>
+</string-name> and <string-name>
+<surname>Gomez</surname>, <given-names>K.A.</given-names>
+</string-name> (<year>1976</year>) <source xml:lang="en">Laboratory Manual for Physiological Studies of Rice</source>, vol. <volume>83</volume>
+<publisher-loc>Philippines</publisher-loc>: <publisher-name>IRRI</publisher-name>.</mixed-citation></ref><ref id="pbi12957-bib-0073"><mixed-citation publication-type="journal" id="pbi12957-cit-0073">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>A highly efficient rice green tissue protoplast system for transient gene expression and studying light/chloroplast&#x02010;related processes</article-title>. <source xml:lang="en">Plant Methods</source>, <volume>7</volume>, <fpage>30</fpage>.<pub-id pub-id-type="pmid">21961694</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0074"><mixed-citation publication-type="journal" id="pbi12957-cit-0074">
+<string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ghai</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Field</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Zhou</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>) <article-title>Mammalian CAP1 (adenylyl cyclase&#x02010;associated protein 1) regulates cofilin function, the actin cytoskeleton and cell adhesion</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>288</volume>, <fpage>20966</fpage>&#x02013;<lpage>20977</lpage>.<pub-id pub-id-type="pmid">23737525</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0075"><mixed-citation publication-type="journal" id="pbi12957-cit-0075">
+<string-name>
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Qu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>The plant&#x02010;specific actin binding protein SCAB1 stabilizes actin filaments and regulates stomatal movement in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>23</volume>, <fpage>2314</fpage>&#x02013;<lpage>2330</lpage>.<pub-id pub-id-type="pmid">21719691</pub-id></mixed-citation></ref><ref id="pbi12957-bib-0076"><mixed-citation publication-type="journal" id="pbi12957-cit-0076">
+<string-name>
+<surname>Zhu</surname>, <given-names>J.K.</given-names>
+</string-name> (<year>2000</year>) <article-title>Genetic analysis of plant salt tolerance using <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>124</volume>, <fpage>941</fpage>&#x02013;<lpage>948</lpage>.<pub-id pub-id-type="pmid">11080272</pub-id></mixed-citation></ref></ref-list></back></article>

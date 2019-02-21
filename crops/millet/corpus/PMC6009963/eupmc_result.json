@@ -1,0 +1,485 @@
+{
+  "id": [
+    "29951114"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29951114"
+  ],
+  "pmcid": [
+    "PMC6009963"
+  ],
+  "doi": [
+    "10.1186/s13068-018-1167-z"
+  ],
+  "title": [
+    "Revealing the transcriptomic complexity of switchgrass by PacBio long-read sequencing."
+  ],
+  "authorString": [
+    "Zuo C, Blow M, Sreedasyam A, Kuo RC, Ramamoorthy GK, Torres-Jerez I, Li G, Wang M, Dilworth D, Barry K, Udvardi M, Schmutz J, Tang Y, Xu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zuo C"
+          ],
+          "firstName": [
+            "Chunman"
+          ],
+          "lastName": [
+            "Zuo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1College of Computer Science and Technology, Jilin University, Changchun, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Blow M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Blow"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sreedasyam A"
+          ],
+          "firstName": [
+            "Avinash"
+          ],
+          "lastName": [
+            "Sreedasyam"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "5HudsonAlpha Institute for Biotechnology, Huntsville, AL USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuo RC"
+          ],
+          "firstName": [
+            "Rita C"
+          ],
+          "lastName": [
+            "Kuo"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramamoorthy GK"
+          ],
+          "firstName": [
+            "Govindarajan Kunde"
+          ],
+          "lastName": [
+            "Ramamoorthy"
+          ],
+          "initials": [
+            "GK"
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Torres-Jerez I"
+          ],
+          "firstName": [
+            "Ivone"
+          ],
+          "lastName": [
+            "Torres-Jerez"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "6Noble Research Institute, LLC, Ardmore, OK USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li G"
+          ],
+          "firstName": [
+            "Guifen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "6Noble Research Institute, LLC, Ardmore, OK USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Mei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dilworth D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Dilworth"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barry K"
+          ],
+          "firstName": [
+            "Kerrie"
+          ],
+          "lastName": [
+            "Barry"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8999-6785",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Udvardi M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Udvardi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "6Noble Research Institute, LLC, Ardmore, OK USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmutz J"
+          ],
+          "firstName": [
+            "Jeremy"
+          ],
+          "lastName": [
+            "Schmutz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "4Department of Energy Joint Genome Institute, Walnut Creek, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Y"
+          ],
+          "firstName": [
+            "Yuhong"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "3BESC BioEnergy Research Center, Oak Ridge National Lab, Oak Ridge, TN USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "1College of Computer Science and Technology, Jilin University, Changchun, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8999-6785",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2639734"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology for biofuels"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "NLMid": [
+            "101316935"
+          ],
+          "ISSN": [
+            "1754-6834"
+          ],
+          "ESSN": [
+            "1754-6834"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "170"
+  ],
+  "abstractText": [
+    "Switchgrass (Panicum virgatum L.) is an important bioenergy crop widely used for lignocellulosic research. While extensive transcriptomic analyses have been conducted on this species using short read-based sequencing techniques, very little has been reliably derived regarding alternatively spliced (AS) transcripts.We present an analysis of transcriptomes of six switchgrass tissue types pooled together, sequenced using Pacific Biosciences (PacBio) single-molecular long-read technology. Our analysis identified 105,419 unique transcripts covering 43,570 known genes and 8795 previously unknown genes. 45,168 are novel transcripts of known genes. A total of 60,096 AS transcripts are identified, 45,628 being novel. We have also predicted 1549 transcripts of genes involved in cell wall construction and remodeling, 639 being novel transcripts of known cell wall genes. Most of the predicted transcripts are validated against Illumina-based short reads. Specifically, 96% of the splice junction sites in all the unique transcripts are validated by at least five Illumina reads. Comparisons between genes derived from our identified transcripts and the current genome annotation revealed that among the gene set predicted by both analyses, 16,640 have different exon-intron structures.Overall, substantial amount of new information is derived from the PacBio RNA data regarding both the transcriptome and the genome of switchgrass."
+  ],
+  "affiliation": [
+    "1College of Computer Science and Technology, Jilin University, Changchun, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alternative splicing",
+        "switchgrass",
+        "Transcriptomic Analysis",
+        "Plant Cell Wall",
+        "Pacbio Sequencing"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6009963?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6009963"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13068-018-1167-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-29"
+  ],
+  "dateOfRevision": [
+    "2018-07-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-20"
+  ],
+  "firstPublicationDate": [
+    "2018-06-20"
+  ]
+}

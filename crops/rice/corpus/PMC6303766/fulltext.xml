@@ -1,0 +1,603 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6303766</article-id><article-id pub-id-type="doi">10.1002/ece3.4665</article-id><article-id pub-id-type="publisher-id">ECE34665</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Population genetics and evolutionary history of the wild rice species <italic>Oryza rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> in Sri Lanka</article-title><alt-title alt-title-type="left-running-head">SANDAMAL et al.</alt-title></title-group><contrib-group><contrib id="ece34665-cr-0001" contrib-type="author"><name><surname>Sandamal</surname><given-names>Salinda</given-names></name><xref ref-type="aff" rid="ece34665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34665-cr-0002" contrib-type="author"><name><surname>Tennakoon</surname><given-names>Asanka</given-names></name><xref ref-type="aff" rid="ece34665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34665-cr-0003" contrib-type="author"><name><surname>Meng</surname><given-names>Qing&#x02010;Lin</given-names></name><xref ref-type="aff" rid="ece34665-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34665-cr-0004" contrib-type="author"><name><surname>Marambe</surname><given-names>Buddhi</given-names></name><xref ref-type="aff" rid="ece34665-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece34665-cr-0005" contrib-type="author"><name><surname>Ratnasekera</surname><given-names>Disna</given-names></name><xref ref-type="aff" rid="ece34665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34665-cr-0006" contrib-type="author"><name><surname>Melo</surname><given-names>Arthur</given-names></name><xref ref-type="aff" rid="ece34665-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece34665-cr-0007" contrib-type="author" corresp="yes"><name><surname>Ge</surname><given-names>Song</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7683-5579</contrib-id><address><email>gesong@ibcas.ac.cn</email></address><xref ref-type="aff" rid="ece34665-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece34665-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="ece34665-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Agricultural Biology, Faculty of Agriculture</named-content>
+<institution>University of Ruhuna</institution>
+<named-content content-type="city">Matara</named-content>
+<country country="LK">Sri Lanka</country>
+</aff><aff id="ece34665-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Systematic and Evolutionary Botany, Institute of Botany</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="ece34665-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Crop Science, Faculty of Agriculture</named-content>
+<institution>University of Peradeniya</institution>
+<named-content content-type="city">Peradeniya</named-content>
+<country country="LK">Sri Lanka</country>
+</aff><aff id="ece34665-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Agriculture, Nutrition and Food Systems</named-content>
+<institution>University of New Hampshire</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">New Hampshire</named-content>
+</aff><aff id="ece34665-aff-0005">
+<label><sup>5</sup></label>
+<institution>University of Chinese Academy of Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Song Ge, State Key Laboratory of Systematic and Evolutionary Botany, Institute of Botany, Chinese Academy of Sciences, Beijing, China.<break/>
+Email: <email>gesong@ibcas.ac.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>11</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2018</year></pub-date><volume>8</volume><issue>23</issue><issue-id pub-id-type="doi">10.1002/ece3.2018.8.issue-23</issue-id><fpage>12056</fpage><lpage>12065</lpage><history><date date-type="received"><day>02</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>02</day><month>10</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-8-12056.pdf"/><abstract id="ece34665-abs-0001"><title>Abstract</title><p>Genetic diversity and population genetic structure of the wild rice species <italic>Oryza rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> in Sri Lanka were studied using 33 microsatellite markers. A total of 315 individuals of 11 natural populations collected from the wet, intermediate, and dry zones of the country were used in the study. We found a moderate to high level of genetic diversity at the population level, with the polymorphic loci (<italic>P</italic>) ranging from 60.6% to 100% (average 81.8%) and the expected heterozygosity (<italic>H</italic>
+<sub>E</sub>) varying from 0.294 to 0.481 (average 0.369). A significant genetic differentiation between species and strong genetic structure within species were also observed. Based on species distribution modeling, we detected the dynamics of the preferred habitats for the two species in Sri Lanka and demonstrated that both <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> populations have expanded substantially since the last internal glacial. In addition, we showed that the geographical distribution of the two species corresponded to the climate zones and identified a few of key environmental variables that contribute to the distribution of the two species, implying the potential mechanism for ecological adaptation of these two species in Sri Lanka. These studies provided important insights into the population genetics and evolution of these wild species in Sri Lanka and are of great significance to the in situ conservation and utilization of these wild resources in genetic improvement of rice.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece34665-kwd-0001">evolutionary history</kwd><kwd id="ece34665-kwd-0002"><italic>O.&#x000a0;nivara</italic></kwd><kwd id="ece34665-kwd-0003"><italic>O.&#x000a0;rufipogon</italic></kwd><kwd id="ece34665-kwd-0004">population genetics</kwd><kwd id="ece34665-kwd-0005">Sri Lanka</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>91731301</award-id><award-id>91231201</award-id></award-group><award-group><funding-source>Chinese Academy of Sciences</funding-source><award-id>XDA08020103</award-id><award-id>XDB31000000</award-id></award-group><award-group><funding-source>National Research Council, Sri Lanka</funding-source><award-id>NRC 15&#x02010;108</award-id></award-group><award-group><funding-source>National Science Foundation, Sri Lanka</funding-source><award-id>OSTP/2016/54</award-id><award-id>OSTP/2016/53</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="10"/><word-count count="6713"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece34665</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:22.12.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece34665-cit-1001">
+<string-name>
+<surname>Sandamal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tennakoon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>Q&#x02010;L</given-names>
+</string-name>, et al. <article-title>Population genetics and evolutionary history of the wild rice species <italic>Oryza rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> in Sri Lanka</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2018</year>;<volume>8</volume>:<fpage>12056</fpage>&#x02013;<lpage>12065</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.4665</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="ece34665-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Knowledge of population genetics and evolutionary history of wild progenitors of cultivated plants is critical not only to understand the evolutionary processes leading to domestication, but also to their conservation and management (Doebley, Gaut, &#x00026; Smith, <xref rid="ece34665-bib-0010" ref-type="ref">2006</xref>; Tanksley &#x00026; McCouch, <xref rid="ece34665-bib-0044" ref-type="ref">1997</xref>). Studies on the level and distribution of genetic diversity in crops and their wild relatives will facilitate the effective utilization of the wild resources in crop genetic improvement and breeding (Tanksley &#x00026; McCouch, <xref rid="ece34665-bib-0044" ref-type="ref">1997</xref>; McCouch et al., <xref rid="ece34665-bib-0025" ref-type="ref">2013</xref>). Given the fact that genetic diversity among commercial cultivars decreases substantially in the course of the domestication and breeding, scientists have taken great efforts to explore the genetic variability of wild species to meet the demands for crop breeding. They have particularly focused on the agronomically important traits such as grain yield, grain quality, and sufficient resistance to biotic or abiotic stress, for which genetic variation is limited in the cultivated germplasm (Brar &#x00026; Khush, <xref rid="ece34665-bib-0005" ref-type="ref">1997</xref>; Hajjar &#x00026; Hodgkin, <xref rid="ece34665-bib-0016" ref-type="ref">2007</xref>; Tanksley &#x00026; McCouch, <xref rid="ece34665-bib-0044" ref-type="ref">1997</xref>).</p><p>The rice genus consists of diploid and tetraploid species with genome constitutions of AA, BB, CC, EE, FF, BBCC CCDD and HHKK, and HHJJ (Aggarwal, Brar, Nandi, Huang, &#x00026; Khush, <xref rid="ece34665-bib-0001" ref-type="ref">1999</xref>; Ge, Sang, Lu, &#x00026; Hong, <xref rid="ece34665-bib-0013" ref-type="ref">1999</xref>), which is an important gene bank harboring numerous favorable traits and genes that can be used to enhance the genetic basis of rice cultivars (Sang &#x00026; Ge, <xref rid="ece34665-bib-0040" ref-type="ref">2007</xref>; Vaughan, Morishima, &#x00026; Kadowaki, <xref rid="ece34665-bib-0046" ref-type="ref">2003</xref>). In particular, the wild relatives containing AA&#x02010;genome have high genetic compatibility with cultivated rice and are the most accessible genetic resources for rice breeding (Sang &#x00026; Ge, <xref rid="ece34665-bib-0040" ref-type="ref">2007</xref>; Vaughan et al., <xref rid="ece34665-bib-0046" ref-type="ref">2003</xref>; Zhu &#x00026; Ge, <xref rid="ece34665-bib-0052" ref-type="ref">2005</xref>). Many studies have revealed that various traits derived from wild resources have successfully been integrated to rice cultivars for enriching them with many features (Ali, Sanchez, Yu, Lorieux, &#x00026; Eizenga, <xref rid="ece34665-bib-0002" ref-type="ref">2010</xref>; Brar &#x00026; Khush, <xref rid="ece34665-bib-0005" ref-type="ref">1997</xref>; He et al., <xref rid="ece34665-bib-0017" ref-type="ref">2017</xref>; McCouch et al., <xref rid="ece34665-bib-0025" ref-type="ref">2013</xref>; Vaughan et al., <xref rid="ece34665-bib-0046" ref-type="ref">2003</xref>).</p><p>Common wild rice <italic>Oryza rufipogon</italic> Griff. and <italic>O.&#x000a0;nivara</italic> Sharma et Shastry are the progenitors of the Asian cultivated rice and have been recognized as valuable genetic resources for rice genetic improvement (Chang, <xref rid="ece34665-bib-0007" ref-type="ref">1984</xref>; Khush, <xref rid="ece34665-bib-0022" ref-type="ref">1997</xref>; Sang &#x00026; Ge, <xref rid="ece34665-bib-0040" ref-type="ref">2007</xref>; Vaughan et al., <xref rid="ece34665-bib-0046" ref-type="ref">2003</xref>). To date, many efforts have been made to investigate their classification, population genetics, evolutionary history, and adaptation potential as well as agronomical traits of the two species (Barbier, 1989; Grillo et al., <xref rid="ece34665-bib-0015" ref-type="ref">2009</xref>; Huang et al., <xref rid="ece34665-bib-0020" ref-type="ref">2012</xref>; Huang et&#x000a0;&#x000a0;al., <xref rid="ece34665-bib-0019" ref-type="ref">2013</xref>; Liu, Zheng, Zhou, Zhou, &#x00026; Ge, <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Morishima, Sano, &#x00026; Oka, <xref rid="ece34665-bib-0027" ref-type="ref">1984</xref>; Zhu &#x00026; Ge, <xref rid="ece34665-bib-0052" ref-type="ref">2005</xref>; Zhu, Zheng, Luo, Gaut, &#x00026; Ge, <xref rid="ece34665-bib-0053" ref-type="ref">2007</xref>). Extensive studies on the population genetics of these two species have been carried out either in global scale (Banaticla&#x02010;Hilario, Berg, Hamilton, &#x00026; McNally, <xref rid="ece34665-bib-0003" ref-type="ref">2013</xref>; Huang et al., <xref rid="ece34665-bib-0020" ref-type="ref">2012</xref>; Liu et al., <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Zhu &#x00026; Ge, 2005; Zheng &#x00026; Ge, <xref rid="ece34665-bib-0048" ref-type="ref">2010</xref>;) or local scale (Kuroda, Sato, Bounphanousay, Kono, &#x00026; Tanaka, <xref rid="ece34665-bib-0023" ref-type="ref">2007</xref>; Pusadee, Schaal, Rerkasem, &#x00026; Jamjod, <xref rid="ece34665-bib-0036" ref-type="ref">2013</xref>; Samal et al., <xref rid="ece34665-bib-0039" ref-type="ref">2018</xref>; Zhou, Xie, &#x00026; Ge, <xref rid="ece34665-bib-0050" ref-type="ref">2003</xref>; Zhou et al., <xref rid="ece34665-bib-0051" ref-type="ref">2008</xref>). However, the genetic variability and population genetic structure of these two species in Sri Lanka are not well understood (Rajkumar, Weerasena, Fernando, Liyanage, &#x00026; Silva, <xref rid="ece34665-bib-0037" ref-type="ref">2011</xref>). Moreover, increasing threats on the wild plant populations have been observed in Sri Lanka in the past decades due to changes in farming systems, economic development, urbanization, and other human disturbances (Rajkumar et al., <xref rid="ece34665-bib-0037" ref-type="ref">2011</xref>; Seo, Mendelsohn, &#x00026; Munasinghe, <xref rid="ece34665-bib-0042" ref-type="ref">2005</xref>).</p><p>In the present study, we used microsatellite markers to evaluate the genetic variation and population genetic structure for a diverse collection of the <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> populations throughout the three climatic zones, that is, wet, intermediate, and dry zones, of Sri Lanka. By determining the level and patterns of genetic diversity within the two wild rice species, we expected to discover the unique genetic resources maintained in the Sri Lankan populations, to reveal their genetic relationships, and to uncover the correlations between genetic components with geographic and climatic factors. In addition, these two wild species, along with the cultivated rice have become an excellent working system for studying adaptation and speciation (Choi, Platts, Fuller, &#x00026; Wing, <xref rid="ece34665-bib-0009" ref-type="ref">2017</xref>; Grillo et al., <xref rid="ece34665-bib-0015" ref-type="ref">2009</xref>; Huang et al., <xref rid="ece34665-bib-0019" ref-type="ref">2013</xref>; Liu et al., <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Zheng &#x00026; Ge, <xref rid="ece34665-bib-0048" ref-type="ref">2010</xref>). Given the fact that Sri Lanka is an isolated island with diversified and well&#x02010;understood ecosystems (Seo et al., <xref rid="ece34665-bib-0042" ref-type="ref">2005</xref>), investigations on the Sri Lankan populations of the wild rice will contribute to a better understanding of adaptation and speciation process of the wild rice and also provide additional insights into the evolutionary history and species divergence and adaptation in general.</p></sec><sec id="ece34665-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece34665-sec-0003"><label>2.1</label><title>Population sampling</title><p>A total of 11 wild rice populations including five <italic>O.&#x000a0;rufipogon</italic> and six <italic>O.&#x000a0;nivara</italic> populations across the entire geographical distribution of the two species in Sri Lanka were collected from natural habitats (Figure <xref rid="ece34665-fig-0001" ref-type="fig">1</xref>). The sample sizes ranged from 18 to 31 individuals per population, and 132 and 183 individuals were collected for <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic>, respectively. The green leaves were individually collected in the field and placed in zip&#x02010;lock bag containing silica gel and kept at 0&#x02013;4&#x000b0;C until DNA extraction. To prevent repeated samples of same genets (clones), the distance between sampled individuals was at least 5&#x000a0;m apart. The detailed information of these populations is provided in Supporting Information Table <xref rid="ece34665-sup-0001" ref-type="supplementary-material">S1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="ece34665-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Geographical locations of 11 <italic>Oryza rufipogon</italic> (the squares) and <italic>Oryza nivara</italic> (the circles) populations sampled in this study. Dark lines separate the climatic zones in Sri Lanka. Detailed information on these populations is provided in Table <xref rid="ece34665-sup-0001" ref-type="supplementary-material">S1</xref>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-8-12056-g001"/></fig></sec><sec id="ece34665-sec-0004"><label>2.2</label><title>DNA extraction and PCR amplification</title><p>The gDNA was extracted from 20&#x000a0;mg of silica gel&#x02010;dried leaves, using the Plant genomic DNA kit (Biomed DL114&#x02010;01) following by the CTAB protocol (Saghai&#x02010;Maroof, Soliman, Jorgensen, &#x00026; Allard, <xref rid="ece34665-bib-0038" ref-type="ref">1984</xref>) and further quantified using a Nanodrop 2000 (Scientific, <xref rid="ece34665-bib-0041" ref-type="ref">2009</xref>). Thirty&#x02010;three microsatellite (Simple Sequence Repeat &#x02013; SSR) primer pairs designed from cultivated rice were used to assay genetic variation of all included materials, based on the RiceGenes Database (<ext-link ext-link-type="uri" xlink:href="https://gramene.org">https://gramene.org</ext-link>). Detailed information of the primer pairs is given in Table <xref rid="ece34665-sup-0001" ref-type="supplementary-material">S2</xref>. Primers were synthesized by ABI (Applied Biosystems, Foster City, CA, USA), with the forward primers labeled with blue (FAM), yellow (TAMAR), and green (HEX) fluorophores, respectively. The DNA amplification was carried out using a 2,720 thermal cycler (Applied Biosystems) in a 15&#x000a0;&#x000b5;l reaction mixture. Each reaction contained 5&#x000a0;&#x000b5;g buffer (ddH<sub>2</sub>O), 7&#x000a0;&#x000b5;g 2&#x000d7; Taq PCR MasterMix (0.1&#x000a0;U Taq Polymerase/&#x003bc;l, 500&#x000a0;&#x003bc;M dNTP each, 20&#x000a0;mM Tris&#x02013;HCl, 100&#x000a0;mM KCl, 3&#x000a0;mM MgCl2), 1&#x000a0;&#x000b5;l each of the forward and reverse primer (10&#x000a0;&#x000b5;M), and 1&#x000a0;&#x000b5;g template DNA. The PCR cycle profile was 94&#x000b0;C, 3&#x000a0;min; 35 cycles of 94&#x000b0;C, 30&#x000a0;s, 55&#x000b0;C, 30&#x000a0;s, and 72&#x000b0;C, 1&#x000a0;min; and 72&#x000b0;C, 10&#x000a0;min for the final extension.</p><p>The PCR products (2&#x000a0;&#x000b5;l) were diluted in 8&#x000a0;&#x000b5;l of ultrapure water and scoured in 100% alcohol for 15&#x000a0;min. The diluted DNA was dried and mixed with highly deionized formamide (Applied Biosystems) and then submitted for fragment analysis by capillary electrophoresis using an Applied Biosystems 3130&#x000d7;l DNA analyzer (Applied Biosystems). The DNA fragment size analysis and allele calling were performed using GeneScan and GeneMapper software (Applied Biosystems), followed by the manual allele binning. The matrix standard kit was used to generate the &#x0201c;multicomponent matrix&#x0201d; when analyzing the FAM&#x02010;, TAMRA&#x02010;, and HEX&#x02010;labeled DNA fragments with the ABI3130 series systems. Data Collection Software (Applied Biosystems) used the multi component matrix for the instrument to analyze automatically for three different colored fluorescent dye&#x02010;labeled samples in a single capillary. In addition, reference lanes were further verified by polyacrylamide gel electrophoresis. In the case of non&#x02010;amplification, the PCR was repeated to exclude technical failure and a null allele was recorded if both PCRs failed.</p></sec><sec id="ece34665-sec-0005"><label>2.3</label><title>Data analysis</title><p>All SSR loci were initially evaluated for the adherence to the Hardy&#x02013;Weinberg equilibrium and for presence of null alleles using the method based on heterozygous deficiency (Brookfield, <xref rid="ece34665-bib-0006" ref-type="ref">1996</xref>). Genetic parameters for each population were assessed by calculating the allelic richness (<italic>A</italic>), the mean observed heterozygosity (<italic>H</italic>
+<sub>O</sub>), the percentage of polymorphic loci (<italic>P</italic>), and the unbiased expected heterozygosity (<italic>H</italic>
+<sub>E</sub>). All the estimates of genetic diversity were calculated using GenAIEx 6.5.01 software (Peakall &#x00026; Smouse, <xref rid="ece34665-bib-0031" ref-type="ref">2006</xref>).</p><p>To identify the number of distinct clusters that best explain the genetic structure of the data set, we performed the structure analysis using the program STRUCTURE 2.3.4 (Falush, Stephens, &#x00026; Pritchard, <xref rid="ece34665-bib-0012" ref-type="ref">2003</xref>; Pritchard, Stephens, &#x00026; Donnelly, <xref rid="ece34665-bib-0034" ref-type="ref">2000</xref>), with default parameters. The <italic>K</italic> values ranging from 1 to 12 were evaluated using 12 independent runs for each <italic>K</italic> and 10<sup>6</sup> MCMC steps, assuming a burn&#x02010;in period of 10<sup>4</sup> steps. The suggested <italic>K</italic> values were evaluated using the &#x02206;<italic>K</italic> statistic developed by Evanno, Regnaut, and Goudet (<xref rid="ece34665-bib-0011" ref-type="ref">2005</xref>). The level of genetic structure among the <italic>K</italic> clusters suggested by this analysis was evaluated. We also assessed both inter&#x02010; and intra&#x02010;specific genetic structure of the populations <italic>via</italic> multivariate principal component analyses (PCoA) through the dudi.pca() function of &#x0201c;adegenet&#x0201d; R package (Jombart &#x00026; Ahmed, <xref rid="ece34665-bib-0021" ref-type="ref">2011</xref>). An analysis of molecular variance (AMOVA) were performed, implemented in GenAIEx 6.5.01 software (Peakall &#x00026; Smouse, <xref rid="ece34665-bib-0031" ref-type="ref">2006</xref>), to assess the proportion of genetic variance explained by the differences within and between populations. An UPGMA clustering analysis of all populations was performed based on Nei's (<xref rid="ece34665-bib-0028" ref-type="ref">1972</xref>) unbiased genetic distance, and the tree was visualized with TREEVIEW ver. 1.52 (Page, <xref rid="ece34665-bib-0029" ref-type="ref">1996</xref>). We also calculated the <italic>F</italic>
+<sub>ST</sub> value using FSTAT version 2.9.3 (Goudet, <xref rid="ece34665-bib-0014" ref-type="ref">2002</xref>) to investigate the group relationship.</p></sec><sec id="ece34665-sec-0006"><label>2.4</label><title>Species distribution modeling</title><p>A species distribution model (SDM) was generated for <italic>O.&#x000a0;rufopogon</italic> and <italic>O.&#x000a0;nivara</italic> using the software MAXENT 3.3.3 (Phillips &#x00026; Dud&#x000ed;k, <xref rid="ece34665-bib-0033" ref-type="ref">2008</xref>; Phillips, Anderson, &#x00026; Schapire, <xref rid="ece34665-bib-0032" ref-type="ref">2006</xref>) based on the maximum entropy model of geographical distribution of species. This method combines existing data with ecological climate layers to predict the relative probability of the existence of the species in a certain geographical area (Phillips et al., <xref rid="ece34665-bib-0032" ref-type="ref">2006</xref>). The occurrence of <italic>O.&#x000a0;rufopogon</italic> and <italic>O.&#x000a0;nivara</italic> were recorded from the Gateway to Genetic Resources (<ext-link ext-link-type="uri" xlink:href="https://www.genesys-pgr.org/">https://www.genesys-pgr.org/</ext-link>). To estimate the relative contributions of the environmental variables on the species distribution, we performed multiple relative importance tests including the percentage contribution, permutation test, and jackknife test. To predict species occurrence, environmental layers of 19 biologically meaningful climate variables (BIO1&#x02010;19) were downloaded from the WorldClim database (<ext-link ext-link-type="uri" xlink:href="https://www.worldclim.org/">https://www.worldclim.org/</ext-link>; Hijmans, Cameron, Parra, Jones, &#x00026; Jarvis, 2005) under present day (1950&#x02013;2000), the last glacial maximum (LGM; ~21kya) and the last interglacial (LIG; ~120 to 140kya) conditions. In addition, we added 107 <italic>O.&#x000a0;nivara</italic> and 38 <italic>O.&#x000a0;rufipogon</italic> records collected from Sri Lanka from field investigations. We defined the study extent according to the commonly accepted range of the two species, between 5.55<sup>0</sup>N and 9.51<sup>O</sup>N, 79.42<sup>O</sup>E and 81.53<sup>O</sup>E<bold>.</bold> All the 145 localities of our own collection sites were used to build the models using the default parameters for convergence threshold (10<sup>&#x02013;5</sup>) and number of iterations (500). To insure the consistency of the model predictions, 75% of the localities were used to train the model and 25% were used to test it.</p></sec></sec><sec id="ece34665-sec-0007"><label>3</label><title>RESULTS</title><p>Based on the preliminary screening of 150 SSR primer pairs across representative individuals sampled from different populations, the 33 SSRs produced clear and reproducible products and thus, chosen for genotyping the populations used in this study. The 33 loci were dispersed in all 12 chromosomes in cultivated rice with the polymorphism varied widely among loci (Table <xref rid="ece34665-sup-0001" ref-type="supplementary-material">S2</xref>). The genotypic linkage disequilibrium among the loci did not show significant values (<italic>p</italic>&#x000a0;&#x0003e;&#x000a0;0.05), suggestive of an absence of linkage disequilibrium between loci. All 33 loci displayed polymorphism among the 11 populations with a total of 172 alleles identified. The most variable locus (RM426) had 30 alleles, while the RM457 showed only three alleles across the populations, with an average of 11.66 alleles per population (Table <xref rid="ece34665-sup-0001" ref-type="supplementary-material">S2</xref>). The table of allelic frequencies of each population is available from the first author upon request.</p><p>We calculated the genetic diversity at both population and species levels and found a moderate to high genetic diversity (Table <xref rid="ece34665-tbl-0001" ref-type="table">1</xref>). At population level, the genetic diversity varied among 11 populations, with the average of <italic>A&#x000a0;</italic>=&#x000a0;2.05, <italic>p&#x000a0;</italic>=&#x000a0;81.82, and <italic>H</italic>
+<sub>E</sub>
+<italic>&#x000a0;</italic>=&#x000a0;0.369. As measured by allelic richness and expected heterozygosity, population SL13&#x02010;R and population SL11&#x02010;N maintained the highest (<italic>A&#x000a0;</italic>=&#x000a0;2.47, <italic>H</italic>
+<sub>E</sub>
+<italic>&#x000a0;</italic>=&#x000a0;0.481) and the lowest (<italic>A&#x000a0;</italic>=&#x000a0;1.72, <italic>H</italic>
+<sub>E</sub>
+<italic>&#x000a0;</italic>=&#x000a0;0.294) diversity, respectively. It is evident that <italic>O.&#x000a0;rufipogon</italic> populations maintain higher level of genetic diversity than those of <italic>O.&#x000a0;nivara</italic> populations (Table <xref rid="ece34665-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="ece34665-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Genetic parameters characterizing 11 <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> populations in Sri Lanka</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Population code</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>A</italic>
+</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>
+</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>H</italic>
+<sub>O</sub>
+</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>H</italic>
+<sub>E</sub>
+</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">
+<italic>O.&#x000a0;rufipogon</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL01&#x02010;R</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">2.04</td><td align="char" char="." rowspan="1" colspan="1">90.91</td><td align="char" char="." rowspan="1" colspan="1">0.683</td><td align="char" char="." rowspan="1" colspan="1">0.418</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL02&#x02010;R</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">2.17</td><td align="char" char="." rowspan="1" colspan="1">93.94</td><td align="char" char="." rowspan="1" colspan="1">0.701</td><td align="char" char="." rowspan="1" colspan="1">0.451</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL03&#x02010;R</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">2.08</td><td align="char" char="." rowspan="1" colspan="1">75.76</td><td align="char" char="." rowspan="1" colspan="1">0.443</td><td align="char" char="." rowspan="1" colspan="1">0.375</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL06&#x02010;R</td><td align="char" char="." rowspan="1" colspan="1">25</td><td align="char" char="." rowspan="1" colspan="1">1.75</td><td align="char" char="." rowspan="1" colspan="1">72.73</td><td align="char" char="." rowspan="1" colspan="1">0.566</td><td align="char" char="." rowspan="1" colspan="1">0.333</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL13&#x02010;R</td><td align="char" char="." rowspan="1" colspan="1">27</td><td align="char" char="." rowspan="1" colspan="1">2.47</td><td align="char" char="." rowspan="1" colspan="1">90.91</td><td align="char" char="." rowspan="1" colspan="1">0.524</td><td align="char" char="." rowspan="1" colspan="1">0.481</td></tr><tr><td align="left" rowspan="1" colspan="1">Average</td><td align="char" char="." rowspan="1" colspan="1">26.4</td><td align="char" char="." rowspan="1" colspan="1">2.10</td><td align="char" char="." rowspan="1" colspan="1">84.85</td><td align="char" char="." rowspan="1" colspan="1">0.583</td><td align="char" char="." rowspan="1" colspan="1">0.411</td></tr><tr><td align="left" colspan="6" rowspan="1">
+<italic>O</italic>.<italic>&#x000a0;nivara</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL07&#x02010;N</td><td align="char" char="." rowspan="1" colspan="1">32</td><td align="char" char="." rowspan="1" colspan="1">1.99</td><td align="char" char="." rowspan="1" colspan="1">81.82</td><td align="char" char="." rowspan="1" colspan="1">0.335</td><td align="char" char="." rowspan="1" colspan="1">0.322</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL08&#x02010;N</td><td align="char" char="." rowspan="1" colspan="1">32</td><td align="char" char="." rowspan="1" colspan="1">2.05</td><td align="char" char="." rowspan="1" colspan="1">63.64</td><td align="char" char="." rowspan="1" colspan="1">0.374</td><td align="char" char="." rowspan="1" colspan="1">0.329</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL09&#x02010;N</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">2.43</td><td align="char" char="." rowspan="1" colspan="1">100.0</td><td align="char" char="." rowspan="1" colspan="1">0.358</td><td align="char" char="." rowspan="1" colspan="1">0.426</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL10&#x02010;N</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="char" char="." rowspan="1" colspan="1">1.90</td><td align="char" char="." rowspan="1" colspan="1">84.85</td><td align="char" char="." rowspan="1" colspan="1">0.324</td><td align="char" char="." rowspan="1" colspan="1">0.316</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL11&#x02010;N</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="char" char="." rowspan="1" colspan="1">1.72</td><td align="char" char="." rowspan="1" colspan="1">60.61</td><td align="char" char="." rowspan="1" colspan="1">0.268</td><td align="char" char="." rowspan="1" colspan="1">0.294</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">SL12&#x02010;N</td><td align="char" char="." rowspan="1" colspan="1">30</td><td align="char" char="." rowspan="1" colspan="1">1.92</td><td align="char" char="." rowspan="1" colspan="1">84.85</td><td align="char" char="." rowspan="1" colspan="1">0.266</td><td align="char" char="." rowspan="1" colspan="1">0.315</td></tr><tr><td align="left" rowspan="1" colspan="1">Average</td><td align="char" char="." rowspan="1" colspan="1">30.5</td><td align="char" char="." rowspan="1" colspan="1">1.96</td><td align="char" char="." rowspan="1" colspan="1">79.29</td><td align="char" char="." rowspan="1" colspan="1">0.320</td><td align="char" char="." rowspan="1" colspan="1">0.333</td></tr><tr><td align="left" rowspan="1" colspan="1">Total average</td><td align="char" char="." rowspan="1" colspan="1">27.2</td><td align="char" char="." rowspan="1" colspan="1">2.05</td><td align="char" char="." rowspan="1" colspan="1">81.82</td><td align="char" char="." rowspan="1" colspan="1">0.440</td><td align="char" char="." rowspan="1" colspan="1">0.369</td></tr></tbody></table><table-wrap-foot><title>Note</title><fn id="ece34665-note-0001"><p>
+<italic>A</italic>: Average number of alleles; <italic>H</italic>
+<sub>E</sub> and <italic>H</italic>
+<sub>O</sub>: expected and observed heterozygosity, respectively; <italic>N</italic>: average number of samples per population; <italic>P:</italic> percentage of polymorphic loci.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The STRUCTURE analysis done by running the <italic>K</italic> values from 2 to 12 based on the allele frequency distribution showed that the first divergence (<italic>K&#x000a0;</italic>=&#x000a0;2) occurred between two major groups (i.e., two species; Figure <xref rid="ece34665-fig-0002" ref-type="fig">2</xref>). From <italic>K&#x000a0;</italic>=&#x000a0;3 to <italic>K&#x000a0;</italic>=&#x000a0;12, each species was further divided into distinct subgroups, corresponding to the populations within species. It is evident that there is admixed genetic background for individuals in some populations although a majority of individuals could be clearly assigned to a single population. Interestingly, the <italic>O.&#x000a0;rufipogon</italic> populations with many admixed individuals (SL01&#x02010;R and SL06&#x02010;R) were sampled from the intermediate zone (Figure <xref rid="ece34665-fig-0001" ref-type="fig">1</xref>). The PCoA also confirms the two major groups, with SL01&#x02010;R being in a different place in the plot, a reflection of its admixture feature (Figure <xref rid="ece34665-fig-0003" ref-type="fig">3</xref>). The AMOVA showed that a large proportion of the total genetic diversity existed within (47.7%) and among populations (40%), with the genetic differentiation between species relatively low (12.3%) but significant (Table <xref rid="ece34665-tbl-0002" ref-type="table">2</xref>). For specific species, 43.7% and 48.5% of the total variation were partitioned among the populations for <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic>, respectively. The high genetic differentiation was reflected by the high <italic>F</italic>
+<sub>ST</sub> values (Figure <xref rid="ece34665-fig-0004" ref-type="fig">4</xref>). The UPGMA tree illustrated similar results, <italic>that is,</italic> all 11 populations were genetically structured into two well&#x02010;separated major groups (species) and further divided to populations (Figure <xref rid="ece34665-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece34665-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>STRUCTURE results by model&#x02010;based population assignment at <italic>K</italic> from 2 to 6. Each vertical bar represents an individual, with its assignment probability to genetic clusters represented by different colors</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-8-12056-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="ece34665-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Principal component analysis (PCoA) showing the clustering of genotypes at 33 microsatellite loci, with all individuals scored for PC1 versus PC2. The colors representing different species are the same as for Figure <xref rid="ece34665-fig-0002" ref-type="fig">2</xref>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-8-12056-g003"/></fig><table-wrap id="ece34665-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>AMOVA analysis of 11 <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> populations sampled in this study</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Group</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>df</italic>
+</th><th align="char" valign="top" rowspan="1" colspan="1">SS</th><th align="char" valign="top" rowspan="1" colspan="1">V</th><th align="char" valign="top" rowspan="1" colspan="1">%</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Combination of <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Between species</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">737.983</td><td align="char" char="." rowspan="1" colspan="1">1.48515</td><td align="char" char="." rowspan="1" colspan="1">12.31<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Among populations</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">2,535.578</td><td align="char" char="." rowspan="1" colspan="1">4.82904</td><td align="char" char="." rowspan="1" colspan="1">40.02<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Within populations</td><td align="char" char="." rowspan="1" colspan="1">619</td><td align="char" char="." rowspan="1" colspan="1">3,559.825</td><td align="char" char="." rowspan="1" colspan="1">5.75093</td><td align="char" char="." rowspan="1" colspan="1">47.67<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr><tr><td align="left" colspan="5" rowspan="1">
+<italic>O.&#x000a0;rufipogon</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Among populations</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="char" char="." rowspan="1" colspan="1">1,046.302</td><td align="char" char="." rowspan="1" colspan="1">4.87539</td><td align="char" char="." rowspan="1" colspan="1">43.69<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Within populations</td><td align="char" char="." rowspan="1" colspan="1">259</td><td align="char" char="." rowspan="1" colspan="1">1627.183</td><td align="char" char="." rowspan="1" colspan="1">6.28256</td><td align="char" char="." rowspan="1" colspan="1">56.31<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr><tr><td align="left" colspan="5" rowspan="1">
+<italic>O.&#x000a0;nivara</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Among populations</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="char" char="." rowspan="1" colspan="1">1,440.382</td><td align="char" char="." rowspan="1" colspan="1">4.64331</td><td align="char" char="." rowspan="1" colspan="1">48.50<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Within populations</td><td align="char" char="." rowspan="1" colspan="1">360</td><td align="char" char="." rowspan="1" colspan="1">1775.189</td><td align="char" char="." rowspan="1" colspan="1">4.93108</td><td align="char" char="." rowspan="1" colspan="1">51.50<xref ref-type="fn" rid="ece34665-note-0003">***</xref>
+</td></tr></tbody></table><table-wrap-foot><title>Note</title><fn id="ece34665-note-0002"><p>SS: Sum of squares; V: Variance components; %: Percentage of variation.</p></fn><fn id="ece34665-note-0003"><p>***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece34665-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Matrix of pairwise <italic>F</italic>
+<sub>ST</sub> values of all 11 populations. The box in red indicates the among&#x02010;population values between species</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-8-12056-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="ece34665-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The UPGMA cladogram based on Nei (<xref rid="ece34665-bib-0028" ref-type="ref">1972</xref>) genetic distance. The population codes are the same as for Figure <xref rid="ece34665-fig-0001" ref-type="fig">1</xref>
+</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-8-12056-g005"/></fig><p>Finally, the SDMs under present, LGM and LIG with all 19 bioclimatic variables showed that the estimated current distribution patterns of the two species were highly consistent with their actual distribution areas at present in Sri Lanka (Figure <xref rid="ece34665-fig-0006" ref-type="fig">6</xref>), <italic>that is</italic>,<italic> O.&#x000a0;nivara</italic> occurred widely in the dry zone while <italic>O.&#x000a0;rufipogon</italic> confined to wet zone. It is interesting to note that the predicted distribution areas at the LGM and LIG were much smaller than at present for both species, indicating a significant range expansion of the two species in Sri Lanka since the last interglacial around 120&#x02013;140 kya. The results of the multiple relative importance tests indicated that annual mean temperature (BIO1) is the most important variable for determining the distribution of both species. In addition, the mean temperature of coldest quarter (BIO11) and the mean diurnal range (BIO2) were important for the distribution of <italic>O.&#x000a0;rufipogon</italic>, while the mean temperature of driest quarter (BIO9) and the mean temperature of wettest quarter (BIO8) were critical for the distribution of <italic>O.&#x000a0;nivara</italic>, indicating the differences in habitat preference of the two species.</p><fig fig-type="Figure" xml:lang="en" id="ece34665-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Average species distribution of <italic>Oryza rufipogon</italic> and <italic>Oryza nivara</italic> predicted by SDM based on 19 bioclimatic variables representing the current, LGM (~21 kya), and LIG (120&#x02013;140&#x000a0;kya) climatic conditions, respectively. Warmer colors show areas with a higher probability of presence</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-8-12056-g006"/></fig></sec><sec id="ece34665-sec-0008"><label>4</label><title>DISCUSSION</title><p>Microsatellites (SSRs) are featured as co&#x02010;dominant, highly polymorphic, abundant, and randomly distributed markers in the genomes and have been successfully used for a variety of studies in rice biology (Kuroda et al., <xref rid="ece34665-bib-0023" ref-type="ref">2007</xref>; McCouch et al., <xref rid="ece34665-bib-0026" ref-type="ref">1997</xref>; Pusadee et al., <xref rid="ece34665-bib-0036" ref-type="ref">2013</xref>; Samal et al., <xref rid="ece34665-bib-0039" ref-type="ref">2018</xref>; Wang et al., <xref rid="ece34665-bib-0047" ref-type="ref">2014</xref>; Zhou et al., <xref rid="ece34665-bib-0050" ref-type="ref">2003</xref>). As SSR markers have good cross&#x02010;species amplification to the close relatives, they provide a powerful tool for studying <italic>O.&#x000a0;nivara</italic> and <italic>O.&#x000a0;rufipogon</italic> given that thousands of SSR markers across rice genome have been well characterized (Cho et al., <xref rid="ece34665-bib-0008" ref-type="ref">2000</xref>; McCouch et al., <xref rid="ece34665-bib-0026" ref-type="ref">1997</xref>).</p><sec id="ece34665-sec-0009"><label>4.1</label><title>Genetic diversity and population genetic structure of <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> in Sri Lanka</title><p>To date, many investigations on genetic diversity of <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> have been undertaken using SSR markers and relatively high genetic diversity has been detected at both population and species levels (Banaticla&#x02010;Hilario et al., <xref rid="ece34665-bib-0003" ref-type="ref">2013</xref>; Kuroda et al., <xref rid="ece34665-bib-0023" ref-type="ref">2007</xref>; Pusadee et al., <xref rid="ece34665-bib-0036" ref-type="ref">2013</xref>; Samal et al., <xref rid="ece34665-bib-0039" ref-type="ref">2018</xref>; Zhou et al., <xref rid="ece34665-bib-0050" ref-type="ref">2003</xref>;). In a study on the Chinese <italic>O.&#x000a0;rufipogon</italic> populations, Zhou, Wang, Davy, and Liu (<xref rid="ece34665-bib-0049" ref-type="ref">2013</xref>) found a genetic diversity of 0.413 and 0.787, as measured by <italic>H</italic>
+<sub>E</sub>, at population and species levels, respectively. Kuroda et al. (<xref rid="ece34665-bib-0023" ref-type="ref">2007</xref>) studied the wild populations of both species in the Vientiane Plain of Laos and obtained the <italic>H</italic>
+<sub>E</sub> values of 0.37&#x02013;0.67 for <italic>O.&#x000a0;rufipogon</italic> and 0&#x02013;0.44 for <italic>O.&#x000a0;nivara</italic> at the population level and 0.77 for <italic>O.&#x000a0;rufipogon</italic> and 0.64 for <italic>O.&#x000a0;nivara</italic> at the species level. Using 29 SSR markers, Banaticla&#x02010;Hilario et al. (<xref rid="ece34665-bib-0003" ref-type="ref">2013</xref>) investigated 119 accessions of three wild rice species (<italic>O.&#x000a0;rufipogon</italic>,<italic> O.&#x000a0;nivara,</italic> and <italic>O.&#x000a0;meridionalis</italic>) across Asia Pacific and found that the average <italic>H</italic>
+<sub>E</sub> values for the species was 0.70 and 0.67 for <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic>, respectively, with the lowest for the Nepalese <italic>O.&#x000a0;nivara</italic> (0.39) and the highest for the Southeast Asian <italic>O.&#x000a0;rufipogon</italic> (0.66). In a recent study on 418 <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> accessions collected across the entire Indian peninsula, Singh et al. (<xref rid="ece34665-bib-0043" ref-type="ref">2018</xref>) reported that the genetic diversity was <italic>H</italic>
+<sub>E</sub>
+<italic>&#x000a0;</italic>=&#x000a0;0.63 (<italic>O.&#x000a0;rufipogon</italic>) and 0.64 (<italic>O.&#x000a0;nivara</italic>), respectively.</p><p>The present study yielded the first report on the population genetics of the natural populations of the two wild rice species in Sri Lanka. Although the number of the sampled populations is not large, the results based on the representative populations collected across the entire Sri Lanka provide useful information on the populations of the two species. Our estimates of the genetic diversity of the two species in Sri Lanka, either at population level (0.41 for <italic>O.&#x000a0;rufipogon</italic> and 0.33 for <italic>O.&#x000a0;nivara</italic>) or at the species level (0.62 for <italic>O.&#x000a0;rufipogon</italic> and 0.58 for <italic>O.&#x000a0;nivara</italic>) were relatively high given the small area of the island. This result indicates that the wild rice populations in Sri Lank may serve as an important genetic reservoir for rice improvement and deserve effective conservation. Consistent with previous studies (Liu et al., <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Pusadee, Jamjod, Rerkasem, &#x00026; Schaal, <xref rid="ece34665-bib-0035" ref-type="ref">2016</xref>; Zheng &#x00026; Ge, <xref rid="ece34665-bib-0048" ref-type="ref">2010</xref>), we detected a significantly but low level of divergence between species (Table <xref rid="ece34665-tbl-0002" ref-type="table">2</xref>), suggesting that these two species is still in the process of speciation with potential gene flow between them. This speculation is supported by the presence of admixture populations (SL01&#x02010;R and SL06&#x02010;R) in the intermediate climatic zone.</p><p>It is well recognized that the perennial <italic>O.&#x000a0;rufipogon</italic> is predominantly outcrossing while the annual <italic>O.&#x000a0;nivara</italic> is highly self&#x02010;fertilizing (Sang &#x00026; Ge, <xref rid="ece34665-bib-0040" ref-type="ref">2007</xref>). Therefore, the <italic>O.&#x000a0;rufipogon</italic> populations exhibited significantly lower differentiation than the <italic>O.&#x000a0;nivara</italic> populations, as detected by different molecular markers in previous studies (Kuroda et al., <xref rid="ece34665-bib-0023" ref-type="ref">2007</xref>; Liu et al., <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Pusadee et al., <xref rid="ece34665-bib-0035" ref-type="ref">2016</xref>). In contrary to the previous studies, we found that the <italic>O.&#x000a0;rufipogon</italic> populations have comparable levels of population differentiation relative to the <italic>O.&#x000a0;nivara</italic> populations in Sri Lanka, with the among&#x02010;population diversity being 43.7% for <italic>O.&#x000a0;rufipogon</italic> and 48.5% for <italic>O.&#x000a0;nivara</italic> (Table <xref rid="ece34665-tbl-0002" ref-type="table">2</xref>). Such a unique pattern implies a low level of gene flow among <italic>O.&#x000a0;rufipogon</italic> populations, which might result from the isolated populations in the wet zone of Sri Lanka and need further investigation by dense sampling in this area.</p></sec><sec id="ece34665-sec-0010"><label>4.2</label><title>Evolutionary history and origin of <italic>O.&#x000a0;nivara</italic> in Sri Lanka</title><p>The hypothesis that <italic>O.&#x000a0;nivara</italic> originated from <italic>O.&#x000a0;rufipogon</italic> to associate with an ecological shift from a persistently wet to a seasonally dry habitat (Barbier, <xref rid="ece34665-bib-0004" ref-type="ref">1989</xref>; Vaughan, Lu, &#x00026; Tomooka, <xref rid="ece34665-bib-0045" ref-type="ref">2008</xref>) has been supported by many recent studies (Grillo et al., <xref rid="ece34665-bib-0015" ref-type="ref">2009</xref>; Liu et al., <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Zheng &#x00026; Ge, <xref rid="ece34665-bib-0048" ref-type="ref">2010</xref>). Interestingly, these two species were sympatric in many areas across their entire geographic distribution (Liu et al., <xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>; Vaughan et al., <xref rid="ece34665-bib-0045" ref-type="ref">2008</xref>), which raised an interesting question that where and how the derived <italic>O.&#x000a0;nivara</italic> originated to adapt to new environments. Zheng and Ge (<xref rid="ece34665-bib-0048" ref-type="ref">2010</xref>) estimated that <italic>O.&#x000a0;nivara</italic> was derived from the <italic>O.&#x000a0;rufipogon</italic> populations about 0.16 million years ago around LIG to associate with an ecological shift from a persistently wet to a seasonally dry habitat. Based on the sequences of 12 nuclear and chloroplast loci, Liu et al. (<xref rid="ece34665-bib-0024" ref-type="ref">2015</xref>) further studied 26 wild populations across the entire geographic ranges of the two species and hypothesized that <italic>O.&#x000a0;nivara</italic> might have independently originated multiple times from different <italic>O.&#x000a0;rufipogon</italic> populations, with Sri Lanka as one of the potential areas of origin. However, the climate variables that have contributed to the origin of <italic>O.&#x000a0;nivara</italic> remain plausible. In the present study, we used SDM to detect the dynamics of the preferred habitats for the two species and demonstrated that both <italic>O.&#x000a0;rufipogon</italic> and <italic>O.&#x000a0;nivara</italic> populations have expanded substantially since the last internal glacial, particularly for <italic>O.&#x000a0;nivara</italic> (Figure <xref rid="ece34665-fig-0006" ref-type="fig">6</xref>). In addition, we identified a few of the key environmental variables that have contributed to the distribution of the two species.</p><p>One interesting and challenging question is whether the Sri Lankan <italic>O.&#x000a0;nivara</italic> originated locally within the island or introduced from the areas outside the island. Pant and Kumar (<xref rid="ece34665-bib-0030" ref-type="ref">1997</xref>) reported that similar climatic conditions arose between the plains of southern India and northern Sri Lanka since the late Pleistocene. Evidence also showed that Sri Lanka has been connected with Indian subcontinent and the dispersal across the Palk Strait between southeastern India and northern Sri Lanka was possible during the LGM (21 kya; Figure <xref rid="ece34665-fig-0006" ref-type="fig">6</xref>). In addition, the well&#x02010;understood climatic zones in Sri Lanka and their close match to the distribution of the two species (<italic>i.e</italic>., <italic>O.&#x000a0;rufipogon</italic> in the wet zone and <italic>O.&#x000a0;nivara</italic> in the dry zone) provide a unique system to investigate adaptive divergence and ecological speciation in plant species. Together, our study on <italic>O</italic>. <italic>nivara</italic> and <italic>O.&#x000a0;rufipogon</italic> populations in Sri Lanka not only provide important insights into the population genetics and evolution history of these wild species, but also is of great significance for in situ conservation and management of these genetic resources.</p></sec></sec><sec id="ece34665-sec-0012"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece34665-sec-0013"><title>AUTHOR CONTRIBUTIONS</title><p>S. G., D. R., and S. S. conceived the ideas. D. R. and Q&#x02010;L. M. collected the data. S. S., A. T., and A. M. analyzed the data; and S. G., A. T., A. M., B. M., and S. S. wrote the paper.</p></sec><sec id="ece34665-sec-0014"><title>DATA ACCESSIBILITY</title><p>Data available from the Dryad Digital Repository.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece34665-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-12056-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece34665-sec-0011"><title>ACKNOWLEDGMENTS</title><p>We thank Shan&#x02010;Shan Li and Mu&#x02010;Fan Geng for their technical assistances and helpful comments on the manuscript. We also thank the State Key Laboratory of Systematic and Evolutionary Botany, Institute of Botany, Chinese Academy of Sciences, (Beijing, China) for providing laboratory facilities. This work was supported by the National Natural Science Foundation of China (91731301; 91231201) and the Chinese Academy of Sciences (XDA08020103; XDB31000000) to S.G, the National Research Council, Sri Lanka (NRC 15&#x02013;108), National Science Foundation, Sri Lanka (OSTP/2016/54) to S.S. and (OSTP/2016/53) to A.T.</p></ack><ref-list content-type="cited-references" id="ece34665-bibl-0001"><title>REFERENCES</title><ref id="ece34665-bib-0001"><mixed-citation publication-type="journal" id="ece34665-cit-0001">
+<string-name>
+<surname>Aggarwal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Brar</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nandi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Khush</surname>, <given-names>G.</given-names>
+</string-name> (<year>1999</year>). <article-title>Phylogenetic relationships among <italic>Oryza</italic> species revealed by AFLP markers</article-title>. <source xml:lang="en">Theoretical and Applied Genetics</source>, <volume>98</volume>, <fpage>1320</fpage>&#x02013;<lpage>1328</lpage>. <pub-id pub-id-type="doi">10.1007/s001220051198</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0002"><mixed-citation publication-type="journal" id="ece34665-cit-0002">
+<string-name>
+<surname>Ali</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>Lorieux</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eizenga</surname>, <given-names>G. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Chromosome segment substitution lines: A powerful tool for the introgression of valuable genes from <italic>Oryza</italic> wild species into cultivated rice (<italic>O. sativa</italic>)</article-title>. <source xml:lang="en">Rice</source>, <volume>3</volume>, <fpage>218</fpage>&#x02013;<lpage>234</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0003"><mixed-citation publication-type="journal" id="ece34665-cit-0003">
+<string-name>
+<surname>Banaticla&#x02010;Hilario</surname>, <given-names>M. C. N.</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>, <given-names>N. R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McNally</surname>, <given-names>K. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Local differentiation amidst extensive allele sharing in <italic>Oryza nivara</italic> and <italic>O. rufipogon</italic>
+</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>3</volume>, <fpage>3047</fpage>&#x02013;<lpage>3062</lpage>.<pub-id pub-id-type="pmid">24101993</pub-id></mixed-citation></ref><ref id="ece34665-bib-0004"><mixed-citation publication-type="journal" id="ece34665-cit-0004">
+<string-name>
+<surname>Barbier</surname>, <given-names>P.</given-names>
+</string-name> (<year>1989</year>). <article-title>Genetic variation and ecotypic differentiation in the wild rice species <italic>Oryza rufipogon</italic>. I. Population differentiation in life&#x02010;history traits and isozymic loci</article-title>. <source xml:lang="en">The Japanese Journal of Genetics</source>, <volume>64</volume>, <fpage>259</fpage>&#x02013;<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1266/jjg.64.259</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0005"><mixed-citation publication-type="journal" id="ece34665-cit-0005">
+<string-name>
+<surname>Brar</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Khush</surname>, <given-names>G.</given-names>
+</string-name> (<year>1997</year>). <article-title>Alien introgression in rice</article-title>. <source xml:lang="en">Plant Molecular Biology</source>, <volume>35</volume>, <fpage>35</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">9291958</pub-id></mixed-citation></ref><ref id="ece34665-bib-0006"><mixed-citation publication-type="journal" id="ece34665-cit-0006">
+<string-name>
+<surname>Brookfield</surname>, <given-names>J.</given-names>
+</string-name> (<year>1996</year>). <article-title>A simple new method for estimating null allele frequency from heterozygote deficiency</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>5</volume>, <fpage>453</fpage>&#x02013;<lpage>455</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.1996.tb00336.x</pub-id>
+<pub-id pub-id-type="pmid">8688964</pub-id></mixed-citation></ref><ref id="ece34665-bib-0007"><mixed-citation publication-type="journal" id="ece34665-cit-0007">
+<string-name>
+<surname>Chang</surname>, <given-names>T.</given-names>
+</string-name> (<year>1984</year>). <article-title>Conservation of rice genetic resources: Luxury or necessity?</article-title>
+<source xml:lang="en">Science</source>, <volume>224</volume>, <fpage>251</fpage>&#x02013;<lpage>256</lpage>. <pub-id pub-id-type="doi">10.1126/science.224.4646.251</pub-id>
+<pub-id pub-id-type="pmid">17734902</pub-id></mixed-citation></ref><ref id="ece34665-bib-0008"><mixed-citation publication-type="journal" id="ece34665-cit-0008">
+<string-name>
+<surname>Cho</surname>, <given-names>Y. G.</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Temnykh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lipovich</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>McCouch</surname>, <given-names>S. R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cartinhour</surname>, <given-names>S.</given-names>
+</string-name> (<year>2000</year>). <article-title>Diversity of microsatellites derived from genomic libraries and GenBank sequences in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Theoretical and Applied Genetics</source>, <volume>100</volume>, <fpage>713</fpage>&#x02013;<lpage>722</lpage>. <pub-id pub-id-type="doi">10.1007/s001220051343</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0009"><mixed-citation publication-type="journal" id="ece34665-cit-0009">
+<string-name>
+<surname>Choi</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Platts</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Fuller</surname>, <given-names>D. Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wing</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>The Rice Paradox: Multiple Origins but Single Domestication in Asian Rice</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>34</volume>, <fpage>969</fpage>&#x02013;<lpage>979</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msx049</pub-id>
+<pub-id pub-id-type="pmid">28087768</pub-id></mixed-citation></ref><ref id="ece34665-bib-0010"><mixed-citation publication-type="journal" id="ece34665-cit-0010">
+<string-name>
+<surname>Doebley</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Gaut</surname>, <given-names>B. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>B. D.</given-names>
+</string-name> (<year>2006</year>). <article-title>The molecular genetics of crop domestication</article-title>. <source xml:lang="en">Cell</source>, <volume>127</volume>, <fpage>1309</fpage>&#x02013;<lpage>1321</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2006.12.006</pub-id>
+<pub-id pub-id-type="pmid">17190597</pub-id></mixed-citation></ref><ref id="ece34665-bib-0011"><mixed-citation publication-type="journal" id="ece34665-cit-0011">
+<string-name>
+<surname>Evanno</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Regnaut</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goudet</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Detecting the number of clusters of individuals using the software STRUCTURE: A simulation study</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>14</volume>, <fpage>2611</fpage>&#x02013;<lpage>2620</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02553.x</pub-id>
+<pub-id pub-id-type="pmid">15969739</pub-id></mixed-citation></ref><ref id="ece34665-bib-0012"><mixed-citation publication-type="journal" id="ece34665-cit-0012">
+<string-name>
+<surname>Falush</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pritchard</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2003</year>). <article-title>Inference of population structure using multilocus genotype data: Linked loci and correlated allele frequencies</article-title>. <source xml:lang="en">Genetics</source>, <volume>164</volume>, <fpage>1567</fpage>&#x02013;<lpage>1587</lpage>.<pub-id pub-id-type="pmid">12930761</pub-id></mixed-citation></ref><ref id="ece34665-bib-0013"><mixed-citation publication-type="journal" id="ece34665-cit-0013">
+<string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>B.&#x02010;R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hong</surname>, <given-names>D.&#x02010;Y.</given-names>
+</string-name> (<year>1999</year>). <article-title>Phylogeny of rice genomes with emphasis on origins of allotetraploid species</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>, <volume>96</volume>, <fpage>14400</fpage>&#x02013;<lpage>14405</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.96.25.14400</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0014"><mixed-citation publication-type="miscellaneous" id="ece34665-cit-0014">
+<string-name>
+<surname>Goudet</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>FSTAT, a program to estimate and test gene diversities and fixation indices, Version, 2.9, 3</article-title>.</mixed-citation></ref><ref id="ece34665-bib-0015"><mixed-citation publication-type="journal" id="ece34665-cit-0015">
+<string-name>
+<surname>Grillo</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fowlkes</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Briggeman</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schemske</surname>, <given-names>D. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sang</surname>, <given-names>T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Genetic architecture for the adaptive origin of annual wild rice, <italic>Oryza nivara</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>63</volume>, <fpage>870</fpage>&#x02013;<lpage>883</lpage>.<pub-id pub-id-type="pmid">19236476</pub-id></mixed-citation></ref><ref id="ece34665-bib-0016"><mixed-citation publication-type="journal" id="ece34665-cit-0016">
+<string-name>
+<surname>Hajjar</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hodgkin</surname>, <given-names>T.</given-names>
+</string-name> (<year>2007</year>). <article-title>The use of wild relatives in crop improvement: A survey of developments over the last 20 years</article-title>. <source xml:lang="en">Euphytica</source>, <volume>156</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0017"><mixed-citation publication-type="journal" id="ece34665-cit-0017">
+<string-name>
+<surname>He</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Development and trait evaluation of chromosome single&#x02010;segment substitution lines of <italic>O. meridionalis</italic> in the background of <italic>O. sativa</italic>
+</article-title>. <source xml:lang="en">Euphytica</source>, <volume>213</volume>, <fpage>281</fpage>.</mixed-citation></ref><ref id="ece34665-bib-0018"><mixed-citation publication-type="journal" id="ece34665-cit-0018">
+<string-name>
+<surname>Hijmans</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Parra</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>P. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jarvis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>. <source xml:lang="en">International Journal of Climatology</source>, <volume>25</volume>, <fpage>1965</fpage>&#x02013;<lpage>1978</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0019"><mixed-citation publication-type="journal" id="ece34665-cit-0019">
+<string-name>
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>Y. S.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X. M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name>(<year>2013</year>). <article-title>Nucleotide diversity of 11S seed storage protein gene and its implications for ecological adaptation of <italic>Oryza nivara</italic>
+</article-title>. <source xml:lang="en">Journal of Systematics and Evolution</source>, <volume>51</volume>, <fpage>641</fpage>&#x02013;<lpage>651</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0020"><mixed-citation publication-type="journal" id="ece34665-cit-0020">
+<string-name>
+<surname>Huang</surname>, <given-names>P. U.</given-names>
+</string-name>, <string-name>
+<surname>Molina</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Flowers</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Rubinstein</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Purugganan</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schaal</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Phylogeography of Asian wild rice, <italic>Oryza rufipogon</italic>: A genome&#x02010;wide view</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>21</volume>, <fpage>4593</fpage>&#x02013;<lpage>4604</lpage>.<pub-id pub-id-type="pmid">22646149</pub-id></mixed-citation></ref><ref id="ece34665-bib-0021"><mixed-citation publication-type="journal" id="ece34665-cit-0021">
+<string-name>
+<surname>Jombart</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ahmed</surname>, <given-names>I.</given-names>
+</string-name> (<year>2011</year>). <article-title>Adegenet 1.3&#x02010;1: New tools for the analysis of genome&#x02010;wide SNP data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>27</volume>, <fpage>3070</fpage>&#x02013;<lpage>3071</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btr521</pub-id>
+<pub-id pub-id-type="pmid">21926124</pub-id></mixed-citation></ref><ref id="ece34665-bib-0022"><mixed-citation publication-type="journal" id="ece34665-cit-0022">
+<string-name>
+<surname>Khush</surname>, <given-names>G. S.</given-names>
+</string-name> (<year>1997</year>). <article-title>Origin, dispersal, cultivation and variation of rice</article-title>. <source xml:lang="en">Plant Molecular Biology</source>, <volume>35</volume>, <fpage>25</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">9291957</pub-id></mixed-citation></ref><ref id="ece34665-bib-0023"><mixed-citation publication-type="journal" id="ece34665-cit-0023">
+<string-name>
+<surname>Kuroda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>Y. I.</given-names>
+</string-name>, <string-name>
+<surname>Bounphanousay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kono</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tanaka</surname>, <given-names>K.</given-names>
+</string-name> (<year>2007</year>). <article-title>Genetic structure of three <italic>Oryza</italic> AA genome species (<italic>O. rufipogon, O. nivara</italic> and <italic>O. sativa</italic>) as assessed by SSR analysis on the Vientiane Plain of Laos</article-title>. <source xml:lang="en">Conservation Genetics</source>, <volume>8</volume>, <fpage>149</fpage>&#x02013;<lpage>158</lpage>. <pub-id pub-id-type="doi">10.1007/s10592-006-9156-3</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0024"><mixed-citation publication-type="journal" id="ece34665-cit-0024">
+<string-name>
+<surname>Liu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X. M.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Population genetic structure of <italic>Oryza rufipogon</italic> and <italic>Oryza nivara</italic>: Implications for the origin of <italic>O. nivara</italic>
+</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>, <fpage>5211</fpage>&#x02013;<lpage>5228</lpage>.<pub-id pub-id-type="pmid">26340227</pub-id></mixed-citation></ref><ref id="ece34665-bib-0025"><mixed-citation publication-type="journal" id="ece34665-cit-0025">
+<string-name>
+<surname>McCouch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Baute</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name>
+<surname>Bradeen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bramel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bretting</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name>
+<surname>Buckler</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dempewolf</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>). <article-title>Agriculture: Feeding the future</article-title>. <source xml:lang="en">Nature</source>, <volume>499</volume>, <fpage>23</fpage>
+<pub-id pub-id-type="doi">10.1038/499023a</pub-id>
+<pub-id pub-id-type="pmid">23823779</pub-id></mixed-citation></ref><ref id="ece34665-bib-0026"><mixed-citation publication-type="journal" id="ece34665-cit-0026">
+<string-name>
+<surname>McCouch</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Panaud</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Temnykh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>Y. G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Blair</surname>, <given-names>M.</given-names>
+</string-name> (<year>1997</year>). <article-title>Microsatellite marker development, mapping and applications in rice genetics and breeding</article-title>. <source xml:lang="en">Plant Molecular Biology</source>, <volume>35</volume>, <fpage>89</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">9291963</pub-id></mixed-citation></ref><ref id="ece34665-bib-0027"><mixed-citation publication-type="journal" id="ece34665-cit-0027">
+<string-name>
+<surname>Morishima</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sano</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oka</surname>, <given-names>H.</given-names>
+</string-name> (<year>1984</year>). <article-title>Differentiation of perennial and annual types due to habitat conditions in the wild rice <italic>Oryza perennis</italic>
+</article-title>. <source xml:lang="en">Plant Systematics and Evolution</source>, <volume>144</volume>, <fpage>119</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1007/BF00986670</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0028"><mixed-citation publication-type="journal" id="ece34665-cit-0028">
+<string-name>
+<surname>Nei</surname>, <given-names>M.</given-names>
+</string-name> (<year>1972</year>). <article-title>Genetic distance between populations</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>106</volume>, <fpage>283</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1086/282771</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0029"><mixed-citation publication-type="book" id="ece34665-cit-0029">
+<string-name>
+<surname>Page</surname>, <given-names>R. D. M.</given-names>
+</string-name> (<year>1996</year>). <source xml:lang="en">TREEVIEW, tree drawing software for Apple Macintosh and Microsoft Windows</source>. <publisher-loc>Glasgow, UK</publisher-loc>: <publisher-name>Division of Environmental and Evolutionary Biology,</publisher-name>
+<publisher-name>Institute of Biomedical and Life Sciences, University of Glasgow</publisher-name>.</mixed-citation></ref><ref id="ece34665-bib-0030"><mixed-citation publication-type="book" id="ece34665-cit-0030">
+<string-name>
+<surname>Pant</surname>, <given-names>G. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kumar</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>1997</year>). <source xml:lang="en">Climates of south Asia</source>. <publisher-loc>Hoboken, NJ</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons</publisher-name>.</mixed-citation></ref><ref id="ece34665-bib-0031"><mixed-citation publication-type="journal" id="ece34665-cit-0031">
+<string-name>
+<surname>Peakall</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smouse</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>2006</year>). <article-title>GENALEX 6: Genetic analysis in Excel. Population genetic software for teaching and research</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>6</volume>, <fpage>288</fpage>&#x02013;<lpage>295</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0032"><mixed-citation publication-type="journal" id="ece34665-cit-0032">
+<string-name>
+<surname>Phillips</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>R. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schapire</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2006</year>). <article-title>Maximum entropy modeling of species geographic distributions</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>190</volume>, <fpage>231</fpage>&#x02013;<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2005.03.026</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0033"><mixed-citation publication-type="journal" id="ece34665-cit-0033">
+<string-name>
+<surname>Phillips</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dud&#x000ed;k</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Modeling of species distributions with Maxent: New extensions and a comprehensive evaluation</article-title>. <source xml:lang="en">Ecography</source>, <volume>31</volume>, <fpage>161</fpage>&#x02013;<lpage>175</lpage>. <pub-id pub-id-type="doi">10.1111/j.0906-7590.2008.5203.x</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0034"><mixed-citation publication-type="journal" id="ece34665-cit-0034">
+<string-name>
+<surname>Pritchard</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Donnelly</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Inference of population structure using multilocus genotype data</article-title>. <source xml:lang="en">Genetics</source>, <volume>155</volume>, <fpage>945</fpage>&#x02013;<lpage>959</lpage>.<pub-id pub-id-type="pmid">10835412</pub-id></mixed-citation></ref><ref id="ece34665-bib-0035"><mixed-citation publication-type="journal" id="ece34665-cit-0035">
+<string-name>
+<surname>Pusadee</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jamjod</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rerkasem</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schaal</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Life&#x02010;history traits and geographical divergence in wild rice (<italic>Oryza rufipogon</italic>) gene pool in Indochina Peninsula region</article-title>. <source xml:lang="en">Annals of Applied Biology</source>, <volume>168</volume>, <fpage>52</fpage>&#x02013;<lpage>65</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0036"><mixed-citation publication-type="journal" id="ece34665-cit-0036">
+<string-name>
+<surname>Pusadee</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Schaal</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Rerkasem</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jamjod</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Population structure of the primary gene pool of <italic>Oryza sativa</italic> in Thailand</article-title>. <source xml:lang="en">Genetic Resources and Crop Evolution</source>, <volume>60</volume>, <fpage>335</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="doi">10.1007/s10722-012-9839-1</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0037"><mixed-citation publication-type="journal" id="ece34665-cit-0037">
+<string-name>
+<surname>Rajkumar</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Weerasena</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fernando</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Liyanage</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Silva</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>). <article-title>Genetic differentiation among Sri Lankan traditional rice (<italic>Oryza sativa</italic>) varieties and wild rice species by AFLP markers</article-title>. <source xml:lang="en">Nordic Journal of Botany</source>, <volume>29</volume>, <fpage>238</fpage>&#x02013;<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1111/j.1756-1051.2011.00998.x</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0038"><mixed-citation publication-type="journal" id="ece34665-cit-0038">
+<string-name>
+<surname>Saghai&#x02010;Maroof</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Soliman</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Jorgensen</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Allard</surname>, <given-names>R.</given-names>
+</string-name> (<year>1984</year>). <article-title>Ribosomal DNA spacer&#x02010;length polymorphisms in barley: Mendelian inheritance, chromosomal location, and population dynamics</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>, <volume>81</volume>, <fpage>8014</fpage>&#x02013;<lpage>8018</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.81.24.8014</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0039"><mixed-citation publication-type="journal" id="ece34665-cit-0039">
+<string-name>
+<surname>Samal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<surname>Sahoo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kar</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name>
+<surname>Patra</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Marndi</surname>, <given-names>B. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gundimeda</surname>, <given-names>J. N. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Morphological and molecular dissection of wild rices from eastern India suggests distinct speciation between <italic>O. rufipogon</italic> and <italic>O. nivara</italic> populations</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>2773</fpage>.<pub-id pub-id-type="pmid">29426872</pub-id></mixed-citation></ref><ref id="ece34665-bib-0040"><mixed-citation publication-type="journal" id="ece34665-cit-0040">
+<string-name>
+<surname>Sang</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Genetics and phylogenetics of rice domestication</article-title>. <source xml:lang="en">Current Opinion in Genetics &#x00026; Development</source>, <volume>17</volume>, <fpage>533</fpage>&#x02013;<lpage>538</lpage>. <pub-id pub-id-type="doi">10.1016/j.gde.2007.09.005</pub-id>
+<pub-id pub-id-type="pmid">17988855</pub-id></mixed-citation></ref><ref id="ece34665-bib-0041"><mixed-citation publication-type="miscellaneous" id="ece34665-cit-0041">
+<string-name>
+<surname>Scientific</surname>, <given-names>T. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>NanoDrop 2000/2000c spectrophotometer V1. 0 user manual</article-title>. Wilmington, DE, 19810.</mixed-citation></ref><ref id="ece34665-bib-0042"><mixed-citation publication-type="journal" id="ece34665-cit-0042">
+<string-name>
+<surname>Seo</surname>, <given-names>S. N. N.</given-names>
+</string-name>, <string-name>
+<surname>Mendelsohn</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Munasinghe</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Climate change and agriculture in Sri Lanka: A Ricardian valuation</article-title>. <source xml:lang="en">Environment and Development Economics</source>, <volume>10</volume>, <fpage>581</fpage>&#x02013;<lpage>596</lpage>. <pub-id pub-id-type="doi">10.1017/S1355770X05002044</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0043"><mixed-citation publication-type="journal" id="ece34665-cit-0043">
+<string-name>
+<surname>Singh</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mishra</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tripathi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>B. P.</given-names>
+</string-name>, <string-name>
+<surname>Rai</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Singh</surname>, <given-names>N. K.</given-names>
+</string-name> (<year>2018</year>). <article-title>Morphological and Molecular data reveal three distinct populations of indian wild rice <italic>Oryza rufipogon</italic> Griff. species complex</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>, <volume>9</volume>, <fpage>123</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2018.00123</pub-id>
+<pub-id pub-id-type="pmid">29467785</pub-id></mixed-citation></ref><ref id="ece34665-bib-0044"><mixed-citation publication-type="journal" id="ece34665-cit-0044">
+<string-name>
+<surname>Tanksley</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McCouch</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>1997</year>). <article-title>Seed banks and molecular maps: Unlocking genetic potential from the wild</article-title>. <source xml:lang="en">Science</source>, <volume>277</volume>, <fpage>1063</fpage>&#x02013;<lpage>1066</lpage>. <pub-id pub-id-type="doi">10.1126/science.277.5329.1063</pub-id>
+<pub-id pub-id-type="pmid">9262467</pub-id></mixed-citation></ref><ref id="ece34665-bib-0045"><mixed-citation publication-type="journal" id="ece34665-cit-0045">
+<string-name>
+<surname>Vaughan</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>B. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tomooka</surname>, <given-names>N.</given-names>
+</string-name> (<year>2008</year>). <article-title>The evolving story of rice evolution</article-title>. <source xml:lang="en">Plant Science</source>, <volume>174</volume>, <fpage>394</fpage>&#x02013;<lpage>408</lpage>. <pub-id pub-id-type="doi">10.1016/j.plantsci.2008.01.016</pub-id>
+</mixed-citation></ref><ref id="ece34665-bib-0046"><mixed-citation publication-type="journal" id="ece34665-cit-0046">
+<string-name>
+<surname>Vaughan</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Morishima</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kadowaki</surname>, <given-names>K.</given-names>
+</string-name> (<year>2003</year>). <article-title>Diversity in the <italic>Oryza</italic> genus</article-title>. <source xml:lang="en">Current Opinion in Plant Biology</source>, <volume>6</volume>, <fpage>139</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1016/S1369-5266(03)00009-8</pub-id>
+<pub-id pub-id-type="pmid">12667870</pub-id></mixed-citation></ref><ref id="ece34665-bib-0047"><mixed-citation publication-type="journal" id="ece34665-cit-0047">
+<string-name>
+<surname>Wang</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X. M.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>X. P.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H. F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Genetic diversity and classification of <italic>Oryza sativa</italic> with emphasis on Chinese rice germplasm</article-title>. <source xml:lang="en">Heredity</source>, <volume>112</volume>, <fpage>489</fpage>
+<pub-id pub-id-type="doi">10.1038/hdy.2013.130</pub-id>
+<pub-id pub-id-type="pmid">24326293</pub-id></mixed-citation></ref><ref id="ece34665-bib-0048"><mixed-citation publication-type="journal" id="ece34665-cit-0048">
+<string-name>
+<surname>Zheng</surname>, <given-names>X. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Ecological divergence in the presence of gene flow in two closely related <italic>Oryza</italic> species (<italic>Oryza rufipogon</italic>and <italic>O. nivara</italic>)</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>19</volume>, <fpage>2439</fpage>&#x02013;<lpage>2454</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2010.04674.x</pub-id>
+<pub-id pub-id-type="pmid">20653085</pub-id></mixed-citation></ref><ref id="ece34665-bib-0049"><mixed-citation publication-type="journal" id="ece34665-cit-0049">
+<string-name>
+<surname>Zhou</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Davy</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>). <article-title>Geographic variation and local adaptation in <italic>Oryza rufipogon</italic> across its climatic range in China</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>101</volume>, <fpage>1498</fpage>&#x02013;<lpage>1508</lpage>.</mixed-citation></ref><ref id="ece34665-bib-0050"><mixed-citation publication-type="journal" id="ece34665-cit-0050">
+<string-name>
+<surname>Zhou</surname>, <given-names>H. F.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>Z. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2003</year>). <article-title>Microsatellite analysis of genetic diversity and population genetic structure of a wild rice (<italic>Oryza rufipogon</italic> Griff.) in China</article-title>. <source xml:lang="en">Theoretical and Applied Genetics</source>, <volume>107</volume>, <fpage>332</fpage>&#x02013;<lpage>339</lpage>. <pub-id pub-id-type="doi">10.1007/s00122-003-1251-y</pub-id>
+<pub-id pub-id-type="pmid">12845446</pub-id></mixed-citation></ref><ref id="ece34665-bib-0051"><mixed-citation publication-type="journal" id="ece34665-cit-0051">
+<string-name>
+<surname>Zhou</surname>, <given-names>H. F.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X. M.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>R. X.</given-names>
+</string-name>, <string-name>
+<surname>Second</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Vaughan</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Contrasting population genetic structure and gene flow between <italic>Oryza rufipogon</italic> and <italic>Oryza nivara</italic>
+</article-title>. <source xml:lang="en">Theoretical and Applied Genetics</source>, <volume>117</volume>, <fpage>1181</fpage>&#x02013;<lpage>1189</lpage>. <pub-id pub-id-type="doi">10.1007/s00122-008-0855-7</pub-id>
+<pub-id pub-id-type="pmid">18712516</pub-id></mixed-citation></ref><ref id="ece34665-bib-0052"><mixed-citation publication-type="journal" id="ece34665-cit-0052">
+<string-name>
+<surname>Zhu</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2005</year>). <article-title>Phylogenetic relationships among A&#x02010;genome species of the genus <italic>Oryza</italic> revealed by intron sequences of four nuclear genes</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>167</volume>, <fpage>249</fpage>&#x02013;<lpage>265</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2005.01406.x</pub-id>
+<pub-id pub-id-type="pmid">15948847</pub-id></mixed-citation></ref><ref id="ece34665-bib-0053"><mixed-citation publication-type="journal" id="ece34665-cit-0053">
+<string-name>
+<surname>Zhu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gaut</surname>, <given-names>B. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ge</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Multilocus analysis of nucleotide variation of <italic>Oryza sativa</italic> and its wild relatives: Severe bottleneck during domestication of rice</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>24</volume>, <fpage>875</fpage>&#x02013;<lpage>888</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msm005</pub-id>
+<pub-id pub-id-type="pmid">17218640</pub-id></mixed-citation></ref></ref-list></back></article>

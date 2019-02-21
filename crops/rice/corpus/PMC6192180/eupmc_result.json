@@ -1,0 +1,738 @@
+{
+  "id": [
+    "30326834"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30326834"
+  ],
+  "pmcid": [
+    "PMC6192180"
+  ],
+  "doi": [
+    "10.1186/s12870-018-1470-7"
+  ],
+  "title": [
+    "Two virulent sRNAs identified by genomic sequencing target the type III secretion system in rice bacterial blight pathogen."
+  ],
+  "authorString": [
+    "Hu Y, Zhang L, Wang X, Sun F, Kong X, Dong H, Xu H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yiqun"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, College of Plant Protection, Nanjing Agricultural University, Nanjing, 210095, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liyuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Ministry of Education Key Laboratory of Integrated Management of Crop Pathogens and Insect Pests, Nanjing, 210095, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, College of Plant Protection, Nanjing Agricultural University, Nanjing, 210095, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun F"
+          ],
+          "firstName": [
+            "Fengli"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "State Ministry of Education Key Laboratory of Integrated Management of Crop Pathogens and Insect Pests, Nanjing, 210095, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong X"
+          ],
+          "firstName": [
+            "Xiangxin"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Ministry of Education Key Laboratory of Integrated Management of Crop Pathogens and Insect Pests, Nanjing, 210095, Jiangsu Province, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong H"
+          ],
+          "firstName": [
+            "Hansong"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2820-9159",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, College of Plant Protection, Nanjing Agricultural University, Nanjing, 210095, Jiangsu Province, China. hsdong@njau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu H"
+          ],
+          "firstName": [
+            "Heng"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Ministry of Education Key Laboratory of Integrated Management of Crop Pathogens and Insect Pests, Nanjing, 210095, Jiangsu Province, China. xuheng@njau.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2820-9159",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2734508"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "237"
+  ],
+  "abstractText": [
+    "BACKGROUND:Small non-coding RNA (sRNA) short sequences regulate various biological processes in all organisms, including bacteria that are animal or plant pathogens. Virulent or pathogenicity-associated sRNAs have been increasingly elucidated in animal pathogens but little is known about similar category of sRNAs in plant-pathogenic bacteria. This is particularly true regarding rice bacterial blight pathogen Xanthomonas oryzae pathovar oryzae (Xoo) as studies on the virulent role of Xoo sRNAs is very limited at present. RESULTS:The number and genomic distribution of sRNAs in Xoo were determined by bioinformatics analysis based on high throughput sequencing (sRNA-Seq) of the bacterial cultures from virulence-inducing and standard growth media, respectively. A total of 601 sRNAs were identified in the Xoo genome and ten virulent sRNA candidates were screened out based on significant differences of their expression levels between the culture conditions. In addition, trans3287 and trans3288 were also selected as candidates due to high expression levels in both media. The differential expression of 12 sRNAs evidenced by the sRNA-Seq data was confirmed by a convincing quantitative method. Based on genetic analysis of Xoo ΔsRNA mutants generated by deletion of the 12 single sRNAs, trans217 and trans3287 were characterized as virulent sRNAs. They are essential not only for the formation of bacterial blight in a susceptible rice variety Nipponbare but also for the induction of hypersensitive response (HR) in nonhost plant tobacco. Xoo Δtrans217 and Δtrans3287 mutants fail to induce bacterial blight in Nipponbare and also fail to induce the HR in tobacco, whereas, genetic complementation restores both mutants to the wild type in the virulent performance and HR induction. Similar effects of gene knockout and complementation were found in the expression of hrpG and hrpX genes, which encode regulatory proteins of the type III secretion system. Consistently, secretion of a type III effector, PthXo1, is blocked in Δtrans217 or Δtrans3287 bacterial cultures but retrieved by genetic complementation to both mutants. CONCLUSIONS:The genetic analysis characterizes trans217 and trans3287 as pathogenicity-associated sRNAs essential for the bacterial virulence on the susceptible rice variety and for the HR elicitation in the nonhost plant. The molecular evidence suggests that both virulent sRNAs regulate the bacterial virulence by targeting the type III secretion system."
+  ],
+  "affiliation": [
+    "Department of Plant Pathology, College of Plant Protection, Nanjing Agricultural University, Nanjing, 210095, Jiangsu Province, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017YFD0200901"
+          ],
+          "agency": [
+            "national key research and development plan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BK20150668"
+          ],
+          "agency": [
+            "the Jiangsu Provincial Scientific Plan Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31772247"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Xanthomonas"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tobacco"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virulence"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Small Untranslated"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Type III Secretion Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virulence",
+        "sRNA",
+        "Type Iii Secretion System (T3ss)",
+        "Xanthomonas Oryzae Pv. Oryzae (Xoo)",
+        "Pthxo1",
+        "Trans217",
+        "Trans3287"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Bacterial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Small Untranslated"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Type III Secretion Systems"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6192180?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6192180"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-018-1470-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-19"
+  ],
+  "dateOfCreation": [
+    "2018-10-18"
+  ],
+  "dateOfRevision": [
+    "2018-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-16"
+  ],
+  "firstPublicationDate": [
+    "2018-10-16"
+  ]
+}

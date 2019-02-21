@@ -1,0 +1,348 @@
+{
+  "id": [
+    "30705343"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30705343"
+  ],
+  "pmcid": [
+    "PMC6355875"
+  ],
+  "doi": [
+    "10.1038/s41598-019-38508-8"
+  ],
+  "title": [
+    "Discovering highly selective and diverse PPAR-delta agonists by ligand based machine learning and structural modeling."
+  ],
+  "authorString": [
+    "Da'adoosh B, Marcus D, Rayan A, King F, Che J, Goldblum A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Da'adoosh B"
+          ],
+          "firstName": [
+            "Benny"
+          ],
+          "lastName": [
+            "Da'adoosh"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Molecular Modeling Laboratory, Institute for Drug Research, The Hebrew University of Jerusalem, Jerusalem, 91120, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Marcus D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Marcus"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Molecular Modeling Laboratory, Institute for Drug Research, The Hebrew University of Jerusalem, Jerusalem, 91120, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Rayan A"
+          ],
+          "firstName": [
+            "Anwar"
+          ],
+          "lastName": [
+            "Rayan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Modeling Laboratory, Institute for Drug Research, The Hebrew University of Jerusalem, Jerusalem, 91120, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "King F"
+          ],
+          "firstName": [
+            "Fred"
+          ],
+          "lastName": [
+            "King"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Genomics Institute of the Novartis Research Foundation, 10675 John Jay Hopkins Dr., San Diego, CA, 92121, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Che J"
+          ],
+          "firstName": [
+            "Jianwei"
+          ],
+          "lastName": [
+            "Che"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Genomics Institute of the Novartis Research Foundation, 10675 John Jay Hopkins Dr., San Diego, CA, 92121, USA. jianwei.che@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Goldblum A"
+          ],
+          "firstName": [
+            "Amiram"
+          ],
+          "lastName": [
+            "Goldblum"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9344-3673",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Modeling Laboratory, Institute for Drug Research, The Hebrew University of Jerusalem, Jerusalem, 91120, Israel. amiramg@ekmd.huji.ac.il."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9344-3673",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2769857"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1106"
+  ],
+  "abstractText": [
+    "PPAR-δ agonists are known to enhance fatty acid metabolism, preserving glucose and physical endurance and are suggested as candidates for treating metabolic diseases. None have reached the clinic yet. Our Machine Learning algorithm called \"Iterative Stochastic Elimination\" (ISE) was applied to construct a ligand-based multi-filter ranking model to distinguish between confirmed PPAR-δ agonists and random molecules. Virtual screening of 1.56 million molecules by this model picked ~2500 top ranking molecules. Subsequent docking to PPAR-δ structures was mainly evaluated by geometric analysis of the docking poses rather than by energy criteria, leading to a set of 306 molecules that were sent for testing in vitro. Out of those, 13 molecules were found as potential PPAR-δ agonist leads with EC50 between 4-19 nM and 14 others with EC50 below 10 µM. Most of the nanomolar agonists were found to be highly selective for PPAR-δ and are structurally different than agonists used for model building."
+  ],
+  "affiliation": [
+    "Molecular Modeling Laboratory, Institute for Drug Research, The Hebrew University of Jerusalem, Jerusalem, 91120, Israel."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6355875?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6355875"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-38508-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-02-02"
+  ],
+  "dateOfRevision": [
+    "2019-02-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

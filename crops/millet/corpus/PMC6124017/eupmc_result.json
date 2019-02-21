@@ -1,0 +1,944 @@
+{
+  "id": [
+    "30180872"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30180872"
+  ],
+  "pmcid": [
+    "PMC6124017"
+  ],
+  "doi": [
+    "10.1186/s13059-018-1489-y"
+  ],
+  "title": [
+    "Genome organization and chromatin analysis identify transcriptional downregulation of insulin-like growth factor signaling as a hallmark of aging in developing B cells."
+  ],
+  "authorString": [
+    "Koohy H, Bolland DJ, Matheson LS, Schoenfelder S, Stellato C, Dimond A, Várnai C, Chovanec P, Chessa T, Denizot J, Manzano Garcia R, Wingett SW, Freire-Pritchett P, Nagano T, Hawkins P, Stephens L, Elderkin S, Spivakov M, Fraser P, Corcoran AE, Varga-Weisz PD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koohy H"
+          ],
+          "firstName": [
+            "Hashem"
+          ],
+          "lastName": [
+            "Koohy"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bolland DJ"
+          ],
+          "firstName": [
+            "Daniel J"
+          ],
+          "lastName": [
+            "Bolland"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Matheson LS"
+          ],
+          "firstName": [
+            "Louise S"
+          ],
+          "lastName": [
+            "Matheson"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Schoenfelder S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Schoenfelder"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Stellato C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Stellato"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Dimond A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Dimond"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Várnai C"
+          ],
+          "firstName": [
+            "Csilla"
+          ],
+          "lastName": [
+            "Várnai"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Chovanec P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Chovanec"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8066-1893",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Chessa T"
+          ],
+          "firstName": [
+            "Tamara"
+          ],
+          "lastName": [
+            "Chessa"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Signalling, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Denizot J"
+          ],
+          "firstName": [
+            "Jeremy"
+          ],
+          "lastName": [
+            "Denizot"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0078-8996",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Manzano Garcia R"
+          ],
+          "firstName": [
+            "Raquel"
+          ],
+          "lastName": [
+            "Manzano Garcia"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wingett SW"
+          ],
+          "firstName": [
+            "Steven W"
+          ],
+          "lastName": [
+            "Wingett"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Freire-Pritchett P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Freire-Pritchett"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagano T"
+          ],
+          "firstName": [
+            "Takashi"
+          ],
+          "lastName": [
+            "Nagano"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hawkins P"
+          ],
+          "firstName": [
+            "Phillip"
+          ],
+          "lastName": [
+            "Hawkins"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Signalling, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Stephens L"
+          ],
+          "firstName": [
+            "Len"
+          ],
+          "lastName": [
+            "Stephens"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Signalling, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Elderkin S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Elderkin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Spivakov M"
+          ],
+          "firstName": [
+            "Mikhail"
+          ],
+          "lastName": [
+            "Spivakov"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Fraser P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Fraser"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Corcoran AE"
+          ],
+          "firstName": [
+            "Anne E"
+          ],
+          "lastName": [
+            "Corcoran"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK. anne.corcoran@babraham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Varga-Weisz PD"
+          ],
+          "firstName": [
+            "Patrick D"
+          ],
+          "lastName": [
+            "Varga-Weisz"
+          ],
+          "initials": [
+            "PD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7409-8686",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK. patrick.varga-weisz@essex.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0078-8996",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7409-8686",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8066-1893",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2721875"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "126"
+  ],
+  "abstractText": [
+    "BACKGROUND:Aging is characterized by loss of function of the adaptive immune system, but the underlying causes are poorly understood. To assess the molecular effects of aging on B cell development, we profiled gene expression and chromatin features genome-wide, including histone modifications and chromosome conformation, in bone marrow pro-B and pre-B cells from young and aged mice. RESULTS:Our analysis reveals that the expression levels of most genes are generally preserved in B cell precursors isolated from aged compared with young mice. Nonetheless, age-specific expression changes are observed at numerous genes, including microRNA encoding genes. Importantly, these changes are underpinned by multi-layered alterations in chromatin structure, including chromatin accessibility, histone modifications, long-range promoter interactions, and nuclear compartmentalization. Previous work has shown that differentiation is linked to changes in promoter-regulatory element interactions. We find that aging in B cell precursors is accompanied by rewiring of such interactions. We identify transcriptional downregulation of components of the insulin-like growth factor signaling pathway, in particular downregulation of Irs1 and upregulation of Let-7 microRNA expression, as a signature of the aged phenotype. These changes in expression are associated with specific alterations in H3K27me3 occupancy, suggesting that Polycomb-mediated repression plays a role in precursor B cell aging. CONCLUSIONS:Changes in chromatin and 3D genome organization play an important role in shaping the altered gene expression profile of aged precursor B cells. Components of the insulin-like growth factor signaling pathways are key targets of epigenetic regulation in aging in bone marrow B cell precursors."
+  ],
+  "affiliation": [
+    "Nuclear Dynamics Programme, Babraham Institute, Cambridge, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BBS/E/B/000C0405"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BBS/E/B/000C0404"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "B-Lymphocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stem Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Somatomedins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Down-Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Epigenesis, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Chromatin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Somatomedins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6124017?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6124017"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-018-1489-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-23"
+  ],
+  "dateOfCreation": [
+    "2018-09-06"
+  ],
+  "dateOfRevision": [
+    "2019-01-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-05"
+  ],
+  "firstPublicationDate": [
+    "2018-09-05"
+  ]
+}

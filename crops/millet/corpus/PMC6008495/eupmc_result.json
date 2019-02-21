@@ -1,0 +1,378 @@
+{
+  "id": [
+    "29951004"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29951004"
+  ],
+  "pmcid": [
+    "PMC6008495"
+  ],
+  "doi": [
+    "10.3389/fphys.2018.00722"
+  ],
+  "title": [
+    "Detection of Life Threatening Ventricular Arrhythmia Using Digital Taylor Fourier Transform."
+  ],
+  "authorString": [
+    "Tripathy RK, Zamora-Mendez A, de la O Serna JA, Paternina MRA, Arrieta JG, Naik GR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tripathy RK"
+          ],
+          "firstName": [
+            "Rajesh K"
+          ],
+          "lastName": [
+            "Tripathy"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2517-3103",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Engineering and Technology (ITER), Siksha 'O' Anusandhan Deemed to be University, Bhubaneswar, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Zamora-Mendez A"
+          ],
+          "firstName": [
+            "Alejandro"
+          ],
+          "lastName": [
+            "Zamora-Mendez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5479-9856",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Electrical Engineering Faculty, Universidad Michoacana de San Nicolas de Hidalgo, Morelia, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "de la O Serna JA"
+          ],
+          "firstName": [
+            "José A"
+          ],
+          "lastName": [
+            "de la O Serna"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0005-0062",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, Autonomous University of Nuevo León, Monterrey, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Paternina MRA"
+          ],
+          "firstName": [
+            "Mario R Arrieta"
+          ],
+          "lastName": [
+            "Paternina"
+          ],
+          "initials": [
+            "MRA"
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, National Autonomous University of Mexico, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Arrieta JG"
+          ],
+          "firstName": [
+            "Juan G"
+          ],
+          "lastName": [
+            "Arrieta"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Sanatorio Güemes, Buenos Aires, Argentina."
+          ]
+        },
+        {
+          "fullName": [
+            "Naik GR"
+          ],
+          "firstName": [
+            "Ganesh R"
+          ],
+          "lastName": [
+            "Naik"
+          ],
+          "initials": [
+            "GR"
+          ],
+          "affiliation": [
+            "Biomedical Engineering and Neuromorphic Systems (BENS) Research Group, MARCS Institute, Western Sydney University, Penrith, NSW, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2517-3103",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5479-9856",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0005-0062",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644114"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "722"
+  ],
+  "abstractText": [
+    "Accurate detection and classification of life-threatening ventricular arrhythmia episodes such as ventricular fibrillation (VF) and rapid ventricular tachycardia (VT) from electrocardiogram (ECG) is a challenging problem for patient monitoring and defibrillation therapy. This paper introduces a novel method for detection and classification of life-threatening ventricular arrhythmia episodes. The ECG signal is decomposed into various oscillatory modes using digital Taylor-Fourier transform (DTFT). The magnitude feature and a novel phase feature namely the phase difference (PD) are evaluated from the mode Taylor-Fourier coefficients of ECG signal. The least square support vector machine (LS-SVM) classifier with linear and radial basis function (RBF) kernels is employed for detection and classification of VT vs. VF, non-shock vs. shock and VF vs. non-VF arrhythmia episodes. The accuracy, sensitivity, and specificity values obtained using the proposed method are 89.81, 86.38, and 93.97%, respectively for the classification of Non-VF and VF episodes. Comparison with the performance of the state-of-the-art features demonstrate the advantages of the proposition."
+  ],
+  "affiliation": [
+    "Faculty of Engineering and Technology (ITER), Siksha 'O' Anusandhan Deemed to be University, Bhubaneswar, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lssvm",
+        "Classifier Performance",
+        "Taylor-fourier Transform",
+        "Life Threatening Arrhythmia",
+        "Magnitude And Phase Features",
+        "Radial Basis Function Kernel"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6008495?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6008495"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2018.00722"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-29"
+  ],
+  "dateOfRevision": [
+    "2018-07-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-13"
+  ],
+  "firstPublicationDate": [
+    "2018-06-13"
+  ]
+}

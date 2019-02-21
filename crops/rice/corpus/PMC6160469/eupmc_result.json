@@ -1,0 +1,318 @@
+{
+  "id": [
+    "30272029"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30272029"
+  ],
+  "pmcid": [
+    "PMC6160469"
+  ],
+  "doi": [
+    "10.1038/s42003-018-0159-7"
+  ],
+  "title": [
+    "2D association and integrative omics analysis in rice provides systems biology view in trait analysis."
+  ],
+  "authorString": [
+    "Zhang W, Dai X, Xu S, Zhao PX."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wenchao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "1Computational Biology and Bioinformatics Lab, Noble Research Institute, Ardmore, OK 73401 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai X"
+          ],
+          "firstName": [
+            "Xinbin"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1Computational Biology and Bioinformatics Lab, Noble Research Institute, Ardmore, OK 73401 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu S"
+          ],
+          "firstName": [
+            "Shizhong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6789-6655",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "2Department of Botany and Plant Sciences, University of California, Riverside, CA 92521 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao PX"
+          ],
+          "firstName": [
+            "Patrick X"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "PX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3460-5564",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Computational Biology and Bioinformatics Lab, Noble Research Institute, Ardmore, OK 73401 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6789-6655",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3460-5564",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2686009"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Communications biology"
+          ],
+          "ISOAbbreviation": [
+            "Commun Biol"
+          ],
+          "medlineAbbreviation": [
+            "Commun Biol"
+          ],
+          "NLMid": [
+            "101719179"
+          ],
+          "ISSN": [
+            "2399-3642"
+          ],
+          "ESSN": [
+            "2399-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "153"
+  ],
+  "abstractText": [
+    "The interactions among genes and between genes and environment contribute significantly to the phenotypic variation of complex traits and may be possible explanations for missing heritability. However, to our knowledge no existing tool can address the two kinds of interactions. Here we propose a novel linear mixed model that considers not only the additive effects of biological markers but also the interaction effects of marker pairs. Interaction effect is demonstrated as a 2D association. Based on this linear mixed model, we developed a pipeline, namely PATOWAS. PATOWAS can be used to study transcriptome-wide and metabolome-wide associations in addition to genome-wide associations. Our case analysis with real rice recombinant inbred lines (RILs) at three omics levels demonstrates that 2D association mapping and integrative omics are able to provide a systems biology view into the analyzed traits, leading toward an answer about how genes, transcripts, proteins, and metabolites work together to produce an observable phenotype."
+  ],
+  "affiliation": [
+    "1Computational Biology and Bioinformatics Lab, Noble Research Institute, Ardmore, OK 73401 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6160469?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6160469"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s42003-018-0159-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-02"
+  ],
+  "dateOfRevision": [
+    "2018-10-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-27"
+  ],
+  "firstPublicationDate": [
+    "2018-09-27"
+  ]
+}

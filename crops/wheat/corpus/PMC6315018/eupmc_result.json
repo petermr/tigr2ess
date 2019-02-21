@@ -1,0 +1,762 @@
+{
+  "id": [
+    "30602775"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30602775"
+  ],
+  "pmcid": [
+    "PMC6315018"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07885-5"
+  ],
+  "title": [
+    "Selective single molecule sequencing and assembly of a human Y chromosome of African origin."
+  ],
+  "authorString": [
+    "Kuderna LFK, Lizano E, Julià E, Gomez-Garrido J, Serres-Armero A, Kuhlwilm M, Alandes RA, Alvarez-Estape M, Juan D, Simon H, Alioto T, Gut M, Gut I, Schierup MH, Fornas O, Marques-Bonet T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kuderna LFK"
+          ],
+          "firstName": [
+            "Lukas F K"
+          ],
+          "lastName": [
+            "Kuderna"
+          ],
+          "initials": [
+            "LFK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9992-9295",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain. lukas.kuderna@upf.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lizano E"
+          ],
+          "firstName": [
+            "Esther"
+          ],
+          "lastName": [
+            "Lizano"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3304-9807",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain. esther.lizano@upf.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Julià E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Julià"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institut Hospital del Mar d'Investigacions Mèdiques (IMIM), Carrer del Doctor Aiguader 88, PRBB Building, Barcelona, 08003, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomez-Garrido J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Gomez-Garrido"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "CNAG-CRG, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Baldiri Reixac 4, Barcelona, 08028, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Serres-Armero A"
+          ],
+          "firstName": [
+            "Aitor"
+          ],
+          "lastName": [
+            "Serres-Armero"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuhlwilm M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Kuhlwilm"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0115-1797",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Alandes RA"
+          ],
+          "firstName": [
+            "Regina Antoni"
+          ],
+          "lastName": [
+            "Alandes"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "CNAG-CRG, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Baldiri Reixac 4, Barcelona, 08028, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Alvarez-Estape M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Alvarez-Estape"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Juan D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Juan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Simon H"
+          ],
+          "firstName": [
+            "Heath"
+          ],
+          "lastName": [
+            "Simon"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9550-0897",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CNAG-CRG, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Baldiri Reixac 4, Barcelona, 08028, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Alioto T"
+          ],
+          "firstName": [
+            "Tyler"
+          ],
+          "lastName": [
+            "Alioto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2960-5420",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CNAG-CRG, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Baldiri Reixac 4, Barcelona, 08028, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Gut M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Gut"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CNAG-CRG, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Baldiri Reixac 4, Barcelona, 08028, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Gut I"
+          ],
+          "firstName": [
+            "Ivo"
+          ],
+          "lastName": [
+            "Gut"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "CNAG-CRG, Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Baldiri Reixac 4, Barcelona, 08028, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Schierup MH"
+          ],
+          "firstName": [
+            "Mikkel Heide"
+          ],
+          "lastName": [
+            "Schierup"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Bioinformatics Research Center, Aarhus University, C.F. Moellers Alle 8, DK-8000 Aarhus C, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Fornas O"
+          ],
+          "firstName": [
+            "Oscar"
+          ],
+          "lastName": [
+            "Fornas"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2017-9100",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Carrer del Doctor Aiguader 88, Barcelona, 08003, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Marques-Bonet T"
+          ],
+          "firstName": [
+            "Tomas"
+          ],
+          "lastName": [
+            "Marques-Bonet"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5597-3075",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain. tomas.marques@upf.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0115-1797",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2960-5420",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2017-9100",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9992-9295",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9550-0897",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3304-9807",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5597-3075",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2765184"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4"
+  ],
+  "abstractText": [
+    "Mammalian Y chromosomes are often neglected from genomic analysis. Due to their inherent assembly difficulties, high repeat content, and large ampliconic regions, only a handful of species have their Y chromosome properly characterized. To date, just a single human reference quality Y chromosome, of European ancestry, is available due to a lack of accessible methodology. To facilitate the assembly of such complicated genomic territory, we developed a novel strategy to sequence native, unamplified flow sorted DNA on a MinION nanopore sequencing device. Our approach yields a highly continuous assembly of the first human Y chromosome of African origin. It constitutes a significant improvement over comparable previous methods, increasing continuity by more than 800%. Sequencing native DNA also allows to take advantage of the nanopore signal data to detect epigenetic modifications in situ. This approach is in theory generalizable to any species simplifying the assembly of extremely large and repetitive genomes."
+  ],
+  "affiliation": [
+    "Institut de Biologia Evolutiva, (CSIC-Universitat Pompeu Fabra), PRBB, Doctor Aiguader 88, Barcelona, Catalonia, 08003, Spain. lukas.kuderna@upf.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U01 MH106874  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NNF18OC0031004"
+          ],
+          "agency": [
+            "Novo Nordisk Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Chromosomes, Human, Y"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Karyotyping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Methylation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CpG Islands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "African Continental Ancestry Group"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6315018?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6315018"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07885-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR9740"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "igsr"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-02-13"
+  ],
+  "dateOfCreation": [
+    "2019-01-04"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-02"
+  ],
+  "firstPublicationDate": [
+    "2019-01-02"
+  ]
+}

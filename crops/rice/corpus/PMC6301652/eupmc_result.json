@@ -1,0 +1,290 @@
+{
+  "id": [
+    "30571683"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30571683"
+  ],
+  "pmcid": [
+    "PMC6301652"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0208501"
+  ],
+  "title": [
+    "PENYEK: Automated brown planthopper detection from imperfect sticky pad images using deep convolutional neural network."
+  ],
+  "authorString": [
+    "Nazri A, Mazlan N, Muharam F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nazri A"
+          ],
+          "firstName": [
+            "Azree"
+          ],
+          "lastName": [
+            "Nazri"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6362-5006",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Computer Science & Information Technology, UPM, Serdang, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mazlan N"
+          ],
+          "firstName": [
+            "Norida"
+          ],
+          "lastName": [
+            "Mazlan"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Faculty of Agriculture, UPM, Serdang, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Muharam F"
+          ],
+          "firstName": [
+            "Farrah"
+          ],
+          "lastName": [
+            "Muharam"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Faculty of Agriculture, UPM, Serdang, Malaysia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6362-5006",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2755928"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0208501"
+  ],
+  "abstractText": [
+    "Rice is a staple food in Asia and it contributes significantly to the Gross Domestic Product (GDP) of Malaysia and other developing countries. Brown Planthopper (BPH) causes high levels of economic loss in Malaysia. Identification of BPH presence and monitoring of its abundance has been conducted manually by experts and is time-consuming, fatiguing and tedious. Automated detection of BPH has been proposed by many studies to overcome human fallibility. However, all studies regarding automated recognition of BPH are investigated based on intact specimen although most of the specimens are imperfect, with missing parts have distorted shapes. The automated recognition of an imperfect insect image is more difficult than recognition of the intact specimen. This study proposes an automated, deep-learning-based detection pipeline, PENYEK, to identify BPH pest in images taken from a readily available sticky pad, constructed by clipping plastic sheets onto steel plates and spraying with glue. This study explores the effectiveness of a convolutional neural network (CNN) architecture, VGG16, in classifying insects as BPH or benign based on grayscale images constructed from Euclidean Distance Maps (EDM). The pipeline identified imperfect images of BPH with an accuracy of 95% using deep-learning's hyperparameters: softmax, a mini-batch of 30 and an initial learning rate of 0.0001."
+  ],
+  "affiliation": [
+    "Faculty of Computer Science & Information Technology, UPM, Serdang, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6301652?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6301652"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0208501"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-20"
+  ],
+  "firstPublicationDate": [
+    "2018-12-20"
+  ]
+}

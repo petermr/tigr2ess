@@ -1,0 +1,559 @@
+{
+  "id": [
+    "29062722"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29062722"
+  ],
+  "pmcid": [
+    "PMC5647520"
+  ],
+  "doi": [
+    "10.1016/j.btre.2017.07.006"
+  ],
+  "title": [
+    "Draft genome sequence of Sclerospora graminicola, the pearl millet downy mildew pathogen."
+  ],
+  "authorString": [
+    "Nayaka SC, Shetty HS, Satyavathi CT, Yadav RS, Kishor PBK, Nagaraju M, Anoop TA, Kumar MM, Kuriakose B, Chakravartty N, Katta AVSKM, Lachagari VBR, Singh OV, Sahu PP, Puranik S, Kaushal P, Srivastava RK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nayaka SC"
+          ],
+          "firstName": [
+            "S Chandra"
+          ],
+          "lastName": [
+            "Nayaka"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Downy Mildew Research Laboratory, DOS in Biotechnology, University of Mysore, Mysuru, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Shetty HS"
+          ],
+          "firstName": [
+            "H Shekar"
+          ],
+          "lastName": [
+            "Shetty"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Downy Mildew Research Laboratory, DOS in Biotechnology, University of Mysore, Mysuru, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Satyavathi CT"
+          ],
+          "firstName": [
+            "C Tara"
+          ],
+          "lastName": [
+            "Satyavathi"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "PC Unit ARS Mandore, Jodhpur, Rajasthan, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yadav RS"
+          ],
+          "firstName": [
+            "Rattan S"
+          ],
+          "lastName": [
+            "Yadav"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6132-4541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Biological, Environmental and Rural Sciences (IBERS), Aberystwyth University, Gogerddan, SY23 3EB, United Kingdom, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kishor PBK"
+          ],
+          "firstName": [
+            "P B Kavi"
+          ],
+          "lastName": [
+            "Kishor"
+          ],
+          "initials": [
+            "PBK"
+          ],
+          "affiliation": [
+            "Osmania University, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagaraju M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Nagaraju"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Osmania University, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Anoop TA"
+          ],
+          "firstName": [
+            "T A"
+          ],
+          "lastName": [
+            "Anoop"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "affiliation": [
+            "AgriGenome Labs Pvt. Ltd, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar MM"
+          ],
+          "firstName": [
+            "M Milner"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "AgriGenome Labs Pvt. Ltd, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuriakose B"
+          ],
+          "firstName": [
+            "Boney"
+          ],
+          "lastName": [
+            "Kuriakose"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "AgriGenome Labs Pvt. Ltd, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chakravartty N"
+          ],
+          "firstName": [
+            "Navajeet"
+          ],
+          "lastName": [
+            "Chakravartty"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "AgriGenome Labs Pvt. Ltd, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Katta AVSKM"
+          ],
+          "firstName": [
+            "A V S K Mohan"
+          ],
+          "lastName": [
+            "Katta"
+          ],
+          "initials": [
+            "AVSKM"
+          ],
+          "affiliation": [
+            "AgriGenome Labs Pvt. Ltd, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Lachagari VBR"
+          ],
+          "firstName": [
+            "V B Reddy"
+          ],
+          "lastName": [
+            "Lachagari"
+          ],
+          "initials": [
+            "VBR"
+          ],
+          "affiliation": [
+            "AgriGenome Labs Pvt. Ltd, Hyderabad, Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh OV"
+          ],
+          "firstName": [
+            "Om Vir"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "OV"
+          ],
+          "affiliation": [
+            "PC Unit ARS Mandore, Jodhpur, Rajasthan, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sahu PP"
+          ],
+          "firstName": [
+            "Pranav Pankaj"
+          ],
+          "lastName": [
+            "Sahu"
+          ],
+          "initials": [
+            "PP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4801-6602",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Biological, Environmental and Rural Sciences (IBERS), Aberystwyth University, Gogerddan, SY23 3EB, United Kingdom, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Puranik S"
+          ],
+          "firstName": [
+            "Swati"
+          ],
+          "lastName": [
+            "Puranik"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Biological, Environmental and Rural Sciences (IBERS), Aberystwyth University, Gogerddan, SY23 3EB, United Kingdom, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaushal P"
+          ],
+          "firstName": [
+            "Pankaj"
+          ],
+          "lastName": [
+            "Kaushal"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "ICAR-National Institute of Biotic Stress Management, Raipur India."
+          ]
+        },
+        {
+          "fullName": [
+            "Srivastava RK"
+          ],
+          "firstName": [
+            "Rakesh K"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "affiliation": [
+            "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Patancheru, Hyderabad, Telangana, 502324, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4801-6602",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6132-4541",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2601084"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology reports (Amsterdam, Netherlands)"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Rep (Amst)"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Rep (Amst)"
+          ],
+          "NLMid": [
+            "101637426"
+          ],
+          "ISSN": [
+            "2215-017X"
+          ],
+          "ESSN": [
+            "2215-017X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "18-20"
+  ],
+  "abstractText": [
+    "Sclerospora graminicola pathogen is the most important biotic production constraints of pearl millet in India, Africa and other parts of the world. We report a de novo whole genome assembly and analysis of pathotype 1, one of the most virulent pathotypes of S. graminicola from India. The draft genome assembly contained 299,901,251 bp with 65,404 genes. This study may help understand the evolutionary pattern of pathogen and aid elucidation of effector evolution for devising effective durable resistance breeding strategies in pearl millet."
+  ],
+  "affiliation": [
+    "Downy Mildew Research Laboratory, DOS in Biotechnology, University of Mysore, Mysuru, Karnataka, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Downy mildew",
+        "Pearl Millet",
+        "Sclerospora Graminicola",
+        "Whole Genome Sequence",
+        "Pathotype 1"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5647520?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5647520"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.btre.2017.07.006"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "go",
+        "biosample"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-10-25"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-24"
+  ],
+  "firstPublicationDate": [
+    "2017-08-24"
+  ]
+}

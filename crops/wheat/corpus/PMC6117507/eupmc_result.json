@@ -1,0 +1,356 @@
+{
+  "id": [
+    "30197650"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30197650"
+  ],
+  "pmcid": [
+    "PMC6117507"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01182"
+  ],
+  "title": [
+    "A Novel Approach to Assess Salt Stress Tolerance in Wheat Using Hyperspectral Imaging."
+  ],
+  "authorString": [
+    "Moghimi A, Yang C, Miller ME, Kianian SF, Marchetto PM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moghimi A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Moghimi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9249-8365",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioproducts and Biosystems Engineering, University of Minnesota, Minneapolis, MN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Ce"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Bioproducts and Biosystems Engineering, University of Minnesota, Minneapolis, MN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Miller ME"
+          ],
+          "firstName": [
+            "Marisa E"
+          ],
+          "lastName": [
+            "Miller"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Cereal Disease Laboratory, USDA-ARS, Saint Paul, MN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kianian SF"
+          ],
+          "firstName": [
+            "Shahryar F"
+          ],
+          "lastName": [
+            "Kianian"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Cereal Disease Laboratory, USDA-ARS, Saint Paul, MN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Marchetto PM"
+          ],
+          "firstName": [
+            "Peter M"
+          ],
+          "lastName": [
+            "Marchetto"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7302-0905",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioproducts and Biosystems Engineering, University of Minnesota, Minneapolis, MN, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7302-0905",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9249-8365",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1182"
+  ],
+  "abstractText": [
+    "Salinity stress has significant adverse effects on crop productivity and yield. The primary goal of this study was to quantitatively rank salt tolerance in wheat using hyperspectral imaging. Four wheat lines were assayed in a hydroponic system with control and salt treatments (0 and 200 mM NaCl). Hyperspectral images were captured one day after salt application when there were no visual symptoms. Subsequent to necessary preprocessing tasks, two endmembers, each representing one of the treatment, were identified in each image using successive volume maximization. To simplify image analysis and interpretation, similarity of all pixels to the salt endmember was calculated by a technique proposed in this study, referred to as vector-wise similarity measurement. Using this approach allowed high-dimensional hyperspectral images to be reduced to one-dimensional gray-scale images while retaining all relevant information. Two methods were then utilized to analyze the gray-scale images: minimum difference of pair assignments and Bayesian method. The rankings of both methods were similar and consistent with the expected ranking obtained by conventional phenotyping experiments and historical evidence of salt tolerance. This research highlights the application of machine learning in hyperspectral image analysis for phenotyping of plants in a quantitative, interpretable, and non-invasive manner."
+  ],
+  "affiliation": [
+    "Department of Bioproducts and Biosystems Engineering, University of Minnesota, Minneapolis, MN, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wheat",
+        "Salt stress",
+        "Image processing",
+        "Bayesian inference",
+        "Machine Learning",
+        "Hyperspectral Imaging",
+        "Plant Phenotyping",
+        "Histogram Distance"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6117507?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6117507"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01182"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-09-11"
+  ],
+  "dateOfRevision": [
+    "2018-09-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-24"
+  ],
+  "firstPublicationDate": [
+    "2018-08-24"
+  ]
+}

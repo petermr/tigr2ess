@@ -1,0 +1,372 @@
+{
+  "id": [
+    "30382152"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30382152"
+  ],
+  "pmcid": [
+    "PMC6208441"
+  ],
+  "doi": [
+    "10.1038/s41598-018-34550-0"
+  ],
+  "title": [
+    "Monitoring paddy productivity in North Korea employing geostationary satellite images integrated with GRAMI-rice model."
+  ],
+  "authorString": [
+    "Yeom JM, Jeong S, Jeong G, Ng CT, Deo RC, Ko J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yeom JM"
+          ],
+          "firstName": [
+            "Jong-Min"
+          ],
+          "lastName": [
+            "Yeom"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Satellite Operation & Application Center, Korea Aerospace Research Institute, 169-84 Gwahak-ro, Yuseong-gu, Daejeon, 305-806, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong S"
+          ],
+          "firstName": [
+            "Seungtaek"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Applied Plant Science, Chonnam National University, 77 Yongbong-ro, Buk-gu, Gwangju, 61186757, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong G"
+          ],
+          "firstName": [
+            "Gwanyong"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4285-1976",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Geography, Chonnam National University, 77 Yongbong-ro, Buk-gu, Gwangju, 61186, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ng CT"
+          ],
+          "firstName": [
+            "Chi Tim"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "Statistics, Chonnam National University, 77 Yongbong-ro, Buk-gu, Gwangju, 61186, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Deo RC"
+          ],
+          "firstName": [
+            "Ravinesh C"
+          ],
+          "lastName": [
+            "Deo"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "School of Agricultural, Computational and Environmental Sciences, Centre for Sustainable Agricultural Systems and Centre for Applied Climate Sciences, Institute for Life Science and the Environment, University of Southern Queensland, Springfield, QLD4300, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ko J"
+          ],
+          "firstName": [
+            "Jonghan"
+          ],
+          "lastName": [
+            "Ko"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7974-3808",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Applied Plant Science, Chonnam National University, 77 Yongbong-ro, Buk-gu, Gwangju, 61186757, Republic of Korea. jonghan.ko@jnu.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7974-3808",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4285-1976",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2732877"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "16121"
+  ],
+  "abstractText": [
+    "To meet the growing demands of staple crops with a strategy to develop amicable strategic measures that support efficient North Korean relief policies, it is a desirable task to accurately simulate the yield of paddy (Oryza sativa), an important Asian food commodity. We aim to address this with a grid-based crop simulation model integrated with satellite imagery that enables us to monitor the crop productivity of North Korea. Vegetation Indices (VIs), solar insolation, and air temperature data are thus obtained from the Communication Ocean and Meteorological Satellite (COMS), including the reanalysis data of the Korea Local Analysis and Prediction System (KLAPS). Paddy productivities for North Korea are projected based on the bidirectional reflectance distribution function-adjusted VIs and the solar insolation using the grid GRAMI-rice model. The model is calibrated on a 500-m grid paddy field in Cheorwon, and the model simulation performance accuracy is verified for Cheorwon and Paju, located at the borders of North Korea using four years of data from 2011 to 2014. Our results show that the paddy yields are reproduced reasonably accurately within a statistically significant range of accuracy, in comparison with observation data in Cheorwon (p = 0.183), Paju (p = 0.075), and NK (p = 0.101) according to a statistical t-test procedure. We advocate that incorporating a crop model with satellite images for crop yield simulations can be utilised as a reliable estimation technique for the monitoring of crop productivity, particularly in unapproachable, data-sparse regions not only in North Korea, but globally, where estimations of paddy productivity can assist in planning of agricultural activities that support regionally amicable food security strategies."
+  ],
+  "affiliation": [
+    "Satellite Operation & Application Center, Korea Aerospace Research Institute, 169-84 Gwahak-ro, Yuseong-gu, Daejeon, 305-806, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NRF-2015R1D1A1A01057586"
+          ],
+          "agency": [
+            "National Research Foundation of Korea (NRF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6208441?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6208441"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-34550-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-02"
+  ],
+  "dateOfRevision": [
+    "2018-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-31"
+  ],
+  "firstPublicationDate": [
+    "2018-10-31"
+  ]
+}

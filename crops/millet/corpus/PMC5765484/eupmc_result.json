@@ -1,0 +1,720 @@
+{
+  "id": [
+    "29024173"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29024173"
+  ],
+  "pmcid": [
+    "PMC5765484"
+  ],
+  "doi": [
+    "10.1111/tpj.13741"
+  ],
+  "title": [
+    "Root transcriptional dynamics induced by beneficial rhizobacteria and microbial immune elicitors reveal signatures of adaptation to mutualists."
+  ],
+  "authorString": [
+    "Stringlis IA, Proietti S, Hickman R, Van Verk MC, Zamioudis C, Pieterse CMJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stringlis IA"
+          ],
+          "firstName": [
+            "Ioannis A"
+          ],
+          "lastName": [
+            "Stringlis"
+          ],
+          "initials": [
+            "IA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7128-597X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Proietti S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Proietti"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Hickman R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Hickman"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Verk MC"
+          ],
+          "firstName": [
+            "Marcel C"
+          ],
+          "lastName": [
+            "Van Verk"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Zamioudis C"
+          ],
+          "firstName": [
+            "Christos"
+          ],
+          "lastName": [
+            "Zamioudis"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Pieterse CMJ"
+          ],
+          "firstName": [
+            "Corné M J"
+          ],
+          "lastName": [
+            "Pieterse"
+          ],
+          "initials": [
+            "CMJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5473-4646",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5473-4646",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7128-597X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "93"
+      ],
+      "journalIssueId": [
+        "2629978"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Plant journal : for cell and molecular biology"
+          ],
+          "ISOAbbreviation": [
+            "Plant J."
+          ],
+          "medlineAbbreviation": [
+            "Plant J"
+          ],
+          "NLMid": [
+            "9207397"
+          ],
+          "ISSN": [
+            "0960-7412"
+          ],
+          "ESSN": [
+            "1365-313X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "166-180"
+  ],
+  "abstractText": [
+    "Below ground, microbe-associated molecular patterns (MAMPs) of root-associated microbiota can trigger costly defenses at the expense of plant growth. However, beneficial rhizobacteria, such as Pseudomonas simiae WCS417, promote plant growth and induce systemic resistance without being warded off by local root immune responses. To investigate early root responses that facilitate WCS417 to exert its plant-beneficial functions, we performed time series RNA-Seq of Arabidopsis roots in response to live WCS417 and compared it with MAMPs flg22417 (from WCS417), flg22Pa (from pathogenic Pseudomonas aeruginosa) and fungal chitin. The MAMP transcriptional responses differed in timing, but displayed a large overlap in gene identity. MAMP-upregulated genes are enriched for genes with functions in immunity, while downregulated genes are enriched for genes related to growth and development. Although 74% of the transcriptional changes inflicted by live WCS417 overlapped with the flg22417 profile, WCS417 actively suppressed more than half of the MAMP-triggered transcriptional responses, possibly to allow the establishment of a mutually beneficial interaction with the host root. Interestingly, the sector of the flg22417 -repressed transcriptional network that is not affected by WCS417 has a strong auxin signature. Using auxin response mutant tir1afb2afb3, we demonstrate a dual role for auxin signaling in finely balancing growth-promoting and defense-eliciting activities of beneficial microbes in plant roots."
+  ],
+  "affiliation": [
+    "Plant-Microbe Interactions, Department of Biology, Faculty of Science, Utrecht University, P.O. Box 800.56, 3508 TB, Utrecht, the Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pseudomonas"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Roots"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Indoleacetic Acids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Growth Regulators"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Symbiosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbiota"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chitin",
+        "Arabidopsis thaliana",
+        "Plant growth-promoting rhizobacteria",
+        "flagellin",
+        "auxin",
+        "Transcriptomics",
+        "Root Microbiome",
+        "Growth-defense Trade-off",
+        "Time Series Rna-seq",
+        "Pseudomonas Simiae Wcs417"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Indoleacetic Acids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Growth Regulators"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Arabidopsis Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5765484?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5765484"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/tpj.13741"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-08-01"
+  ],
+  "dateOfCreation": [
+    "2017-10-13"
+  ],
+  "dateOfRevision": [
+    "2018-08-01"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-15"
+  ],
+  "firstPublicationDate": [
+    "2017-11-15"
+  ]
+}

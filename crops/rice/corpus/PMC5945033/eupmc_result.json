@@ -1,0 +1,530 @@
+{
+  "id": [
+    "29746473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29746473"
+  ],
+  "pmcid": [
+    "PMC5945033"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0187470"
+  ],
+  "title": [
+    "Detection of rice sheath blight using an unmanned aerial system with high-resolution color and multispectral imaging."
+  ],
+  "authorString": [
+    "Zhang D, Zhou X, Zhang J, Lan Y, Xu C, Liang D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Dongyan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Anhui Engineering Laboratory of Agro-Ecological Big Data, Anhui University, Hefei, Anhui, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xingen"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Texas A&M AgriLife Research Center, Texas A&M University System, Beaumont, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Resources and Environment, Huazhong Agricultural University, Wuhan, Hubei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan Y"
+          ],
+          "firstName": [
+            "Yubin"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Texas A&M AgriLife Research Center, Texas A&M University System, Beaumont, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Anhui Engineering Laboratory of Agro-Ecological Big Data, Anhui University, Hefei, Anhui, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Anhui Engineering Laboratory of Agro-Ecological Big Data, Anhui University, Hefei, Anhui, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2678126"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0187470"
+  ],
+  "abstractText": [
+    "Detection and monitoring are the first essential step for effective management of sheath blight (ShB), a major disease in rice worldwide. Unmanned aerial systems have a high potential of being utilized to improve this detection process since they can reduce the time needed for scouting for the disease at a field scale, and are affordable and user-friendly in operation. In this study, a commercialized quadrotor unmanned aerial vehicle (UAV), equipped with digital and multispectral cameras, was used to capture imagery data of research plots with 67 rice cultivars and elite lines. Collected imagery data were then processed and analyzed to characterize the development of ShB and quantify different levels of the disease in the field. Through color features extraction and color space transformation of images, it was found that the color transformation could qualitatively detect the infected areas of ShB in the field plots. However, it was less effective to detect different levels of the disease. Five vegetation indices were then calculated from the multispectral images, and ground truths of disease severity and GreenSeeker measured NDVI (Normalized Difference Vegetation Index) were collected. The results of relationship analyses indicate that there was a strong correlation between ground-measured NDVIs and image-extracted NDVIs with the R2 of 0.907 and the root mean square error (RMSE) of 0.0854, and a good correlation between image-extracted NDVIs and disease severity with the R2 of 0.627 and the RMSE of 0.0852. Use of image-based NDVIs extracted from multispectral images could quantify different levels of ShB in the field plots with an accuracy of 63%. These results demonstrate that a customer-grade UAV integrated with digital and multispectral cameras can be an effective tool to detect the ShB disease at a field scale."
+  ],
+  "affiliation": [
+    "Anhui Engineering Laboratory of Agro-Ecological Big Data, Anhui University, Hefei, Anhui, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Monitoring"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Color"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Aircraft"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Remote Sensing Technology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5945033?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5945033"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0187470"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-07-30"
+  ],
+  "dateOfCreation": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2018-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-10"
+  ],
+  "firstPublicationDate": [
+    "2018-05-10"
+  ]
+}

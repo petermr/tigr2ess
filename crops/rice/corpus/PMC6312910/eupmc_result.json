@@ -1,0 +1,363 @@
+{
+  "id": [
+    "30520975"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30520975"
+  ],
+  "pmcid": [
+    "PMC6312910"
+  ],
+  "doi": [
+    "10.1093/gigascience/giy153"
+  ],
+  "title": [
+    "Computer vision-based phenotyping for improvement of plant productivity: a machine learning perspective."
+  ],
+  "authorString": [
+    "Mochida K, Koda S, Inoue K, Hirayama T, Tanaka S, Nishii R, Melgani F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mochida K"
+          ],
+          "firstName": [
+            "Keiichi"
+          ],
+          "lastName": [
+            "Mochida"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Bioproductivity Informatics Research Team, RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Koda S"
+          ],
+          "firstName": [
+            "Satoru"
+          ],
+          "lastName": [
+            "Koda"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Graduate School of Mathematics, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Inoue K"
+          ],
+          "firstName": [
+            "Komaki"
+          ],
+          "lastName": [
+            "Inoue"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Bioproductivity Informatics Research Team, RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirayama T"
+          ],
+          "firstName": [
+            "Takashi"
+          ],
+          "lastName": [
+            "Hirayama"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3868-2380",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Plant Science and Resources, Okayama University, 2-20-1 Chuo, Kurashiki, Okayama 710-0046, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tanaka S"
+          ],
+          "firstName": [
+            "Shojiro"
+          ],
+          "lastName": [
+            "Tanaka"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Hiroshima University of Economics, 5-37-1, Gion, Asaminami, Hiroshima-shi Hiroshima 731-0138, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishii R"
+          ],
+          "firstName": [
+            "Ryuei"
+          ],
+          "lastName": [
+            "Nishii"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Mathematics for Industry, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Melgani F"
+          ],
+          "firstName": [
+            "Farid"
+          ],
+          "lastName": [
+            "Melgani"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Information Engineering and Computer Science, University of Trento, Via Sommarive 9, 38123 Trento, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3868-2380",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2765599"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Employing computer vision to extract useful information from images and videos is becoming a key technique for identifying phenotypic changes in plants. Here, we review the emerging aspects of computer vision for automated plant phenotyping. Recent advances in image analysis empowered by machine learning-based techniques, including convolutional neural network-based modeling, have expanded their application to assist high-throughput plant phenotyping. Combinatorial use of multiple sensors to acquire various spectra has allowed us to noninvasively obtain a series of datasets, including those related to the development and physiological responses of plants throughout their life. Automated phenotyping platforms accelerate the elucidation of gene functions associated with traits in model plants under controlled conditions. Remote sensing techniques with image collection platforms, such as unmanned vehicles and tractors, are also emerging for large-scale field phenotyping for crop breeding and precision agriculture. Computer vision-based phenotyping will play significant roles in both the nowcasting and forecasting of plant traits through modeling of genotype/phenotype relationships."
+  ],
+  "affiliation": [
+    "Bioproductivity Informatics Research Team, RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6312910?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6312910"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giy153"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-01"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

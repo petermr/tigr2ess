@@ -1,0 +1,435 @@
+{
+  "id": [
+    "30227684"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30227684"
+  ],
+  "pmcid": [
+    "PMC6165253"
+  ],
+  "doi": [
+    "10.3390/s18093139"
+  ],
+  "title": [
+    "A Crop Classification Method Integrating GF-3 PolSAR and Sentinel-2A Optical Data in the Dongting Lake Basin."
+  ],
+  "authorString": [
+    "Gao H, Wang C, Wang G, Zhu J, Tang Y, Shen P, Zhu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gao H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. dawnhan314@csu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Changcheng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4461-068X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. wangchangcheng@csu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Guanya"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. wangguanya@csu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. zjj@csu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Y"
+          ],
+          "firstName": [
+            "Yuqi"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. yqtang@csu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6691-1398",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. shen-peng@csu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Z"
+          ],
+          "firstName": [
+            "Ziwei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. zhumyrtle@csu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4461-068X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6691-1398",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2722555"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "With the increasing of satellite sensors, more available multi-source data can be used for large-scale high-precision crop classification. Both polarimetric synthetic aperture radar (PolSAR) and multi-spectral optical data have been widely used for classification. However, it is difficult to combine the covariance matrix of PolSAR data with the spectral bands of optical data. Using Hoekman's method, this study solves the above problems by transforming the covariance matrix to an intensity vector that includes multiple intensity values on different polarization basis. In order to reduce the features redundancy, the principal component analysis (PCA) algorithm is adopted to select some useful polarimetric and optical features. In this study, the PolSAR data acquired by satellite Gaofen-3 (GF-3) on 19 July 2017 and the optical data acquired by Sentinel-2A on 17 July 2017 over the Dongting lake basin are selected for the validation experiment. The results show that the full feature integration method proposed in this study achieves an overall classification accuracy of 85.27%, higher than that of the single dataset method or some other feature integration modes."
+  ],
+  "affiliation": [
+    "School of Geosciences and Info-Physics, Central South University, Changsha 410083, China. dawnhan314@csu.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016JJ2141"
+          ],
+          "agency": [
+            "Natural Science Foundation of Hunan Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "41671356"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "41531068"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "41371335"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Data integration",
+        "Gf-3",
+        "Polsar Data",
+        "Optical Data",
+        "Sentinel-2a",
+        "Dongting Lake Basin",
+        "Crop Classification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6165253?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6165253"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18093139"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-19"
+  ],
+  "dateOfCreation": [
+    "2018-09-20"
+  ],
+  "dateOfRevision": [
+    "2018-10-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-17"
+  ],
+  "firstPublicationDate": [
+    "2018-09-17"
+  ]
+}

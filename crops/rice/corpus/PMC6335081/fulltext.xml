@@ -1,0 +1,972 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6335081</article-id><article-id pub-id-type="doi">10.1111/pbi.12996</article-id><article-id pub-id-type="publisher-id">PBI12996</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>
+<styled-content style="fixed-case">DELAYED HEADING DATE</styled-content>1 interacts with Os<styled-content style="fixed-case">HAP</styled-content>5C/D, delays flowering time and enhances yield in rice</article-title><alt-title alt-title-type="left-running-head"><italic>Huan Zhang</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12996-cr-0001" contrib-type="author"><name><surname>Zhang</surname><given-names>Huan</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="pbi12996-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12996-cr-0002" contrib-type="author"><name><surname>Zhu</surname><given-names>Shanshan</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="pbi12996-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12996-cr-0003" contrib-type="author"><name><surname>Liu</surname><given-names>Tianzhen</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="pbi12996-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12996-cr-0004" contrib-type="author"><name><surname>Wang</surname><given-names>Chunming</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0005" contrib-type="author"><name><surname>Cheng</surname><given-names>Zhijun</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Xin</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0007" contrib-type="author"><name><surname>Chen</surname><given-names>Liping</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0008" contrib-type="author"><name><surname>Sheng</surname><given-names>Peike</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0009" contrib-type="author"><name><surname>Cai</surname><given-names>Maohong</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0010" contrib-type="author"><name><surname>Li</surname><given-names>Chaonan</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0011" contrib-type="author"><name><surname>Wang</surname><given-names>Jiachang</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0012" contrib-type="author"><name><surname>Zhang</surname><given-names>Zhe</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0013" contrib-type="author"><name><surname>Chai</surname><given-names>Juntao</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0014" contrib-type="author"><name><surname>Zhou</surname><given-names>Liang</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0015" contrib-type="author"><name><surname>Lei</surname><given-names>Cailin</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8473-1948</contrib-id><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0016" contrib-type="author"><name><surname>Guo</surname><given-names>Xiuping</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0017" contrib-type="author"><name><surname>Wang</surname><given-names>Jiulin</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0018" contrib-type="author"><name><surname>Wang</surname><given-names>Jie</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0019" contrib-type="author"><name><surname>Jiang</surname><given-names>Ling</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12996-cr-0020" contrib-type="author"><name><surname>Wu</surname><given-names>Chuanyin</given-names></name><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12996-cr-0021" contrib-type="author" corresp="yes"><name><surname>Wan</surname><given-names>Jianmin</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7813-4362</contrib-id><address><email>wanjm@njau.edu.cn</email><email>wanjianmin@caas.cn</email></address><xref ref-type="aff" rid="pbi12996-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12996-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="pbi12996-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">National Key Laboratory for Crop Genetics and Germplasm Enhancement</named-content>
+<institution>Nanjing Agricultural University</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12996-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">National Key Facility for Crop Gene Resources and Genetic Improvement</named-content>
+<named-content content-type="organisation-division">Institute of Crop Science</named-content>
+<institution>Chinese Academy of Agricultural Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel: +86&#x02010;010&#x02010;82105838; fax: +86&#x02010;010&#x02010;82105811; emails: <email>wanjm@njau.edu.cn</email>; <email>wanjianmin@caas.cn</email>)</corresp><fn fn-type="equal" id="pbi12996-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this article.</p></fn></author-notes><pub-date pub-type="epub"><day>04</day><month>9</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2019</year></pub-date><volume>17</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/pbi.2019.17.issue-2</issue-id><fpage>531</fpage><lpage>539</lpage><history><date date-type="received"><day>07</day><month>5</month><year>2018</year></date><date date-type="rev-recd"><day>13</day><month>7</month><year>2018</year></date><date date-type="accepted"><day>23</day><month>7</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-17-531.pdf"/><abstract id="pbi12996-abs-0001"><title>Summary</title><p>Heading date is an important agronomic trait affecting crop yield. The <styled-content style="fixed-case">GRAS</styled-content> protein family is a plant&#x02010;specific super family extensively involved in plant growth and signal transduction. However, <styled-content style="fixed-case">GRAS</styled-content> proteins are rarely reported have a role in regulating rice heading date. Here, we report a <styled-content style="fixed-case">GRAS</styled-content> protein <styled-content style="fixed-case">DHD</styled-content>1 (Delayed Heading Date1) delays heading and enhances yield in rice. Biochemical assays showed <styled-content style="fixed-case">DHD</styled-content>1 physically interacts with Os<styled-content style="fixed-case">HAP</styled-content>5C/D both <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>. <styled-content style="fixed-case">DHD</styled-content>1 and Os<styled-content style="fixed-case">HAP</styled-content>5C/D located in the nucleus and showed that rhythmic expression. Both <styled-content style="fixed-case">DHD</styled-content>1 and Os<styled-content style="fixed-case">HAP</styled-content>5C/D affect heading date by regulating expression of <italic>Ehd1</italic>. We propose that <styled-content style="fixed-case">DHD</styled-content>1 interacts with Os<styled-content style="fixed-case">HAP</styled-content>5C/D to delay heading date by inhibiting expression of <italic>Ehd1</italic>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12996-kwd-0001">rice</kwd><kwd id="pbi12996-kwd-0002">heading date</kwd><kwd id="pbi12996-kwd-0003"><styled-content style="fixed-case">GRAS</styled-content></kwd><kwd id="pbi12996-kwd-0004"><italic>Ehd1</italic></kwd><kwd id="pbi12996-kwd-0005">Os<styled-content style="fixed-case">HAP</styled-content>5C/D</kwd><kwd id="pbi12996-kwd-0006">yield</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation</funding-source><award-id>31771764</award-id></award-group><award-group><funding-source>National Key R&#x00026;D Program of China</funding-source><award-id>2016YFD0100600</award-id><award-id>2017YFD0100501</award-id></award-group><award-group><funding-source>National Transgenic Major Program</funding-source><award-id>2016ZX08009&#x02010;003</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="9"/><word-count count="7335"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12996</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:16.01.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12996-sec-0001"><title>Introduction</title><p>Rice is one of the most important food crops in the world. Heading date has a significant impact on agronomic traits associated with yield (Jung and Muller, <xref rid="pbi12996-bib-0018" ref-type="ref">2009</xref>). Photoperiod is the most important environmental factor affecting flowering time in rice. Many flowering time&#x02010;related genes have been cloned in rice. <italic>Heading date 3a</italic> (<italic>Hd3a</italic>) and <italic>RICE FLOWERING LOCUS T1</italic> (<italic>RFT1</italic>) are florigen proteins in rice (Chardon and Damerval, <xref rid="pbi12996-bib-0004" ref-type="ref">2005</xref>; Komiya <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0023" ref-type="ref">2009</xref>; Tsuji <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0049" ref-type="ref">2013</xref>). <italic>Hd3a</italic> is activated under SD and inhibited under LD, whereas <italic>RFT1</italic> expression is increased at later developmental stages to promote flowering under LD condition (Komiya <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0022" ref-type="ref">2008</xref>, <xref rid="pbi12996-bib-0023" ref-type="ref">2009</xref>). <italic>Hd3a</italic> and <italic>RFT1</italic> expression is activated by a rice&#x02010;specific B&#x02010;type response factor encoded by <italic>Early heading date 1</italic> (<italic>Ehd1</italic>) under both SD and LD (Doi <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0009" ref-type="ref">2004</xref>). <italic>Ehd1</italic> is up&#x02010;regulated by some proteins such as Ehd2/OsINDETERMINATE 1 (OsID1)/Rice INDETERMINATE 1 (RID1) (Matsubara <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0031" ref-type="ref">2008</xref>; Park <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0036" ref-type="ref">2008</xref>; Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0055" ref-type="ref">2008</xref>), Ehd3 (Matsubara <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0032" ref-type="ref">2011</xref>), Ehd4 (Gao <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0010" ref-type="ref">2013</xref>), VERNALIZATION INSENSITIVE 3&#x02010;LIKE 2 (OsVIL2) (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0051" ref-type="ref">2013</xref>), SET domain group protein 724 (SDG724) (Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0042" ref-type="ref">2012a</xref>), OsMADS50 (Ryu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0039" ref-type="ref">2009</xref>) and OsMADS51 (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0019" ref-type="ref">2007</xref>). In contrast, multiple proteins also act as negative regulators of <italic>Ehd1</italic>, including Grain yield and heading date 7 (Ghd7) (Xue <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0058" ref-type="ref">2008</xref>), LEC2 and FUSCA3&#x02010;Like 1 (OsLFL1) (Peng <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0037" ref-type="ref">2007</xref>), CONSTANS&#x02010;Like 4 (OsCOL4) (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0024" ref-type="ref">2010</xref>), OsCOL10 (Tan <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0046" ref-type="ref">2016</xref>), OsCOL13 (Sheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0040" ref-type="ref">2016</xref>), Date To Heading on chromosome 7 (DTH7) (Gao <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0011" ref-type="ref">2014</xref>), DTH8 (Wei <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0053" ref-type="ref">2010</xref>), Heading date 16 (Hd16)/Early Flowering 1 (EL1) (Dai and Xue, <xref rid="pbi12996-bib-0007" ref-type="ref">2010</xref>; Hori <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0015" ref-type="ref">2013</xref>), SUPERNUMERARY BRACT (SNB), OsINDETERMINATE SPIKELET 1 (OsIDS1) (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0025" ref-type="ref">2014</xref>), OsMADS56 (Ryu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0039" ref-type="ref">2009</xref>), ABA responsive element binding factor 1 (OsABF1) (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0061" ref-type="ref">2016</xref>) and Heme Activator Protein like 1 (OsHAPL1) (Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0064" ref-type="ref">2017</xref>). Heading date 1 (Hd1) also activates <italic>Ehd1</italic> expression under SD, but functions as a repressor of <italic>Ehd1</italic> through interaction with Ghd7 under LD (Nemoto <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0035" ref-type="ref">2016</xref>).</p><p>The plant&#x02010;specific GRAS (GAI, RGA and SCR) protein family, contains five conserved motifs named LHRI, VHIID, LHRII, PFYRE and SAW in their C&#x02010;termini (Bolle, <xref rid="pbi12996-bib-0002" ref-type="ref">2004</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0041" ref-type="ref">2011</xref>). This family can be divided into 10 subfamilies according to several independent phylogenetic analyses based on the relatively conserved motifs in the N&#x02010;terminal domains (Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0041" ref-type="ref">2011</xref>). GRAS proteins have been extensively studied in plants and are known involved in gibberellin (GA) signaling, root development, auxin response, stress responses, phytochrome (Phy) signaling, brassinosteroid (BR) signaling and control of tillering (Bolle, <xref rid="pbi12996-bib-0002" ref-type="ref">2004</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0041" ref-type="ref">2011</xref>, <xref rid="pbi12996-bib-0043" ref-type="ref">2012b</xref>). SLENDER RICE1 (SLR1) protein is a negative regulator of GA signaling and belongs to the DELLA subfamily of GRAS (Ikeda <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0017" ref-type="ref">2001</xref>). Tillering in rice is controlled by MONOCULM 1 (MOC1), which belongs to the <italic>Arabidopsis</italic> LATERAL SUPPRESSOR (AtLAS) subfamily (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0026" ref-type="ref">2003</xref>). DWARF AND LOW&#x02010;TILLERING (DLT), the DLT subfamily of GRAS, plays positive roles in brassinosteroid signaling (Tong <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0047" ref-type="ref">2009</xref>). Rice homologs of SHORTROOT (SHR) and SCARECROW (SCR) have an evolutionarily conserved mechanism that defines a single endodermal layer similar to <italic>Arabidopsis thaliana</italic> (Cui <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0006" ref-type="ref">2007</xref>). Two <italic>Arabidopsis</italic> Phytochrome A signal transduction (AtPAT) subfamily members, <italic>Chitin&#x02010;Inducible Gibberellin&#x02010;Responsive 1</italic> (<italic>CIGR1</italic>) and <italic>CIGR2</italic>, are responsive to N&#x02010;acetyl&#x02010;chitooligosaccharide elicitor and GA (Day <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0008" ref-type="ref">2004</xref>). Recently, <italic>OsGRAS23</italic> was reported to be involved in drought stress response by regulating expression of stress&#x02010;responsive genes (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0057" ref-type="ref">2015</xref>). However, GRAS proteins have not been reported in connection with heading date in rice.</p><p>Here, we identified a new GRAS protein DHD1 that delays heading date by down&#x02010;regulating expression of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic>, and also enhances yield. DHD1 physically interacts with OsHAP5C and OsHAP5D both <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>. <italic>OsHAP5C</italic>/<italic>D</italic> also delays heading date by suppressing <italic>Ehd1</italic>. Both DHD1 and OsHAP5C/D have rhythmic expression modes. Our findings reveal functional roles of DHD1 in rice flowering time and rice yield.</p></sec><sec id="pbi12996-sec-0002"><title>Results</title><sec id="pbi12996-sec-0003"><title>
+<italic>DHD1</italic> delays heading date in rice</title><p>Approximately 1,685 cDNAs of transcription factors from rice were fused to the VP64 activation domain, driven by the maize (<italic>Zea mays</italic>) ubiquitin (<italic>pUbi</italic>) promoter (Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0062" ref-type="ref">2015</xref>). By analyzing the phenotypes of 57&#x000a0;751 independent transgenic plants of a <italic>Japonica</italic> rice variety Kitaake, we observed 30 independent lines, containing a <italic>VP64</italic>&#x02010;<italic>LOC_Os11&#x000a0;g47920</italic> construct, showed a delayed heading compared to wild type (WT, Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S1</xref>). And then, we focused on the new gene (<italic>LOC_Os11&#x000a0;g47920</italic>) with unknown function, namely <italic>DHD1</italic> (<italic>Delayed Heading Date1</italic>).</p><p>To eliminate potential effects of VP64 activation activities and further confirm the role of DHD1, we fused DHD1 to a 3&#x000a0;&#x000d7;&#x000a0;Flag&#x02010;tag and overexpressed the fusion under control of <italic>pUbi</italic>. We obtained 13 independent transgenic lines, and found that all these independent transgenic lines had the delayed heading phenotype compared to WT. We randomly chose three independent transgenic lines (OE18, OE19 and OE26) and used their homozygous offsprings for further study. Under natural long day condition (NLD), flowering time of all three lines was delayed by about 1&#x000a0;month, and panicle size was significantly increased compared to WT (Figure&#x000a0;<xref rid="pbi12996-fig-0001" ref-type="fig">1</xref>a&#x02013;d). Under controlled long day (LD, 14&#x000a0;h light/10&#x000a0;h darkness) and short day (SD, 10&#x000a0;h light/14&#x000a0;h darkness) conditions flowering time of OE19 plants was delayed by about 3&#x000a0;weeks relative to WT (Figure&#x000a0;<xref rid="pbi12996-fig-0001" ref-type="fig">1</xref>e). The leaf emergence rates of WT and OE19 were investigated until the heading stage. The leaf emergence rates were similar to WT, indicating that the delayed flowering time in the transgenic plants was not due to retarded growth (Figure&#x000a0;<xref rid="pbi12996-fig-0001" ref-type="fig">1</xref>f,g). Plant height, panicle length, primary branching and secondary branching of OE lines were significantly increased while tiller number and thousand grain weight were not changed (Table&#x000a0;<xref rid="pbi12996-tbl-0001" ref-type="table">1</xref>). These results suggest that <italic>DHD1</italic> may have potential to increase yield in breeding programs.</p><fig fig-type="Figure" xml:lang="en" id="pbi12996-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Phenotypes of <italic><styled-content style="fixed-case">DHD</styled-content>1&#x02010;Flag</italic> overexpression lines and wild type (<styled-content style="fixed-case">WT</styled-content>) plants under natural <styled-content style="fixed-case">LD</styled-content>, control <styled-content style="fixed-case">LD</styled-content> and control <styled-content style="fixed-case">SD</styled-content> conditions. (a) Phenotypes of overexpression and WT plants. Plants were grown under natural <styled-content style="fixed-case">LD</styled-content> conditions for 70&#x000a0;days. <styled-content style="fixed-case">OE</styled-content>18, <styled-content style="fixed-case">OE</styled-content>19 and <styled-content style="fixed-case">OE</styled-content>26, independent overexpression lines of <italic><styled-content style="fixed-case">DHD</styled-content>1&#x02010;Flag</italic>. (b) Main panicle size and grains per panicle of overexpression lines and <styled-content style="fixed-case">WT</styled-content>. (c) Expression of <italic><styled-content style="fixed-case">DHD</styled-content>1</italic> in overexpression lines and <styled-content style="fixed-case">WT</styled-content>. Means&#x000a0;&#x000b1;&#x000a0;SE (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>3). (d) Heading dates of overexpression lines and <styled-content style="fixed-case">WT</styled-content>. Means&#x000a0;&#x000b1;&#x000a0;SE (<italic>n&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>15). (e) Flowering time of <styled-content style="fixed-case">OE</styled-content>19 and <styled-content style="fixed-case">WT</styled-content> under <styled-content style="fixed-case">LD</styled-content> and <styled-content style="fixed-case">SD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE (<italic>n&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>15). (f) Leaf emergence rate of <styled-content style="fixed-case">OE</styled-content>19 and <styled-content style="fixed-case">WT</styled-content> under <styled-content style="fixed-case">LD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE (<italic>n&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>15). (g) Leaf emergence rate of <styled-content style="fixed-case">OE</styled-content>19 and <styled-content style="fixed-case">WT</styled-content> under <styled-content style="fixed-case">SD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE (<italic>n&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>15), **<italic>P&#x000a0;</italic>&#x02264;<italic>&#x000a0;</italic>0.01.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-17-531-g001"/></fig><table-wrap id="pbi12996-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Agronomic traits of wild type Kitaake and overexpression lines when planted in the field under NLD conditions</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Trait</th><th align="left" valign="top" rowspan="1" colspan="1">Kitaake</th><th align="left" valign="top" rowspan="1" colspan="1">OE18</th><th align="left" valign="top" rowspan="1" colspan="1">OE19</th><th align="left" valign="top" rowspan="1" colspan="1">OE26</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Plant height (cm)</td><td align="left" rowspan="1" colspan="1">65.66&#x000a0;&#x000b1;&#x000a0;1.02</td><td align="left" rowspan="1" colspan="1">76.30&#x000a0;&#x000b1;&#x000a0;0.84<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">78.00&#x000a0;&#x000b1;&#x000a0;1.07<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">78.31&#x000a0;&#x000b1;&#x000a0;0.98<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of tillers</td><td align="left" rowspan="1" colspan="1">19.00&#x000a0;&#x000b1;&#x000a0;0.74</td><td align="left" rowspan="1" colspan="1">18.67&#x000a0;&#x000b1;&#x000a0;1.15</td><td align="left" rowspan="1" colspan="1">16.80&#x000a0;&#x000b1;&#x000a0;1.31</td><td align="left" rowspan="1" colspan="1">17.53&#x000a0;&#x000b1;&#x000a0;0.94</td></tr><tr><td align="left" rowspan="1" colspan="1">Panicle length (cm)</td><td align="left" rowspan="1" colspan="1">13.03&#x000a0;&#x000b1;&#x000a0;0.35</td><td align="left" rowspan="1" colspan="1">17.97&#x000a0;&#x000b1;&#x000a0;0.22<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">19.31&#x000a0;&#x000b1;&#x000a0;0.61<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">19.08&#x000a0;&#x000b1;&#x000a0;0.43<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Primary branches, No./panicle</td><td align="left" rowspan="1" colspan="1">6.30&#x000a0;&#x000b1;&#x000a0;0.15</td><td align="left" rowspan="1" colspan="1">16.40&#x000a0;&#x000b1;&#x000a0;0.40<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">14.90&#x000a0;&#x000b1;&#x000a0;0.41<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">16.30&#x000a0;&#x000b1;&#x000a0;0.50<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Secondary branches, No./panicle</td><td align="left" rowspan="1" colspan="1">9.10&#x000a0;&#x000b1;&#x000a0;0.53</td><td align="left" rowspan="1" colspan="1">24.40&#x000a0;&#x000b1;&#x000a0;1.29<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">26.60&#x000a0;&#x000b1;&#x000a0;1.86<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">26.90&#x000a0;&#x000b1;&#x000a0;0.67<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Grains/panicle</td><td align="left" rowspan="1" colspan="1">58.40&#x000a0;&#x000b1;&#x000a0;2.01</td><td align="left" rowspan="1" colspan="1">163.70&#x000a0;&#x000b1;&#x000a0;6.16<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">163.60&#x000a0;&#x000b1;&#x000a0;7.16<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td><td align="left" rowspan="1" colspan="1">174.00&#x000a0;&#x000b1;&#x000a0;2.51<xref ref-type="fn" rid="pbi12996-note-0002">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Thousand grain weight (g)</td><td align="left" rowspan="1" colspan="1">26.35&#x000a0;&#x000b1;&#x000a0;0.12</td><td align="left" rowspan="1" colspan="1">25.23&#x000a0;&#x000b1;&#x000a0;0.47</td><td align="left" rowspan="1" colspan="1">24.93&#x000a0;&#x000b1;&#x000a0;0.64</td><td align="left" rowspan="1" colspan="1">24.92&#x000a0;&#x000b1;&#x000a0;0.42</td></tr></tbody></table><table-wrap-foot><fn id="pbi12996-note-0002"><p>**<italic>P&#x000a0;</italic>&#x02264;<italic>&#x000a0;</italic>0.01.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To further confirm the function of <italic>DHD1</italic> in plants, we created <italic>DHD1</italic> mutants by CRISPR&#x02010;<italic>Cas9</italic> technology in Kitaake, but there was no difference in flowering time between the mutants and Kitaake (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S2</xref>). Considering that Kitaake is an early flowering and photoperiod&#x02010;insensitive variety, we chose Nipponbare, a late flowering and photoperiod&#x02010;sensitivity variety, for further study to see if there is background effect. We created <italic>DHD1</italic>&#x02010;<italic>RNAi</italic> plants in Nipponbare background. There was no change in heading date when <italic>DHD1</italic>&#x02010;<italic>RNAi</italic> plants were planted in the field (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S5</xref>a&#x02013;c). A genome&#x02010;wide search of rice revealed a homolog, DHD1L, with an amino acid sequence highly similar to DHD1 (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S3</xref>). We overexpressed <italic>DHD1L</italic> in Kitaake, and the heading date of the overexpression lines was also delayed (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S4</xref>). To eliminate the redundancy of <italic>DHD1L</italic>, we created a double mutant <italic>dhd1 dhd1&#x000a0;l</italic> in Nipponbare. We compared <italic>DHD1</italic>&#x02010;<italic>RNAi</italic>,<italic> dhd1</italic> and <italic>dhd1 dhd1&#x000a0;l</italic> phenotypes in the field, but found no significant difference in heading date compared to the WT (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S5</xref>). In addition, the agronomic traits such as plant height and panicle size of <italic>dhd1</italic> and <italic>dhd1 dhd1&#x000a0;l</italic> were decreased significantly (Table&#x000a0;<xref rid="pbi12996-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="pbi12996-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Agronomic traits of wild type Nipponbare, <italic>dhd1</italic> and <italic>dhd1 dhd1&#x000a0;l</italic> when planted in the field under NLD conditions</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Trait</th><th align="left" valign="top" rowspan="1" colspan="1">Nip</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>dhd1</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>dhd1 dhd1&#x000a0;l</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Plant height (cm)</td><td align="left" rowspan="1" colspan="1">100.54&#x000a0;&#x000b1;&#x000a0;0.57</td><td align="left" rowspan="1" colspan="1">87.93&#x000a0;&#x000b1;&#x000a0;0.58<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">78.87&#x000a0;&#x000b1;&#x000a0;0.82<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of tillers</td><td align="left" rowspan="1" colspan="1">16.70&#x000a0;&#x000b1;&#x000a0;0.84</td><td align="left" rowspan="1" colspan="1">13.47&#x000a0;&#x000b1;&#x000a0;0.39<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">10.96&#x000a0;&#x000b1;&#x000a0;0.41<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Panicle length (cm)</td><td align="left" rowspan="1" colspan="1">22.75&#x000a0;&#x000b1;&#x000a0;0.24</td><td align="left" rowspan="1" colspan="1">20.12&#x000a0;&#x000b1;&#x000a0;0.25<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">19.37&#x000a0;&#x000b1;&#x000a0;0.19<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Primary branches, No./panicle</td><td align="left" rowspan="1" colspan="1">13.11&#x000a0;&#x000b1;&#x000a0;0.14</td><td align="left" rowspan="1" colspan="1">12.00&#x000a0;&#x000b1;&#x000a0;0.21<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">10.95&#x000a0;&#x000b1;&#x000a0;0.26<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Secondary branches, No./panicle</td><td align="left" rowspan="1" colspan="1">30.28&#x000a0;&#x000b1;&#x000a0;0.93</td><td align="left" rowspan="1" colspan="1">27.76&#x000a0;&#x000b1;&#x000a0;0.72<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">22.20&#x000a0;&#x000b1;&#x000a0;0.71<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Grains/panicle</td><td align="left" rowspan="1" colspan="1">164.94&#x000a0;&#x000b1;&#x000a0;3.10</td><td align="left" rowspan="1" colspan="1">151.52&#x000a0;&#x000b1;&#x000a0;2.78<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td><td align="left" rowspan="1" colspan="1">121.60&#x000a0;&#x000b1;&#x000a0;2.36<xref ref-type="fn" rid="pbi12996-note-0003">**</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="pbi12996-note-0003"><p>**<italic>P&#x000a0;</italic>&#x02264;<italic>&#x000a0;</italic>0.01.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="pbi12996-sec-0004"><title>
+<italic>DHD1</italic> has a constitutive and rhythmic expression pattern and DHD1 is located in the nucleus</title><p>In order to examine the expression pattern of <italic>DHD1</italic>, quantitative real&#x02010;time PCR (qRT&#x02010;PCR) experiments were performed with different tissues (Figure&#x000a0;<xref rid="pbi12996-fig-0002" ref-type="fig">2</xref>a). Although <italic>DHD1</italic> was expressed in all tissues, expression levels were higher in leaves, leaf sheaths and panicles (Figure&#x000a0;<xref rid="pbi12996-fig-0002" ref-type="fig">2</xref>b). To investigate whether expression of <italic>DHD1</italic> was rhythmic, we assayed the expression every 4&#x000a0;h in a 24&#x000a0;h time course under LD and SD conditions. The transcription level of <italic>DHD1</italic> peaked at dawn and then slowly decreased until evening under both LD and SD conditions (Figure&#x000a0;<xref rid="pbi12996-fig-0002" ref-type="fig">2</xref>c,d). Our rice protoplast transient assays showed that DHD1&#x02010;GFP protein was mostly located in the nucleus, overlapping with the nuclear marker D53&#x02010;mCherry (Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0063" ref-type="ref">2013</xref>) (Figure&#x000a0;<xref rid="pbi12996-fig-0002" ref-type="fig">2</xref>e).</p><fig fig-type="Figure" xml:lang="en" id="pbi12996-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<italic><styled-content style="fixed-case">DHD</styled-content>1</italic> expression patterns, subcellular localization of protein and transcriptional activity. (a) Leaf samples at different developmental stages were obtained from 30&#x000a0;day old wild type plants. <styled-content style="fixed-case">DL</styled-content>, developed leaf. (b) The relative expression levels of <italic><styled-content style="fixed-case">DHD</styled-content>1</italic> in different plant tissues. (c) Rhythmic expression pattern of <italic><styled-content style="fixed-case">DHD</styled-content>1</italic> under <styled-content style="fixed-case">LD</styled-content> conditions. Black and white boxes denote dark and light periods respectively. (d) Rhythmic expression pattern of <italic><styled-content style="fixed-case">DHD</styled-content>1</italic> under <styled-content style="fixed-case">SD</styled-content> conditions. Black and white boxes denote dark and light periods respectively. (e) Subcellular localization of <styled-content style="fixed-case">DHD</styled-content>1&#x02010;<styled-content style="fixed-case">GFP</styled-content> in rice protoplasts. Bar, 10&#x000a0;&#x003bc;m.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-17-531-g002"/></fig></sec><sec id="pbi12996-sec-0005"><title>DHD1 interacts with OsHAP5C and OsHAP5D <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>
+</title><p>To investigate the action mode of DHD1, yeast two&#x02010;hybrid library screening with DHD1 as bait was performed and 73 positive clones were selected. By further confirmation of yeast&#x02010;two&#x02010;hybrid assay, we confirmed that OsHAP5C (LOC_Os03&#x000a0;g14669) and OsHAP5D (LOC_Os08&#x000a0;g38780) can interact with DHD1 in yeast (Figure&#x000a0;<xref rid="pbi12996-fig-0003" ref-type="fig">3</xref>a). A pull&#x02010;down assay was performed to confirm the physical interactions between DHD1 and OsHAP5C/D <italic>in&#x000a0;vitro</italic> (Figure&#x000a0;<xref rid="pbi12996-fig-0003" ref-type="fig">3</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="pbi12996-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<styled-content style="fixed-case">DHD</styled-content>1 interacts with Os<styled-content style="fixed-case">HAP</styled-content>5C and Os<styled-content style="fixed-case">HAP</styled-content>5D <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>. (a) Interactions of <styled-content style="fixed-case">DHD</styled-content>1 with Os<styled-content style="fixed-case">HAP</styled-content>5C/D in yeast strains. Triangle denotes 10&#x02010;fold dilution. (b) <italic>In vitro</italic> pull&#x02010;down analysis validates interactions of <styled-content style="fixed-case">DHD</styled-content>1 with Os<styled-content style="fixed-case">HAP</styled-content>5C/D. (c) Bi<styled-content style="fixed-case">FC</styled-content> analysis validates the interactions between <styled-content style="fixed-case">DHD</styled-content>1 and Os<styled-content style="fixed-case">HAP</styled-content>5C/D; the small triangles indicate the nucleus. (d) Co&#x02010;<styled-content style="fixed-case">IP</styled-content> analysis in rice protoplasts verified interactions of <styled-content style="fixed-case">DHD</styled-content>1 with Os<styled-content style="fixed-case">HAP</styled-content>5C/D.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-17-531-g003"/></fig><p>BiFC and Co&#x02010;IP experiments were performed to further confirm the interactions <italic>in&#x000a0;vivo</italic>. In the BiFC assay, YFP fluorescence was produced in tobacco leaves co&#x02010;infected by <italic>Agrobacterium</italic> containing DHD1&#x02010;YFP<sup>N</sup> and OsHAP5C&#x02010;YFP<sup>C</sup> or OsHAP5D&#x02010;YFP<sup>C</sup>. YFP fluorescence was not generated when the tobacco was co&#x02010;infected by DHD1&#x02010;YFP<sup>N</sup> and empty YFP<sup>C</sup>. OsHAP5C&#x02010;YFP<sup>C</sup> and OsHAP5D&#x02010;YFP<sup>C</sup> with an empty YFP<sup>N</sup> also did not result in YFP fluorescence (Figure&#x000a0;<xref rid="pbi12996-fig-0003" ref-type="fig">3</xref>c). The Co&#x02010;IP assay was performed in rice protoplasts. The vector containing <italic>OsHAP5C&#x02010;GFP</italic> or <italic>OsHAP5D&#x02010;GFP</italic> was co&#x02010;transformed with a vector containing <italic>DHD1&#x02010;Flag</italic> into rice protoplasts. Both OsHAP5C&#x02010;GFP and OsHAP5D&#x02010;GFP proteins co&#x02010;immunoprecipitated with the DHD1&#x02010;Flag protein, whereas GFP protein alone did not (Figure&#x000a0;<xref rid="pbi12996-fig-0003" ref-type="fig">3</xref>d). These results indicated that OsHAP5C and OsHAP5D could interact with DHD1 in tobacco and rice.</p></sec><sec id="pbi12996-sec-0006"><title>OsHAP5C/D delayed heading date in rice</title><p>By qRT&#x02010;PCR and subcellular localization experiments, we found that <italic>OsHAP5C</italic> and <italic>OsHAP5D</italic> were subject to rhythmic expression and the proteins were mainly located in the nucleus (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S6</xref>). To investigate whether <italic>OsHAP5C</italic>/<italic>D</italic> are involved in heading date, we created <italic>OsHAP5C</italic> and <italic>OsHAP5D</italic> overexpression plants. These plants showed later flowering than WT (Kitaake) under natural LD, control LD and control SD conditions (Figure&#x000a0;<xref rid="pbi12996-fig-0004" ref-type="fig">4</xref>a,b). qRT&#x02010;PCR showed that expression of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic> was down&#x02010;regulated in <italic>OsHAP5C</italic>/<italic>D</italic> overexpressing plants (Figure&#x000a0;<xref rid="pbi12996-fig-0004" ref-type="fig">4</xref>c,d). These results indicated that <italic>OsHAP5C</italic>/<italic>D</italic> control heading date by regulating expression of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic>.</p><fig fig-type="Figure" xml:lang="en" id="pbi12996-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<italic>Os<styled-content style="fixed-case">HAP</styled-content>5C/D</italic> overexpression delayed the heading date in rice. (a) Phenotypes of <styled-content style="fixed-case">WT</styled-content> and <italic>Os<styled-content style="fixed-case">HAP</styled-content>5C/D</italic> overexpression lines under <styled-content style="fixed-case">NLD</styled-content> conditions. Arrow indicates the panicle. (b) Flowering time of <styled-content style="fixed-case">WT</styled-content> and <italic>Os<styled-content style="fixed-case">HAP</styled-content>5C/D</italic> overexpression lines under <styled-content style="fixed-case">LD</styled-content>,<styled-content style="fixed-case"> SD</styled-content> and <styled-content style="fixed-case">NLD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;12), **<italic>P&#x000a0;</italic>&#x02264;<italic>&#x000a0;</italic>0.01. (c) Expression levels of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic><styled-content style="fixed-case">RFT</styled-content>1</italic> in <styled-content style="fixed-case">WT</styled-content> and <italic>Os<styled-content style="fixed-case">HAP</styled-content>5C/D</italic> overexpression lines under <styled-content style="fixed-case">LD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE. (d) Expression levels of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic><styled-content style="fixed-case">RFT</styled-content>1</italic> in <styled-content style="fixed-case">WT</styled-content> and <italic>Os<styled-content style="fixed-case">HAP</styled-content>5C/D</italic> overexpression lines under <styled-content style="fixed-case">SD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-17-531-g004"/></fig></sec><sec id="pbi12996-sec-0007"><title>
+<italic>DHD1</italic> delays heading date by down&#x02010;regulating <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic>
+</title><p>In order to investigate downstream genes regulated by <italic>DHD1</italic>, we examined the expression of key genes involved in flowering in WT and OE&#x02010;DHD1&#x02010;19 under LD and SD conditions. qRT&#x02010;PCR data showed that expression of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic> was greatly decreased under both LD and SD conditions in OE&#x02010;DHD1&#x02010;19 compared to WT, particularly, at the time of peak expression in WT. Expression of <italic>OsMADS14</italic>, a downstream gene of <italic>Hd3a</italic> and <italic>RFT1</italic>, was also significantly decreased (Figure&#x000a0;<xref rid="pbi12996-fig-0005" ref-type="fig">5</xref>). This suggests that <italic>DHD1</italic> delays flowering in rice by suppressing expression of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic>.</p><fig fig-type="Figure" xml:lang="en" id="pbi12996-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<italic><styled-content style="fixed-case">DHD</styled-content>1</italic> inhibited expression of downstream genes <italic>Ehd1</italic>,<italic> Hd3a</italic>,<italic><styled-content style="fixed-case">RFT</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">MADS</styled-content>14</italic> under <styled-content style="fixed-case">LD</styled-content> and <styled-content style="fixed-case">SD</styled-content> conditions. Means&#x000a0;&#x000b1;&#x000a0;SE. The black and white boxes denote dark and light periods, respectively.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-17-531-g005"/></fig><p>We examined expression of some other heading&#x02010;related genes, including <italic>OsPhyA</italic>,<italic> OsPhyB</italic>,<italic> OsPhyC</italic>,<italic> PHOTOPERIOD SENSITIVITY5</italic> (<italic>SE5</italic>), <italic>OsGIGANTEA</italic> (<italic>OsGI</italic>), <italic>OsMADS50</italic>,<italic> OsMADS51</italic>,<italic> OsMADS56</italic>,<italic> DTH2</italic>,<italic> DTH8</italic>,<italic> OsCOL4</italic>,<italic> RICE FLORICULA/LEAFY</italic> (<italic>RFL</italic>), <italic>Ehd2</italic>,<italic> Ehd3</italic>,<italic> Ehd4</italic> and <italic>Hd1</italic>, but detected no significant changes (Figures <xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S7</xref> and <xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S8</xref>). We also analyzed the expression of <italic>DHD1</italic> in mutants or near isogenic lines affecting heading date, in order to identify upstream genes that regulate <italic>DHD1</italic>. The results showed no changes of <italic>DHD1</italic> expression between WT and these mutants or near isogenic lines (Figures <xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S9</xref> and <xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S10</xref>).</p></sec></sec><sec id="pbi12996-sec-0008"><title>Discussion</title><sec id="pbi12996-sec-0009"><title>DHD1 could be involved in GA and ABA&#x02010;related pathways of flowering</title><p>No change in the heading date of <italic>DHD1</italic>&#x02010;<italic>RNAi</italic>,<italic> dhd1</italic> or <italic>dhd1 dhd1&#x000a0;l</italic> plants when planted in the field. <italic>DHD1</italic> and <italic>DHD1L</italic> may be involved in other special rice flowering pathways. The homologous of DHD1, DELLA proteins, are involved in the GA flowering pathway in <italic>Arabidopsis thaliana</italic> (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0052" ref-type="ref">2016</xref>). DELLA protein REPRESSOR of <italic>ga1&#x02010;3</italic> (RGA) can be degraded by GA (Willige <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0054" ref-type="ref">2007</xref>) while ABA promotes its accumulation (Guo <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0013" ref-type="ref">2014</xref>). Since DHD1 and DELLA proteins have conserved GRAS domains, we speculated that DHD1 has a similar function as DELLA. DHD1 was expressed transiently in the rice protoplasts, and treated with hormones GA, ABA and BR. We found that accumulation of DHD1 was increased under ABA treatment and decreased under GA treatment (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S11</xref>). Together, we speculated that DHD1 was involved in GA and ABA&#x02010;related pathways of flowering.</p><p>Salt stress delays flowering in <italic>Arabidopsis</italic>, which relies on the DELLA proteins that negatively regulate GA signaling and delay flowering by inhibiting downstream <italic>CONSTANS</italic> (<italic>CO</italic>) and <italic>FLOWERING LOCUS T</italic> (<italic>FT</italic>) expression (Achard <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0001" ref-type="ref">2006</xref>; Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0027" ref-type="ref">2007</xref>). Drought induces expression of <italic>OsABF1</italic>, which directly binds to the downstream promoter of <italic>OsWARKY104</italic> to activate its expression, which in turn, inhibits expression of <italic>Ehd1</italic> and delays flowering (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0061" ref-type="ref">2016</xref>). Previous studies have shown that the <italic>Lilium longiflorum</italic> SCR&#x02010;like (LISCL) subfamily proteins may be involved in the stress response, and recently, OsGRAS23, a member of the LISCL subfamily of rice, has been reported to be involved in drought response (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0057" ref-type="ref">2015</xref>). We observed that the <italic>dhd1 dhd1&#x000a0;l</italic> double mutant flowered earlier than WT and the <italic>dhd1</italic> single mutant under drought and salt treatment. There was no significant difference in flowering time under normal conditions (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S12</xref>). We therefore hypothesized that DHD1 may be involved in the flowering regulation of stress, which remains to be further investigated.</p></sec><sec id="pbi12996-sec-0010"><title>DHD1 interacts with OsHAP5C/D and participates in regulating heading date</title><p>Heme activator protein (HAP) proteins, also known as NUCLEAR FACTOR Y (NF&#x02010;Y) proteins, are a class of regulatory proteins widely found in fungi, animals and plants (Mantovani, <xref rid="pbi12996-bib-0030" ref-type="ref">1999</xref>). In <italic>Arabidopsis</italic>, NF&#x02010;Y proteins bind <italic>CCAAT</italic> elements to form long&#x02010;distance chromatin loops on the <italic>FT</italic> promoter and initiate expression of <italic>FT</italic> by recruiting CO (Cao <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0003" ref-type="ref">2014</xref>). The NF&#x02010;Y complex also partially modulates trimethylated H3K27 levels of the <italic>SUPPRESOR OF OVEREXPRESSION OF CONSTANS 1</italic> (<italic>SOC1</italic>) promoter by interacting with a H3K27 demethylase, RELATIVE OF EARLY FLOWERING 6 (REF6) (Hou <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0016" ref-type="ref">2014</xref>). In rice, <italic>DTH8</italic>/<italic>OsHAP3H</italic> delays heading by decreasing the expression of <italic>Ehd1</italic> and <italic>Hd3a</italic> under LD (Wei <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0053" ref-type="ref">2010</xref>). Li <italic>et&#x000a0;al</italic>. (<xref rid="pbi12996-bib-0028" ref-type="ref">2016</xref>) overexpressed a series of HAP family genes and found that <italic>OsHAP3D</italic>,<italic> OsHAP3E</italic>,<italic> OsHAP5A</italic> and <italic>OsHAP5B</italic> delayed flowering under LD conditions. Furthermore, an OsHAPL1&#x02010;DTH8&#x02010;Hd1 complex was reported to function as a repressor of heading (Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0064" ref-type="ref">2017</xref>). Yeast two&#x02010;hybrid library screening showed that DHD1 can interact with OsHAP5C and OsHAP5D. Furthermore, yeast two&#x02010;hybrid experiments and pull&#x02010;down experiments demonstrated that DHD1 physically interacts with OsHAP5C and OsHAP5D <italic>in&#x000a0;vitro</italic> (Figure&#x000a0;<xref rid="pbi12996-fig-0003" ref-type="fig">3</xref>a,b). BiFC experiments in tobacco and the Co&#x02010;IP experiments in rice protoplasts verified these interactions <italic>in&#x000a0;vivo</italic> (Figure&#x000a0;<xref rid="pbi12996-fig-0003" ref-type="fig">3</xref>c,d). Overexpression of <italic>OsHAP5C</italic>/<italic>D</italic> also delays heading in Kitaake under LD, SD and NLD conditions (Figure&#x000a0;<xref rid="pbi12996-fig-0004" ref-type="fig">4</xref>a,b), as well as reducing expression of <italic>Ehd1</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic> (Figure&#x000a0;<xref rid="pbi12996-fig-0004" ref-type="fig">4</xref>c,d), in a similar manner to lines overexpressing <italic>DHD1</italic>. These results suggest that DHD1 and OsHAP5C/D may play roles in the same flowering pathway. We also created single and double mutants of <italic>OsHAP5C</italic> and <italic>OsHAP5D</italic>, but these had no effect on heading date relative to WT when grown in the field (Figure&#x000a0;<xref rid="pbi12996-sup-0001" ref-type="supplementary-material">S13</xref>). Considering there are 11 HAP5 subunits in rice (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0028" ref-type="ref">2016</xref>), it is likely that many other <italic>HAP5</italic> genes play redundant roles.</p></sec><sec id="pbi12996-sec-0011"><title>DHD1&#x02010;OsHAP5C/5D inhibits flowering by repressing <italic>Ehd1</italic> expression</title><p>It is generally considered that there are two flowering regulation pathways in rice: the <italic>Hd1</italic>&#x02010;mediated pathway and the <italic>Ehd1</italic>&#x02010;mediated pathway, which modulate expression of the florigen genes <italic>Hd3a</italic> and <italic>RFT1</italic> to control heading date (Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0044" ref-type="ref">2014</xref>; Tsuji <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0048" ref-type="ref">2011</xref>). Additional genes directly regulate the expression of <italic>Hd3a</italic> and <italic>RFT1</italic>, such as <italic>DTH2</italic> (Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0056" ref-type="ref">2013</xref>), <italic>OsCO3</italic> (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0020" ref-type="ref">2008</xref>) and <italic>RFL</italic> (Rao <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0038" ref-type="ref">2008</xref>). It was reported that Hd1 interacts with Ghd7 and binds directly to a <italic>cis</italic>&#x02010;regulatory region in <italic>Ehd1</italic> to repress its expression (Nemoto <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0035" ref-type="ref">2016</xref>). Drought, GA and low temperature also affect expression of <italic>Ehd1</italic> to control the flowering time (Cho <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0005" ref-type="ref">2017</xref>). Thus, <italic>Ehd1</italic> may be an important integrator in regulating flowering time in rice. <italic>DHD1</italic> delayed heading by inhibiting <italic>Ehd1</italic> expression (Figure&#x000a0;<xref rid="pbi12996-fig-0005" ref-type="fig">5</xref>). NF&#x02010;YA, or HAP2, binds to <italic>CCAAT</italic> elements and recruits other HAP subunit proteins to bind the promoter (Gnesutta <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0012" ref-type="ref">2017</xref>). There are several <italic>CCAAT</italic> elements in the promoter of <italic>Ehd1</italic>. We hypothesize that it is possible that other HAP2 proteins bind to the <italic>Ehd1</italic> promoter and recruit HAP5s and DHD1 to form a complex that regulates flowering. The relationships between DHD1 and HAP proteins and <italic>Ehd1</italic> remain to be further studied.</p></sec><sec id="pbi12996-sec-0012"><title>DHD1 regulates heading date and has potential to increase yield in rice</title><p>The GRAS proteins are involved in many aspects of plant development and signal transduction in rice (Bolle, <xref rid="pbi12996-bib-0002" ref-type="ref">2004</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0043" ref-type="ref">2012b</xref>). However, the relationship between GRAS proteins and heading date is less reported. Here, we describe a GRAS family protein encoded by <italic>DHD1</italic> in rice. Overexpression of <italic>DHD1</italic> in Kitaake, a short&#x02010;season variety, delayed heading date and caused increases in a number of agronomic traits such as panicle length, primary branch number, secondary branch number and grain number per panicle, without a change number of tillers per plant. Thus, we speculated <italic>DHD1</italic> could be utilized to improve agronomic traits including yield in rice breeding.</p></sec></sec><sec id="pbi12996-sec-0013"><title>Experimental procedures</title><sec id="pbi12996-sec-0014"><title>Plant materials and growth conditions</title><p>The genotypes used for transformation were ssp. <italic>japonica</italic> varieties Kitaake and Nipponbare. All plants were grown in paddy fields at Beijing (116&#x000b0;13&#x02032;E, 39&#x000b0;54&#x02032;N) during summer, representing natural long day conditions. Plants were also grown in climate chambers with controlled LD (10&#x000a0;h darkness, 25&#x000a0;&#x000b0;C/14&#x000a0;h light, 30&#x000a0;&#x000b0;C) and SD (14&#x000a0;h darkness, 25&#x000a0;&#x000b0;C/10&#x000a0;h light, 30&#x000a0;&#x000b0;C) conditions with about 800&#x000a0;&#x003bc;mol/m<sup>2</sup>/s light intensity and 70% relative humidity.</p></sec><sec id="pbi12996-sec-0015"><title>Vector construction and rice transformation</title><p>To generate <italic>DHD1</italic>,<italic> DHD1L</italic>,<italic> OsHAP5C</italic> and <italic>OsHAP5D</italic> overexpressing plants, full&#x02010;length CDSs of <italic>DHD1</italic>,<italic> DHD1L</italic>,<italic> OsHAP5C</italic> and <italic>OsHAP5D</italic> were amplified, and PCR products were subcloned into binary vector <italic>pCAMBIA1390</italic> using an In&#x02010;Fusion Advantage PCR Cloning Kit (Clontech, Beijing, China). To knockdown the <italic>DHD1</italic> gene, construct <italic>pCUbi1390&#x02010;&#x00394;FAD2</italic> (<italic>Ubi</italic> promoter and a <italic>FAD2</italic> intron inserted into <italic>pCAMBIA1390</italic>) was used as an RNAi vector (Tan <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0045" ref-type="ref">2014</xref>). Both antisense and sense versions of a specific 172&#x000a0;bp fragment from the coding region were amplified (primer pairs DHD1&#x02010;RNAi&#x02010;1 and DHD1&#x02010;RNAi&#x02010;2; Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>), and inserted into <italic>pCUbi1390&#x02010;&#x00394;FAD2</italic> to form the RNAi construct <italic>pUbi&#x02010;dsRNAi&#x02010;DHD1</italic>. To knockout the <italic>DHD1</italic> gene, 20&#x000a0;bp gene&#x02010;specific spacer sequence of the target gene (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>) was cloned into the entry vector <italic>pOs&#x02010;sgRNA</italic> and then subcloned into the destination vector containing the CAS9 expression cassette using the Gateway LR Clonase II Enzyme mix [Invitrogen, Shanghai, China; (Miao <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0033" ref-type="ref">2013</xref>)]. To develop <italic>dhd1 dhd1&#x000a0;l</italic> double mutant, we constructed a <italic>CRISPR&#x02010;Cas9</italic> vector containing guide RNAs targeting <italic>DHD1</italic> and <italic>DHD1L</italic> respectively. Mutants of <italic>hap5c</italic>/<italic>d</italic> were created in the same way. The resulting plasmids were transformed into <italic>Agrobacterium tumefaciens</italic> strain EHA105 and then introduced into rice variety Kitaake or Nipponbare as described previously (Hiei <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0014" ref-type="ref">1994</xref>). Primer sequences for construction of these vectors are listed in Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>.</p><p>Total RNA was isolated from frozen tissues using a ZR Plant RNA MiniPrep Kit (ZYMO Research, Beijing, China) and reverse transcribed using a QuantiTect reverse transcription kit (Qiagen, Shanghai, China) according to the manufacturer's protocol. qRT&#x02010;PCR was performed with a SYBR premix Ex Taq Kit (TaKaRa, Dalian, China) according to the operation manual and amplified in an ABI 7500 using primers listed in Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>. Data from three biological replicates were analyzed following the relative quantification method (Livak and Schmittgen, <xref rid="pbi12996-bib-0029" ref-type="ref">2001</xref>). Primer sequences for qRT&#x02010;PCR are listed in Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="pbi12996-sec-0016"><title>Phenotype measurement of agronomic traits</title><p>Various agronomic traits, including days to heading, plant height, tillers number, panicle length, primary branches number, secondary branches number, grain number per panicle and thousand grains weight (1000&#x02010;grain weight), were manually measured. Days to heading were counted from seed sowing to first panicle heading about 1&#x02013;2&#x000a0;cm of each plant. The reproductive tillers having panicles with filled grains were counted for tillers number. Thousand grain weight was determined by measuring the weight of harvested seeds that were air&#x02010;dried in a glasshouse and oven&#x02010;dried at 50&#x000a0;&#x000b0;C until they reached ~14.0% moisture content. Panicle&#x02010;related traits containing panicle length, primary branches number, secondary branches number and grain number per panicle were measured from main tillers of 15 plants in WT and transgenic lines respectively (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0021" ref-type="ref">2018</xref>). All data are analyzed by the <italic>LSD</italic>&#x02010;test.</p></sec><sec id="pbi12996-sec-0017"><title>Subcellular localization</title><p>The full length cDNAs of <italic>DHD1</italic>,<italic> OsHAP5C</italic> and <italic>OsHAP5D</italic> were fused at the C&#x02010;terminal with GFP in the <italic>pAN580</italic> vector, and then transiently expressed the resulting construct in rice leaf protoplasts to explore the subcellular localization (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>). The method for rice leaf protoplast transformation is available in a previous report (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0060" ref-type="ref">2011</xref>). Fluorescence signals were detected by a ZESS LSM880 confocal microscope.</p></sec><sec id="pbi12996-sec-0018"><title>Yeast two&#x02010;hybrid assay</title><p>The full length <italic>DHD1</italic> cDNA was amplified, inserted into the <italic>pGBKT7</italic> vector (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>), and then transformed into the yeast strain AH109. BD&#x02010;DHD1 was used for yeast two&#x02010;hybrid library screening experiment (Yeastmaker&#x02122; Yeast Transformation Manual User, Clontech). The complete coding sequences of the <italic>OsHAP5C</italic> and <italic>OsHAP5D</italic> genes were inserted into the <italic>pGADT7</italic> vector and co&#x02010;transformed into yeast with <italic>pGBKT7&#x02010;DHD1</italic> as described above (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="pbi12996-sec-0019"><title>
+<italic>In vitro</italic> pull&#x02010;down assay</title><p>The coding region of <italic>DHD1</italic> was inserted into the prokaryotic expression vector <italic>pGEX4T&#x02010;1</italic> for fusing the GST&#x02010;tag. The CDSs of <italic>OsHAP5C</italic> and <italic>OsHAP5D</italic> were inserted into <italic>pMAL&#x02010;c2X</italic> for fusing the MBP&#x02010;tag (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>). The vectors were transformed into the expression strain <italic>Escherichia coli</italic> BL21. Fusion proteins GST&#x02010;DHD1 and MBP&#x02010;OsHAP5C/D were induced with 0.5&#x000a0;m<sc>m</sc> IPTG at 16&#x000a0;&#x000b0;C for 12&#x000a0;h. Pull&#x02010;down assays were performed as previously reported (Miernyk and Thelen, <xref rid="pbi12996-bib-0034" ref-type="ref">2008</xref>). MBP and GST antibodies with horseradish peroxidase (MBL) were used in western blotting experiments.</p></sec><sec id="pbi12996-sec-0020"><title>Bimolecular fluorescence complementation (BiFC) analysis</title><p>The coding region of <italic>DHD1</italic> was inserted into the <italic>pSPYNE173</italic> vector and <italic>OsHAP5C</italic>/<italic>D</italic> were inserted into the <italic>pSPYCE</italic> (<italic>M</italic>) (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>). Fusion proteins DHD1&#x02010;YNE and OsHAP5C/D&#x02010;YCE were transiently expressed in 5&#x02010;6&#x02010;week&#x02010;old <italic>Nicotiana benthamiana</italic> leaves. The method for infiltrating <italic>N</italic>.&#x000a0;<italic>benthamiana</italic> leaves with <italic>Agrobacterium</italic> strain EHA105 followed a previous report (Waadt and Kudla, <xref rid="pbi12996-bib-0050" ref-type="ref">2008</xref>). Fluorescence signals were detected by a ZESS LSM880 confocal microscope 48&#x02013;72&#x000a0;h after infiltration.</p></sec><sec id="pbi12996-sec-0021"><title>
+<italic>In vivo</italic> co&#x02010;immunoprecipitation (Co&#x02010;IP) assay</title><p>The CDS of <italic>DHD1</italic> with a 3&#x000a0;&#x000d7;&#x000a0;Flag&#x02010;tag was inserted into the <italic>pAN580</italic> vector. <italic>OsHAP5C</italic>/<italic>D</italic> were also inserted into <italic>pAN580</italic> vector for fusing GFP at the C&#x02010;terminal (Table&#x000a0;<xref rid="pbi12996-sup-0002" ref-type="supplementary-material">S1</xref>). The vectors were co&#x02010;transformed into rice protoplasts as described above. The Co&#x02010;IP assay was performed as previously reported (Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12996-bib-0059" ref-type="ref">2014</xref>). Western blotting was detected by the Flag and GFP antibodies with horseradish peroxidase (MBL).</p></sec><sec id="pbi12996-sec-0022"><title>Hormone treatment experiment</title><p>The <italic>pAN580&#x02010;DHD1&#x02010;Flag</italic> vector was transformed into rice protoplast as described above. The protoplasts were divided into four groups, three of which were separately treated with 10&#x000a0;&#x003bc;<sc>m</sc> GA, ABA and BR. Protein was extracted from each group after 4&#x000a0;h and subjected to western blotting.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12996-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> VP64&#x02010;DHD1 overexpression plants flowered later than the wild type Kitaake.</p><p>
+<bold>Figure&#x000a0;S2</bold> Heading date of <italic>dhd1</italic> mutant in Kitaake background under NLD, LD and SD conditions.</p><p>
+<bold>Figure&#x000a0;S3</bold> Phylogenetic tree and protein sequence alignment of DHD1 and DHD1L</p><p>
+<bold>Figure&#x000a0;S4</bold>
+<italic>DHD1L</italic> overexpression plants flowered later than the wild type Kitaake.</p><p>
+<bold>Figure&#x000a0;S5</bold> Phenotypes of wild type Nipponbare, <italic>DHD1&#x02010;RNAi</italic>,<italic> dhd1</italic> and <italic>dhd1 dhd1&#x000a0;l</italic> plants grown in the field under NLD.</p><p>
+<bold>Figure&#x000a0;S6</bold> Rhythmic expression pattern of <italic>OsHAP5C</italic>/<italic>D</italic> and subcellular localization of proteins.</p><p>
+<bold>Figure&#x000a0;S7</bold> Relative expression levels of heading date&#x02010;related genes in wild type Kitaake and OE19 overexpression lines.</p><p>
+<bold>Figure&#x000a0;S8</bold> Relative expression levels of heading date&#x02010;related genes in wild type Kitaake and OE19 overexpression lines.</p><p>
+<bold>Figure&#x000a0;S9</bold> The relative expression levels of <italic>DHD1</italic> in heading date&#x02010;related mutants or near&#x02010;isogenic lines.</p><p>
+<bold>Figure&#x000a0;S10</bold> The relative expression levels of <italic>DHD1</italic> in the heading date&#x02010;related mutants or near&#x02010;isogenic lines.</p><p>
+<bold>Figure&#x000a0;S11</bold> Accumulation of DHD1&#x02010;Flag protein in rice protoplasts subjected to ABA, GA and BR hormone treatments.</p><p>
+<bold>Figure&#x000a0;S12</bold> Flowering time of NIP, <italic>dhd1</italic> and <italic>dhd1 dhd1&#x000a0;l</italic> under normal, salt and drought conditions in SD climate chamber.</p><p>
+<bold>Figure&#x000a0;S13</bold> Heading date of <italic>hap5c</italic>,<italic> hap5d</italic> and <italic>hap5c hap5d</italic> grown in the field under NLD condition.</p></caption><media xlink:href="PBI-17-531-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12996-sup-0002"><caption><p>
+<bold>Table&#x000a0;S1</bold> Primers used in the current work.</p></caption><media xlink:href="PBI-17-531-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12996-sec-0023"><title>Acknowledgements</title><p>This work was supported by the National Natural Science Foundation (31771764), the National Key R&#x00026;D Program of China (2016YFD0100600 and 2017YFD0100501) and the National Transgenic Major Program (2016ZX08009&#x02010;003). This research was also supported by the Key Laboratory of Biology, Genetics and Breeding of Japonica Rice in Mid&#x02010;lower Yangtze River, Ministry of Agriculture, P. R. China, and Jiangsu Collaborative Innovation Center for Modern Crop Production. All authors have approved this manuscript and declare no conflict of interests.</p></ack><ref-list content-type="cited-references" id="pbi12996-bibl-0001"><title>References</title><ref id="pbi12996-bib-0001"><mixed-citation publication-type="journal" id="pbi12996-cit-0001">
+<string-name>
+<surname>Achard</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>De Grauwe</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Decat</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schoutteten</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Moritz</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Van Der Straeten</surname>, <given-names>D.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>Integration of plant responses to environmentally activated phytohormonal signals</article-title>. <source xml:lang="en">Science</source>, <volume>311</volume>, <fpage>91</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">16400150</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0002"><mixed-citation publication-type="journal" id="pbi12996-cit-0002">
+<string-name>
+<surname>Bolle</surname>, <given-names>C.</given-names>
+</string-name> (<year>2004</year>) <article-title>The role of GRAS proteins in plant signal transduction and development</article-title>. <source xml:lang="en">Planta</source>, <volume>218</volume>, <fpage>683</fpage>&#x02013;<lpage>692</lpage>.<pub-id pub-id-type="pmid">14760535</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0003"><mixed-citation publication-type="journal" id="pbi12996-cit-0003">
+<string-name>
+<surname>Cao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kumimoto</surname>, <given-names>R.W.</given-names>
+</string-name>, <string-name>
+<surname>Gnesutta</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Calogero</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Mantovani</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Holt</surname>, <given-names>B.F.</given-names>
+<suffix>III</suffix>
+</string-name> (<year>2014</year>) <article-title>A distal CCAAT/NUCLEAR FACTOR Y complex promotes chromatin looping at the FLOWERING LOCUS T promoter and regulates the timing of flowering in Arabidopsis</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>26</volume>, <fpage>1009</fpage>&#x02013;<lpage>1017</lpage>.<pub-id pub-id-type="pmid">24610724</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0004"><mixed-citation publication-type="journal" id="pbi12996-cit-0004">
+<string-name>
+<surname>Chardon</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Damerval</surname>, <given-names>C.</given-names>
+</string-name> (<year>2005</year>) <article-title>Phylogenomic analysis of the PEBP gene family in cereals</article-title>. <source xml:lang="en">J. Mol. Evol.</source>
+<volume>61</volume>, <fpage>579</fpage>&#x02013;<lpage>590</lpage>.<pub-id pub-id-type="pmid">16170456</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0005"><mixed-citation publication-type="journal" id="pbi12996-cit-0005">
+<string-name>
+<surname>Cho</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>) <article-title>The control of flowering time by environmental factors</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>90</volume>, <fpage>708</fpage>&#x02013;<lpage>719</lpage>.<pub-id pub-id-type="pmid">27995671</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0006"><mixed-citation publication-type="journal" id="pbi12996-cit-0006">
+<string-name>
+<surname>Cui</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Levesque</surname>, <given-names>M.P.</given-names>
+</string-name>, <string-name>
+<surname>Vernoux</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Paquette</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>An evolutionarily conserved mechanism delimiting SHR movement defines a single layer of endodermis in plants</article-title>. <source xml:lang="en">Science</source>, <volume>316</volume>, <fpage>421</fpage>&#x02013;<lpage>425</lpage>.<pub-id pub-id-type="pmid">17446396</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0007"><mixed-citation publication-type="journal" id="pbi12996-cit-0007">
+<string-name>
+<surname>Dai</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Xue</surname>, <given-names>H.W.</given-names>
+</string-name> (<year>2010</year>) <article-title>Rice early flowering1, a CKI, phosphorylates DELLA protein SLR1 to negatively regulate gibberellin signalling</article-title>. <source xml:lang="en">EMBO J.</source>
+<volume>29</volume>, <fpage>1916</fpage>&#x02013;<lpage>1927</lpage>.<pub-id pub-id-type="pmid">20400938</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0008"><mixed-citation publication-type="journal" id="pbi12996-cit-0008">
+<string-name>
+<surname>Day</surname>, <given-names>R.B.</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Koshioka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mitsui</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Itoh</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ueguchi&#x02010;Tanaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Matsuoka</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2004</year>) <article-title>Two rice GRAS family genes responsive to N &#x02010;acetylchitooligosaccharide elicitor are induced by phytoactive gibberellins: evidence for cross&#x02010;talk between elicitor and gibberellin signaling in rice cells</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>54</volume>, <fpage>261</fpage>&#x02013;<lpage>272</lpage>.<pub-id pub-id-type="pmid">15159627</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0009"><mixed-citation publication-type="journal" id="pbi12996-cit-0009">
+<string-name>
+<surname>Doi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Izawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Fuse</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Kubo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shimatani</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2004</year>) <article-title>Ehd1, a B&#x02010;type response regulator in rice, confers short&#x02010;day promotion of flowering and controls FT&#x02010;like gene expression independently of Hd1</article-title>. <source xml:lang="en">Genes Dev.</source>
+<volume>18</volume>, <fpage>926</fpage>&#x02013;<lpage>936</lpage>.<pub-id pub-id-type="pmid">15078816</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0010"><mixed-citation publication-type="journal" id="pbi12996-cit-0010">
+<string-name>
+<surname>Gao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X.M.</given-names>
+</string-name>, <string-name>
+<surname>Fei</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>W.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Ehd4 encodes a novel and Oryza&#x02010;genus&#x02010;specific regulator of photoperiodic flowering in rice</article-title>. <source xml:lang="en">PLoS Genet.</source>
+<volume>9</volume>, <fpage>e1003281</fpage>.<pub-id pub-id-type="pmid">23437005</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0011"><mixed-citation publication-type="journal" id="pbi12996-cit-0011">
+<string-name>
+<surname>Gao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X.M.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Days to heading 7, a major quantitative locus determining photoperiod sensitivity and regional adaptation in rice</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>111</volume>, <fpage>16337</fpage>&#x02013;<lpage>16342</lpage>.<pub-id pub-id-type="pmid">25378698</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0012"><mixed-citation publication-type="journal" id="pbi12996-cit-0012">
+<string-name>
+<surname>Gnesutta</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kumimoto</surname>, <given-names>R.W.</given-names>
+</string-name>, <string-name>
+<surname>Swain</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chiara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Siriwardana</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Horner</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Holt</surname>, <given-names>B.F.I.I.I.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>CONSTANS imparts DNA sequence specificity to the histone fold NF&#x02010;YB/NF&#x02010;YC dimer</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>29</volume>, <fpage>1516</fpage>&#x02013;<lpage>1532</lpage>.<pub-id pub-id-type="pmid">28526714</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0013"><mixed-citation publication-type="journal" id="pbi12996-cit-0013">
+<string-name>
+<surname>Guo</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hussain</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>The remodeling of seedling development in response to long&#x02010;term magnesium toxicity and regulation by ABA&#x02010;DELLA signaling in Arabidopsis</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>55</volume>, <fpage>1713</fpage>&#x02013;<lpage>1726</lpage>.<pub-id pub-id-type="pmid">25074907</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0014"><mixed-citation publication-type="journal" id="pbi12996-cit-0014">
+<string-name>
+<surname>Hiei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ohta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Komari</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Kumashiro</surname>, <given-names>T.</given-names>
+</string-name> (<year>1994</year>) <article-title>Efficient transformation of rice (<italic>Oryza sativa</italic> L.) mediated by Agrobacterium and sequence analysis of the boundaries of the T&#x02010;DNA</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>6</volume>, <fpage>271</fpage>&#x02013;<lpage>282</lpage>.<pub-id pub-id-type="pmid">7920717</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0015"><mixed-citation publication-type="journal" id="pbi12996-cit-0015">
+<string-name>
+<surname>Hori</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ogiso&#x02010;Tanaka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Matsubara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Ebana</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day&#x02010;length response</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>76</volume>, <fpage>36</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">23789941</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0016"><mixed-citation publication-type="journal" id="pbi12996-cit-0016">
+<string-name>
+<surname>Hou</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Yu</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Nuclear factor Y&#x02010;mediated H3K27me3 demethylation of the SOC1 locus orchestrates flowering responses of Arabidopsis</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>5</volume>, <fpage>4601</fpage>.<pub-id pub-id-type="pmid">25105952</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0017"><mixed-citation publication-type="journal" id="pbi12996-cit-0017">
+<string-name>
+<surname>Ikeda</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ueguchi&#x02010;Tanaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sonoda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kitano</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Koshioka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Futsuhara</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Matsuoka</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2001</year>) <article-title>Slender rice, a constitutive gibberellin response mutant, is caused by a null mutation of the SLR1 gene, an ortholog of the height&#x02010;regulating gene GAI/RGA/RHT/D8</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>13</volume>, <fpage>999</fpage>&#x02013;<lpage>1010</lpage>.<pub-id pub-id-type="pmid">11340177</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0018"><mixed-citation publication-type="journal" id="pbi12996-cit-0018">
+<string-name>
+<surname>Jung</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Muller</surname>, <given-names>A.E.</given-names>
+</string-name> (<year>2009</year>) <article-title>Flowering time control and applications in plant breeding</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>14</volume>, <fpage>563</fpage>&#x02013;<lpage>573</lpage>.<pub-id pub-id-type="pmid">19716745</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0019"><mixed-citation publication-type="journal" id="pbi12996-cit-0019">
+<string-name>
+<surname>Kim</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>, <given-names>H.G.</given-names>
+</string-name> and <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name> (<year>2007</year>) <article-title>OsMADS51 is a short&#x02010;day flowering promoter that functions upstream of Ehd1, OsMADS14, and Hd3a</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>145</volume>, <fpage>1484</fpage>&#x02013;<lpage>1494</lpage>.<pub-id pub-id-type="pmid">17951465</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0020"><mixed-citation publication-type="journal" id="pbi12996-cit-0020">
+<string-name>
+<surname>Kim</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Yun</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>H.Y.</given-names>
+</string-name> and <string-name>
+<surname>Kim</surname>, <given-names>J.K.</given-names>
+</string-name> (<year>2008</year>) <article-title>OsCO3, a CONSTANS&#x02010;LIKE gene, controls flowering by negatively regulating the expression of FT&#x02010;like genes under SD conditions in rice</article-title>. <source xml:lang="en">Planta</source>, <volume>228</volume>, <fpage>355</fpage>&#x02013;<lpage>365</lpage>.<pub-id pub-id-type="pmid">18449564</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0021"><mixed-citation publication-type="journal" id="pbi12996-cit-0021">
+<string-name>
+<surname>Kim</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Hizon</surname>, <given-names>R.J.M.</given-names>
+</string-name>, <string-name>
+<surname>Ashikari</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Virk</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Nissila</surname>, <given-names>E.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Introgression of a functional epigenetic OsSPL14(WFP) allele into elite indica rice genomes greatly improved panicle traits and grain yield</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>8</volume>, <fpage>3833</fpage>.<pub-id pub-id-type="pmid">29497052</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0022"><mixed-citation publication-type="journal" id="pbi12996-cit-0022">
+<string-name>
+<surname>Komiya</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ikegami</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tamaki</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Shimamoto</surname>, <given-names>K.</given-names>
+</string-name> (<year>2008</year>) <article-title>Hd3a and RFT1 are essential for flowering in rice</article-title>. <source xml:lang="en">Development</source>, <volume>135</volume>, <fpage>767</fpage>&#x02013;<lpage>774</lpage>.<pub-id pub-id-type="pmid">18223202</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0023"><mixed-citation publication-type="journal" id="pbi12996-cit-0023">
+<string-name>
+<surname>Komiya</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Shimamoto</surname>, <given-names>K.</given-names>
+</string-name> (<year>2009</year>) <article-title>A gene network for long&#x02010;day flowering activates RFT1 encoding a mobile flowering signal in rice</article-title>. <source xml:lang="en">Development</source>, <volume>136</volume>, <fpage>3443</fpage>&#x02013;<lpage>3450</lpage>.<pub-id pub-id-type="pmid">19762423</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0024"><mixed-citation publication-type="journal" id="pbi12996-cit-0024">
+<string-name>
+<surname>Lee</surname>, <given-names>Y.S.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>D.Y.</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>H.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>OsCOL4 is a constitutive flowering repressor upstream of Ehd1 and downstream of OsphyB</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>63</volume>, <fpage>18</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">20409004</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0025"><mixed-citation publication-type="journal" id="pbi12996-cit-0025">
+<string-name>
+<surname>Lee</surname>, <given-names>Y.S.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>D.Y.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>L.H.</given-names>
+</string-name> and <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Rice miR172 induces flowering by suppressing OsIDS1 and SNB, two AP2 genes that negatively regulate expression of Ehd1 and florigens</article-title>. <source xml:lang="en">Rice</source>, <volume>7</volume>, <fpage>31</fpage>.<pub-id pub-id-type="pmid">26224560</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0026"><mixed-citation publication-type="journal" id="pbi12996-cit-0026">
+<string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>Control of tillering in rice</article-title>. <source xml:lang="en">Nature</source>, <volume>422</volume>, <fpage>618</fpage>&#x02013;<lpage>621</lpage>.<pub-id pub-id-type="pmid">12687001</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0027"><mixed-citation publication-type="journal" id="pbi12996-cit-0027">
+<string-name>
+<surname>Li</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name> (<year>2007</year>) <article-title>GA signaling and CO/FT regulatory module mediate salt&#x02010;induced late flowering in Arabidopsis thaliana</article-title>. <source xml:lang="en">Plant Growth Regul.</source>
+<volume>53</volume>, <fpage>195</fpage>&#x02013;<lpage>206</lpage>.</mixed-citation></ref><ref id="pbi12996-bib-0028"><mixed-citation publication-type="journal" id="pbi12996-cit-0028">
+<string-name>
+<surname>Li</surname>, <given-names>Q.P.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>W.H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.X.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Z.M.</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>G.W.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Duplication of OsHAP family genes and their association with heading date in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>67</volume>, <fpage>1759</fpage>&#x02013;<lpage>1768</lpage>.<pub-id pub-id-type="pmid">26798026</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0029"><mixed-citation publication-type="journal" id="pbi12996-cit-0029">
+<string-name>
+<surname>Livak</surname>, <given-names>K.J.</given-names>
+</string-name> and <string-name>
+<surname>Schmittgen</surname>, <given-names>T.D.</given-names>
+</string-name> (<year>2001</year>) <article-title>Analysis of relative gene expression data using real&#x02010;time quantitative PCR and the 2(T)(&#x02010;Delta Delta C) method</article-title>. <source xml:lang="en">Methods</source>, <volume>25</volume>, <fpage>402</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0030"><mixed-citation publication-type="journal" id="pbi12996-cit-0030">
+<string-name>
+<surname>Mantovani</surname>, <given-names>R.</given-names>
+</string-name> (<year>1999</year>) <article-title>The molecular biology of the CCAAT&#x02010;binding factor NF&#x02010;Y</article-title>. <source xml:lang="en">Gene</source>, <volume>239</volume>, <fpage>15</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">10571030</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0031"><mixed-citation publication-type="journal" id="pbi12996-cit-0031">
+<string-name>
+<surname>Matsubara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.X.</given-names>
+</string-name>, <string-name>
+<surname>Minobe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Izawa</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Ehd2, a rice ortholog of the maize INDETERMINATE1 gene, promotes flowering by up&#x02010;regulating Ehd1</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>148</volume>, <fpage>1425</fpage>&#x02013;<lpage>1435</lpage>.<pub-id pub-id-type="pmid">18790997</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0032"><mixed-citation publication-type="journal" id="pbi12996-cit-0032">
+<string-name>
+<surname>Matsubara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Nonoue</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sugimoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.X.</given-names>
+</string-name>, <string-name>
+<surname>Minobe</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Ehd3, encoding a plant homeodomain finger&#x02010;containing protein, is a critical promoter of rice flowering</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>66</volume>, <fpage>603</fpage>&#x02013;<lpage>612</lpage>.<pub-id pub-id-type="pmid">21284756</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0033"><mixed-citation publication-type="journal" id="pbi12996-cit-0033">
+<string-name>
+<surname>Miao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.Z.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Q.P.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>J.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Targeted mutagenesis in rice using CRISPR&#x02010;Cas system</article-title>. <source xml:lang="en">Cell Res.</source>
+<volume>23</volume>, <fpage>1233</fpage>&#x02013;<lpage>1236</lpage>.<pub-id pub-id-type="pmid">23999856</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0034"><mixed-citation publication-type="journal" id="pbi12996-cit-0034">
+<string-name>
+<surname>Miernyk</surname>, <given-names>J.A.</given-names>
+</string-name> and <string-name>
+<surname>Thelen</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Biochemical approaches for discovering protein&#x02010;protein interactions</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>53</volume>, <fpage>597</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">18269571</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0035"><mixed-citation publication-type="journal" id="pbi12996-cit-0035">
+<string-name>
+<surname>Nemoto</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Nonoue</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Izawa</surname>, <given-names>T.</given-names>
+</string-name> (<year>2016</year>) <article-title>Hd1, a CONSTANS ortholog in rice, functions as an Ehd1 repressor through interaction with monocot&#x02010;specific CCT&#x02010;domain protein Ghd7</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>86</volume>, <fpage>221</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">26991872</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0036"><mixed-citation publication-type="journal" id="pbi12996-cit-0036">
+<string-name>
+<surname>Park</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Je</surname>, <given-names>B.I.</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>, <given-names>H.L.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>C.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Rice Indeterminate 1 (OsId1) is necessary for the expression of Ehd1 (Early heading date 1) regardless of photoperiod</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>56</volume>, <fpage>1018</fpage>&#x02013;<lpage>1029</lpage>.<pub-id pub-id-type="pmid">18774969</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0037"><mixed-citation publication-type="journal" id="pbi12996-cit-0037">
+<string-name>
+<surname>Peng</surname>, <given-names>L.T.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>Z.Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>G.Z.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Ectopic expression of OsLFL1 in rice represses Ehd1 by binding on its promoter</article-title>. <source xml:lang="en">Biochem. Biophys. Res. Commun.</source>
+<volume>360</volume>, <fpage>251</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">17592727</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0038"><mixed-citation publication-type="journal" id="pbi12996-cit-0038">
+<string-name>
+<surname>Rao</surname>, <given-names>N.N.</given-names>
+</string-name>, <string-name>
+<surname>Prasad</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>P.R.</given-names>
+</string-name> and <string-name>
+<surname>Vijayraghavan</surname>, <given-names>U.</given-names>
+</string-name> (<year>2008</year>) <article-title>Distinct regulatory role for RFL, the rice LFY homolog, in determining flowering time and plant architecture</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>105</volume>, <fpage>3646</fpage>&#x02013;<lpage>3651</lpage>.<pub-id pub-id-type="pmid">18305171</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0039"><mixed-citation publication-type="journal" id="pbi12996-cit-0039">
+<string-name>
+<surname>Ryu</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>Y.S.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>H.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>OsMADS50 and OsMADS56 function antagonistically in regulating long day (LD)&#x02010;dependent flowering in rice</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>32</volume>, <fpage>1412</fpage>&#x02013;<lpage>1427</lpage>.<pub-id pub-id-type="pmid">19558411</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0040"><mixed-citation publication-type="journal" id="pbi12996-cit-0040">
+<string-name>
+<surname>Sheng</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>A CONSTANS&#x02010;like transcriptional activator, OsCOL13, functions as a negative regulator of flowering downstream of OsphyB and upstream of Ehd1 in rice</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>92</volume>, <fpage>209</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">27405463</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0041"><mixed-citation publication-type="journal" id="pbi12996-cit-0041">
+<string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>W.T.</given-names>
+</string-name>, <string-name>
+<surname>Rikkerink</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dunker</surname>, <given-names>A.K.</given-names>
+</string-name> and <string-name>
+<surname>Uversky</surname>, <given-names>V.N.</given-names>
+</string-name> (<year>2011</year>) <article-title>A functionally required unfoldome from the plant kingdom: intrinsically disordered N&#x02010;terminal domains of GRAS proteins are involved in molecular recognition during plant development</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>77</volume>, <fpage>205</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">21732203</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0042"><mixed-citation publication-type="journal" id="pbi12996-cit-0042">
+<string-name>
+<surname>Sun</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012a</year>) <article-title>The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>24</volume>, <fpage>3235</fpage>&#x02013;<lpage>3247</lpage>.<pub-id pub-id-type="pmid">22892321</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0043"><mixed-citation publication-type="journal" id="pbi12996-cit-0043">
+<string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>W.T.</given-names>
+</string-name> and <string-name>
+<surname>Rikkerink</surname>, <given-names>E.H.</given-names>
+</string-name> (<year>2012b</year>) <article-title>GRAS proteins: the versatile roles of intrinsically disordered proteins in plant signalling</article-title>. <source xml:lang="en">Biochem J.</source>
+<volume>442</volume>, <fpage>1</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">22280012</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0044"><mixed-citation publication-type="journal" id="pbi12996-cit-0044">
+<string-name>
+<surname>Sun</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>X.</given-names>
+</string-name> and <string-name>
+<surname>Chu</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Understanding the genetic and epigenetic architecture in complex network of rice flowering pathways</article-title>. <source xml:lang="en">Protein Cell</source>, <volume>5</volume>, <fpage>889</fpage>&#x02013;<lpage>898</lpage>.<pub-id pub-id-type="pmid">25103896</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0045"><mixed-citation publication-type="journal" id="pbi12996-cit-0045">
+<string-name>
+<surname>Tan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Heng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>A novel chloroplast&#x02010;localized pentatricopeptide repeat protein involved in splicing affects chloroplast development and abiotic stress response in rice</article-title>. <source xml:lang="en">Mol. Plant</source>, <volume>7</volume>, <fpage>1329</fpage>&#x02013;<lpage>1349</lpage>.<pub-id pub-id-type="pmid">24821718</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0046"><mixed-citation publication-type="journal" id="pbi12996-cit-0046">
+<string-name>
+<surname>Tan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>OsCOL10, a CONSTANS&#x02010;like gene, functions as a flowering time repressor downstream of Ghd7 in rice</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>57</volume>, <fpage>798</fpage>&#x02013;<lpage>812</lpage>.<pub-id pub-id-type="pmid">26872834</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0047"><mixed-citation publication-type="journal" id="pbi12996-cit-0047">
+<string-name>
+<surname>Tong</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>DWARF AND LOW&#x02010;TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>58</volume>, <fpage>803</fpage>&#x02013;<lpage>816</lpage>.<pub-id pub-id-type="pmid">19220793</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0048"><mixed-citation publication-type="journal" id="pbi12996-cit-0048">
+<string-name>
+<surname>Tsuji</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Taoka</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Shimamoto</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>) <article-title>Regulation of flowering in rice: two florigen genes, a complex gene network, and natural variation</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>14</volume>, <fpage>45</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">20864385</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0049"><mixed-citation publication-type="journal" id="pbi12996-cit-0049">
+<string-name>
+<surname>Tsuji</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Taoka</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Shimamoto</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>) <article-title>Florigen in rice: complex gene network for florigen transcription, florigen activation complex, and multiple functions</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>16</volume>, <fpage>228</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">23453779</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0050"><mixed-citation publication-type="journal" id="pbi12996-cit-0050">
+<string-name>
+<surname>Waadt</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Kudla</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>In planta visualization of protein interactions using bimolecular fluorescence complementation (BiFC)</article-title>. <source xml:lang="en">CSH Protoc.</source>
+<volume>2008</volume>, <pub-id pub-id-type="doi">10.1101/pdb.prot4995</pub-id>
+</mixed-citation></ref><ref id="pbi12996-bib-0051"><mixed-citation publication-type="journal" id="pbi12996-cit-0051">
+<string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>Q.</given-names>
+</string-name> and <string-name>
+<surname>Xue</surname>, <given-names>H.W.</given-names>
+</string-name> (<year>2013</year>) <article-title>LC2 and OsVIL2 promote rice flowering by photoperoid&#x02010;induced epigenetic silencing of OsLF</article-title>. <source xml:lang="en">Mol. Plant</source>, <volume>6</volume>, <fpage>514</fpage>&#x02013;<lpage>527</lpage>.<pub-id pub-id-type="pmid">22973062</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0052"><mixed-citation publication-type="journal" id="pbi12996-cit-0052">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Yu</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>) <article-title>The DELLA&#x02010;CONSTANS transcription factor cascade integrates gibberellic acid and photoperiod signaling to regulate flowering</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>172</volume>, <fpage>479</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">27406167</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0053"><mixed-citation publication-type="journal" id="pbi12996-cit-0053">
+<string-name>
+<surname>Wei</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>DTH8 suppresses flowering in rice, influencing plant height and yield potential simultaneously</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>153</volume>, <fpage>1747</fpage>&#x02013;<lpage>1758</lpage>.<pub-id pub-id-type="pmid">20566706</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0054"><mixed-citation publication-type="journal" id="pbi12996-cit-0054">
+<string-name>
+<surname>Willige</surname>, <given-names>B.C.</given-names>
+</string-name>, <string-name>
+<surname>Ghosh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zourelidou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dohmann</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Maier</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Schwechheimer</surname>, <given-names>C.</given-names>
+</string-name> (<year>2007</year>) <article-title>The DELLA domain of GA INSENSITIVE mediates the interaction with the GA INSENSITIVE DWARF1A gibberellin receptor of Arabidopsis</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>19</volume>, <fpage>1209</fpage>&#x02013;<lpage>1220</lpage>.<pub-id pub-id-type="pmid">17416730</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0055"><mixed-citation publication-type="journal" id="pbi12996-cit-0055">
+<string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>You</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>M.E.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2008</year>) <article-title>RID1, encoding a Cys2/His2&#x02010;type zinc finger transcription factor, acts as a master switch from vegetative to floral development in rice</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>105</volume>, <fpage>12915</fpage>&#x02013;<lpage>12920</lpage>.<pub-id pub-id-type="pmid">18725639</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0056"><mixed-citation publication-type="journal" id="pbi12996-cit-0056">
+<string-name>
+<surname>Wu</surname>, <given-names>W.X.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X.M.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>, <given-names>Z.Z.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>L.P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>C.Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Association of functional nucleotide polymorphisms at DTH2 with the northward expansion of rice cultivation in Asia</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>110</volume>, <fpage>2775</fpage>&#x02013;<lpage>2780</lpage>.<pub-id pub-id-type="pmid">23388640</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0057"><mixed-citation publication-type="journal" id="pbi12996-cit-0057">
+<string-name>
+<surname>Xu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>OsGRAS23, a rice GRAS transcription factor gene, is involved in drought stress response through regulating expression of stress&#x02010;responsive genes</article-title>. <source xml:lang="en">BMC Plant Biol.</source>
+<volume>15</volume>, <fpage>141</fpage>.<pub-id pub-id-type="pmid">26067440</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0058"><mixed-citation publication-type="journal" id="pbi12996-cit-0058">
+<string-name>
+<surname>Xue</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Weng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Natural variation in Ghd7 is an important regulator of heading date and yield potential in rice</article-title>. <source xml:lang="en">Nat. Genet.</source>
+<volume>40</volume>, <fpage>761</fpage>&#x02013;<lpage>767</lpage>.<pub-id pub-id-type="pmid">18454147</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0059"><mixed-citation publication-type="journal" id="pbi12996-cit-0059">
+<string-name>
+<surname>Yang</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>J.X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>X.L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>A novel Co&#x02010;immunoprecipitation protocol based on protoplast transient gene expression for studying protein&#x02010;protein interactions in rice</article-title>. <source xml:lang="en">Plant Mol. Biol. Rep.</source>
+<volume>32</volume>, <fpage>153</fpage>&#x02013;<lpage>161</lpage>.</mixed-citation></ref><ref id="pbi12996-bib-0060"><mixed-citation publication-type="journal" id="pbi12996-cit-0060">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>A highly efficient rice green tissue protoplast system for transient gene expression and studying light/chloroplast&#x02010;related processes</article-title>. <source xml:lang="en">Plant Methods</source>, <volume>7</volume>, <fpage>30</fpage>.<pub-id pub-id-type="pmid">21961694</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0061"><mixed-citation publication-type="journal" id="pbi12996-cit-0061">
+<string-name>
+<surname>Zhang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>A drought&#x02010;inducible transcription factor delays reproductive timing in rice</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>171</volume>, <fpage>334</fpage>&#x02013;<lpage>343</lpage>.<pub-id pub-id-type="pmid">26945049</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0062"><mixed-citation publication-type="journal" id="pbi12996-cit-0062">
+<string-name>
+<surname>Zhao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.Y.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>J.Z.</given-names>
+</string-name>, <string-name>
+<surname>Bian</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Using hybrid transcription factors to study gene function in rice</article-title>. <source xml:lang="en">Sci. China Life Sci.</source>
+<volume>58</volume>, <fpage>1160</fpage>&#x02013;<lpage>1162</lpage>.<pub-id pub-id-type="pmid">26410798</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0063"><mixed-citation publication-type="journal" id="pbi12996-cit-0063">
+<string-name>
+<surname>Zhou</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shabek</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>D14&#x02010;SCF(D3)&#x02010;dependent degradation of D53 regulates strigolactone signalling</article-title>. <source xml:lang="en">Nature</source>, <volume>504</volume>, <fpage>406</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">24336215</pub-id></mixed-citation></ref><ref id="pbi12996-bib-0064"><mixed-citation publication-type="journal" id="pbi12996-cit-0064">
+<string-name>
+<surname>Zhu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>The OsHAPL1&#x02010;DTH8&#x02010;Hd1 complex functions as the transcription regulator to repress heading date in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>68</volume>, <fpage>553</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">28043949</pub-id></mixed-citation></ref></ref-list></back></article>

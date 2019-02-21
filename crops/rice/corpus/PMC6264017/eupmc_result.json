@@ -1,0 +1,361 @@
+{
+  "id": [
+    "30373302"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30373302"
+  ],
+  "pmcid": [
+    "PMC6264017"
+  ],
+  "doi": [
+    "10.3390/s18113659"
+  ],
+  "title": [
+    "Monitoring Method of Total Seed Mass in a Vibrating Tray Using Artificial Neural Network."
+  ],
+  "authorString": [
+    "Zhao Z, Qin F, Tian CJ, Yang SX."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3139-7579",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Agriculture Engineering, Jiangsu University, Zhenjiang 212013, China. zhaozhan@ujs.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute of Agriculture Engineering, Jiangsu University, Zhenjiang 212013, China. qinfang0421@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian CJ"
+          ],
+          "firstName": [
+            "Chun-Jie"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "School of Engineering, University of Guelph, Guelph, ON N1G 2W1, Canada. tianchunjie1509@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang SX"
+          ],
+          "firstName": [
+            "Simon X"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "SX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6888-7993",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Engineering, University of Guelph, Guelph, ON N1G 2W1, Canada. syang@uoguelph.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6888-7993",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3139-7579",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2741581"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "To maintain the continuous working performance of a vacuum plate seeder, it is important to monitor the total seed mass in the seed tray in real time and accurately control the pickup position of the suction plate accordingly. Under the excitation of reciprocating vibration varying with time and interference by direction angle, the motion of seeds in a rectangular tray was simulated using the discrete element method (DEM). A measurement method for seed mass in a small area was proposed based on the impulse theorem. The impact force of seeds was monitored with a cantilever force sensor, and the corresponding signal processing circuit was designed. Calibration results indicated that the relative nonlinear error was less than 2.3% with an average seeds-mass-per-unit-area (SMA) of 0.3⁻2.4 g/cm². Then, four sets of force sensors were installed symmetrically near the four corners of the vibrating tray which were used to measure the SMA respectively. Back propagation (BP) neural networks which take four SMA measurement results as input parameters were developed to monitor the total seed mass in the tray. Monitoring results using DEM simulation data showed that the general relative error was 3.0%. Experiments were carried out on a test-rig and the results validated that the relative error was reduced to 5.0% by using the BP neural network method."
+  ],
+  "affiliation": [
+    "Institute of Agriculture Engineering, Jiangsu University, Zhenjiang 212013, China. zhaozhan@ujs.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "No. 51775246, 51305169"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "No. 1808085QE172"
+          ],
+          "agency": [
+            "Natural Science Foundation of Anhui Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neural network",
+        "Discrete Element Method",
+        "Monitoring Method",
+        "Rectangular Vibrating Tray",
+        "Total Seed Mass",
+        "Vacuum Plate Seeder"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6264017?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6264017"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18113659"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-31"
+  ],
+  "dateOfCreation": [
+    "2018-10-31"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-28"
+  ],
+  "firstPublicationDate": [
+    "2018-10-28"
+  ]
+}

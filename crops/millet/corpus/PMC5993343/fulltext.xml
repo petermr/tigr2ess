@@ -1,0 +1,1126 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Food Energy Secur</journal-id><journal-id journal-id-type="iso-abbrev">Food Energy Secur</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2048-3694</journal-id><journal-id journal-id-type="publisher-id">FES3</journal-id><journal-title-group><journal-title>Food and Energy Security</journal-title></journal-title-group><issn pub-type="epub">2048-3694</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5993343</article-id><article-id pub-id-type="doi">10.1002/fes3.126</article-id><article-id pub-id-type="publisher-id">FES3126</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Construction of a network describing asparagine metabolism in plants and its application to the identification of genes affecting asparagine metabolism in wheat under drought and nutritional stress</article-title><alt-title alt-title-type="left-running-head">CURTIS et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="fes3126-cr-0001" contrib-type="author" corresp="yes"><name><surname>Curtis</surname><given-names>Tanya Y.</given-names></name><address><email>curtistanya4@gmail.com</email></address><xref ref-type="aff" rid="fes3126-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="fes3126-cr-0002" contrib-type="author"><name><surname>Bo</surname><given-names>Valeria</given-names></name><xref ref-type="aff" rid="fes3126-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="fes3126-curr-0001">
+<sup>3</sup>
+</xref></contrib><contrib id="fes3126-cr-0003" contrib-type="author"><name><surname>Tucker</surname><given-names>Allan</given-names></name><xref ref-type="aff" rid="fes3126-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="fes3126-cr-0004" contrib-type="author"><name><surname>Halford</surname><given-names>Nigel G.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6488-2530</contrib-id><xref ref-type="aff" rid="fes3126-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="fes3126-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Plant Sciences Department</named-content>
+<institution>Rothamsted Research</institution>
+<named-content content-type="city">Harpenden</named-content>
+<named-content content-type="country-part">Hertfordshire</named-content>
+<country country="GB">UK</country>
+</aff><aff id="fes3126-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">College of Engineering, Design and Physical Sciences</named-content>
+<institution>Brunel University London</institution>
+<named-content content-type="city">Uxbridge</named-content>
+<named-content content-type="country-part">Middlesex</named-content>
+<country country="GB">UK</country>
+</aff><aff id="fes3126-curr-0001"><label><sup>3</sup></label>Present address:
+<named-content content-type="organisation-division">Cancer Research UK Cambridge Institute</named-content>
+<institution>University of Cambridge</institution>
+<institution>Li Ka Shing Centre</institution>
+<institution>Robinson Way</institution>
+<named-content content-type="city">Cambridge</named-content>
+<country>UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Tanya Y. Curtis, Curtis Analytics Ltd, Daniel Hall Building, Rothamsted RoCRE, Harpenden, UK.<break/>
+Email: <email>curtistanya4@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2018</year></pub-date><volume>7</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/fes3.2018.7.issue-1</issue-id><elocation-id>e00126</elocation-id><history><date date-type="received"><day>06</day><month>12</month><year>2017</year></date><date date-type="rev-recd"><day>04</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>07</day><month>1</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 John Wiley & Sons Ltd and the Association of Applied Biologists <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Food and Energy Security</italic> published by John Wiley &#x00026; Sons Ltd. and the Association of Applied Biologists.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:FES3-7-na.pdf"/><abstract id="fes3126-abs-0001"><title>Abstract</title><p>A detailed network describing asparagine metabolism in plants was constructed using published data from Arabidopsis (<italic>Arabidopsis thaliana</italic>) maize (<italic>Zea mays</italic>), wheat (<italic>Triticum aestivum</italic>), pea (<italic>Pisum sativum</italic>), soybean (<italic>Glycine max</italic>), lupin (<italic>Lupus albus</italic>), and other species, including animals. Asparagine synthesis and degradation is a major part of amino acid and nitrogen metabolism in plants. The complexity of its metabolism, including limiting and regulatory factors, was represented in a logical sequence in a pathway diagram built using <styled-content style="fixed-case">yED</styled-content> graph editor software. The network was used with a Unique Network Identification Pipeline in the analysis of data from 18 publicly available transcriptomic data studies. This identified links between genes involved in asparagine metabolism in wheat roots under drought stress, wheat leaves under drought stress, and wheat leaves under conditions of sulfur and nitrogen deficiency. The network represents a powerful aid for interpreting the interactions not only between the genes in the pathway but also among enzymes, metabolites and smaller molecules. It provides a concise, clear understanding of the complexity of asparagine metabolism that could aid the interpretation of data relating to wider amino acid metabolism and other metabolic processes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="fes3126-kwd-0001">asparagine metabolism</kwd><kwd id="fes3126-kwd-0002">asparagine synthetase</kwd><kwd id="fes3126-kwd-0003">glutamine synthetase</kwd><kwd id="fes3126-kwd-0004">stress responses</kwd><kwd id="fes3126-kwd-0005">systems approaches</kwd></kwd-group><funding-group><award-group><funding-source>Biotechnology and Biological Sciences Research Council</funding-source><award-id>BB/I020918/1</award-id></award-group><award-group><funding-source>Designing Future Wheat</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="16"/><word-count count="11928"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>fes3126</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.3 mode:remove_FC converted:28.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="fes3126-cit-1001">
+<string-name>
+<surname>Curtis</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>Bo</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Tucker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Halford</surname>
+<given-names>NG</given-names>
+</string-name>. <article-title>Construction of a network describing asparagine metabolism in plants and its application to the identification of genes affecting asparagine metabolism in wheat under drought and nutritional stress</article-title>. <source xml:lang="en">Food Energy Secur</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e00126</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/fes3.126">https://doi.org/10.1002/fes3.126</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="fes3126-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Free asparagine plays a central role in nitrogen storage and transport in many plant species due to its relatively high ratio of nitrogen to carbon and its unreactive nature (Lea, Sodek, Parry, Shewry, &#x00026; Halford, <xref rid="fes3126-bib-0062" ref-type="ref">2007</xref>). It accumulates to high concentrations during processes such as seed germination and in response to a range of abiotic and biotic stresses (Forde &#x00026; Lea, <xref rid="fes3126-bib-0029" ref-type="ref">2007</xref>; Halford, Curtis, Chen, &#x00026; Huang, <xref rid="fes3126-bib-0041" ref-type="ref">2015</xref>; Lea &#x00026; Azevedo, <xref rid="fes3126-bib-0061" ref-type="ref">2007</xref>; Lea et&#x000a0;al., <xref rid="fes3126-bib-0062" ref-type="ref">2007</xref>). For example, free asparagine, together with proline and glycine betaine (an N&#x02010;trimethylated amino acid), accumulates in <italic>Hordeum</italic> species in response to salt stress (Garthwaite, von Bothmer, &#x00026; Colmer, <xref rid="fes3126-bib-0034" ref-type="ref">2005</xref>), while there is a 15&#x02010; and 28&#x02010;fold rise in the concentration of free asparagine and proline, respectively, in drought&#x02010;stressed pearl millet (<italic>Pennisetum glaucum</italic>) (Kusaka, Ohta, &#x00026; Fujimura, <xref rid="fes3126-bib-0055" ref-type="ref">2005</xref>). Asparagine is the predominant free amino acid in potato tubers (Halford et&#x000a0;al., <xref rid="fes3126-bib-0042" ref-type="ref">2012</xref>) and its concentration increases further in some varieties in response to severe drought stress (Muttucumaru, Powers, Elmore, Mottram, &#x00026; Halford, <xref rid="fes3126-bib-0073" ref-type="ref">2015</xref>). It can also become the predominant free amino acid in cereal grains under some stress conditions. Furthermore, there is evidence from several studies that free asparagine concentration varies considerably in the grain of both wheat (<italic>Triticum aestivum</italic>) and rye (<italic>Secale cereale</italic>) sourced from different locations or grown in different years or under different crop management regimes, showing that asparagine metabolism is responsive to multiple environmental and crop management factors (Baker et&#x000a0;al., <xref rid="fes3126-bib-0004" ref-type="ref">2006</xref>; Claus et&#x000a0;al., <xref rid="fes3126-bib-0017" ref-type="ref">2006</xref>; Curtis et&#x000a0;al., <xref rid="fes3126-bib-0023" ref-type="ref">2009</xref>, <xref rid="fes3126-bib-0025" ref-type="ref">2010</xref>; Curtis et&#x000a0;al., <xref rid="fes3126-bib-0250" ref-type="ref">2016</xref>; Postles, Powers, Elmore, Mottram, &#x00026; Halford, <xref rid="fes3126-bib-0079" ref-type="ref">2013</xref>; Postles et&#x000a0;al., <xref rid="fes3126-bib-0078" ref-type="ref">2016</xref>; Martinek et&#x000a0;al., <xref rid="fes3126-bib-0066" ref-type="ref">2009</xref>; Taeymans et&#x000a0;al., <xref rid="fes3126-bib-0092" ref-type="ref">2004</xref>). The fact that free asparagine and other free amino acids accumulate to high concentrations in plant tissues in response to stress is an example of how stress can have profound effects on crop composition (Halford et&#x000a0;al., <xref rid="fes3126-bib-0041" ref-type="ref">2015</xref>).</p><p>Free asparagine concentration also responds to nutrient availability: For example, it has been shown to correlate positively with nitrogen availability in the grain of barley (<italic>Hordeum vulgare</italic>) (Winkler &#x00026; Sch&#x000f6;n, <xref rid="fes3126-bib-0106" ref-type="ref">1980</xref>), wheat (Martinek et&#x000a0;al., <xref rid="fes3126-bib-0066" ref-type="ref">2009</xref>), and rye (Postles et&#x000a0;al., <xref rid="fes3126-bib-0079" ref-type="ref">2013</xref>, <xref rid="fes3126-bib-0078" ref-type="ref">2016</xref>), while deficiencies in other minerals become important when there is a plentiful supply of nitrogen (reviewed by Lea et&#x000a0;al., <xref rid="fes3126-bib-0062" ref-type="ref">2007</xref>). Sulfur deficiency in particular can cause a massive (up to 30&#x02010;fold) increase in the accumulation of free asparagine in wheat, barley, and maize (<italic>Zea mays</italic>) (Baudet et&#x000a0;al., <xref rid="fes3126-bib-0005" ref-type="ref">1986</xref>; Curtis et&#x000a0;al., <xref rid="fes3126-bib-0023" ref-type="ref">2009</xref>; Granvogl, Wieser, Koehler, von Tucher, &#x00026; Schieberle, <xref rid="fes3126-bib-0038" ref-type="ref">2007</xref>; Muttucumaru et&#x000a0;al., <xref rid="fes3126-bib-0072" ref-type="ref">2006</xref>; Shewry, Franklin, Parmar, Smith, &#x00026; Miflin, <xref rid="fes3126-bib-0088" ref-type="ref">1983</xref>). Rye responds in similar fashion in response to severe sulfur deficiency in pot experiments (Postles et&#x000a0;al., <xref rid="fes3126-bib-0078" ref-type="ref">2016</xref>) but is less responsive under field conditions (Postles et&#x000a0;al., <xref rid="fes3126-bib-0079" ref-type="ref">2013</xref>). Consistent with this, asparagine synthetase gene expression in wheat and rye has been shown to increase under sulfur&#x02010;limited growth conditions (Byrne et&#x000a0;al., <xref rid="fes3126-bib-0013" ref-type="ref">2012</xref>; Gao et&#x000a0;al., <xref rid="fes3126-bib-0033" ref-type="ref">2016</xref>; Postles et&#x000a0;al., <xref rid="fes3126-bib-0078" ref-type="ref">2016</xref>), a response that appears to involve the protein kinase, TaGCN2 (Byrne et&#x000a0;al., <xref rid="fes3126-bib-0013" ref-type="ref">2012</xref>).</p><p>The changes in free asparagine concentration in grains and tubers in response to stress and nutrition suggest that the regulation of asparagine metabolism has implications for crop yield and stress resistance. However, the issue that has stimulated interest in asparagine metabolism and accumulation more than any other is the role of free asparagine in the formation of acrylamide, a Group 2A carcinogen, during high&#x02010;temperature cooking and processing. Acrylamide formation affects fried and roasted potato products, bread and crisp&#x02010;bread, biscuits, breakfast cereals, coffee, chocolate, and other popular foods (EFSA Panel on Contaminants in the Food Chain (CONTAM), <xref rid="fes3126-bib-0200" ref-type="ref">2015</xref>).</p><p>If crop and agronomic approaches are to contribute to addressing this problem, ways of reducing the accumulation of free asparagine in grains, beans, and tubers, and of making it less sensitive to environmental factors, will have to be developed. This will require a comprehensive understanding of the factors that control asparagine metabolism and how free asparagine accumulation is affected by other areas of plant metabolism and the environment. Systems biology and mathematical modeling have been used in a variety of applications to elucidate and explain the mechanisms of complex metabolic and signaling networks (Breitling, Donaldson, Gilbert, &#x00026; Heiner, <xref rid="fes3126-bib-0011" ref-type="ref">2010</xref>), and this study applied this approach to describe asparagine metabolism in plants. A network was constructed using information available in the literature and publicly available databases, comprising genes, enzymes, transcription factors, and regulatory proteins, as well as small molecules such as asparagine itself, other free amino acids, and energy molecules. Most of the information was derived from studies on Arabidopsis (<italic>Arabidopsis thaliana</italic>), with additional information from a variety of species, but the applicability of the network to a major crop species, wheat (<italic>Triticum aestivum</italic>), was demonstrated through the analysis of multiple wheat microarray studies using a Unique Network Identification Pipeline (UNIP) developed previously (Bo et&#x000a0;al., <xref rid="fes3126-bib-0008" ref-type="ref">2014</xref>). This analysis identified subnetworks of genes and was extended to detect the most predictive genes for unstressed, drought&#x02010;stressed, and sulfur and nitrogen deficiency conditions; in other words, those genes that were most closely associated with each stress.</p></sec><sec id="fes3126-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><p>A network of asparagine metabolism was constructed based on articles from the literature (Baena&#x02010;Gonz&#x000e1;lez, Rolland, Thevelein, &#x00026; Sheen, <xref rid="fes3126-bib-0002" ref-type="ref">2007</xref>; Curien et&#x000a0;al., <xref rid="fes3126-bib-0022" ref-type="ref">2009</xref>; Gaufichon, Reisdorf&#x02010;Cren, Rothstein, Chardon, &#x00026; Suzuki, <xref rid="fes3126-bib-0035" ref-type="ref">2010</xref>; Hey, Mayerhofer, Halford, &#x00026; Dickinson, <xref rid="fes3126-bib-0050" ref-type="ref">2007</xref>; Hsieh, Lam, &#x00026; Coruzzi, <xref rid="fes3126-bib-0052" ref-type="ref">1996</xref>; Hummel, Rahmani, Smeekens, &#x00026; Hanson, <xref rid="fes3126-bib-0053" ref-type="ref">2009</xref>; Lam et&#x000a0;al., <xref rid="fes3126-bib-0057" ref-type="ref">1995</xref>; Lima &#x00026; Sodek, <xref rid="fes3126-bib-0064" ref-type="ref">2003</xref>; Nikiforova et&#x000a0;al., <xref rid="fes3126-bib-0075" ref-type="ref">2006</xref>; Piotrowski &#x00026; Volmer, <xref rid="fes3126-bib-0077" ref-type="ref">2006</xref>; Romagni &#x00026; Dayan, <xref rid="fes3126-bib-0081" ref-type="ref">2000</xref>; Sato, Arita, Soga, Nishioka, &#x00026; Tomita, <xref rid="fes3126-bib-0083" ref-type="ref">2008</xref>; Todd et&#x000a0;al., <xref rid="fes3126-bib-0096" ref-type="ref">2008</xref>; Wan, Shao, Shan, Zeng, &#x00026; Lam, <xref rid="fes3126-bib-0101" ref-type="ref">2006</xref>; Weltmeier et&#x000a0;al., <xref rid="fes3126-bib-0103" ref-type="ref">2009</xref>) and reviews of publicly available databases, including: <ext-link ext-link-type="uri" xlink:href="http://www.arabidopsisreactome.org/">http://www.arabidopsisreactome.org/</ext-link>; <ext-link ext-link-type="uri" xlink:href="http://www.ebi.ac.uk/biomodels-main/">http://www.ebi.ac.uk/biomodels-main/</ext-link>; <ext-link ext-link-type="uri" xlink:href="http://string-db.org/">http://string-db.org/</ext-link>; <ext-link ext-link-type="uri" xlink:href="http://www.arabidopsis.org/">http://www.arabidopsis.org/</ext-link>; and <ext-link ext-link-type="uri" xlink:href="http://www.brenda-enzymes.org/">http://www.brenda-enzymes.org/</ext-link>. The network was constructed using yED Graph Editor Version 3.2.0.1 (yWorks, T&#x000fc;bingen Germany). This program, which is available free from <ext-link ext-link-type="uri" xlink:href="https://www.yworks.com/downloads#yEd">https://www.yworks.com/downloads#yEd</ext-link>, provided enough freedom to construct the network with genes, enzymes, and small molecules. Most of the information that was used related to work done with Arabidopsis (<italic>Arabidopsis thaliana</italic>); however, data from other plant species, including maize (<italic>Zea mays</italic>), wheat (<italic>Triticum aestivum</italic>), pea (<italic>Pisum sativum</italic>), soybean (<italic>Glycine max</italic>), and lupine (<italic>Lupus albus)</italic> and others, as well as some animal and human data were also used.</p><p>To test the genes identified in the asparagine metabolism network under different stress conditions, and to explore the applicability of the network to wheat, the UNIP pipeline (Bo et&#x000a0;al., <xref rid="fes3126-bib-0008" ref-type="ref">2014</xref>) was applied to a set of publicly available wheat microarray transcriptomic data (Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>) in two different scenarios: Case 1, to explore the underlying mechanisms operating in all stress conditions but not in nonstress conditions; Case 2, to identify the unique mechanism underlying each type of stress but not operating under nonstress conditions. The raw data were preprocessed using the Robust Multi&#x02010;Array Average (RMA) (Hell &#x00026; Bergmann, <xref rid="fes3126-bib-0048" ref-type="ref">1990</xref>) and the subset of genes identified in the asparagine metabolism network were selected to proceed. Independently of the case scenario, glasso (Friedman, Hastie, &#x00026; Tibshirani, <xref rid="fes3126-bib-0031" ref-type="ref">2008</xref>) was also applied to construct each gene regulatory network and select the unique connections (edges that appear only in the network under consideration but not in the others). The bnlearn package was used in R (Scutari, <xref rid="fes3126-bib-0085" ref-type="ref">2010</xref>) to build Bayesian networks using the hill&#x02010;climbing technique, taking advantage of the inference feature to calculate the prediction accuracy for each gene.</p><table-wrap id="fes3126-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>ID, number of samples, and descriptions of wheat datasets used in this study. Datasets 1 to 12 are stress enriched while the remaining are nonstress</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">No</th><th align="left" valign="top" rowspan="1" colspan="1">Study ID</th><th align="left" valign="top" rowspan="1" colspan="1">Samples</th><th align="left" valign="top" rowspan="1" colspan="1">Description</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;42214</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">Wheat drought responses</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">E&#x02010;MTAB&#x02010;903</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">Transcription profiling by array of winter wheat grown using different agricultural practices</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">E&#x02010;MTAB&#x02010;963</td><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1">Transcription profiling by array of wheat leaves in response to the fungal toxin ToxB from <italic>Pyrenophora tritici&#x02010;repentis</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;30436</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">Transcriptome profiling of reproductive stage flag leaves of wheat from drought susceptible parent WL711, drought&#x02010;tolerant parent C306, and drought&#x02010;susceptible and drought&#x02010;tolerant RIL bulks in irrigated and drought condition</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;31759</td><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">Drought stress in wheat at grain filling stage</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">E&#x02010;MEXP&#x02010;971</td><td align="left" rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">Transcription profiling of two highly salt&#x02010;tolerant wheat lines, their parental lines, and a salt&#x02010;sensitive line in salt stress and control growth conditions</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">E&#x02010;MEXP&#x02010;1415</td><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1">Transcription profiling time series of leaves from winter wheat grown under S&#x02010; and N&#x02010;deficient conditions</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">E&#x02010;MEXP&#x02010;1193</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">Transcription profiling time series of wheat cv. Hereward grown under control, hot, dry, and hot and dry conditions to illustrate the importance of developmental context in interpretation</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">E&#x02010;MEXP&#x02010;1523</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">Transcription profiling of heat&#x02010;tolerant and susceptible strains of wheat after exposure to heat stress</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">E&#x02010;MEXP&#x02010;1669</td><td align="left" rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">Profiling of six winter wheat varieties grown under different nitrogen fertilizer levels</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;12936</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">Transcription profiling of the effect of silicon on wheat plants infected or uninfected with powdery mildew</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;11774</td><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat cultivars after cold treatment</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;4935</td><td align="left" rowspan="1" colspan="1">78</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat&#x02014;expression level polymorphism study: 39 genotypes and two biological replicates</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;6027</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat meiosis and microsporogenesis in hexaploid bread wheat</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;9767</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat to identify genotypic differences in water soluble carbohydrate metabolism in stem</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;12508</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat development</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;5939</td><td align="left" rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat&#x02014;expression level polymorphism study: 36 genotypes and two biological replicates from SB location</td></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">E&#x02010;GEOD&#x02010;5942</td><td align="left" rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">Transcription profiling of wheat expression level polymorphism study parentals and progenies from SB location</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="fes3126-sec-0003"><label>3</label><title>RESULTS</title><p>A network describing asparagine metabolism was constructed initially on the basis of original studies in Arabidopsis under different physiological conditions conducted by Lam et&#x000a0;al. (<xref rid="fes3126-bib-0057" ref-type="ref">1995</xref>). More details were added from a wider literature search and database review, including genes and enzymes from other plant species. The final network consisted of 212 nodes (genes, enzymes, or molecules; Table <xref rid="fes3126-sup-0002" ref-type="supplementary-material">S1</xref>) and 246 edges (reactions between nodes). It is provided as a Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref> because it is too large to include as a standard figure.</p><p>The main enzymes identified as being involved in asparagine metabolism were as follows: asparagine synthetase (ASN), glutamine synthetase (GS), glutamate dehydrogenase (GDH), ferredoxin&#x02010;dependent glutamate synthase (Fd&#x02010;GOGAT: GLU1 and GLU2), NADH&#x02010;dependent glutamate synthase (NADH&#x02010;GOGAT), aspartate amino transferase (AspAT), and glutamate decarboxylase (GAD) (Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>).</p><sec id="fes3126-sec-0004"><label>3.1</label><title>Regulation of asparagine synthetase gene expression</title><p>Asparagine is synthesized from glutamine and aspartate by glutamine&#x02010;dependent asparagine synthetase. The asparagine synthetase enzyme also needs adenosine triphosphate (ATP) and Mg<sup>2+</sup> for the transfer of an amino group from glutamine to aspartate and the release of asparagine. Asparagine synthetase cDNAs were first isolated by Tsai and Coruzzi (<xref rid="fes3126-bib-0097" ref-type="ref">1990</xref>) from pea (<italic>Pisum sativum</italic>), and were shown to encode two enzymes, AS1 and AS2. A distinct asparagine synthetase gene, <italic>AS</italic>, was subsequently shown to be induced in harvested asparagus spears in response to carbohydrate stress (Davies &#x00026; King, <xref rid="fes3126-bib-0026" ref-type="ref">1993</xref>). Arabidopsis is now known to contain three asparagine synthetase genes, <italic>AtASN1, AtASN2,</italic> and <italic>AtASN3</italic>, whereas potato has two: <italic>StASN1</italic>, which is expressed at high levels in the tuber, and <italic>StASN2</italic>, which is expressed throughout the plant (Chawla, Shakya, &#x00026; Rommens, <xref rid="fes3126-bib-0015" ref-type="ref">2012</xref>). Maize, wheat, and barley, on the other hand, all have four asparagine synthetase genes that are active in different parts of the plant (Avila&#x02010;Ospina, Marmagne, Talbotec, &#x00026; Krupinska, <xref rid="fes3126-bib-0001" ref-type="ref">2015</xref>; Duff et&#x000a0;al., <xref rid="fes3126-bib-0028" ref-type="ref">2011</xref>; Gao et&#x000a0;al., <xref rid="fes3126-bib-0033" ref-type="ref">2016</xref>; Todd et&#x000a0;al., <xref rid="fes3126-bib-0096" ref-type="ref">2008</xref>), and this may be the pattern for all cereal species. Of the four genes in wheat, Gao et&#x000a0;al. (<xref rid="fes3126-bib-0033" ref-type="ref">2016</xref>) showed <italic>TaASN2</italic> to be the most highly expressed in the grain. Indeed, expression of <italic>TaASN2</italic> in the grain (both embryo and endosperm) dwarfed expression of any of the four genes in any other tissue. However, <italic>TaASN1</italic> was the most responsive to nitrogen availability and sulfur deficiency, and had previously been shown to respond to salt stress, osmotic stress, and ABA (Wang, Liu, Sun, &#x00026; Zhang, <xref rid="fes3126-bib-0102" ref-type="ref">2005</xref>).</p><p>In Arabidopsis, <italic>AtASN1</italic>,<italic> AtASN2,</italic> and <italic>AtASN3</italic> are expressed in different tissues and differentially regulated by stress stimuli, light, and sucrose (Lam, Hsieh, &#x00026; Coruzzi, <xref rid="fes3126-bib-0058" ref-type="ref">1998</xref>). Light, for example, represses expression of <italic>ASN1</italic> in a phytochrome&#x02010;dependent manner, whereas expression of <italic>ASN2</italic> is extremely low in the dark but rapidly induced by light treatment. Overall, asparagine accumulates in the tissues of dark&#x02010;adapted Arabidopsis plants (Lam, Peng, &#x00026; Coruzzi, <xref rid="fes3126-bib-0059" ref-type="ref">1994</xref>). The expression of both <italic>AtASN1</italic> and <italic>AtASN2</italic> is also affected by the supply of organic nitrogen in the form of glutamate, glutamine, or asparagine (Lam et&#x000a0;al., <xref rid="fes3126-bib-0058" ref-type="ref">1998</xref>). However, <italic>AtASN1</italic> expression in tissue culture is repressed by sucrose feeding, whereas <italic>AtASN2</italic> expression is not. The signaling pathway through which sucrose affects <italic>AtASN1</italic> in Arabidopsis is shown in the top right hand section of Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>. Note that when sucrose is supplied to plants in culture, it may be cleaved by invertases to glucose and fructose or by sucrose synthase to UDP&#x02010;glucose and fructose. It is often unclear which of these molecules is initiating a response. However, it is now established that the sugar&#x02010;sensing signaling pathway in plants involves a protein kinase, sucrose nonfermenting&#x02010;1 (SNF1)&#x02010;related protein kinase&#x02010;1 (SnRK1) (reviewed by Hey, Byrne, &#x00026; Halford, <xref rid="fes3126-bib-0049" ref-type="ref">2010</xref>), and reporter gene expression driven by the Arabidopsis <italic>AtASN1</italic> promoter (also referred to as the dark&#x02010;inducible&#x02010;6 (<italic>DIN6</italic>) promoter) has been shown to be greatly increased by overexpression of SnRK1 (Baena&#x02010;Gonz&#x000e1;lez &#x00026; Sheen, <xref rid="fes3126-bib-0003" ref-type="ref">2008</xref>; Baena&#x02010;Gonz&#x000e1;lez et&#x000a0;al., <xref rid="fes3126-bib-0002" ref-type="ref">2007</xref>; Confraria, Martinho, Elias, Rubio&#x02010;Somoza, &#x00026; Baena&#x02010;Gonz&#x000e1;lez, <xref rid="fes3126-bib-0018" ref-type="ref">2013</xref>). There are two SnRK1s in Arabidopsis; these are shown as SnRK1.1 and SnRK1.2 in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>, but they are also known as AKIN10 and AKIN11. The signaling pathway also involves the S1 class of bZIP transcription factors: low sucrose induces asparagine synthetase gene expression <italic>via</italic> AtbZIP11, while high levels of sucrose induce expression of genes encoding AtbZIP9, AtbZIP10, AtbZIP25, and AtbZIP63, all of which inhibit asparagine synthetase gene expression (Hummel et&#x000a0;al., <xref rid="fes3126-bib-0053" ref-type="ref">2009</xref>).</p><p>Activity of AtSnRK1 and hence potentially its induction of <italic>AtASN1</italic> gene expression is also regulated posttranslationally by phosphorylation by its upstream kinase, SnRK1&#x02010;activating kinase (SnAK), which is encoded by two genes, <italic>AtSnAK1</italic> and <italic>AtSnAK2</italic> (Hey et&#x000a0;al., <xref rid="fes3126-bib-0050" ref-type="ref">2007</xref>). The relationship between AtSnRK1 and AtSnAK1/2 is complex, involving autophosphorylation of AtSnAK1/2 and cross&#x02010;phosphorylation between the two protein kinases (Crozet et&#x000a0;al., <xref rid="fes3126-bib-0021" ref-type="ref">2010</xref>).</p><p>Another protein kinase, general control nonderepressible&#x02010;2 (GCN2), has been shown to affect <italic>TaASN1</italic> gene expression in wheat, and was therefore included in the network. GCN2 phosphorylates the &#x003b1; subunit of translation initiation factor eIF2 (eIF2&#x003b1;). In fungi, it is activated in response to a reduction in free amino acid concentrations, and maintains the balance between free amino acids and proteins (reviewed by Hinnebusch, <xref rid="fes3126-bib-0051" ref-type="ref">1992</xref>; Halford, <xref rid="fes3126-bib-0040" ref-type="ref">2006</xref>). An Arabidopsis homologue has been shown to be activated in response to herbicides that inhibit amino acid biosynthesis (Zhang, Dickinson, Paul, &#x00026; Halford, <xref rid="fes3126-bib-0108" ref-type="ref">2003</xref>; Zhang et&#x000a0;al., <xref rid="fes3126-bib-0109" ref-type="ref">2008</xref>), as well as multiple stress stimuli, including purine deprivation, UV light, cold shock, wounding, pathogen infection, methyl jasmonate, salicylic acid, and cadmium exposure (Lageix et&#x000a0;al., <xref rid="fes3126-bib-0056" ref-type="ref">2008</xref>). Overexpression of the wheat homologue, <italic>TaGCN2</italic>, in transgenic wheat resulted in significant decreases in total free amino acid concentration in the grain, with free asparagine concentration in particular being much lower than in controls (Byrne et&#x000a0;al., <xref rid="fes3126-bib-0013" ref-type="ref">2012</xref>). Expression of <italic>TaASN1</italic> and genes encoding cystathionine &#x003b3;&#x02010;synthase and sulfur&#x02010;deficiency&#x02010;induced&#x02010;1 (<italic>SDI1</italic>) all decreased significantly, while that of a nitrate reductase gene increased. Sulfur deficiency&#x02010;induced activation of <italic>TaASN1</italic> and <italic>SDI1</italic> occurred in wild&#x02010;type plants but not in <italic>TaGCN2</italic> overexpressing lines (Byrne et&#x000a0;al., <xref rid="fes3126-bib-0013" ref-type="ref">2012</xref>). GCN2 activity has also been linked with asparagine synthetase gene expression and sulfur metabolism in mammalian systems: both phosphorylation of eIF2&#x003b1; and expression of asparagine synthetase have been shown to be higher in liver cells of rats fed a diet deficient in sulfur&#x02010;containing amino acids than of well&#x02010;nourished rats (Sikalidis &#x00026; Stipanuk, <xref rid="fes3126-bib-0089" ref-type="ref">2010</xref>).</p><p>An additional regulatory mechanism of <italic>AtASN1</italic> gene expression that was included in the network involves the homeobox&#x02010;leucine zipper protein 22 (HAT22) (Thum et&#x000a0;al., <xref rid="fes3126-bib-0095" ref-type="ref">2008</xref>). Genes encoding two other important metabolic enzymes, pyruvate phosphate dikinase (PPDK) and alanine&#x02010;glyoxylate aminotransferase (AGT), are also connected to <italic>HAT22</italic>. This suggests that <italic>HAT22</italic> may be involved in coordinating the regulation of genes in three metabolic processes: amino acid metabolism, carbohydrate metabolism, and glycolysis. <italic>HAT22</italic> shows additional regulatory edge connections to four other genes (Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>), <italic>WRKY23</italic>,<italic> SINA,</italic> a light regulated but otherwise uncharacterized gene protein (accession number At3g26740), and a gene annotated only as an expressed protein (accession number At3g20340). The mechanism of regulation of these genes by HAT22 is not described in detail in the literature.</p></sec><sec id="fes3126-sec-0005"><label>3.2</label><title>Role of the glutamine loop in asparagine metabolism</title><p>As asparagine is synthesized by transfer of an amino group from glutamine to aspartate, the synthesis of asparagine is likely to be dependent on the availability of glutamine and aspartate and this has been demonstrated experimentally for the human enzyme (Van Heeke &#x00026; Schuster, <xref rid="fes3126-bib-0099" ref-type="ref">1989</xref>). In plants, glutamine and aspartate are derived from nitrogen assimilation, and this is represented in the top left corner of Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>.</p><p>Nitrogen is taken up by plants in the form of inorganic nitrate, which is reduced to nitrite by nitrate reductase (NR). Nitrite is then further reduced to ammonium by nitrite reductase (NiR), and the ammonium is assimilated into amino acids in a process that is catalyzed initially by glutamine synthetase (GS) and glutamate synthase (also known as glutamine oxoglutarate aminotransferase, or GOGAT). Glutamine synthetase catalyzes the ATP&#x02010;dependent condensation of glutamate and ammonia to form glutamine (Bernard &#x00026; Habash, <xref rid="fes3126-bib-0006" ref-type="ref">2009</xref>), while GOGAT isoenzymes, NADH&#x02010;GOGAT and Fd&#x02010;GOGAT, catalyze the transfer of the amido nitrogen of glutamine to 2&#x02010;oxoglutarate to make glutamate, using NADH/NADPH or ferredoxin as reductants.</p><p>There are two subspecies of GS with different cellular localization: GS1 in the cytosol and GS2 in plastids. The enzyme is represented in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref> as being encoded by genes <italic>GSe2</italic>,<italic> GSe1</italic>,<italic> GS1a</italic>,<italic> GS1b</italic>, and <italic>GS1c</italic>, all of which are expressed in the leaves and upper parts of plants, as well as <italic>GSr1</italic> and <italic>GSr2</italic>, which are expressed in the roots. The two&#x02010;step reaction has been described by Unno et&#x000a0;al. (<xref rid="fes3126-bib-0098" ref-type="ref">2006</xref>), but a simplified version is included in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>.</p><p>Glutamate synthase (Fd&#x02010;GOGAT) activity is affected by light and sucrose supply in leaves (Coschigano, Melo&#x02010;Oliveira, Lim, &#x00026; Coruzzi, <xref rid="fes3126-bib-0020" ref-type="ref">1998</xref>; Singh, <xref rid="fes3126-bib-0090" ref-type="ref">1999</xref>), and these are shown as major regulatory factors in the pink oval above the Fd&#x02010;GOGAT gene <italic>GLU1</italic> in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>. Arabidopsis contains a second gene, <italic>GLU2</italic>, encoding Fd&#x02010;GOGAT, and while <italic>GLU1</italic> is expressed at highest levels in the leaves and is significantly induced by light or sucrose, <italic>GLU2</italic> is expressed predominantly in the roots (Coschigano et&#x000a0;al., <xref rid="fes3126-bib-0020" ref-type="ref">1998</xref>). Salt stress has been shown to affect Fd&#x02010;GOGAT activity and protein level in both tomato (Berteli et&#x000a0;al., <xref rid="fes3126-bib-0007" ref-type="ref">1995</xref>) and potato (Teixeira &#x00026; Fidalgo, <xref rid="fes3126-bib-0093" ref-type="ref">2009</xref>).</p><p>The GS&#x02010;GOGAT pathway is the primary route for ammonia assimilation in plants (reviewed by Lea &#x00026; Azevedo, <xref rid="fes3126-bib-0061" ref-type="ref">2007</xref>) but there is another route <italic>via</italic> glutamate dehydrogenase (GDH) (Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>). This enzyme catalyzes the NADPH&#x02010;dependent conversion of ammonia and 2&#x02010;oxoglutarate to glutamate. It may function in the direction of glutamate catabolism in dark&#x02010;treated or sugar&#x02010;starved plants, and expression of the <italic>GDH1</italic> gene increases in Arabidopsis under those conditions (Melo&#x02010;Oliveira, Oliveira, &#x00026; Coruzzi, <xref rid="fes3126-bib-0068" ref-type="ref">1996</xref>). However, <italic>GDH1</italic> expression is also induced in the light by supplying ammonia, and under these conditions (plentiful carbon from photosynthesis as well as nitrogen) the enzyme may function in the direction of glutamate biosynthesis (Melo&#x02010;Oliveira et&#x000a0;al., <xref rid="fes3126-bib-0068" ref-type="ref">1996</xref>).</p></sec><sec id="fes3126-sec-0006"><label>3.3</label><title>Aspartate kinase and asparaginase</title><p>The enzyme asparaginase appears in the network for the obvious reason that it catalyzes the hydrolysis of the amide group of asparagine to release aspartate and ammonia, the latter being reincorporated into amino acid metabolism by glutamine synthetase. It may therefore play an important role in the supply of nitrogen to sink tissues through the processing of incoming, transported asparagine, and in the remobilization of free asparagine that has accumulated in response to nutrient deficiency or stress. Two types of asparaginase enzyme have been described in plants, differentiated according to whether or not their catalytic activity is potassium&#x02010;dependent. In Arabidopsis, potassium&#x02010;independent asparaginase is encoded by gene At5g08100 and potassium&#x02010;dependent asparaginase by At3g16150 (Bruneau, Chapman, &#x00026; Marsolais, <xref rid="fes3126-bib-0012" ref-type="ref">2006</xref>). The relatively high catalytic efficiency of the potassium&#x02010;dependent enzyme suggests that it may metabolize asparagine more effectively (Bruneau et&#x000a0;al., <xref rid="fes3126-bib-0012" ref-type="ref">2006</xref>). A third gene, At4g0050590, has been annotated as an asparaginase gene but has not been characterized in detail. There is evidence from soybean that asparaginase may be induced by low&#x02010;temperature stress (Cho et&#x000a0;al., <xref rid="fes3126-bib-0016" ref-type="ref">2007</xref>).</p><p>Another enzyme, aspartate amino transferase (AspAT), also catalyzes a reaction that produces aspartate, thereby potentially making aspartate available for asparagine synthesis, but in this case it is a reversible reaction between oxaloacetate and glutamate, and it produces &#x003b1;&#x02010;ketoglutarate in addition to aspartate. Arabidopsis contains multiple isoenzymes of AspAT, localized in the cytosol, chloroplast, mitochondria, and peroxisomes (Schultz, Hsu, Miesak, &#x00026; Coruzzi, <xref rid="fes3126-bib-0084" ref-type="ref">1998</xref>). They are encoded by genes <italic>ASP1</italic> (Heazlewood et&#x000a0;al., <xref rid="fes3126-bib-0046" ref-type="ref">2004</xref>; Millar, Sweetlove, Giege, &#x00026; Leaver, <xref rid="fes3126-bib-0069" ref-type="ref">2001</xref>; Wilkie &#x00026; Warren, <xref rid="fes3126-bib-0105" ref-type="ref">1998</xref>), <italic>ASP2</italic> (Brauc, De Vooght, Claeys, Hofte, &#x00026; Angenon, <xref rid="fes3126-bib-0010" ref-type="ref">2011</xref>), <italic>ASP3</italic> (Funakoshi et&#x000a0;al., <xref rid="fes3126-bib-0032" ref-type="ref">2008</xref>), and <italic>ASP4</italic> (Theologis et&#x000a0;al., <xref rid="fes3126-bib-0094" ref-type="ref">2000</xref>). Of these, the most important for nitrogen transport appears to be <italic>ASP2</italic>, which encodes a cytosolic enzyme because mutant plants with a defective <italic>ASP2</italic> gene show an 80% reduction in the levels of aspartate being transported in the phloem in the light and a 50% reduction in the dark (Schultz et&#x000a0;al., <xref rid="fes3126-bib-0084" ref-type="ref">1998</xref>). Thus, cytosolic AspAT may control the synthesis of aspartate for nitrogen transport in the light, with the aspartate pool that it provides being available for conversion into asparagine in the dark (Schultz et&#x000a0;al., <xref rid="fes3126-bib-0084" ref-type="ref">1998</xref>).</p><p>Another enzyme that affects aspartate availability is aspartate kinase (also known as aspartokinase), but in this case it competes with asparagine synthetase for aspartate, thereby potentially reducing the amount of aspartate available for asparagine synthesis. Aspartate kinase is encoded by genes <italic>AK&#x02010;HSDH II</italic>,<italic> AK1</italic>,<italic> AK3</italic>,<italic> AK2iso,</italic> and <italic>AK&#x02010;HSDH I</italic>, which feature in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref> in the lower middle section. The enzyme exists as a monofunctional aspartate kinase (two isoforms: AK1 and AK2), and bifunctional aspartate kinase&#x02010;homoserine dehydrogenase (two isoforms: AK&#x02010;HSDH I and AK&#x02010;HSDH II) (Curien et&#x000a0;al., <xref rid="fes3126-bib-0022" ref-type="ref">2009</xref>). It catalyzes the phosphorylation of aspartate, which is the first step in the biosynthesis of the other &#x02018;aspartate family&#x02019; amino acids: methionine, lysine, and threonine.</p></sec><sec id="fes3126-sec-0007"><label>3.4</label><title>Applicability of the network to wheat</title><p>In order to strengthen the findings displayed in the network shown in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref>, and test its applicability to a major crop, the responses of key genes in the network to different stresses were investigated using existing, publicly available, wheat transcriptomic data. Given a set of data from studies of wheat under different conditions, the Unique Network Identification Pipeline (UNIP) described in detail by Bo et&#x000a0;al. (<xref rid="fes3126-bib-0008" ref-type="ref">2014</xref>) identifies subnetworks that uniquely appear in the condition under consideration. UNIP was applied to further explore and strengthen the network in Figure <xref rid="fes3126-sup-0001" ref-type="supplementary-material">S1</xref> from a computational point of view. Eighteen independent wheat datasets (Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>) were downloaded from the ArrayExpress database (Parkinson et&#x000a0;al., <xref rid="fes3126-bib-0076" ref-type="ref">2009</xref>) in order to do this. Note that UNIP does not identify all links involved in an underlying biological mechanism; rather only those that uniquely exist in the treatment/condition of interest. A link&#x02010;by&#x02010;link comparison of the literature&#x02010;derived network and the UNIP&#x02010;derived networks is therefore not appropriate and was not applied in this study.</p><p>Given the raw structure of the data, the Robust Multi&#x02010;Array Average (rma) expression measure (Gautier, Cope, Bolstad, &#x00026; Irizarry, <xref rid="fes3126-bib-0036" ref-type="ref">2004</xref>) was applied as a preprocessing step. In each dataset, the 121 Affymetrix IDs of the genes that had been identified as being involved in asparagine metabolism (Table <xref rid="fes3126-sup-0002" ref-type="supplementary-material">S1</xref>) were selected. Once these reduced datasets were derived, two parallel directions were followed: the first to identify the unique mechanisms that were invoked in all types of stresses but were not operating under nonstress conditions; the second to identify the unique mechanisms that were invoked by each individual type of stress, but were not operating in the nonstress conditions.</p></sec><sec id="fes3126-sec-0008"><label>3.5</label><title>Case 1</title><p>Two clusters were derived: C1, which included all the stress&#x02010;enriched studies (1&#x02013;12 in Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>); and C2, with all the nonstress studies (13&#x02013;18 in Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>). Given these two study clusters, two large datasets were obtained, each containing 121 genes and a number of columns equal to the sum of the samples of each study in the cluster: 413 in C1 and 344 in C2. For each study&#x02010;cluster dataset, a Gene Regulatory Network was built by applying &#x02018;graphical lasso&#x02010;estimation of Gaussian graphical models&#x02019; (glasso) (Friedman et&#x000a0;al., <xref rid="fes3126-bib-0031" ref-type="ref">2008</xref>) with the penalization parameter &#x003c1;&#x000a0;=&#x000a0;.01 (glasso is an algorithm that scales well for a large number of genes). Using the corresponding adjacency matrices of each network, it was possible to select the connections that appeared only in the stress network (unique connections).</p><p>The two cluster&#x02010;derived datasets were discretized into three possible states (underregulated, normal, and overregulated), and Bayesian Networks (Heckerman, Geiger, &#x00026; Chickering, <xref rid="fes3126-bib-0047" ref-type="ref">1995</xref>) were derived using hill&#x02010;climbing available in the bnlearn package (Scutari, <xref rid="fes3126-bib-0085" ref-type="ref">2010</xref>). In the process of building the structure of the networks, using the blacklist option (which allows specific links to be disallowed), the algorithm was allowed to create a connection only if this existed in the list of unique connections. At this point, the inference feature of Bayesian Networks was used to calculate the prediction accuracy (the average of correctly predicted values among the total predictions) for each gene among all studies internal to the stress&#x02010;enriched study cluster (<italic>intra</italic>prediction) and external to it (<italic>inter</italic>prediction), using the leave&#x02010;one&#x02010;out approach. Focusing on mechanisms operating in the asparagine network in wheat under stress conditions, Figure&#x000a0;<xref rid="fes3126-fig-0001" ref-type="fig">1</xref> shows the unique network for the stress&#x02010;enriched cluster C1. The genes highlighted in grey indicate those genes for which the internal prediction accuracy is greater or equal to 0.5. The chance of randomly predicting a gene correctly is 0.33 (given three possible states). The numbers in the nodes correspond to the Affymetrix IDs of different genes (Table <xref rid="fes3126-sup-0002" ref-type="supplementary-material">S1</xref>). The mechanisms involved in asparagine metabolism include several cycles which, as a structure, require dynamic extensions in order to be modeled within Bayesian Networks. This was outside the scope of the study and these cycles therefore do not appear in the unique network in Figure&#x000a0;<xref rid="fes3126-fig-0001" ref-type="fig">1</xref>. Nevertheless, the comparison of the internal prediction versus the external prediction (Figure&#x000a0;<xref rid="fes3126-fig-0002" ref-type="fig">2</xref>) clearly shows how the genes involved in the stress unique network are much better predicted internally (within the stress study&#x02010;cluster C1) rather than externally (within the nonstress study&#x02010;cluster C2), and therefore can be concluded to be specifically involved in asparagine metabolism when wheat is growing under stress conditions.</p><fig fig-type="Figure" xml:lang="en" id="fes3126-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Stress&#x02010;enriched unique network. Nodes with grey background indicate genes with an internal prediction accuracy higher than 0.5 (the probability of occurring by chance is 0.333)</p></caption><graphic id="nlm-graphic-3" xlink:href="FES3-7-na-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="fes3126-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Accuracy of internal versus external prediction for genes. The boxplots in the figure indicate each gene's internal prediction, while the line indicates each gene's average external prediction</p></caption><graphic id="nlm-graphic-5" xlink:href="FES3-7-na-g002"/></fig></sec><sec id="fes3126-sec-0009"><label>3.6</label><title>Case 2</title><p>In order to compare each stress&#x02010;enriched study versus one cluster which contained all of the nonstress studies, 13 datasets were compiled, 12 of which corresponded to the stress&#x02010;enriched studies and 1 to a single nonstress study cluster with 344 samples, which was called <italic>Cns</italic>. As before, the 121 genes (Affymetrix IDs) related to asparagine metabolism were selected in each of the 12 stress&#x02010;enriched datasets. This time, however, one Gene Regulatory Network was constructed for each stress&#x02010;enriched study and one for the nonstress cluster. Because each single study comprised only a few tens of samples, glasso had to be applied with a more stringent condition in order to limit the number of false&#x02010;positive links (Friedman et&#x000a0;al., <xref rid="fes3126-bib-0031" ref-type="ref">2008</xref>), and therefore the penalization parameter was set at &#x003c1;&#x000a0;=&#x000a0;.03, whereas the larger number of samples in the nonstress cluster allowed application of glasso with &#x003c1;&#x000a0;=&#x000a0;.001.</p><p>At this point, the process was as described in <xref rid="fes3126-sec-0008" ref-type="sec">Case 1</xref> for each combination of single study versus nonstress study cluster. Each stress&#x02010;enriched network was filtered with the nonstress network and the list of unique connections was used to build the unique networks, one for each stress&#x02010;enriched study. As expected, given the smaller number of samples in each stress&#x02010;enriched study, fewer genes presented a prediction accuracy higher than 0.5 compared with the network in Case 1, but the average intrastudy prediction was generally higher than the interstudy prediction, and where the means were similar the variance was greater externally than internally (not shown).</p><p>The relatively small number of genes with a prediction accuracy higher than 0.5 was attributable to three factors: firstly, the small number of samples involved in each stress&#x02010;enriched study; secondly, the fact that genes that are important in asparagine metabolism under stress conditions may still be related under nonstress conditions; thirdly, although the literature&#x02010;derived structure of asparagine metabolism involves several cycles, these were filtered out for the reason described above, and this would certainly have resulted in loss of information.</p></sec><sec id="fes3126-sec-0010"><label>3.7</label><title>Asparagine metabolism in wheat roots under drought stress</title><p>A regulatory network of genes involved in asparagine metabolism in wheat roots specifically under drought stress was compiled using data from study E&#x02010;GEOD&#x02010;42214 (Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>) and is presented in Figure&#x000a0;<xref rid="fes3126-fig-0003" ref-type="fig">3</xref>. The genes shown in the figure are not expressed under normal conditions and are therefore representative only for the specific stress condition of drought. The three genes at the top of the network are genes 112 and 120 (Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>), both encoding asparaginases, and gene 73, encoding pyruvate orthophosphate dikinase (PPDK). This is consistent with the fact that asparaginase genes have been shown to be induced in many plant species by thermal and osmotic stress, including the osmotic stress caused by drought conditions (Gaufichon et&#x000a0;al., <xref rid="fes3126-bib-0035" ref-type="ref">2010</xref>). However, different results have been published for soybean, showing asparaginase to be induced by low temperature, ABA and NaCl but not heat shock or drought stress (Cho et&#x000a0;al., <xref rid="fes3126-bib-0016" ref-type="ref">2007</xref>). Pyruvate orthophosphate dikinase has been shown to be induced in the roots of rice seedlings during gradual drying, cold, high salt, and water deficit response (Moons, Valcke, &#x00026; Van Montagu, <xref rid="fes3126-bib-0071" ref-type="ref">1998</xref>), and its overexpression in maize has been shown to improve drought tolerance (Gu, Qiu, &#x00026; Yang, <xref rid="fes3126-bib-0039" ref-type="ref">2013</xref>).</p><fig fig-type="Figure" xml:lang="en" id="fes3126-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Networks based on genes involved in asparagine metabolism that are expressed only under drought stress in wheat roots. Genes are indicated by the numbers assigned in Table <xref rid="fes3126-sup-0002" ref-type="supplementary-material">S1</xref>. Nodes with grey background indicate genes with an internal prediction accuracy higher than 0.5</p></caption><graphic id="nlm-graphic-7" xlink:href="FES3-7-na-g003"/></fig><p>Gene 35 (glutamine synthetase; GSe1/2) follows gene 112 (asparaginase), while gene 66 (aspartate kinase; AK_HSDH I/II) follows gene 120 (asparaginase), and gene 16 (bZIP9) follows gene 73 (PPDK). Again there is consistency with what is known about these genes: glutamine synthetases have been classified previously as metabolic indicators of drought stress (Nagy et&#x000a0;al., <xref rid="fes3126-bib-0074" ref-type="ref">2013</xref>), while aspartate kinase, although not directly associated with drought stress before, has been proposed as a sensor for activation of hyperosmotic stress (Zhu, <xref rid="fes3126-bib-0110" ref-type="ref">2002</xref>). Gene 35 (glutamine synthetase) is further connected to gene 1 (alanine&#x02010;glyoxylate aminotransferase; AGT), gene 12 (bZIP63), and gene 14 (bZIP10), then gene 14 (bZIP10) is further connected to gene 36 (glutamine synthetase; GSr 1/2) and 92 (aspartate amino transferase 2). After gene 36 (GSr 1/2) are gene 75 (homoserine kinase; HSK) and gene 116 (glutamine&#x02010;dependent NAD<sup>(+)</sup> synthase). This is the first time that influences have been discovered between these genes.</p><p>In the second series of connections in Figure&#x000a0;<xref rid="fes3126-fig-0003" ref-type="fig">3</xref>, gene 66 (aspartate kinase) is followed by gene 24 (asparagine synthetase, ASN1). This is further connected to two genes encoding transcription factors, gene 9 (bZIP63) and gene 68 (BLZ1), as well as genes 25, 51, 52, and 67 (all encoding aspartate amino transferases), gene 34 (monofunctional aspartate kinase), and gene 43 (asparaginase). As discussed above, the bZIP63 transcription factor has been shown to interact with protein kinase SnRK1 to promote expression of asparagine synthetase gene <italic>ASN1</italic>, which is dark induced and sugar repressed, in Arabidopsis (Baena&#x02010;Gonz&#x000e1;lez et&#x000a0;al., <xref rid="fes3126-bib-0002" ref-type="ref">2007</xref>). The position of asparagine synthetase as a hub in the network, linking with nine other genes, is consistent with the notion of asparagine having a role not only in nitrogen transport but also as a signaling molecule, something that has been suggested by Foyer, Parry, and Noctor (<xref rid="fes3126-bib-0030" ref-type="ref">2003</xref>) and Seifi, De Vleesschauwer, Aziz, and Hofte (<xref rid="fes3126-bib-0087" ref-type="ref">2014</xref>).</p><p>The final part of this network comprises gene 16 (bZIP9), gene 49 (glutamate dehydrogenase; GDH), and gene 54 (alanine&#x02010;glyoxylate aminotransferase; AGT). The link among bZIP9, GDH, and AGT has not been described previously, but both AGT and glutamate&#x02010;glyoxylate aminotransferase have been shown to be inhibited by hypoxia (Ricoult, Echeverria, Cliquet, &#x00026; Limami, <xref rid="fes3126-bib-0080" ref-type="ref">2006</xref>).</p></sec><sec id="fes3126-sec-0011"><label>3.8</label><title>Asparagine metabolism in wheat leaves under drought stress</title><p>Figure&#x000a0;<xref rid="fes3126-fig-0004" ref-type="fig">4</xref> represents a network of genes involved in asparagine metabolism that are expressed in wheat leaves under drought stress, and was compiled using data from study E&#x02010;GEOD&#x02010;31759 (Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>). This figure could be separated into nine parts. The first one starts with gene 87 (glutamate decarboxylase) followed by gene 1 (alanine&#x02010;glyoxylate aminotransferase; AGT) and gene 4 (asparaginase). It is notable that asparaginase and AGT genes also featured in Figure&#x000a0;<xref rid="fes3126-fig-0003" ref-type="fig">3</xref>, while the role of glutamate decarboxylase is consistent with its involvement in drought stress responses (it synthesizes &#x003b3;&#x02010;amino butyric acid (GABA) from glutamate (Mohammadi, Kav, &#x00026; Deyholos, <xref rid="fes3126-bib-0070" ref-type="ref">2007</xref>) and GABA may function as an osmoprotectant under stress conditions). The genes that follow gene 4 (asparaginase) are as follows: gene 13 (glutamate dehydrogenase; GDH1) and gene 69 (asparaginase). Gene 13 (GDH1) is connected to gene 11 (Fd_GOGAT). On the other side of this series of connections, the genes following genes 4 and 69 (asparaginase) are gene 45 (homoserine dehydrogenase; HSDH) and gene 21 (glutamine synthetase; GSr). Note that gene 69 (asparaginase) arises twice to avoid a closed link.</p><fig fig-type="Figure" xml:lang="en" id="fes3126-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Networks based on genes involved in asparagine metabolism that are expressed only under drought stress in wheat leaves. Genes are indicated by the numbers assigned in Table <xref rid="fes3126-sup-0002" ref-type="supplementary-material">S1</xref>. Nodes with grey background indicate genes with an internal prediction accuracy higher than 0.5</p></caption><graphic id="nlm-graphic-9" xlink:href="FES3-7-na-g004"/></fig><p>Again, there are consistencies with the results of previous experimental studies. Overexpression of an <italic>E.&#x000a0;coli GDH</italic> gene, for example, has been shown to improve drought tolerance in maize (Lightfoot et&#x000a0;al., <xref rid="fes3126-bib-0063" ref-type="ref">2007</xref>), while Fd&#x02010;GOGAT gene expression has been shown to increase in <italic>Lotus corniculatus</italic> under drought stress (Borsani, Diaz, &#x00026; Monza, <xref rid="fes3126-bib-0009" ref-type="ref">1999</xref>). The link between stress, GS, and GDH has also been investigated in wheat (Sairam, <xref rid="fes3126-bib-0082" ref-type="ref">1994</xref>): drought&#x02010;tolerant genotypes were shown to have higher activities of both these enzymes and of nitrate reductase under drought stress, compared with drought&#x02010;sensitive genotypes. This was associated with the maintenance of higher relative water content, membrane stability, chlorophyll content, and photosynthesis.</p><p>The second part of the network starts with gene 94 (asparaginase) followed by gene 43 (also asparaginase). A link between these two asparaginase genes has been suggested in a study in which severe drought significantly decreased the activities of key enzymes of nitrogen anabolism, such as nitrate reductase, glutamine synthetase, and glutamate dehydrogenase, but increased the activities of enzymes involved in nitrogen catabolism, including asparaginase and endopeptidase (Xu &#x00026; Zhou, <xref rid="fes3126-bib-0107" ref-type="ref">2006</xref>). Following the two asparaginase genes are gene 2 (bZIP9), gene 47 (bZIP11), and gene 118 (glycosyl asparaginase; an enzyme that hydrolyzes the &#x003b2;&#x02010;N&#x02010;glycosidic bond between asparagine and N&#x02010;acetylglucosamine in asparagine&#x02010;linked glycans). After gene 2 (bZIP9) are gene 116 (glutamine&#x02010;dependent NAD<sup>(+)</sup> synthetase) followed by gene 53 (another asparaginase). As well as regulating asparagine synthetase&#x02010;1 and proline dehydrogenase&#x02010;2 gene expression (Hanson, Hanssen, Wiese, Hendriks, &#x00026; Smeekens, <xref rid="fes3126-bib-0044" ref-type="ref">2008</xref>), bZIP11 is a regulator of trehalose metabolism (Hanson et&#x000a0;al., <xref rid="fes3126-bib-0044" ref-type="ref">2008</xref>; Ma et&#x000a0;al., <xref rid="fes3126-bib-0065" ref-type="ref">2011</xref>), and trehalose metabolism is now known to play a key role in drought stress tolerance (Lawlor &#x00026; Paul, <xref rid="fes3126-bib-0060" ref-type="ref">2014</xref>).</p><p>The third part of the network in Figure&#x000a0;<xref rid="fes3126-fig-0004" ref-type="fig">4</xref> comprises gene 113 (bZIP63) followed by gene 18 (bZIP10), with bZIP10 then affecting gene 6 (SnRK1.2), gene 23 (glutamine&#x02010;dependent NAD<sup>(+)</sup> synthetase), gene 66 (aspartate kinase homoserine dehydrogenase), and gene 96 (asparaginase). bZIP63 has been shown to be involved in SnRK1&#x02010;induced responses to energy limitation, and to be an important node of the glucose&#x02010;ABA interaction network (Matiolli et&#x000a0;al., <xref rid="fes3126-bib-0067" ref-type="ref">2011</xref>), while bZIP10 shuttles between the nucleus and the cytoplasm and binds consensus G&#x02010; and C&#x02010;box DNA sequences. It has been reported to be retained outside the nucleus by LSD1, a protein protecting Arabidopsis from death caused by oxidative stress signals (Kaminaka et&#x000a0;al., <xref rid="fes3126-bib-0054" ref-type="ref">2006</xref>). bZIP10 has not previously been linked directly to drought, but it has been suggested to have roles in stress responses and, more specifically, in amino acid metabolism, and sink&#x02010;specific gene expression (Kaminaka et&#x000a0;al., <xref rid="fes3126-bib-0054" ref-type="ref">2006</xref>).</p><p>The fourth part of the network comprises gene 48 (homoserine dehydrogenase) and gene 17 (glycosyl asparaginase). The fifth part starts with gene 37 (aspartate kinase) followed by gene 35 (glutamine synthetase; GSe). It then splits into two: gene 28 (SnRK1) and gene 34 (aspartokinase). SnRK1 affects gene 24 (ASN1), followed by gene 58 (asparaginase), while in the other branch, gene 34 (aspartokinase) is followed by gene 104 (asparaginase) and finally gene 67 (AspAT). This part of the network represents the direct effect of drought stress on asparagine metabolism described by Lea et&#x000a0;al. (<xref rid="fes3126-bib-0062" ref-type="ref">2007</xref>). As discussed above, the expression of the Arabidopsis <italic>AtASN1</italic> gene has been shown to increase when SnRK1 is overexpressed in transgenic plants (Baena&#x02010;Gonz&#x000e1;lez et&#x000a0;al., <xref rid="fes3126-bib-0002" ref-type="ref">2007</xref>). Furthermore, the promoter of <italic>AtASN1</italic> contains a G&#x02010;Box sequence known to be bound by a bZIP transcription factor (Delatte et&#x000a0;al., <xref rid="fes3126-bib-0027" ref-type="ref">2011</xref>). The link between asparaginase and asparagine synthetase may occur because they are connected <italic>via</italic> accumulation/remobilization of asparagine: when asparagine is accumulated as a result of drought stress, it may be catabolized by asparaginase to supply nitrogen for the synthesis of other amino acids (Grant &#x00026; Bevan, <xref rid="fes3126-bib-0037" ref-type="ref">1994</xref>; Sotero&#x02010;Martins, da Silva Bon, &#x00026; Carvajal, <xref rid="fes3126-bib-0091" ref-type="ref">2003</xref>).</p><p>The sixth part of the network starts with gene 64 (glutamate decarboxylase), followed by gene 30 (AspAT), gene 32 (GCN2), and gene 46 (homoserine kinase). These three genes are coexpressed during amino acid biosynthesis. A link between aspartate amino transferase and GCN2 was shown by Zhang et&#x000a0;al. (<xref rid="fes3126-bib-0109" ref-type="ref">2008</xref>) using an Arabidopsis mutant lacking a functional GCN2.</p><p>Each of the next three groups consists of only two genes: gene 85 (glutamine&#x02010;dependent NAD<sup>(+)</sup> synthetase) connected to gene 36 (glutamine synthetase; GSe1/2); gene 119 (bZIP9) connected to gene 40 (SnRK1); and gene 97 (asparaginase) connected to gene 50 (HAT22). The only one of these links to be reported previously was that between HAT22 and asparaginase (Thum et&#x000a0;al., <xref rid="fes3126-bib-0095" ref-type="ref">2008</xref>).</p></sec><sec id="fes3126-sec-0012"><label>3.9</label><title>Influence of nutrient supply on asparagine metabolism: elucidation of networks operating under conditions of sulfur and nitrogen deficiency</title><p>Free asparagine and total free amino acids have been shown to accumulate to greatly increased levels in wheat in response to sulfur deficiency (Curtis et&#x000a0;al., <xref rid="fes3126-bib-0023" ref-type="ref">2009</xref>; Granvogl et&#x000a0;al., <xref rid="fes3126-bib-0038" ref-type="ref">2007</xref>; Muttucumaru et&#x000a0;al., <xref rid="fes3126-bib-0072" ref-type="ref">2006</xref>). It has been suggested that free asparagine is used as a nitrogen store under these conditions, making the balance of sulfur and nitrogen availability an important factor in preventing asparagine accumulation (Curtis, Postles, &#x00026; Halford, <xref rid="fes3126-bib-0024" ref-type="ref">2014</xref>). A network was therefore constructed to represent responses of genes involved in asparagine metabolism in leaves of winter wheat under conditions of sulfur and nitrogen deficiency (Figure&#x000a0;<xref rid="fes3126-fig-0005" ref-type="fig">5</xref>), using data from a transcription profiling time series (Table&#x000a0;<xref rid="fes3126-tbl-0001" ref-type="table-wrap">1</xref>, study: E&#x02010;MEXP&#x02010;1415). The network consists of 28 genes, with the first part starting with gene 104 (asparaginase), followed by gene 1 (alanine&#x02010;glyoxylate aminotransferase; AGT), then three further genes: gene 8 (asparagine synthetase&#x02010;3; TaASN3), gene 69 (asparaginase), and gene 75 (homoserine kinase; HSK). The second part of the network starts with gene 93 (asparaginase; HvAse), followed by gene 43 (asparaginase) and 65 (TaGCN2). Further to these, respectively, are genes 24 (TaASN1) and 6 (SnRK1). The study therefore suggests that <italic>TaASN1</italic> and <italic>TaASN3</italic> are both affected by nutrient availability, consistent with the findings of Gao et&#x000a0;al. (<xref rid="fes3126-bib-0033" ref-type="ref">2016</xref>).</p><fig fig-type="Figure" xml:lang="en" id="fes3126-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Networks based on genes involved in asparagine metabolism that are expressed only under conditions of sulfur and nitrogen deficiency in wheat leaves. Genes are indicated by the numbers assigned in Table <xref rid="fes3126-sup-0002" ref-type="supplementary-material">S1</xref>. Nodes with grey background indicate genes with an internal prediction accuracy higher than 0.5</p></caption><graphic id="nlm-graphic-11" xlink:href="FES3-7-na-g005"/></fig><p>The next two sections are very short: gene 118 (glycosyl asparaginase) affects gene 12 (bZIP63), and gene 55 (transcription factor BLZ1) affects gene 13 (glutamate dehydrogenase 1/2; GDH1/2). The <italic>BLZ1</italic> gene is expressed during early endosperm development in barley, as well as in roots and leaves (Vicente&#x02010;Carbajosa, Onate, Lara, Diaz, &#x00026; Carbonero, <xref rid="fes3126-bib-0100" ref-type="ref">1998</xref>), and has been associated with flowering time and plant height (Haseneyer et&#x000a0;al., <xref rid="fes3126-bib-0045" ref-type="ref">2010</xref>). BLZ1 binds to the N&#x02010;motif, a promoter element with the nucleotide sequence ATGAGTCATC that was first characterized as a nitrogen&#x02010;responsive element in cereal seed storage protein genes (reviewed by Halford &#x00026; Shewry, <xref rid="fes3126-bib-0043" ref-type="ref">2007</xref>) but is also found in the promoter of <italic>TaASN1</italic> and <italic>ASN1</italic> genes from multiple cereal species (Gao et&#x000a0;al., <xref rid="fes3126-bib-0033" ref-type="ref">2016</xref>).</p><p>The next series starts with gene 108 (bZIP11), followed by gene 17 (glycosyl asparaginase) and gene 15 (aspartate amino transferase; AspAT). The next section is larger, comprising nine genes in total and starting with gene 64 (glutamate decarboxylase), then three genes: gene 44 (homoserine dehydrogenase), gene 46 (homoserine kinase; HSK), and gene 50 (HAT22). After gene 44 (homoserine dehydrogenase) comes gene 21 (glutamine synthetase; GSr1/2), then two more genes: gene 37 (aspartate kinase&#x02010;homoserine dehydrogenase&#x02010;2) and gene 56 (homoserine dehydrogenase; HSDH). The series finishes with gene 38 (homoserine kinase; HSK) and gene 87 (glutamate decarboxylase), and therefore contains the glutamine synthetase, glutamate and glutamate decarboxylase loop. All of these genes have been shown to be affected by nitrogen availability (Forde &#x00026; Lea, <xref rid="fes3126-bib-0029" ref-type="ref">2007</xref>).</p><p>The final part of the network consists of two genes: gene 66 (aspartate kinase; AK&#x02010;HSDH) and gene 51 (aspartate amino transferase; AspAT1). The expression of both these genes has been shown to increase in Arabidopsis upon sulfur starvation (Nikiforova et&#x000a0;al., <xref rid="fes3126-bib-0075" ref-type="ref">2006</xref>).</p></sec></sec><sec id="fes3126-sec-0013"><label>4</label><title>DISCUSSION</title><p>This study represents the construction of a detailed and comprehensive asparagine metabolism network. The network comprises stimuli, enzymes, genes, and small molecules, including asparagine itself, glutamine, aspartate, and glutamate, and energy molecules, including ATP, ADP, and NADH. The network was hand curated using data from existing databases and literature from a range of species, but was applied to the analysis of transcriptomic data from wheat plants to identify genes involved in asparagine metabolism under conditions of drought stress and nutrient deficiency. This also served as a validation exercise because it identified interactions between genes in the network.</p><p>Previous modeling studies of nitrogen assimilation, amino acid, and sugar metabolism have been much narrower in scope. The first nitrogen assimilation network was published by Champigny (<xref rid="fes3126-bib-0014" ref-type="ref">1995</xref>), but asparagine and aspartate were excluded. Research on nitrogen assimilation at that time focused mainly on glutamine and glutamate (Sechley, Yamaya, &#x00026; Oaks, <xref rid="fes3126-bib-0086" ref-type="ref">1992</xref>). In carbon metabolism, Wienkoop et&#x000a0;al. (<xref rid="fes3126-bib-0104" ref-type="ref">2008</xref>) published an investigation of the combined covariance structure of metabolite and protein dynamics in the systemic response to abiotic stress in wild&#x02010;type Arabidopsis and a mutant with a starch deficiency phenotype caused by a dysfunctional phosphodismutase gene. Independent component analysis was used to reveal phenotype classifications resolving genotype&#x02010;dependent response effects to temperature treatment, and genotype&#x02010;independent general temperature compensation mechanisms (Wienkoop et&#x000a0;al., <xref rid="fes3126-bib-0104" ref-type="ref">2008</xref>). Modeling approaches, including Boolean logic, have also been used for a systematic exploration of the interactions between light and sugar signaling in the regulation of asparagine synthetase and glutamine synthetase in Arabidopsis (Thum et&#x000a0;al., <xref rid="fes3126-bib-0095" ref-type="ref">2008</xref>). However, the network constructed in this study far exceeds anything on asparagine metabolism in the literature.</p><p>It is clear from the networks that were developed in this study that the expression of many genes involved in asparagine metabolism is altered in response to stress conditions and nutrient availability. Some of the responses and relationships identified in the construction of the networks are well documented in the literature, but others have not been described in any detail and the nature of the relationship remains unknown. Potentially important interactions for wheat grain development and composition that require further study include that between GCN2, SnRK1, and asparagine synthetase, while detailed knowledge is also lacking on the potentially important role of HAT22 in regulating asparagine metabolism, the influence of asparaginase, glutamate dehydrogenase, and homoserine dehydrogenase on asparagine metabolism under drought stress, and the role of bZIP transcription factors in general responses to drought stress. Nevertheless, the network could be used to predict the response of genes in asparagine metabolism to stress or other stimuli, and identifies sets of genes whose expression defines particular stresses. It could also provide a basis for developing strategic genetic interventions to manipulate asparagine concentration, and for the application of other modeling techniques to this crucial area of plant metabolism.</p></sec><sec id="fes3126-sec-0015"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="fes3126-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="FES3-7-na-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="fes3126-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="FES3-7-na-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="fes3126-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="FES3-7-na-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="fes3126-sec-0014"><title>ACKNOWLEDGMENTS</title><p>TYC was supported by the Biotechnology and Biological Scientific Research Council (BBSRC) of the United Kingdom through stand&#x02010;alone LINK project BB/I020918/1, &#x0201c;Genetic improvement of wheat to reduce the potential for acrylamide formation during processing&#x0201d;. NGH is supported by the BBSRC through the Designing Future Wheat Programme at Rothamsted Research.</p></ack><ref-list content-type="cited-references" id="fes3126-bibl-0001"><title>REFERENCES</title><ref id="fes3126-bib-0001"><mixed-citation publication-type="journal" id="fes3126-cit-0001">
+<string-name>
+<surname>Avila&#x02010;Ospina</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Marmagne</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Talbotec</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Krupinska</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>). <article-title>The identification of new cytosolic glutamine synthetase and asparagine synthetase genes in barley (<italic>Hordeum vulgare</italic> L.), and their expression during leaf senescence</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>66</volume>, <fpage>2013</fpage>&#x02013;<lpage>2026</lpage>.<pub-id pub-id-type="pmid">25697791</pub-id></mixed-citation></ref><ref id="fes3126-bib-0002"><mixed-citation publication-type="journal" id="fes3126-cit-0002">
+<string-name>
+<surname>Baena&#x02010;Gonz&#x000e1;lez</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rolland</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Thevelein</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sheen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>). <article-title>A central integrator of transcription networks in plant stress and energy signalling</article-title>. <source xml:lang="en">Nature</source>, <volume>448</volume>, <fpage>938</fpage>&#x02013;<lpage>942</lpage>.<pub-id pub-id-type="pmid">17671505</pub-id></mixed-citation></ref><ref id="fes3126-bib-0003"><mixed-citation publication-type="journal" id="fes3126-cit-0003">
+<string-name>
+<surname>Baena&#x02010;Gonz&#x000e1;lez</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sheen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Convergent energy and stress signaling</article-title>. <source xml:lang="en">Trends in Plant Science</source>, <volume>13</volume>, <fpage>474</fpage>&#x02013;<lpage>482</lpage>.<pub-id pub-id-type="pmid">18701338</pub-id></mixed-citation></ref><ref id="fes3126-bib-0004"><mixed-citation publication-type="journal" id="fes3126-cit-0004">
+<string-name>
+<surname>Baker</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Hawkins</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Lovegrove</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Napier</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Shewry</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beale</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>A metabolomic study of substantial equivalence of field&#x02010;grown genetically modified wheat</article-title>. <source xml:lang="en">Plant Biotechnology Journal</source>, <volume>4</volume>, <fpage>381</fpage>&#x02013;<lpage>392</lpage>.<pub-id pub-id-type="pmid">17177804</pub-id></mixed-citation></ref><ref id="fes3126-bib-0005"><mixed-citation publication-type="journal" id="fes3126-cit-0005">
+<string-name>
+<surname>Baudet</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huet</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Jolivet</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lesaint</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Moss&#x000e9;</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pernollet</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name> (<year>1986</year>). <article-title>Changes in accumulation of seed nitrogen compounds in maize under conditions of sulphur deficiency</article-title>. <source xml:lang="en">Physiologia Plantarum</source>, <volume>68</volume>, <fpage>608</fpage>&#x02013;<lpage>614</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0006"><mixed-citation publication-type="journal" id="fes3126-cit-0006">
+<string-name>
+<surname>Bernard</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Habash</surname>, <given-names>D. Z.</given-names>
+</string-name> (<year>2009</year>). <article-title>The importance of cytosolic glutamine synthetase in nitrogen assimilation and recycling</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>182</volume>, <fpage>608</fpage>&#x02013;<lpage>620</lpage>.<pub-id pub-id-type="pmid">19422547</pub-id></mixed-citation></ref><ref id="fes3126-bib-0007"><mixed-citation publication-type="journal" id="fes3126-cit-0007">
+<string-name>
+<surname>Berteli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Corrales</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Guerrero</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ariza</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Pliego</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Valpuesta</surname>, <given-names>V.</given-names>
+</string-name> (<year>1995</year>). <article-title>Salt stress increases ferredoxin&#x02010;dependent glutamate synthetase activity and protein level in the leaves of tomato</article-title>. <source xml:lang="en">Physiologia Plantarum</source>, <volume>93</volume>, <fpage>259</fpage>&#x02013;<lpage>264</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0008"><mixed-citation publication-type="journal" id="fes3126-cit-0008">
+<string-name>
+<surname>Bo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lysenko</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Saqi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Swift</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tucker</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Discovering study&#x02010;specific gene regulatory networks</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <fpage>e106524</fpage>.<pub-id pub-id-type="pmid">25191999</pub-id></mixed-citation></ref><ref id="fes3126-bib-0009"><mixed-citation publication-type="journal" id="fes3126-cit-0009">
+<string-name>
+<surname>Borsani</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Monza</surname>, <given-names>J.</given-names>
+</string-name> (<year>1999</year>). <article-title>Proline is involved in water stress responses of <italic>Lotus corniculatus</italic> nitrogen fixing and nitrate fed plants</article-title>. <source xml:lang="en">Journal of Plant Physiology</source>, <volume>155</volume>, <fpage>269</fpage>&#x02013;<lpage>273</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0010"><mixed-citation publication-type="journal" id="fes3126-cit-0010">
+<string-name>
+<surname>Brauc</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>De Vooght</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Claeys</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hofte</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Angenon</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>). <article-title>Influence of over&#x02010;expression of cytosolic aspartate aminotransferase on amino acid metabolism and defence responses against <italic>Botrytis cinerea</italic> infection in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Journal of Plant Physiology</source>, <volume>168</volume>, <fpage>1813</fpage>&#x02013;<lpage>1819</lpage>.<pub-id pub-id-type="pmid">21676488</pub-id></mixed-citation></ref><ref id="fes3126-bib-0011"><mixed-citation publication-type="journal" id="fes3126-cit-0011">
+<string-name>
+<surname>Breitling</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Donaldson</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Heiner</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Biomodel engineering &#x02010; from structure to behavior</article-title>. <source xml:lang="en">Lecture Notes Bioinformatics</source>, <volume>5945</volume>, <fpage>1</fpage>&#x02013;<lpage>12</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0012"><mixed-citation publication-type="journal" id="fes3126-cit-0012">
+<string-name>
+<surname>Bruneau</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Marsolais</surname>, <given-names>F.</given-names>
+</string-name> (<year>2006</year>). <article-title>Co&#x02010;occurrence of both L&#x02010;asparaginase subtypes in Arabidopsis: At3g16150 encodes a K<sup>+</sup>&#x02010;dependent L&#x02010;asparaginase</article-title>. <source xml:lang="en">Planta</source>, <volume>224</volume>, <fpage>668</fpage>&#x02013;<lpage>679</lpage>.<pub-id pub-id-type="pmid">16705405</pub-id></mixed-citation></ref><ref id="fes3126-bib-0013"><mixed-citation publication-type="journal" id="fes3126-cit-0013">
+<string-name>
+<surname>Byrne</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name>
+<surname>Prosser</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Muttucumaru</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Wingler</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2012</year>). <article-title>Overexpression of GCN2&#x02010;type protein kinase in wheat has profound effects on free amino acid concentration and gene expression</article-title>. <source xml:lang="en">Plant Biotechnology Journal</source>, <volume>10</volume>, <fpage>328</fpage>&#x02013;<lpage>340</lpage>.<pub-id pub-id-type="pmid">22070093</pub-id></mixed-citation></ref><ref id="fes3126-bib-0014"><mixed-citation publication-type="journal" id="fes3126-cit-0014">
+<string-name>
+<surname>Champigny</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>1995</year>). <article-title>Integration of photosynthetic carbon and nitrogen metabolism in higher plants</article-title>. <source xml:lang="en">Photosynthesis Research</source>, <volume>46</volume>, <fpage>117</fpage>&#x02013;<lpage>127</lpage>.<pub-id pub-id-type="pmid">24301574</pub-id></mixed-citation></ref><ref id="fes3126-bib-0015"><mixed-citation publication-type="journal" id="fes3126-cit-0015">
+<string-name>
+<surname>Chawla</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Shakya</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rommens</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Tuber&#x02010;specific silencing of asparagine synthetase&#x02010;1 reduces the acrylamide&#x02010;forming potential of potatoes grown in the field without affecting tuber shape and yield</article-title>. <source xml:lang="en">Plant Biotechnology Journal</source>, <volume>10</volume>, <fpage>913</fpage>&#x02013;<lpage>924</lpage>.<pub-id pub-id-type="pmid">22726556</pub-id></mixed-citation></ref><ref id="fes3126-bib-0016"><mixed-citation publication-type="journal" id="fes3126-cit-0016">
+<string-name>
+<surname>Cho</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Heo</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J.&#x02010;I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lee</surname>, <given-names>J.&#x02010;H.</given-names>
+</string-name> (<year>2007</year>). <article-title>Molecular characterization of the soybean L&#x02010;asparaginase gene induced by low temperature stress</article-title>. <source xml:lang="en">Molecules Cells</source>, <volume>23</volume>, <fpage>280</fpage>&#x02013;<lpage>286</lpage>.<pub-id pub-id-type="pmid">17646702</pub-id></mixed-citation></ref><ref id="fes3126-bib-0017"><mixed-citation publication-type="journal" id="fes3126-cit-0017">
+<string-name>
+<surname>Claus</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schreiter</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Graeff</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Herrmann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Claupein</surname>, <given-names>W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Carle</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <article-title>Influence of agronomic factors and extraction rate on the acrylamide contents in yeast&#x02010;leavened breads</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>54</volume>, <fpage>8968</fpage>&#x02013;<lpage>8976</lpage>.<pub-id pub-id-type="pmid">17090149</pub-id></mixed-citation></ref><ref id="fes3126-bib-0018"><mixed-citation publication-type="journal" id="fes3126-cit-0018">
+<string-name>
+<surname>Confraria</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Martinho</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Elias</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rubio&#x02010;Somoza</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baena&#x02010;Gonz&#x000e1;lez</surname>, <given-names>E.</given-names>
+</string-name> (<year>2013</year>). <article-title>miRNAs mediate SnRK1&#x02010;dependent energy signaling in Arabidopsis</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>, <volume>4</volume>, <fpage>197</fpage>.<pub-id pub-id-type="pmid">23802004</pub-id></mixed-citation></ref><ref id="fes3126-bib-0020"><mixed-citation publication-type="journal" id="fes3126-cit-0020">
+<string-name>
+<surname>Coschigano</surname>, <given-names>K. T.</given-names>
+</string-name>, <string-name>
+<surname>Melo&#x02010;Oliveira</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1998</year>). <article-title>Arabidopsis <italic>gls</italic> mutants and distinct Fd&#x02010;GOGAT genes: Implications for photorespiration and primary nitrogen assimilation</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>10</volume>, <fpage>741</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">9596633</pub-id></mixed-citation></ref><ref id="fes3126-bib-0021"><mixed-citation publication-type="journal" id="fes3126-cit-0021">
+<string-name>
+<surname>Crozet</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jammes</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Valot</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ambard&#x02010;Bretteville</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Nessler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hodges</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thomas</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Cross&#x02010;phosphorylation between Arabidopsis thaliana sucrose nonfermenting 1&#x02010;related protein kinase 1 (AtSnRK1) and its activating kinase (AtSnAK) determines their catalytic activities</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>285</volume>, <fpage>12071</fpage>&#x02013;<lpage>12077</lpage>.<pub-id pub-id-type="pmid">20164192</pub-id></mixed-citation></ref><ref id="fes3126-bib-0022"><mixed-citation publication-type="journal" id="fes3126-cit-0022">
+<string-name>
+<surname>Curien</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bastlen</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Robert&#x02010;Genthon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cornish&#x02010;Bowden</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cardenas</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dumas</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters</article-title>. <source xml:lang="en">Molecular Systems Biology</source>, <volume>5</volume>, <fpage>14</fpage>.</mixed-citation></ref><ref id="fes3126-bib-0023"><mixed-citation publication-type="journal" id="fes3126-cit-0023">
+<string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Muttucumaru</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Shewry</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Parry</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2009</year>). <article-title>Effects of genotype and environment on free amino acid levels in wheat grain: Implications for acrylamide formation during processing</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>57</volume>, <fpage>1013</fpage>&#x02013;<lpage>1021</lpage>.<pub-id pub-id-type="pmid">19143525</pub-id></mixed-citation></ref><ref id="fes3126-bib-0024"><mixed-citation publication-type="journal" id="fes3126-cit-0024">
+<string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Postles</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Reducing the potential for processing contaminant formation in cereal products</article-title>. <source xml:lang="en">Journal of Cereal Science</source>, <volume>59</volume>, <fpage>382</fpage>&#x02013;<lpage>392</lpage>.<pub-id pub-id-type="pmid">24882936</pub-id></mixed-citation></ref><ref id="fes3126-bib-0025"><mixed-citation publication-type="journal" id="fes3126-cit-0025">
+<string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Balagiannis</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Mottram</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Parry</surname>, <given-names>M. A. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2010</year>). <article-title>Free amino acids and sugars in rye grain: Implications for acrylamide formation</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>58</volume>, <fpage>1959</fpage>&#x02013;<lpage>1969</lpage>.<pub-id pub-id-type="pmid">20055414</pub-id></mixed-citation></ref><ref id="fes3126-bib-0250"><mixed-citation publication-type="journal" id="fes3126-cit-0250">
+<string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effects of fungicide treatment on free amino acid concentration and acrylamide&#x02010;forming potential in wheat</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>64</volume>, <fpage>9689</fpage>&#x02013;<lpage>9696</lpage>.<pub-id pub-id-type="pmid">27977182</pub-id></mixed-citation></ref><ref id="fes3126-bib-0026"><mixed-citation publication-type="journal" id="fes3126-cit-0026">
+<string-name>
+<surname>Davies</surname>, <given-names>K. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>King</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>1993</year>). <article-title>Isolation and characterization of a cDNA clone for a harvest&#x02010;induced asparagine synthetase from <italic>Asparagus officinalis</italic> L</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>102</volume>, <fpage>1337</fpage>&#x02013;<lpage>1340</lpage>.<pub-id pub-id-type="pmid">7904077</pub-id></mixed-citation></ref><ref id="fes3126-bib-0027"><mixed-citation publication-type="journal" id="fes3126-cit-0027">
+<string-name>
+<surname>Delatte</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Sedijani</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kondou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Matsui</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de Jong</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Somsen</surname>, <given-names>G. W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schluepmann</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>). <article-title>Growth arrest by trehalose&#x02010;6&#x02010;phosphate: An astonishing case of primary metabolite control over growth by way of the SnRK1 signaling pathway</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>157</volume>, <fpage>160</fpage>&#x02013;<lpage>174</lpage>.<pub-id pub-id-type="pmid">21753116</pub-id></mixed-citation></ref><ref id="fes3126-bib-0028"><mixed-citation publication-type="journal" id="fes3126-cit-0028">
+<string-name>
+<surname>Duff</surname>, <given-names>S. M. G.</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>X. Y.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fabbri</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>). <article-title>A kinetic comparison of asparagine synthetase isozymes from higher plants</article-title>. <source xml:lang="en">Plant Physiology and Biochemistry</source>, <volume>49</volume>, <fpage>251</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">21276727</pub-id></mixed-citation></ref><ref id="fes3126-bib-0200"><mixed-citation publication-type="journal" id="fes3126-cit-0200">
+<collab collab-type="authors">EFSA Panel on Contaminants in the Food Chain (CONTAM)</collab>
+(<year>2015</year>). <article-title>Scientific opinion on acrylamide in food</article-title>. <source xml:lang="en">EFSA Journal</source>, <volume>13</volume>, <fpage>4104</fpage>.</mixed-citation></ref><ref id="fes3126-bib-0029"><mixed-citation publication-type="journal" id="fes3126-cit-0029">
+<string-name>
+<surname>Forde</surname>, <given-names>B. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lea</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Glutamate in plants: Metabolism, regulation, and signalling</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>58</volume>, <fpage>2339</fpage>&#x02013;<lpage>2358</lpage>.<pub-id pub-id-type="pmid">17578865</pub-id></mixed-citation></ref><ref id="fes3126-bib-0030"><mixed-citation publication-type="journal" id="fes3126-cit-0030">
+<string-name>
+<surname>Foyer</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Parry</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Noctor</surname>, <given-names>G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Markers and signals associated with nitrogen assimilation in higher plants</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>54</volume>, <fpage>585</fpage>&#x02013;<lpage>593</lpage>.<pub-id pub-id-type="pmid">12508069</pub-id></mixed-citation></ref><ref id="fes3126-bib-0031"><mixed-citation publication-type="journal" id="fes3126-cit-0031">
+<string-name>
+<surname>Friedman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hastie</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tibshirani</surname>, <given-names>R.</given-names>
+</string-name> (<year>2008</year>). <article-title>Sparse inverse covariance estimation with the graphical lasso</article-title>. <source xml:lang="en">Biostatistics</source>, <volume>9</volume>, <fpage>432</fpage>&#x02013;<lpage>441</lpage>.<pub-id pub-id-type="pmid">18079126</pub-id></mixed-citation></ref><ref id="fes3126-bib-0032"><mixed-citation publication-type="journal" id="fes3126-cit-0032">
+<string-name>
+<surname>Funakoshi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sekine</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Katane</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Furuchi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yohda</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yoshikawa</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Homma</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>). <article-title>Cloning and functional characterization of <italic>Arabidopsis thaliana</italic> D&#x02010;amino acid aminotransferase &#x02010; D&#x02010;aspartate behavior during germination</article-title>. <source xml:lang="en">FEBS Journal</source>, <volume>275</volume>, <fpage>1188</fpage>&#x02013;<lpage>1200</lpage>.<pub-id pub-id-type="pmid">18318836</pub-id></mixed-citation></ref><ref id="fes3126-bib-0033"><mixed-citation publication-type="journal" id="fes3126-cit-0033">
+<string-name>
+<surname>Gao</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Food safety: Structure and expression of the asparagine synthetase gene family of wheat</article-title>. <source xml:lang="en">Journal of Cereal Science</source>, <volume>68</volume>, <fpage>122</fpage>&#x02013;<lpage>131</lpage>.<pub-id pub-id-type="pmid">27110058</pub-id></mixed-citation></ref><ref id="fes3126-bib-0034"><mixed-citation publication-type="journal" id="fes3126-cit-0034">
+<string-name>
+<surname>Garthwaite</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>von Bothmer</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Colmer</surname>, <given-names>T. D.</given-names>
+</string-name> (<year>2005</year>). <article-title>Salt tolerance in wild <italic>Hordeum</italic> species is associated with restricted entry of Na<sup>+</sup> and Cl<sup>&#x02212;</sup> into the shoots</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>6</volume>, <fpage>2365</fpage>&#x02013;<lpage>2378</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0035"><mixed-citation publication-type="journal" id="fes3126-cit-0035">
+<string-name>
+<surname>Gaufichon</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Reisdorf&#x02010;Cren</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rothstein</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Chardon</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Suzuki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Biological functions of asparagine synthetase in plants</article-title>. <source xml:lang="en">Plant Science</source>, <volume>179</volume>, <fpage>141</fpage>&#x02013;<lpage>153</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0036"><mixed-citation publication-type="journal" id="fes3126-cit-0036">
+<string-name>
+<surname>Gautier</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cope</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bolstad</surname>, <given-names>B. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Irizarry</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>affy&#x02010;analysis of Affymetrix GeneChip data at the probe level</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>20</volume>, <fpage>307</fpage>&#x02013;<lpage>315</lpage>.<pub-id pub-id-type="pmid">14960456</pub-id></mixed-citation></ref><ref id="fes3126-bib-0037"><mixed-citation publication-type="journal" id="fes3126-cit-0037">
+<string-name>
+<surname>Grant</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bevan</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>1994</year>). <article-title>Asparaginase gene expression is regulated in a complex spatial and temporal pattern in nitrogen&#x02010;sink tissues</article-title>. <source xml:lang="en">Plant Journal</source>, <volume>5</volume>, <fpage>695</fpage>&#x02013;<lpage>704</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0038"><mixed-citation publication-type="journal" id="fes3126-cit-0038">
+<string-name>
+<surname>Granvogl</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wieser</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Koehler</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>von Tucher</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schieberle</surname>, <given-names>P.</given-names>
+</string-name> (<year>2007</year>). <article-title>Influence of sulphur fertilization on the amounts of free amino acids in wheat. Correlation with baking properties as well as with 3&#x02010;aminopropionamide and acrylamide generation during baking</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>55</volume>, <fpage>4271</fpage>&#x02013;<lpage>4277</lpage>.<pub-id pub-id-type="pmid">17455956</pub-id></mixed-citation></ref><ref id="fes3126-bib-0039"><mixed-citation publication-type="journal" id="fes3126-cit-0039">
+<string-name>
+<surname>Gu</surname>, <given-names>J.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yang</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Enhanced tolerance to drought in transgenic rice plants overexpressing C4 photosynthesis enzymes</article-title>. <source xml:lang="en">Crop Journal</source>, <volume>1</volume>, <fpage>105</fpage>&#x02013;<lpage>114</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0040"><mixed-citation publication-type="journal" id="fes3126-cit-0040">
+<string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Regulation of carbon and amino acid metabolism: Roles of sucrose nonfermenting&#x02010;1&#x02010;related protein kinase&#x02010;1 and general control nonderepressible&#x02010;2&#x02010;related protein kinase</article-title>. <source xml:lang="en">Advances in Botanical Research Incorporating Advances in Plant Pathology</source>, <volume>43</volume>, <fpage>93</fpage>&#x02013;<lpage>142</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0041"><mixed-citation publication-type="journal" id="fes3126-cit-0041">
+<string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Effects of abiotic stress and crop management on cereal grain composition: Implications for food quality and safety</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>66</volume>, <fpage>1145</fpage>&#x02013;<lpage>1156</lpage>.<pub-id pub-id-type="pmid">25428997</pub-id></mixed-citation></ref><ref id="fes3126-bib-0042"><mixed-citation publication-type="journal" id="fes3126-cit-0042">
+<string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Muttucumaru</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Gillatt</surname>, <given-names>P. N.</given-names>
+</string-name>, <string-name>
+<surname>Hartley</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mottram</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Concentrations of free amino acids and sugars in nine potato varieties: Effects of storage and relationship with acrylamide formation</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>60</volume>, <fpage>12044</fpage>&#x02013;<lpage>12055</lpage>.<pub-id pub-id-type="pmid">23126451</pub-id></mixed-citation></ref><ref id="fes3126-bib-0043"><mixed-citation publication-type="book" id="fes3126-cit-0043">
+<string-name>
+<surname>Halford</surname>, <given-names>N.G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shewry</surname>, <given-names>P.R.</given-names>
+</string-name> (<year>2007</year>). <chapter-title>The structure and expression of cereal storage protein genes</chapter-title> In <person-group person-group-type="editor"><name><surname>Olsen</surname><given-names>O&#x02010;A.</given-names></name></person-group> (Ed.), <source xml:lang="en">Endosperm: Developmental and molecular biology (plant cell monographs)</source> (pp. <fpage>195</fpage>&#x02013;<lpage>218</lpage>). <publisher-loc>Berlin, Heidelberg</publisher-loc>: <publisher-name>Springer&#x02010;Verlag</publisher-name>.</mixed-citation></ref><ref id="fes3126-bib-0044"><mixed-citation publication-type="journal" id="fes3126-cit-0044">
+<string-name>
+<surname>Hanson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hanssen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wiese</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hendriks</surname>, <given-names>M. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smeekens</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>). <article-title>The sucrose regulated transcription factor bZIP11 affects amino acid metabolism by regulating the expression of ASPARAGINE SYNTHETASE1 and PROLINE DEHYDROGENASE2</article-title>. <source xml:lang="en">Plant Journal</source>, <volume>53</volume>, <fpage>935</fpage>&#x02013;<lpage>949</lpage>.<pub-id pub-id-type="pmid">18088315</pub-id></mixed-citation></ref><ref id="fes3126-bib-0045"><mixed-citation publication-type="journal" id="fes3126-cit-0045">
+<string-name>
+<surname>Haseneyer</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Stracke</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Piepho</surname>, <given-names>H. P.</given-names>
+</string-name>, <string-name>
+<surname>Sauer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Geiger</surname>, <given-names>H. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graner</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>DNA polymorphisms and haplotype patterns of transcription factors involved in barley endosperm development are associated with key agronomic traits</article-title>. <source xml:lang="en">BMC Plant Biology</source>, <volume>10</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">20070905</pub-id></mixed-citation></ref><ref id="fes3126-bib-0046"><mixed-citation publication-type="journal" id="fes3126-cit-0046">
+<string-name>
+<surname>Heazlewood</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Tonti&#x02010;Filippini</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Gout</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Day</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Whelan</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Millar</surname>, <given-names>A. H.</given-names>
+</string-name> (<year>2004</year>). <article-title>Experimental analysis of the Arabidopsis mitochondrial proteome highlights signaling and regulatory components, provides assessment of targeting prediction programs, and indicates plant&#x02010;specific mitochondrial proteins</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>16</volume>, <fpage>241</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">14671022</pub-id></mixed-citation></ref><ref id="fes3126-bib-0047"><mixed-citation publication-type="journal" id="fes3126-cit-0047">
+<string-name>
+<surname>Heckerman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Geiger</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chickering</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>1995</year>). <article-title>Learning Bayesian networks &#x02013; the combination of knowledge and statistical data</article-title>. <source xml:lang="en">Machine Learning</source>, <volume>20</volume>, <fpage>197</fpage>&#x02013;<lpage>243</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0048"><mixed-citation publication-type="journal" id="fes3126-cit-0048">
+<string-name>
+<surname>Hell</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bergmann</surname>, <given-names>L.</given-names>
+</string-name> (<year>1990</year>). <article-title>&#x003bb;&#x02010;Glutamylcysteine synthetase in higher plants: Catalytic properties and subcellular localization</article-title>. <source xml:lang="en">Planta</source>, <volume>180</volume>, <fpage>603</fpage>&#x02013;<lpage>612</lpage>.<pub-id pub-id-type="pmid">24202107</pub-id></mixed-citation></ref><ref id="fes3126-bib-0049"><mixed-citation publication-type="journal" id="fes3126-cit-0049">
+<string-name>
+<surname>Hey</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2010</year>). <article-title>The interface between metabolic and stress signalling</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>105</volume>, <fpage>197</fpage>&#x02013;<lpage>203</lpage>.<pub-id pub-id-type="pmid">20007158</pub-id></mixed-citation></ref><ref id="fes3126-bib-0050"><mixed-citation publication-type="journal" id="fes3126-cit-0050">
+<string-name>
+<surname>Hey</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mayerhofer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickinson</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>DNA sequences from Arabidopsis, which encode protein kinases and function as upstream regulators of Snf1 in yeast</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>282</volume>, <fpage>10472</fpage>&#x02013;<lpage>10479</lpage>.<pub-id pub-id-type="pmid">17237223</pub-id></mixed-citation></ref><ref id="fes3126-bib-0051"><mixed-citation publication-type="book" id="fes3126-cit-0051">
+<string-name>
+<surname>Hinnebusch</surname>, <given-names>A.G.</given-names>
+</string-name> (<year>1992</year>). <chapter-title>General and pathway&#x02010;specific regulatory mechanisms controlling the synthesis of amino acid biosynthetic enzymes in Saccharomyces cerevisiae.</chapter-title> In <person-group person-group-type="editor"><name><surname>Jones</surname><given-names>E.W.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Pringle</surname><given-names>J.R.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Broach</surname><given-names>J.B.</given-names></name></person-group> (Eds.), <source xml:lang="en">Molecular and cellular biology of the yeast saccharomyces, volume 2, gene expression</source> (pp. <fpage>319</fpage>&#x02013;<lpage>414</lpage>). <publisher-loc>New York</publisher-loc>: <publisher-name>Cold Spring Harbor Laboratory Press</publisher-name>.</mixed-citation></ref><ref id="fes3126-bib-0052"><mixed-citation publication-type="journal" id="fes3126-cit-0052">
+<string-name>
+<surname>Hsieh</surname>, <given-names>M.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>, <given-names>H.&#x02010;M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G.</given-names>
+</string-name> (<year>1996</year>). <article-title>Metabolic regulation of nitrogen assimilatory genes in Arabidopsis</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>111</volume>, <fpage>139</fpage>.</mixed-citation></ref><ref id="fes3126-bib-0053"><mixed-citation publication-type="journal" id="fes3126-cit-0053">
+<string-name>
+<surname>Hummel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rahmani</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Smeekens</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hanson</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sucrose&#x02010;mediated translational control</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>104</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">19376782</pub-id></mixed-citation></ref><ref id="fes3126-bib-0054"><mixed-citation publication-type="journal" id="fes3126-cit-0054">
+<string-name>
+<surname>Kaminaka</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>N&#x000e4;ke</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Epple</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dittgen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000fc;tze</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chaban</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dangl</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2006</year>). <article-title>bZIP10&#x02010;LSD1 antagonism modulates basal defense and cell death in <italic>Arabidopsis</italic> following infection</article-title>. <source xml:lang="en">EMBO Journal</source>, <volume>25</volume>, <fpage>4400</fpage>&#x02013;<lpage>4411</lpage>.<pub-id pub-id-type="pmid">16957775</pub-id></mixed-citation></ref><ref id="fes3126-bib-0055"><mixed-citation publication-type="journal" id="fes3126-cit-0055">
+<string-name>
+<surname>Kusaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ohta</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fujimura</surname>, <given-names>T.</given-names>
+</string-name> (<year>2005</year>). <article-title>Contribution of inorganic components to osmotic adjustment and leaf folding for drought tolerance in pearl millet</article-title>. <source xml:lang="en">Physiologia Plantarum</source>, <volume>125</volume>, <fpage>474</fpage>&#x02013;<lpage>489</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0056"><mixed-citation publication-type="journal" id="fes3126-cit-0056">
+<string-name>
+<surname>Lageix</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lanet</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pouch&#x02010;Pelissier</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>Espagnol</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Robaglia</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Deragon</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pelissier</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Arabidopsis eIF2&#x003b1; kinase GCN2 is essential for growth in stress conditions and is activated by wounding</article-title>. <source xml:lang="en">BMC Plant Biology</source>, <volume>8</volume>, <fpage>134</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">19108716</pub-id></mixed-citation></ref><ref id="fes3126-bib-0057"><mixed-citation publication-type="journal" id="fes3126-cit-0057">
+<string-name>
+<surname>Lam</surname>, <given-names>H.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Coschigano</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Melo&#x02010;Oliveira</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tjaden</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G.</given-names>
+</string-name> (<year>1995</year>). <article-title>Use of Arabidopsis mutants and genes to study amide amino acid biosynthesis</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>7</volume>, <fpage>887</fpage>&#x02013;<lpage>898</lpage>.<pub-id pub-id-type="pmid">7640525</pub-id></mixed-citation></ref><ref id="fes3126-bib-0058"><mixed-citation publication-type="journal" id="fes3126-cit-0058">
+<string-name>
+<surname>Lam</surname>, <given-names>H.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>, <given-names>M.&#x02010;H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G.</given-names>
+</string-name> (<year>1998</year>). <article-title>Reciprocal regulation of distinct asparagine synthetase genes by light and metabolites in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant Journal</source>, <volume>16</volume>, <fpage>345</fpage>&#x02013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">9881155</pub-id></mixed-citation></ref><ref id="fes3126-bib-0059"><mixed-citation publication-type="journal" id="fes3126-cit-0059">
+<string-name>
+<surname>Lam</surname>, <given-names>H.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>S. S. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1994</year>). <article-title>Metabolic regulation of the gene encoding glutamine&#x02010;dependent asparagine synthetase in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>106</volume>, <fpage>1347</fpage>&#x02013;<lpage>1357</lpage>.<pub-id pub-id-type="pmid">7846154</pub-id></mixed-citation></ref><ref id="fes3126-bib-0060"><mixed-citation publication-type="journal" id="fes3126-cit-0060">
+<string-name>
+<surname>Lawlor</surname>, <given-names>D. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Paul</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Source/sink interactions underpin crop yield: The case for trehalose 6&#x02010;phosphate/SnRK1 in improvement of wheat</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>, <volume>5</volume>, <fpage>418</fpage>.<pub-id pub-id-type="pmid">25202319</pub-id></mixed-citation></ref><ref id="fes3126-bib-0061"><mixed-citation publication-type="journal" id="fes3126-cit-0061">
+<string-name>
+<surname>Lea</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Azevedo</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Nitrogen use efficiency. 2. Amino acid metabolism</article-title>. <source xml:lang="en">Annals of Applied Biology</source>, <volume>151</volume>, <fpage>269</fpage>&#x02013;<lpage>275</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0062"><mixed-citation publication-type="journal" id="fes3126-cit-0062">
+<string-name>
+<surname>Lea</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Sodek</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Parry</surname>, <given-names>M. A. J.</given-names>
+</string-name>, <string-name>
+<surname>Shewry</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Asparagine in plants</article-title>. <source xml:lang="en">Annals of Applied Biology</source>, <volume>150</volume>, <fpage>1</fpage>&#x02013;<lpage>26</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0063"><mixed-citation publication-type="journal" id="fes3126-cit-0063">
+<string-name>
+<surname>Lightfoot</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Mungur</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ameziane</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nolte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bernhard</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Young</surname>, <given-names>B.</given-names>
+</string-name> (<year>2007</year>). <article-title>Improved drought tolerance of transgenic <italic>Zea mays</italic> plants that express the glutamate dehydrogenase gene (<italic>gdhA</italic>) of <italic>E.&#x000a0;coli</italic>
+</article-title>. <source xml:lang="en">Euphytica</source>, <volume>156</volume>, <fpage>103</fpage>&#x02013;<lpage>116</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0064"><mixed-citation publication-type="journal" id="fes3126-cit-0064">
+<string-name>
+<surname>Lima</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sodek</surname>, <given-names>L.</given-names>
+</string-name> (<year>2003</year>). <article-title>N&#x02010;stress alters aspartate and asparagine levels of xylem sap in soybean</article-title>. <source xml:lang="en">Plant Science</source>, <volume>165</volume>, <fpage>649</fpage>&#x02013;<lpage>656</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0065"><mixed-citation publication-type="journal" id="fes3126-cit-0065">
+<string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hanssen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lundgren</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Delatte</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ehlert</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hanson</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>The sucrose&#x02010;regulated Arabidopsis transcription factor bZIP11 reprograms metabolism and regulates trehalose metabolism</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>191</volume>, <fpage>733</fpage>&#x02013;<lpage>745</lpage>.<pub-id pub-id-type="pmid">21534971</pub-id></mixed-citation></ref><ref id="fes3126-bib-0066"><mixed-citation publication-type="journal" id="fes3126-cit-0066">
+<string-name>
+<surname>Martinek</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Klem</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Vanova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bartackova</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Vecerkova</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bucher</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hajslova</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Effects of nitrogen nutrition, fungicide treatment and wheat genotype on free asparagine and reducing sugars content as precursors of acrylamide formation in bread</article-title>. <source xml:lang="en">Plant, Soil and Environment</source>, <volume>55</volume>, <fpage>187</fpage>&#x02013;<lpage>195</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0067"><mixed-citation publication-type="journal" id="fes3126-cit-0067">
+<string-name>
+<surname>Matiolli</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Tomaz</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>G. T.</given-names>
+</string-name>, <string-name>
+<surname>Prado</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Del Bem</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Silveira</surname>, <given-names>A. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Vincentz</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>The Arabidopsis bZIP gene AtbZIP63 is a sensitive integrator of transient abscisic acid and glucose signals</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>157</volume>(<issue>2</issue>), <fpage>692</fpage>&#x02013;<lpage>705</lpage>.<pub-id pub-id-type="pmid">21844310</pub-id></mixed-citation></ref><ref id="fes3126-bib-0068"><mixed-citation publication-type="journal" id="fes3126-cit-0068">
+<string-name>
+<surname>Melo&#x02010;Oliveira</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>I. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G.</given-names>
+</string-name> (<year>1996</year>). <article-title>Arabidopsis mutant analysis and gene regulation define a nonredundant role for glutamate dehydrogenase in nitrogen assimilation</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>93</volume>, <fpage>4718</fpage>&#x02013;<lpage>4723</lpage>.<pub-id pub-id-type="pmid">8643469</pub-id></mixed-citation></ref><ref id="fes3126-bib-0069"><mixed-citation publication-type="journal" id="fes3126-cit-0069">
+<string-name>
+<surname>Millar</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Sweetlove</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Giege</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Leaver</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>2001</year>). <article-title>Analysis of the Arabidopsis mitochondrial proteome</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>127</volume>, <fpage>1711</fpage>&#x02013;<lpage>1727</lpage>.<pub-id pub-id-type="pmid">11743115</pub-id></mixed-citation></ref><ref id="fes3126-bib-0070"><mixed-citation publication-type="journal" id="fes3126-cit-0070">
+<string-name>
+<surname>Mohammadi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kav</surname>, <given-names>N. N. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deyholos</surname>, <given-names>M. K.</given-names>
+</string-name> (<year>2007</year>). <article-title>Transcriptional profiling of hexaploid wheat (<italic>Triticum aestivum</italic> L.) roots identifies novel, dehydration&#x02010;responsive genes</article-title>. <source xml:lang="en">Plant Cell and Environment</source>, <volume>30</volume>, <fpage>630</fpage>&#x02013;<lpage>645</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0071"><mixed-citation publication-type="journal" id="fes3126-cit-0071">
+<string-name>
+<surname>Moons</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Valcke</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Montagu</surname>, <given-names>M.</given-names>
+</string-name> (<year>1998</year>). <article-title>Low&#x02010;oxygen stress and water deficit induce cytosolic pyruvate orthophosphate dikinase (PPDK) expression in roots of rice, a C3 plant</article-title>. <source xml:lang="en">Plant Journal</source>, <volume>15</volume>, <fpage>89</fpage>&#x02013;<lpage>98</lpage>.<pub-id pub-id-type="pmid">9744098</pub-id></mixed-citation></ref><ref id="fes3126-bib-0072"><mixed-citation publication-type="journal" id="fes3126-cit-0072">
+<string-name>
+<surname>Muttucumaru</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Dodson</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Parry</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shewry</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mottram</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2006</year>). <article-title>The formation of high levels of acrylamide during the processing of flour derived from sulfate&#x02010;deprived wheat</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>54</volume>, <fpage>8951</fpage>&#x02013;<lpage>8955</lpage>.<pub-id pub-id-type="pmid">17090146</pub-id></mixed-citation></ref><ref id="fes3126-bib-0073"><mixed-citation publication-type="journal" id="fes3126-cit-0073">
+<string-name>
+<surname>Muttucumaru</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Mottram</surname>, <given-names>D. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2015</year>). <article-title>Effects of water availability on free amino acids, sugars and acrylamide&#x02010;forming potential in potato</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>63</volume>, <fpage>2566</fpage>&#x02013;<lpage>2575</lpage>.<pub-id pub-id-type="pmid">25703028</pub-id></mixed-citation></ref><ref id="fes3126-bib-0074"><mixed-citation publication-type="journal" id="fes3126-cit-0074">
+<string-name>
+<surname>Nagy</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Nemeth</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Guoth</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bona</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wodala</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pecsvaradi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Metabolic indicators of drought stress tolerance in wheat: Glutamine synthetase isoenzymes and Rubisco</article-title>. <source xml:lang="en">Plant Physiology and Biochemistry</source>, <volume>67</volume>, <fpage>48</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">23542183</pub-id></mixed-citation></ref><ref id="fes3126-bib-0075"><mixed-citation publication-type="journal" id="fes3126-cit-0075">
+<string-name>
+<surname>Nikiforova</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Bielecka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gaki&#x000e8;re</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Krueger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rinder</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kempa</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hoefgen</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>). <article-title>Effect of sulfur availability on the integrity of amino acid biosynthesis in plants</article-title>. <source xml:lang="en">Amino Acids</source>, <volume>30</volume>, <fpage>173</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">16552493</pub-id></mixed-citation></ref><ref id="fes3126-bib-0076"><mixed-citation publication-type="journal" id="fes3126-cit-0076">
+<string-name>
+<surname>Parkinson</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kapushesky</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kolesnikov</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Rustici</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Shojatalab</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Abeygunawardena</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Berube</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>). <article-title>ArrayExpress update &#x02013; from an archive of functional genomics experiments to the atlas of gene expression</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>37</volume>, <fpage>D868</fpage>&#x02013;<lpage>D872</lpage>.<pub-id pub-id-type="pmid">19015125</pub-id></mixed-citation></ref><ref id="fes3126-bib-0077"><mixed-citation publication-type="journal" id="fes3126-cit-0077">
+<string-name>
+<surname>Piotrowski</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Volmer</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Cyanide metabolism in higher plants: Cyanoalanine hydratase is a NIT4 homolog</article-title>. <source xml:lang="en">Plant Molecular Biology</source>, <volume>61</volume>, <fpage>111</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">16786295</pub-id></mixed-citation></ref><ref id="fes3126-bib-0078"><mixed-citation publication-type="journal" id="fes3126-cit-0078">
+<string-name>
+<surname>Postles</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>T. Y.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Mottram</surname>, <given-names>D. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Changes in free amino acid concentration in rye grain in response to nitrogen and sulfur availability, and expression analysis of genes involved in asparagine metabolism</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>, <volume>7</volume>, <fpage>917</fpage>.<pub-id pub-id-type="pmid">27446147</pub-id></mixed-citation></ref><ref id="fes3126-bib-0079"><mixed-citation publication-type="journal" id="fes3126-cit-0079">
+<string-name>
+<surname>Postles</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Mottram</surname>, <given-names>D. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2013</year>). <article-title>Effects of variety and nutrient availability on the acrylamide forming potential of rye grain</article-title>. <source xml:lang="en">Journal of Cereal Science</source>, <volume>57</volume>, <fpage>463</fpage>&#x02013;<lpage>470</lpage>.<pub-id pub-id-type="pmid">23805028</pub-id></mixed-citation></ref><ref id="fes3126-bib-0080"><mixed-citation publication-type="journal" id="fes3126-cit-0080">
+<string-name>
+<surname>Ricoult</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Echeverria</surname>, <given-names>L. O.</given-names>
+</string-name>, <string-name>
+<surname>Cliquet</surname>, <given-names>J.&#x02010;B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Limami</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Characterization of alanine aminotransferase (<italic>AlaAT</italic>) multigene family and hypoxic response in young seedlings of the model legume <italic>Medicago truncatula</italic>
+</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>57</volume>, <fpage>3079</fpage>&#x02013;<lpage>3089</lpage>.<pub-id pub-id-type="pmid">16899523</pub-id></mixed-citation></ref><ref id="fes3126-bib-0081"><mixed-citation publication-type="journal" id="fes3126-cit-0081">
+<string-name>
+<surname>Romagni</surname>, <given-names>J. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dayan</surname>, <given-names>F. E.</given-names>
+</string-name> (<year>2000</year>). <article-title>Measuring asparagine synthetase activity in crude plant extracts</article-title>. <source xml:lang="en">Journal of Agricultural and Food Chemistry</source>, <volume>48</volume>, <fpage>1692</fpage>&#x02013;<lpage>1696</lpage>.<pub-id pub-id-type="pmid">10820080</pub-id></mixed-citation></ref><ref id="fes3126-bib-0082"><mixed-citation publication-type="journal" id="fes3126-cit-0082">
+<string-name>
+<surname>Sairam</surname>, <given-names>R. K.</given-names>
+</string-name> (<year>1994</year>). <article-title>Effect of moisture&#x02010;stress on physiological activities of two contrasting wheat genotypes</article-title>. <source xml:lang="en">Indian Journal of Experimental Biology</source>, <volume>32</volume>, <fpage>594</fpage>&#x02013;<lpage>597</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0083"><mixed-citation publication-type="journal" id="fes3126-cit-0083">
+<string-name>
+<surname>Sato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arita</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Soga</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nishioka</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tomita</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Time&#x02010;resolved metabolomics reveals metabolic modulation in rice foliage</article-title>. <source xml:lang="en">BMC Systems Biology</source>, <volume>2</volume>, <fpage>13</fpage>.<pub-id pub-id-type="pmid">18237429</pub-id></mixed-citation></ref><ref id="fes3126-bib-0084"><mixed-citation publication-type="journal" id="fes3126-cit-0084">
+<string-name>
+<surname>Schultz</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Miesak</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1998</year>). <article-title>Arabidopsis mutants define an <italic>in vivo</italic> role for isoenzymes of aspartate aminotransferase in plant nitrogen assimilation</article-title>. <source xml:lang="en">Genetics</source>, <volume>149</volume>, <fpage>491</fpage>&#x02013;<lpage>499</lpage>.<pub-id pub-id-type="pmid">9611168</pub-id></mixed-citation></ref><ref id="fes3126-bib-0085"><mixed-citation publication-type="journal" id="fes3126-cit-0085">
+<string-name>
+<surname>Scutari</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Learning Bayesian networks with the bnlearn R package</article-title>. <source xml:lang="en">Journal of Statistical Software</source>, <volume>35</volume>, <fpage>1</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">21603108</pub-id></mixed-citation></ref><ref id="fes3126-bib-0086"><mixed-citation publication-type="journal" id="fes3126-cit-0086">
+<string-name>
+<surname>Sechley</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Yamaya</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oaks</surname>, <given-names>A.</given-names>
+</string-name> (<year>1992</year>). <article-title>Compartmentation of nitrogen assimilation in higher plants</article-title>. <source xml:lang="en">International Review of Cytology</source>, <volume>134</volume>, <fpage>85</fpage>&#x02013;<lpage>163</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0087"><mixed-citation publication-type="journal" id="fes3126-cit-0087">
+<string-name>
+<surname>Seifi</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name>
+<surname>De Vleesschauwer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Aziz</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hofte</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Modulating plant primary amino acid metabolism as a necrotrophic virulence strategy: The immune&#x02010;regulatory role of asparagine synthetase in <italic>Botrytis cinerea</italic>&#x02010;tomato interaction</article-title>. <source xml:lang="en">Plant Signaling &#x00026; Behavior</source>, <volume>9</volume>, <fpage>e27995</fpage>.<pub-id pub-id-type="pmid">24521937</pub-id></mixed-citation></ref><ref id="fes3126-bib-0088"><mixed-citation publication-type="journal" id="fes3126-cit-0088">
+<string-name>
+<surname>Shewry</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Parmar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Miflin</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>1983</year>). <article-title>The effects of sulphur starvation on the amino acid and protein compositions of barley grain</article-title>. <source xml:lang="en">Journal of Cereal Science</source>, <volume>1</volume>, <fpage>21</fpage>&#x02013;<lpage>31</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0089"><mixed-citation publication-type="journal" id="fes3126-cit-0089">
+<string-name>
+<surname>Sikalidis</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stipanuk</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Growing rats respond to a sulfur amino acid&#x02010;deficient diet by phosphorylation of the &#x003b1; subunit of eukaryotic initiation factor 2 heterotrimeric complex and induction of adaptive components of the integrated stress response</article-title>. <source xml:lang="en">Journal of Nutrition</source>, <volume>140</volume>, <fpage>1080</fpage>&#x02013;<lpage>1085</lpage>.<pub-id pub-id-type="pmid">20357079</pub-id></mixed-citation></ref><ref id="fes3126-bib-0090"><mixed-citation publication-type="book" id="fes3126-cit-0090">
+<string-name>
+<surname>Singh</surname>, <given-names>B. K.</given-names>
+</string-name> (<year>1999</year>). <source xml:lang="en">Plant amino acids: Biochemistry and biotechnology</source>. <publisher-loc>New York and Basel</publisher-loc>: <publisher-name>Marcel Dekker, Inc</publisher-name>.</mixed-citation></ref><ref id="fes3126-bib-0091"><mixed-citation publication-type="journal" id="fes3126-cit-0091">
+<string-name>
+<surname>Sotero&#x02010;Martins</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>da Silva Bon</surname>, <given-names>E. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carvajal</surname>, <given-names>E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Asparaginase II&#x02010;GFP fusion as a tool for studying the secretion of the enzyme under nitrogen starvation</article-title>. <source xml:lang="en">Brazilian Journal of Microbiology</source>, <volume>34</volume>, <fpage>373</fpage>&#x02013;<lpage>377</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0092"><mixed-citation publication-type="journal" id="fes3126-cit-0092">
+<string-name>
+<surname>Taeymans</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ashby</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Blank</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Studer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stadler</surname>, <given-names>R. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Whitmore</surname>, <given-names>T.</given-names>
+</string-name> (<year>2004</year>). <article-title>A review of acrylamide: An industry perspective on research, analysis, formation and control</article-title>. <source xml:lang="en">Critical Reviews in Food Science and Nutrition</source>, <volume>44</volume>, <fpage>323</fpage>&#x02013;<lpage>347</lpage>.<pub-id pub-id-type="pmid">15540646</pub-id></mixed-citation></ref><ref id="fes3126-bib-0093"><mixed-citation publication-type="journal" id="fes3126-cit-0093">
+<string-name>
+<surname>Teixeira</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fidalgo</surname>, <given-names>F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Salt stress affects glutamine synthetase activity and mRNA accumulation on potato plants in an organ&#x02010;dependent manner</article-title>. <source xml:lang="en">Plant Physiology and Biochemistry</source>, <volume>47</volume>, <fpage>807</fpage>&#x02013;<lpage>813</lpage>.<pub-id pub-id-type="pmid">19481951</pub-id></mixed-citation></ref><ref id="fes3126-bib-0094"><mixed-citation publication-type="journal" id="fes3126-cit-0094">
+<string-name>
+<surname>Theologis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ecker</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Palm</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Federspiel</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>Kaul</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>O.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Alonso</surname>, <given-names>J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Sequence and analysis of chromosome 1 of the plant <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Nature</source>, <volume>408</volume>, <fpage>816</fpage>&#x02013;<lpage>820</lpage>.<pub-id pub-id-type="pmid">11130712</pub-id></mixed-citation></ref><ref id="fes3126-bib-0095"><mixed-citation publication-type="journal" id="fes3126-cit-0095">
+<string-name>
+<surname>Thum</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Katari</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Nero</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2008</year>). <article-title>An integrated genetic, genomic and systems approach defines gene networks regulated by the interaction of light and carbon signaling pathways in Arabidopsis</article-title>. <source xml:lang="en">BMC Systems Biology</source>, <volume>2</volume>, <fpage>31</fpage>.<pub-id pub-id-type="pmid">18387196</pub-id></mixed-citation></ref><ref id="fes3126-bib-0096"><mixed-citation publication-type="journal" id="fes3126-cit-0096">
+<string-name>
+<surname>Todd</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Screen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Duff</surname>, <given-names>S. M. G.</given-names>
+</string-name> (<year>2008</year>). <article-title>Identification and characterization of four distinct asparagine synthetase (<italic>AsnS</italic>) genes in maize (<italic>Zea mays</italic> L.)</article-title>. <source xml:lang="en">Plant Science</source>, <volume>175</volume>, <fpage>799</fpage>&#x02013;<lpage>808</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0097"><mixed-citation publication-type="journal" id="fes3126-cit-0097">
+<string-name>
+<surname>Tsai</surname>, <given-names>F. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coruzzi</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1990</year>). <article-title>Dark&#x02010;induced and organ&#x02010;specific expression of two asparagine synthetase genes in <italic>Pisum sativum</italic>
+</article-title>. <source xml:lang="en">EMBO Journal</source>, <volume>9</volume>, <fpage>323</fpage>&#x02013;<lpage>332</lpage>.<pub-id pub-id-type="pmid">1968003</pub-id></mixed-citation></ref><ref id="fes3126-bib-0098"><mixed-citation publication-type="journal" id="fes3126-cit-0098">
+<string-name>
+<surname>Unno</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Uchida</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sugawara</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kurisu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sugiyama</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yamaya</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kusunoki</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Atomic structure of plant glutamine synthetase: A key enzyme for plant productivity</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>281</volume>, <fpage>29287</fpage>&#x02013;<lpage>29296</lpage>.<pub-id pub-id-type="pmid">16829528</pub-id></mixed-citation></ref><ref id="fes3126-bib-0099"><mixed-citation publication-type="journal" id="fes3126-cit-0099">
+<string-name>
+<surname>Van Heeke</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schuster</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>1989</year>). <article-title>Expression of human asparagine synthetase in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>264</volume>, <fpage>5503</fpage>&#x02013;<lpage>5509</lpage>.<pub-id pub-id-type="pmid">2564390</pub-id></mixed-citation></ref><ref id="fes3126-bib-0100"><mixed-citation publication-type="journal" id="fes3126-cit-0100">
+<string-name>
+<surname>Vicente&#x02010;Carbajosa</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Onate</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lara</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carbonero</surname>, <given-names>P.</given-names>
+</string-name> (<year>1998</year>). <article-title>Barley BLZ1: A bZIP transcriptional activator that interacts with endosperm&#x02010;specific gene promoters</article-title>. <source xml:lang="en">Plant Journal</source>, <volume>13</volume>, <fpage>629</fpage>&#x02013;<lpage>640</lpage>.<pub-id pub-id-type="pmid">9681005</pub-id></mixed-citation></ref><ref id="fes3126-bib-0101"><mixed-citation publication-type="journal" id="fes3126-cit-0101">
+<string-name>
+<surname>Wan</surname>, <given-names>T. F.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>G. H.</given-names>
+</string-name>, <string-name>
+<surname>Shan</surname>, <given-names>X. C.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>N. Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lam</surname>, <given-names>H.&#x02010;M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Correlation between <italic>AS1</italic> gene expression and seed protein contents in different soybean (<italic>Glycine max</italic> [L.] Merr.) cultivars</article-title>. <source xml:lang="en">Plant Biology</source>, <volume>8</volume>, <fpage>271</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">16547873</pub-id></mixed-citation></ref><ref id="fes3126-bib-0102"><mixed-citation publication-type="journal" id="fes3126-cit-0102">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Asparagine synthetase gene <italic>TaASN1</italic> from wheat is up&#x02010;regulated by salt stress, osmotic stress and ABA</article-title>. <source xml:lang="en">Journal of Plant Physiology</source>, <volume>162</volume>, <fpage>81</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">15700423</pub-id></mixed-citation></ref><ref id="fes3126-bib-0103"><mixed-citation publication-type="journal" id="fes3126-cit-0103">
+<string-name>
+<surname>Weltmeier</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rahmani</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ehlert</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dietrich</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000fc;tze</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dr&#x000f6;ge&#x02010;Laser</surname>, <given-names>W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Expression patterns within the Arabidopsis C/S1 bZIP transcription factor network: Availability of heterodimerization partners controls gene expression during stress response and development</article-title>. <source xml:lang="en">Plant Molecular Biology</source>, <volume>69</volume>, <fpage>107</fpage>&#x02013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">18841482</pub-id></mixed-citation></ref><ref id="fes3126-bib-0104"><mixed-citation publication-type="journal" id="fes3126-cit-0104">
+<string-name>
+<surname>Wienkoop</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Morgenthal</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wolschin</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Selbig</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weckwerth</surname>, <given-names>W.</given-names>
+</string-name> (<year>2008</year>). <article-title>Integration of metabolomic and proteomic phenotypes</article-title>. <source xml:lang="en">Molecular &#x00026; Cellular Proteomics</source>, <volume>7</volume>, <fpage>1725</fpage>&#x02013;<lpage>1736</lpage>.<pub-id pub-id-type="pmid">18445580</pub-id></mixed-citation></ref><ref id="fes3126-bib-0105"><mixed-citation publication-type="journal" id="fes3126-cit-0105">
+<string-name>
+<surname>Wilkie</surname>, <given-names>S. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Warren</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>1998</year>). <article-title>Recombinant expression, purification, and characterization of three isoenzymes of aspartate aminotransferase from <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Protein Expression and Purification</source>, <volume>12</volume>, <fpage>381</fpage>&#x02013;<lpage>389</lpage>.<pub-id pub-id-type="pmid">9535706</pub-id></mixed-citation></ref><ref id="fes3126-bib-0106"><mixed-citation publication-type="journal" id="fes3126-cit-0106">
+<string-name>
+<surname>Winkler</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sch&#x000f6;n</surname>, <given-names>W. J.</given-names>
+</string-name> (<year>1980</year>). <article-title>Amino acid composition of the kernel proteins in barley resulting from nitrogen fertilization at different stages of development</article-title>. <source xml:lang="en">Journal of Agronomy and Crop Science</source>, <volume>149</volume>, <fpage>503</fpage>&#x02013;<lpage>512</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0107"><mixed-citation publication-type="journal" id="fes3126-cit-0107">
+<string-name>
+<surname>Xu</surname>, <given-names>Z. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhou</surname>, <given-names>G. S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Nitrogen metabolism and photosynthesis in <italic>Leymus chinensis</italic> in response to long&#x02010;term soil drought</article-title>. <source xml:lang="en">Journal of Plant Growth Regulation</source>, <volume>25</volume>, <fpage>252</fpage>&#x02013;<lpage>266</lpage>.</mixed-citation></ref><ref id="fes3126-bib-0108"><mixed-citation publication-type="journal" id="fes3126-cit-0108">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Dickinson</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Molecular cloning of an Arabidopsis homologue of GCN2, a protein kinase involved in co&#x02010;ordinated response to amino acid starvation</article-title>. <source xml:lang="en">Planta</source>, <volume>217</volume>, <fpage>668</fpage>&#x02013;<lpage>675</lpage>.<pub-id pub-id-type="pmid">12905023</pub-id></mixed-citation></ref><ref id="fes3126-bib-0109"><mixed-citation publication-type="journal" id="fes3126-cit-0109">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kanyuka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Parry</surname>, <given-names>M. A. J.</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halford</surname>, <given-names>N. G.</given-names>
+</string-name> (<year>2008</year>). <article-title>GCN2&#x02010;dependent phosphorylation of eukaryotic translation initiation factor&#x02010;2&#x003b1; in Arabidopsis</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>, <volume>59</volume>, <fpage>3131</fpage>&#x02013;<lpage>3141</lpage>.<pub-id pub-id-type="pmid">18603615</pub-id></mixed-citation></ref><ref id="fes3126-bib-0110"><mixed-citation publication-type="journal" id="fes3126-cit-0110">
+<string-name>
+<surname>Zhu</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2002</year>). <article-title>Salt and drought stress signal transduction in plants</article-title>. <source xml:lang="en">Annual Review of Plant Biology</source>, <volume>53</volume>, <fpage>247</fpage>&#x02013;<lpage>273</lpage>.</mixed-citation></ref></ref-list></back></article>

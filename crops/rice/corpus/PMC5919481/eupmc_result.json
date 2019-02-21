@@ -1,0 +1,504 @@
+{
+  "id": [
+    "29698500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29698500"
+  ],
+  "pmcid": [
+    "PMC5919481"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0196302"
+  ],
+  "title": [
+    "A fully convolutional network for weed mapping of unmanned aerial vehicle (UAV) imagery."
+  ],
+  "authorString": [
+    "Huang H, Deng J, Lan Y, Yang A, Deng X, Zhang L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Huasheng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6546-6501",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng J"
+          ],
+          "firstName": [
+            "Jizhong"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan Y"
+          ],
+          "firstName": [
+            "Yubin"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang A"
+          ],
+          "firstName": [
+            "Aqing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "College of Electronical Engineering, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng X"
+          ],
+          "firstName": [
+            "Xiaoling"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Guangzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6546-6501",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2667071"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0196302"
+  ],
+  "abstractText": [
+    "Appropriate Site Specific Weed Management (SSWM) is crucial to ensure the crop yields. Within SSWM of large-scale area, remote sensing is a key technology to provide accurate weed distribution information. Compared with satellite and piloted aircraft remote sensing, unmanned aerial vehicle (UAV) is capable of capturing high spatial resolution imagery, which will provide more detailed information for weed mapping. The objective of this paper is to generate an accurate weed cover map based on UAV imagery. The UAV RGB imagery was collected in 2017 October over the rice field located in South China. The Fully Convolutional Network (FCN) method was proposed for weed mapping of the collected imagery. Transfer learning was used to improve generalization capability, and skip architecture was applied to increase the prediction accuracy. After that, the performance of FCN architecture was compared with Patch_based CNN algorithm and Pixel_based CNN method. Experimental results showed that our FCN method outperformed others, both in terms of accuracy and efficiency. The overall accuracy of the FCN approach was up to 0.935 and the accuracy for weed recognition was 0.883, which means that this algorithm is capable of generating accurate weed cover maps for the evaluated UAV imagery."
+  ],
+  "affiliation": [
+    "College of Engineering, South China Agricultural University, Guangzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plants"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Imagery (Psychotherapy)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Statistical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aircraft"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plant Weeds"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Remote Sensing Technology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5919481?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5919481"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0196302"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-06"
+  ],
+  "dateOfCreation": [
+    "2018-04-27"
+  ],
+  "dateOfRevision": [
+    "2018-08-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-26"
+  ],
+  "firstPublicationDate": [
+    "2018-04-26"
+  ]
+}

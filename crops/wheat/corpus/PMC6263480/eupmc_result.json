@@ -1,0 +1,559 @@
+{
+  "id": [
+    "30400154"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30400154"
+  ],
+  "pmcid": [
+    "PMC6263480"
+  ],
+  "doi": [
+    "10.3390/s18113731"
+  ],
+  "title": [
+    "Wheat Height Estimation Using LiDAR in Comparison to Ultrasonic Sensor and UAS."
+  ],
+  "authorString": [
+    "Yuan W, Li J, Bhatta M, Shi Y, Baenziger PS, Ge Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yuan W"
+          ],
+          "firstName": [
+            "Wenan"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6300-2973",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biological Systems Engineering Department, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. wenan.yuan@huskers.unl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jiating"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Biological Systems Engineering Department, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. jiatingli@huskers.unl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhatta M"
+          ],
+          "firstName": [
+            "Madhav"
+          ],
+          "lastName": [
+            "Bhatta"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4959-0481",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Agronomy and Horticulture, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. madhav.bhatta@huskers.unl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi Y"
+          ],
+          "firstName": [
+            "Yeyin"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Biological Systems Engineering Department, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. yshi18@unl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Baenziger PS"
+          ],
+          "firstName": [
+            "P Stephen"
+          ],
+          "lastName": [
+            "Baenziger"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9109-6954",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Agronomy and Horticulture, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. pbaenziger1@unl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Ge Y"
+          ],
+          "firstName": [
+            "Yufeng"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Biological Systems Engineering Department, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. yge2@unl.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4959-0481",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6300-2973",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9109-6954",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2744446"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "As one of the key crop traits, plant height is traditionally evaluated manually, which can be slow, laborious and prone to error. Rapid development of remote and proximal sensing technologies in recent years allows plant height to be estimated in more objective and efficient fashions, while research regarding direct comparisons between different height measurement methods seems to be lagging. In this study, a ground-based multi-sensor phenotyping system equipped with ultrasonic sensors and light detection and ranging (LiDAR) was developed. Canopy heights of 100 wheat plots were estimated five times during a season by the ground phenotyping system and an unmanned aircraft system (UAS), and the results were compared to manual measurements. Overall, LiDAR provided the best results, with a root-mean-square error (RMSE) of 0.05 m and an R² of 0.97. UAS obtained reasonable results with an RMSE of 0.09 m and an R² of 0.91. Ultrasonic sensors did not perform well due to our static measurement style. In conclusion, we suggest LiDAR and UAS are reliable alternative methods for wheat height evaluation."
+  ],
+  "affiliation": [
+    "Biological Systems Engineering Department, University of Nebraska⁻Lincoln, Lincoln, NE 68503, USA. wenan.yuan@huskers.unl.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ARD Innovation Fund for Wheat/Cereal Crops and Wheat/Cereal Scholarship & Fellowship Support Fund"
+          ],
+          "agency": [
+            "University of Nebraska Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AH"
+                  ],
+                  "qualifierName": [
+                    "anatomy & histology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AH"
+                  ],
+                  "qualifierName": [
+                    "anatomy & histology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ultrasonics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Aircraft"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optics and Photonics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Remote Sensing Technology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Remote sensing",
+        "Plant breeding",
+        "Crop",
+        "Phenotyping",
+        "Proximal Sensing"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6263480?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6263480"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18113731"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-16"
+  ],
+  "dateOfCreation": [
+    "2018-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-01-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-02"
+  ],
+  "firstPublicationDate": [
+    "2018-11-02"
+  ]
+}

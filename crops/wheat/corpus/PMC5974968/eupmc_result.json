@@ -1,0 +1,330 @@
+{
+  "id": [
+    "29875788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29875788"
+  ],
+  "pmcid": [
+    "PMC5974968"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.00685"
+  ],
+  "title": [
+    "Proximal Phenotyping and Machine Learning Methods to Identify Septoria Tritici Blotch Disease Symptoms in Wheat."
+  ],
+  "authorString": [
+    "Odilbekov F, Armoniené R, Henriksson T, Chawade A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Odilbekov F"
+          ],
+          "firstName": [
+            "Firuz"
+          ],
+          "lastName": [
+            "Odilbekov"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0533-8230",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Breeding, Swedish University of Agricultural Sciences, Alnarp, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Armoniené R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Armoniené"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Plant Breeding, Swedish University of Agricultural Sciences, Alnarp, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Henriksson T"
+          ],
+          "firstName": [
+            "Tina"
+          ],
+          "lastName": [
+            "Henriksson"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Lantmännen Lantbruk, Svalöv, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Chawade A"
+          ],
+          "firstName": [
+            "Aakash"
+          ],
+          "lastName": [
+            "Chawade"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6500-4139",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Breeding, Swedish University of Agricultural Sciences, Alnarp, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6500-4139",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0533-8230",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "685"
+  ],
+  "abstractText": [
+    "Phenotyping with proximal sensors allow high-precision measurements of plant traits both in the controlled conditions and in the field. In this work, using machine learning, an integrated analysis was done from the data obtained from spectroradiometer, infrared thermometer, and chlorophyll fluorescence measurements to identify most predictive proxy measurements for studying Septoria tritici blotch (STB) disease of wheat. The random forest (RF) models for chlorosis and necrosis identified photosystem II quantum yield (QY) and vegetative indices (VIs) associated with the biochemical composition of leaves as the top predictive variables for identifying disease symptoms. The RF model for chlorosis was validated with a validation set (R2: 0.80) and in an independent test set (R2: 0.55). Based on the results, it can be concluded that the proxy measurements for photosystem II, chlorophyll content, carotenoid, and anthocyanin levels and leaf surface temperature can be successfully used to detect STB. Further validation of these results in the field will enable application of these predictive variables for detection of STB in the field."
+  ],
+  "affiliation": [
+    "Department of Plant Breeding, Swedish University of Agricultural Sciences, Alnarp, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wheat",
+        "Machine Learning",
+        "Septoria Tritici Blotch",
+        "Random Forest",
+        "Disease Detection",
+        "Proximal Phenotyping"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5974968?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5974968"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.00685"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-08"
+  ],
+  "dateOfRevision": [
+    "2019-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-23"
+  ],
+  "firstPublicationDate": [
+    "2018-05-23"
+  ]
+}

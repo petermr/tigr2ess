@@ -1,0 +1,381 @@
+{
+  "id": [
+    "29361776"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29361776"
+  ],
+  "pmcid": [
+    "PMC5795876"
+  ],
+  "doi": [
+    "10.3390/s18010316"
+  ],
+  "title": [
+    "Mapping of Rice Varieties and Sowing Date Using X-Band SAR Data."
+  ],
+  "authorString": [
+    "Phan H, Le Toan T, Bouvet A, Nguyen LD, Pham Duy T, Zribi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Phan H"
+          ],
+          "firstName": [
+            "Hoa"
+          ],
+          "lastName": [
+            "Phan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9685-6281",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre d'Etudes Spatiales de la Biosphère (CESBIO), 31401 Toulouse, France. thi-hoa.phan@cesbio.cnes.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Le Toan T"
+          ],
+          "firstName": [
+            "Thuy"
+          ],
+          "lastName": [
+            "Le Toan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Centre d'Etudes Spatiales de la Biosphère (CESBIO), 31401 Toulouse, France. thuy.letoan@cesbio.cnes.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Bouvet A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Bouvet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7428-4339",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre d'Etudes Spatiales de la Biosphère (CESBIO), 31401 Toulouse, France. bouveta@cesbio.cnes.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Nguyen LD"
+          ],
+          "firstName": [
+            "Lam Dao"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "affiliation": [
+            "Space Technology Application Center, Ho Chi Minh City 700000, Vietnam. nlamdao@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pham Duy T"
+          ],
+          "firstName": [
+            "Tien"
+          ],
+          "lastName": [
+            "Pham Duy"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "An Giang University, An Giang 880000, Vietnam. pdtien@agu.edu.vn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zribi M"
+          ],
+          "firstName": [
+            "Mehrez"
+          ],
+          "lastName": [
+            "Zribi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6141-8222",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre d'Etudes Spatiales de la Biosphère (CESBIO), 31401 Toulouse, France. mehrez.zribi@ird.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7428-4339",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9685-6281",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6141-8222",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2634983"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Rice is a major staple food for nearly half of the world's population and has a considerable contribution to the global agricultural economy. While spaceborne Synthetic Aperture Radar (SAR) data have proved to have great potential to provide rice cultivation area, few studies have been performed to provide practical information that meets the user requirements. In rice growing regions where the inter-field crop calendar is not uniform such as in the Mekong Delta in Vietnam, knowledge of the start of season on a field basis, along with the planted rice varieties, is very important for correct field management (timing of irrigation, fertilization, chemical treatment, harvest), and for market assessment of the rice production. The objective of this study is to develop methods using SAR data to retrieve in addition to the rice grown area, the sowing date, and the distinction between long and short cycle varieties. This study makes use of X-band SAR data from COSMO-SkyMed acquired from 19 August to 23 November 2013 covering the Chau Thanh and Thoai Son districts in An Giang province, Viet Nam, characterized by a complex cropping pattern. The SAR data have been analyzed as a function of rice parameters, and the temporal and polarization behaviors of the radar backscatter of different rice varieties have been interpreted physically. New backscatter indicators for the detection of rice paddy area, the estimation of the sowing date, and the mapping of the short cycle and long cycle rice varieties have been developed and assessed. Good accuracy has been found with 92% in rice grown area, 96% on rice long or short cycle, and a root mean square error of 4.3 days in sowing date. The results have been discussed regarding the generality of the methods with respect to the rice cultural practices and the SAR data characteristics."
+  ],
+  "affiliation": [
+    "Centre d'Etudes Spatiales de la Biosphère (CESBIO), 31401 Toulouse, France. thi-hoa.phan@cesbio.cnes.fr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SAR",
+        "rice variety",
+        "Sowing date",
+        "Mekong Delta",
+        "Cosmo-skymed",
+        "Rice Mapping"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5795876?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5795876"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18010316"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-27"
+  ],
+  "dateOfCreation": [
+    "2018-01-25"
+  ],
+  "dateOfRevision": [
+    "2018-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-22"
+  ],
+  "firstPublicationDate": [
+    "2018-01-22"
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "id": [
+    "29902967"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29902967"
+  ],
+  "pmcid": [
+    "PMC6003085"
+  ],
+  "doi": [
+    "10.1186/s12870-018-1316-3"
+  ],
+  "title": [
+    "UGbS-Flex, a novel bioinformatics pipeline for imputation-free SNP discovery in polyploids without a reference genome: finger millet as a case study."
+  ],
+  "authorString": [
+    "Qi P, Gimode D, Saha D, Schröder S, Chakraborty D, Wang X, Dida MM, Malmberg RL, Devos KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qi P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Plant Breeding, Genetics and Genomics (Department of Crop and Soil Sciences), University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gimode D"
+          ],
+          "firstName": [
+            "Davis"
+          ],
+          "lastName": [
+            "Gimode"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Plant Breeding, Genetics and Genomics (Department of Crop and Soil Sciences), University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Saha D"
+          ],
+          "firstName": [
+            "Dipnarayan"
+          ],
+          "lastName": [
+            "Saha"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5809-4340",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Plant Breeding, Genetics and Genomics (Department of Crop and Soil Sciences), University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schröder S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Schröder"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Plant Breeding, Genetics and Genomics (Department of Crop and Soil Sciences), University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chakraborty D"
+          ],
+          "firstName": [
+            "Debkanta"
+          ],
+          "lastName": [
+            "Chakraborty"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Bioinformatics, University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xuewen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2820-9255",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Genetics, University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dida MM"
+          ],
+          "firstName": [
+            "Mathews M"
+          ],
+          "lastName": [
+            "Dida"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Applied Plant Sciences, Maseno University, Maseno, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Malmberg RL"
+          ],
+          "firstName": [
+            "Russell L"
+          ],
+          "lastName": [
+            "Malmberg"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Department of Plant Biology, University of Georgia, Athens, GA, 30602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Devos KM"
+          ],
+          "firstName": [
+            "Katrien M"
+          ],
+          "lastName": [
+            "Devos"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0358-3278",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Plant Breeding, Genetics and Genomics (Department of Crop and Soil Sciences), University of Georgia, Athens, GA, 30602, USA. kdevos@uga.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0358-3278",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5809-4340",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2820-9255",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2691268"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "117"
+  ],
+  "abstractText": [
+    "BACKGROUND:Research on orphan crops is often hindered by a lack of genomic resources. With the advent of affordable sequencing technologies, genotyping an entire genome or, for large-genome species, a representative fraction of the genome has become feasible for any crop. Nevertheless, most genotyping-by-sequencing (GBS) methods are geared towards obtaining large numbers of markers at low sequence depth, which excludes their application in heterozygous individuals. Furthermore, bioinformatics pipelines often lack the flexibility to deal with paired-end reads or to be applied in polyploid species. RESULTS:UGbS-Flex combines publicly available software with in-house python and perl scripts to efficiently call SNPs from genotyping-by-sequencing reads irrespective of the species' ploidy level, breeding system and availability of a reference genome. Noteworthy features of the UGbS-Flex pipeline are an ability to use paired-end reads as input, an effective approach to cluster reads across samples with enhanced outputs, and maximization of SNP calling. We demonstrate use of the pipeline for the identification of several thousand high-confidence SNPs with high representation across samples in an F3-derived F2 population in the allotetraploid finger millet. Robust high-density genetic maps were constructed using the time-tested mapping program MAPMAKER which we upgraded to run efficiently and in a semi-automated manner in a Windows Command Prompt Environment. We exploited comparative GBS with one of the diploid ancestors of finger millet to assign linkage groups to subgenomes and demonstrate the presence of chromosomal rearrangements. CONCLUSIONS:The paper combines GBS protocol modifications, a novel flexible GBS analysis pipeline, UGbS-Flex, recommendations to maximize SNP identification, updated genetic mapping software, and the first high-density maps of finger millet. The modules used in the UGbS-Flex pipeline and for genetic mapping were applied to finger millet, an allotetraploid selfing species without a reference genome, as a case study. The UGbS-Flex modules, which can be run independently, are easily transferable to species with other breeding systems or ploidy levels."
+  ],
+  "affiliation": [
+    "Institute of Plant Breeding, Genetics and Genomics (Department of Crop and Soil Sciences), University of Georgia, Athens, GA, 30602, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DE-SC0010743"
+          ],
+          "agency": [
+            "U.S. Department of Energy"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Award 1865/FN-SR/2013"
+          ],
+          "agency": [
+            "Fulbright-Nehru Senior Research Fellowship"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eleusine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosome Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polyploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Linkage"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotyping Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polyploid",
+        "Genetic mapping",
+        "Finger Millet",
+        "Chromosomal Rearrangements",
+        "Eleusine Coracana",
+        "Snp Calling",
+        "Paired-end Reads",
+        "Gbs-pipeline",
+        "Genotyping-by-sequencing (Gbs)",
+        "E. Indica"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Plant"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6003085?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6003085"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-018-1316-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-29"
+  ],
+  "dateOfCreation": [
+    "2018-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-15"
+  ],
+  "firstPublicationDate": [
+    "2018-06-15"
+  ]
+}

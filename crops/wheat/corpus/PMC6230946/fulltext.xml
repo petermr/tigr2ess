@@ -1,0 +1,494 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6230946</article-id><article-id pub-id-type="doi">10.1111/pbi.12938</article-id><article-id pub-id-type="publisher-id">PBI12938</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Genotyping genome&#x02010;edited mutations in plants using <styled-content style="fixed-case">CRISPR</styled-content> ribonucleoprotein complexes</article-title><alt-title alt-title-type="left-running-head"><italic>Zhen Liang</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12938-cr-0001" contrib-type="author"><name><surname>Liang</surname><given-names>Zhen</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5242-4644</contrib-id><xref ref-type="aff" rid="pbi12938-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12938-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12938-cr-0002" contrib-type="author"><name><surname>Chen</surname><given-names>Kunling</given-names></name><xref ref-type="aff" rid="pbi12938-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12938-cr-0003" contrib-type="author"><name><surname>Yan</surname><given-names>Yan</given-names></name><xref ref-type="aff" rid="pbi12938-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12938-cr-0004" contrib-type="author"><name><surname>Zhang</surname><given-names>Yi</given-names></name><xref ref-type="aff" rid="pbi12938-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12938-cr-0005" contrib-type="author" corresp="yes"><name><surname>Gao</surname><given-names>Caixia</given-names></name><address><email>cxgao@genetics.ac.cn</email></address><xref ref-type="aff" rid="pbi12938-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12938-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Plant Cell and Chromosome Engineering</named-content>
+<named-content content-type="organisation-division">Center for Genome Editing</named-content>
+<named-content content-type="organisation-division">Institute of Genetics and Developmental Biology</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12938-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of Chinese Academy of Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12938-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Plant Stress Research</named-content>
+<named-content content-type="organisation-division">College of Life Science</named-content>
+<institution>Shandong Normal University</institution>
+<named-content content-type="city">Jinan</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +86 010 64807727; fax +86 010 64807727; email <email>cxgao@genetics.ac.cn</email>)</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>5</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2018</year></pub-date><volume>16</volume><issue>12</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-12</issue-id><fpage>2053</fpage><lpage>2062</lpage><history><date date-type="received"><day>28</day><month>12</month><year>2017</year></date><date date-type="rev-recd"><day>03</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>05</day><month>4</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-2053.pdf"/><abstract id="pbi12938-abs-0001"><title>Summary</title><p>Despite the great achievements in genome editing, accurately detecting mutations induced by sequence&#x02010;specific nucleases is still a challenge in plants, especially in polyploidy plants. An efficient detection method is particularly vital when the mutation frequency is low or when a large population needs to be screened. Here, we applied purified <styled-content style="fixed-case">CRISPR</styled-content> ribonucleoprotein complexes to cleave <styled-content style="fixed-case">PCR</styled-content> products for genome&#x02010;edited mutation detection in hexaploid wheat and diploid rice. We show that this mutation detection method is more sensitive than Sanger sequencing and more applicable than <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RE</styled-content> method without the requirement for restriction enzyme site. We also demonstrate that this detection method is especially useful for genome editing in wheat, because target sites are often surrounded by single nucleotide polymorphisms. Using this screening method, we were also able to detect foreign <styled-content style="fixed-case">DNA</styled-content>&#x02010;free <italic>tagw2</italic> mutations induced by purified <styled-content style="fixed-case">TALEN</styled-content> protein. Finally, we show that partial base editing mutations can also be detected using high&#x02010;fidelity SpCas9 variants or FnCpf1. The <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> method is low&#x02010;cost and widely applicable for rapid detection of genome&#x02010;edited mutation in plants.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12938-kwd-0001"><styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content></kwd><kwd id="pbi12938-kwd-0002">SpCas9</kwd><kwd id="pbi12938-kwd-0003">FnCpf1</kwd><kwd id="pbi12938-kwd-0004"><styled-content style="fixed-case">TALEN</styled-content> protein</kwd><kwd id="pbi12938-kwd-0005">hexaploid wheat</kwd><kwd id="pbi12938-kwd-0006">high&#x02010;fidelity SpCas9 variants</kwd></kwd-group><funding-group><award-group><funding-source>Scientific Program of Beijing Municipal Commission of Science and Technology</funding-source><award-id>Z171100001517001</award-id></award-group><award-group><funding-source>Chinese Academy of Sciences</funding-source><award-id>QYZDY&#x02010;SSW&#x02010;SMC030</award-id><award-id>GJHZ1602</award-id></award-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>31788103</award-id><award-id>31420103912</award-id><award-id>31570369</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="10"/><word-count count="6591"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12938</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.1 mode:remove_FC converted:12.11.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12938-sec-0001"><title>Introduction</title><p>Genetic variants are the basic resource for trait improvement and molecular breeding in plants. The use of sequence&#x02010;specific nucleases (SSNs), including ZFNs, TALENs, CRISPR/Cas9 and CRISPR/Cpf1 systems, allows one to create double strand breaks at almost any locus and trigger NHEJ or HR repair to generate targeted mutations or insertions (Kim, <xref rid="pbi12938-bib-0010" ref-type="ref">2016</xref>; Zetsche <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0033" ref-type="ref">2017</xref>). SSNs have been used in many plant species to create novel genetic resources (Puchta, <xref rid="pbi12938-bib-0022" ref-type="ref">2017</xref>). Recently, several base editors have been developed that produce targeted C to T or A to G conversions with high efficiency in human cells (Gaudelli <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0007" ref-type="ref">2017</xref>; Komor <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0014" ref-type="ref">2016</xref>). The base editing systems have also been shown to generate targeted point mutations in many crops and model plants (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0003" ref-type="ref">2017b</xref>; Hua <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0009" ref-type="ref">2018</xref>; Yan <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0031" ref-type="ref">2018</xref>; Zong <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0035" ref-type="ref">2017</xref>).</p><p>The outcomes of editing in diploid and polyploid plants are different. When targeting diploid plants, such as rice and maize, four outcomes can be obtained: heterozygous mutants, bi&#x02010;allelic mutants, homozygous mutants and mosaic mutants. When targeting polyploid plants, such as wheat, the results are much more complex. Genome editing by both TALENs and the CRISPR/Cas9 system has been successful in wheat (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0030" ref-type="ref">2014</xref>). However, its complex allopolyploid nature with three similar but not identical copies of most of its genes makes mutation detection extremely challenging. Recently, we have reported selection&#x02010;free editing methods in wheat which need large screening population in T0 generation (Liang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0016" ref-type="ref">2017</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0034" ref-type="ref">2016</xref>). The development of genome editing in wheat calls for an efficient and accurate mutation detection method to identify mutations occurred in the A, B and D genomes.</p><p>Current methods for detecting mutations induced by the genome editing toolbox include PCR/RE, T7EI cleavage assay, Sanger sequencing, next generation sequencing (NGS), high&#x02010;resolution melting analysis (HRMA) and fluorescent PCR&#x02010;capillary gel electrophoresis. Each method has its shortcomings. The PCR/RE method is limited by the requirement that a restriction enzyme site exists in the target site (Shan <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0026" ref-type="ref">2014</xref>). The CRISPR/Cas9 ribonucleoprotein complex has been developed to overcome this limitation. They used RFLP analysis based on CRISPR/Cas9&#x02010;derived RGEN to detect indels induced by SSNs or naturally occurred in cultured cells and animals (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0011" ref-type="ref">2014</xref>). The T7EI cleavage assay relies on mismatches in double strand DNA and cannot distinguish homozygous mutant from wild&#x02010;type and also fails to distinguish heterozygous mutants with bi&#x02010;allelic mutations (Vouillot <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0029" ref-type="ref">2015</xref>). Its application in hexaploid wheat is also limited by potential SNPs existing near target sites. Sanger sequencing can present direct and detailed information about the mutation types. Bioinformatics online tools, such as DSDecode (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0017" ref-type="ref">2015</xref>) and TIDE (Brinkman <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0001" ref-type="ref">2014</xref>), were developed to decode mutation types from multiple traces of chromatograms derived from PCR amplicons. Genome&#x02010;edited mutations can also be identified using NGS followed by software analysis with reliable sensitivity of 0.01%. Bioinformatics tools, such as Cas&#x02010;Analyzer (Park <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0020" ref-type="ref">2017</xref>), CRISPResso (Pinello <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0021" ref-type="ref">2016</xref>) and CRISPR&#x02010;GA (Guell <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0008" ref-type="ref">2014</xref>), were developed to analyse the NGS sequencing data containing CRISPR/Cas9&#x02010;induced mutations in pooling samples. Hi&#x02010;TOM is a platform based on NGS for high&#x02010;throughput analysis of mutations induced by CRISPR/Cas9 in rice, which can detect mutations from individual plants (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0018" ref-type="ref">2017</xref>). However, NGS produces relative short reads and failed to detect large indels. In addition, both Sanger sequencing and NGS are much more expensive when compared with other genotyping method. HRMA (Dahlem <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0005" ref-type="ref">2012</xref>) and fluorescent PCR&#x02010;capillary gel electrophoresis (Ramlee <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0024" ref-type="ref">2015</xref>) require special instruments.</p><p>Here, we employed PCR followed by digestion with purified ribonucleoprotein complexes of SpCas9 or FnCpf1 (hereafter the PCR/RNP method) to detect edited mutations by SSNs in both polyploid and diploid plants. We described the use of this method to detect mutations induced by CRISPR/Cas9 at several target sites in wheat and one target site in rice. We also added a new editing method using purified TALEN protein into the DNA&#x02010;free genome editing toolbox of wheat and showed that the PCR/RNP method could be used to detect the resulting mutations. We further demonstrated that various high&#x02010;fidelity forms of SpCas9 (including SpCas9&#x02010;HF1, HypaCas9, eHF1&#x02010;Cas9 and eHypa&#x02010;Cas9) could be used to distinguish base edited mutations from wild&#x02010;type. Finally, we showed that FnCpf1 could be used in the new method to detect SNPs in the seed region (the first eight PAM&#x02010;proximal nucleotide).</p></sec><sec id="pbi12938-sec-0002"><title>Results</title><sec id="pbi12938-sec-0003"><title>Establishment of the PCR/RNP mutation detection method</title><p>Because the CRISPR nucleases RNP will digest PCR products identical to the sgRNA (wild&#x02010;type) but fail to digest PCR products with mutated sequences (mutants). We hypothesized that <italic>in&#x000a0;vitro</italic> preassembled CRISPR ribonucleoprotein (RNP) complexes, such as CRISPR/Cas9 and CRISPR/Cpf1, should be able to detect genome&#x02010;edited mutations in both polyploid and diploid plants. As a first step, we tested if PCR amplicons containing wild&#x02010;type target sites were completely cleaved by the corresponding preassembled RNP complexes. SpCas9, AsCpf1 and FnCpf1 proteins were expressed in <italic>Escherichia coli</italic> and purified with C&#x02010;terminal 6*His tag, respectively (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>). In the RNP&#x02010;mediated <italic>in&#x000a0;vitro</italic> cleavage method, only the guide&#x02010;RNA (sgRNA for SpCas9 and crRNA for FnCpf1 and AsCpf1) needs to be replaced when the target site is changed. To identify the best conditions for the PCR/RNP method using SpCas9, we selected six sgRNAs (sg&#x02010;TaGW2 for <italic>TaGW2</italic>, sg&#x02010;TaCer9 for <italic>TaCer9</italic> and sg&#x02010;OsPDS1~4 for <italic>OsPDS</italic>) targeting three genes of wheat and rice (Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>) and examined the effects of incubation time and RNP dosage on the cleavage of wild&#x02010;type PCR amplicons. We found that increasing the incubation time had little effect on digestion (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S2</xref>a) and the minimum RNP dosage required for total digestion depended on the sgRNA activity (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S2</xref>b). A dosage of RNP (500&#x000a0;ng) and a long incubation time (2&#x02013;3&#x000a0;h) were used in further experiments and reproducibly achieved complete digestion of wild&#x02010;type PCR amplicons for many targets. Similar results were obtained with AsCpf1 and FnCpf1 (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S2</xref>c).</p><p>SSNs always produce small deletions or insertions at the target site if the DSBs are repaired via the NHEJ pathway (Gaj <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0006" ref-type="ref">2013</xref>). We tested whether the PCR/RNP method differentially cleaved PCR amplicons containing wild&#x02010;type and target sites edited by these SSNs. The OsPDS&#x02010;1 target site was selected, as it contains PAM sequence for Cpf1 (5&#x02032;&#x02010;TTTG&#x02010;3&#x02032; for AsCpf1 and 5&#x02032;&#x02010;TTG&#x02010;3&#x02032; for FnCpf1) at its 5&#x02032;&#x02010;end and for SpCas9 (5&#x02032;&#x02010;AGG&#x02010;3&#x02032;) at its 3&#x02032;&#x02010;end (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S3</xref>a). Mutations occurred regions induced by Cpf1 (13&#x02013;23 nucleotides distal to the PAM site) (Zetsche <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0032" ref-type="ref">2015</xref>) and by Cas9 (three nucleotides proximal to the PAM site) (Cong <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0004" ref-type="ref">2013</xref>; Mali <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0019" ref-type="ref">2013</xref>) were consistent in the OsPDS&#x02010;1 target site. Therefore, a series of PCR products containing 1&#x02013;6&#x000a0;bp deletions in the mutation occurred regions were created to test the PCR/RNP method. None of the PCR amplicons used, containing 1&#x02013;6&#x000a0;bp deletions, was cut by the SpCas9 and FnCpf1 RNP complexes (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S3</xref>b), and the AsCpf1 RNP complexes had weak cleavage activity against the alleles with 1&#x02013;3 base deletions (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S3</xref>b). On the other hand, all the wild&#x02010;type PCR amplicons were cut. The majority mutations induced by Cpf1 are deletions and ranged from 6 to 13 bases in size (Tang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0028" ref-type="ref">2017</xref>). Therefore, the weak cleavage activity of AsCpf1 against alleles with 1&#x02013;3 base deletions will not impact the PCR/RNP methods for analysis of mutations induced by Cpf1. Above results showed that both Cas9 and Cpf1 RNPs can be used to detect indels.</p><p>Sensitivity is one of the most important criteria for mutation detection systems. To quantify the sensitivity of the PCR/RNP method, a series of mixtures with different ratios of wild&#x02010;type (WT) and 1&#x02010;bp deletion (D1) PCR amplicons in the sg&#x02010;OsPDS&#x02010;1 target site (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>a) were subjected to CRISPR/Cas9 RNP cleavage. The mixtures were also subjected in parallel to T7EI cleavage and Sanger sequencing. The PCR/RNP method detected the deletion efficiently in mixtures with ratios ranging from 1:1 to 1:20 of WT:D1 and of D1:WT (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>b). While T7EI cleavage assay failed to distinguish samples with the same ratios of WT:D1 and D1:WT, because they will result in the same ratio of heteroduplex DNA after annealing (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>c). This is an evidence that T7EI assay may underestimate mutagenesis frequencies, which is previously reported (Sentmanat <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0025" ref-type="ref">2018</xref>). We also found that samples containing only WT or D1 PCR amplicons were partially cut by T7EI (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>c). This was probably due to the 12 consecutive T's near the target region, which may result in base deletions during PCR amplification (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>d). Sequencing is the most informative method of mutation detection. However, direct Sanger sequencing failed to detect mutations in mixtures of WT:D1 and D1:WT of 1:10, 1:15 and 1:20 (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>e). These findings demonstrate that the PCR/RNP method is superior to T7EI assay in terms of accuracy, and superior to Sanger sequencing in terms of sensitivity.</p><fig fig-type="Figure" xml:lang="en" id="pbi12938-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Comparison of the sensitivities of mutation detection by <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content>,<styled-content style="fixed-case"> PCR</styled-content>/T7<styled-content style="fixed-case">EI</styled-content> and direct Sanger sequencing. (a) The sg&#x02010;Os<styled-content style="fixed-case">PDS</styled-content>&#x02010;1 target site is located in exon1 of <italic>Os<styled-content style="fixed-case">PDS</styled-content></italic>. The <styled-content style="fixed-case">PAM</styled-content> sequence is highlighted in red. &#x02018;D1&#x02019; indicates a 1&#x000a0;bp deletion at the target site. (b &#x00026; c) Mixtures of <styled-content style="fixed-case">WT</styled-content> and D1 <styled-content style="fixed-case">PCR</styled-content> amplicons in different ratios were treated by <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> and <styled-content style="fixed-case">PCR</styled-content>/T7<styled-content style="fixed-case">EI</styled-content>. (d) <styled-content style="fixed-case">DNA</styled-content> sequence of the <styled-content style="fixed-case">PCR</styled-content> amplicons surrounding the sg&#x02010;Os<styled-content style="fixed-case">PDS</styled-content>&#x02010;1 target site. The sg<styled-content style="fixed-case">RNA</styled-content> sequence and 12 consecutive T's in the amplicons are highlighted in red and blue, respectively. (e) Mixtures of different proportions of <styled-content style="fixed-case">WT</styled-content> and D1 <styled-content style="fixed-case">PCR</styled-content> amplicons sequenced by the Sanger method.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-2053-g001"/></fig></sec><sec id="pbi12938-sec-0004"><title>Using the PCR/RNP method to screen mutants in plants</title><p>The final application of the PCR/RNP method examined was aimed at rapid detection of mutations at the plant level independent of the presence of a restriction enzyme site. We thus used PCR/RNP to detect mutations induced by CRISPR/Cas9 reagents in rice (<italic>OsCer9</italic>) and hexaploid wheat (<italic>TaGASR7</italic>,<italic> TaGW2</italic> and <italic>TaCer9</italic>). All the four sgRNA targets tested contained available restriction enzyme sites. For targets of <italic>OsCer9</italic>,<italic> TaGASR7</italic> and <italic>TaGW2</italic>, the restriction enzyme sites perfectly overlap with the Cas9 cutting site; for <italic>TaCer9</italic>, the restriction enzyme site is tightly adjacent to the cutting site (Figures&#x000a0;<xref rid="pbi12938-fig-0002" ref-type="fig">2</xref>a and <xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S4</xref>a). Eight representative mutants in each target region were analysed in parallel by PCR/RE and PCR/RNP. In the case of <italic>TaGASR7</italic>, the mutants were also analysed using equivalent FnCpf1 RNPs. The genotypes of <italic>OsCer9</italic>,<italic> TaGASR7</italic> and <italic>TaGW2</italic> detected by the PCR/RE and PCR/RNP methods were the same (Figures&#x000a0;<xref rid="pbi12938-fig-0002" ref-type="fig">2</xref>b,c and S4). Gel analysis of <italic>tagw2</italic> mutants with PCR/RNP yielded one more band than PCR/RE in all the tested plants including the wild&#x02010;type. This may have been due to gel&#x02010;shift of the DNA&#x02010;RNP complexes that were formed. However, the additional band did not affect identification of the genotypes (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12938-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Genotyping of mutants induced by <styled-content style="fixed-case">CRISPR</styled-content>/Cas9 reagents using <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> and <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RE</styled-content> in plants. (a) Three sg<styled-content style="fixed-case">RNA</styled-content>s were designed to target rice&#x000a0;<italic>OsCer9</italic> and wheat <italic>Ta<styled-content style="fixed-case">GASR</styled-content>7</italic> and <italic>TaCer9</italic>, respectively. The <styled-content style="fixed-case">PAM</styled-content> sequences are highlighted in red and the corresponding restriction enzyme sites are&#x000a0;underlined and labelled. The <styled-content style="fixed-case">PAM</styled-content> sequence of FnCpf1 (5&#x02032;&#x02010;<styled-content style="fixed-case">CAA</styled-content>&#x02010;3&#x02032;) in the sg&#x02010;Ta<styled-content style="fixed-case">GASR</styled-content>7 is highlighted in blue. (b) The results of <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RE</styled-content> and <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> assays to detect eight homozygous <italic>oscer9</italic> mutants induced by <styled-content style="fixed-case">CRISPR</styled-content>/Cas9. (c) The results of <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RE</styled-content> and <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> (SpCas9 and FnCpf1) assays to detect&#x000a0;eight representative mutants induced by gasr7&#x02010;<styled-content style="fixed-case">IVT</styled-content>s. (d) Agarose gel analysis of eight <styled-content style="fixed-case">CRISPR</styled-content>/Cas9&#x02010;induced <italic>tacer9</italic> mutants detected by <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RE</styled-content> and <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content>. &#x02018;<styled-content style="fixed-case">WT</styled-content>/D&#x02019;: wild&#x02010;type amplicons digested with T7<styled-content style="fixed-case">EI</styled-content>, restriction enzyme or <styled-content style="fixed-case">CRISPR</styled-content>/Cas9 <styled-content style="fixed-case">RNP</styled-content>; &#x02018;<styled-content style="fixed-case">WT</styled-content>/<styled-content style="fixed-case">UD</styled-content>&#x02019;: wild&#x02010;type amplicon not digested.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-2053-g002"/></fig><p>One exception is the sg&#x02010;TaCer9 target site. The genotyping results obtained by PCR/RE and PCR/RNP were different. We supposed that this may be due to the fact that many CRISPR/Cas9&#x02010;induced indels, such as deletions of DNA bases located at the 5&#x02032; end of the preferred CRISPR/Cas9 cut site or insertions, will not be detectable by PCR/RE. To test the hypothesis, we analysed eight <italic>tacer9</italic> mutants using homoeologue&#x02010;specific primer sets (Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S2</xref>). As expected, T7EI assay failed to distinguish homozygous mutations from wild&#x02010;type and the PCR/RE assay missed mutations associated with intact restriction enzyme sites. Only the PCR/RNP method yielded the similar results as Sanger sequencing (Figure&#x000a0;<xref rid="pbi12938-fig-0003" ref-type="fig">3</xref>). Mutation types induced by tacer9&#x02010;RNPs were further verified in wheat protoplasts. We found that the mutation frequency measured by PCR/RNP (28.9%) was higher than that by PCR/RE (11.3%) (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S5</xref>a). We gel purified both undigested bands from the PCR/RNP and PCR/RE assay and sequenced them by cloning. The sequencing results showed that the majority of mutations (21/24) detected by PCR/RNP retained the NcoI site (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S5</xref>b), whereas most of the mutations (6/7) detected by PCR/RE had lost the NcoI site (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S5</xref>c), which indicates that the PCR/RE method fails to detect mutations that do not remove the restriction enzyme site. We also analysed the mutations in protoplasts by T7EI assay. However, all the samples gave rise to smeared DNA bands whether or not they were exposed to tacer9&#x02010;RNPs (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S5</xref>a). This was because a conserved primer set recognizing all three homoeologues (<italic>TaCer9&#x02010;A1</italic>,<italic> &#x02010;B1</italic> and <italic>&#x02010;D1</italic>) simultaneously was used, and there are several SNPs in the amplified region (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S6</xref>). This example indicated that when using the PCR/RE method, the restriction enzyme sites should be perfectly cover the Cas9 cutting site. Otherwise, some small indels will be overlooked. This feature further limited choices of candidate sgRNA target sites. The PCR/RNP method thus has clear cut advantages over the T7EI and PCR/RE methods, especially for polyploid plants such as wheat.</p><fig fig-type="Figure" xml:lang="en" id="pbi12938-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mutant identification in <italic>TaCer9</italic> in hexaploid wheat using homoeologue&#x02010;specific primer sets. Agarose gel showing eight representative <italic>tacer9</italic> mutants in <italic>TaCer9&#x02010;A1</italic> (a), <italic>TaCer9&#x02010;B1</italic> (b) and <italic>TaCer9&#x02010;D1</italic> (c) detected by the three methods. Genotypes and mutant patterns were confirmed by Sanger sequencing. Hyphens denote deleted nucleotides. The <styled-content style="fixed-case">PAM</styled-content> motif (5&#x02032;&#x02010;<styled-content style="fixed-case">TGG</styled-content>&#x02010;3&#x02032;) is shown in red. The NcoI restriction enzyme site (5&#x02032;&#x02010;<styled-content style="fixed-case">CCATGG</styled-content>&#x02010;3&#x02032;) is underlined.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-2053-g003"/></fig></sec><sec id="pbi12938-sec-0005"><title>PCR/RNP analysis of mutations induced by purified TALEN protein</title><p>A pair of TALEN was designed to target the three homoeologues of <italic>TaGW2</italic> simultaneously (Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S3</xref>). The gw2&#x02010;TALENs target a conserved region in exon 8 and match perfectly their recognition sites in <italic>TaGW2&#x02010;A1</italic> and <italic>&#x02010;B1</italic>, whereas there is a single nucleotide mismatch in the left binding site of <italic>TaGW2&#x02010;D1</italic> (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>a). The two TALEN monomers (GW2&#x02010;L &#x00026; GW2&#x02010;R) were cloned into the bacterial expression plasmid (pET&#x02010;28a), expressed in <italic>E.&#x000a0;coli</italic> and purified with N&#x02010;terminal 6*His tag, respectively (Figures&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>b and <xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S7</xref>a). In the <italic>in&#x000a0;vitro</italic> cleavage assay, they had robust activity against PCR amplicons containing the TALEN recognition sites (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S7</xref>b). The purified gw2&#x02010;TALEN proteins were then delivered into wheat protoplasts by PEG&#x02010;mediated transfection. We designed three different RNPs incorporating AsCpf1, FnCpf1 and SpCas9, respectively, to detect the mutations by the PCR/RNP method (Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>). The three target sites were located in the spacer region of the TALEN target sequence. Our results showed that FnCpf1 and SpCas9 detected the mutations while the wild&#x02010;type sequence was cut (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>c); on the other hand, the AsCpf1 RNPs failed to completely cut the wild&#x02010;type sequence. The mutation frequencies measured by FnCpf1 and SpCs9 RNPs (58.3% and 56.4%) were similar. The undigested bands were further gel purified and confirmed by Sanger sequencing of single colonies (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>c). The mutation frequencies determined using T7EI at <italic>TaGW2&#x02010;A1</italic>,<italic> TaGW2&#x02010;B1</italic> and <italic>TaGW2&#x02010;D1</italic> were comparable (58.4%, 54.1% and 37.6%) and consistent with the results by the PCR/RNP method (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>d).</p><fig fig-type="Figure" xml:lang="en" id="pbi12938-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Targeted mutagenesis at the <italic>Ta<styled-content style="fixed-case">GW</styled-content>2</italic> locus using purified <styled-content style="fixed-case">TALEN</styled-content> protein. (a) The gene architecture of <italic>Ta<styled-content style="fixed-case">GW</styled-content>2</italic> and the <styled-content style="fixed-case">TALEN</styled-content> target site in exon 8. The left and right target sequences are underlined and the spacer sequence is in lower case. The <styled-content style="fixed-case">SNP</styled-content> in the target sequence of <italic>Ta<styled-content style="fixed-case">GW</styled-content>2&#x02010;D1</italic> is highlighted in green. (b) Diagram&#x000a0;of the plasmid used for bacterial expression and purification (left). <styled-content style="fixed-case">SDS</styled-content>&#x02010;<styled-content style="fixed-case">PAGE</styled-content> of the purified <styled-content style="fixed-case">GW</styled-content>2&#x02010;L and <styled-content style="fixed-case">GW</styled-content>2&#x02010;R proteins (right). (c) Mutation frequency at the gw2&#x02010;<styled-content style="fixed-case">TALEN</styled-content>s target site in protoplasts detected by the <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> method using different <styled-content style="fixed-case">RNA</styled-content>&#x02010;guided endonucleases with a conserved primer set. &#x02018;1&#x02019; indicates protoplasts incubated with the gw2&#x02010;<styled-content style="fixed-case">TALEN</styled-content>s protein, and &#x02018;<styled-content style="fixed-case">CK</styled-content>&#x02019; is a negative control. (d) Mutation frequency induced by purified gw2&#x02010;<styled-content style="fixed-case">TALEN</styled-content>s protein in protoplasts detected by the <styled-content style="fixed-case">PCR</styled-content>/T7<styled-content style="fixed-case">EI</styled-content> method with homoeologue&#x02010;specific primer sets. The red arrows indicate mutant bands. (e) Outcome <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> to detect <styled-content style="fixed-case">TALEN</styled-content>&#x02010;induced mutations in 12 representative T0 plants. &#x02018;<styled-content style="fixed-case">WT</styled-content>/D&#x02019;: wild&#x02010;type amplicons digested with <styled-content style="fixed-case">CRISPR</styled-content>/Cas9 <styled-content style="fixed-case">RNP</styled-content>, &#x02018;<styled-content style="fixed-case">WT</styled-content>/<styled-content style="fixed-case">UD</styled-content>&#x02019;: wild&#x02010;type amplicon not digested.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-16-2053-g004"/></fig><p>Having confirmed that the purified gw2&#x02010;TALEN proteins were highly active in wheat protoplasts, we next delivered them into immature wheat embryos via particle bombardment. As we previously described for transient expression of CRISPR/Cas9 reagents, no herbicide selection was used in the entire tissue culture procedure (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0034" ref-type="ref">2016</xref>). We used the PCR/RNP method to screen mutations induced by the gw2&#x02010;TALENs in the T0 generation, using CRISPR/Cas9 RNPs against the spacer region of the TALEN target site (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>d and Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>). We used PCR/RNP together with previously described pooling method for mutation screening (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0034" ref-type="ref">2016</xref>). In total, six mutants were detected from 338 pools of regenerated seedlings (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>e). The six mutants were further analysed with homoeologue&#x02010;specific primer sets (Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S2</xref>). All the mutations were located in the <italic>TaGW2&#x02010;A1</italic> locus (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S8</xref>).</p></sec><sec id="pbi12938-sec-0006"><title>PCR/RNP analysis of mutations generated by base editors</title><p>Base editing systems enable highly efficient conversion of C to T or A to G in a programmable manner and have created a new era of genome editing, especially for gain&#x02010;of&#x02010;function analysis (Kuscu and Adli, <xref rid="pbi12938-bib-0015" ref-type="ref">2016</xref>). To investigate whether the PCR/RNP method can be used to genotype single SNPs, we constructed two series of SNPs located in the target sites of OsPDS&#x02010;1 and OsPDS&#x02010;4 (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S9a and b</xref>). Both target sites have 5&#x02032;&#x02010;terminal PAM sequence for Cpf1 (AsCpf1 and FnCpf1) and 3&#x02032;&#x02010;terminal PAM sequences for SpCas9. PCR amplicons containing these SNPs were treated with RNP complexes of SpCas9, AsCpf1 and FnCpf1 containing wild&#x02010;type sgRNA and crRNA, respectively. Unlike the situation for genome editing <italic>in&#x000a0;vivo</italic>, SNPs located in all positions of the target sequence (except the GG sequence for the PAM) &#x02013; even in the seed region &#x02013; were totally digested by SpCas9 RNPs, whereas AsCpf1 and FnCpf1 RNPs were sensitive to SNPs located in the first eight PAM&#x02010;proximal nucleotides (M1&#x02010;M8 for OsPDS&#x02010;1 and M2&#x02010;M9 for OsPDS&#x02010;4). Several SNPs located in other regions (M10, M12&#x000a0;M15 and M17) of OsPDS&#x02010;1 also failed to be digested by FnCpf1 RNPs is just case&#x02010;by&#x02010;case (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S9c and d</xref>). Therefore, we propose that SNPs located in the target seed regions of Cpf1 can be efficiently detected by the PCR/RNP method. This inference was confirmed by testing candidate base editing changes (C to T and A to G) in the targeting windows of OsPDS&#x02010;1 and OsPDS&#x02010;4 target sites using the corresponding FnCpf1 RNP complexes (Figure&#x000a0;<xref rid="pbi12938-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12938-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Genotyping base editing mutations by the <styled-content style="fixed-case">PCR</styled-content>/<styled-content style="fixed-case">RNP</styled-content> method. (a &#x00026; b) The Os<styled-content style="fixed-case">PDS</styled-content>&#x02010;1 and Os<styled-content style="fixed-case">PDS</styled-content>&#x02010;4 target sites in exon1 and exon12 of <italic>Os<styled-content style="fixed-case">PDS</styled-content></italic>, respectively. The <styled-content style="fixed-case">PAM</styled-content> sequences of FnCpf1 and SpCas9 are highlighted in blue and red, respectively. Candidate C to T and A to G conversions in the base editing windows are listed. (c &#x00026; d) Analysis of base editing mutations in both target sites induced by FnCpf1 and the high&#x02010;fidelity SpCas9 variants.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-16-2053-g005"/></fig><p>Recently, a number of high&#x02010;fidelity SpCas9 variants, including eSpCas9 1.0, eSpCas9 1.1, SpCas9&#x02010;HF1 and HypaCas9, have been rationally engineered to increase the specificity of editing (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0002" ref-type="ref">2017a</xref>; Kleinstiver <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0013" ref-type="ref">2016</xref>; Slaymaker <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0027" ref-type="ref">2016</xref>). By combining the amino acid changes in eSpCas9 1.1 with SpCas9&#x02010;HF1 and HypaCas9, we created new enhanced HF1&#x02010;Cas9 (eHF1&#x02010;Cas9) and enhanced hyper&#x02010;accurate Cas9 (eHypa&#x02010;Cas9) variants. We expressed and purified these high&#x02010;fidelity SpCas9 variants to detect SNPs using the PCR/RNP method (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>). The six high&#x02010;fidelity SpCas9 forms together with wild&#x02010;type sgRNA were used to cleave PCR amplicons containing mismatches at each position of the OsPDS&#x02010;1 and OsPDS&#x02010;4 target sites (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S9a and b</xref>). SpCas9&#x02010;HF1 and HypaCas9 had almost no cleavage activity for SNPs in the distal regions of the OsPDS&#x02010;1 PAM (M1&#x02013;M8), but completely cut the wild&#x02010;type (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S10</xref>). However, they had robust cleavage activity for all the SNPs in the OsPDS&#x02010;4 target site (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S11</xref>). We further found that eHF1&#x02010;Cas9 and eHypaCas9 had no cleavage activity for SNPs in the distal region of the OsPDS&#x02010;4 PAM (M2&#x02013;M9), but robust cleavage activity for the wild&#x02010;type (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S11</xref>). The base editing windows of C to T and A to G mainly ranged from positions 4&#x02013;8 in the protospacer (Gaudelli <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0007" ref-type="ref">2017</xref>; Komor <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0014" ref-type="ref">2016</xref>). Therefore, we supposed that the high&#x02010;fidelity SpCas9 variants could be used to detect mutations generated by base editing, and we tested candidate base editing changes (C to T and A to G) at both target sites (OsPDS&#x02010;1 and OsPDS&#x02010;4) (Figure&#x000a0;<xref rid="pbi12938-fig-0005" ref-type="fig">5</xref>c and d). The results showed that PCR/RNP is less effective in detecting SNPs than in detecting indels, but the latter can at least be distinguished from the wild&#x02010;type sequence.</p></sec></sec><sec id="pbi12938-sec-0007"><title>Discussion</title><p>An effective genotyping method is very important for genome editing in plants. Previously, we mainly used the PCR/RE method for mutant screening (Shan <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0026" ref-type="ref">2014</xref>). However, the available restriction enzyme sites limited the choice of target sites. Here, we have described a PCR/RNP method based on the RNA&#x02010;guided endonucleases SpCas9 or FnCpf1 for identifying indels generated by CRISPR/Cas9 that overcomes this limitation of the PCR/RE method. Unlike the use of T7EI, the PCR/RNP method can distinguish homozygous mutants from wild&#x02010;type and also bi&#x02010;allelic from heterozygous mutations. Another advantage of PCR/RNP over the T7EI method is that mutation detection with RNPs is not affected by background noise (SNPs) around the target site, which has great significance for polyploid plants such as wheat. Sanger sequencing is the most informative method for mutation detection in plants. However, this is much costlier, especially for low mutation frequencies or large populations of testable seedlings. Direct sequencing to detect mutations in hexaploid wheat needs homoeologue&#x02010;specific PCR, and specific primers are not always easy to design. Furthermore, Sanger sequencing is less sensitive than PCR/RNP (Figure&#x000a0;<xref rid="pbi12938-fig-0001" ref-type="fig">1</xref>b and e) and so may overlook some mutations when a pooled screening approach is used.</p><p>Genome editing approaches without the involvement of any foreign DNA is one of the directions for optimization. TALEN or CRISPR/Cas9 delivered as RNA or protein can function with a transiently manner without integrated into the host genome. In this study, we report the successful delivery of purified TALEN proteins into immature wheat embryos and targeted mutagenesis at the <italic>TaGW2</italic> locus in the T0 generation. Mutagenesis induced by TALEN protein can also be detected using the PCR/RNP method (Figure&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>). We showed that the PCR/RNP method is especially suitable for the selection&#x02010;free genome editing procedures, including TECCDNA, TECCRNA (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0034" ref-type="ref">2016</xref>) and TECCRNP (Liang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0016" ref-type="ref">2017</xref>) procedures that we previously developed in wheat. Because no selective antibiotic is used in the tissue culture process, large numbers of seedlings may need to be tested in the T0 generation. We also propose that indels whether naturally occurred or induced by other sequence&#x02010;specific nucleases could be easily identifiable by the PCR/RNP method, the only requirement being the presence of GG or TT (CC or AA on the complementary strand) in the PAM sequences for SpCas9 and FnCpf1.</p><p>An important factor in evaluating a mutation detection method is how widespread is its application. For ease of operating the PCR/RNP method, we used crude PCR products without purifying and quantifying them, and an excess of RNP (500&#x000a0;ng for each reaction). Sufficient <italic>in&#x000a0;vitro</italic> transcribed and purified sgRNA or crRNA can be easily obtained from one transcription reaction using a commercial kit to support over 300 cleavage reactions. High yields of purified active SpCas9 and FnCpf1 proteins can be obtained in 3&#x02013;4&#x000a0;days. Usually, over 4&#x000a0;mg of SpCas9 or FnCpf1 can be obtained from 1L of induced bacterial cells, and the proteins can be stored at &#x02212;80&#x000b0;C for several months. The entire mutation detection procedure using PCR/RNPs can be completed in a few hours and the results can be displayed by standard agarose gel analysis.</p><p>Single nucleotide polymorphisms are very important genetics resources for generating elite traits in crop plants (Rafalski, <xref rid="pbi12938-bib-0023" ref-type="ref">2002</xref>). Unlike for indel detection, there is a difference between single nucleotide mismatch cleavage assays based on SpCas9 versus FnCpf1: a mismatch at any position of the protospacer does not prevent cutting by SpCas9, but it does prevent cutting by FnCpf1 (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S9</xref>). This characteristic makes SpCas9 suitable for screening mutations at target sites with one&#x02010;mismatch at the same time as at target sites with no mismatch. For example, sg&#x02010;TaGW2, which we previously used to target <italic>TaGW2</italic>, perfectly matched <italic>TaGW2&#x02010;B1</italic> and <italic>&#x02010;D1</italic>, but had a single nucleotide mismatch at <italic>TaGW2&#x02010;A1</italic> (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0034" ref-type="ref">2016</xref>), and mutations occurring in all three homoeologues could be simultaneously detected by the PCR/RNP using a conserved primer set (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S4</xref>). In the case of FnCpf1, a single nucleotide mismatch in the seed region (the first eight PAM&#x02010;proximal nucleotides) prevented cutting by RNP containing the wild&#x02010;type crRNA. This may be one explanation why Cpf1 has higher specificity than SpCas9 (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0012" ref-type="ref">2016</xref>). Therefore, SNPs, whether naturally occurred or generated by base editing, located in the seed regions of target sites for FnCpf1 can be effectively detected by the PCR/RNP method.</p><p>In summary, we describe an efficient mutant screening method based on RNP of CRISPR/Cas9 or CRISPR/Cpf1 system in plants. The PCR/RNP method is fast, cheap and easy to apply without the need for appropriate restriction enzyme sites and special instruments. In addition, we describe for the first time an alternative DNA&#x02010;free genome editing procedure in wheat using purified TALEN proteins and show that the resulting mutations can also be identified by the PCR/RNP method. Our works provided powerful tools not only for high&#x02010;throughput detection requirements in plants but also for accurately identify the mutation in different genome of polypoid plants even in complicated genetic background.</p></sec><sec id="pbi12938-sec-0008"><title>Experimental procedures</title><sec id="pbi12938-sec-0009"><title>Production of sgRNA and crRNA</title><p>Templates for transcription of sgRNA and crRNA were amplified using corresponding primer sets (Table&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S2</xref>) with high&#x02010;fidelity DNA polymerase and purified with PCR Clean&#x02010;Up Kit (Axygen). sgRNA and crRNA were synthesized using the HiScribe T7 <italic>In Vitro</italic> Transcription Kit (New England Biolabs) according to the manufacturer's instructions and purified by ethanol precipitation method. The concentration was analysed using NanoDrop spectrophotometer.</p></sec><sec id="pbi12938-sec-0010"><title>Purification of high&#x02010;fidelity SpCas9 variants and Cpf1 orthologous</title><p>Point mutations were introduced into the Cas9 coding sequences of pET28a&#x02010;Cas9&#x02010;His to construct bacterial expression plasmids carrying eSpCas9 1.0 (K810A, K1003A, R1060A), eSpCas9 1.1 (K848A, K1003A, R1060A), SpCas9&#x02010;HF1 (N497A, R661A, Q695A, Q926A), HypaCas9 (N692A, M694A, Q695A, H698A), eHF1&#x02010;Cas9(N497A, R661A, Q695A, K848A, Q926A K1003A, R1060A) and eHypaCas9 (N692A, M694A, Q695A, H698A, K848A, K1003A, R1060A) (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>a). These high&#x02010;fidelity SpCas9 variants were expressed in <italic>E.&#x000a0;coli Rosetta</italic> and purified as previously described for Cas9 (Liang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0016" ref-type="ref">2017</xref>). The AsCpf1 and FnCpf1 bacterial expression plasmids were kindly provided by Dr. Jin&#x02010;Soo Kim. The purification procedure for AsCpf1 and FnCpf1 proteins was the same as for Cas9 protein, while dialyzed with Cpf1 storage buffer (20&#x000a0;mM HEPES pH 7.5, 200&#x000a0;mM NaCl and 1&#x000a0;mM DTT). The purities and concentrations of the purified proteins were measured by SDS&#x02010;PAGE (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S1</xref>b) and the Bradford protein assay, respectively.</p></sec><sec id="pbi12938-sec-0011"><title>Creation of PCR products for <italic>in&#x000a0;vitro</italic> cleavage assay</title><p>Wild&#x02010;type PCR products containing OsPDS&#x02010;1 and OsPDS&#x02010;4 were amplified using high&#x02010;fidelity DNA polymerases and cloned into pEasy&#x02010;Blunt (TransGen Biotech, Beijing) vector. 1~6&#x000a0;bp deletions for OsPDS&#x02010;1 (D1~D6) and series SNPs for OsPDS&#x02010;1 and OsPDS&#x02010;4 target sites (Figure&#x000a0;<xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S9a and b</xref>) were produced by Fast Mutagenesis System (TransGen Biotech, Beijing). PCR products were amplified by 32&#x02013;35 cycles with Taq DNA polymerases.</p></sec><sec id="pbi12938-sec-0012"><title>PCR/RNP method</title><p>The PCR products (2&#x02013;3&#x000a0;&#x003bc;L depending on the concentration) were digested with the corresponding RNP complexes in Cas9 reaction buffer (20&#x000a0;mM HEPES, pH 7.5, 150&#x000a0;mM KCl, 10&#x000a0;mM MgCl<sub>2</sub>, 0.5&#x000a0;mM DTT) in a total volume of 10&#x000a0;&#x003bc;L. For each reaction, 2&#x02013;3&#x000a0;&#x003bc;L PCR products, 0.5&#x000a0;&#x003bc;g Cas9 or Cpf1 protein and 0.5&#x000a0;&#x003bc;g sgRNA or crRNA were mixed and ddH<sub>2</sub>0 were added up to 10&#x000a0;&#x003bc;L. The mixtures were firstly incubated at 37&#x000b0;C for 3&#x000a0;h for cleavage and then incubated at 65&#x000b0;C for 10&#x000a0;min to stop the reaction, and the products were analysed immediately on 2% agarose gel.</p></sec><sec id="pbi12938-sec-0013"><title>Purification of TALEN protein</title><p>Fragments containing the SV40 NLS and FokI&#x02010;L or FokI&#x02010;R were cloned into pEasy&#x02010;Blunt Simple to yield plasmids pLZ&#x02010;NLS&#x02010;FokI&#x02010;L and pLZ&#x02010;NLS&#x02010;FokI&#x02010;R. Golden Gate assembled TALEN Left/Right was released by digestion with XbaI and BamHI and inserted into pLZ&#x02010;NLS&#x02010;FokI&#x02010;L (XbaI/BamHI) and pLZ&#x02010;NLS&#x02010;FokI&#x02010;R (NheI/BamHI), respectively. Then, the intact TALEN monomers were cloned into bacterial expression plasmid pET&#x02010;28a by digestion with SacI/XhoI. The monomer TALEN proteins were expressed in <italic>E.&#x000a0;coli Rosetta</italic> at 22&#x000b0;C, purified by nickel affinity chromatography (GE Healthcare, cat. no. 17&#x02010;5318&#x02010;01) and dialyzed with TALEN storage buffer (20&#x000a0;mM HEPES pH 7.5, 500&#x000a0;mM NaCl, 1&#x000a0;mM MgCl<sub>2</sub>). The purities and concentrations of the TALEN proteins were measured by SDS&#x02010;PAGE (Figures&#x000a0;<xref rid="pbi12938-fig-0004" ref-type="fig">4</xref>b and <xref rid="pbi12938-sup-0001" ref-type="supplementary-material">S7</xref>a) and the Bradford protein assay, respectively.</p></sec><sec id="pbi12938-sec-0014"><title>Protoplast transfection</title><p>Winter wheat variety Kenong199 was used. Wheat protoplasts were isolated from 2&#x02010;week&#x02010;old seedlings grown in nutrient&#x02010;rich soil at 25&#x000b0;C with a photoperiod of 16&#x000a0;h light: 8&#x000a0;h dark. The purified TALEN monomers (20&#x000a0;&#x003bc;g for each) were delivered into the protoplasts by PEG&#x02010;mediated transfection. Two days post&#x02010;transfection, the protoplasts were harvested to extract DNA for further analysis.</p></sec><sec id="pbi12938-sec-0015"><title>Biolistic delivery of TALEN proteins</title><p>The TALEN proteins were delivered into immature wheat embryos by particle bombardment as previously described with some modifications (Liang <italic>et&#x000a0;al</italic>., <xref rid="pbi12938-bib-0016" ref-type="ref">2017</xref>). For each shot, the TALEN monomers (2&#x000a0;&#x003bc;g each) were premixed in Reaction Buffer (20&#x000a0;mM HEPES, pH 7.5, 150&#x000a0;mM KCl, 10&#x000a0;mM MgCl<sub>2</sub>, 0.5&#x000a0;mM DTT) in a total volume of 10&#x000a0;&#x003bc;L, and 5&#x000a0;&#x003bc;L of gold nanoparticles (0.6&#x000a0;&#x003bc;m) was added. The mixtures were spread directly onto the carrier and allowed to air&#x02010;dry at room temperature for about 2&#x000a0;h. Biolistic bombardment was performed as previously described.</p></sec></sec><sec id="pbi12938-sec-0017"><title>Author contributions</title><p>Z.L. and C.G. conceived the project; Z.L. and C.G. designed experiments; Z.L. performed most of the experiments; Z.L., K.C., Y.Y., Y.Z. and C.G. analysed experiments; Z.L. wrote the manuscript with assistance from other authors; and C.G. supervised the project.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12938-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Purification of the Cas9 variants and Cpf1 protein used in these studies.</p><p>
+<bold>Figure&#x000a0;S2</bold> Optimization of conditions for <italic>in&#x000a0;vitro</italic> cleavage by CRISPR/Cas9.
+</p><p>
+<bold>Figure&#x000a0;S3</bold> Use of RNA&#x02010;guided endonucleases for indel detection.</p><p>
+<bold>Figure&#x000a0;S4</bold> Genotyping of <italic>tagw2</italic> mutants induced by CRISPR/Cas9 IVTs.</p><p>
+<bold>Figure&#x000a0;S5</bold> Genotyping of protoplast mutations induced by CRISPR/Cas9 ribonucleoprotein complexes using the PCR/RNP method.</p><p>
+<bold>Figure&#x000a0;S6</bold> Partial sequence alignment of the three homoeologues of <italic>TaCer9</italic> used for mutation screening.</p><p>
+<bold>Figure&#x000a0;S7</bold>
+<italic>In vitro</italic> cleavage of the three homoeologues of <italic>TaGW2</italic> using purified TALEN protein.</p><p>
+<bold>Figure&#x000a0;S8</bold> PCR/RNP analysis of <italic>tagw2</italic> mutants induced by purified TALEN protein in the T0 generation.</p><p>
+<bold>Figure&#x000a0;S9</bold> Applications of the PCR/RNP method for SNP detection.</p><p>
+<bold>Figure&#x000a0;S10</bold> Single nucleotide mismatch cleavage assays at the OsPDS&#x02010;1 target site using the six high&#x02010;fidelity SpCas9 variants.</p><p>
+<bold>Figure&#x000a0;S11</bold> Single nucleotide mismatch cleavage assays at the OsPDS&#x02010;4 target site using the six high&#x02010;fidelity SpCas9 variants.</p><p>
+<bold>Table&#x000a0;S1</bold> sgRNA and crRNA target sites used for the PCR/RNP method.</p><p>
+<bold>Table&#x000a0;S2</bold> PCR primers used in this study.</p><p>
+<bold>Table&#x000a0;S3</bold> TALEN target loci and sequences.</p></caption><media xlink:href="PBI-16-2053-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12938-sec-0016"><title>Acknowledgements</title><p>We thank Jin&#x02010;Soo Kim for providing the AsCpf1 and FnCpf1 bacterial expression plasmids. The work was supported by grants the National Key Research and Development Program of China (2016YFD0101804) the Scientific Program of Beijing Municipal Commission of Science and Technology (Z171100001517001), the Chinese Academy of Sciences (QYZDY&#x02010;SSW&#x02010;SMC030 and GJHZ1602) Beijing Municipal Science and Technology (Major Program# D171100007717001) and the National Natural Science Foundation of China (31788103, 31420103912 and 31570369). The authors declare no conflict of interest.</p></ack><ref-list content-type="cited-references" id="pbi12938-bibl-0001"><title>References</title><ref id="pbi12938-bib-0001"><mixed-citation publication-type="journal" id="pbi12938-cit-0001">
+<string-name>
+<surname>Brinkman</surname>, <given-names>E.K.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Amendola</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Van Steensel</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>) <article-title>Easy quantitative assessment of genome editing by sequence trace decomposition</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>42</volume>, <fpage>e168</fpage>.<pub-id pub-id-type="pmid">25300484</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0002"><mixed-citation publication-type="journal" id="pbi12938-cit-0002">
+<string-name>
+<surname>Chen</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Dagdas</surname>, <given-names>Y.S.</given-names>
+</string-name>, <string-name>
+<surname>Kleinstiver</surname>, <given-names>B.P.</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Sousa</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Sternberg</surname>, <given-names>S.H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017a</year>) <article-title>Enhanced proofreading governs CRISPR&#x02010;Cas9 targeting accuracy</article-title>. <source xml:lang="en">Nature</source>, <volume>550</volume>, <fpage>407</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">28931002</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0003"><mixed-citation publication-type="journal" id="pbi12938-cit-0003">
+<string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Q.</given-names>
+</string-name> and <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017b</year>) <article-title>CRISPR/Cas9&#x02010;mediated base&#x02010;editing system efficiently generates gain&#x02010;of&#x02010;function mutations in Arabidopsis</article-title>. <source xml:lang="en">Sci. China Life Sci.</source>
+<volume>60</volume>, <fpage>520</fpage>&#x02013;<lpage>523</lpage>.<pub-id pub-id-type="pmid">28303459</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0004"><mixed-citation publication-type="journal" id="pbi12938-cit-0004">
+<string-name>
+<surname>Cong</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ran</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Barretto</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Habib</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>P.D.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Multiplex genome engineering using CRISPR/Cas systems</article-title>. <source xml:lang="en">Science</source>, <volume>339</volume>, <fpage>819</fpage>&#x02013;<lpage>823</lpage>.<pub-id pub-id-type="pmid">23287718</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0005"><mixed-citation publication-type="journal" id="pbi12938-cit-0005">
+<string-name>
+<surname>Dahlem</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Hoshijima</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jurynec</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Gunther</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Starker</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Locke</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Weis</surname>, <given-names>A.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Simple methods for generating and detecting locus&#x02010;specific mutations induced with TALENs in the zebrafish genome</article-title>. <source xml:lang="en">PLoS Genet.</source>
+<volume>8</volume>, <fpage>e1002861</fpage>.<pub-id pub-id-type="pmid">22916025</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0006"><mixed-citation publication-type="journal" id="pbi12938-cit-0006">
+<string-name>
+<surname>Gaj</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gersbach</surname>, <given-names>C.A.</given-names>
+</string-name> and <string-name>
+<surname>Barbas</surname>, <given-names>C.F.</given-names>
+<suffix>3rd</suffix>
+</string-name>. (<year>2013</year>) <article-title>ZFN, TALEN, and CRISPR/Cas&#x02010;based methods for genome engineering</article-title>. <source xml:lang="en">Trends Biotechnol.</source>
+<volume>31</volume>, <fpage>397</fpage>&#x02013;<lpage>405</lpage>.<pub-id pub-id-type="pmid">23664777</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0007"><mixed-citation publication-type="journal" id="pbi12938-cit-0007">
+<string-name>
+<surname>Gaudelli</surname>, <given-names>N.M.</given-names>
+</string-name>, <string-name>
+<surname>Komor</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>, <given-names>H.A.</given-names>
+</string-name>, <string-name>
+<surname>Packer</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Badran</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Bryson</surname>, <given-names>D.I.</given-names>
+</string-name> and <string-name>
+<surname>Liu</surname>, <given-names>D.R.</given-names>
+</string-name> (<year>2017</year>) <article-title>Programmable base editing of A&#x02022;T to G&#x02022;C in genomic DNA without DNA cleavage</article-title>. <source xml:lang="en">Nature</source>, <volume>551</volume>, <fpage>464</fpage>&#x02013;<lpage>471</lpage>.<pub-id pub-id-type="pmid">29160308</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0008"><mixed-citation publication-type="journal" id="pbi12938-cit-0008">
+<string-name>
+<surname>Guell</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Church</surname>, <given-names>G.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Genome editing assessment using CRISPR Genome Analyzer (CRISPR&#x02010;GA)</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>30</volume>, <fpage>2968</fpage>&#x02013;<lpage>2970</lpage>.<pub-id pub-id-type="pmid">24990609</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0009"><mixed-citation publication-type="journal" id="pbi12938-cit-0009">
+<string-name>
+<surname>Hua</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Zhu</surname>, <given-names>J.&#x02010;K.</given-names>
+</string-name> (<year>2018</year>) <article-title>Precise A&#x000b7;T to G&#x000b7;C base editing in the rice genome</article-title>. <source xml:lang="en">Mol. Plant.</source>
+<volume>11</volume>, <fpage>627</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">29476916</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0010"><mixed-citation publication-type="journal" id="pbi12938-cit-0010">
+<string-name>
+<surname>Kim</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2016</year>) <article-title>Genome editing comes of age</article-title>. <source xml:lang="en">Nat. Protoc.</source>
+<volume>11</volume>, <fpage>1573</fpage>&#x02013;<lpage>1578</lpage>.<pub-id pub-id-type="pmid">27490630</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0011"><mixed-citation publication-type="journal" id="pbi12938-cit-0011">
+<string-name>
+<surname>Kim</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Kim</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Genotyping with CRISPR&#x02010;Cas&#x02010;derived RNA&#x02010;guided endonucleases</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>5</volume>, <fpage>3157</fpage>.<pub-id pub-id-type="pmid">24445736</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0012"><mixed-citation publication-type="journal" id="pbi12938-cit-0012">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hur</surname>, <given-names>J.K.</given-names>
+</string-name>, <string-name>
+<surname>Been</surname>, <given-names>K.W.</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>, <given-names>S.H.</given-names>
+</string-name> and <string-name>
+<surname>Kim</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2016</year>) <article-title>Genome&#x02010;wide analysis reveals specificities of Cpf1 endonucleases in human cells</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>34</volume>, <fpage>863</fpage>&#x02013;<lpage>868</lpage>.<pub-id pub-id-type="pmid">27272384</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0013"><mixed-citation publication-type="journal" id="pbi12938-cit-0013">
+<string-name>
+<surname>Kleinstiver</surname>, <given-names>B.P.</given-names>
+</string-name>, <string-name>
+<surname>Pattanayak</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Prew</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>, <given-names>S.Q.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>N.T.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Z.</given-names>
+</string-name> and <string-name>
+<surname>Joung</surname>, <given-names>J.K.</given-names>
+</string-name> (<year>2016</year>) <article-title>High&#x02010;fidelity CRISPR&#x02010;Cas9 nucleases with no detectable genome&#x02010;wide off&#x02010;target effects</article-title>. <source xml:lang="en">Nature</source>, <volume>529</volume>, <fpage>490</fpage>&#x02013;<lpage>495</lpage>.<pub-id pub-id-type="pmid">26735016</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0014"><mixed-citation publication-type="journal" id="pbi12938-cit-0014">
+<string-name>
+<surname>Komor</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.B.</given-names>
+</string-name>, <string-name>
+<surname>Packer</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Zuris</surname>, <given-names>J.A.</given-names>
+</string-name> and <string-name>
+<surname>Liu</surname>, <given-names>D.R.</given-names>
+</string-name> (<year>2016</year>) <article-title>Programmable editing of a target base in genomic DNA without double&#x02010;stranded DNA cleavage</article-title>. <source xml:lang="en">Nature</source>, <volume>533</volume>, <fpage>420</fpage>&#x02013;<lpage>424</lpage>.<pub-id pub-id-type="pmid">27096365</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0015"><mixed-citation publication-type="journal" id="pbi12938-cit-0015">
+<string-name>
+<surname>Kuscu</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Adli</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>) <article-title>CRISPR&#x02010;Cas9&#x02010;AID base editor is a powerful gain&#x02010;of&#x02010;function screening tool</article-title>. <source xml:lang="en">Nat. Methods</source>
+<volume>13</volume>, <fpage>983</fpage>&#x02013;<lpage>984</lpage>.<pub-id pub-id-type="pmid">27898061</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0016"><mixed-citation publication-type="journal" id="pbi12938-cit-0016">
+<string-name>
+<surname>Liang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Efficient DNA&#x02010;free genome editing of bread wheat using CRISPR/Cas9 ribonucleoprotein complexes</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>8</volume>, <fpage>14261</fpage>.<pub-id pub-id-type="pmid">28098143</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0017"><mixed-citation publication-type="journal" id="pbi12938-cit-0017">
+<string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Liu</surname>, <given-names>Y.G.</given-names>
+</string-name> (<year>2015</year>) <article-title>DSDecode: a web&#x02010;based tool for decoding of sequencing chromatograms for genotyping of targeted mutations</article-title>. <source xml:lang="en">Mol. Plant.</source>
+<volume>8</volume>, <fpage>1431</fpage>&#x02013;<lpage>1433</lpage>.<pub-id pub-id-type="pmid">26032088</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0018"><mixed-citation publication-type="journal" id="pbi12938-cit-0018">
+<string-name>
+<surname>Liu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jiao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Hi&#x02010;TOM: a platform for high&#x02010;throughput tracking of mutations induced by CRISPR/Cas systems</article-title>. <source xml:lang="en">bioRxiv</source>. <pub-id pub-id-type="doi">10.1101/235903</pub-id>.</mixed-citation></ref><ref id="pbi12938-bib-0019"><mixed-citation publication-type="journal" id="pbi12938-cit-0019">
+<string-name>
+<surname>Mali</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Esvelt</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Aach</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guell</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dicarlo</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Norville</surname>, <given-names>J.E.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>RNA&#x02010;guided human genome engineering via Cas9</article-title>. <source xml:lang="en">Science</source>, <volume>339</volume>, <fpage>823</fpage>&#x02013;<lpage>826</lpage>.<pub-id pub-id-type="pmid">23287722</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0020"><mixed-citation publication-type="journal" id="pbi12938-cit-0020">
+<string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J.S.</given-names>
+</string-name> and <string-name>
+<surname>Bae</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>) <article-title>Cas&#x02010;analyzer: an online tool for assessing genome editing results using NGS data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>33</volume>, <fpage>286</fpage>&#x02013;<lpage>288</lpage>.<pub-id pub-id-type="pmid">27559154</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0021"><mixed-citation publication-type="journal" id="pbi12938-cit-0021">
+<string-name>
+<surname>Pinello</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Canver</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Hoban</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Orkin</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Kohn</surname>, <given-names>D.B.</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>, <given-names>D.E.</given-names>
+</string-name> and <string-name>
+<surname>Yuan</surname>, <given-names>G.C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Analyzing CRISPR genome&#x02010;editing experiments with CRISPResso</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>34</volume>, <fpage>695</fpage>&#x02013;<lpage>697</lpage>.<pub-id pub-id-type="pmid">27404874</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0022"><mixed-citation publication-type="journal" id="pbi12938-cit-0022">
+<string-name>
+<surname>Puchta</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>) <article-title>Applying CRISPR/Cas for genome engineering in plants: the best is yet to come</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>36</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">27914284</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0023"><mixed-citation publication-type="journal" id="pbi12938-cit-0023">
+<string-name>
+<surname>Rafalski</surname>, <given-names>A.</given-names>
+</string-name> (<year>2002</year>) <article-title>Applications of single nucleotide polymorphisms in crop genetics</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>5</volume>, <fpage>94</fpage>&#x02013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">11856602</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0024"><mixed-citation publication-type="journal" id="pbi12938-cit-0024">
+<string-name>
+<surname>Ramlee</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Chuah</surname>, <given-names>C.T.</given-names>
+</string-name> and <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>) <article-title>High&#x02010;throughput genotyping of CRISPR/Cas9&#x02010;mediated mutants using fluorescent PCR&#x02010;capillary gel electrophoresis</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>5</volume>, <fpage>15587</fpage>.<pub-id pub-id-type="pmid">26498861</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0025"><mixed-citation publication-type="journal" id="pbi12938-cit-0025">
+<string-name>
+<surname>Sentmanat</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>, <given-names>S.T.</given-names>
+</string-name>, <string-name>
+<surname>Florian</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Connelly</surname>, <given-names>J.P.</given-names>
+</string-name> and <string-name>
+<surname>Pruett&#x02010;Miller</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2018</year>) <article-title>A Survey of validation strategies for CRISPR&#x02010;Cas9 editing</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>8</volume>, <fpage>888</fpage>.<pub-id pub-id-type="pmid">29343825</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0026"><mixed-citation publication-type="journal" id="pbi12938-cit-0026">
+<string-name>
+<surname>Shan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Gao</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Genome editing in rice and wheat using the CRISPR/Cas system</article-title>. <source xml:lang="en">Nat. Protoc.</source>
+<volume>9</volume>, <fpage>2395</fpage>&#x02013;<lpage>2410</lpage>.<pub-id pub-id-type="pmid">25232936</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0027"><mixed-citation publication-type="journal" id="pbi12938-cit-0027">
+<string-name>
+<surname>Slaymaker</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zetsche</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>W.X.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name> (<year>2016</year>) <article-title>Rationally engineered Cas9 nucleases with improved specificity</article-title>. <source xml:lang="en">Science</source>, <volume>351</volume>, <fpage>84</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">26628643</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0028"><mixed-citation publication-type="journal" id="pbi12938-cit-0028">
+<string-name>
+<surname>Tang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lowder</surname>, <given-names>L.G.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Malzahn</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Voytas</surname>, <given-names>D.F.</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>A CRISPR&#x02010;Cpf1 system for efficient genome editing and transcriptional repression in plants</article-title>. <source xml:lang="en">Nat. Plant.</source>
+<volume>3</volume>, <fpage>17018</fpage>.</mixed-citation></ref><ref id="pbi12938-bib-0029"><mixed-citation publication-type="journal" id="pbi12938-cit-0029">
+<string-name>
+<surname>Vouillot</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Thelie</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Pollet</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>) <article-title>Comparison of T7E1 and surveyor mismatch cleavage assays to detect mutations triggered by engineered nucleases</article-title>. <source xml:lang="en">G3 (Bethesda)</source>
+<volume>5</volume>, <fpage>407</fpage>&#x02013;<lpage>415</lpage>.<pub-id pub-id-type="pmid">25566793</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0030"><mixed-citation publication-type="journal" id="pbi12938-cit-0030">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Shan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Qiu</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2014</year>) <article-title>Simultaneous editing of three homoeoalleles in hexaploid bread wheat confers heritable resistance to powdery mildew</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>32</volume>, <fpage>947</fpage>&#x02013;<lpage>951</lpage>.<pub-id pub-id-type="pmid">25038773</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0031"><mixed-citation publication-type="journal" id="pbi12938-cit-0031">
+<string-name>
+<surname>Yan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kuang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>High&#x02010;efficient A&#x000b7;T to G&#x000b7;C base editing by Cas9n&#x02010;guided tRNA adenosine deaminase in rice</article-title>. <source xml:lang="en">Mol. Plant.</source>
+<volume>11</volume>, <fpage>631</fpage>&#x02013;<lpage>634</lpage>.<pub-id pub-id-type="pmid">29476918</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0032"><mixed-citation publication-type="journal" id="pbi12938-cit-0032">
+<string-name>
+<surname>Zetsche</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gootenberg</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Abudayyeh</surname>, <given-names>O.O.</given-names>
+</string-name>, <string-name>
+<surname>Slaymaker</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Makarova</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Essletzbichler</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Volz</surname>, <given-names>S.E.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Cpf1 is a single RNA&#x02010;guided endonuclease of a class 2 CRISPR&#x02010;Cas system</article-title>. <source xml:lang="en">Cell</source>, <volume>163</volume>, <fpage>759</fpage>&#x02013;<lpage>771</lpage>.<pub-id pub-id-type="pmid">26422227</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0033"><mixed-citation publication-type="journal" id="pbi12938-cit-0033">
+<string-name>
+<surname>Zetsche</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Heidenreich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mohanraju</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fedorova</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kneppers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Degennaro</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Winblad</surname>, <given-names>N.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Multiplex gene editing by CRISPR&#x02010;Cpf1 using a single crRNA array</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>35</volume>, <fpage>31</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">27918548</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0034"><mixed-citation publication-type="journal" id="pbi12938-cit-0034">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>J.L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Efficient and transgene&#x02010;free genome editing in wheat through transient expression of CRISPR/Cas9 DNA or RNA</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>7</volume>, <fpage>12617</fpage>.<pub-id pub-id-type="pmid">27558837</pub-id></mixed-citation></ref><ref id="pbi12938-bib-0035"><mixed-citation publication-type="journal" id="pbi12938-cit-0035">
+<string-name>
+<surname>Zong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ran</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>J.L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Precise base editing in rice, wheat and maize with a Cas9&#x02010;cytidine deaminase fusion</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>35</volume>, <fpage>438</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">28244994</pub-id></mixed-citation></ref></ref-list></back></article>

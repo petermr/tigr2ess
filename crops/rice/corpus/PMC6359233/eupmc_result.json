@@ -1,0 +1,335 @@
+{
+  "id": [
+    "30641879"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30641879"
+  ],
+  "pmcid": [
+    "PMC6359233"
+  ],
+  "doi": [
+    "10.3390/s19020263"
+  ],
+  "title": [
+    "Evaluation of Machine Learning Approaches to Predict Soil Organic Matter and pH Using vis-NIR Spectra."
+  ],
+  "authorString": [
+    "Yang M, Xu D, Chen S, Li H, Shi Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang M"
+          ],
+          "firstName": [
+            "Meihua"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China. 0015862@zju.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu D"
+          ],
+          "firstName": [
+            "Dongyun"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China. xudongyun@zju.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Songchao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Institute National de la Recherche Agronomique (INRA), Unité InfoSol, 45075 Orléans, France. songchao.chen@inra.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hongyi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Land Resource Management, Jiangxi University of Finance and Economics, Nanchang 330013, China. lihongyi1981@zju.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi Z"
+          ],
+          "firstName": [
+            "Zhou"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3914-5402",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China. shizhou@zju.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3914-5402",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2770601"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Soil organic matter (SOM) and pH are essential soil fertility indictors of paddy soil in the middle-lower Yangtze Plain. Rapid, non-destructive and accurate determination of SOM and pH is vital to preventing soil degradation caused by inappropriate land management practices. Visible-near infrared (vis-NIR) spectroscopy with multivariate calibration can be used to effectively estimate soil properties. In this study, 523 soil samples were collected from paddy fields in the Yangtze Plain, China. Four machine learning approaches-partial least squares regression (PLSR), least squares-support vector machines (LS-SVM), extreme learning machines (ELM) and the Cubist regression model (Cubist)-were used to compare the prediction accuracy based on vis-NIR full bands and bands reduced using the genetic algorithm (GA). The coefficient of determination (R²), root mean square error (RMSE), and ratio of performance to inter-quartile distance (RPIQ) were used to assess the prediction accuracy. The ELM with GA reduced bands was the best model for SOM (SOM: R² = 0.81, RMSE = 5.17, RPIQ = 2.87) and pH (R² = 0.76, RMSE = 0.43, RPIQ = 2.15). The performance of the LS-SVM for pH prediction did not differ significantly between the model with GA (R² = 0.75, RMSE = 0.44, RPIQ = 2.08) and without GA (R² = 0.74, RMSE = 0.45, RPIQ = 2.07). Although a slight increase was observed when ELM were used for prediction of SOM and pH using reduced bands (SOM: R² = 0.81, RMSE = 5.17, RPIQ = 2.87; pH: R² = 0.76, RMSE = 0.43, RPIQ = 2.15) compared with full bands (R² = 0.81, RMSE = 5.18, RPIQ = 2.83; pH: R² = 0.76, RMSE = 0.45, RPIQ = 2.07), the number of wavelengths was greatly reduced (SOM: 201 to 44; pH: 201 to 32). Thus, the ELM coupled with reduced bands by GA is recommended for prediction of properties of paddy soil (SOM and pH) in the middle-lower Yangtze Plain."
+  ],
+  "affiliation": [
+    "Institute of Agricultural Remote Sensing and Information Technology Application, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, China. 0015862@zju.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "pH",
+        "Soil organic matter",
+        "Paddy soil",
+        "Machine Learning Approaches",
+        "Vis-nir Spectra"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359233?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359233"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s19020263"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-28"
+  ],
+  "dateOfCreation": [
+    "2019-01-16"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-11"
+  ],
+  "firstPublicationDate": [
+    "2019-01-11"
+  ]
+}

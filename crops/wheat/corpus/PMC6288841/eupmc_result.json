@@ -1,0 +1,339 @@
+{
+  "id": [
+    "30291107"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30291107"
+  ],
+  "pmcid": [
+    "PMC6288841"
+  ],
+  "doi": [
+    "10.1534/g3.118.200740"
+  ],
+  "title": [
+    "Multi-environment Genomic Prediction of Plant Traits Using Deep Learners With Dense Architecture."
+  ],
+  "authorString": [
+    "Montesinos-López A, Montesinos-López OA, Gianola D, Crossa J, Hernández-Suárez CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Montesinos-López A"
+          ],
+          "firstName": [
+            "Abelardo"
+          ],
+          "lastName": [
+            "Montesinos-López"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Departamento de Matemáticas, Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI), Universidad de Guadalajara, 44430, Guadalajara, Jalisco, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Montesinos-López OA"
+          ],
+          "firstName": [
+            "Osval A"
+          ],
+          "lastName": [
+            "Montesinos-López"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "affiliation": [
+            "Facultad de Telemática, Universidad de Colima, 28040, Colima, México oamontes1@ucol.mx j.crossa@cgiar.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Gianola D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Gianola"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Departments of Animal Sciences, Dairy Science, and Biostatistics and Medical Informatics, University of Wisconsin-Madison, 53706, Madison, Wisconsin."
+          ]
+        },
+        {
+          "fullName": [
+            "Crossa J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Crossa"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9429-5855",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "International Maize and Wheat Improvement Center (CIMMYT), Apdo. Postal 6-641, 06600, Ciudad de México, México oamontes1@ucol.mx j.crossa@cgiar.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández-Suárez CM"
+          ],
+          "firstName": [
+            "Carlos M"
+          ],
+          "lastName": [
+            "Hernández-Suárez"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Facultad de Ciencias, Universidad de Colima, 28040, Colima, Colima, México."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9429-5855",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2758871"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3813-3828"
+  ],
+  "abstractText": [
+    "Genomic selection is revolutionizing plant breeding and therefore methods that improve prediction accuracy are useful. For this reason, active research is being conducted to build and test methods from other areas and adapt them to the context of genomic selection. In this paper we explore the novel deep learning (DL) methodology in the context of genomic selection. We compared DL methods with densely connected network architecture to one of the most often used genome-enabled prediction models: Genomic Best Linear Unbiased Prediction (GBLUP). We used nine published real genomic data sets to compare a fraction of all possible deep learning models to obtain a \"meta picture\" of the performance of DL methods with densely connected network architecture. In general, the best predictions were obtained with the GBLUP model when genotype×environment interaction (G×E) was taken into account (8 out of 9 data sets); when the interactions were ignored, the DL method was better than the GBLUP in terms of prediction accuracy in 6 out of the 9 data sets. For this reason, we believe that DL should be added to the data science toolkit of scientists working on animal and plant breeding. This study corroborates the view that there are no universally best prediction machines."
+  ],
+  "affiliation": [
+    "Departamento de Matemáticas, Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI), Universidad de Guadalajara, 44430, Guadalajara, Jalisco, México."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neural network",
+        "Genpred",
+        "Shared Data Resources",
+        "Prediction Accuracy",
+        "Genomic Prediction",
+        "Deep Learning",
+        "Gblup"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288841?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288841"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.118.200740"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-07"
+  ],
+  "dateOfRevision": [
+    "2018-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-10"
+  ]
+}

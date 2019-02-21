@@ -1,0 +1,486 @@
+{
+  "id": [
+    "30564262"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30564262"
+  ],
+  "pmcid": [
+    "PMC6288783"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01791"
+  ],
+  "title": [
+    "Genome-Wide Transcription During Early Wheat Meiosis Is Independent of Synapsis, Ploidy Level, and the Ph1 Locus."
+  ],
+  "authorString": [
+    "Martín AC, Borrill P, Higgins J, Alabdullah A, Ramírez-González RH, Swarbreck D, Uauy C, Shaw P, Moore G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martín AC"
+          ],
+          "firstName": [
+            "Azahara Carmen"
+          ],
+          "lastName": [
+            "Martín"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Borrill P"
+          ],
+          "firstName": [
+            "Philippa"
+          ],
+          "lastName": [
+            "Borrill"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Higgins J"
+          ],
+          "firstName": [
+            "Janet"
+          ],
+          "lastName": [
+            "Higgins"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Earlham Institute, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Alabdullah A"
+          ],
+          "firstName": [
+            "Abdulkader"
+          ],
+          "lastName": [
+            "Alabdullah"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramírez-González RH"
+          ],
+          "firstName": [
+            "Ricardo H"
+          ],
+          "lastName": [
+            "Ramírez-González"
+          ],
+          "initials": [
+            "RH"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Swarbreck D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Swarbreck"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5453-1013",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Earlham Institute, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Uauy C"
+          ],
+          "firstName": [
+            "Cristobal"
+          ],
+          "lastName": [
+            "Uauy"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Shaw P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Shaw"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Moore G"
+          ],
+          "firstName": [
+            "Graham"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5453-1013",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1791"
+  ],
+  "abstractText": [
+    "Polyploidization is a fundamental process in plant evolution. One of the biggest challenges faced by a new polyploid is meiosis, particularly discriminating between multiple related chromosomes so that only homologous chromosomes synapse and recombine to ensure regular chromosome segregation and balanced gametes. Despite its large genome size, high DNA repetitive content and similarity between homoeologous chromosomes, hexaploid wheat completes meiosis in a shorter period than diploid species with a much smaller genome. Therefore, during wheat meiosis, mechanisms additional to the classical model based on DNA sequence homology, must facilitate more efficient homologous recognition. One such mechanism could involve exploitation of differences in chromosome structure between homologs and homoeologs at the onset of meiosis. In turn, these chromatin changes, can be expected to be linked to transcriptional gene activity. In this study, we present an extensive analysis of a large RNA-seq data derived from six different genotypes: wheat, wheat-rye hybrids and newly synthesized octoploid triticale, both in the presence and absence of the Ph1 locus. Plant material was collected at early prophase, at the transition leptotene-zygotene, when the telomere bouquet is forming and synapsis between homologs is beginning. The six genotypes exhibit different levels of synapsis and chromatin structure at this stage; therefore, recombination and consequently segregation, are also different. Unexpectedly, our study reveals that neither synapsis, whole genome duplication nor the absence of the Ph1 locus are associated with major changes in gene expression levels during early meiotic prophase. Overall wheat transcription at this meiotic stage is therefore highly resilient to such alterations, even in the presence of major chromatin structural changes. Further studies in wheat and other polyploid species will be required to reveal whether these observations are specific to wheat meiosis."
+  ],
+  "affiliation": [
+    "John Innes Centre, Norwich, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/J007188/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/J009334/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/M009599/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BBS/E/J/000PR9788"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BBS/E/J/00000315"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BBS/E/J/000PR9779"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BBS/E/C/000I0220"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polyploidy",
+        "Triticale",
+        "Chromosomal Rearrangements",
+        "Rna-seq Analysis",
+        "Zip4",
+        "Whole-genome Duplication",
+        "Wheat–rye Hybrid",
+        "Ph1 Gene"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288783?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288783"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01791"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-20"
+  ],
+  "dateOfRevision": [
+    "2019-02-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-04"
+  ],
+  "firstPublicationDate": [
+    "2018-12-04"
+  ]
+}

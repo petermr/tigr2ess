@@ -1,0 +1,299 @@
+{
+  "id": [
+    "30186678"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30186678"
+  ],
+  "pmcid": [
+    "PMC6120442"
+  ],
+  "doi": [
+    "10.7717/peerj.5431"
+  ],
+  "title": [
+    "Early-season crop mapping using improved artificial immune network (IAIN) and Sentinel data."
+  ],
+  "authorString": [
+    "Hao P, Tang H, Chen Z, Liu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hao P"
+          ],
+          "firstName": [
+            "Pengyu"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Key Laboratory of Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang H"
+          ],
+          "firstName": [
+            "Huajun"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhongxin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhengjia"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2636959"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e5431"
+  ],
+  "abstractText": [
+    "Substantial efforts have been made to identify crop types by region, but few studies have been able to classify crops in early season, particularly in regions with heterogeneous cropping patterns. This is because image time series with both high spatial and temporal resolution contain a number of irregular time series, which cannot be identified by most existing classifiers. In this study, we firstly proposed an improved artificial immune network (IAIN), and tried to identify major crops in Hengshui, China at early season using IAIN classifier and short image time series. A time series of 15-day composited images was generated from 10 m spatial resolution Sentinel-1 and Sentinel-2 data. Near-infrared (NIR) band and normalized difference vegetation index (NDVI) were selected as optimal bands by pair-wise Jeffries-Matusita distances and Gini importance scores calculated from the random forest algorithm. When using IAIN to identify irregular time series, overall accuracy of winter wheat and summer crops were 99% and 98.55%, respectively. We then used the IAIN classifier and NIR and NDVI time series to identify major crops in the study region. Results showed that winter wheat could be identified 20 days before harvest, as both the producer's accuracy (PA) and user's accuracy (UA) values were higher than 95% when an April 1-May 15 time series was used. The PA and UA of cotton and spring maize were higher than 95% with image time series longer than April 1-August 15. As spring maize and cotton mature in late August and September-October, respectively, these two crops can be accurately mapped 4-6 weeks before harvest. In addition, summer maize could be accurately identified after August 15, more than one month before harvest. This study shows the potential of IAIN classifier for dealing with irregular time series and Sentinel-1 and Sentinel-2 image time series at early-season crop type mapping, which is useful for crop management."
+  ],
+  "affiliation": [
+    "Key Laboratory of Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cotton",
+        "Classification",
+        "Wheat",
+        "Maize",
+        "Sentinel",
+        "Early-season",
+        "Hengshui",
+        "Image Time Series",
+        "Improved Artificial Immune Network"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6120442?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6120442"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.5431"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-07"
+  ],
+  "dateOfRevision": [
+    "2018-09-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-31"
+  ],
+  "firstPublicationDate": [
+    "2018-08-31"
+  ]
+}

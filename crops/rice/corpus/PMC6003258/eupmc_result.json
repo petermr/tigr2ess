@@ -1,0 +1,619 @@
+{
+  "id": [
+    "29904811"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29904811"
+  ],
+  "pmcid": [
+    "PMC6003258"
+  ],
+  "doi": [
+    "10.1186/s12284-018-0229-y"
+  ],
+  "title": [
+    "Genetic analysis for the grain number heterosis of a super-hybrid rice WFYT025 combination using RNA-Seq."
+  ],
+  "authorString": [
+    "Chen L, Bian J, Shi S, Yu J, Khanzada H, Wassan GM, Zhu C, Luo X, Tong S, Yang X, Peng X, Yong S, Yu Q, He X, Fu J, Chen X, Hu L, Ouyang L, He H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bian J"
+          ],
+          "firstName": [
+            "Jianmin"
+          ],
+          "lastName": [
+            "Bian"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2525-8556",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China. jmbian81@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi S"
+          ],
+          "firstName": [
+            "Shilai"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu J"
+          ],
+          "firstName": [
+            "Jianfeng"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Khanzada H"
+          ],
+          "firstName": [
+            "Hira"
+          ],
+          "lastName": [
+            "Khanzada"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wassan GM"
+          ],
+          "firstName": [
+            "Ghulam Mustafa"
+          ],
+          "lastName": [
+            "Wassan"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu C"
+          ],
+          "firstName": [
+            "Changlan"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tong S"
+          ],
+          "firstName": [
+            "Shan"
+          ],
+          "lastName": [
+            "Tong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiaorong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng X"
+          ],
+          "firstName": [
+            "Xiaosong"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yong S"
+          ],
+          "firstName": [
+            "Shuang"
+          ],
+          "lastName": [
+            "Yong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Q"
+          ],
+          "firstName": [
+            "Qiuying"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He X"
+          ],
+          "firstName": [
+            "Xiaopeng"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu J"
+          ],
+          "firstName": [
+            "Junru"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiaorong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu L"
+          ],
+          "firstName": [
+            "Lifang"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ouyang L"
+          ],
+          "firstName": [
+            "Linjuan"
+          ],
+          "lastName": [
+            "Ouyang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He H"
+          ],
+          "firstName": [
+            "Haohua"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China. hhhua64@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2525-8556",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2697144"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Rice (New York, N.Y.)"
+          ],
+          "ISOAbbreviation": [
+            "Rice (N Y)"
+          ],
+          "medlineAbbreviation": [
+            "Rice (N Y)"
+          ],
+          "NLMid": [
+            "101503136"
+          ],
+          "ISSN": [
+            "1939-8425"
+          ],
+          "ESSN": [
+            "1939-8433"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "37"
+  ],
+  "abstractText": [
+    "Despite the great contributions of utilizing heterosis to crop productivity worldwide, the molecular mechanism of heterosis remains largely unexplored. Thus, the present research is focused on the grain number heterosis of a widely used late-cropping indica super hybrid rice combination in China using a high-throughput next-generation RNA-seq strategy.Here, we obtained 872 million clean reads, and at least one read could maps 27,917 transcripts out of 35,679 annotations. Transcript differential expression analysis revealed a total of 5910 differentially expressed genes (DGHP) between super-hybrid rice Wufengyou T025 (WFYT025) and its parents were identified in the young panicles. Out of the 5910 DGHP, 63.1% had a genetic action mode of over-dominance, 17.3% had a complete-dominance action, 15.6% had a partial-dominance action and 4.0% had an additive action. DGHP were significantly enriched in carotenoid biosynthesis, diterpenoid biosynthesis and plant hormone signal transduction pathways, with the key genes involved in the three pathways being up-regulated in the hybrid. By comparing the DGHP enriched in the KEGG pathway with QTLs associated with grain number, several DGHP were located on the same chromosomal segment with some of these grain number QTLs.Through young panicle development transcriptome analysis, we conclude that the over-dominant effect is probably the major contributor to the grain number heterosis of WFYT025. The DGHP sharing the same location with grain number QTLs could be considered a candidate gene and provide valuable targets for the cloning and functional analysis of these grain number QTLs."
+  ],
+  "affiliation": [
+    "Key Laboratory of Crop Physiology, Ecology and Genetic Breeding, Ministry of Education, Jiangxi Agricultural University, Nanchang, 330045, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016YFD0101801"
+          ],
+          "agency": [
+            "The National Key Research and Development Program of China and Technology Department"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31560386"
+          ],
+          "agency": [
+            "National Nature Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "201710410018"
+          ],
+          "agency": [
+            "National Undergraduate Training Program for Innovation and Entrepreneurship"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice",
+        "Super-hybrid rice",
+        "Grain number",
+        "HEterosis",
+        "Rna-seq"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6003258?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6003258"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12284-018-0229-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-06-16"
+  ],
+  "dateOfRevision": [
+    "2018-07-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-15"
+  ],
+  "firstPublicationDate": [
+    "2018-06-15"
+  ]
+}

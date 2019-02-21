@@ -1,0 +1,856 @@
+{
+  "id": [
+    "30062653"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30062653"
+  ],
+  "pmcid": [
+    "PMC6154029"
+  ],
+  "doi": [
+    "10.1007/s00122-018-3146-y"
+  ],
+  "title": [
+    "Mapping of novel salt tolerance QTL in an Excalibur × Kukri doubled haploid wheat population."
+  ],
+  "authorString": [
+    "Asif MA, Schilling RK, Tilbrook J, Brien C, Dowling K, Rabie H, Short L, Trittermann C, Garcia A, Barrett-Lennard EG, Berger B, Mather DE, Gilliham M, Fleury D, Tester M, Roy SJ, Pearson AS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Asif MA"
+          ],
+          "firstName": [
+            "Muhammad A"
+          ],
+          "lastName": [
+            "Asif"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Schilling RK"
+          ],
+          "firstName": [
+            "Rhiannon K"
+          ],
+          "lastName": [
+            "Schilling"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tilbrook J"
+          ],
+          "firstName": [
+            "Joanne"
+          ],
+          "lastName": [
+            "Tilbrook"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Brien C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Brien"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0581-1817",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Dowling K"
+          ],
+          "firstName": [
+            "Kate"
+          ],
+          "lastName": [
+            "Dowling"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rabie H"
+          ],
+          "firstName": [
+            "Huwaida"
+          ],
+          "lastName": [
+            "Rabie"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Phenomics and Bioinformatics Research Center, The University of South Australia, GPO Box 2471, Mawson Lakes, 5001, SA, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Short L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Short"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Trittermann C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Trittermann"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Garcia"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barrett-Lennard EG"
+          ],
+          "firstName": [
+            "Edward G"
+          ],
+          "lastName": [
+            "Barrett-Lennard"
+          ],
+          "initials": [
+            "EG"
+          ],
+          "affiliation": [
+            "School of Agriculture and Environment (M084), The University of Western Australia, 35 Stirling Highway, Crawley, WA, 6009, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Berger B"
+          ],
+          "firstName": [
+            "Bettina"
+          ],
+          "lastName": [
+            "Berger"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, The University of Adelaide, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mather DE"
+          ],
+          "firstName": [
+            "Diane E"
+          ],
+          "lastName": [
+            "Mather"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, The University of Adelaide, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gilliham M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Gilliham"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0666-3078",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, The University of Adelaide, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Fleury D"
+          ],
+          "firstName": [
+            "Delphine"
+          ],
+          "lastName": [
+            "Fleury"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7077-4103",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tester M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Tester"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Roy SJ"
+          ],
+          "firstName": [
+            "Stuart J"
+          ],
+          "lastName": [
+            "Roy"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0411-9431",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia. stuart.roy@adelaide.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Pearson AS"
+          ],
+          "firstName": [
+            "Allison S"
+          ],
+          "lastName": [
+            "Pearson"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0666-3078",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0411-9431",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7077-4103",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0581-1817",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "131"
+      ],
+      "journalIssueId": [
+        "2728701"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik"
+          ],
+          "ISOAbbreviation": [
+            "Theor. Appl. Genet."
+          ],
+          "medlineAbbreviation": [
+            "Theor Appl Genet"
+          ],
+          "NLMid": [
+            "0145600"
+          ],
+          "ISSN": [
+            "0040-5752"
+          ],
+          "ESSN": [
+            "1432-2242"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2179-2196"
+  ],
+  "abstractText": [
+    "KEY MESSAGE:Novel QTL for salinity tolerance traits have been detected using non-destructive and destructive phenotyping in bread wheat and were shown to be linked to improvements in yield in saline fields. Soil salinity is a major limitation to cereal production. Breeding new salt-tolerant cultivars has the potential to improve cereal crop yields. In this study, a doubled haploid bread wheat mapping population, derived from the bi-parental cross of Excalibur × Kukri, was grown in a glasshouse under control and salinity treatments and evaluated using high-throughput non-destructive imaging technology. Quantitative trait locus (QTL) analysis of this population detected multiple QTL under salt and control treatments. Of these, six QTL were detected in the salt treatment including one for maintenance of shoot growth under salinity (QG(1-5).asl-7A), one for leaf Na+ exclusion (QNa.asl-7A) and four for leaf K+ accumulation (QK.asl-2B.1, QK.asl-2B.2, QK.asl-5A and QK:Na.asl-6A). The beneficial allele for QG(1-5).asl-7A (the maintenance of shoot growth under salinity) was present in six out of 44 mainly Australian bread and durum wheat cultivars. The effect of each QTL allele on grain yield was tested in a range of salinity concentrations at three field sites across 2 years. In six out of nine field trials with different levels of salinity stress, lines with alleles for Na+ exclusion and/or K+ maintenance at three QTL (QNa.asl-7A, QK.asl-2B.2 and QK:Na.asl-6A) excluded more Na+ or accumulated more K+ compared to lines without these alleles. Importantly, the QK.asl-2B.2 allele for higher K+ accumulation was found to be associated with higher grain yield at all field sites. Several alleles at other QTL were associated with higher grain yields at selected field sites."
+  ],
+  "affiliation": [
+    "Australian Centre for Plant Functional Genomics, PMB 1, Glen Osmond, SA, 5064, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UA00118"
+          ],
+          "agency": [
+            "Grains Research and Development Corporation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UA00159"
+          ],
+          "agency": [
+            "Grains Research and Development Corporation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UA00145"
+          ],
+          "agency": [
+            "Grains Research and Development Corporation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Potassium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sodium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosome Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait Loci"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Salt-Tolerance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Sodium"
+          ],
+          "registryNumber": [
+            "9NEZ333N27"
+          ]
+        },
+        {
+          "name": [
+            "Potassium"
+          ],
+          "registryNumber": [
+            "RWP5GA015D"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6154029?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6154029"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00122-018-3146-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-09-20"
+  ],
+  "dateOfCreation": [
+    "2018-08-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-30"
+  ],
+  "firstPublicationDate": [
+    "2018-07-30"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": [
+    "30004414"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30004414"
+  ],
+  "pmcid": [
+    "PMC6071054"
+  ],
+  "doi": [
+    "10.3390/toxins10070267"
+  ],
+  "title": [
+    "Comparison of Three Modelling Approaches for Predicting Deoxynivalenol Contamination in Winter Wheat."
+  ],
+  "authorString": [
+    "Liu C, Manstretta V, Rossi V, van der Fels-Klerx HJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Cheng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0513-9610",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "RIKILT Wageningen University & Research, Akkermaalsbos 2, 6708 WB Wageningen, The Netherlands. cheng.liu@wur.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Manstretta V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Manstretta"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2731-8038",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Horta srl, via Egidio Gorra 55, 29122 Piacenza, Italy. v.manstretta@horta-srl.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rossi V"
+          ],
+          "firstName": [
+            "Vittorio"
+          ],
+          "lastName": [
+            "Rossi"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Sustainable Crop Production (DI.PRO.VE.S.), Università Cattolica del Sacro Cuore, Via Emilia Parmense 84, 29122 Piacenza, Italy. vittorio.rossi@unicatt.it."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Fels-Klerx HJ"
+          ],
+          "firstName": [
+            "H J"
+          ],
+          "lastName": [
+            "van der Fels-Klerx"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "RIKILT Wageningen University & Research, Akkermaalsbos 2, 6708 WB Wageningen, The Netherlands. Ine.vanderfels@wur.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2731-8038",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0513-9610",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2702697"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Toxins"
+          ],
+          "ISOAbbreviation": [
+            "Toxins (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Toxins (Basel)"
+          ],
+          "NLMid": [
+            "101530765"
+          ],
+          "ISSN": [
+            "2072-6651"
+          ],
+          "ESSN": [
+            "2072-6651"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Forecasting models for mycotoxins in cereal grains during cultivation are useful for pre-harvest and post-harvest mycotoxin management. Some of such models for deoxynivalenol (DON) in wheat, using two different modelling techniques, have been published. This study aimed to compare and cross-validate three different modelling approaches for predicting DON in winter wheat using data from the Netherlands as a case study. To this end, a published empirical model was updated with a new mixed effect logistic regression method. A mechanistic model for wheat in Italy was adapted to the Dutch situation. A new Bayesian network model was developed to predict DON in wheat. In developing the three models, the same dataset was used, including agronomic and weather data, as well as DON concentrations of individual samples in the Netherlands over the years 2001⁻2013 (625 records). Similar data from 2015 and 2016 (86 records) were used for external independent validation. The results showed that all three modelling approaches provided good accuracy in predicting DON in wheat in the Netherlands. The empirical model showed the highest accuracy (88%). However, this model is highly location and data-dependent, and can only be run if all of the input data are available. The mechanistic model provided 80% accuracy. This model is easier to implement in new areas given similar mycotoxin-producing fungal populations. The Bayesian network model provided 86% accuracy. Compared with the other two models, this model is easier to implement when input data are incomplete. In future research, the three modelling approaches could be integrated to even better support decision-making in mycotoxin management."
+  ],
+  "affiliation": [
+    "RIKILT Wageningen University & Research, Akkermaalsbos 2, 6708 WB Wageningen, The Netherlands. cheng.liu@wur.nl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Validation",
+        "Mycotoxin",
+        "forecast",
+        "Don",
+        "Food safety",
+        "Cereal Grains"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071054?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071054"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/toxins10070267"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-14"
+  ],
+  "dateOfRevision": [
+    "2018-08-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-02"
+  ],
+  "firstPublicationDate": [
+    "2018-07-02"
+  ]
+}

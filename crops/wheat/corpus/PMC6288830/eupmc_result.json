@@ -1,0 +1,371 @@
+{
+  "id": [
+    "30291108"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30291108"
+  ],
+  "pmcid": [
+    "PMC6288830"
+  ],
+  "doi": [
+    "10.1534/g3.118.200728"
+  ],
+  "title": [
+    "Multi-trait, Multi-environment Deep Learning Modeling for Genomic-Enabled Prediction of Plant Traits."
+  ],
+  "authorString": [
+    "Montesinos-López OA, Montesinos-López A, Crossa J, Gianola D, Hernández-Suárez CM, Martín-Vallejo J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Montesinos-López OA"
+          ],
+          "firstName": [
+            "Osval A"
+          ],
+          "lastName": [
+            "Montesinos-López"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "affiliation": [
+            "Facultad de Telemática oamontes1@ucol.mx j.crossa@cgiar.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Montesinos-López A"
+          ],
+          "firstName": [
+            "Abelardo"
+          ],
+          "lastName": [
+            "Montesinos-López"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Departamento de Matemáticas, Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI), Universidad de Guadalajara, 44430, Guadalajara, Jalisco, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Crossa J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Crossa"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9429-5855",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biometrics and Statistics Unit, Genetic Resources Program, International Maize and Wheat Improvement Center (CIMMYT), Apdo. Postal 6-641, 06600, Ciudad de México, México oamontes1@ucol.mx j.crossa@cgiar.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Gianola D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Gianola"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Departments of Animal Sciences, Dairy Science, and Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin 53706."
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández-Suárez CM"
+          ],
+          "firstName": [
+            "Carlos M"
+          ],
+          "lastName": [
+            "Hernández-Suárez"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Facultad de Ciencias, Universidad de Colima, Colima, Colima, 28040, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Martín-Vallejo J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "Martín-Vallejo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3962-7356",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Estadística, Universidad de Salamanca, c/Espejo 2, Salamanca, 37007, España."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9429-5855",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3962-7356",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2758871"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3829-3840"
+  ],
+  "abstractText": [
+    "Multi-trait and multi-environment data are common in animal and plant breeding programs. However, what is lacking are more powerful statistical models that can exploit the correlation between traits to improve prediction accuracy in the context of genomic selection (GS). Multi-trait models are more complex than univariate models and usually require more computational resources, but they are preferred because they can exploit the correlation between traits, which many times helps improve prediction accuracy. For this reason, in this paper we explore the power of multi-trait deep learning (MTDL) models in terms of prediction accuracy. The prediction performance of MTDL models was compared to the performance of the Bayesian multi-trait and multi-environment (BMTME) model proposed by Montesinos-López et al. (2016), which is a multi-trait version of the genomic best linear unbiased prediction (GBLUP) univariate model. Both models were evaluated with predictors with and without the genotype×environment interaction term. The prediction performance of both models was evaluated in terms of Pearson's correlation using cross-validation. We found that the best predictions in two of the three data sets were found under the BMTME model, but in general the predictions of both models, BTMTE and MTDL, were similar. Among models without the genotype×environment interaction, the MTDL model was the best, while among models with genotype×environment interaction, the BMTME model was superior. These results indicate that the MTDL model is very competitive for performing predictions in the context of GS, with the important practical advantage that it requires less computational resources than the BMTME model."
+  ],
+  "affiliation": [
+    "Facultad de Telemática oamontes1@ucol.mx j.crossa@cgiar.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plant breeding",
+        "Bayesian Modeling",
+        "Genpred",
+        "Shared Data Resources",
+        "Genomic Prediction",
+        "Deep Learning",
+        "Multi-environment",
+        "Multi-trait"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288830?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288830"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.118.200728"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-07"
+  ],
+  "dateOfRevision": [
+    "2018-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-10"
+  ]
+}

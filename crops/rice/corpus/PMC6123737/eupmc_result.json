@@ -1,0 +1,492 @@
+{
+  "id": [
+    "30271965"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30271965"
+  ],
+  "pmcid": [
+    "PMC6123737"
+  ],
+  "doi": [
+    "10.1038/s42003-018-0089-4"
+  ],
+  "title": [
+    "De novo genome assembly of Oryza granulata reveals rapid genome expansion and adaptive evolution."
+  ],
+  "authorString": [
+    "Wu Z, Fang D, Yang R, Gao F, An X, Zhuo X, Li Y, Yi C, Zhang T, Liang C, Cui P, Cheng Z, Luo Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhigang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "1State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan, Ministry of Education Key Laboratory of Agriculture Biodiversity for Plant Disease Management, Yunnan Agricultural University, 650201 Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang D"
+          ],
+          "firstName": [
+            "Dongming"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "2Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, 518120 Shenzhen, Guangdong China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "1State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan, Ministry of Education Key Laboratory of Agriculture Biodiversity for Plant Disease Management, Yunnan Agricultural University, 650201 Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "2Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, 518120 Shenzhen, Guangdong China."
+          ]
+        },
+        {
+          "fullName": [
+            "An X"
+          ],
+          "firstName": [
+            "Xingyu"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan, Ministry of Education Key Laboratory of Agriculture Biodiversity for Plant Disease Management, Yunnan Agricultural University, 650201 Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuo X"
+          ],
+          "firstName": [
+            "Xiaoxuan"
+          ],
+          "lastName": [
+            "Zhuo"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan, Ministry of Education Key Laboratory of Agriculture Biodiversity for Plant Disease Management, Yunnan Agricultural University, 650201 Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yafei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "3State Key Laboratory of Plant Genomics, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 100101 Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yi C"
+          ],
+          "firstName": [
+            "Chuandeng"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "4Agricultural College, Yangzhou University, 225009 Yangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7897-0205",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "4Agricultural College, Yangzhou University, 225009 Yangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang C"
+          ],
+          "firstName": [
+            "Chengzhi"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8913-3552",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "3State Key Laboratory of Plant Genomics, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 100101 Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "2Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, 518120 Shenzhen, Guangdong China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng Z"
+          ],
+          "firstName": [
+            "Zhukuan"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8428-8010",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "3State Key Laboratory of Plant Genomics, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 100101 Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "1State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan, Ministry of Education Key Laboratory of Agriculture Biodiversity for Plant Disease Management, Yunnan Agricultural University, 650201 Kunming, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7897-0205",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8428-8010",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8913-3552",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2686009"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Communications biology"
+          ],
+          "ISOAbbreviation": [
+            "Commun Biol"
+          ],
+          "medlineAbbreviation": [
+            "Commun Biol"
+          ],
+          "NLMid": [
+            "101719179"
+          ],
+          "ISSN": [
+            "2399-3642"
+          ],
+          "ESSN": [
+            "2399-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "84"
+  ],
+  "abstractText": [
+    "The wild relatives of rice have adapted to different ecological environments and constitute a useful reservoir of agronomic traits for genetic improvement. Here we present the ~777 Mb de novo assembled genome sequence of Oryza granulata. Recent bursts of long-terminal repeat retrotransposons, especially RIRE2, led to a rapid twofold increase in genome size after O. granulata speciation. Universal centromeric tandem repeats are absent within its centromeres, while gypsy-type LTRs constitute the main centromere-specific repetitive elements. A total of 40,116 protein-coding genes were predicted in O. granulata, which is close to that of Oryza sativa. Both the copy number and function of genes involved in photosynthesis and energy production have undergone positive selection during the evolution of O. granulata, which might have facilitated its adaptation to the low light habitats. Together, our findings reveal the rapid genome expansion, distinctive centromere organization, and adaptive evolution of O. granulata."
+  ],
+  "affiliation": [
+    "1State Key Laboratory for Conservation and Utilization of Bio-Resources in Yunnan, Ministry of Education Key Laboratory of Agriculture Biodiversity for Plant Disease Management, Yunnan Agricultural University, 650201 Kunming, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6123737?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6123737"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s42003-018-0089-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-10-02"
+  ],
+  "dateOfRevision": [
+    "2018-10-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-29"
+  ],
+  "firstPublicationDate": [
+    "2018-06-29"
+  ]
+}

@@ -1,0 +1,897 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">EMBO Rep</journal-id><journal-id journal-id-type="iso-abbrev">EMBO Rep</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1469-3178</journal-id><journal-id journal-id-type="publisher-id">EMBR</journal-id><journal-id journal-id-type="hwp">embor</journal-id><journal-title-group><journal-title>EMBO Reports</journal-title></journal-title-group><issn pub-type="ppub">1469-221X</issn><issn pub-type="epub">1469-3178</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6123649</article-id><article-id pub-id-type="doi">10.15252/embr.201745619</article-id><article-id pub-id-type="publisher-id">EMBR201745619</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Structural basis for specific inhibition of the highly sensitive Sh<styled-content style="fixed-case">HTL</styled-content>7 receptor</article-title><alt-title alt-title-type="left-running-head">Umar Shahul Hameed <italic>et al</italic></alt-title></title-group><contrib-group><contrib id="embr201745619-cr-0001" contrib-type="author"><name><surname>Shahul Hameed</surname><given-names>Umar</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0552-7149</contrib-id><xref ref-type="aff" rid="embr201745619-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="embr201745619-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="embr201745619-cr-0002" contrib-type="author"><name><surname>Haider</surname><given-names>Imran</given-names></name><xref ref-type="aff" rid="embr201745619-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="embr201745619-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="embr201745619-cr-0003" contrib-type="author"><name><surname>Jamil</surname><given-names>Muhammad</given-names></name><xref ref-type="aff" rid="embr201745619-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="embr201745619-cr-0004" contrib-type="author"><name><surname>Kountche</surname><given-names>Boubacar A</given-names></name><xref ref-type="aff" rid="embr201745619-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="embr201745619-cr-0005" contrib-type="author"><name><surname>Guo</surname><given-names>Xianrong</given-names></name><xref ref-type="aff" rid="embr201745619-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="embr201745619-cr-0006" contrib-type="author"><name><surname>Zarban</surname><given-names>Randa A</given-names></name><xref ref-type="aff" rid="embr201745619-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="embr201745619-cr-0007" contrib-type="author"><name><surname>Kim</surname><given-names>Dongjin</given-names></name><xref ref-type="aff" rid="embr201745619-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="embr201745619-cr-0008" contrib-type="author" corresp="yes"><name><surname>Al&#x02010;Babili</surname><given-names>Salim</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4823-2882</contrib-id><address><email>salim.babili@kaust.edu.sa</email></address><xref ref-type="aff" rid="embr201745619-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="embr201745619-cr-0009" contrib-type="author" corresp="yes"><name><surname>Arold</surname><given-names>Stefan T</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5278-0668</contrib-id><address><email>stefan.arold@kaust.edu.sa</email></address><xref ref-type="aff" rid="embr201745619-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="embr201745619-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Division of Biological and Environmental Sciences and Engineering</named-content>
+<named-content content-type="organisation-division">Computational Bioscience Research Center</named-content>
+<institution>King Abdullah University of Science and Technology</institution>
+<named-content content-type="city">Thuwal</named-content>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="embr201745619-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Biological and Environmental Sciences and Engineering</named-content>
+<named-content content-type="organisation-division">The Bioactives Lab</named-content>
+<institution>King Abdullah University of Science and Technology</institution>
+<named-content content-type="city">Thuwal</named-content>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="embr201745619-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Core Labs</named-content>
+<institution>King Abdullah University of Science and Technology</institution>
+<named-content content-type="city">Thuwal</named-content>
+<country country="SA">Saudi Arabia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Corresponding author. Tel: +966 1280 82565; E&#x02010;mail: <email>salim.babili@kaust.edu.sa</email><break/>
+Corresponding author. Tel: +966 1280 82557; E&#x02010;mail: <email>stefan.arold@kaust.edu.sa</email><break/></corresp><fn fn-type="equal" id="embr201745619-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>18</day><month>7</month><year>2018</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>19</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/embr.v19.9</issue-id><elocation-id>e45619</elocation-id><history><date date-type="received"><day>09</day><month>12</month><year>2017</year></date><date date-type="rev-recd"><day>19</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>20</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 EMBO <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published under the terms of the CC BY 4.0 license</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EMBR-19-e45619.pdf"/><abstract id="embr201745619-abs-0001"><title>Abstract</title><p>
+<italic>Striga hermonthica</italic> is a root parasitic plant that infests cereals, decimating yields, particularly in sub&#x02010;Saharan Africa. For germination, <italic>Striga</italic> seeds require host&#x02010;released strigolactones that are perceived by the family of <styled-content style="fixed-case">HYPOSENSITIVE</styled-content> to <styled-content style="fixed-case">LIGHT</styled-content> (Sh<styled-content style="fixed-case">HTL</styled-content>) receptors. Inhibiting seed germination would thus be a promising approach for combating <italic>Striga</italic>. However, there are currently no strigolactone antagonists that specifically block Sh<styled-content style="fixed-case">HTL</styled-content>s and do not bind to <styled-content style="fixed-case">DWARF</styled-content>14, the homologous strigolactone receptor of the host. Here, we show that the octyl phenol ethoxylate Triton X&#x02010;100 inhibits <italic>S. hermonthica</italic> seed germination without affecting host plants. High&#x02010;resolution X&#x02010;ray structures reveal that Triton X&#x02010;100 specifically plugs the catalytic pocket of Sh<styled-content style="fixed-case">HTL</styled-content>7. Sh<styled-content style="fixed-case">HTL</styled-content>7&#x02010;specific inhibition by Triton X&#x02010;100 demonstrates the dominant role of this particular Sh<styled-content style="fixed-case">HTL</styled-content> receptor for <italic>Striga</italic> germination. Our structural analysis provides a rationale for the broad specificity and high sensitivity of Sh<styled-content style="fixed-case">HTL</styled-content>7, and reveals that strigolactones trigger structural changes in Sh<styled-content style="fixed-case">HTL</styled-content>7 that are required for downstream signaling. Our findings identify Triton and the related 2&#x02010;[4&#x02010;(2,4,4&#x02010;trimethylpentan&#x02010;2&#x02010;yl)phenoxy]acetic acid as promising lead compounds for the rational design of efficient <italic>Striga</italic>&#x02010;specific herbicides.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="embr201745619-kwd-0001">hydrolase</kwd><kwd id="embr201745619-kwd-0002"><styled-content style="fixed-case">MAX</styled-content>2</kwd><kwd id="embr201745619-kwd-0003">seed germination inhibitor</kwd><kwd id="embr201745619-kwd-0004"><italic>Striga hermonthica</italic></kwd><kwd id="embr201745619-kwd-0005">X&#x02010;ray crystallography</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Microbiology, Virology &#x00026; Host Pathogen Interaction</kwd><kwd>Plant Biology</kwd><kwd>Structural Biology</kwd></kwd-group><funding-group><award-group><funding-source>King Abdullah University of Science and Technology (KAUST)</funding-source></award-group><award-group><funding-source>Bill and Melinda Gates Foundation (Bill &#x00026; Melinda Gates Foundation)</funding-source><award-id>OPP1136424</award-id></award-group></funding-group><counts><fig-count count="12"/><table-count count="1"/><page-count count="14"/><word-count count="10127"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>embr201745619</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:05.09.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="embr201745619-cit-1001">
+<source xml:lang="en">EMBO Reports</source> (<year>2018</year>) <volume>19</volume>: <elocation-id>e45619</elocation-id>
+</mixed-citation>
+</p></notes></front><body><sec id="embr201745619-sec-0001"><title>Introduction</title><p>The witchweed <italic>Striga hermonthica</italic> (<italic>Orobanchaceae</italic>) is a root parasitic plant that infests cereals, including rice, maize, sorghum, and pearl millet <xref rid="embr201745619-bib-0001" ref-type="ref">1</xref>. This parasitism stunts the host's growth, decimating yields, particularly in sub&#x02010;Saharan Africa. By causing around 7 billion dollars annual loses in cereals production, <italic>Striga</italic> has become one of the most serious biotic threats to food security <xref rid="embr201745619-bib-0002" ref-type="ref">2</xref>. Related species with different host specificity increasingly impact agriculture in the temperate areas of Europe, the Middle East and North Africa, and Asia <xref rid="embr201745619-bib-0003" ref-type="ref">3</xref>.</p><p>The germination of <italic>Striga</italic> seeds depends on host&#x02010;released strigolactones (SLs) <xref rid="embr201745619-bib-0001" ref-type="ref">1</xref>. SLs are carotenoid&#x02010;derived phytohormones that shape plants in accordance with nutrient availability <xref rid="embr201745619-bib-0004" ref-type="ref">4</xref>, <xref rid="embr201745619-bib-0005" ref-type="ref">5</xref>, <xref rid="embr201745619-bib-0006" ref-type="ref">6</xref>, <xref rid="embr201745619-bib-0007" ref-type="ref">7</xref>. SLs consist of a butenolide ring (D&#x02010;ring) linked to a second, more variable moiety via an enol ether bridge <xref rid="embr201745619-bib-0007" ref-type="ref">7</xref>, <xref rid="embr201745619-bib-0008" ref-type="ref">8</xref>, <xref rid="embr201745619-bib-0009" ref-type="ref">9</xref>. The SL receptor, DWARF14 (D14) in rice, is a &#x003b1;/&#x003b2; hydrolase <xref rid="embr201745619-bib-0009" ref-type="ref">9</xref>, <xref rid="embr201745619-bib-0010" ref-type="ref">10</xref>, <xref rid="embr201745619-bib-0011" ref-type="ref">11</xref>, <xref rid="embr201745619-bib-0012" ref-type="ref">12</xref>. Hydrolysis of SLs by D14 is mediated by a conserved Ser&#x02010;His&#x02010;Asp catalytic triad and results in covalent linking of the D&#x02010;ring to the receptor and the release of the second moiety <xref rid="embr201745619-bib-0009" ref-type="ref">9</xref>, <xref rid="embr201745619-bib-0010" ref-type="ref">10</xref>, <xref rid="embr201745619-bib-0011" ref-type="ref">11</xref>, <xref rid="embr201745619-bib-0012" ref-type="ref">12</xref>, <xref rid="embr201745619-bib-0013" ref-type="ref">13</xref>. This covalent modification promotes the interaction of D14 with the downstream effector MORE AXILLARY GROWTH 2 (MAX2), which requires substantial restructuring of the SL binding pocket of D14 to fit the MAX2 binding surface <xref rid="embr201745619-bib-0012" ref-type="ref">12</xref>, <xref rid="embr201745619-bib-0013" ref-type="ref">13</xref>, <xref rid="embr201745619-bib-0014" ref-type="ref">14</xref> and leads to the proteasome&#x02010;mediated degradation of presumed repressors of SL&#x02010;inducible genes, such as the rice DWARF53 <xref rid="embr201745619-bib-0015" ref-type="ref">15</xref>, <xref rid="embr201745619-bib-0016" ref-type="ref">16</xref>, <xref rid="embr201745619-bib-0017" ref-type="ref">17</xref>. The protein KARRIKIN&#x02010;INSENSITIVE2 (KAI2)/HYPOSENSITIVE to LIGHT (HTL)/D14&#x02010;like is a close homolog to D14, which, however, binds the smoke&#x02010;derived karrikins <xref rid="embr201745619-bib-0017" ref-type="ref">17</xref>, <xref rid="embr201745619-bib-0018" ref-type="ref">18</xref> that induce seed germination in many land plants, but not in root parasitic plants <xref rid="embr201745619-bib-0017" ref-type="ref">17</xref>.</p><p>
+<italic>Striga</italic> is an obligate parasite that cannot survive without a host, to which it needs to connect via a haustorium developed shortly after germination <xref rid="embr201745619-bib-0019" ref-type="ref">19</xref>. Hence, the perception of host SLs is a crucial step in <italic>Striga</italic>'s life cycle, which ensures the presence of a host and determines whether imbibed seeds can develop to adult parasites. <italic>Striga hermonthica</italic> has a set of SL receptors, among which ShHTL7 is by far the most sensitive. These receptors evolved from extensive <italic>KAI2</italic> gene duplication in <italic>Orobanchaceae</italic> and new functionalization toward sensing SLs instead of karrikins <xref rid="embr201745619-bib-0020" ref-type="ref">20</xref>, <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>, <xref rid="embr201745619-bib-0022" ref-type="ref">22</xref>.</p><p>
+<italic>Striga</italic> produces up to 200,000 tiny seeds per plant, which can be easily dispersed and remain viable for more than a decade <xref rid="embr201745619-bib-0023" ref-type="ref">23</xref>. The accumulation of these seeds has led to heavy soil infestation, making <italic>Striga</italic> control onerous. As a wild, non&#x02010;domesticated species, the maturation of <italic>Striga</italic> seeds is not synchronized, resulting in a seed population where only a subset is ready to germinate while others are in an inert dormant state. Moreover, most of the damage by <italic>Striga</italic> occurs invisibly below ground before the weed emerges from the soil. Hence, successful <italic>Striga</italic> control strategies must include coping with this heterogeneous seed reservoir accumulated in the soil. Suicidal germination is a possible approach, which is based on inducing seed germination by applying SL analogs in the absence of a host, thus killing <italic>Striga</italic> seedlings without affecting the host's SL homeostasis <xref rid="embr201745619-bib-0024" ref-type="ref">24</xref>, <xref rid="embr201745619-bib-0025" ref-type="ref">25</xref>. However, this method can be only used in a narrow, difficult to determine time window that allows catching the germination&#x02010;ready <italic>Striga</italic> seeds before sowing crop seeds. <italic>Striga</italic> seeds that mature after treatment remain unaffected and can still decimate the crops. A very promising complementary approach is to inhibit the germination of <italic>Striga</italic> seeds by applying antagonists that block <italic>Striga</italic> SL perception <xref rid="embr201745619-bib-0026" ref-type="ref">26</xref>, <xref rid="embr201745619-bib-0027" ref-type="ref">27</xref>. If such inhibitors do not bind to host SL receptors, they can be applied in the presence or absence of the host as specific herbicides that enable <italic>Striga</italic> control throughout the growing season. However, such specific inhibitors are currently not available. Moreover, an experimental 3D protein structure of ShHTL7 that allows specific <italic>in silico</italic> screening for inhibitors is still missing.</p></sec><sec id="embr201745619-sec-0002"><title>Results</title><sec id="embr201745619-sec-0003"><title>Structural basis of Triton binding to ShHTL7</title><p>We obtained 1.2&#x02013;1.7&#x02010;&#x000c5; resolution X&#x02010;ray diffraction data from crystals of ShHTL7 and the inactive active site mutant ShHTL7<sub>S95C</sub>. Both the wild&#x02010;type and mutant proteins were crystalized either without a ligand or soaked with the SL analog GR24 (Table <xref rid="embr201745619-tbl-0001" ref-type="table">1</xref>). We determined their structures by molecular replacement, using the ShHTL5 structure as a template <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>. Surprisingly, in all crystals, ShHTL7 associated with the 4&#x02010;(1,1,3,3&#x02010;tetramethylbutyl)&#x02010;phenyl hydrocarbon moiety of Triton X&#x02010;100 that we used during protein purification (Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>A and B and <xref rid="embr201745619-fig-0001ev" ref-type="fig">EV1</xref>A). Isomorphous crystal structures of ShHTL7 purified without using Triton exhibited empty binding pockets (Fig <xref rid="embr201745619-fig-0001ev" ref-type="fig">EV1</xref>B), confirming the source and identity of this compound.</p><table-wrap id="embr201745619-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>X&#x02010;ray diffraction data collection and refinement statistics for ShHTL7</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Crystal</th><th align="left" valign="top" rowspan="1" colspan="1">ShHTL7 (Apo)</th><th align="left" valign="top" rowspan="1" colspan="1">ShHTL7&#x02010;Triton</th><th align="left" valign="top" rowspan="1" colspan="1">ShHTL7<sub>S95C</sub>&#x02010;Triton</th><th align="left" valign="top" rowspan="1" colspan="1">ShHTL7 (Apo)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Resolution (&#x000c5;)</td><td align="left" rowspan="1" colspan="1">35.09&#x02013;1.69 (1.75&#x02013;1.69)</td><td align="left" rowspan="1" colspan="1">40.09&#x02013;1.20 (1.24&#x02013;1.20)</td><td align="left" rowspan="1" colspan="1">19.45&#x02013;1.42 (1.47&#x02013;1.42)</td><td align="left" rowspan="1" colspan="1">40.09&#x02013;1.35 (1.39&#x02013;1.35)</td></tr><tr><td align="left" rowspan="1" colspan="1">Space group</td><td align="left" rowspan="1" colspan="1">I 222</td><td align="left" rowspan="1" colspan="1">P 65</td><td align="left" rowspan="1" colspan="1">P 65</td><td align="left" rowspan="1" colspan="1">P 65</td></tr><tr><td align="left" rowspan="1" colspan="1">Cell dimensions, <italic>a, b, c</italic> (&#x000c5;)</td><td align="left" rowspan="1" colspan="1">73.98, 84.04, 90.55</td><td align="left" rowspan="1" colspan="1">92.59, 92.59, 80.26</td><td align="left" rowspan="1" colspan="1">92.57, 92.57, 80.19</td><td align="left" rowspan="1" colspan="1">92.59, 92.59, 80.36</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of unique reflections</td><td align="left" rowspan="1" colspan="1">31,488 (2,925)</td><td align="left" rowspan="1" colspan="1">121,689 (12,066)</td><td align="left" rowspan="1" colspan="1">72,852 (7,139)</td><td align="left" rowspan="1" colspan="1">85,478 (8,298)</td></tr><tr><td align="left" rowspan="1" colspan="1">Redundancy</td><td align="left" rowspan="1" colspan="1">9.8 (7.6)</td><td align="left" rowspan="1" colspan="1">9.9 (9.6)</td><td align="left" rowspan="1" colspan="1">14.4 (13.8)</td><td align="left" rowspan="1" colspan="1">9.1 (4.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Completeness (%)</td><td align="left" rowspan="1" colspan="1">99.23 (93.00)</td><td align="left" rowspan="1" colspan="1">99.61 (98.67)</td><td align="left" rowspan="1" colspan="1">99.72 (97.66)</td><td align="left" rowspan="1" colspan="1">99.61 (96.83)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean I/&#x003c3; (I)</td><td align="left" rowspan="1" colspan="1">11.99 (0.98)</td><td align="left" rowspan="1" colspan="1">24.56 (1.87)</td><td align="left" rowspan="1" colspan="1">30.40 (4.52)</td><td align="left" rowspan="1" colspan="1">23.12 (1.27)</td></tr><tr><td align="left" rowspan="1" colspan="1">R&#x02010;merge</td><td align="left" rowspan="1" colspan="1">0.103 (1.49)</td><td align="left" rowspan="1" colspan="1">0.043 (1.07)</td><td align="left" rowspan="1" colspan="1">0.056 (0.76)</td><td align="left" rowspan="1" colspan="1">0.04497 (1.01)</td></tr><tr><td align="left" rowspan="1" colspan="1">R&#x02010;pim</td><td align="left" rowspan="1" colspan="1">0.034 (0.57)</td><td align="left" rowspan="1" colspan="1">0.014 (0.36)</td><td align="left" rowspan="1" colspan="1">0.015 (0.21)</td><td align="left" rowspan="1" colspan="1">0.015 (0.53)</td></tr><tr><td align="left" rowspan="1" colspan="1">CC<sub>1/2</sub>
+</td><td align="left" rowspan="1" colspan="1">0.998 (0.45)</td><td align="left" rowspan="1" colspan="1">1.000 (0.72)</td><td align="left" rowspan="1" colspan="1">1.000 (0.88)</td><td align="left" rowspan="1" colspan="1">0.999 (0.58)</td></tr><tr><td align="left" colspan="5" rowspan="1">Refinement</td></tr><tr><td align="left" rowspan="1" colspan="1">Resolution (&#x000c5;)</td><td align="left" rowspan="1" colspan="1">35.09&#x02013;1.69 (1.75&#x02013;1.69)</td><td align="left" rowspan="1" colspan="1">40.09&#x02013;1.20 (1.24&#x02013;1.20)</td><td align="left" rowspan="1" colspan="1">19.45&#x02013;1.42 (1.47&#x02013;1.42)</td><td align="left" rowspan="1" colspan="1">40.09&#x02013;1.35 (1.39&#x02013;1.35)</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of reflections: working, test</td><td align="left" rowspan="1" colspan="1">31,485 (2,924), 1,575 (146)</td><td align="left" rowspan="1" colspan="1">121,220 (11,907), 6,061 (593)</td><td align="left" rowspan="1" colspan="1">72,847 (7,138), 3,642 (356)</td><td align="left" rowspan="1" colspan="1">85,379 (8,256), 4,269 (415)</td></tr><tr><td align="left" rowspan="1" colspan="1">R&#x02010;work</td><td align="left" rowspan="1" colspan="1">0.194</td><td align="left" rowspan="1" colspan="1">0.124</td><td align="left" rowspan="1" colspan="1">0.101</td><td align="left" rowspan="1" colspan="1">0.143</td></tr><tr><td align="left" rowspan="1" colspan="1">R&#x02010;free</td><td align="left" rowspan="1" colspan="1">0.220</td><td align="left" rowspan="1" colspan="1">0.137</td><td align="left" rowspan="1" colspan="1">0.120</td><td align="left" rowspan="1" colspan="1">0.158</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of atoms in Protein</td><td align="left" rowspan="1" colspan="1">2,088</td><td align="left" rowspan="1" colspan="1">2,552</td><td align="left" rowspan="1" colspan="1">2,226</td><td align="left" rowspan="1" colspan="1">2,183</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of atoms in ligands</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of atoms in solvent</td><td align="left" rowspan="1" colspan="1">212</td><td align="left" rowspan="1" colspan="1">289</td><td align="left" rowspan="1" colspan="1">286</td><td align="left" rowspan="1" colspan="1">270</td></tr><tr><td align="left" rowspan="1" colspan="1">Protein residues</td><td align="left" rowspan="1" colspan="1">268</td><td align="left" rowspan="1" colspan="1">268</td><td align="left" rowspan="1" colspan="1">268</td><td align="left" rowspan="1" colspan="1">268</td></tr><tr><td align="left" rowspan="1" colspan="1">RMS (bonds) (&#x000c5;)</td><td align="left" rowspan="1" colspan="1">0.010</td><td align="left" rowspan="1" colspan="1">0.033</td><td align="left" rowspan="1" colspan="1">0.016</td><td align="left" rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">RMS (angles) (&#x000b0;)</td><td align="left" rowspan="1" colspan="1">0.87</td><td align="left" rowspan="1" colspan="1">1.79</td><td align="left" rowspan="1" colspan="1">1.69</td><td align="left" rowspan="1" colspan="1">1.38</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramachandran favored (%)</td><td align="left" rowspan="1" colspan="1">98.12</td><td align="left" rowspan="1" colspan="1">98.11</td><td align="left" rowspan="1" colspan="1">99.24</td><td align="left" rowspan="1" colspan="1">99.25</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramachandran allowed (%)</td><td align="left" rowspan="1" colspan="1">1.88</td><td align="left" rowspan="1" colspan="1">1.52</td><td align="left" rowspan="1" colspan="1">0.76</td><td align="left" rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramachandran outliers (%)</td><td align="left" rowspan="1" colspan="1">0.00</td><td align="left" rowspan="1" colspan="1">0.38</td><td align="left" rowspan="1" colspan="1">0.00</td><td align="left" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Rotamer outliers (%)</td><td align="left" rowspan="1" colspan="1">1.69</td><td align="left" rowspan="1" colspan="1">2.02</td><td align="left" rowspan="1" colspan="1">0.00</td><td align="left" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Clash score</td><td align="left" rowspan="1" colspan="1">6.00</td><td align="left" rowspan="1" colspan="1">5.17</td><td align="left" rowspan="1" colspan="1">1.56</td><td align="left" rowspan="1" colspan="1">1.83</td></tr><tr><td align="left" rowspan="1" colspan="1">Average B&#x02010;factor (&#x000c5;<sup>2</sup>)</td><td align="left" rowspan="1" colspan="1">42.63</td><td align="left" rowspan="1" colspan="1">17.49</td><td align="left" rowspan="1" colspan="1">18.07</td><td align="left" rowspan="1" colspan="1">21.65</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Protein</td><td align="left" rowspan="1" colspan="1">41.85</td><td align="left" rowspan="1" colspan="1">15.44</td><td align="left" rowspan="1" colspan="1">15.82</td><td align="left" rowspan="1" colspan="1">19.60</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ligands</td><td align="left" rowspan="1" colspan="1">67.84</td><td align="left" rowspan="1" colspan="1">41.33</td><td align="left" rowspan="1" colspan="1">35.02</td><td align="left" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Solvent</td><td align="left" rowspan="1" colspan="1">49.60</td><td align="left" rowspan="1" colspan="1">31.79</td><td align="left" rowspan="1" colspan="1">32.74</td><td align="left" rowspan="1" colspan="1">38.23</td></tr></tbody></table><table-wrap-foot><fn id="embr201745619-note-0002"><p>Values in parentheses are for the highest resolution shell.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Mechanism of Triton binding to Sh<styled-content style="fixed-case">HTL</styled-content>7</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0002"><list-item><p>Crystal structure of ShHTL7 (gray) bound to Triton (stick model; green: carbons; red: oxygens).</p></list-item><list-item><p>Surface (protein) and sphere (Triton) representation of (A) tilted by &#x002dc;10&#x000b0; toward the viewer.</p></list-item><list-item><p>Zoom into the ShHTL7 binding pocket. Key side chains and Triton are shown as stick models. Red spheres depict ordered water molecules.</p></list-item><list-item><p>LigPlot of the ShHTL7&#x02010;Triton interactions. Hydrophobic interactions: red arc with spokes radiating toward the ligand atoms involved; hydrogen bonds: dashed lines.</p></list-item><list-item><p>Multiple sequence alignment of the ShHTL7 SL binding site against homologs from various species. Red residues: similar stereochemical character. Boxed: highly conserved positions. Residues marked with a star contribute to Triton interactions. For a full alignment, see Fig <xref rid="embr201745619-fig-0002ev" ref-type="fig">EV2</xref>.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-5" xlink:href="EMBR-19-e45619-g002"/></fig><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="embr201745619-fig-0001ev" orientation="portrait" position="float"><label>Figure EV1</label><caption><title>Structure and affinity of Triton (related to Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>A&#x02013;D)</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0009"><list-item><p>2FoFc omit map (blue) of the active site pocket of ShHTL7<sub>S95C</sub> (gray) contoured at 1&#x003c3; cutoff. The final Triton model is shown as stick model, with carbons in green and oxygens in red. The bias of Triton was removed prior to map calculations by 200 cycles of MD simulations followed by refinement of the structure without Triton. Red spheres are water molecules.</p></list-item><list-item><p>Absence of Triton electron density in &#x0201c;true&#x0201d; ShHTL7&#x02010;apo structures, illustrated by view of the binding pocket. The 2FoFc map (blue) was contoured at 1&#x003c3; cutoff. For illustrative purposes, Triton (green and red stick model) from the ShHTL7&#x02010;Triton complex structure is shown in its position in the binding pocket.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="EMBR-19-e45619-g003"/></fig><p>Triton bound to the deep active site pocket, formed by a double V&#x02010;shaped arrangement of helices &#x003b1;4&#x02013;&#x003b1;5 and &#x003b1;6&#x02013;&#x003b1;7. The hydrocarbon moiety of Triton established hydrophobic interactions with Y26 (loop following &#x003b2;2), L124, F134 (&#x003b2;5&#x02013;&#x003b1;4 loop), M139, T142, L143, L146 (on &#x003b1;4), F150 (&#x003b1;4&#x02013;&#x003b1;5 loop), L153, T157, L161 (&#x003b1;5), T190, I193, C194 (&#x003b1;7), and M219 (&#x003b2;6&#x02013;&#x003b1;8 loop; Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>C&#x02013;E and <xref rid="embr201745619-fig-0002ev" ref-type="fig">EV2</xref>). These residues also constitute the SL binding site, as inferred by homology to rice D14 <xref rid="embr201745619-bib-0011" ref-type="ref">11</xref>. However, Triton remained at a distance of more than 8 &#x000c5; from the catalytic serine S95 in the active site (Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>C). In ShHTL7<sub>S95C</sub>, the sulfhydryl group in C95 was oxidized to a sulfinic acid, as confirmed by mass spectrometry (Fig <xref rid="embr201745619-fig-0003ev" ref-type="fig">EV3</xref>), causing only a minor rearrangement of the H94 side chain in otherwise identical structures (RMSD of 0.108 &#x000c5;; <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S1</xref>). Well&#x02010;ordered water molecules filled the space between Triton and the bottom of the active site pocket (Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>C). These water molecules were well preserved in crystals of ShHTL7 purified without Triton, showing that Triton binding did not displace or rearrange this pre&#x02010;existing water network.</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="embr201745619-fig-0002ev" orientation="portrait" position="float"><label>Figure EV2</label><caption><title>Sequence alignment of Sh<styled-content style="fixed-case">HTL</styled-content>s and non&#x02010;parasitic homologs (related to Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>E)</title><p>At: <italic>Arabidopsis thaliana</italic>. red background: strict identity; red letter: similar physiological character; blue box: highly conserved blocks; red triangle: amino acids involved in Triton binding. Green background: residues forming the active site pocket. Black star: residues of the catalytic triad.</p></caption><graphic id="nlm-graphic-9" xlink:href="EMBR-19-e45619-g005"/></fig><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="embr201745619-fig-0003ev" orientation="portrait" position="float"><label>Figure EV3</label><caption><title>C95 of the Sh<styled-content style="fixed-case">HTL</styled-content>7<sub>S95C</sub> active site mutant is converted to sulfinic acid (related to Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>)</title><p>
+<list list-type="simple" id="embr201745619-list-0010"><list-item><label>A</label><p>1&#x003c3; cutoff 2FoFc map (blue) of C95. Red sphere: water molecule.</p></list-item><list-item><label>B, C</label><p>Mass spectrometric determination of the molecular weight of (B) wild&#x02010;type ShHTL7 (calculated Mw = 30,580 Da), and of (C) ShHTL7<sub>S95C</sub> (calculated Mw with sulfinic acid = 30,628 Da, and without = 30,596 Da).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-11" xlink:href="EMBR-19-e45619-g007"/></fig><p>The Triton polyethylene head group protruded out of the active site pocket (Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>A&#x02013;D). Five ethylene oxide units were visible in a relatively weak and poorly defined electron density, suggesting weak association of this moiety. The headgroup&#x02010;ShHTL7 interactions with the outer rim of the ShHTL7 binding pocket comprised a water&#x02010;mediated hydrogen bond (from the oxide of the first unit to the backbone nitrogen of E135) and hydrophobic contacts (between carbons of the first unit and a hydrophobic pocket formed by ShHTL7 V138, M139, and T142, and between carbons of the fourth unit and L160 and I218). This orientation might be influenced by crystal contacts, which occlude part of the accessible protein surface.</p></sec><sec id="embr201745619-sec-0004"><title>ShHTL7 binds strongly and specifically to Triton <italic>in vitro</italic>
+</title><p>A time course of intrinsic Triton fluorescence assays revealed a very slow association for both, ShHTL7 and the inactive ShHTL7<sub>S95C</sub>, which converged only after 2.5 h of incubation at dissociation constants (<italic>K</italic>
+<sub>d</sub>) of 284 &#x000b1; 22 nM and 195 &#x000b1; 21 nM, respectively (Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>A and B). These experiments were performed in a standard buffer containing 0.005% of the detergent Tween&#x02010;20. In the absence of Tween&#x02010;20, ShHTL7 bound to Triton with a final <italic>K</italic>
+<sub>d</sub> of 233 &#x000b1; 30 nM, showing that the presence of Tween&#x02010;20 did not significantly lower the affinity (Fig <xref rid="embr201745619-fig-0004ev" ref-type="fig">EV4</xref>A). The fact that the Triton&#x02010;ShHTL7 complex withstood size exclusion chromatography and extensive dialysis corroborated the high affinity of the Triton association, despite the apparent slow on&#x02010;rate. ShHTL7 also exhibited aggregation temperature (<italic>T</italic>
+<sub>agg</sub>) increases in a Triton concentration&#x02010;dependent manner after 2.5 h of pre&#x02010;incubation (Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>C). Conversely, n&#x02010;dodecyl&#x02010;&#x003b2;&#x02010;D&#x02010;maltoside (nDM, a structurally different detergent with a critical micellar concentration similar to that of Triton) did not increase the protein <italic>T</italic>
+<sub>agg</sub> under the same conditions (Fig <xref rid="embr201745619-fig-0004ev" ref-type="fig">EV4</xref>B). To further quantitate the binding, we used microscale thermophoresis measurements (MST) after 2.5 h of Triton pre&#x02010;incubation, which resulted in a dissociation constant (<italic>K</italic>
+<sub>d</sub>) of 0.44 &#x000b1; 0.05 &#x003bc;M (Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>D). We carried out a drug affinity response target stability (DARTS) assay to establish whether Triton could stabilize ShHTL7 in the presence of proteases, similarly to GR24 <xref rid="embr201745619-bib-0026" ref-type="ref">26</xref>. Both Triton and GR24 efficiently protected the protein from being digested by proteinase K, whereas point mutants that specifically lack binding to either GR24 or Triton failed to protect ShHTL7 from digestion (Fig <xref rid="embr201745619-fig-0004ev" ref-type="fig">EV4</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><title>
+<italic>In vitro</italic> evaluation of Triton binding</title><p>
+<list list-type="simple" id="embr201745619-list-0003"><list-item><label>A, B</label><p>Relative intrinsic Triton fluorescence for different incubation times, plotted against wild&#x02010;type ShHTL7 concentrations (A) and ShHTL7 S95C mutant concentrations (B). Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><label>C</label><p>The change in protein aggregation temperature (&#x00394;<italic>T</italic>
+<sub>agg</sub>) plotted against Triton concentrations. Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><label>D, E</label><p>Thermophoresis data of fluorescently labeled ShHTL7 binding to different concentrations of Triton (D) and GR24 (E) from 25 &#x000b5;M to sub&#x02010;nanomolar range. Data are mean &#x000b1; SD of the fluorescence counts from the labeled protein, <italic>n</italic> = 3.</p></list-item><list-item><label>F</label><p>Relative intrinsic tryptophan fluorescence of ShHTL7 is plotted against GR24 concentrations.</p></list-item><list-item><label>G, H</label><p>YLG hydrolysis by ShHTL7, ShHTL7<sub>L143Y</sub>, and D14 proteins in the presence of increasing Triton (G) and GR24 (H) concentrations. Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><label>I</label><p>Apo&#x02010;ShHTL7 from the I222 space group (blue), superimposed onto the Triton&#x02010;bound ShHTL7 crystallized in P65 (purple). Inward movement of &#x003b1;4 in I222 precludes binding of Triton (green) with r.m.s.d. of 0.25 &#x000c5;.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-13" xlink:href="EMBR-19-e45619-g004"/></fig><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="embr201745619-fig-0004ev" orientation="portrait" position="float"><label>Figure EV4</label><caption><title>
+<italic>In vitro</italic> interaction studies (related to Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>)</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0011"><list-item><p>Triton fluorescence in the presence of ShHTL7 and its L143Y mutant without Tween&#x02010;20 in the buffer. Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><p>The change in ShHTL7 aggregation temperature (&#x00394;<italic>T</italic>
+<sub>agg</sub>) plotted against Triton and n&#x02010;dodecyl&#x02010;&#x003b2;&#x02010;D&#x02010;maltoside concentrations. Data are means &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><p>DARTS assay probing the effect of Triton and GR24 on the stability of ShHTL7 when treated with proteinase K. The ShHTL7 mutant H246N is designed to knock out the catalytic histidine required for SL binding. The L143Y mutant, located in helix &#x003b1;4, precludes Triton binding as shown in (A).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-15" xlink:href="EMBR-19-e45619-g009"/></fig></sec><sec id="embr201745619-sec-0005"><title>Triton efficiently blocks binding of SLs to ShHTL7</title><p>ShHTL7 bound Triton with a slightly stronger affinity than GR24 (apparent <italic>K</italic>
+<sub>d</sub> of GR24 was 0.92 &#x000b1; 0.01 &#x003bc;M in MST, and 0.39 &#x000b1; 0.05 &#x003bc;M in tryptophan fluorescence assays; Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>E and F). To test whether Triton inhibits SL binding, we performed a competition assay using Yoshimulactone Green (YLG) as SL ligand. In the absence of Triton, 3 &#x003bc;M of ShHTL7 hydrolyzes 1 &#x003bc;M of YLG within 50 min (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S2A</xref>). Pre&#x02010;incubation with Triton for 2.5 h blocked ShHTL7 hydrolysis activity with an IC<sub>50</sub> of 0.47 &#x000b1; 0.11 &#x003bc;M, which is about half the IC<sub>50</sub> of GR24 (0.87 &#x000b1; 0.06 &#x003bc;M; Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>G and H), and 25&#x02010;fold lower than that reported for the non&#x02010;specific inhibitor Soporidine <xref rid="embr201745619-bib-0026" ref-type="ref">26</xref>. The IC<sub>50</sub> value for GR24 obtained in our YLG assay is comparable to previously published YLG assays values <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>. Interestingly, the EC<sub>50</sub> of GR24 for ShHTL7 in transgenic <italic>Arabidopsis</italic> is in the picomolar range <xref rid="embr201745619-bib-0022" ref-type="ref">22</xref>, suggesting that unknown additional factors may play a role in this <italic>in vivo</italic> assay (e.g., local enrichment or co&#x02010;factors).</p></sec><sec id="embr201745619-sec-0006"><title>Triton blocks structural changes and downstream signaling of ShHTL7 induced by GR24</title><p>Triton&#x02010;free ShHTL7 structures obtained in the same space group (P65) as the Triton&#x02010;bound structures did not exhibit significant changes in the binding site (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S2B</xref>). However, the P65 crystal packing implicated helices &#x003b1;4 and &#x003b1;5 of the binding pocket and may have stabilized the Triton&#x02010;binding conformation even in the apostate. Indeed, apo&#x02010;ShHTL7 obtained from a different crystal form (I222) where &#x003b1;4 is not constrained, showed that &#x003b1;4 had moved inward by about 2 &#x000c5;, as compared to the P65 structures (Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>I). In this conformation, a steric overlap with &#x003b1;4 residue T142 precludes Triton binding, strongly suggesting that the rate&#x02010;limiting factor for Triton binding is the opening of &#x003b1;4. In solution nuclear magnetic resonance (NMR) spectroscopy, the changes in position and/or intensity of several well&#x02010;dispersed chemical shifts between apo <sup>15</sup>N&#x02010;labeled ShHTL7 and <sup>15</sup>N&#x02010;ShHTL7 purified in the presence of Triton were of the amount and magnitude expected from our crystallographic analysis (Figs <xref rid="embr201745619-fig-0003" ref-type="fig">3</xref>A and <xref rid="embr201745619-fig-0005ev" ref-type="fig">EV5</xref>). This also unequivocally confirms the direct residue&#x02010;specific interaction between Triton and ShHTL7 in solution, without any major conformational changes from the protein, in line with our crystallographic analysis. Small&#x02010;angle X&#x02010;ray scattering (SAXS) data of apo&#x02010;ShHTL7 and ShHTL7 incubated with Triton were highly similar (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S3A and B</xref>; radius of gyration, <italic>R</italic>
+<sub><italic>g</italic></sub>, were 19.7 &#x000b1; 0.2 &#x000c5; and 19.5 &#x000b1; 0.2 &#x000c5; for apo and Triton&#x02010;bound forms, respectively) and fitted the experimental structures very well (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S3A and B</xref>; &#x003c7;<sup>2</sup> were 2.46 and 3.8 &#x000c5; for apo and Triton&#x02010;bound ShHTL7, respectively). Collectively, these analyses validated our crystallographic analysis in solution and ruled out major structural changes upon Triton&#x02010;binding.</p><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Triton binds to Sh<styled-content style="fixed-case">HTL</styled-content>7 and stabilizes the protein from structural changes</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0004"><list-item><p>
+<sup>15</sup>N HSQC spectra of 0.3 mM ShHTL7 (gray) overlapped on ShHTL7 purified in the presence of Triton (pink).</p></list-item><list-item><p>
+<sup>15</sup>N HSQC spectra of 0.3 mM ShHTL7 (gray) with spectra colored red at the final ShHTL7&#x02013;GR24 ratio of 1:1.5.</p></list-item><list-item><p>
+<sup>15</sup>N HSQC spectra of 0.3 mM ShHTL7 + Triton (dark blue) overlapped on ShHTL7 (red) at the final ShHTL7&#x02013;GR24 ratio of 1:1.5.</p></list-item><list-item><p>The change in ShHTL7 (red) and ShHTL7 + Triton (blue) aggregation temperature (&#x00394;<italic>T</italic>
+<sub>agg</sub>) plotted against GR24 concentrations. Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-17" xlink:href="EMBR-19-e45619-g006"/></fig><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="embr201745619-fig-0005ev" orientation="portrait" position="float"><label>Figure EV5</label><caption><title>The presence of Triton induces chemical shifts changes in <sup>15</sup>N&#x02010;Sh<styled-content style="fixed-case">HTL</styled-content>7 (related to Fig <xref rid="embr201745619-fig-0003" ref-type="fig">3</xref>A)</title><p>Superimposed are NMR HSQC measurements of <sup>15</sup>N&#x02010;ShHTL7 purified without Triton (gray) and purified in the presence of Triton (pink). The blue circles highlight prominent changes in the position and/or intensity of several well&#x02010;dispersed chemical shifts.</p></caption><graphic id="nlm-graphic-19" xlink:href="EMBR-19-e45619-g011"/></fig><p>Conversely, the titration of <sup>15</sup>N&#x02010;ShHTL7 with GR24 resulted in much more pronounced chemical shift changes (Fig <xref rid="embr201745619-fig-0003" ref-type="fig">3</xref>B). Pre&#x02010;incubation of <sup>15</sup>N&#x02010;ShHTL7 with Triton before adding GR24 precluded these chemical shift changes, supporting that Triton can effectively block GR24&#x02010;induced structural changes in ShHTL7 (Fig <xref rid="embr201745619-fig-0003" ref-type="fig">3</xref>C and <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S3C</xref>). Accordingly, pre&#x02010;incubation of ShHTL7 with Triton efficiently blocked the <italic>T</italic>
+<sub>agg</sub> changes in ShHTL7 that were otherwise introduced by GR24 in a concentration&#x02010;dependent manner (Fig <xref rid="embr201745619-fig-0003" ref-type="fig">3</xref>D). Of note, GR24 binding destabilized ShHTL7 (<italic>T</italic>
+<sub>agg</sub> changes in the presence of GR24 are negative), whereas Triton binding stabilized ShHTL7 (Fig <xref rid="embr201745619-fig-0003" ref-type="fig">3</xref>D).</p><p>Structural analysis of the <italic>Arabidopsis thaliana</italic> GR24&#x02010;D14 in a complex with the downstream activator AtMAX2 showed that a rearrangement of D14 helices &#x003b1;5 and &#x003b1;6, resulting in the collapse of the ligand&#x02010;binding pocket, is necessary for an association with MAX2 <xref rid="embr201745619-bib-0011" ref-type="ref">11</xref>. Homology modeling of the ShHTL7:ShMAX2 complex based on the <italic>A. thaliana</italic> D14:MAX2 structure showed that the interface is conserved (13 residues are identical, one is homologous in ShMAX2, and all 14 residues are identical in ShHTL7; ShMAX2 and AtMAX2 share 79% sequence identity in the binding site; <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S4</xref>), suggesting that ShHTL7 requires the same type of structural rearrangements as D14 to bind to its cognate MAX2 molecule (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S5A&#x02013;C</xref>). SAXS data recorded on ShHTL7 incubated with GR24 showed indeed a decrease in the characteristic SAXS peak between <italic>q</italic> = 0.2 and 0.35 &#x000c5;&#x02212;1, as expected from a collapse of the large active site pocket in the ShMAX2&#x02010;bound form of ShHTL7 (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S3C</xref>). Our observation that GR24&#x02010;binding decreased the <italic>T</italic>
+<sub>agg</sub> of ShHTL7 further supported that GR24 destabilizes the ShHTL7 structure. Also, our NMR analysis of GR24&#x02010;bound ShHTL7 was compatible with a loss of helix content in the SL&#x02010;bound form and showed that this loss of helix content was blocked by Triton (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S6</xref>). Collectively, our analysis suggested that Triton can block the association of ShHTL7 with MAX2 even in the presence of GR24 by precluding the structural rearrangement of ShHTL7 necessary for binding to ShMAX2 (Fig <xref rid="embr201745619-fig-0004" ref-type="fig">4</xref>A and <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S6</xref>). Accordingly, pre&#x02010;incubation of ShHTL7 with Triton inhibited the GR24&#x02010;dependent interaction of ShHTL7 with the <italic>S. hermonthica</italic> downstream activator ShMAX2 (Fig <xref rid="embr201745619-fig-0004" ref-type="fig">4</xref>B and <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S5C and S6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><title>
+<italic>In vitro</italic> and <italic>in vivo</italic> efficacy of Triton in combating activity of Sh<styled-content style="fixed-case">HTL</styled-content>7 and <italic>Striga</italic>
+</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0005"><list-item><p>Schematic diagram depicting the mode of inhibition of ShHTL7 by Triton via blocking the binding pocket of ShHTL7 and thus prevents the access for its substrate Strigolactones such as GR24.</p></list-item><list-item><p>GST pulldown of His<sub>6</sub>&#x02010;ShMAX2 with GST&#x02010;ShHTL7 in the presence of Triton and GR24. The ShHTL7 mutations L143Y and H246N block binding to Triton and GR24, respectively. Ten percent of used ShMAX2 are shown as input control. Full gels are shown in <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S5C</xref>.</p></list-item><list-item><p>Percentage of <italic>Striga hermonthica</italic> seeds germinating after 2 days of treatment with Triton at 15.4 (0.001%) and 1.54 &#x000b5;M (0.0001%) concentrations and n&#x02010;dodecyl&#x02010;&#x003b2;&#x02010;D&#x02010;maltoside at 15 and 1.5 &#x000b5;M concentrations in the presence of GR24 at 1, 0.5, 0.25, and 0.125 nM concentrations, respectively. Data are shown as box and whisker plots, where horizontal central value represents median, upper and lower quartiles are the ends of the box, the box spans the interquartile range and whiskers are the maximum and minimum values, <italic>n</italic> = 6 (50&#x02013;100 seeds per replicate), *<italic>P</italic> &#x0003c; 0.05, **<italic>P</italic> &#x0003c; 0.01 (one&#x02010;way ANOVA).</p></list-item><list-item><p>Intrinsic Triton fluorescence in the presence of increasing concentrations of ShHTL7 and homologs. Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><p>Triton effects on Nipponbare rice seedling growth. Representative 2&#x02010;week&#x02010;old Nipponbare rice seedlings treated with Triton or water (mock).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-21" xlink:href="EMBR-19-e45619-g008"/></fig></sec><sec id="embr201745619-sec-0007"><title>Triton blocks germination of <italic>Striga</italic> through ShHTL7, but does not affect rice plants</title><p>Next, we exposed different <italic>Striga</italic> seed batches to increasing concentrations of Triton and GR24. We observed a ~ 50% reduction in GR24&#x02010;induced germination in the presence of 15 &#x003bc;M Triton. This result is not explained by a general inhibitory effect of detergent on <italic>Striga</italic> seeds, because under the same conditions, the application of the detergent n&#x02010;dodecyl&#x02010;&#x003b2;&#x02010;D&#x02010;maltoside did not affect germination (Fig <xref rid="embr201745619-fig-0004" ref-type="fig">4</xref>C). Three&#x02010;dimensional homology modeling of other <italic>Striga</italic> SL receptors (ShHTL1&#x02010;11) indicated specificity of Triton for ShHTL7 (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Text S1</xref>). The active site composition of other ShHTLs, especially ShHTL5 and 6, appeared to preclude Triton binding because of steric clashes (in ShHTL6: T142L, T157F, and C194H; in ShHTL5: T142L and T157Y; <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S7</xref>). Thus, the observed effect is expected to be solely caused by the inhibition of ShHTL7.</p><p>For field application, <italic>Striga</italic> seed germination inhibitors should not bind to ShHTL homologs in non&#x02010;parasitic plants. We tested <italic>in vitro</italic> binding of Triton to <italic>Arabidopsis</italic> and rice D14 (AtD14 and OsD14, respectively). Triton fluorescence did not change in the presence of up to 5 &#x003bc;M of AtD14 or OsD14 (Fig <xref rid="embr201745619-fig-0004" ref-type="fig">4</xref>D), and the presence of up to 100 &#x003bc;M of Triton failed to affect the <italic>T</italic>
+<sub>agg</sub> of AtD14 and OsD14, ruling out strong association with these proteins (Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>C). Consistent with these results, application of Triton at concentrations up to 0.5 &#x003bc;M did not impact OsD14 or AtD14 YLG hydrolysis activity. Even at a 5 &#x003bc;M concentration, Triton decreased the YLG hydrolysis rate of OsD14 or AtD14 by only 10% (Fig <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>G). Importantly, application of 15 &#x003bc;M of Triton, a concentration that inhibited <italic>S</italic>. <italic>hermonthica</italic> germination by 50%, did neither inhibit rice seed germination nor affected seedling growth (Fig <xref rid="embr201745619-fig-0004" ref-type="fig">4</xref>E and <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S8</xref>).</p><p>Structural analysis provided a rationale for the absence of D14 binding. The ligand specificity of HTL/D14/KAI2 proteins is determined by the positioning of helices &#x003b1;4 and &#x003b1;5, which frame the binding pocket entrance, and by the residues that line the binding pocket (Figs <xref rid="embr201745619-fig-0005" ref-type="fig">5</xref>A and B, and <xref rid="embr201745619-fig-0002ev" ref-type="fig">EV2</xref>). Although most secondary structure elements of ShHTL7 superimpose closely on those of AtD14 and OsD14 (RMSD of 1.12 &#x000c5;), the &#x003b1;4&#x02013;&#x003b1;5 aperture of ShHTL7 is widened by ~ 1.5 &#x000c5; in its I222 apo form and by ~ 3 &#x000c5; in its Triton&#x02010;bound form through an outward movement of &#x003b1;4 (Fig <xref rid="embr201745619-fig-0005" ref-type="fig">5</xref>A and B). This &#x003b1;4 opening appears precluded in non&#x02010;<italic>Striga</italic> orthologues by the substitution of ShHTL7 L143 with phenylalanine in the &#x003b1;4&#x02013;&#x003b1;7 interface (Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>C and E, and <xref rid="embr201745619-fig-0002ev" ref-type="fig">EV2</xref>). This substitution is homologous and stereochemically equivalent to the L143Y substitution seen in ShHTL5, for which the crystal structure also shows a more inward positioning of &#x003b1;4 (Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>E and <xref rid="embr201745619-fig-0005" ref-type="fig">5</xref>A and C). In agreement, Triton failed to bind the ShHTL7 L143Y mutant <italic>in vitro</italic> and did not inhibit its hydrolysis activity or ShMAX2 binding (Figs <xref rid="embr201745619-fig-0002" ref-type="fig">2</xref>G and <xref rid="embr201745619-fig-0004" ref-type="fig">4</xref>B and D). Additionally, the substitution of several side chains in the ShHTL7 binding pocket with bulkier ones in non&#x02010;<italic>Striga</italic> D14/KAI2 (L153W, T157F/Y, C194F; Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>E and <xref rid="embr201745619-fig-0005" ref-type="fig">5</xref>B) reduces the size of the binding pocket more than is tolerable by Triton (Fig <xref rid="embr201745619-fig-0005" ref-type="fig">5</xref>B). Conservation of the active site in D14/KAI2 proteins (Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>E and <xref rid="embr201745619-fig-0002ev" ref-type="fig">EV2</xref>) supports generalization of these results.</p><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Structural determinants of Triton specificity</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0006"><list-item><p>Superimposition of ShHTL7&#x02010;Triton (space group P65; gray; Triton: green carbons and red oxygens), ShHTL5 (PDB 5CBK; salmon), OsD14 (PDB 4IHA; cyan), AtD14 (PDB 4IH4; magenta) and AtHTL (PDB 4HRY; yellow). The RMSD between structures is 1.12 &#x000c5;.</p></list-item><list-item><p>Zoom onto helices &#x003b1;4 and &#x003b1;5. Triton and relevant side chains are shown.</p></list-item><list-item><p>ShHTL7 (gray), ShHTL5 (orange), and OsD14 (cyan) with their ligand&#x02010;binding pockets shown in surface view.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-23" xlink:href="EMBR-19-e45619-g010"/></fig></sec><sec id="embr201745619-sec-0008"><title>Triton&#x02010;like structures as lead compounds for specific inhibition of <italic>Striga</italic> seed germination</title><p>Our crystal structures showed that the Triton polyethylene oxide chain also contributes to the binding to ShHTL7. To assess the impact of this chain, we tested commercially available Triton&#x02010;like compounds with ethylene oxide group sizes from 1 to 40 units (Triton X&#x02010;100 has 9&#x02013;10 units; Fig <xref rid="embr201745619-fig-0006" ref-type="fig">6</xref>A&#x02013;F). We also included 2&#x02010;[4&#x02010;(2,4,4&#x02010;trimethylpentan&#x02010;2&#x02010;yl)phenoxy]acetic acid (PAA). Although it has the same hydrophobic tail as Triton, PAA is not a detergent because it carries a phenoxy acid group instead of the polyethylene repeats. All Triton&#x02010;like compounds inhibited YLG hydrolysis with IC<sub>50</sub> values of 1&#x02013;12 &#x003bc;M that were higher, but still in the same range as the one for Triton (0.47 &#x003bc;M; Fig <xref rid="embr201745619-fig-0006" ref-type="fig">6</xref>G). PAA showed the strongest inhibitory effect on ShHTL7 activity in YLG hydrolysis assays (IC<sub>50</sub> of 1.48 &#x003bc;M; Fig <xref rid="embr201745619-fig-0006" ref-type="fig">6</xref>E and G). Moreover, PAA showed direct binding to ShHTL7 in MST experiments, with a <italic>K</italic>
+<sub>d</sub> of 1.7 &#x000b1; 0.24 &#x003bc;M, and stabilized ShHTL7 <italic>T</italic>
+<sub>agg</sub> with the addition of PAA (Fig <xref rid="embr201745619-fig-0007" ref-type="fig">7</xref>A and B). 10 &#x003bc;M PAA also inhibited <italic>S. hermonthica</italic> germination at ratios up to 40% (Fig <xref rid="embr201745619-fig-0007" ref-type="fig">7</xref>C and <xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S8</xref>), further establishing that the inhibitory activity of Triton on SL hydrolysis and <italic>Striga</italic> seed germination is not simply a non&#x02010;specific detergent effect. These results showed that very different head groups can achieve similar inhibitory effects <italic>in vitro</italic> and <italic>in planta</italic>, suggesting that a larger screen of this moiety may result in compounds with improved efficacy and bioavailability.</p><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><title>Hydrolysis activity of Sh<styled-content style="fixed-case">HTL</styled-content>7 in the presence of Triton X&#x02010;100&#x02010;like compounds</title><p>
+<list list-type="simple" id="embr201745619-list-0007"><list-item><label>A&#x02013;E</label><p>Triton X&#x02010;114 (A), Triton X&#x02010;405 (B), 4&#x02010;ter&#x02010;octylphenol monoethoxylate (C), 4&#x02010;ter&#x02010;octylphenol diethoxylate (D), 2&#x02010;[4&#x02010;(2,4,4&#x02010;trimethylpentan&#x02010;2&#x02010;yl)phenoxy]acetic acid (E). Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><label>F</label><p>Chemical structures of the tested compounds.</p></list-item><list-item><label>G</label><p>IC<sub>50</sub> values for Triton&#x02010;like compounds based on ShHTL7 YLG hydrolysis assays.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-25" xlink:href="EMBR-19-e45619-g012"/></fig><fig fig-type="Figure" xml:lang="en" id="embr201745619-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><title>
+<styled-content style="fixed-case">PAA</styled-content> binds to Sh<styled-content style="fixed-case">HTL</styled-content>7 and inhibits <italic>Striga</italic> germination and the structural requirement for Sh<styled-content style="fixed-case">HTL</styled-content>7 to accommodate its substrate</title><p>
+<list list-type="alpha-upper" id="embr201745619-list-0008"><list-item><p>Thermophoresis data of fluorescently labeled ShHTL7 binding to different concentrations of PAA from 25 &#x000b5;M to sub&#x02010;nanomolar range. Data are mean &#x000b1; SD of the fluorescence counts from the labeled protein, <italic>n</italic> = 3.</p></list-item><list-item><p>The change in ShHTL7 aggregation temperature (&#x00394;<italic>T</italic>
+<sub>agg</sub>) plotted against PAA concentrations. Data are mean &#x000b1; SD, <italic>n</italic> = 3.</p></list-item><list-item><p>Percentage of <italic>Striga hermonthica</italic> seeds germinating after 2 days of treatment with 2&#x02010;[4&#x02010;(2,4,4&#x02010;trimethylpentan&#x02010;2&#x02010;yl)phenoxy]acetic acid at 10 and 1 &#x000b5;M in the presence of GR24 at 1, 0.5, 0.25, and 0.125 nM concentrations, respectively. Data are shown as box and whisker plots, where horizontal central value represents median, upper and lower quartiles are the ends of the box, the box spans the interquartile range and whiskers are the maximum and minimum values, <italic>n</italic> = 6 (50&#x02013;100 seeds per replicate), *<italic>P</italic>&#x02009; &#x0003c; &#x02009;0.05 (one&#x02010;way ANOVA).</p></list-item><list-item><p>ShHTL7 (space group I222; gray) superimposed with GR24 (orange stick model) transposed from its position bound to OsD14 (PDB 5DJ5).</p></list-item><list-item><p>Superimposition of helices &#x003b1;4 and &#x003b1;5 of ShHTL7 (gray), ShHTL5 (PDB 5CBK; salmon), OsD14 (PDB 5DJ5; cyan). The position of GR24 (bound to OsD14) and relevant side chains are shown.</p></list-item><list-item><p>Superimposition of helices &#x003b1;4, &#x003b1;5, &#x003b1;6, and &#x003b1;7 ShHTL7 (gray), ShHTL5 (PDB 5CBK; salmon), and OsD14 (PDB 5DJ5; cyan) and the side chains are shown as lines.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-27" xlink:href="EMBR-19-e45619-g013"/></fig></sec></sec><sec id="embr201745619-sec-0009"><title>Discussion</title><p>The witchweed has become a major threat for food security in sub&#x02010;Saharan Africa, and an efficacious herbicide to control this pandemic plant pest is still lacking. Collectively, our data support that Triton&#x02010;like compounds are a very promising basis for the development of specific inhibitors of <italic>Striga</italic> germination.</p><p>Among ShHTL family members, ShHTL7 stands out as the receptor that binds <italic>in vitro</italic> to all SLs tested with high affinity <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>. Our analysis now suggests that the broad specificity of ShHTL7 toward SLs is explained by the large volume of the SL binding pocket (1,174.3 &#x000c5;<sup>3</sup> compared to 894.5 and 710.1 &#x000c5;<sup>3</sup> in ShHTL5 and rice D14, respectively) that can accommodate diverse SLs without steric clashes (Figs <xref rid="embr201745619-fig-0005" ref-type="fig">5</xref>C and <xref rid="embr201745619-fig-0007" ref-type="fig">7</xref>D). The increased pocket size is caused by two mechanisms: Firstly, the increased opening between helices 4 and 5, and secondly the replacement of bulky aromatic hydrophobic side chains (F, W, Y) with smaller ones (L, V, S, T). This second mechanism is already apparent when comparing D14 with ShHTL5; however, it is further reinforced in ShHTL7, in particular through the presence of a threonine in position 157 instead of a tyrosine (Figs <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>E and <xref rid="embr201745619-fig-0007" ref-type="fig">7</xref>D). Compared to ShHTL5, ShHTL7 has also substituted four of the flexible methionine residues with more rigid amino acids (L and S; Fig <xref rid="embr201745619-fig-0001" ref-type="fig">1</xref>E). The resulting reduction in flexibility inside the pocket is expected to reduce the entropic penalty of binding to SLs and hence to generally increase SL affinity. Using transgenic <italic>Arabidopsis</italic> lines, it was previously shown that ShHTL7 is the most sensitive SL receptor in <italic>Striga</italic>
+<xref rid="embr201745619-bib-0022" ref-type="ref">22</xref>. Our observation that the ShHTL7&#x02010;specific inhibition by Triton reduced germination by up to 50% provides the first direct evidence for the primary role of this receptor in <italic>Striga</italic> seed germination.</p><p>The site used by MAX2 (D3) to bind to AtD14 is 79% identical in ShMAX2 (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Fig S4</xref>), suggesting that SL&#x02010;bound ShHTLs also need to undergo the same structural rearrangement of helices &#x003b1;4, &#x003b1;5, and &#x003b1;6 for ShMAX2 association as AtD14 in its complex with AtMAX2. Our structural and biophysical analyses demonstrate that GR24 binding leads to loss of helical content, destabilization, and structural changes in ShHTL7, as needed to associate with ShMAX2. In both of our ShHTL7 crystal lattices, &#x003b1;4 and &#x003b1;5 are more distant from the underlying helices &#x003b1;7 and &#x003b1;6 than in D14 or ShHTL5. &#x003b1;4 and &#x003b1;5 are also anchored with smaller side chains (Fig <xref rid="embr201745619-fig-0007" ref-type="fig">7</xref>E and F). Combined, the loser attachment and shorter side chains of this region may facilitate its restructuring upon binding to ShMAX2, which may contribute to the high capacity of ShHTL7 to trigger downstream signaling.</p><p>Interestingly, the picomolar sensitivity of ShHTLs <italic>in planta</italic> does not correlate with their affinity for SLs <italic>in vitro</italic>, inferring that other factors contribute <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>, <xref rid="embr201745619-bib-0022" ref-type="ref">22</xref>. The discrepancy between <italic>in vitro</italic> and <italic>in planta</italic> measurements is in line with previous observations. Toh <italic>et al</italic> reported that picomolar concentrations of GR24 are sufficient to trigger seed germination in transgenic <italic>Arabidopsis</italic> lines expressing <italic>ShHTL7</italic>, whereas the <italic>in vitro</italic> YLG assay with recombinant ShHTL6 and ShHTL7 revealed an IC<sub>50</sub> of ~0.5 &#x003bc;M for GR24 <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>, <xref rid="embr201745619-bib-0022" ref-type="ref">22</xref>. Thus, <italic>in vitro</italic> binding or hydrolysis assays, GR24&#x02010;based seed germination activity in transgenic <italic>Arabidopsis</italic>, and <italic>Striga</italic> germination through natural SLs in the field cannot be compared. The apparent SL sensitivity in planta may be strongly influenced by processes such as bioavailability, local SL concentration, or interactions with other proteins. Hence, the inhibitory effect of Triton <italic>in planta</italic> might be limited by its bioavailability and ability to be uptaken and transported within <italic>Striga</italic> seeds.</p><p>Chemical control of <italic>Striga</italic> is currently limited due to the unavailability of compounds that specifically target <italic>Striga</italic>, without affecting the host plants. Here, we identified Triton X&#x02010;100 as a specific inhibitor of the most sensitive <italic>Striga</italic> SL receptor, ShHTL7. The structural match, the high <italic>in vitro</italic> affinity, and the robust <italic>in vivo</italic> activity identify Triton as a promising lead compound for the design of <italic>Striga</italic>&#x02010;specific herbicides. We showed that Triton X&#x02010;100 derived structures with different head groups also inhibited ShHTL7, opening up possibilities of designing a new class of <italic>Striga</italic> inhibitors. Moreover, the Triton&#x02010;ShHTL7 complex structure suggests that derived compounds with a hydrophobic moiety that fills the gap between Triton and the active site pocket may exhibit higher inhibitory activity. A further improvement might be achieved by designing derivatives that reach and covalently bind to the active site.</p><p>Its potency, persistence, and entire filling of the ShHTL7 active site distinguish Triton from compounds such as glycerol and PMSF, which are frequently found attached non&#x02010;specifically to small regions of protein active sites. Moreover, the fact that the action of Triton can be recapitulated by the non&#x02010;detergent Triton&#x02010;like compound PAA, but not by the detergent nDM, excludes that our observations are simply caused by non&#x02010;specific detergent effects. We show that the occupation of the ShHTL7 binding pocket by Triton precludes the structural changes required for downstream signaling through ShMAX2. The high resolution of our structural data delivers the atomic details required for the rational development of inhibitors with improved efficacy. Indeed, our structural analysis showed that the binding pocket of ShHTL7 is too different to be modeled correctly based on known homologous structures.</p><p>Our <italic>in vivo</italic> assessment of <italic>Striga</italic> germination inhibition by Triton showed robust effects, with, however, noticeable differences between seed batches and assay conditions. Based on structural modeling of all ShHTL7 family members, the reduction of germination by Triton is predicted to be caused only by inhibition of ShHTL7. In transgenic <italic>A. thaliana</italic>, ShHTL4&#x02010;6 showed EC<sub>50</sub> values of 0.01&#x02013;0.3 &#x003bc;M for GR24 <xref rid="embr201745619-bib-0021" ref-type="ref">21</xref>. These concentrations are far above the picomolar sensitivity of <italic>Striga</italic> seeds for SLs <xref rid="embr201745619-bib-0028" ref-type="ref">28</xref>, and hence, the contributions of ShHTL family members other than ShHTL7 are expected to be of only minor importance <italic>in planta</italic>.</p><p>Interestingly, it was earlier noted, but not further investigated, that Triton X&#x02010;100 concentrations above 0.001% hindered seed germination of <italic>Orobanche cumana</italic> and <italic>Orobanche minor</italic>
+<xref rid="embr201745619-bib-0029" ref-type="ref">29</xref>, suggesting that this compound might also be used to combat root parasitic weeds other than <italic>S. hermonthica</italic>.</p><p>In conclusion, our work confirms and explains the primordial role of ShHTL7 as SL receptor in <italic>Striga</italic>. Our analysis paves the way for realizing a promising approach in combating <italic>Striga</italic>, which is based on applying <italic>Striga</italic>&#x02010;specific germination inhibitors in the presence of host crops throughout the planting season. Thus, such Triton&#x02010;derived inhibitors can complement or replace the suicidal germination approach and provide a highly needed addition to the insufficient tool&#x02010;box of anti&#x02010;<italic>Striga</italic> measures.</p></sec><sec id="embr201745619-sec-0010"><title>Materials and Methods</title><sec id="embr201745619-sec-0011"><title>Cloning, expression and protein purification</title><p>
+<italic>Striga hermonthica ShHTL7</italic> cDNA (GenBank accession: KR013127) was kindly provided by Prof. Tadao Asami (The University of Tokyo, Japan). <italic>ShHTL7</italic>
+<sub><italic>S95C</italic></sub> mutant, <italic>A. thaliana D14</italic> (<italic>AtD14</italic>) cDNA (GenBank accession: AY097402), and <italic>Oryza sativa D14</italic> (<italic>OsD14</italic>) cDNA (GenBank accession: BAF11220) were synthesized and cloned into PUC57 (GenScript). <italic>ShHTL7</italic>,<italic> ShHTL7</italic>
+<sub><italic>S95C</italic></sub> mutant, and <italic>OsD14</italic> were amplified by PCR using primers <xref rid="embr201745619-bib-0030" ref-type="ref">30</xref> (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Table S1</xref>). The obtained fragments were digested with <italic>Bam</italic>HI and <italic>Xho</italic>I and ligated into accordingly treated pGEX&#x02010;6P&#x02010;1 expression vector (GE Healthcare). <italic>AtD14</italic> was amplified by PCR using AtD14&#x02010;F/AtD14&#x02010;R primers (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Table S1</xref>), and the obtained fragment was digested with <italic>Eco</italic>RI and <italic>Sal</italic>I, and ligated into <italic>Eco</italic>RI/<italic>Sal</italic>I digested pGEX&#x02010;6P&#x02010;1 expression vector. <italic>ShHTL7&#x02010;L143Y</italic> mutant was generated by PCR according to <xref rid="embr201745619-bib-0030" ref-type="ref">30</xref> and using ShHTL7&#x02010;L143Y&#x02010;F/ShHTL7&#x02010;L143Y&#x02010;R primers (<xref rid="embr201745619-sup-0001" ref-type="supplementary-material">Appendix Table S1</xref>) designed to introduce the desired mutation in the pGEX&#x02010;6P&#x02010;1&#x02010;<italic>ShHTL7</italic> plasmid. After PCR, the mixture was digested with <italic>Dpn</italic>I and transformed into <italic>Escherichia coli</italic> TOP10 cells, to generate the plasmid with the introduced mutation. All plasmids were verified by sequencing (KAUST Bioscience Core Lab). The plasmids were then transformed into <italic>E. coli</italic> BL21 (DE3) cells. Cells were grown in LB broth containing ampicillin (100 mg/ml) at 37&#x000b0;C until an OD<sub>600</sub> of 0.6 and for NMR <sup>15</sup>N labeling, and the cells were grown in M9 minimal media supplemented with <sup>15</sup>N ammonium chloride. Expression was induced by adding 150 &#x003bc;M isopropyl &#x003b2;&#x02010;D&#x02010;1&#x02010;thiogalactopyranoside (IPTG), and cultures were incubated at 16&#x000b0;C overnight under shaking. Cells were harvested by centrifugation at 8,000 <italic>g</italic> for 10 min. Cell pellet of one liter culture was re&#x02010;suspended in 25 ml lysis buffer (50 mM Tris&#x02013;HCl (pH 8.0), 200 mM NaCl, 3 mM DTT, 700 &#x003bc;M Triton X&#x02010;100, or 9.6 mM Tween&#x02010;20) and lysed by sonication. Cell debris was removed by centrifugation at 30,000 <italic>g</italic> for 30 min, and proteins were purified from the obtained supernatant using Glutathione Sepharose 4B resins (GE Healthcare). The N&#x02010;terminal GST tag of ShHTL7 was removed by overnight incubation with PreScission Protease (GE Healthcare) at 4&#x000b0;C. After GST cleavage, protein was further purified on a HiLoad16/60 Superdex 200 prep&#x02010;grade gel filtration column (GE Healthcare) using a buffer containing 10 mM HEPES (pH 7.5), 50 mM KCl, 3 mM DTT. The purified protein was concentrated to 10 mg/ml and stored at &#x02212;80&#x000b0;C. The expression and purification protocol for ShHTL7 was also used for AtD14 and OsD14 proteins, except that AtD14 and OsD14 were eluted from glutathione resins using 0.2 mM reduced glutathione (Sigma) without cutting the GST tag. Eluted proteins were passed through gel filtration equilibrated with buffer containing 10 mM HEPES (pH 7.5), 50 mM KCl, 3 mM DTT and further used for <italic>in vitro</italic> assays.</p></sec><sec id="embr201745619-sec-0012"><title>Crystallization and structure determination</title><p>The hanging drop vapor diffusion method was used for crystallization. Initial plate crystals were obtained for apo&#x02010;ShHTL7 and ShHTL7 co&#x02010;crystallized with 1 mM <italic>rac</italic>&#x02010;GR24 (Chiralix) by equilibrating 1.0 &#x003bc;l of protein (15 mg/ml) mixed with 1.0 &#x003bc;l of reservoir solution (0.2 M magnesium chloride, 0.1 M Tris&#x02013;HCl pH 8.5, and 30% PEG 4000). These crystals were crushed and used as microseeds to obtain diffraction&#x02010;quality crystals under same crystallization conditions. For ShHTL7 and the ShHTL7<sub>S95C</sub> mutant with Triton X&#x02010;100, diffraction&#x02010;quality crystals were obtained by equilibrating 1.0 &#x003bc;l of protein (10 mg/ml) mixed with 1.0 &#x003bc;l of reservoir solution (1 M lithium sulfate, 0.1 M HEPES pH 7.5), in addition apo ShHTL7 crystallized in reservoir solution containing 0.1 M MES pH 6.5 and 1 M magnesium sulfate. All crystals grew in 1&#x02013;3 days at 23&#x000b0;C. For data collection, 25% glycerol was added to the well solution as a cryo&#x02010;protectant, and the crystals were flash&#x02010;cooled in liquid nitrogen. All data for apo ShHTL7, ShHTL7&#x02010;Triton X&#x02010;100, and ShHTL7<sub>S95C</sub>&#x02010;Triton X&#x02010;100 were collected at 100K at the beamlines Proxima 1 and Proxima 2A at the SOLEIL Synchrotron (France), using a Pilatus 6 M and EIGER 6 M detector, respectively (proposal numbers 20160098, 20161236, 20170193). The data were processed in XDS. The crystal structure of ShHTL7<sub>S95C</sub>&#x02010;Triton X&#x02010;100 was determined by molecular replacement using MoRDa with the ShHTL5 structure (PDB 5CBK) as search model. The refined ShHTL7<sub>S95C</sub> model was then used as MR template for ShHTL7&#x02010;Triton X&#x02010;100 and apo ShHTL7. The structures were manually inspected using Coot and refined using Phenix Refine (Table <xref rid="embr201745619-tbl-0001" ref-type="table">1</xref>). The figures were drawn using PYMOL. The active site pocket volume was calculated following the previously published method <xref rid="embr201745619-bib-0022" ref-type="ref">22</xref>.</p></sec><sec id="embr201745619-sec-0013"><title>Yoshimulactone green (YLG) hydrolysis assays</title><p>
+<italic>In vitro</italic> YLG hydrolysis assays were performed using 3 &#x003bc;M of ShHTL7, ShHTL7&#x02010;L143Y, AtD14, and OsD14 in a reaction buffer (1&#x000d7; PBS) with 0.1% dimethyl sulfoxide (DMSO) in a 100 &#x003bc;l volume on a 96&#x02010;well black plate (Greiner). The fluorescent intensity was measured by SpectraMax i3 (Molecular Devices) using an excitation wavelength of 480 nm and a detection wavelength of 520 nm. ShHTL7, ShHTL7&#x02010;L143Y, AtD14, and OsD14 were mixed with Triton X&#x02010;100, using serial dilutions to cover the Triton X&#x02010;100 concentration range from 5 &#x003bc;M until 4.87 nM. Protein&#x02010;Triton mixes were pre&#x02010;incubated for 30 min. 1 &#x003bc;M YLG (Tokyo Chemical Industry Co. Ltd.) was then added, and the assay was incubated for 60 min. The change in fluorescence observed over the course of 1 h incubation of YLG in buffer without protein was subtracted from the data collected in the presence of protein. The resulting relative fluorescence values were analyzed. The inhibitory curves and IC<sub>50</sub> values were plotted using GraphPad (Prism 6) four&#x02010;parameter logistic curve. The rate of YLG hydrolysis by ShHTL7 was recorded following the above method at 10&#x02010;min interval for 2 h.</p></sec><sec id="embr201745619-sec-0014"><title>Triton X&#x02010;100 fluorescence</title><p>Triton X&#x02010;100 has an excitation and emission wavelength of 275 and 302 nm, respectively. ShHTL7, ShHTL7&#x02010;L143Y, AtD14, and OsD14 were incubated in 50 mM Tris&#x02013;HCl pH 7.5, 150 mM NaCl, with or without 0.005% Tween&#x02010;20, at concentrations ranging from 10 &#x003bc;M to 1 nM (obtained using serial dilutions) with 154 nM of Triton X&#x02010;100 for 1&#x02013;2 h, and fluorescence values were then measured by SpectraMax i3 (Molecular Devices) at excitation and detection wavelengths of 275 and 302 nm, respectively. The fluorescence exhibited by Triton X&#x02010;100 alone was subtracted from the fluorescence in the presence of protein. Data were normalized to the background fluorescence from the protein to obtain the change in Triton X&#x02010;100 fluorescence intensity. To determine the <italic>K</italic>
+<sub>d</sub>, the changes in Triton X&#x02010;100 fluorescence intensity were plotted against the concentration of the protein using the single binding site model implemented in GraphPad (Prism 6).</p></sec><sec id="embr201745619-sec-0015"><title>Differential static light scattering (DSLS)</title><p>The specific aggregation temperature, <italic>T</italic>
+<sub>agg</sub>, at which ShHTL7, ShHTL7<sub>L143Y</sub>, AtD14, and OsD14 aggregated in the presence or absence of Triton X&#x02010;100, GR24, and PAA was measured using DSLS on the Stargazer system (Harbinger Biotechnology and Engineering Corporation, Markham, Canada). Protein samples at a concentration of 10 &#x003bc;M were overlaid with mineral oil in a clear bottom 384&#x02010;well black plate (Corning) and heated from 20 to 95&#x000b0;C at 1&#x000b0;C/min; light scattering was detected by a CCD camera every 0.5&#x000b0;C in the presence or absence of varying concentrations of Triton X&#x02010;100, GR24, and PAA yielding the difference in aggregation temperature at a particular concentration from apoproteins (&#x00394;<italic>T</italic>
+<sub>agg</sub>). Data were normalized, and &#x00394;<italic>T</italic>
+<sub>agg</sub> plotted against the Triton X&#x02010;100, GR24, and PAA concentration. Resulting data were plotted to determine the change in <italic>T</italic>
+<sub>agg</sub> of all proteins when bound to Triton X&#x02010;100, GR24, and PAA using GraphPad (Prism 6).</p></sec><sec id="embr201745619-sec-0016"><title>Mass spectrometry (MS) for molecular weight determination</title><p>Mass spectrometric analysis of ShHTL7&#x02010;apo, ShHTL7<sub>S95C</sub>, and ShHTL7 bound to Triton X&#x02010;100 was performed using electrospray ionisation system Q&#x02010;ToF (Bruker Maxis) equipped with liquid chromatography (Agilent Technologies). Under denaturing conditions, the protein was desalted using C4 Ziptip (EMD Millipore) and eluted into 50% acetonitrile/50% water/0.1% formic acid. For each analysis, a 3&#x02013;6 &#x003bc;l aliquot of the protein solution was loaded. Mass spectra were processed by inbuilt software for Bruker maxis.</p></sec><sec id="embr201745619-sec-0017"><title>
+<italic>Striga hermonthica</italic> germination bioassays</title><p>
+<italic>Striga hermonthica</italic> seeds were collected from <italic>Sorghum bicolor</italic> field in Sudan. For germination bioassays, <italic>Striga</italic> seeds were first sterilized and pre&#x02010;conditioned as described before <xref rid="embr201745619-bib-0031" ref-type="ref">31</xref>. The pre&#x02010;conditioned <italic>Striga</italic> seeds were treated with Triton X&#x02010;100 concentrations 1.54 and 15.4 &#x003bc;M along with GR24 (final concentration of 1.0, 0.5, 0.25, and 0.125 nM). Triton X&#x02010;100/GR24 mixtures were applied (50 &#x003bc;l per disk) in four replicates. Corresponding volumes of GR24 and sterile MiliQ water were included as positive and negative control, respectively. The petri dishes were sealed with parafilm, enfolded with aluminum foil, and incubated for 48 h at 30&#x000b0;C. The germinated (seeds with radicle emerging through the seed coat) and non&#x02010;germinated <italic>Striga</italic> seeds were recorded under a binocular, and germination percentage was calculated. For germination assays against n&#x02010;dodecyl&#x02010;&#x003b2;&#x02010;D&#x02010;maltoside, it was done at 15, 1.5 &#x003bc;M and for PAA it was 10, 1 &#x003bc;M, respectively, and same method as above was adopted for the assays with same GR24 concentrations.</p></sec><sec id="embr201745619-sec-0018"><title>Rice seeds germination assays and growth of seedlings</title><p>The rice seeds <italic>cv</italic>. Nipponbare were surface&#x02010;sterilized using 50 ml (2.5%) sodium hypochlorite with 0.4% of Tween&#x02010;20 for 15 min. After six subsequent washing steps with sterilized water, the rice seeds were kept in water at 30&#x000b0;C for overnight imbibition. About 2 ml of Triton X&#x02010;100 concentrations ranging from 1 to 100 &#x003bc;M and sterile MilliQ water (control) was added in 24&#x02010;well plates with six replications. One sterilized rice seed was put in each well and allowed to germinate for 48 h at 30&#x000b0;C. The germinated (radicle emergence) and non&#x02010;germinated seeds were recorded, and germination percentage was calculated. Then, same seeds were allowed to grow under light in growth cabinet for another 1 week. The length of 2&#x02010;week&#x02010;old seedlings was measured with roller and averaged.</p></sec><sec id="embr201745619-sec-0019"><title>GST pulldown of ShMAX2</title><p>Purified GST&#x02010;ShHTL7 wt, ShHTL7 L143Y, and ShHTL7&#x02010;H246N mutants were bound to the Glutathione Sepharose 4B Beads, where Triton is used in the lysis step and in certain samples Tween&#x02010;20 was used instead of Triton. Bound proteins were incubated with 20 &#x003bc;M GR24 and His<sub>6</sub>&#x02010;ShMAX2 lysate for 2 h and then washed with lysis buffer for three times and then ShHTL7 wt and mutants were eluted with the addition of 20 mM reduced glutathione. Thus, eluted protein was subjected to Western blot using antibody specific to 6XHis (anti&#x02010;His).</p></sec><sec id="embr201745619-sec-0020"><title>Ligand&#x02010;binding and stabilization of ShHTL7 by chemical shift perturbation</title><p>To determine ShHTL7 ligand binding and stabilization by NMR, the chemical shift changes induced in <sup>15</sup>N HSQC spectra of ShHTL7 by the presence of GR24 and simultaneously in the presence of Triton X&#x02010;100 was recorded. All spectra were recorded at 298 K on a Bruker Avance 950 MHz spectrometer equipped with TCI cryoprobe. Single&#x02010;labeled <sup>15</sup>N recombinant ShHTL7 (0.3 mM) was titrated by addition 0.45 mM unlabeled GR24, and <sup>15</sup>N&#x02010;labeled ShHTL7 (0.3 mM) purified in the presence of Triton X&#x02010;100 was titrated by addition 0.45 mM unlabeled GR24. The peak shifts were analyzed using Topspin software program, and the data were overlapped to identify the changes in the chemical shift.</p></sec><sec id="embr201745619-sec-0021"><title>Micro scale thermophoresis (MST) for ShHTL7 binding to ligands</title><p>ShHTL7 was N&#x02010;terminally labeled with RED dye (NT&#x02010;647) following the protocol from manufacturer (NanoTemper, Germany). Free dye was removed by passing through the Sephadex G&#x02010;25 column. Serial dilutions of unlabeled Triton X&#x02010;100, GR24, and PAA ranging from 25 &#x003bc;M to sub&#x02010;nanomolar range were mixed with 20 nM of NT&#x02010;647&#x02010;labeled ShHTL7 in buffer (50 mM Tris&#x02013;HCl, 150 mM NaCl, 0.005% Tween&#x02010;20) and incubated for 2.5 h in the studies for Triton X&#x02010;100 and PAA except with GR24, and it was recorded after 10&#x02010;min incubation. About 10 &#x003bc;l of sample was loaded into premium monolith NT capillaries, and assays were carried out in a NanoTemper Monolith NT.015T. The red fluorescence was excited by a light&#x02010;emitting diode, and its emission was recorded on the focused part of capillaries. Using laser diode, a microscopic temperature gradient was created at the same location and the fluorescence depletion was measured. <italic>K</italic>
+<sub>d</sub> values were determined by plotting the concentrations of unlabeled ligands against the changes in fluorescent thermophoresis signal, and the data were analyzed using the NanoTemper analysis software.</p></sec><sec id="embr201745619-sec-0022"><title>Drug affinity response target stability (DARTS) assay</title><p>ShHTL7 and mutants were diluted to a concentration of 30 &#x003bc;M in 50 mM Tris&#x02013;HCl pH 7.5, 150 mM NaCl, 0.005% Tween&#x02010;20, incubated with GR24 at final concentration of 100 &#x003bc;M for 5 min, and separately with 100 &#x003bc;M Triton X&#x02010;100 for 2 h. One sample was kept aside for use as an undigested control. Proteinase K (Hampton Research) was then added to ShHTL7 protein to a final protease concentration of 10 &#x003bc;g/ml. Reactions were incubated at room temperature for 5 min and then SDS&#x02013;PAGE loading buffer was added to stop the reaction, and the samples were immediately boiled for 3 min. Equal amounts of each sample, corresponding to 10 &#x003bc;g of protein, were run on a 4&#x02013;20% gradient polyacrylamide gel (Bio&#x02010;Rad) and analyzed by Coomassie Blue staining <xref rid="embr201745619-bib-0032" ref-type="ref">32</xref>.</p></sec><sec id="embr201745619-sec-0023"><title>Small&#x02010;angle X&#x02010;ray scattering</title><p>Experiments were performed at the SWING beamline (SOLEIL, Saint&#x02010;Aubin, France), using the Biology Laboratory 1 (proposal number 20170193). The wavelength was set to &#x003bb; = 1.03 &#x000c5;. The distance of the sample to the detector was 1.8 m, resulting in the momentum transfer range of 0.01 &#x000c5;&#x02212;1 &#x0003c; <italic>q</italic> &#x0003c; 0.5 &#x000c5;&#x02212;1. Between 30 and 50 &#x003bc;l of protein was used. For each sample, two concentrations and two buffer blanks were measured. Protein and buffer data were selected and averaged. Buffer data were subtracted from the protein data using SWING's on&#x02010;site software. Programs of the ATSAS suite <xref rid="embr201745619-bib-0033" ref-type="ref">33</xref> were used for data processing, Guinier plots, distance distributions (PRIMUS), model fitting (CRYSOL), and figure preparation (SASPLOT).</p></sec><sec id="embr201745619-sec-0024"><title>Data availability</title><p>The coordinates for the structures reported in this paper have been deposited in PDB under accession numbers 5Z8P, 5Z95, 5Z82, and 5Z89.</p></sec></sec><sec id="embr201745619-sec-0026"><title>Author contributions</title><p>STA and SA&#x02010;B conceived the idea for the study. USH and IH designed the experiments. STA collected and analyzed the SAXS data. STA and USH performed the protein structural studies. USH and IH performed the assays for characterization. XG collected and analyzed the NMR data. MJ and BAK did the <italic>Striga</italic> bioassays and analyzed the data. RAZ and DK helped in the protein studies. STA, SA&#x02010;B, USH, and IH wrote the manuscript.</p></sec><sec id="embr201745619-sec-0027"><title>Conflict of interest</title><p>The authors declare that they have no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"/><supplementary-material content-type="local-data" id="embr201745619-sup-0001"><caption><p>Appendix</p></caption><media xlink:href="EMBR-19-e45619-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="embr201745619-sup-0002"><caption><p>Expanded View Figures PDF</p></caption><media xlink:href="EMBR-19-e45619-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Review Process File</p></caption><media xlink:href="EMBR-19-e45619-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="embr201745619-sec-0025"><title>Acknowledgements</title><p>We acknowledge SOLEIL for provision of synchrotron radiation facilities, and we would like to thank L. Chavas, P. Legrand, S. Sirigu, and P. Montaville for assistance in using beamline PROXIMA 1; G. Fox, M. Savko, and B. Shepard for assistance in using beamline PROXIMA 2A; and J. Perez and A. Thureau for assistance in using the beamline SWING. We thank the KAUST Bioscience Core Labs for their support, and we thank L. Jaremko for help with the NMR analysis. This research was supported by the Bill &#x00026; Melinda Gates Foundation (OPP1136424); and the King Abdullah University of Science and Technology (KAUST).</p></ack><ref-list content-type="cited-references" id="embr201745619-bibl-0001"><title>References</title><ref id="embr201745619-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="embr201745619-cit-0001">
+<string-name>
+<surname>Xie</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yoneyama</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yoneyama</surname>
+<given-names>K</given-names>
+</string-name> (<year>2010</year>) <article-title>The strigolactone story</article-title>. <source xml:lang="en">Annu Rev Phytopathol</source>
+<volume>48</volume>: <fpage>93</fpage>&#x02013;<lpage>117</lpage>
+<pub-id pub-id-type="pmid">20687831</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0002"><label>2</label><mixed-citation publication-type="book" id="embr201745619-cit-0002">
+<string-name>
+<surname>Ejeta</surname>
+<given-names>G</given-names>
+</string-name> (<year>2007</year>) <chapter-title>The <italic>Striga</italic> scourge in Africa: a growing pandemic</chapter-title> In <source xml:lang="en">Integrating new technologies for Striga control: towards ending the witch&#x02010;hunt</source>, <person-group person-group-type="editor"><name><surname>Ejeta</surname><given-names>G</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Gressel</surname><given-names>J</given-names></name></person-group> (eds), pp <fpage>3</fpage>&#x02013;<lpage>16</lpage>. <publisher-loc>Singapore</publisher-loc>: <publisher-name>World Scientific Publishing Co. Pte Ltd</publisher-name>
+</mixed-citation></ref><ref id="embr201745619-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="embr201745619-cit-0003">
+<string-name>
+<surname>Parker</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>) <article-title>Parasitic weeds: a world challenge</article-title>. <source xml:lang="en">Weed Sci</source>
+<volume>60</volume>: <fpage>269</fpage>&#x02013;<lpage>276</lpage>
+</mixed-citation></ref><ref id="embr201745619-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="embr201745619-cit-0004">
+<string-name>
+<surname>Gomez&#x02010;Roldan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fermas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brewer</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name>
+<surname>Puech&#x02010;Pages</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Dun</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Pillot</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Letisse</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Matusova</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Danoun</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Portais</surname>
+<given-names>JC</given-names>
+</string-name>
+<italic>et al</italic> (<year>2008</year>) <article-title>Strigolactone inhibition of shoot branching</article-title>. <source xml:lang="en">Nature</source>
+<volume>455</volume>: <fpage>189</fpage>&#x02013;<lpage>194</lpage>
+<pub-id pub-id-type="pmid">18690209</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="embr201745619-cit-0005">
+<string-name>
+<surname>Umehara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hanada</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Akiyama</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Arite</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takeda&#x02010;Kamiya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Magome</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kamiya</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shirasu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yoneyama</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic> (<year>2008</year>) <article-title>Inhibition of shoot branching by new terpenoid plant hormones</article-title>. <source xml:lang="en">Nature</source>
+<volume>455</volume>: <fpage>195</fpage>&#x02013;<lpage>200</lpage>
+<pub-id pub-id-type="pmid">18690207</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="embr201745619-cit-0006">
+<string-name>
+<surname>Alder</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jamil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marzorati</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vermathen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bigler</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ghisla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bouwmeester</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Beyer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Babili</surname>
+<given-names>S</given-names>
+</string-name> (<year>2012</year>) <article-title>The path from beta&#x02010;carotene to carlactone, a strigolactone&#x02010;like plant hormone</article-title>. <source xml:lang="en">Science</source>
+<volume>335</volume>: <fpage>1348</fpage>&#x02013;<lpage>1351</lpage>
+<pub-id pub-id-type="pmid">22422982</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="embr201745619-cit-0007">
+<string-name>
+<surname>Jia</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Baz</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Babili</surname>
+<given-names>S</given-names>
+</string-name> (<year>2018</year>) <article-title>From carotenoids to strigolactones</article-title>. <source xml:lang="en">J Exp Bot</source>
+<volume>69</volume>: <fpage>2189</fpage>&#x02013;<lpage>2204</lpage>
+<pub-id pub-id-type="pmid">29253188</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="embr201745619-cit-0008">
+<string-name>
+<surname>Al&#x02010;Babili</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bouwmeester</surname>
+<given-names>HJ</given-names>
+</string-name> (<year>2015</year>) <article-title>Strigolactones, a novel carotenoid&#x02010;derived plant hormone</article-title>. <source xml:lang="en">Annu Rev Plant Biol</source>
+<volume>66</volume>: <fpage>161</fpage>&#x02013;<lpage>186</lpage>
+<pub-id pub-id-type="pmid">25621512</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="embr201745619-cit-0009">
+<string-name>
+<surname>Hamiaux</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Drummond</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Ledger</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Cooney</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Newcomb</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Snowden</surname>
+<given-names>KC</given-names>
+</string-name> (<year>2012</year>) <article-title>DAD2 is an alpha/beta hydrolase likely to be involved in the perception of the plant branching hormone, strigolactone</article-title>. <source xml:lang="en">Curr Biol</source>
+<volume>22</volume>: <fpage>2032</fpage>&#x02013;<lpage>2036</lpage>
+<pub-id pub-id-type="pmid">22959345</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="embr201745619-cit-0010">
+<string-name>
+<surname>Zhao</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>XE</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>ZS</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>RZ</given-names>
+</string-name>, <string-name>
+<surname>Kovach</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et al</italic> (<year>2013</year>) <article-title>Crystal structures of two phytohormone signal&#x02010;transducing alpha/beta hydrolases: karrikin&#x02010;signaling KAI2 and strigolactone&#x02010;signaling DWARF14</article-title>. <source xml:lang="en">Cell Res</source>
+<volume>23</volume>: <fpage>436</fpage>&#x02013;<lpage>439</lpage>
+<pub-id pub-id-type="pmid">23381136</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="embr201745619-cit-0011">
+<string-name>
+<surname>Zhao</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>XE</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>de Waal</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic> (<year>2015</year>) <article-title>Destabilization of strigolactone receptor DWARF14 by binding of ligand and E3&#x02010;ligase signaling effector DWARF3</article-title>. <source xml:lang="en">Cell Res</source>
+<volume>25</volume>: <fpage>1219</fpage>&#x02013;<lpage>1236</lpage>
+<pub-id pub-id-type="pmid">26470846</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="embr201745619-cit-0012">
+<string-name>
+<surname>Yao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic> (<year>2016</year>) <article-title>DWARF14 is a non&#x02010;canonical hormone receptor for strigolactone</article-title>. <source xml:lang="en">Nature</source>
+<volume>536</volume>: <fpage>469</fpage>&#x02013;<lpage>473</lpage>
+<pub-id pub-id-type="pmid">27479325</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="embr201745619-cit-0013">
+<string-name>
+<surname>Nakamura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Miyakawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Fukui</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>
+<italic>et al</italic> (<year>2013</year>) <article-title>Molecular mechanism of strigolactone perception by DWARF14</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>4</volume>: <fpage>2613</fpage>
+<pub-id pub-id-type="pmid">24131983</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="embr201745619-cit-0014">
+<string-name>
+<surname>de Saint Germain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Clave</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Badet&#x02010;Denisot</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pillot</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Cornu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Le Caer</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Burger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pelissier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Retailleau</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Turnbull</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic> (<year>2016</year>) <article-title>An histidine covalent receptor and butenolide complex mediates strigolactone perception</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>12</volume>: <fpage>787</fpage>&#x02013;<lpage>794</lpage>
+<pub-id pub-id-type="pmid">27479744</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="embr201745619-cit-0015">
+<string-name>
+<surname>Zhou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shabek</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gan</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et al</italic> (<year>2013</year>) <article-title>D14&#x02010;SCF(D3)&#x02010;dependent degradation of D53 regulates strigolactone signalling</article-title>. <source xml:lang="en">Nature</source>
+<volume>504</volume>: <fpage>406</fpage>&#x02013;<lpage>410</lpage>
+<pub-id pub-id-type="pmid">24336215</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="embr201745619-cit-0016">
+<string-name>
+<surname>Jiang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic> (<year>2013</year>) <article-title>DWARF 53 acts as a repressor of strigolactone signalling in rice</article-title>. <source xml:lang="en">Nature</source>
+<volume>504</volume>: <fpage>401</fpage>&#x02013;<lpage>405</lpage>
+<pub-id pub-id-type="pmid">24336200</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="embr201745619-cit-0017">
+<string-name>
+<surname>Waters</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Scaffidi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Flematti</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name>
+<surname>Dixon</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2012</year>) <article-title>Specialisation within the DWARF14 protein family confers distinct responses to karrikins and strigolactones in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Development</source>
+<volume>139</volume>: <fpage>1285</fpage>&#x02013;<lpage>1295</lpage>
+<pub-id pub-id-type="pmid">22357928</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="embr201745619-cit-0018">
+<string-name>
+<surname>Guo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>La Clair</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Chory</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Noel</surname>
+<given-names>JP</given-names>
+</string-name> (<year>2013</year>) <article-title>Smoke&#x02010;derived karrikin perception by the alpha/beta&#x02010;hydrolase KAI2 from <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>110</volume>: <fpage>8284</fpage>&#x02013;<lpage>8289</lpage>
+<pub-id pub-id-type="pmid">23613584</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="embr201745619-cit-0019">
+<string-name>
+<surname>Yoshida</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ichihashi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shirasu</surname>
+<given-names>K</given-names>
+</string-name> (<year>2016</year>) <article-title>The haustorium, a specialized invasive organ in parasitic plants</article-title>. <source xml:lang="en">Annu Rev Plant Biol</source>
+<volume>67</volume>: <fpage>643</fpage>&#x02013;<lpage>667</lpage>
+<pub-id pub-id-type="pmid">27128469</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="embr201745619-cit-0020">
+<string-name>
+<surname>Conn</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Bythell&#x02010;Douglas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Whittington</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Westwood</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Shirasu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bond</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Dyer</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>DC</given-names>
+</string-name> (<year>2015</year>) <article-title>PLANT EVOLUTION. Convergent evolution of strigolactone perception enabled host detection in parasitic plants</article-title>. <source xml:lang="en">Science</source>
+<volume>349</volume>: <fpage>540</fpage>&#x02013;<lpage>543</lpage>
+<pub-id pub-id-type="pmid">26228149</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="embr201745619-cit-0021">
+<string-name>
+<surname>Tsuchiya</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yoshimura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kuwata</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Toh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holbrook&#x02010;Smith</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>McCourt</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Itami</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kinoshita</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et al</italic> (<year>2015</year>) <article-title>PARASITIC PLANTS. Probing strigolactone receptors in <italic>Striga hermonthica</italic> with fluorescence</article-title>. <source xml:lang="en">Science</source>
+<volume>349</volume>: <fpage>864</fpage>&#x02013;<lpage>868</lpage>
+<pub-id pub-id-type="pmid">26293962</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="embr201745619-cit-0022">
+<string-name>
+<surname>Toh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holbrook&#x02010;Smith</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Stogios</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Onopriyenko</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Lumba</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tsuchiya</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Savchenko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McCourt</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>) <article-title>Structure&#x02010;function analysis identifies highly sensitive strigolactone receptors in <italic>Striga</italic>
+</article-title>. <source xml:lang="en">Science</source>
+<volume>350</volume>: <fpage>203</fpage>&#x02013;<lpage>207</lpage>
+<pub-id pub-id-type="pmid">26450211</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="embr201745619-cit-0023">
+<string-name>
+<surname>Hearne</surname>
+<given-names>SJ</given-names>
+</string-name> (<year>2009</year>) <article-title>Control&#x02013;the <italic>Striga</italic> conundrum</article-title>. <source xml:lang="en">Pest Manag Sci</source>
+<volume>65</volume>: <fpage>603</fpage>&#x02013;<lpage>614</lpage>
+<pub-id pub-id-type="pmid">19301299</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="embr201745619-cit-0024">
+<string-name>
+<surname>Zwanenburg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mwakaboko</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Kannan</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>) <article-title>Suicidal germination for parasitic weed control</article-title>. <source xml:lang="en">Pest Manag Sci</source>
+<volume>72</volume>: <fpage>2016</fpage>&#x02013;<lpage>2025</lpage>
+<pub-id pub-id-type="pmid">26733056</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="embr201745619-cit-0025">
+<string-name>
+<surname>Jamil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kountche</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Haider</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ntui</surname>
+<given-names>VO</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Ali</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hameed</surname>
+<given-names>US</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lyu</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic> (<year>2018</year>) <article-title>Methyl phenlactonoates are efficient strigolactone analogs with simple structure</article-title>. <source xml:lang="en">J Exp Bot</source>
+<volume>69</volume>: <fpage>2319</fpage>&#x02013;<lpage>2331</lpage>
+<pub-id pub-id-type="pmid">29300919</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="embr201745619-cit-0026">
+<string-name>
+<surname>Holbrook&#x02010;Smith</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Toh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tsuchiya</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>McCourt</surname>
+<given-names>P</given-names>
+</string-name> (<year>2016</year>) <article-title>Small&#x02010;molecule antagonists of germination of the parasitic plant <italic>Striga hermonthica</italic>
+</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>12</volume>: <fpage>724</fpage>&#x02013;<lpage>729</lpage>
+<pub-id pub-id-type="pmid">27428512</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="embr201745619-cit-0027">
+<string-name>
+<surname>Xiang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Quan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>T</given-names>
+</string-name> (<year>2017</year>) <article-title>Simple beta&#x02010;lactones are potent irreversible antagonists for strigolactone receptors</article-title>. <source xml:lang="en">Cell Res</source>
+<volume>27</volume>: <fpage>1525</fpage>&#x02013;<lpage>1528</lpage>
+<pub-id pub-id-type="pmid">28820177</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="embr201745619-cit-0028">
+<string-name>
+<surname>Lumba</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holbrook&#x02010;Smith</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>McCourt</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>The perception of strigolactones in vascular plants</article-title>. <source xml:lang="en">Nat Chem Biol</source>
+<volume>13</volume>: <fpage>599</fpage>&#x02013;<lpage>606</lpage>
+<pub-id pub-id-type="pmid">28514432</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="embr201745619-cit-0029">
+<string-name>
+<surname>Pouvreau</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Gaudin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Auger</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lechat</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Gauthier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Delavault</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Simier</surname>
+<given-names>P</given-names>
+</string-name> (<year>2013</year>) <article-title>A high&#x02010;throughput seed germination assay for root parasitic plants</article-title>. <source xml:lang="en">Plant Methods</source>
+<volume>9</volume>: <fpage>32</fpage>
+<pub-id pub-id-type="pmid">23915294</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="embr201745619-cit-0030">
+<string-name>
+<surname>Jeltsch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lanio</surname>
+<given-names>T</given-names>
+</string-name> (<year>2002</year>) <article-title>Site&#x02010;directed mutagenesis by polymerase chain reaction</article-title>. <source xml:lang="en">Methods Mol Biol</source>
+<volume>182</volume>: <fpage>85</fpage>&#x02013;<lpage>94</lpage>
+<pub-id pub-id-type="pmid">11768980</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="embr201745619-cit-0031">
+<string-name>
+<surname>Jamil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Charnikhova</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Houshyani</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>van Ast</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bouwmeester</surname>
+<given-names>HJ</given-names>
+</string-name> (<year>2012</year>) <article-title>Genetic variation in strigolactone production and tillering in rice and its effect on <italic>Striga hermonthica</italic> infection</article-title>. <source xml:lang="en">Planta</source>
+<volume>235</volume>: <fpage>473</fpage>&#x02013;<lpage>484</lpage>
+<pub-id pub-id-type="pmid">21947621</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="embr201745619-cit-0032">
+<string-name>
+<surname>Pai</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Lomenick</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schiestl</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McBride</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Loo</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>Drug affinity responsive target stability (DARTS) for small&#x02010;molecule target identification</article-title>. <source xml:lang="en">Methods Mol Biol</source>
+<volume>1263</volume>: <fpage>287</fpage>&#x02013;<lpage>298</lpage>
+<pub-id pub-id-type="pmid">25618353</pub-id></mixed-citation></ref><ref id="embr201745619-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="embr201745619-cit-0033">
+<string-name>
+<surname>Franke</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Petoukhov</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Konarev</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name>
+<surname>Panjkovich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tuukkanen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mertens</surname>
+<given-names>HDT</given-names>
+</string-name>, <string-name>
+<surname>Kikhney</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Hajizadeh</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Jeffries</surname>
+<given-names>CM</given-names>
+</string-name>
+<italic>et al</italic> (<year>2017</year>) <article-title>ATSAS 2.8: a comprehensive data analysis suite for small&#x02010;angle scattering from macromolecular solutions</article-title>. <source xml:lang="en">J Appl Crystallogr</source>
+<volume>50</volume>: <fpage>1212</fpage>&#x02013;<lpage>1225</lpage>
+<pub-id pub-id-type="pmid">28808438</pub-id></mixed-citation></ref></ref-list></back></article>

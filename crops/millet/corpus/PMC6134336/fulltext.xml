@@ -1,0 +1,556 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?subarticle report33712?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Wellcome Open Res</journal-id><journal-id journal-id-type="iso-abbrev">Wellcome Open Res</journal-id><journal-id journal-id-type="pmc">Wellcome Open Res</journal-id><journal-title-group><journal-title>Wellcome Open Research</journal-title></journal-title-group><issn pub-type="epub">2398-502X</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6134336</article-id><article-id pub-id-type="doi">10.12688/wellcomeopenres.14687.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Analgesia linked to Nav1.7 loss of function requires &#x000b5;- and &#x003b4;-opioid receptors</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Pereira</surname><given-names>Vanessa</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Visualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5416-6856</contrib-id><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Millet</surname><given-names>Queensta</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Aramburu</surname><given-names>Jose</given-names></name><role content-type="http://credit.casrai.org/">Resources</role><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Lopez-Rodriguez</surname><given-names>Cristina</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Resources</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Gaveriaux-Ruff</surname><given-names>Claire</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Resources</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3523-8102</contrib-id><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a3">3</xref></contrib><contrib contrib-type="author"><name><surname>Wood</surname><given-names>John N.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9166-8158</contrib-id><xref ref-type="corresp" rid="c2">b</xref><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1">
+<label>1</label>Molecular Nociception Group, WIBR, University College London, Gower Street, WC1E 6BT, UK</aff><aff id="a2">
+<label>2</label>Immunology Unit, Department of Experimental and Health Sciences, Universitat Pompeu Fabra, Carrer Doctor Aiguader No88, 08003 Barcelona, Spain</aff><aff id="a3">
+<label>3</label>Institut de G&#x000e9;n&#x000e9;tique et de Biologie Mol&#x000e9;culaire et Cellulaire, Universit&#x000e9; de Strasbourg, Centre National de la Recherche Scientifique , UMR7104, INSERM U1258, Ecole Sup&#x000e9;rieure de Biotechnologie de Strasbourg, Ilkirch, Strasbourg, France</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:Gaveriau@igbmc.fr">Gaveriau@igbmc.fr</email></corresp><corresp id="c2"><label>b</label><email xlink:href="mailto:J.wood@ucl.ac.uk">J.wood@ucl.ac.uk</email></corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>16</day><month>8</month><year>2018</year></pub-date><pub-date pub-type="collection"><year>2018</year></pub-date><volume>3</volume><elocation-id>101</elocation-id><history><date date-type="accepted"><day>7</day><month>8</month><year>2018</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2018 Pereira V et al.</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="wellcomeopenres-3-15991.pdf"/><abstract><p>
+<bold>Background: </bold>Functional deletion of the
+<italic>Scn9a</italic> (sodium voltage-gated channel alpha subunit 9) gene encoding sodium channel Nav1.7 makes humans and mice pain-free. Opioid signalling contributes to this analgesic state. We have used pharmacological and genetic approaches to identify the opioid receptors involved in this form of analgesia. We also examined the regulation of proenkephalin expression by the transcription factor Nfat5 that binds upstream of the
+<italic>Penk</italic> gene.</p><p>
+<bold>Methods: </bold>We used specific &#x000b5;-, &#x003b4;- and &#x003ba;-opioid receptor antagonists alone or in combination to examine which opioid receptors were necessary for Nav1.7 loss-associated analgesia in mouse behavioural assays of thermal pain. We also used &#x000b5;- and &#x003b4;-opioid receptor null mutant mice alone and in combination in behavioural assays to examine the role of these receptors in
+<italic>Nav1.7</italic> knockouts pain free phenotype. Finally, we examined the levels of
+<italic>Penk</italic> mRNA in
+<italic>Nfat5</italic>-null mutant mice, as this transcription factor binds to consensus sequences upstream of the
+<italic>Penk</italic> gene.</p><p>
+<bold>Results:</bold> The pharmacological block or deletion of both &#x000b5;- and &#x003b4;-opioid receptors was required to abolish
+<italic>Nav1.7</italic>-null opioid-related analgesia. &#x003ba;-opioid receptor antagonists were without effect. Enkephalins encoded by the
+<italic>Penk </italic>gene are upregulated in
+<italic>Nav1.7</italic> nulls. Deleting
+<italic>Nfat5</italic>, a transcription factor with binding motifs upstream of
+<italic>Penk</italic>, induces the same level of enkephalin mRNA expression as found in
+<italic>Nav1</italic>
+<italic>.7</italic> nulls, but without consequent analgesia. These data confirm that a combination of events linked to
+<italic>Scn9a</italic> gene loss is required for analgesia. Higher levels of endogenous enkephalins, potentiated opioid receptors, diminished electrical excitability and loss of neurotransmitter release together contribute to the analgesic phenotype found in
+<italic>Nav1.7</italic>-null mouse and human mutants.</p><p>
+<bold>Conclusions:</bold> These observations help explain the failure of Nav1.7 channel blockers alone to produce analgesia and suggest new routes for analgesic drug development.</p></abstract><kwd-group kwd-group-type="author"><kwd>Nav1.7 channel</kwd><kwd>opioid receptors</kwd><kwd>pain</kwd><kwd>analgesia</kwd><kwd>behaviour</kwd></kwd-group><funding-group><award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/501100000341"><funding-source>Arthritis Research UK</funding-source><award-id>20200</award-id></award-group><award-group id="fund-2" xlink:href="http://dx.doi.org/10.13039/501100000265"><funding-source>Medical Research Council</funding-source><award-id>G0901905</award-id></award-group><award-group id="fund-3" xlink:href="http://dx.doi.org/10.13039/100004440"><funding-source>Wellcome Trust</funding-source><award-id>200183</award-id><award-id>101054</award-id></award-group><funding-statement>This work was funded by the Wellcome Trust (grants 101054 and 200183), the Meidcal Research Council (grant G0901905) and Arthritis Research UK (grant 20200).</funding-statement><funding-statement><italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic></funding-statement></funding-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Pain is numerically the greatest clinical challenge of the age, affecting about half the population, whilst 7% of people have debilitating pain conditions
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup>. Finding new analgesic targets and drugs has proved challenging. One approach has been to identify the genes involved in human monogenic loss of pain conditions
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. The association of human gain-of-function mutations in Nav1.7 with enhanced pain phenotypes, and the pain-free state linked to loss of Nav1.7 expression focused considerable attention on this voltage-gated sodium channel as a potential analgesic drug target
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. Nav1.7 is found in damage-sensing peripheral sensory neurons, sympathetic neurons and CNS structures like the hypothalamus, as well as in non-neuronal locations such as the pancreas. Deletion in all sensory neurons and sympathetic neurons abolishes acute, inflammatory and neuropathic pain, although some pain disorders such as oxaliplatin-evoked cold allodynia are retained
+<sup><xref rid="ref-4" ref-type="bibr">4</xref>,
+<xref rid="ref-5" ref-type="bibr">5</xref></sup>.</p><p>As human and mouse
+<italic>Nav1.7</italic>-null mutants are effectively pain-free, this channel should be an excellent analgesic drug target
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. However, channel blockers are very weak analgesics
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-7" ref-type="bibr">7</xref></sup>. This is likely due to the fact that partial channel blocking cannot recapitulate the many physiological effects of gene deletion. This explanation is supported by experiments that show that only 100% channel block with very high dose tetrodotoxin can recapitulate some effects of gene deletion
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. In null mutants, neurotransmitter release is diminished, and synaptic integration is also diminished. In addition, the opioid peptide enkephalins are upregulated in the absence of Nav1.7, and opioid receptor signalling is potentiated. Both of these latter events may be linked to loss of sodium ingress through Nav1.7
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>.</p><p>Consistent with an opioid component of analgesia, the opioid antagonist naloxone substantially reverses
+<italic>Nav1.7</italic> loss-associated pain free phenotype
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. We wondered which opioid receptors were involved in this process. Here, using pharmacological studies and opioid receptor knockout mice, we show that both &#x000b5;-opioid receptors (MORs) and &#x003b4;-opioid receptors (DORs) contribute to
+<italic>Nav1.7</italic>-null mutant analgesia and deleting both receptors mimics the effects of naloxone on
+<italic>Nav1.7</italic>-null analgesia in mice. In addition, we show that elevating enkephalin mRNA levels in NFAT5 null mutant mice similar to those found in
+<italic>Nav1.7</italic> nulls is not alone sufficient to cause measurable analgesia.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Animals</title><p>
+<italic>Nav1.7</italic> floxed mice were generated as described
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. Specific deletion of
+<italic>Scn9a</italic> exons 14 and 15 was performed by crossing
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup> mice with
+<italic>Wnt1-Cre</italic>
+<sup>tg/0</sup> hemizygous transgenic mice purchased from Jackson Labs (129S4.Cg-Tg(Wnt1-cre)2Sor/J, Stock No: 022137). F1 offspring were crossed to obtain
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>tg/0</sup> and further bred with either
+<italic>MOR</italic>
+<sup>-/-</sup> or
+<italic>DOR</italic>
+<sup>-/-</sup> mice. Previously reported
+<italic>MOR</italic>- and
+<italic>DOR</italic>-null mutants were used
+<sup><xref rid="ref-10" ref-type="bibr">10</xref>,
+<xref rid="ref-11" ref-type="bibr">11</xref></sup>. We obtained
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>MOR</italic>
+<sup>-/-</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>tg/0</sup> and
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>DOR</italic>
+<sup>-/-</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>tg/0.</sup> Finally, triple mutants carrying either
+<italic>MOR</italic> or
+<italic>DOR</italic> homozygous deletions were crossed in order to generate
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>MOR</italic>
+<sup>-/-</sup>:
+<italic>DOR</italic>
+<sup>-/-</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>tg/0</sup>. For all mouse lines, homozygous mutants were compared to Wnt1-Cre-negative animals. For clarity,
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>DOR</italic>
+<sup>+/+</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>0/0</sup> are named in this article Nav1.7 WT / DOR WT;
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>DOR</italic>
+<sup>+/+</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>tg/0</sup>, Nav1.7 KO / DOR WT;
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>DOR</italic>
+<sup>-/-</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>0/0</sup>, Nav1.7 wt / DOR KO; and finally
+<italic>Nav1.7</italic>
+<sup>flox/flox</sup>:
+<italic>DOR</italic>
+<sup>-/-</sup>:
+<italic>Wnt1-Cre</italic>
+<sup>tg/0</sup>, Nav1.7 KO / DOR KO. The same simplification was applied for all the genotypes.
+<italic>Nfat5</italic> floxed mice were generated by Dr Cristina L&#x000f3;pez-Rodriguez (Barcelona, Spain)
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>.</p><p>Experiments were conducted using both male and female mice, which were between 8 and 12 weeks old at the time of experiments. Animals were housed up to five per cage, in a temperature-controlled room with a 12-h light&#x02013;dark cycle. Food and water were available
+<italic>ad libitum</italic>. Genotyping was carried out on genomic DNA extracted from ear notches and PCR was conducted as described
+<sup><xref rid="ref-9" ref-type="bibr">9</xref>&#x02013;
+<xref rid="ref-11" ref-type="bibr">11</xref></sup>. Mice were euthanized by gradual-fill CO
+<sub>2</sub> gas followed by cervical dislocation at the end of experiments. A tail sample was further collected to confirm the genotype. Sample size for each experiment was established according to the literature. A total of 143 animals were used for the present work.</p></sec><sec><title>Behavioural testing</title><p>Animal experiments were approved by the UK Home Office and UCL ethics committee Act 1986 with prior approval under a Home Office project licence (PPL 70/7382). Mice were acclimatized to the experimental room and were handled during a period of 1 week before starting the experiments. Observers who performed behavioural experiments were blinded to the genotype. All behaviour experiments were conducted between 14h and 18h. For the Hargreaves thermal test, the animal's hindpaw was exposed to an intense light beam and the withdrawal latency recorded manually using the Hargreaves&#x02019; apparatus (Ugo Basile)
+<sup><xref rid="ref-13" ref-type="bibr">13</xref></sup>. For the Randall Selitto test, a blunt probe was used to apply force approximately midway along the tail (Ugo Basile)
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup>. For the hot plate test, animals were exposed to a 55&#x000b0;C chamber floor and the withdrawal latency recorded
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>.</p></sec><sec><title>Drugs</title><p>
+<italic>In vivo experiments</italic>. Naloxone, Naltrindole hydrochloride (NTI), CTOP and nor-Binaltorphimine dihydrochloride (norBNI) were purchased from Sigma, UK and dissolved in saline; they were respectively administered 30 min, 30 min, 15 min and 60 min, before performing behavioural experiments. Unless specified, all drugs were injected intraperitoneally at the dose described in the figure legend (typically, 2 mg/kg for naloxone, 5 mg/kg for NTI, 1.5 mg/kg for CTOP and 10 mg/kg for norBNI).</p><p>
+<italic>In vitro experiments.</italic> Monensin, TTX and Veratridine (Sigma, UK) were respectively dissolved in ethanol, saline and DMSO. Ionomycin (Molecular Probes) was resuspended in DMSO. Monensin at 500 nM was incubated with DRG neurons for 30 or 60 min. TTX at 500 nM and Veratridine at 1 &#x000b5;M were incubated 6h before harvesting the cells. For controls, the same volumes of vehicle were used. Same concentration of Monensin, TXT and Veratridine were applied in live cell imaging experiments, ionomycin was used at 200 nM.</p></sec><sec><title>DRG neuron cultures</title><p>DRG from all spinal levels were harvested and dissociated as described
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup>. Dissociated neurons were plated on poly-L-lysine- and laminin-coated 35-mm plastic dishes (Nunc, Denmark). Incubation with drugs was started at least 24 h after dissociation. Monensin (Sigma, UK, in 100% ethanol), TTX (Sigma, UK, in extracellular solution) or Veratridine (Sigma, UK, DMSO) were used at concentrations described in the figure legends before RNA extraction and quantification. For each experiment, control DRG neurons were treated with the appropriate vehicle.</p></sec><sec><title>Quantitative PCR</title><p>For fresh DRG analysis, DRG from lumbar segments L4, L5 and L6 were harvested and pooled. For DRG cultures, cells were collected after incubation with the drug and concentrated by centrifugation. RNA was extracted using TRIzol&#x000ae; Reagent (Invitrogen) according to the manufacturer&#x02019;s instructions. Reverse transcription was performed using iScript&#x02122; Reverse Transcription Supermix (Bio-Rad) for RT-qPCR following the Bio-Rad supplied protocol. cDNA amplification was performed in triplicate, using SsoAdvanced&#x02122; Universal SYBR&#x000ae; Green Supermix (Bio-Rad) with the following primers;
+<italic>Penk:</italic> forward 5&#x02019; TTCAGCAGATCGGAGGAGT 3&#x02019;, reverse 5&#x02019; AGAAGCGAACGGAGGAGAC 3&#x02019;;
+<italic>Nav1.7</italic> ex 7 forward 5&#x02019; TTTCCGGAAGGACCTTGAGC 3&#x02019;, reverse CTGCCCTGAATCTGTGCTGA;
+<italic>Nav1.7</italic> ex 14 forward 5&#x02019; GAGCACCATCCAATGACGGA 3&#x02019;, reverse 5&#x02019; TTCAGCTGCGAAGATCCCTG 3&#x02019;;
+<italic>Nfat5</italic> ex 3-4 forward 5&#x02019; AGTCAGACAAGCGGTGGTGA 3&#x02019;, reverse 5&#x02019; CAGACACTCCCTGCTTCAGAG 3&#x02019;;
+<italic>Nfat5</italic> ex 6-7 forward 5&#x02019; TTGCAGACACCTTCTTCCCC 3&#x02019;, reverse 5&#x02019; CTCTCCTTTCACTGAACAGCTA 3&#x02019;;
+<italic>Gapdh</italic> forward 5&#x02019; TGCGACTTCAACAGCAACTC 3&#x02019;, reverse 5&#x02019; CTTGCTCAGTGTCCTTGCTG 3&#x02019;. Amplification were conducted with the following program: 3 min at 95&#x000b0;C, 40 cycles of 60&#x000b0;C for 10 sec, 72&#x000b0;C for 10 sec, 95&#x000b0;C for 10 sec, and finally a melting curve for 10 min from 66&#x000b0;C to 100&#x000b0;C.</p><p>DNA amplification was quantified with a Bio-Rad CFX Connect&#x02122; Real-Time PCR Detection System thermocycler. The expression level of target genes was normalized to housekeeping gene mRNA (
+<italic>Gapdh</italic>). Fold changes were determined using the 2
+<sup>&#x02212;&#x00394;&#x00394;Ct</sup> equation
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>, in which wild-type littermate or vehicle-treated cultured DRG cDNA samples were designated as the calibrator. The data presented are given as the mean of the fold changes.</p></sec><sec><title>Live cell imaging</title><p>For Na
+<sup>+</sup> imaging, neurons were loaded for 30 min with 5 &#x000b5;M of SBFI in serum free DMEM, and then washed with extracellular solution (140 mM NaCl, 3 mM KCl, 10 mM HEPES, 10 mM D-Glucose, 2 mM CaCl
+<sub>2</sub>, 1 mM MgCl
+<sub>2</sub>, pH 7.4 adjusted with KOH, Osmolarity 300 mOsm adjusted with D-Glucose). Cells were alternately excited at 340 and 380 nm and emissions at 510 nm collected separately to determine 340/380 nm ratio. Calibration of [Na
+<sup>+</sup>]
+<sub>i</sub> was performed by exposing SBFI-loaded DRG neurons to different extracellular solutions with specific Na
+<sup>+</sup> concentration for 30 min (in the additional presence of 3 &#x000b5;M gramicidin D for equilibrium between intracellular and extracellular Na+ concentration). For Ca
+<sup>2+</sup> imaging, cells were loaded with 1 &#x000b5;M of Fura-2 for 30 min and alternatively excited at 340 and 380 nm. Results were expressed using the ratio of the 340 nm/380 nm wavelengths.</p></sec><sec><title>Statistical analysis</title><p>Data were analysed using GraphPad Prism 7 (GraphPad Software Inc., San Diego, CA) and presented as mean &#x000b1; SEM. Statistically significant differences between two groups were assessed by two-tailed unpaired t-test. p&#x0003c;0.05 was considered significant. Statistically significant differences between more than two groups were assessed by one-way ANOVA or two-way ANOVA for respectively non-repeated and repeated measures, followed by the post hoc test indicated in the figure legend. p&#x0003c;0.05 was considered significant. Statistical tests performed for a given experiment are described in figure legends.</p><p>An earlier version of this article can be found on bioRxiv (DOI:
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1101/297184">https://doi.org/10.1101/297184</ext-link>).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Effects of MOR deletion on pain perception</title><p>We first examined the role of MORs in
+<italic>Nav1.7</italic>-null-associated analgesia (
+<xref ref-type="fig" rid="f1">Figure 1A, B</xref>).
+<italic>Nav1.7</italic>-null mutant mice show dramatic thermal analgesia. Global deletion of
+<italic>MOR</italic> on a
+<italic>Nav1.7</italic>-null background had a small effect on acute heat pain behaviour (
+<xref ref-type="fig" rid="f1">Figure 1A</xref>). This effect did not match the effects of naloxone, which substantially diminished analgesia (
+<xref ref-type="fig" rid="f1">Figure 1B</xref>). Consistent with this, naloxone further diminished the analgesic phenotype of
+<italic>Nav1.7</italic>/
+<italic>MOR</italic> double-mutant mice, demonstrating that MORs alone do not account for the opioid-mediated component of Nav1.7-null-associated analgesia (
+<xref ref-type="fig" rid="f1">Figure 1B</xref>).</p><fig fig-type="figure" id="f1" orientation="portrait" position="anchor"><label>Figure 1. </label><caption><title>&#x000b5;-opioid receptor (MOR) or &#x003b4;-opioid receptor (DOR) deletion is not sufficient to reduce
+<italic>Nav1.7</italic> knockout (KO) pain sensitivity.</title><p>(
+<bold>A</bold>) Noxious thermal stimulation of Nav1.7 WT/MOR WT (white), Nav1.7 KO/MOR WT (red), Nav1.7 WT/MOR KO (blue) and Nav1.7 KO/MOR KO (purple) mouse hindpaw using Hargreave's apparatus (n=5&#x02013;9 per group). (
+<bold>B</bold>) Hindpaw withdrawal latency 20 min after naloxone administration (2 mg/kg, i.p). The grey bars represent noxious thermal withdrawal latency baselines merged with latency measured 20 min after naloxone to facilitate comparison between pre and post drug injection pain-related behaviour. The same representation of baselines by grey bars has been applied for all behavioural experiments. Results are presented as means &#x000b1; SEM. Data were analysed by one-way ANOVA followed by Dunnett's post hoc test (
+<bold>A</bold>) or two-way ANOVA followed by Bonferroni post hoc test (
+<bold>B</bold>). * p&#x0003c;0.05 ** p&#x0003c;0.01 vs Nav1.7 WT/MOR WT; # p&#x0003c;0.05 vs own baseline). (
+<bold>C</bold>) Noxious thermal stimulation of Nav1.7 WT/DOR WT (white), Nav1.7 KO/DOR WT (red), Nav1.7 WT/DOR KO (yellow) and Nav1.7 KO/DOR KO (orange) mice (n=8 per group). (
+<bold>D</bold>) Hindpaw withdrawal latency 20 min after naloxone administration (2 mg/kg, i.p.). (
+<bold>E</bold>) Thermal withdrawal latency after a combination of the MOR antagonist CTOP (1.5 mg/kg, i.p.) and the kappa antagonist norbinaltorphimine (norBNI) (10 mg/kg, i.p.,) injected respectively 15 and 60 min before the test. (
+<bold>F</bold>) Effect of CTOP and (
+<bold>G</bold>) norBNI on mouse hindpaw withdrawal latency using Hargreave's test (administrated 15 min or 60 min before recording the latency). Results are presented as mean &#x000b1; SEM. Data were analysed by one-way ANOVA followed by Dunnett's post hoc test (
+<bold>C</bold>) or two-way ANOVA followed by the Bonferroni post hoc test (
+<bold>D</bold>&#x02013;
+<bold>G</bold>). * p&#x0003c;0.05 ** p&#x0003c;0.01 and *** p&#x0003c;0.001 vs Nav1.7 WT / DOR WT, # p&#x0003c;0.05 ## p&#x0003c;0.01 and ### p&#x0003c;0.001 vs own baseline.</p></caption><graphic xlink:href="wellcomeopenres-3-15991-g0000"/></fig></sec><sec><title>Effects of DOR deletion on pain perception</title><p>Next, we tested the effect of deleting
+<italic>DOR</italic> on
+<italic>Nav1.7</italic>-null pain behaviour
+<sup><xref rid="ref-10" ref-type="bibr">10</xref></sup>. Once again, there was a small diminution in analgesia compared to
+<italic>Nav1.7</italic>-null mice (
+<xref ref-type="fig" rid="f1">Figure 1C</xref>). Naloxone further diminished the analgesic phenotype of the
+<italic>Nav1.7</italic>/
+<italic>DOR</italic> double-null mutants (
+<xref ref-type="fig" rid="f1">Figure 1D</xref>), demonstrating that DORs alone do not account for the opioid-mediated component of
+<italic>Nav1.7</italic>-null-associated analgesia. However, when the potent selective MOR antagonist CTOP was applied to DOR receptor-null mice
+<sup><xref rid="ref-18" ref-type="bibr">18</xref></sup>, the analgesia associated with Nav1.7 deletion was reduced by the same level as with naloxone (
+<xref ref-type="fig" rid="f1">Figure 1F</xref>). CTOP and the &#x003ba;-opioid receptor (KOR) antagonist norbinaltorphimine (norBNI)
+<sup><xref rid="ref-19" ref-type="bibr">19</xref></sup> together also had the same effect as naloxone when applied to a
+<italic>Nav1.7</italic>/
+<italic>DOR</italic> double-null animal (
+<xref ref-type="fig" rid="f1">Figure 1E</xref>). However, norBNI on a
+<italic>Nav1.7</italic>/
+<italic>DOR</italic> null background was without effect (
+<xref ref-type="fig" rid="f1">Figure 1G</xref>). These data show that KORs do not mediate analgesia in
+<italic>Nav1.7</italic>-null mutants, but pharmacological block of MOR on a
+<italic>DOR</italic>-null background can account for all opioid-mediated analgesia.</p></sec><sec><title>Effects of double MOR/DOR deletion on pain perception</title><p>To provide further evidence that both MOR and DOR contribute to opioid-mediated analgesia in
+<italic>Nav1.7</italic> nulls, we generated double opioid receptor null mutant mice on a
+<italic>Nav1.7</italic> null background. Double
+<italic>MOR</italic>/
+<italic>DOR</italic> knockouts on a
+<italic>Nav1.7</italic>-null background showed exactly the same loss of analgesia as that caused by naloxone in
+<italic>Nav1.7</italic> knockout mice (
+<xref ref-type="fig" rid="f2">Figure 2A, B</xref>). Application of MOR, DOR and KOR antagonists
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup> together did the same (
+<xref ref-type="fig" rid="f2">Figure 2D</xref>), although the KOR antagonist norBNI alone showed no statistically significant effect, confirming that KOR activation did not contribute to analgesia (
+<xref ref-type="fig" rid="f2">Figure 2C</xref>). These pharmacological and genetic studies demonstrate that MOR and DOR together account for opioid-mediated analgesia in
+<italic>Nav1.7</italic>-null mutant mice.</p><fig fig-type="figure" id="f2" orientation="portrait" position="anchor"><label>Figure 2. </label><caption><title>Deletion of both MOR and DOR mimics Naloxone effects on Nav1.7 knockout (KO) pain thresholds.</title><p>(
+<bold>A</bold>) Noxious thermal stimulation of Nav1.7 wild type (WT)/DOR x MOR WT (white), Nav1.7 KO/DOR x MOR WT (red), Nav1.7 WT/DOR x MOR KO (green) and Nav1.7 KO/DOR x MOR KO (black) mice hindpaw using Hargreave's apparatus (n=7&#x02013;8 per group). (
+<bold>B</bold>) Hindpaw withdrawal latency 20 min after naloxone administration (2 mg/kg, i.p., saline). The grey bars represent noxious thermal withdrawal latency baselines merged with latency measured 20 min after naloxone to facilitate comparison between pre and post drug injection pain-related behaviour. (
+<bold>C</bold>) Thermal withdrawal latency after administration of norbinaltorphimine (norBNI) (10 mg/kg, i.p.) injected 60 min before the test. Results are presented as mean &#x000b1; SEM. No statistically significant effect was seen. Data were analysed by one-way ANOVA followed by Dunnett's post hoc test (
+<bold>A</bold>) or two-way ANOVA followed by the Bonferroni post hoc test (
+<bold>B</bold> and
+<bold>C</bold>). ** p&#x0003c;0.01 and *** p&#x0003c;0.001 vs Nav1.7 WT/DOR x MOR WT; # p&#x0003c;0.05 vs own baseline; &#x02022;&#x02022;&#x02022; p&#x0003c;0.001 vs Nav1.7 WT/DOR x MOR KO. (
+<bold>D</bold>) Hindpaw withdrawal latency after administration of a combination of CTOP (2 mg/kg, i.p., saline, injected 15 min before the test), NTI (5 mg/kg, s.c., 30 min before test) and norBNI (10 mg/kg, i.p. 60 min before test) in WT (white bars) or Nav1.7 KO mice (red bars). Co-injection of MOR, DOR and &#x003ba;-opioid receptor antagonists restores Nav1.7 KO thermal sensitivity. Results are presented as mean &#x000b1; SEM. Data were analysed by two-way ANOVA followed by the Bonferroni post hoc test. *** p&#x0003c;0.001 vs Nav1.7 WT; ### p&#x0003c;0.001 vs baseline.</p></caption><graphic xlink:href="wellcomeopenres-3-15991-g0001"/></fig></sec><sec><title>Assessing the effect of sodium levels on
+<italic>Nav1.7</italic> and
+<italic>Nfat5</italic> transcription</title><p>Elevated levels of enkephalins are found in
+<italic>Nav1.7</italic>-null mutant mice
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. Notably, there are five consensus binding sites for the transcription factor Nfat5 upstream of the
+<italic>Penk</italic> coding region. Nfat5 recognizes DNA elements similar to those bound by Nfatc proteins
+<sup><xref rid="ref-21" ref-type="bibr">21</xref></sup>. As Nfat5 activity is regulated by hyper-osmolarity and salt kinases
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>, there is a potential link between sodium ingress through Nav1.7 and transcriptional regulation. We manipulated sodium levels in sensory neuron cultures using either monensin as a sodium ionophore (control [Na
+<sup>+</sup>] 6.65 mM, SEM 0.27; [Na
+<sup>+</sup>] monensin 9.46 mM, SEM 0.44; n = 19;) or veratridine as an activator of voltage-gated sodium channels (control [Na
+<sup>+</sup>] 5.5 mM, SEM 0.25; [Na
+<sup>+</sup>] veratridine 7.6 mM, SEM 0.41; n = 9) to increase sodium levels, and very high doses of tetrodotoxin (TTX) (500 nM) to block voltage-gated sodium channel activity and potentially lower intracellular sodium (
+<xref ref-type="other" rid="SF1">Supplementary File 1</xref>). Notably, agents that alter intracellular sodium concentrations impact similarly on
+<italic>Nav1.7</italic> and
+<italic>Nfat5</italic> mRNA levels. Monensin (
+<xref ref-type="fig" rid="f3">Figure 3A</xref>) lowered both
+<italic>Penk</italic> and
+<italic>Nfat5</italic> mRNA levels, whilst TTX elevated them (
+<xref ref-type="fig" rid="f3">Figure 3B</xref>). The TTX effect was apparent in wild-type mice, but not in
+<italic>Nav1.7</italic> nulls, implying that this channel is the locus of action for
+<italic>Penk</italic> mRNA control by TTX (
+<xref ref-type="fig" rid="f3">Figure 3C, D</xref>).</p><fig fig-type="figure" id="f3" orientation="portrait" position="anchor"><label>Figure 3. </label><caption><title>Both
+<italic>Penk</italic> and
+<italic>Nfat5</italic> expression are regulated by intracellular sodium concentration.</title><p>(
+<bold>A</bold>)
+<italic>Penk</italic> and
+<italic>Nfat5</italic> expression levels in cultured DRG neurons treated with monensin (500 nM, 30 and 60 min, respectively, light and dark blue bars). Control neurons (white bar) were treated with vehicle (ethanol) for 60 min. (
+<bold>B</bold>)
+<italic>Penk</italic> and
+<italic>Nfat5</italic> mRNA quantification in cultured DRG neurons treated with tetrodotoxin (TTX) (500 nM, 6 h). Control neurons received same volume of saline solution for 6 h (red bar). (
+<bold>C</bold>)
+<italic>Penk</italic> and (
+<bold>D</bold>)
+<italic>Nfat5</italic> transcripts levels in wild-type (WT) compared to Nav1.7 knockout (KO) DRG neurons treated by TTX (500 nM, 6h). TTX induced
+<italic>Penk</italic> overexpression is correlated with
+<italic>Nfat5</italic> expression level, both are dependant of Nav1.7. (
+<bold>E</bold>)
+<italic>Penk</italic> and (
+<bold>F</bold>)
+<italic>Nfat5</italic> expression in WT and Nav1.7 KO cultured DRG neurons treated with veratridine (1 &#x000b5;M, 6h). Results are presented as mean &#x000b1; SEM. Data were analysed by two-way ANOVA followed by the Bonferroni post hoc test. * p&#x0003c;0.05 ** p&#x0003c;0.01 and *** p&#x0003c;0.001 vs Nav1.7 WT Vehicle.</p></caption><graphic xlink:href="wellcomeopenres-3-15991-g0002"/></fig></sec><sec><title>Effect of Nav1.7/Nfat5 knockout on pain reception</title><p>Veratridine lowered both
+<italic>Penk</italic> and
+<italic>Nfat5</italic> mRNA levels in wild-type, but not in
+<italic>Nav1.7</italic>-null mutant mice, again linking transcriptional events to Nav1.7 channel activity (
+<xref ref-type="fig" rid="f3">Figure 3E, F</xref>). We examined the role of
+<italic>Nfat5</italic> using conditional
+<italic>Nfat5-Wnt1-Cre</italic> null mutants in sensory neurons of wild-type and
+<italic>Nav1.7</italic>-null mutant mice. Expression levels of
+<italic>Nfat5</italic> and
+<italic>Nav1.7</italic> transcripts in single- and double-mutants were analysed to confirm Cre activity at the floxed loci (
+<xref ref-type="other" rid="SF2">Supplementary File 2</xref>).
+<italic>Nfat5</italic> conditional null mutant mice showed enhanced expression of
+<italic>Penk</italic> mRNA (
+<xref ref-type="fig" rid="f4">Figure 4A</xref>). When the
+<italic>Nfat5</italic>-null mice were crossed with
+<italic>Nav1.7</italic>-null mutants,
+<italic>Penk</italic> mRNA levels further increased (
+<xref ref-type="fig" rid="f4">Figure 4A</xref>). As
+<italic>Nfat5</italic>-null mice have the same levels of
+<italic>Penk</italic> mRNA as
+<italic>Nav1.7</italic>-null mutants, this allowed us to examine the contribution of enhanced opioid peptide expression to the analgesia seen in
+<italic>Nav1.7</italic>-null mutant mice. Opioid signalling in
+<italic>Nav1.7</italic>-null mutants is potentiated in at last two ways. First, there are enhanced levels of enkephalins, and second the opioid receptors have much enhanced activity, as measured indirectly through the quantitation of protein kinase A signalling
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>. There was, perhaps surprisingly, no analgesic effect of elevated enkephalin levels in the
+<italic>Nfat5-</italic>null sensory ganglia. By measuring noxious mechanosensation (
+<xref ref-type="fig" rid="f4">Figure 4B</xref>), thermal thresholds (
+<xref ref-type="fig" rid="f4">Figure 4C</xref>), and noxious heat-induced-pain-related behaviour (
+<xref ref-type="fig" rid="f4">Figure 4D</xref>), the
+<italic>Nfat5</italic>-null enkephalin-induced mice showed normal pain behaviour, compared to
+<italic>Nav1.7</italic>-null mice (
+<xref ref-type="fig" rid="f4">Figure 4</xref>). As opioids clearly play a role in
+<italic>Nav1.7</italic>-null analgesia, as demonstrated by the naloxone effects, this suggests that the enhanced activity of opioid receptors may make a major contribution to
+<italic>Nav1.7</italic>-null opioid-mediated analgesia.</p><fig fig-type="figure" id="f4" orientation="portrait" position="anchor"><label>Figure 4. </label><caption><title>
+<italic>Nfat5</italic> conditional gene deletion induces
+<italic>Penk</italic> overexpression
+<italic>in vivo</italic> without eliciting a pain-insensitive phenotype.</title><p>(
+<bold>A</bold>) Expression levels of
+<italic>Penk</italic> transcript in Nav1.7 WT/NFAT5 wild type (WT) (white bar), Nav1.7 knockout (KO)/NFAT5 WT (red bar), Nav1.7 WT/NFAT5 KO (light grey) and Nav1.7 KO/NFAT5 KO mice (dark grey). (
+<bold>B</bold>) Noxious mechanical pressure threshold of the same four mice lines using the Randall-Selitto apparatus. (
+<bold>C</bold>) Noxious thermal stimulation of Nav1.7 WT/NFAT5 WT (white bar), Nav1.7 KO/NFAT5 WT(red bar), Nav1.7 WT/NFAT5 KO (light grey) and Nav1.7 KO/NFAT5 KO mice (dark grey) mice hindpaw using Hargreave's apparatus (n=7&#x02013;10 per groups). (
+<bold>D</bold>) Response to noxious thermal stimulation by using the hotplate test at 55&#x000b0;C. Results are presented as mean &#x000b1; SEM. Data were analysed by one-way ANOVA followed by the Dunnett&#x02019;s post hoc test. * p&#x0003c;0.05 ** p&#x0003c;0.01 and *** p&#x0003c;0.001 vs Nav1.7 WT/NFAT5 WT.</p></caption><graphic xlink:href="wellcomeopenres-3-15991-g0003"/></fig><p>All raw data are available on OSF
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup>.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>What are the implications of these findings for drug development? Firstly, the complexity of physiological changes that occur in
+<italic>Nav1.7</italic>-null mice is striking. Receptors (e.g. 5HTr4) and transcription factors (e.g. Runx1) implicated in nociception are dysregulated
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>, opioid peptide expression is increased
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup> and opioid signalling is potentiated
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>, whilst electrical excitability
+<sup><xref rid="ref-25" ref-type="bibr">25</xref></sup> and integration of nociceptive stimuli is lost
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. There is evidence that these events require the complete loss of Nav1.7 function, as occurs in null mutants. For example, only complete channel blockade with very high doses of TTX can induce increased
+<italic>Penk</italic> mRNA expression
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. Should small-molecule-specific Nav1.7 antagonists be able to replicate all these events then they would be excellent analgesics. All the evidence thus far demonstrates that this is not the case, and the necessarily partial blockade of Nav1.7 does not cause analgesia
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. Molecules with limited specificity, like Biogen&#x02019;s BIIB074, are good analgesics, but much of their activity likely results from blockade of sodium channels other than Nav1.7
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>.</p><p>The role of MOR and DOR and the lack of a role for KOR in
+<italic>Nav1.7</italic>-null analgesia fit with recent data. There is evidence for MOR&#x02013;DOR interactions in nociceptive sensory neurons
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup>, and primates express MOR&#x02013;DOR heteromultimers as targets of opioid analgesia
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>. As
+<italic>Nav1.7</italic> deletion in peripheral nervous system-dependent Cre mice causes analgesia, then the actions on opioid receptors must occur either on primary sensory neurons, or on their synaptic targets within the spinal cord. Evidence that co-administration of opioids with Nav1.7 antagonists can have synergistic therapeutic effects has been demonstrated with a number of specific Nav1.7 antagonists. However, human proof-of-concept studies on synergistic analgesia with Nav1.7 antagonists and opioids have yet to be published. The evidence for potentiation of opioid receptor signalling in
+<italic>Nav1.7</italic>-null mice is significant
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>. Although diminished electrical excitability may provide the necessary landscape for endogenous opioid effects, it is surprising that elevated enkephalin levels alone do not produce any detectable levels of analgesia in the
+<italic>Nfat5</italic>-null mice. Exogenous administration of enkephalins in humans delivered through gene therapy has useful analgesic effects
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>. The focus is then upon potentiated opioid receptor signalling
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>. There is some evidence linking the ingress of sodium through Nav1.7 to effects on G-protein-coupled receptor (GPCR) activity. Pert and Snyder showed the influence of sodium on opioid receptor activity in 1974, demonstrating that increased sodium concentrations caused diminished agonist binding
+<sup><xref rid="ref-30" ref-type="bibr">30</xref></sup>. Intracellular sodium levels may control this process
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup> and the proximity of Nav1.7 channels to opioid receptors may influence sodium occupancy of these GPCRs
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p><p>In summary, MORs and DORs are required for the opioid component of
+<italic>Nav1.7</italic>-null mutant analgesia. Co administration of MOR/DOR agonists with specific Nav1.7 antagonists may therefore have useful analgesic effects
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. If analgesia depends substantially upon both potentiated receptor activity, as well as increased enkephalin expression, analgesic drug development using small molecules to mimic
+<italic>Nav1.7</italic> gene deletion will be problematic. Nociceptor silencing through CRISPR-mediated gene deletion of
+<italic>Nav1.7</italic> may prove a more tractable analgesic strategy for extreme chronic pain conditions
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup>.</p></sec><sec><title>Data availability</title><p>Raw values in GraphPad Prism files for behavior and expression analysis and raw data for live imaging in Excel file are deposited in OSF:
+<ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.17605/OSF.IO/HWZ6E">https://dx.doi.org/10.17605/OSF.IO/HWZ6E</ext-link>
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup>.</p></sec></body><back><ack><title>Acknowledgements</title><p>We thank David Reiss at IGBMC for providing the colonies of opioid receptor-mutant mice. We thank James Cox, Jing Zhao and members of the Molecular Nociception Group for comments and advice.</p></ack><sec id="SM1" sec-type="supplementary-material"><title>Supplementary material</title><p id="SF1">
+<bold>Supplementary File 1. Live imaging in DRG neurons of sodium and calcium levels.</bold> Live recording of intracellular sodium or calcium variations in DRG neurons in culture upon exposure to either Monensin, TTX, Veratridin or Ionomycin.</p><p>
+<supplementary-material content-type="local-data" id="S0"><media xlink:href="wellcomeopenres-3-15991-s0000.tgz"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></p><p id="SF2">
+<bold>Supplementary File 2. mRNA levels in double
+<italic>Nav1.7</italic><italic>Nfat5</italic> KO.</bold> Confirmation of mice genotype by qPCR.</p><p>
+<supplementary-material content-type="local-data" id="S1"><media xlink:href="wellcomeopenres-3-15991-s0001.tgz"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></p></sec><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nahin</surname><given-names>RL</given-names></name></person-group>:
+<article-title>Estimates of pain prevalence and severity in adults: United States, 2012.</article-title>
+<source><italic>J Pain.</italic></source>
+<year>2015</year>;<volume>16</volume>(<issue>8</issue>):<fpage>769</fpage>&#x02013;<lpage>780</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jpain.2015.05.002</pub-id>
+<!--<pub-id pub-id-type="pmcid">4562413</pub-id>-->
+<?supplied-pmid 26028573?><pub-id pub-id-type="pmid">26028573</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sexton</surname><given-names>JE</given-names></name><name><surname>Cox</surname><given-names>JJ</given-names></name><name><surname>Zhao</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Wood, The Genetics of Pain: Implications for Therapeutics.</article-title>
+<source><italic>Annu Rev Pharmacol Toxicol.</italic></source>
+<year>2018</year>;<volume>58</volume>:<fpage>123</fpage>&#x02013;<lpage>142</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-pharmtox-010617-052554</pub-id>
+<?supplied-pmid 28968191?><pub-id pub-id-type="pmid">28968191</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Emery</surname><given-names>EC</given-names></name><name><surname>Luiz</surname><given-names>AP</given-names></name><name><surname>Wood</surname><given-names>JN</given-names></name></person-group>:
+<article-title>Nav1.7 and other voltage-gated sodium channels as drug targets for pain relief.</article-title>
+<source><italic>Expert Opin Ther Targets.</italic></source>
+<year>2016</year>;<volume>20</volume>(<issue>8</issue>):<fpage>975</fpage>&#x02013;<lpage>983</lpage>.
+<pub-id pub-id-type="doi">10.1517/14728222.2016.1162295</pub-id>
+<!--<pub-id pub-id-type="pmcid">4950419</pub-id>-->
+<?supplied-pmid 26941184?><pub-id pub-id-type="pmid">26941184</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Minett</surname><given-names>MS</given-names></name><name><surname>Nassar</surname><given-names>MA</given-names></name><name><surname>Clark</surname><given-names>AK</given-names></name><etal/></person-group>:
+<article-title>Distinct Nav1.7-dependent pain sensations require different sets of sensory and sympathetic neurons.</article-title>
+<source><italic>Nat Commun.</italic></source>
+<year>2012</year>;<volume>3</volume>: 791.
+<pub-id pub-id-type="doi">10.1038/ncomms1795</pub-id>
+<!--<pub-id pub-id-type="pmcid">3337979</pub-id>-->
+<?supplied-pmid 22531176?><pub-id pub-id-type="pmid">22531176</pub-id></mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Minett</surname><given-names>MS</given-names></name><name><surname>Falk</surname><given-names>S</given-names></name><name><surname>Santana-Varela</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Pain without nociceptors? Nav1.7-independent pain mechanisms.</article-title>
+<source><italic>Cell Rep.</italic></source>
+<year>2014</year>;<volume>6</volume>(<issue>2</issue>):<fpage>301</fpage>&#x02013;<lpage>312</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.celrep.2013.12.033</pub-id>
+<!--<pub-id pub-id-type="pmcid">3969273</pub-id>-->
+<?supplied-pmid 24440715?><pub-id pub-id-type="pmid">24440715</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cox</surname><given-names>JJ</given-names></name><name><surname>Reimann</surname><given-names>F</given-names></name><name><surname>Nicholas</surname><given-names>AK</given-names></name><etal/></person-group>:
+<article-title>An SCN9A channelopathy causes congenital inability to experience pain.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2006</year>;<volume>444</volume>(<issue>7121</issue>):<fpage>894</fpage>&#x02013;<lpage>898</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature05413</pub-id>
+<?supplied-pmid 17167479?><pub-id pub-id-type="pmid">17167479</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deuis</surname><given-names>JR</given-names></name><name><surname>Dekan</surname><given-names>Z</given-names></name><name><surname>Wingerd</surname><given-names>JS</given-names></name><etal/></person-group>:
+<article-title>Pharmacological characterisation of the highly NaV1.7 selective spider venom peptide Pn3a.</article-title>
+<source><italic>Sci Rep.</italic></source>
+<year>2017</year>;<volume>7</volume>: 40883.
+<pub-id pub-id-type="doi">10.1038/srep40883</pub-id>
+<!--<pub-id pub-id-type="pmcid">5247677</pub-id>-->
+<?supplied-pmid 28106092?><pub-id pub-id-type="pmid">28106092</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Minett</surname><given-names>MS</given-names></name><name><surname>Pereira</surname><given-names>V</given-names></name><name><surname>Sikandar</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Endogenous opioids contribute to insensitivity to pain in humans and mice lacking sodium channel Nav1.7.</article-title>
+<source><italic>Nat Commun.</italic></source>
+<year>2015</year>;<volume>6</volume>: 8967.
+<pub-id pub-id-type="doi">10.1038/ncomms9967</pub-id>
+<!--<pub-id pub-id-type="pmcid">4686868</pub-id>-->
+<?supplied-pmid 26634308?><pub-id pub-id-type="pmid">26634308</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nassar</surname><given-names>MA</given-names></name><name><surname>Stirling</surname><given-names>LC</given-names></name><name><surname>Forlani</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Nociceptor-specific gene deletion reveals a major role for Nav1.7 (PN1) in acute and inflammatory pain.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2004</year>;<volume>101</volume>(<issue>34</issue>):<fpage>12706</fpage>&#x02013;<lpage>12711</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.0404915101</pub-id>
+<!--<pub-id pub-id-type="pmcid">515119</pub-id>-->
+<?supplied-pmid 15314237?><pub-id pub-id-type="pmid">15314237</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Filliol</surname><given-names>D</given-names></name><name><surname>Ghozland</surname><given-names>S</given-names></name><name><surname>Chluba</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Mice deficient for delta- and mu-opioid receptors exhibit opposing alterations of emotional responses.</article-title>
+<source><italic>Nat Genet.</italic></source>
+<year>2000</year>;<volume>25</volume>(<issue>2</issue>):<fpage>195</fpage>&#x02013;<lpage>200</lpage>.
+<pub-id pub-id-type="doi">10.1038/76061</pub-id>
+<?supplied-pmid 10835636?><pub-id pub-id-type="pmid">10835636</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matthes</surname><given-names>HW</given-names></name><name><surname>Maldonado</surname><given-names>R</given-names></name><name><surname>Simonin</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Loss of morphine-induced analgesia, reward effect and withdrawal symptoms in mice lacking the mu-opioid-receptor gene.</article-title>
+<source><italic>Nature.</italic></source>
+<year>1996</year>;<volume>383</volume>(<issue>6603</issue>):<fpage>819</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="doi">10.1038/383819a0</pub-id>
+<?supplied-pmid 8893006?><pub-id pub-id-type="pmid">8893006</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Drews-Elger</surname><given-names>K</given-names></name><name><surname>Ortells</surname><given-names>MC</given-names></name><name><surname>Rao</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>The Transcription Factor NFAT5 Is Required for Cyclin Expression and Cell Cycle Progression in Cells Exposed to Hypertonic Stress.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2009</year>;<volume>4</volume>(<issue>4</issue>):<fpage>e5245</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0005245</pub-id>
+<!--<pub-id pub-id-type="pmcid">2667631</pub-id>-->
+<?supplied-pmid 19381288?><pub-id pub-id-type="pmid">19381288</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hargreaves</surname><given-names>K</given-names></name><name><surname>Dubner</surname><given-names>R</given-names></name><name><surname>Brown</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>A new and sensitive method for measuring thermal nociception in cutaneous hyperalgesia.</article-title>
+<source><italic>Pain.</italic></source>
+<year>1988</year>;<volume>32</volume>(<issue>1</issue>):<fpage>77</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1016/0304-3959(88)90026-7</pub-id>
+<?supplied-pmid 3340425?><pub-id pub-id-type="pmid">3340425</pub-id></mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Randall</surname><given-names>LO</given-names></name><name><surname>Selitto</surname><given-names>JJ</given-names></name></person-group>:
+<article-title>A method for measurement of analgesic activity on inflamed tissue.</article-title>
+<source><italic>Arch Int Pharmacodyn Ther.</italic></source>
+<year>1957</year>;<volume>111</volume>(<issue>4</issue>):<fpage>409</fpage>&#x02013;<lpage>419</lpage>.
+<?supplied-pmid 13471093?><pub-id pub-id-type="pmid">13471093</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ankier</surname><given-names>SI</given-names></name></person-group>:
+<article-title>New hot plate tests to quantify antinociceptive and narcotic antagonist activities.</article-title>
+<source><italic>Eur J Pharmacol.</italic></source>
+<year>1974</year>;<volume>27</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1016/0014-2999(74)90195-2</pub-id>
+<?supplied-pmid 4853341?><pub-id pub-id-type="pmid">4853341</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>MD</given-names></name><name><surname>Chandra</surname><given-names>SY</given-names></name><name><surname>Ding</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>GTP-induced tetrodotoxin-resistant Na+ current regulates excitability in mouse and rat small diameter sensory neurones.</article-title>
+<source><italic>J Physiol.</italic></source>
+<year>2003</year>;<volume>548</volume>(<issue>Pt 2</issue>):<fpage>373</fpage>&#x02013;<lpage>382</lpage>.
+<pub-id pub-id-type="doi">10.1113/jphysiol.2003.039131</pub-id>
+<!--<pub-id pub-id-type="pmcid">2342858</pub-id>-->
+<?supplied-pmid 12651922?><pub-id pub-id-type="pmid">12651922</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Livak</surname><given-names>KJ</given-names></name><name><surname>Schmittgen</surname><given-names>TD</given-names></name></person-group>:
+<article-title>Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method.</article-title>
+<source><italic>Methods.</italic></source>
+<year>2001</year>;<volume>25</volume>(<issue>4</issue>):<fpage>402</fpage>&#x02013;<lpage>408</lpage>.
+<pub-id pub-id-type="doi">10.1006/meth.2001.1262</pub-id>
+<?supplied-pmid 11846609?><pub-id pub-id-type="pmid">11846609</pub-id></mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gulya</surname><given-names>K</given-names></name><name><surname>Lui</surname><given-names>GK</given-names></name><name><surname>Pelton</surname><given-names>JT</given-names></name><etal/></person-group>:
+<article-title>H-D-Phe-Cys-Tyr-D-Trp-Orn-Thr-Pen-Thr-NH2: a potent and selective antagonist opioid receptors.</article-title>
+<source><italic>NIDA Res Monogr.</italic></source>
+<year>1986</year>;<volume>75</volume>:<fpage>209</fpage>&#x02013;<lpage>212</lpage>.
+<?supplied-pmid 2893264?><pub-id pub-id-type="pmid">2893264</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arjune</surname><given-names>D</given-names></name><name><surname>Bodnar</surname><given-names>RJ</given-names></name></person-group>:
+<article-title>Suppression of nocturnal, palatable and glucoprivic intake in rats by the kappa opioid antagonist, nor-binaltorphamine.</article-title>
+<source><italic>Brain Res.</italic></source>
+<year>1990</year>;<volume>534</volume>(<issue>1&#x02013;2</issue>):<fpage>313</fpage>&#x02013;<lpage>316</lpage>.
+<pub-id pub-id-type="doi">10.1016/0006-8993(90)90147-4</pub-id>
+<?supplied-pmid 1963562?><pub-id pub-id-type="pmid">1963562</pub-id></mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Calcagnetti</surname><given-names>DJ</given-names></name><name><surname>Holtzman</surname><given-names>SG</given-names></name></person-group>:
+<article-title>Delta opioid antagonist, naltrindole, selectively blocks analgesia induced by DPDPE but not DAGO or morphine.</article-title>
+<source><italic>Pharmacol Biochem Behav.</italic></source>
+<year>1991</year>;<volume>38</volume>(<issue>1</issue>):<fpage>185</fpage>&#x02013;<lpage>190</lpage>.
+<pub-id pub-id-type="doi">10.1016/0091-3057(91)90608-5</pub-id>
+<?supplied-pmid 2017444?><pub-id pub-id-type="pmid">2017444</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lopez-Rodr&#x000ed;guez</surname><given-names>C</given-names></name><name><surname>Aramburu</surname><given-names>J</given-names></name><name><surname>Rakeman</surname><given-names>AS</given-names></name><etal/></person-group>:
+<article-title>NFAT5, a constitutively nuclear NFAT protein that does not cooperate with Fos and Jun.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>1999</year>;<volume>96</volume>(<issue>13</issue>):<fpage>7214</fpage>&#x02013;<lpage>7219</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.96.13.7214</pub-id>
+<!--<pub-id pub-id-type="pmcid">22056</pub-id>-->
+<?supplied-pmid 10377394?><pub-id pub-id-type="pmid">10377394</pub-id></mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zakrzewska</surname><given-names>JM</given-names></name><name><surname>Palmer</surname><given-names>J</given-names></name><name><surname>Morisset</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Safety and efficacy of a Nav1.7 selective sodium channel blocker in patients with trigeminal neuralgia: a double-blind, placebo-controlled, randomised withdrawal phase 2a trial.</article-title>
+<source><italic>Lancet Neurol.</italic></source>
+<year>2017</year>;<volume>16</volume>(<issue>4</issue>):<fpage>291</fpage>&#x02013;<lpage>300</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1474-4422(17)30005-4</pub-id>
+<?supplied-pmid 28216232?><pub-id pub-id-type="pmid">28216232</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Isensee</surname><given-names>J</given-names></name><name><surname>Krah&#x000e9;</surname><given-names>L</given-names></name><name><surname>Moeller</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Synergistic regulation of serotonin and opioid signaling contributes to pain insensitivity in Na
+<sub>v</sub>1.7 knockout mice.</article-title>
+<source><italic>Sci Signal.</italic></source>
+<year>2017</year>;<volume>10</volume>(<issue>461</issue>): pii: eaah4874.
+<pub-id pub-id-type="doi">10.1126/scisignal.aah4874</pub-id>
+<?supplied-pmid 28074005?><pub-id pub-id-type="pmid">28074005</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pereira</surname><given-names>V</given-names></name></person-group>:
+<article-title>Analgesia linked to Nav1.7 loss of function requires &#x000b5;- and &#x003b4;-opioid receptors.</article-title>
+<source><italic>Open Science Framework.</italic></source>
+<year>2018</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.doi.org/10.17605/OSF.IO/HWZ6E">http://www.doi.org/10.17605/OSF.IO/HWZ6E</ext-link>
+</mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raouf</surname><given-names>R</given-names></name><name><surname>Rugiero</surname><given-names>F</given-names></name><name><surname>Kiesewetter</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Sodium channels and mammalian sensory mechanotransduction.</article-title>
+<source><italic>Mol Pain.</italic></source>
+<year>2012</year>;<volume>8</volume>:<fpage>21</fpage>.
+<pub-id pub-id-type="doi">10.1186/1744-8069-8-21</pub-id>
+<!--<pub-id pub-id-type="pmcid">3378430</pub-id>-->
+<?supplied-pmid 22449024?><pub-id pub-id-type="pmid">22449024</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Branco</surname><given-names>T</given-names></name><name><surname>Tozer</surname><given-names>A</given-names></name><name><surname>Magnus</surname><given-names>CJ</given-names></name><etal/></person-group>:
+<article-title>Near-Perfect Synaptic Integration by Na
+<sub>v</sub>1.7 in Hypothalamic Neurons Regulates Body Weight.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2016</year>;<volume>165</volume>(<issue>7</issue>):<fpage>1749</fpage>&#x02013;<lpage>1761</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2016.05.019</pub-id>
+<!--<pub-id pub-id-type="pmcid">4912688</pub-id>-->
+<?supplied-pmid 27315482?><pub-id pub-id-type="pmid">27315482</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Bao</surname><given-names>L</given-names></name><name><surname>Li</surname><given-names>S</given-names></name></person-group>:
+<article-title>Opioid receptor trafficking and interaction in nociceptors.</article-title>
+<source><italic>Br J Pharmacol.</italic></source>
+<year>2015</year>;<volume>172</volume>(<issue>2</issue>):<fpage>364</fpage>&#x02013;<lpage>374</lpage>.
+<pub-id pub-id-type="doi">10.1111/bph.12653</pub-id>
+<!--<pub-id pub-id-type="pmcid">4292953</pub-id>-->
+<?supplied-pmid 24611685?><pub-id pub-id-type="pmid">24611685</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yekkirala</surname><given-names>AS</given-names></name><name><surname>Banks</surname><given-names>ML</given-names></name><name><surname>Lunzer</surname><given-names>MM</given-names></name><etal/></person-group>:
+<article-title>Clinically employed opioid analgesics produce antinociception via &#x003bc;-&#x003b4; opioid receptor heteromers in Rhesus monkeys.</article-title>
+<source><italic>ACS Chem Neurosci.</italic></source>
+<year>2012</year>;<volume>3</volume>(<issue>9</issue>):<fpage>720</fpage>&#x02013;<lpage>727</lpage>.
+<!--<pub-id pub-id-type="pmcid">3447399</pub-id>-->
+<?supplied-pmid 23019498?><pub-id pub-id-type="pmid">23019498</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fink</surname><given-names>DJ</given-names></name><name><surname>Wechuck</surname><given-names>J</given-names></name><name><surname>Mata</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Gene therapy for pain: results of a phase I clinical trial.</article-title>
+<source><italic>Ann Neurol.</italic></source>
+<year>2011</year>;<volume>70</volume>(<issue>2</issue>):<fpage>207</fpage>&#x02013;<lpage>212</lpage>.
+<pub-id pub-id-type="doi">10.1002/ana.22446</pub-id>
+<!--<pub-id pub-id-type="pmcid">3152623</pub-id>-->
+<?supplied-pmid 21796661?><pub-id pub-id-type="pmid">21796661</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pert</surname><given-names>CB</given-names></name><name><surname>Snyder</surname><given-names>SH</given-names></name></person-group>:
+<article-title>Opiate Receptor Binding of Agonists and Antagonists Affected Differentially by Sodium.</article-title>
+<source><italic>Mol Pharmacol.</italic></source>
+<year>1974</year>;<volume>10</volume>(<issue>6</issue>):<fpage>868</fpage>&#x02013;<lpage>879</lpage>.
+<ext-link ext-link-type="uri" xlink:href="http://molpharm.aspetjournals.org/content/10/6/868">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vickery</surname><given-names>ON</given-names></name><name><surname>Carvalheda</surname><given-names>CA</given-names></name><name><surname>Zaidi</surname><given-names>SA</given-names></name><etal/></person-group>:
+<article-title>Intracellular Transfer of Na
+<sup>+</sup> in an Active-State G-Protein-Coupled Receptor.</article-title>
+<source><italic>Structure.</italic></source>
+<year>2018</year>;<volume>26</volume>(<issue>1</issue>):<fpage>171</fpage>&#x02013;<lpage>180.e2</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.str.2017.11.013</pub-id>
+<!--<pub-id pub-id-type="pmcid">5805466</pub-id>-->
+<?supplied-pmid 29249607?><pub-id pub-id-type="pmid">29249607</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kanellopoulos</surname><given-names>AH</given-names></name><name><surname>Koenig</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Mapping protein interactions of sodium channel Na
+<sub>V</sub>1.7 using epitope-tagged gene-targeted mice.</article-title>
+<source><italic>EMBO J.</italic></source>
+<year>2018</year>;<volume>37</volume>(<issue>3</issue>):<fpage>427</fpage>&#x02013;<lpage>445</lpage>.
+<pub-id pub-id-type="doi">10.15252/embj.201796692</pub-id>
+<!--<pub-id pub-id-type="pmcid">5793798</pub-id>-->
+<?supplied-pmid 29335280?><pub-id pub-id-type="pmid">29335280</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnston</surname><given-names>TH</given-names></name><name><surname>Versi</surname><given-names>E</given-names></name><name><surname>Howson</surname><given-names>PA</given-names></name><etal/></person-group>:
+<article-title>DPI-289, a novel mixed delta opioid agonist / mu opioid antagonist (DAMA), has L-DOPA-sparing potential in Parkinson&#x02019;s disease.</article-title>
+<source><italic>Neuropharmacology.</italic></source>
+<year>2018</year>;<volume>131</volume>:<fpage>116</fpage>&#x02013;<lpage>127</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuropharm.2017.11.046</pub-id>
+<?supplied-pmid 29197517?><pub-id pub-id-type="pmid">29197517</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Incontro</surname><given-names>S</given-names></name><name><surname>Asensio</surname><given-names>CS</given-names></name><name><surname>Edwards</surname><given-names>RH</given-names></name><etal/></person-group>:
+<article-title>Efficient, complete deletion of synaptic proteins using CRISPR.</article-title>
+<source><italic>Neuron.</italic></source>
+<year>2014</year>;<volume>83</volume>(<issue>5</issue>):<fpage>1051</fpage>&#x02013;<lpage>1057</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuron.2014.07.043</pub-id>
+<!--<pub-id pub-id-type="pmcid">4195490</pub-id>-->
+<?supplied-pmid 25155957?><pub-id pub-id-type="pmid">25155957</pub-id></mixed-citation></ref></ref-list></back><sub-article id="report33712" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/wellcomeopenres.15991.r33712</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Snutch</surname><given-names>Terrance P.</given-names></name><xref ref-type="aff" rid="r33712a1">1</xref><role>Referee</role></contrib><aff id="r33712a1">
+<label>1</label>Michael Smith Laboratories, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, Canada</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>11</day><month>9</month><year>2018</year></pub-date><related-article id="d35e3115" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/wellcomeopenres.14687.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>In their manuscript Pereira and coworkers nicely combine a Nav1.7 null mouse model with pharmacological, gene knock-out and behavioural analyses to probe the relationship between the well-described loss of pain phenotype associated with Nav1.7 loss-of-function (LOF) mutations and a previous observation linking the null phenotype to potentiated opioid receptor-mediated signalling. The Wood group has previously shown that Nav1.7 (but not Nav1.8) null animals exhibit enhanced encephalin expression and concomitant increased opioid receptor signalling mediated via changes in gene expression. Here, examining the involvement of specific opioid receptors by administration of subtype-specific antagonists they find evidence for the combined contribution of MORs and DORs. These data are nicely confirmed by genetically crossing Nav1.7 with MOR and DOR null mice strains. Any contribution of KORs is eliminated pharmacologically using the selective KOR antagonist, norBNI.</p><p> The authors further examine putative transcriptional roles for Nav1.7 channel activity and Na ions by altering intracellular Na level in primary cultured DRGs via a sodium ionophore and Na channel modulators.</p><p> The results suggest that increasing Na levels decreases the expression of both PENK and nFAT5 and that the underlying mechanism is Nav1.7-dependent. Interestingly, in examining an nFAT5 conditional knock-out the authors find that PENK mRNA levels are increased without affecting Nav1.7 pain phenotypes.</p><p>
+<bold>Comments</bold>
+</p><p> Overall, the paper is very well written, the experiments follow a logical pathway, and the data are analyzed carefully and properly. The notion that Na channel activity and/or intracellular Na levels contribute towards the transcriptional regulation of a selected subset of pain pathway genes is quite intriguing and the results will likely be of significant interest in the field. In part, the authors also conclude that their results explain the current inability across academia and industry to generate efficacious Nav1.7 blockers towards the treatment of pain.</p><p> Figure 3. For clarity please add to the legend the mouse strain utilized in experiments in Panels A and B.</p><p> Figure 3. The data examining for the effects of TTX are not entirely clear in my view. Supp File-1, Fig. 2C appears to show that 500 nM TTX had no effect on intracellular Na levels yet the mRNA levels in DRGs for both PENK and nFAT5 are significantly increased by TTX (Fig. 3B). How do the authors explain this discrepancy?</p><p> Figures 3 and 4. The authors only examine the expression of PENK and nFAT in their study. In any qPCR expression study it is always most convincing if data are presented wherein some sort of target/marker is not altered by the treatment(s) implemented. In this regard, do they have (or can provide) qPCR data showing some sort of DRG-expressed marker is unchanged by the various treatments and genetic backgrounds? Preferentially something related to pain signalling.</p><p> Figure 4A legend. Please clearly indicate the tissue/sample utilized in the expression studies.</p><p> What do the authors ultimately propose as the linkage between Nav1.7 channel activity (or lack-there-of in the null), PENK and nFAT5 levels to collectively mediate transcriptional regulation? A direct transcriptional effect driven by Na? Or do Na levels alter other signalling cascades? (in Supp File-1, Fig. 3 they rule out an effect of global change in Ca levels by veratridine and monensin). Further in this regard, can the authors expand on the fact that PENK levels do not appear linked to nFAT expression (Fig. 4). &#x000a0;&#x000a0;</p><p> The involvement of RNA Pol II towards the proposed Na-level mediated transcriptional changes (PENK, nFAT5) should properly be confirmed via application of any of the well-described inhibitors commercially available (e.g., alpha-amanitin, actinomycin-D, triptolide).</p><p> Supplemental File 1: It would be helpful to the reader if the various figures are numbered (Fig. 1, 2, 3). Also, for each of three Figs. &#x02013; for clarity please add into the legends the n&#x02019;s for the number of DRGs tested under each of the conditions.</p><p> Both male and female animals were utilized throughout. Can the authors please confirm that there were no sex-specific differences either within or across the various data sets?</p><p> Abstract &#x02013; Results: The authors state here: &#x0201c;Higher levels of endogenous enkephalins, potentiated opioid receptors, diminished electrical excitability and loss of neurotransmitter release together contribute to the analgesic phenotype found in
+<italic>Nav1.7</italic>-null mouse and human mutants.&#x0201d;</p><p> The reader may be confused by the statement in the Abstract given that the data in the paper do not directly address the levels of endogenous enkaphalins, measurements of electrical activity or that for neurotransmitter release. Please reword this statement to better reflect the data presented.</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="report33711" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/wellcomeopenres.15991.r33711</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Woods</surname><given-names>C. Geoffrey</given-names></name><xref ref-type="aff" rid="r33711a1">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8077-2101</contrib-id></contrib><aff id="r33711a1">
+<label>1</label>Department&#x000a0;of&#x000a0;Medical Genetics, Cambridge Institute For Medical Research, Cambridge, UK</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>3</day><month>9</month><year>2018</year></pub-date><related-article id="d35e3226" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/wellcomeopenres.14687.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>
+<bold>Analgesia linked to Nav1.7 loss of function requires &#x000b5;- and &#x003b4;-opioid receptors</bold>
+</p><p> This paper continues the work of John Wood&#x02019;s group in dissecting the role the mammalian voltage gated sodium channel
+<italic>SCN9A</italic>/Nav1.7 plays in pain. The human knock-out phenotype is pain free and anosmic. The mouse knock-out fails to thrive, assumedly because of a lack of weaning, but knock-out of the peripheral nociceptors (in the dorsal root ganglia and trigeminal ganglia) and sympathetic trunk recalculates the human pain free state. This naturally led pharmaceutical firms to seek Nav1.7 antagonists as a new class of analgesic - which should have worked for almost all types of pain and have the minimal side effect of temporarily losing the sense of smell. Many antagonists have been produced, but surprisingly they have little effect - why this should be the purpose of this paper.</p><p> Previously the Wood team had shown that Nav1.7 knock-out mice had constitutional upregulation of the
+<italic>Penk </italic>gene (presumably this is also the case in humans, but this has yet to be shown, however they previously reported a single person with Congenital Insensitivity to Pain who did start to feel pain when given naloxone suggesting this is the case). Processing of the
+<italic>Penk</italic> gene produces a number of peptides including Met-enkephalin and Leu-enkephalin. They now explore if this is the cause of the painlessness seen in Nav1.7 knock-outs.</p><p> The study reports complimentary mouse pain behavioural studies and cell biology of nociceptors derived from dorsal root ganglia. Firstly, mice with knock-out of either mu, delta or kappa opioid receptors were mated with those null for
+<italic>SCN9A</italic>/Nav1.7. The behavioural results showed that loss of mu and delta receptors together led to a substantial return of pain, but that kappa receptor had no role. &#x000a0;Secondly, naloxone (which blocks the effects of all opiates) reduced the analgesic effect seen in Nav1.7 null mice substantially but not completely. This data strongly suggests that a significant part of the analgesia seen in Nav1.7 knock-outs is mediated through increased opioid signalling through mu and delta opioid receptors. &#x000a0;</p><p> Cell studies were performed by use of peripheral nociceptors derived from the mice used in the behavioural studies. &#x000a0;Thirdly, using various chemicals to manipulate intracellular sodium levels and the activities of Tetradotoxin sensitive voltage gated sodium channels (including Nav1.7) they found that Nav1.7 alone was responsible for raised
+<italic>Penk</italic> mRNA levels. And fourthly, that both
+<italic>Penk</italic> levels and that of the transcription factor
+<italic> Nfat5 </italic>were reduced by the increasing intracellular sodium concentrations and elevated by decreasing intracellular sodium concentrations. This data strongly suggested that intracellular sodium levels were responsible for the
+<italic>Penk</italic> upregulation when Nav1.7 is absent or non-functional. And fifthly, as
+<italic>Nfat5</italic> potential binds to the
+<italic>Penk</italic> 5&#x02019;UTR they determined the effects of&#x000a0;
+<italic>NFAT5</italic> knockout &#x02013; in NFAT5 knock-out mice&#x000a0;
+<italic>PENK</italic> levels were raised to a similar degree as seen in Nav1.7 knock-out mice, but surprisingly the NFAT5 knock-out mice had normal pain sensing. From this they concluded that increased
+<italic>Penk</italic> levels alone does not cause analgesia. &#x000a0;</p><p> This paper presents data that Nav1.7 knock-out has complex consequences. Firstly, to achieve an analgesic effect complete knockout of Nav1.7 is needed &#x02013; and maybe this explains why the anti-Nav1.7 analgesics used to date have had little effect. Secondly, the effects of Nav1.7 knock-out are significantly mediated through mu and delta opioid receptors. Thirdly, despite
+<italic>Penk</italic> being upregulated in Nav1,7 knock-down and being translated to produce endogenous endorphins,
+<italic>Penk</italic> upregulation alone does not cause analgesia. The authors hypothesise that it is local juxta-membrane sodium concentration changes controlled by Nav1.7 that effect mu and delta opioid function (and not the presence of Nav1.7 protein alone &#x02013; as not all human SCN9A mutations effect Nav1.7 protein production and membrane localisation). And that locally decreased sodium levels lead to increased opioid receptor activity, and hence analgesia. For this reason they suggest that maybe pharmacological knock-down of Nav1.7 will not be possible, and the possibility of CRISPR-mediated gene knockout (in peripheral dorsal root ganglia) should be considered a possible treatment for extreme, intractable pain conditions.&#x000a0;</p><p> This paper strongly supports the contention that Nav1.7 analgesia is mediated through peripheral nociceptors, with no evidence for a central effect.</p><p> My only comment is that references should support the Discussion statement &#x0201c; Evidence that co-administration of opioids with Nav1.7 antagonists&#x02026;.&#x0201d;.</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

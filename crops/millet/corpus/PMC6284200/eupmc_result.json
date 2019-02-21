@@ -1,0 +1,280 @@
+{
+  "id": [
+    "30559761"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30559761"
+  ],
+  "pmcid": [
+    "PMC6284200"
+  ],
+  "doi": [
+    "10.3389/fgene.2018.00588"
+  ],
+  "title": [
+    "DREAMSeq: An Improved Method for Analyzing Differentially Expressed Genes in RNA-seq Data."
+  ],
+  "authorString": [
+    "Gao Z, Zhao Z, Tang W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gao Z"
+          ],
+          "firstName": [
+            "Zhihua"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Ministry of Education Key Laboratory of Molecular and Cellular Biology, Hebei Key Laboratory of Molecular and Cellular Biology, Hebei Collaboration Innovation Center for Cell Signaling, College of Life Sciences, Hebei Normal University, Shijiazhuang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhiying"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Ministry of Education Key Laboratory of Molecular and Cellular Biology, Hebei Key Laboratory of Molecular and Cellular Biology, Hebei Collaboration Innovation Center for Cell Signaling, College of Life Sciences, Hebei Normal University, Shijiazhuang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang W"
+          ],
+          "firstName": [
+            "Wenqiang"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Ministry of Education Key Laboratory of Molecular and Cellular Biology, Hebei Key Laboratory of Molecular and Cellular Biology, Hebei Collaboration Innovation Center for Cell Signaling, College of Life Sciences, Hebei Normal University, Shijiazhuang, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645050"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "588"
+  ],
+  "abstractText": [
+    "RNA sequencing (RNA-seq) has become a widely used technology for analyzing global gene-expression changes during certain biological processes. It is generally acknowledged that RNA-seq data displays equidispersion and overdispersion characteristics; therefore, most RNA-seq analysis methods were developed based on a negative binomial model capable of capturing both equidispersed and overdispersed data. In this study, we reported that in addition to equidispersion and overdispersion, RNA-seq data also displays underdispersion characteristics that cannot be adequately captured by general RNA-seq analysis methods. Based on a double Poisson model capable of capturing all data characteristics, we developed a new RNA-seq analysis method (DREAMSeq). Comparison of DREAMSeq with five other frequently used RNA-seq analysis methods using simulated datasets showed that its performance was comparable to or exceeded that of other methods in terms of type I error rate, statistical power, receiver operating characteristics (ROC) curve, area under the ROC curve, precision-recall curve, and the ability to detect the number of differentially expressed genes, especially in situations involving underdispersion. These results were validated by quantitative real-time polymerase chain reaction using a real Foxtail dataset. Our findings demonstrated DREAMSeq as a reliable, robust, and powerful new method for RNA-seq data mining. The DREAMSeq R package is available at http://tanglab.hebtu.edu.cn/tanglab/Home/DREAMSeq."
+  ],
+  "affiliation": [
+    "Ministry of Education Key Laboratory of Molecular and Cellular Biology, Hebei Key Laboratory of Molecular and Cellular Biology, Hebei Collaboration Innovation Center for Cell Signaling, College of Life Sciences, Hebei Normal University, Shijiazhuang, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rna-seq",
+        "Overdispersion",
+        "Negative Binomial Model",
+        "Underdispersion",
+        "Dreamseq",
+        "Equidispersion",
+        "Double Poisson Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6284200?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6284200"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2018.00588"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-19"
+  ],
+  "dateOfRevision": [
+    "2018-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-30"
+  ],
+  "firstPublicationDate": [
+    "2018-11-30"
+  ]
+}

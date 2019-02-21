@@ -1,0 +1,383 @@
+{
+  "id": [
+    "30473722"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30473722"
+  ],
+  "pmcid": [
+    "PMC6238276"
+  ],
+  "doi": [
+    "10.1186/s13007-018-0369-5"
+  ],
+  "title": [
+    "A method to calculate the number of wheat seedlings in the 1st to the 3rd leaf growth stages."
+  ],
+  "authorString": [
+    "Liu T, Yang T, Li C, Li R, Wu W, Zhong X, Sun C, Guo W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6788-1330",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang T"
+          ],
+          "firstName": [
+            "Tianle"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chunyan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong X"
+          ],
+          "firstName": [
+            "Xiaochun"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "2Key Laboratory of Agro-information Services Technology, Ministry of Agriculture, Beijing, 100081 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun C"
+          ],
+          "firstName": [
+            "Chengming"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo W"
+          ],
+          "firstName": [
+            "Wenshan"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6788-1330",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2639732"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant methods"
+          ],
+          "ISOAbbreviation": [
+            "Plant Methods"
+          ],
+          "medlineAbbreviation": [
+            "Plant Methods"
+          ],
+          "NLMid": [
+            "101245798"
+          ],
+          "ISSN": [
+            "1746-4811"
+          ],
+          "ESSN": [
+            "1746-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "101"
+  ],
+  "abstractText": [
+    "Background:The number of cultivated wheat seedlings per unit area allows calculation of plant density. Wheat seedling density provides emergence data and this is useful for improving crop management. The number of wheat seedlings is typically determined by visual counts but this is time-consuming and laborious. Results:We obtained field digital images of 1st to 3rd leaf stage wheat seedlings. The seedlings were extracted using an image analysis technique that calculated the coverage degree of the seedlings and the number of angular points of overlapping leaves. The wheat seedling quantity estimation model was constructed using multivariate regression analysis. The model parameters included coverage degree, number of angular points, variety coefficient, and leaf age. Introduction of the number of angular points increased the accuracy of the single coverage degree model. The R2 value was consistently > 0.95 when the model was applied to different varieties, indicating that the model was adaptable for different varieties. As the leaf stage or density increased, the accuracy of the model declined, but the minimum R2 remained > 0.87, indicating good adaptability of the model to seedlings with different leaf ages and densities. Conclusions:This method is an effective means for counting wheat seedlings in the 1st to the 3rd leaf stages."
+  ],
+  "affiliation": [
+    "1Jiangsu Key Laboratory of Crop Genetics and Physiology/Co-Innovation Center for Modern Production Technology of Grain Crops, Yangzhou University, Yangzhou, 225009 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Models",
+        "Image processing",
+        "multivariate analysis",
+        "1St To The 3Rd Leaf Stages",
+        "Wheat Seedling Numbers"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6238276?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6238276"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13007-018-0369-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-27"
+  ],
+  "dateOfRevision": [
+    "2018-11-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-16"
+  ],
+  "firstPublicationDate": [
+    "2018-11-16"
+  ]
+}

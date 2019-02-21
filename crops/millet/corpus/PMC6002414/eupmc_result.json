@@ -1,0 +1,984 @@
+{
+  "id": [
+    "29904051"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29904051"
+  ],
+  "pmcid": [
+    "PMC6002414"
+  ],
+  "doi": [
+    "10.1038/s41467-018-04737-0"
+  ],
+  "title": [
+    "Whole-genome resequencing reveals world-wide ancestry and adaptive introgression events of domesticated cattle in East Asia."
+  ],
+  "authorString": [
+    "Chen N, Cai Y, Chen Q, Li R, Wang K, Huang Y, Hu S, Huang S, Zhang H, Zheng Z, Song W, Ma Z, Ma Y, Dang R, Zhang Z, Xu L, Jia Y, Liu S, Yue X, Deng W, Zhang X, Sun Z, Lan X, Han J, Chen H, Bradley DG, Jiang Y, Lei C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen N"
+          ],
+          "firstName": [
+            "Ningbo"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai Y"
+          ],
+          "firstName": [
+            "Yudong"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5902-0901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qiuming"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li R"
+          ],
+          "firstName": [
+            "Ran"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Kun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Center for Ecological and Environmental Sciences, Northwestern Polytechnical University, Xi'an, 710129, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yongzhen"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu S"
+          ],
+          "firstName": [
+            "Songmei"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Shaanxi Provincial Institute of Archaeology, Xi'an, 710054, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Shisheng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hucai"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Plateau Lake Ecology and Environment Change, Yunnan University, Kunming, 650504, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Z"
+          ],
+          "firstName": [
+            "Zhuqing"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song W"
+          ],
+          "firstName": [
+            "Weining"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Crop Stress Biology in Arid Areas, Yangling Branch of China Wheat Improvement Center, College of Agronomy, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Z"
+          ],
+          "firstName": [
+            "Zhijie"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Agricultural College, Ningxia University, Yinchuan, 750021, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dang R"
+          ],
+          "firstName": [
+            "Ruihua"
+          ],
+          "lastName": [
+            "Dang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zijing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Animal Science and Veterinary Medicine, Henan Academy of Agriculture Science, Zhengzhou, 450002, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Animal Science and Veterinary Medicine, Anhui Academy of Agriculture Science, Hefei, 230001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jia Y"
+          ],
+          "firstName": [
+            "Yutang"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Animal Science and Veterinary Medicine, Anhui Academy of Agriculture Science, Hefei, 230001, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Shanzhai"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Bozhou Comprehensive Experimental Station, National Beef Cattle and Yak Industrial Technology System, Bozhou, 236000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yue X"
+          ],
+          "firstName": [
+            "Xiangpeng"
+          ],
+          "lastName": [
+            "Yue"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Grassland Agroecosystems, College of Pastoral Agriculture Science and Technology, Lanzhou University, Lanzhou, 730000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng W"
+          ],
+          "firstName": [
+            "Weidong"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Faculty of Animal Science and Technology, Yunnan Agricultural University, Kunming, 650201, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, 650223, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Z"
+          ],
+          "firstName": [
+            "Zhouyong"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Shaanxi Provincial Institute of Archaeology, Xi'an, 710054, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan X"
+          ],
+          "firstName": [
+            "Xianyong"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han J"
+          ],
+          "firstName": [
+            "Jianlin"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "CAAS-ILRI Joint Laboratory on Livestock and Forage Genetic Resources, Institute of Animal Science, Chinese Academy of Agriculture Sciences (CAAS), Beijing, 100193, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bradley DG"
+          ],
+          "firstName": [
+            "Daniel G"
+          ],
+          "lastName": [
+            "Bradley"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7335-7092",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Smurfit Institute of Genetics, Trinity College Dublin, D02 DK07, Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4821-3585",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China. yu.jiang@nwafu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Lei C"
+          ],
+          "firstName": [
+            "Chuzhao"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China. leichuzhao1118@nwafu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7335-7092",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5902-0901",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4821-3585",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7927-292X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2690598"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2337"
+  ],
+  "abstractText": [
+    "Cattle domestication and the complex histories of East Asian cattle breeds warrant further investigation. Through analysing the genomes of 49 modern breeds and eight East Asian ancient samples, worldwide cattle are consistently classified into five continental groups based on Y-chromosome haplotypes and autosomal variants. We find that East Asian cattle populations are mainly composed of three distinct ancestries, including an earlier East Asian taurine ancestry that reached China at least ~3.9 kya, a later introduced Eurasian taurine ancestry, and a novel Chinese indicine ancestry that diverged from Indian indicine approximately 36.6-49.6 kya. We also report historic introgression events that helped domestic cattle from southern China and the Tibetan Plateau achieve rapid adaptation by acquiring ~2.93% and ~1.22% of their genomes from banteng and yak, respectively. Our findings provide new insights into the evolutionary history of cattle and the importance of introgression in adaptation of cattle to new environmental challenges in East Asia."
+  ],
+  "affiliation": [
+    "Key Laboratory of Animal Genetics, Breeding and Reproduction of Shaanxi Province, College of Animal Science and Technology, Northwest A&F University, Yangling, 712100, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31501918"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mitochondria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cattle"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Statistical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Breeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetics, Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Geography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tibet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Domestication"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6002414?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6002414"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-04737-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "go"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-12-26"
+  ],
+  "dateOfCreation": [
+    "2018-06-16"
+  ],
+  "dateOfRevision": [
+    "2018-12-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-14"
+  ],
+  "firstPublicationDate": [
+    "2018-06-14"
+  ]
+}

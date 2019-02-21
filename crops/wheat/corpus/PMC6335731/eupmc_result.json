@@ -1,0 +1,338 @@
+{
+  "id": [
+    "30719371"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30719371"
+  ],
+  "pmcid": [
+    "PMC6335731"
+  ],
+  "doi": [
+    "10.1155/2019/1537568"
+  ],
+  "title": [
+    "Tracing Geographical Origins of Teas Based on FT-NIR Spectroscopy: Introduction of Model Updating and Imbalanced Data Handling Approaches."
+  ],
+  "authorString": [
+    "Hong XZ, Fu XS, Wang ZL, Zhang L, Yu XP, Ye ZH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hong XZ"
+          ],
+          "firstName": [
+            "Xue-Zhen"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "XZ"
+          ],
+          "affiliation": [
+            "College of Quality & Safety Engineering, China Jiliang University, Xueyuan Street, Xiasha Higher Education District, Hangzhou 310018, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu XS"
+          ],
+          "firstName": [
+            "Xian-Shu"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "XS"
+          ],
+          "affiliation": [
+            "Zhejiang Provincial Key Laboratory of Biometrology and Inspection & Quarantine, College of Life Sciences, China Jiliang University, Xueyuan Street, Xiasha Higher Education District, Hangzhou 310018, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang ZL"
+          ],
+          "firstName": [
+            "Zheng-Liang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "ZL"
+          ],
+          "affiliation": [
+            "Zhejiang Provincial Key Laboratory of Biometrology and Inspection & Quarantine, College of Life Sciences, China Jiliang University, Xueyuan Street, Xiasha Higher Education District, Hangzhou 310018, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Zhejiang University, Hangzhou 310027, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu XP"
+          ],
+          "firstName": [
+            "Xiao-Ping"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "XP"
+          ],
+          "affiliation": [
+            "Zhejiang Provincial Key Laboratory of Biometrology and Inspection & Quarantine, College of Life Sciences, China Jiliang University, Xueyuan Street, Xiasha Higher Education District, Hangzhou 310018, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye ZH"
+          ],
+          "firstName": [
+            "Zi-Hong"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "ZH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5827-3699",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Zhejiang Provincial Key Laboratory of Biometrology and Inspection & Quarantine, College of Life Sciences, China Jiliang University, Xueyuan Street, Xiasha Higher Education District, Hangzhou 310018, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5827-3699",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2778727"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of analytical methods in chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Anal Methods Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Anal Methods Chem"
+          ],
+          "NLMid": [
+            "101575377"
+          ],
+          "ISSN": [
+            "2090-8865"
+          ],
+          "ESSN": [
+            "2090-8873"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1537568"
+  ],
+  "abstractText": [
+    "This work presents a reliable approach to trace teas' geographical origins despite changes in teas caused by different harvest years. A total of 1447 tea samples collected from various areas in 2014 (660 samples) and 2015 (787 samples) were detected by FT-NIR. Seven classifiers trained on the 2014 dataset all succeeded to trace origins of samples collected in 2014; however, they all failed to predict origins for the 2015 samples due to different data distributions and imbalanced dataset. Three outlier detection based undersampling approaches-one-class SVM (OC-SVM), isolation forest and elliptic envelope-were then proposed; as a result, the highest macro average recall (MAR) for the 2015 dataset was improved from 56.86% to 73.95% (by SVM). A model updating approach was also applied, and the prediction MAR was significantly improved with increase in the updating rate. The best MAR (90.31%) was first achieved by the OC-SVM combined SVM classifier at a 50% rate."
+  ],
+  "affiliation": [
+    "College of Quality & Safety Engineering, China Jiliang University, Xueyuan Street, Xiasha Higher Education District, Hangzhou 310018, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335731?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335731"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/1537568"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-06"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-03"
+  ],
+  "firstPublicationDate": [
+    "2019-01-03"
+  ]
+}

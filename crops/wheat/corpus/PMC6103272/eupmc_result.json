@@ -1,0 +1,380 @@
+{
+  "id": [
+    "30154817"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30154817"
+  ],
+  "pmcid": [
+    "PMC6103272"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01196"
+  ],
+  "title": [
+    "Genome-Wide Association Studies of Free Amino Acid Levels by Six Multi-Locus Models in Bread Wheat."
+  ],
+  "authorString": [
+    "Peng Y, Liu H, Chen J, Shi T, Zhang C, Sun D, He Z, Hao Y, Chen W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Peng Y"
+          ],
+          "firstName": [
+            "Yanchun"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Hongbo"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Crop Genetic Improvement, National Center of Plant Gene Research, Huazhong Agricultural University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi T"
+          ],
+          "firstName": [
+            "Taotao"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang C"
+          ],
+          "firstName": [
+            "Chi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Chemical Science and Engineering, Royal Institute of Technology, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun D"
+          ],
+          "firstName": [
+            "Dongfa"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He Z"
+          ],
+          "firstName": [
+            "Zhonghu"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Crop Science, National Wheat Improvement Center, Chinese Academy of Agricultural Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao Y"
+          ],
+          "firstName": [
+            "Yuanfeng"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Crop Science, National Wheat Improvement Center, Chinese Academy of Agricultural Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Plant Science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1196"
+  ],
+  "abstractText": [
+    "Genome-wide association studies (GWAS) have been widely used to dissect the complex biosynthetic processes of plant metabolome. Most studies have used single-locus GWAS approaches, such as mixed linear model (MLM), and little is known about more efficient algorithms to implement multi-locus GWAS. Here, we report a comprehensive GWAS of 20 free amino acid (FAA) levels in kernels of bread wheat (Triticumaestivum L.) based on 14,646 SNPs by six multi-locus models (FASTmrEMMA, FASTmrMLM, ISISEM-BLASSO, mrMLM, pKWmEB, and pLARmEB). Our results showed that 328 significant quantitative trait nucleotides (QTNs) were identified in total (38, 8, 92, 45, 117, and 28, respectively, for the above six models). Among them, 66 were repeatedly detected by more than two models, and 155 QTNs appeared only in one model, indicating the reliability and complementarity of these models. We also found that the number of significant QTNs for different FAAs varied from 8 to 41, which revealed the complexity of the genetic regulation of metabolism, and further demonstrated the necessity of the multi-locus GWAS. Around these significant QTNs, 15 candidate genes were found to be involved in FAA biosynthesis, and one candidate gene (TraesCS1D01G052500, annotated as tryptophan decarboxylase) was functionally identified to influence the content of tryptamine in vitro. Our study demonstrated the power and efficiency of multi-locus GWAS models in crop metabolome research and provided new insights into understanding FAA biosynthesis in wheat."
+  ],
+  "affiliation": [
+    "College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wheat",
+        "Genome-wide Association Studies",
+        "Multi-locus Models",
+        "Qtns",
+        "Free Amino Acid (Faa)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6103272?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6103272"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01196"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-30"
+  ],
+  "dateOfRevision": [
+    "2018-08-31"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-14"
+  ],
+  "firstPublicationDate": [
+    "2018-08-14"
+  ]
+}

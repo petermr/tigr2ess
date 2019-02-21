@@ -1,0 +1,782 @@
+{
+  "id": [
+    "29963079"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29963079"
+  ],
+  "pmcid": [
+    "PMC6020695"
+  ],
+  "doi": [
+    "10.5194/acp-18-2615-2018"
+  ],
+  "title": [
+    "Southeast Atmosphere Studies: learning from model-observation syntheses."
+  ],
+  "authorString": [
+    "Mao J, Carlton A, Cohen RC, Brune WH, Brown SS, Wolfe GM, Jimenez JL, Pye HOT, Ng NL, Xu L, McNeill VF, Tsigaridis K, McDonald BC, Warneke C, Guenther A, Alvarado MJ, de Gouw J, Mickley LJ, Leibensperger EM, Mathur R, Nolte CG, Portmann RW, Unger N, Tosca M, Horowitz LW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mao J"
+          ],
+          "firstName": [
+            "Jingqiu"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4774-9751",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Geophysical Institute and Department of Chemistry, University of Alaska Fairbanks, Fairbanks, AK, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carlton A"
+          ],
+          "firstName": [
+            "Annmarie"
+          ],
+          "lastName": [
+            "Carlton"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8574-1507",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Rutgers University, New Brunswick, NJ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen RC"
+          ],
+          "firstName": [
+            "Ronald C"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6617-7691",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Earth and Planetary Science, University of California, Berkeley, Berkeley, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brune WH"
+          ],
+          "firstName": [
+            "William H"
+          ],
+          "lastName": [
+            "Brune"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Department of Meteorology, Pennsylvania State University, University Park, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown SS"
+          ],
+          "firstName": [
+            "Steven S"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Chemistry and CIRES, University of Colorado Boulder, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wolfe GM"
+          ],
+          "firstName": [
+            "Glenn M"
+          ],
+          "lastName": [
+            "Wolfe"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Chemical Sciences Division, NOAA Earth System Research Laboratory, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jimenez JL"
+          ],
+          "firstName": [
+            "Jose L"
+          ],
+          "lastName": [
+            "Jimenez"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6203-1847",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and CIRES, University of Colorado Boulder, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pye HOT"
+          ],
+          "firstName": [
+            "Havala O T"
+          ],
+          "lastName": [
+            "Pye"
+          ],
+          "initials": [
+            "HOT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2014-2140",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Exposure Research Laboratory, US Environmental Protection Agency, Research Triangle Park, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ng NL"
+          ],
+          "firstName": [
+            "Nga Lee"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "NL"
+          ],
+          "affiliation": [
+            "School of Chemical and Biomolecular Engineering and School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Chemical and Biomolecular Engineering and School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McNeill VF"
+          ],
+          "firstName": [
+            "V Faye"
+          ],
+          "lastName": [
+            "McNeill"
+          ],
+          "initials": [
+            "VF"
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, Columbia University, New York, NY USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsigaridis K"
+          ],
+          "firstName": [
+            "Kostas"
+          ],
+          "lastName": [
+            "Tsigaridis"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Center for Climate Systems Research, Columbia University, New York, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McDonald BC"
+          ],
+          "firstName": [
+            "Brian C"
+          ],
+          "lastName": [
+            "McDonald"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "affiliation": [
+            "Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Warneke C"
+          ],
+          "firstName": [
+            "Carsten"
+          ],
+          "lastName": [
+            "Warneke"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guenther A"
+          ],
+          "firstName": [
+            "Alex"
+          ],
+          "lastName": [
+            "Guenther"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Earth System Science, University of California, Irvine, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Alvarado MJ"
+          ],
+          "firstName": [
+            "Matthew J"
+          ],
+          "lastName": [
+            "Alvarado"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Atmospheric and Environmental Research, Lexington, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "de Gouw J"
+          ],
+          "firstName": [
+            "Joost"
+          ],
+          "lastName": [
+            "de Gouw"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemistry and CIRES, University of Colorado Boulder, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mickley LJ"
+          ],
+          "firstName": [
+            "Loretta J"
+          ],
+          "lastName": [
+            "Mickley"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Leibensperger EM"
+          ],
+          "firstName": [
+            "Eric M"
+          ],
+          "lastName": [
+            "Leibensperger"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Center for Earth and Environmental Science, SUNY Plattsburgh, Plattsburgh, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathur R"
+          ],
+          "firstName": [
+            "Rohit"
+          ],
+          "lastName": [
+            "Mathur"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "National Exposure Research Laboratory, US Environmental Protection Agency, Research Triangle Park, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nolte CG"
+          ],
+          "firstName": [
+            "Christopher G"
+          ],
+          "lastName": [
+            "Nolte"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5224-9965",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Exposure Research Laboratory, US Environmental Protection Agency, Research Triangle Park, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Portmann RW"
+          ],
+          "firstName": [
+            "Robert W"
+          ],
+          "lastName": [
+            "Portmann"
+          ],
+          "initials": [
+            "RW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0279-6087",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, Boulder, CO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Unger N"
+          ],
+          "firstName": [
+            "Nadine"
+          ],
+          "lastName": [
+            "Unger"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7739-2290",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Engineering, Mathematics and Physical Sciences, University of Exeter, Exeter, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Tosca M"
+          ],
+          "firstName": [
+            "Mika"
+          ],
+          "lastName": [
+            "Tosca"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of the Art Institute of Chicago (SAIC), Chicago, IL 60603, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Horowitz LW"
+          ],
+          "firstName": [
+            "Larry W"
+          ],
+          "lastName": [
+            "Horowitz"
+          ],
+          "initials": [
+            "LW"
+          ],
+          "affiliation": [
+            "Geophysical Fluid Dynamics Laboratory-National Oceanic and Atmospheric Administration, Princeton, NJ, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8574-1507",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7739-2290",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2014-2140",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6203-1847",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5224-9965",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4774-9751",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6617-7691",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0279-6087",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2701413"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Atmospheric chemistry and physics"
+          ],
+          "ISOAbbreviation": [
+            "Atmos Chem Phys"
+          ],
+          "medlineAbbreviation": [
+            "Atmos Chem Phys"
+          ],
+          "NLMid": [
+            "101214388"
+          ],
+          "ISSN": [
+            "1680-7316"
+          ],
+          "ESSN": [
+            "1680-7324"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2615-2651"
+  ],
+  "abstractText": [
+    "Concentrations of atmospheric trace species in the United States have changed dramatically over the past several decades in response to pollution control strategies, shifts in domestic energy policy and economics, and economic development (and resulting emission changes) elsewhere in the world. Reliable projections of the future atmosphere require models to not only accurately describe current atmospheric concentrations, but to do so by representing chemical, physical and biological processes with conceptual and quantitative fidelity. Only through incorporation of the processes controlling emissions and chemical mechanisms that represent the key transformations among reactive molecules can models reliably project the impacts of future policy, energy and climate scenarios. Efforts to properly identify and implement the fundamental and controlling mechanisms in atmospheric models benefit from intensive observation periods, during which collocated measurements of diverse, speciated chemicals in both the gas and condensed phases are obtained. The Southeast Atmosphere Studies (SAS, including SENEX, SOAS, NOMADSS and SEAC4RS) conducted during the summer of 2013 provided an unprecedented opportunity for the atmospheric modeling community to come together to evaluate, diagnose and improve the representation of fundamental climate and air quality processes in models of varying temporal and spatial scales. This paper is aimed at discussing progress in evaluating, diagnosing and improving air quality and climate modeling using comparisons to SAS observations as a guide to thinking about improvements to mechanisms and parameterizations in models. The effort focused primarily on model representation of fundamental atmospheric processes that are essential to the formation of ozone, secondary organic aerosol (SOA) and other trace species in the troposphere, with the ultimate goal of understanding the radiative impacts of these species in the southeast and elsewhere. Here we address questions surrounding four key themes: gas-phase chemistry, aerosol chemistry, regional climate and chemistry interactions, and natural and anthropogenic emissions. We expect this review to serve as a guidance for future modeling efforts."
+  ],
+  "affiliation": [
+    "Geophysical Institute and Department of Chemistry, University of Alaska Fairbanks, Fairbanks, AK, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "EPA999999"
+          ],
+          "agency": [
+            "Intramural EPA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6020695?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6020695"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5194/acp-18-2615-2018"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS963291"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-03"
+  ],
+  "dateOfRevision": [
+    "2018-07-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-22"
+  ],
+  "firstPublicationDate": [
+    "2018-02-22"
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "id": [
+    "29941972"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29941972"
+  ],
+  "pmcid": [
+    "PMC6018116"
+  ],
+  "doi": [
+    "10.1038/s41598-018-27622-8"
+  ],
+  "title": [
+    "Omics approaches revealed how arbuscular mycorrhizal symbiosis enhances yield and resistance to leaf pathogen in wheat."
+  ],
+  "authorString": [
+    "Fiorilli V, Vannini C, Ortolani F, Garcia-Seco D, Chiapello M, Novero M, Domingo G, Terzi V, Morcia C, Bagnaresi P, Moulin L, Bracale M, Bonfante P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fiorilli V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Fiorilli"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9805-1559",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Life Sciences and Systems Biology, Università degli Studi di Torino, Viale P.A. Mattioli 25, 10125, Torino, Italy. valentina.fiorilli@unito.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Vannini C"
+          ],
+          "firstName": [
+            "Candida"
+          ],
+          "lastName": [
+            "Vannini"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie e Scienze della Vita, Università degli Studi dell'Insubria, via J.H. Dunant 3, 21100, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ortolani F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Ortolani"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie e Scienze della Vita, Università degli Studi dell'Insubria, via J.H. Dunant 3, 21100, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia-Seco D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Garcia-Seco"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4560-4110",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IRD, Cirad, Univ. Montpellier, Interactions Plantes Microorganismes Environnement (IPME), 34394, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiapello M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Chiapello"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie e Scienze della Vita, Università degli Studi dell'Insubria, via J.H. Dunant 3, 21100, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Novero M"
+          ],
+          "firstName": [
+            "Mara"
+          ],
+          "lastName": [
+            "Novero"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7412-8750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Life Sciences and Systems Biology, Università degli Studi di Torino, Viale P.A. Mattioli 25, 10125, Torino, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Domingo G"
+          ],
+          "firstName": [
+            "Guido"
+          ],
+          "lastName": [
+            "Domingo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2617-8873",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie e Scienze della Vita, Università degli Studi dell'Insubria, via J.H. Dunant 3, 21100, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Terzi V"
+          ],
+          "firstName": [
+            "Valeria"
+          ],
+          "lastName": [
+            "Terzi"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "CREA-GB, Research Centre for Genomics and Bioinformatics, Via San Protaso 302, 29017, Fiorenzuola d'Arda, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Morcia C"
+          ],
+          "firstName": [
+            "Caterina"
+          ],
+          "lastName": [
+            "Morcia"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5316-7435",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CREA-GB, Research Centre for Genomics and Bioinformatics, Via San Protaso 302, 29017, Fiorenzuola d'Arda, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bagnaresi P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Bagnaresi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "CREA-GB, Research Centre for Genomics and Bioinformatics, Via San Protaso 302, 29017, Fiorenzuola d'Arda, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Moulin L"
+          ],
+          "firstName": [
+            "Lionel"
+          ],
+          "lastName": [
+            "Moulin"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9068-6912",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IRD, Cirad, Univ. Montpellier, Interactions Plantes Microorganismes Environnement (IPME), 34394, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bracale M"
+          ],
+          "firstName": [
+            "Marcella"
+          ],
+          "lastName": [
+            "Bracale"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie e Scienze della Vita, Università degli Studi dell'Insubria, via J.H. Dunant 3, 21100, Varese, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonfante P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Bonfante"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3576-8530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Life Sciences and Systems Biology, Università degli Studi di Torino, Viale P.A. Mattioli 25, 10125, Torino, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3576-8530",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2617-8873",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5316-7435",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9805-1559",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4560-4110",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7412-8750",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9068-6912",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2690600"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "9625"
+  ],
+  "abstractText": [
+    "Besides improved mineral nutrition, plants colonised by arbuscular mycorrhizal (AM) fungi often display increased biomass and higher tolerance to biotic and abiotic stresses. Notwithstanding the global importance of wheat as an agricultural crop, its response to AM symbiosis has been poorly investigated. We focused on the role of an AM fungus on mineral nutrition of wheat, and on its potential protective effect against Xanthomonas translucens. To address these issues, phenotypical, molecular and metabolomic approaches were combined. Morphological observations highlighted that AM wheat plants displayed an increased biomass and grain yield, as well as a reduction in lesion area following pathogen infection. To elucidate the molecular mechanisms underlying the mycorrhizal phenotype, we investigated changes of transcripts and proteins in roots and leaves during the double (wheat-AM fungus) and tripartite (wheat-AM fungus-pathogen) interaction. Transcriptomic and proteomic profiling identified the main pathways involved in enhancing plant biomass, mineral nutrition and in promoting the bio-protective effect against the leaf pathogen. Mineral and amino acid contents in roots, leaves and seeds, and protein oxidation profiles in leaves, supported the omics data, providing new insight into the mechanisms exerted by AM symbiosis to confer stronger productivity and enhanced resistance to X. translucens in wheat."
+  ],
+  "affiliation": [
+    "Department of Life Sciences and Systems Biology, Università degli Studi di Torino, Viale P.A. Mattioli 25, 10125, Torino, Italy. valentina.fiorilli@unito.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6018116?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6018116"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-27622-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "arrayexpress",
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-06-27"
+  ],
+  "dateOfRevision": [
+    "2019-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-25"
+  ],
+  "firstPublicationDate": [
+    "2018-06-25"
+  ]
+}

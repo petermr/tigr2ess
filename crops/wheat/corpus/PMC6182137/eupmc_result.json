@@ -1,0 +1,485 @@
+{
+  "id": [
+    "29931324"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29931324"
+  ],
+  "pmcid": [
+    "PMC6182137"
+  ],
+  "doi": [
+    "10.1093/nar/gky522"
+  ],
+  "title": [
+    "CGT-seq: epigenome-guided de novo assembly of the core genome for divergent populations with large genome."
+  ],
+  "authorString": [
+    "Qi M, Li Z, Liu C, Hu W, Ye L, Xie Y, Zhuang Y, Zhao F, Teng W, Zheng Q, Fan Z, Xu L, Lang Z, Tong Y, Zhang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qi M"
+          ],
+          "firstName": [
+            "Meifang"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zijuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chunmei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu W"
+          ],
+          "firstName": [
+            "Wenyan"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye L"
+          ],
+          "firstName": [
+            "Luhuan"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie Y"
+          ],
+          "firstName": [
+            "Yilin"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuang Y"
+          ],
+          "firstName": [
+            "Yili"
+          ],
+          "lastName": [
+            "Zhuang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Teng W"
+          ],
+          "firstName": [
+            "Wan"
+          ],
+          "lastName": [
+            "Teng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "University of the Chinese Academy of Sciences, Beijing 100049, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "University of the Chinese Academy of Sciences, Beijing 100049, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan Z"
+          ],
+          "firstName": [
+            "Zhenjun"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lang Z"
+          ],
+          "firstName": [
+            "Zhaobo"
+          ],
+          "lastName": [
+            "Lang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "University of the Chinese Academy of Sciences, Beijing 100049, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tong Y"
+          ],
+          "firstName": [
+            "Yiping"
+          ],
+          "lastName": [
+            "Tong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "University of the Chinese Academy of Sciences, Beijing 100049, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yijing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "18"
+      ],
+      "volume": [
+        "46"
+      ],
+      "journalIssueId": [
+        "2738483"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e107"
+  ],
+  "abstractText": [
+    "Genetic diversity in plants is remarkably high. Recent whole genome sequencing (WGS) of 67 rice accessions recovered 10,872 novel genes. Comparison of the genetic architecture among divergent populations or between crops and wild relatives is essential for obtaining functional components determining crucial traits. However, many major crops have gigabase-scale genomes, which are not well-suited to WGS. Existing cost-effective sequencing approaches including re-sequencing, exome-sequencing and restriction enzyme-based methods all have difficulty in obtaining long novel genomic sequences from highly divergent population with large genome size. The present study presented a reference-independent core genome targeted sequencing approach, CGT-seq, which employed epigenomic information from both active and repressive epigenetic marks to guide the assembly of the core genome mainly composed of promoter and intragenic regions. This method was relatively easily implemented, and displayed high sensitivity and specificity for capturing the core genome of bread wheat. 95% intragenic and 89% promoter region from wheat were covered by CGT-seq read. We further demonstrated in rice that CGT-seq captured hundreds of novel genes and regulatory sequences from a previously unsequenced ecotype. Together, with specific enrichment and sequencing of regions within and nearby genes, CGT-seq is a time- and resource-effective approach to profiling functionally relevant regions in sequenced and non-sequenced populations with large genomes."
+  ],
+  "affiliation": [
+    "National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 300 Fengalin Road, Shanghai 200032, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6182137?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6182137"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gky522"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-06-23"
+  ],
+  "dateOfRevision": [
+    "2018-10-19"
+  ],
+  "firstPublicationDate": [
+    "2018-10-01"
+  ]
+}

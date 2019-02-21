@@ -1,0 +1,632 @@
+{
+  "id": [
+    "30151030"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30151030"
+  ],
+  "pmcid": [
+    "PMC6108541"
+  ],
+  "doi": [
+    "10.1038/s41567-018-0089-9"
+  ],
+  "title": [
+    "Geometric constraints during epithelial jamming."
+  ],
+  "authorString": [
+    "Atia L, Bi D, Sharma Y, Mitchel JA, Gweon B, Koehler S, DeCamp SJ, Lan B, Kim JH, Hirsch R, Pegoraro AF, Lee KH, Starr JR, Weitz DA, Martin AC, Park JA, Butler JP, Fredberg JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Atia L"
+          ],
+          "firstName": [
+            "Lior"
+          ],
+          "lastName": [
+            "Atia"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bi D"
+          ],
+          "firstName": [
+            "Dapeng"
+          ],
+          "lastName": [
+            "Bi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4850-8666",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Northeastern University, Department of Physics, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma Y"
+          ],
+          "firstName": [
+            "Yasha"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitchel JA"
+          ],
+          "firstName": [
+            "Jennifer A"
+          ],
+          "lastName": [
+            "Mitchel"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gweon B"
+          ],
+          "firstName": [
+            "Bomi"
+          ],
+          "lastName": [
+            "Gweon"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Koehler S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Koehler"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "DeCamp SJ"
+          ],
+          "firstName": [
+            "Stephen J"
+          ],
+          "lastName": [
+            "DeCamp"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7002-7370",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JH"
+          ],
+          "firstName": [
+            "Jae Hun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirsch R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Hirsch"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pegoraro AF"
+          ],
+          "firstName": [
+            "Adrian F"
+          ],
+          "lastName": [
+            "Pegoraro"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "affiliation": [
+            "Harvard University, School of Engineering and Applied Sciences, Cambridge, Massachusetts 02138, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee KH"
+          ],
+          "firstName": [
+            "Kyu Ha"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "The Forsyth Institute, Cambridge, Massachusetts 02142 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Starr JR"
+          ],
+          "firstName": [
+            "Jacqueline R"
+          ],
+          "lastName": [
+            "Starr"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "The Forsyth Institute, Cambridge, Massachusetts 02142 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weitz DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Weitz"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Harvard University, School of Engineering and Applied Sciences, Cambridge, Massachusetts 02138, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin AC"
+          ],
+          "firstName": [
+            "Adam C"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Massachusetts Institute of Technology, Department of Biology, Cambridge, Massachusetts 02142, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Park JA"
+          ],
+          "firstName": [
+            "Jin-Ah"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Butler JP"
+          ],
+          "firstName": [
+            "James P"
+          ],
+          "lastName": [
+            "Butler"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fredberg JJ"
+          ],
+          "firstName": [
+            "Jeffrey J"
+          ],
+          "lastName": [
+            "Fredberg"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4850-8666",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7002-7370",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2720073"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature physics"
+          ],
+          "ISOAbbreviation": [
+            "Nat Phys"
+          ],
+          "medlineAbbreviation": [
+            "Nat Phys"
+          ],
+          "NLMid": [
+            "101235387"
+          ],
+          "ISSN": [
+            "1745-2473"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "613-620"
+  ],
+  "abstractText": [
+    "As an injury heals, an embryo develops, or a carcinoma spreads, epithelial cells systematically change their shape. In each of these processes cell shape is studied extensively whereas variability of shape from cell-to-cell is regarded most often as biological noise. But where do cell shape and its variability come from? Here we report that cell shape and shape variability are mutually constrained through a relationship that is purely geometrical. That relationship is shown to govern processes as diverse as maturation of the pseudostratified bronchial epithelial layer cultured from non-asthmatic or asthmatic donors, and formation of the ventral furrow in the Drosophila embryo. Across these and other epithelial systems, shape variability collapses to a family of distributions that is common to all. That distribution, in turn, is accounted for by a mechanistic theory of cell-cell interaction showing that cell shape becomes progressively less elongated and less variable as the layer becomes progressively more jammed. These findings suggest a connection between jamming and geometry that spans living organisms and inert jammed systems, and thus transcends system details. Although molecular events are needed for any complete theory of cell shape and cell packing, observations point to the hypothesis that jamming behavior at larger scales of organization sets overriding geometrical constraints."
+  ],
+  "affiliation": [
+    "Harvard T.H. Chan School of Public Health, Boston, Massachusetts 02115, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01 HL120839"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL107561"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 TR001102"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 CA202123"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 HL007118"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6108541?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6108541"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41567-018-0089-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS944195"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-29"
+  ],
+  "dateOfRevision": [
+    "2018-10-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-02"
+  ],
+  "firstPublicationDate": [
+    "2018-04-02"
+  ],
+  "embargoDate": [
+    "2018-10-02"
+  ]
+}

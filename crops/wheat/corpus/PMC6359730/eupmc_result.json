@@ -1,0 +1,619 @@
+{
+  "id": [
+    "30658479"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30658479"
+  ],
+  "pmcid": [
+    "PMC6359730"
+  ],
+  "doi": [
+    "10.3390/ijms20020392"
+  ],
+  "title": [
+    "Targeting SUMO Modification of the Non-Structural Protein 5 of Zika Virus as a Host-Targeting Antiviral Strategy."
+  ],
+  "authorString": [
+    "Zhu Z, Chu H, Wen L, Yuan S, Chik KK, Yuen TT, Yip CC, Wang D, Zhou J, Yin F, Jin DY, Kok KH, Yuen KY, Chan JF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2035-0804",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. zhengzhu@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Chu H"
+          ],
+          "firstName": [
+            "Hin"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2855-9837",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. hinchu@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. wenlei07@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan S"
+          ],
+          "firstName": [
+            "Shuofeng"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. yuansf@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Chik KK"
+          ],
+          "firstName": [
+            "Kenn Ka-Heng"
+          ],
+          "lastName": [
+            "Chik"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. kchik929@connect.hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuen TT"
+          ],
+          "firstName": [
+            "Terrence Tsz-Tai"
+          ],
+          "lastName": [
+            "Yuen"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. ttyuenii@connect.hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Yip CC"
+          ],
+          "firstName": [
+            "Cyril Chik-Yan"
+          ],
+          "lastName": [
+            "Yip"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. yipcyril@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. u3004628@connect.hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. jiezhou@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin F"
+          ],
+          "firstName": [
+            "Feifei"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Hainan Medical University, Haikou, Hainan, and The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. yinfeifeiff@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin DY"
+          ],
+          "firstName": [
+            "Dong-Yan"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. dyjin@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Kok KH"
+          ],
+          "firstName": [
+            "Kin-Hang"
+          ],
+          "lastName": [
+            "Kok"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3426-332X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. khkok@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuen KY"
+          ],
+          "firstName": [
+            "Kwok-Yung"
+          ],
+          "lastName": [
+            "Yuen"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. kyyuen@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Chan JF"
+          ],
+          "firstName": [
+            "Jasper Fuk-Woo"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. jfwchan@hku.hk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2855-9837",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2035-0804",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3426-332X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2770598"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Post-translational modifications of host or viral proteins are key strategies exploited by viruses to support virus replication and counteract host immune response. SUMOylation is a post-translational modification process mediated by a family of ubiquitin-like proteins called small ubiquitin-like modifier (SUMO) proteins. Multiple sequence alignment of 78 representative flaviviruses showed that most (72/78, 92.3%) have a putative SUMO-interacting motif (SIM) at their non-structural 5 (NS5) protein's N-terminal domain. The putative SIM was highly conserved among 414 pre-epidemic and epidemic Zika virus (ZIKV) strains, with all of them having a putative SIM core amino acid sequence of VIDL (327/414, 79.0%) or VVDL (87/414, 21.0%). Molecular docking predicted that the hydrophobic SIM core residues bind to the β2 strand of the SUMO-1 protein, and the acidic residues flanking the core strengthen the binding through interactions with the basic surface of the SUMO protein. The SUMO inhibitor 2-D08 significantly reduced replication of flaviviruses and protected cells against ZIKV-induced cytopathic effects in vitro. A SIM-mutated ZIKV NS5 failed to efficiently suppress type I interferon signaling. Overall, these findings may suggest SUMO modification of the viral NS5 protein to be an evolutionarily conserved post-translational modification process among flaviviruses to enhance virus replication and suppress host antiviral response."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, China. zhengzhu@hku.hk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Chan Yin Chuen Memorial Charitable Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Hui Hoy and Chow Sin Lan Charity Fund Limited"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Hui Ming"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "The Hong Kong Hainan Commercial Association South China Microbiology Research Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "The Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, the Ministry of Education of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "The Consultancy Service for Enhancing Laboratory Surveillance of Emerging Infectious Diseases and Research Capability on Antimicrobial Resistance for "
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "The High Level Hospital-Summit Program in Guangdong, The University of Hong Kong-Shenzhen Hospital"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Michael Seak-Kan Tong"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inhibitor",
+        "Interferon",
+        "Antiviral",
+        "SUMO",
+        "Post-translational modification",
+        "Flavivirus",
+        "Ns5",
+        "Zika"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359730?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359730"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20020392"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-17"
+  ],
+  "firstPublicationDate": [
+    "2019-01-17"
+  ]
+}

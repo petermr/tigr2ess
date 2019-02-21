@@ -1,0 +1,703 @@
+{
+  "id": [
+    "30157778"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30157778"
+  ],
+  "pmcid": [
+    "PMC6116500"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5012-3"
+  ],
+  "title": [
+    "Transcriptome dynamics associated with resistance and susceptibility against fusarium head blight in four wheat genotypes."
+  ],
+  "authorString": [
+    "Pan Y, Liu Z, Rocheleau H, Fauteux F, Wang Y, McCartney C, Ouellet T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pan Y"
+          ],
+          "firstName": [
+            "Youlian"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0158-0081",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Digital Technologies Research Centre, NRC, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada. youlian.pan@nrc-cnrc.gc.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Ziying"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Digital Technologies Research Centre, NRC, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocheleau H"
+          ],
+          "firstName": [
+            "Hélène"
+          ],
+          "lastName": [
+            "Rocheleau"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Ottawa Research and Development Centre, AAFC, 960 Carling Ave, Ottawa, ON, K1A 0C6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Fauteux F"
+          ],
+          "firstName": [
+            "François"
+          ],
+          "lastName": [
+            "Fauteux"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Digital Technologies Research Centre, NRC, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yunli"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Digital Technologies Research Centre, NRC, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "McCartney C"
+          ],
+          "firstName": [
+            "Curt"
+          ],
+          "lastName": [
+            "McCartney"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Morden Research and Development Centre, AAFC, 101 Route 100, Morden, MB, R6M 1Y5, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ouellet T"
+          ],
+          "firstName": [
+            "Thérèse"
+          ],
+          "lastName": [
+            "Ouellet"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Ottawa Research and Development Centre, AAFC, 960 Carling Ave, Ottawa, ON, K1A 0C6, Canada. therese.ouellet@agr.gc.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0158-0081",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2711763"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "642"
+  ],
+  "abstractText": [
+    "BACKGROUND:Fusarium head blight (FHB) of wheat in North America is caused mostly by the fungal pathogen Fusarium graminearum (Fg). Upon exposure to Fg, wheat initiates a series of cellular responses involving massive transcriptional reprogramming. In this study, we analyzed transcriptomics data of four wheat genotypes (Nyubai, Wuhan 1, HC374, and Shaw), at 2 and 4 days post inoculation (dpi) with Fg, using RNA-seq technology. RESULTS:A total of 37,772 differentially expressed genes (DEGs) were identified, 28,961 from wheat and 8811 from the pathogen. The susceptible genotype Shaw exhibited the highest number of host and pathogen DEGs, including 2270 DEGs associating with FHB susceptibility. Protein serine/threonine kinases and LRR-RK were associated with susceptibility at 2 dpi, while several ethylene-responsive, WRKY, Myb, bZIP and NAC-domain containing transcription factors were associated with susceptibility at 4 dpi. In the three resistant genotypes, 220 DEGs were associated with resistance. Glutathione S-transferase (GST), membrane proteins and distinct LRR-RKs were associated with FHB resistance across the three genotypes. Genes with unique, high up-regulation by Fg in Wuhan 1 were mostly transiently expressed at 2 dpi, while many defense-associated genes were up-regulated at both 2 and 4 dpi in Nyubai; the majority of unique genes up-regulated in HC374 were detected at 4 dpi only. In the pathogen, most genes showed increased expression between 2 and 4 dpi in all genotypes, with stronger levels in the susceptible host; however two pectate lyases and a hydrolase were expressed higher at 2 dpi, and acetyltransferase activity was highly enriched at 4 dpi. CONCLUSIONS:There was an early up-regulation of LRR-RKs, different between susceptible and resistant genotypes; subsequently, distinct sets of genes associated with defense response were up-regulated. Differences in expression profiles among the resistant genotypes indicate genotype-specific defense mechanisms. This study also shows a greater resemblance in transcriptomics of HC374 to Nyubai, consistent with their sharing of two FHB resistance QTLs on 3BS and 5AS, compared to Wuhan 1 which carries one QTL on 2DL in common with HC374."
+  ],
+  "affiliation": [
+    "Digital Technologies Research Centre, NRC, 1200 Montreal Road, Ottawa, ON, K1A 0R6, Canada. youlian.pan@nrc-cnrc.gc.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "\"Canadian Wheat Improvement\" project A1-011652"
+          ],
+          "agency": [
+            "National Research Council Canada"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "projects J-000008 and J-001580"
+          ],
+          "agency": [
+            "Genomics Research and Development Initiative"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "project J-000412"
+          ],
+          "agency": [
+            "Canadian Agriculture and Agri-Food Growing Forward 2 program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "National Wheat Improvement Program"
+          ],
+          "agency": [
+            "Western Grains Research Foundation and Agriculture and Agri-Food Canada"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fusarium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Susceptibility"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Growth Regulators"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Triticum aestivum",
+        "Differentially expressed genes",
+        "Pathogenesis",
+        "Fusarium graminearum",
+        "plant defense",
+        "Fusarium head blight",
+        "Rna-seq"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Growth Regulators"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6116500?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6116500"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5012-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-05"
+  ],
+  "dateOfCreation": [
+    "2018-08-31"
+  ],
+  "dateOfRevision": [
+    "2018-11-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-29"
+  ],
+  "firstPublicationDate": [
+    "2018-08-29"
+  ]
+}

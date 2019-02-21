@@ -1,0 +1,919 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6230948</article-id><article-id pub-id-type="doi">10.1111/pbi.12940</article-id><article-id pub-id-type="publisher-id">PBI12940</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Chromosome&#x02010;based survey sequencing reveals the genome organization of wild wheat progenitor <italic>Triticum dicoccoides</italic>
+</article-title><alt-title alt-title-type="left-running-head"><italic>Bala Ani Akpinar</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12940-cr-0001" contrib-type="author"><name><surname>Akpinar</surname><given-names>Bala Ani</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12940-cr-0002" contrib-type="author"><name><surname>Biyiklioglu</surname><given-names>Sezgi</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12940-cr-0003" contrib-type="author"><name><surname>Alptekin</surname><given-names>Burcu</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12940-cr-0004" contrib-type="author"><name><surname>Havr&#x000e1;nkov&#x000e1;</surname><given-names>Miroslava</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12940-cr-0005" contrib-type="author"><name><surname>Vr&#x000e1;na</surname><given-names>Jan</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12940-cr-0006" contrib-type="author"><name><surname>Dole&#x0017e;el</surname><given-names>Jaroslav</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6263-0492</contrib-id><xref ref-type="aff" rid="pbi12940-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12940-cr-0007" contrib-type="author"><name><surname>Distelfeld</surname><given-names>Assaf</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12940-cr-0008" contrib-type="author"><name><surname>Hernandez</surname><given-names>Pilar</given-names></name><xref ref-type="aff" rid="pbi12940-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12940-cr-0009" contrib-type="author"><collab collab-type="authors">The IWGSC</collab><xref ref-type="aff" rid="pbi12940-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="pbi12940-cr-0010" contrib-type="author" corresp="yes"><name><surname>Budak</surname><given-names>Hikmet</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2556-2478</contrib-id><address><email>hikmet.budak@montana.edu</email></address><xref ref-type="aff" rid="pbi12940-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12940-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Plant Sciences and Plant Pathology</named-content>
+<institution>Cereal Genomics Lab</institution>
+<institution>Montana State University</institution>
+<named-content content-type="city">Bozeman</named-content>
+<named-content content-type="country-part">MT</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12940-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Centre of the Region Han&#x000e1; for Biotechnological and Agricultural Research</named-content>
+<institution>Institute of Experimental Botany</institution>
+<named-content content-type="city">Olomouc</named-content>
+<country country="CZ">Czech Republic</country>
+</aff><aff id="pbi12940-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Molecular Biology and Ecology of Plants</named-content>
+<named-content content-type="organisation-division">Faculty of Life Sciences</named-content>
+<institution>Tel Aviv University</institution>
+<named-content content-type="city">Tel Aviv</named-content>
+<country country="IL">Israel</country>
+</aff><aff id="pbi12940-aff-0004">
+<label><sup>4</sup></label>
+<institution>Instituto de Agricultura Sostenible (IAS)</institution>
+<institution>Consejo Superior de Investigaciones Cient&#x000ed;ficas (CSIC)</institution>
+<named-content content-type="city">Cordoba</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="pbi12940-aff-0005">
+<label><sup>5</sup></label>
+<institution>International Wheat Genome Sequencing Consortium</institution>
+<named-content content-type="city">Bethesda</named-content>
+<named-content content-type="country-part">MD</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +1&#x02010;406&#x02010;994&#x02010;6717; fax +1&#x02010;406&#x02010;994&#x02010;1848; email <email>hikmet.budak@montana.edu</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2018</year></pub-date><volume>16</volume><issue>12</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-12</issue-id><fpage>2077</fpage><lpage>2087</lpage><history><date date-type="received"><day>12</day><month>1</month><year>2018</year></date><date date-type="rev-recd"><day>11</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>20</day><month>4</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-2077.pdf"/><abstract id="pbi12940-abs-0001"><title>Summary</title><p>Wild emmer wheat (<italic>Triticum turgidum</italic> ssp. <italic>dicoccoides</italic>) is the progenitor of wheat. We performed chromosome&#x02010;based survey sequencing of the 14 chromosomes, examining repetitive sequences, protein&#x02010;coding genes, mi<styled-content style="fixed-case">RNA</styled-content>/target pairs and <styled-content style="fixed-case">tRNA</styled-content> genes, as well as syntenic relationships with related grasses. We found considerable differences in the content and distribution of repetitive sequences between the A and B subgenomes. The gene contents of individual chromosomes varied widely, not necessarily correlating with chromosome size. We catalogued candidate agronomically important loci, along with new alleles and flanking sequences that can be used to design exome sequencing. Syntenic relationships and virtual gene orders revealed several small&#x02010;scale evolutionary rearrangements, in addition to providing evidence for the 4<styled-content style="fixed-case">AL</styled-content>&#x02010;5<styled-content style="fixed-case">AL</styled-content>&#x02010;7<styled-content style="fixed-case">BS</styled-content> translocation in wild emmer wheat. Chromosome&#x02010;based sequence assemblies contained five novel mi<styled-content style="fixed-case">RNA</styled-content> families, among 59 families putatively encoded in the entire genome which provide insight into the domestication of wheat and an overview of the genome content and organization.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12940-kwd-0001">wild emmer wheat</kwd><kwd id="pbi12940-kwd-0002">chromosome sorting</kwd><kwd id="pbi12940-kwd-0003">hexaploid wheat</kwd><kwd id="pbi12940-kwd-0004">next&#x02010;generation sequencing</kwd><kwd id="pbi12940-kwd-0005">comparative genomics</kwd></kwd-group><funding-group><award-group><funding-source>Winifred&#x02010;Asbjornson</funding-source></award-group><award-group><funding-source>Czech Science Foundation</funding-source><award-id>P501/12/G090</award-id></award-group><award-group><funding-source>Ministry of Education, Youth and Sports of the Czech Republic</funding-source><award-id>LO1204</award-id></award-group><award-group><funding-source>National Program of Sustainability I</funding-source></award-group><award-group><funding-source>MINECO</funding-source><award-id>AGL2016&#x02010;77149&#x02010;C2&#x02010;1&#x02010;P</award-id><award-id>CGL2016&#x02010;79790&#x02010;P</award-id></award-group><award-group><funding-source>Junta de Andalucia</funding-source><award-id>P12&#x02010;AGR&#x02010;0482</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="11"/><word-count count="9943"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12940</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.1 mode:remove_FC converted:12.11.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12940-sec-0001"><title>Introduction</title><p>Wheat, a major cereal food crop, is rich in carbohydrates, proteins and minerals and is grown on over 220 million hectares of land worldwide (Henry <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0025" ref-type="ref">2016</xref>; Mayer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0046" ref-type="ref">2014</xref>). However, yield trends show increasing instability worldwide, particularly across developing regions, where wheat represents a staple food source (Iizumi <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0027" ref-type="ref">2014</xref>). The formation of <italic>T.&#x000a0;aestivum</italic> occurred through at least two spontaneous hybridizations accompanied by whole&#x02010;genome duplications. Several hundred thousand years ago, a spontaneous hybridization between the diploid A&#x02010;genome progenitor, <italic>Triticum urartu</italic> (2<italic>n</italic>&#x000a0;=&#x000a0;2<italic>x</italic>&#x000a0;=&#x000a0;14, AA), and the unknown B&#x02010;genome progenitor, a close relative of extant <italic>Aegilops speltoides</italic> (BB), led to the formation of allotetraploid <italic>Triticum turgidum</italic> (2<italic>n</italic>&#x000a0;=&#x000a0;4<italic>x</italic>&#x000a0;=&#x000a0;28, AABB), which eventually gave rise to bread wheat after a subsequent hybridization with the diploid D&#x02010;genome progenitor <italic>Aegilops tauschii</italic> (2<italic>n</italic>&#x000a0;=&#x000a0;2<italic>x</italic>&#x000a0;=&#x000a0;14, DD) (Marcussen <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0044" ref-type="ref">2014</xref>). While the allotetraploid wheat was also domesticated and is being cultivated as durum wheat, wild populations that diverged into subspecies continue to exist. Among these wild populations is wild emmer wheat, <italic>Triticum turgidum</italic> ssp. <italic>dicoccoides</italic> (2<italic>n</italic>&#x000a0;=&#x000a0;4<italic>x</italic>&#x000a0;=&#x000a0;28, AABB), the wild relative of durum wheat. <italic>T.&#x000a0;dicoccoides</italic> populations show remarkable genetic diversity for traits such as grain micronutrient content, abiotic stress tolerance and biotic stress resistance (Budak <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0012" ref-type="ref">2013b</xref>; Ergen and Budak, <xref rid="pbi12940-bib-0021" ref-type="ref">2009</xref>; Ergen <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0022" ref-type="ref">2009</xref>). For instance, <italic>T.&#x000a0;dicoccoides</italic> genotype TR39477 exhibits outstanding tolerance to drought, whereas another genotype, TTD&#x02010;22, is highly susceptible to this stress (Ergen and Budak, <xref rid="pbi12940-bib-0021" ref-type="ref">2009</xref>; Ergen <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0022" ref-type="ref">2009</xref>). Such genetic diversity should allow researchers to explore the molecular basis of these traits and discover favourable alleles for breeding. In addition, the direct ancestry of <italic>T.&#x000a0;dicoccoides</italic> to bread wheat facilitates gene transfer through viable crosses, making it a promising resource for wheat improvement. Despite its great potential, this resource remains largely untapped (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0003" ref-type="ref">2015a</xref>; Budak <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0011" ref-type="ref">2013a</xref>; Ergen and Budak, <xref rid="pbi12940-bib-0021" ref-type="ref">2009</xref>; Nevo and Chen, <xref rid="pbi12940-bib-0048" ref-type="ref">2010</xref>).</p><p>The draft whole&#x02010;genome sequence of bread wheat was published a couple of years ago (Mayer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0046" ref-type="ref">2014</xref>), following publication of the genome sequences of the A&#x02010; and D&#x02010;genome progenitors (Jia <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0028" ref-type="ref">2013</xref>; Ling <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0038" ref-type="ref">2013</xref>). While a much improved assembly was recently released for bread wheat (Zimin <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0071" ref-type="ref">2017</xref>), to fully exploit these genomic resources for wheat improvement, it will be crucial to unlock the contents of the rich gene pools of its wild relatives. To this end, next&#x02010;generation sequencing of the 5B chromosome of <italic>T.&#x000a0;dicoccoides</italic> was recently performed, providing the first in&#x02010;depth insights into its genome (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0004" ref-type="ref">2015b</xref>). Finally, a whole&#x02010;genome assembly was published for <italic>T.&#x000a0;dicoccoides</italic> genotype Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>), which provided valuable insight into the wild tetraploid wheat genome. These genomic resources will become much more useful as they accumulate including additional genotypes and relatives.</p><p>Here, we report next&#x02010;generation sequencing of all 14 <italic>T.&#x000a0;dicoccoides</italic> chromosomes isolated by flow cytometry, which enabled us to explore the repetitive sequence landscape, protein&#x02010;coding genes, putative miRNA/target pairs and tRNA genes in this species and its syntenic relationships with related grasses. Analysis of this large&#x02010;scale genome data based on individual chromosomes allowed us to compare the subgenomes of <italic>T.&#x000a0;dicoccoides</italic>. This study expands our knowledge of the wild emmer genome at the nucleotide level, paving the way for comparative analyses and molecular marker discovery that should facilitate the identification, cloning and transfer of favourable alleles for wheat improvement.</p></sec><sec id="pbi12940-sec-0002"><title>Results</title><sec id="pbi12940-sec-0003"><title>Bi&#x02010;parametric flow cytometry provides access to individual <italic>T.&#x000a0;dicoccoides</italic> chromosomes</title><p>To circumvent genome complexity of tetraploid <italic>T.&#x000a0;dicoccoides</italic>, all 14 chromosomes were individually isolated by flow cytometry from two genotypes, based on bi&#x02010;parametric analysis of GAA microsatellite content and DAPI fluorescence intensity, as described earlier (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0004" ref-type="ref">2015b</xref>). Chromosomal DNA amplified from flow&#x02010;sorted chromosomes was sequenced to a depth of 39&#x02013;58&#x000a0;&#x000d7;&#x000a0;, assuming that chromosome sizes are similar to those estimated for <italic>Triticum durum</italic> cv. Timilia (Venora <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0063" ref-type="ref">2002</xref>). After exclusion of ultra&#x02010;short contigs of &#x0003c;200 bases that likely represent collapsed repeats (Mayer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0046" ref-type="ref">2014</xref>; Simpson <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0056" ref-type="ref">2009</xref>), the <italic>de novo</italic> assembly built from &#x0003e;480&#x000a0;Gb sequence data was mapped to the recently published genome of <italic>T.&#x000a0;dicoccoides</italic> genotype Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) to eliminate any impurities and contamination from organellar genomes and/or rDNA sequences. Neighbouring scaffolds of the <italic>de novo</italic> assembly mapping to the appropriate Zavitan chromosomes closer than a distance of 50 nucleotides were merged with &#x02018;N's to build chromosomal super&#x02010;scaffolds. On average, chromosomal super&#x02010;scaffolds represented ~32%&#x02013;78% of their respective Zavitan chromosomes. These reference&#x02010;guided final super&#x02010;scaffolds, referred as &#x02018;chromosome assemblies&#x02019; hereafter, ranged from 288.3 to 700.4&#x000a0;Mb in total length, with N50 values of 1092&#x02013;4938&#x000a0;bp. (Table&#x000a0;<xref rid="pbi12940-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="pbi12940-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of sequencing and assembly statistics for <italic>T.&#x000a0;dicoccoides</italic> chromosomes</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="char" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Raw data</th><th align="char" colspan="5" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Assembly</th><th align="char" rowspan="2" valign="top" colspan="1">Repetitive sequences (%)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Estimated size (Mbp)<xref ref-type="fn" rid="pbi12940-note-0001">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">Purity in flow&#x02010;sorted fraction (%)</th><th align="char" valign="top" rowspan="1" colspan="1">Sequences (Gbp)</th><th align="char" valign="top" rowspan="1" colspan="1">Coverage (x&#x02010;fold)</th><th align="char" valign="top" rowspan="1" colspan="1">k&#x02010;mer for assembly</th><th align="char" valign="top" rowspan="1" colspan="1">Total no. of final contigs and clusters (&#x0003e;200&#x000a0;bp)</th><th align="char" valign="top" rowspan="1" colspan="1">Assembled sequences (Mbp)</th><th align="char" valign="top" rowspan="1" colspan="1">N50 (bp)</th><th align="char" valign="top" rowspan="1" colspan="1">% representation of respective Zavitan chromosomes</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Tdic1A</td><td align="char" char="." rowspan="1" colspan="1">657.6</td><td align="char" char="." rowspan="1" colspan="1">92</td><td align="char" char="." rowspan="1" colspan="1">38.0</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">363&#x000a0;434</td><td align="char" char="." rowspan="1" colspan="1">434.8</td><td align="char" char="." rowspan="1" colspan="1">3557</td><td align="char" char="." rowspan="1" colspan="1">62.1</td><td align="char" char="." rowspan="1" colspan="1">82.12</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic1B</td><td align="char" char="." rowspan="1" colspan="1">849.7</td><td align="char" char="." rowspan="1" colspan="1">65</td><td align="char" char="." rowspan="1" colspan="1">39.1</td><td align="char" char="." rowspan="1" colspan="1">45</td><td align="char" char="." rowspan="1" colspan="1">64</td><td align="char" char="." rowspan="1" colspan="1">1&#x000a0;181&#x000a0;661</td><td align="char" char="." rowspan="1" colspan="1">700.4</td><td align="char" char="." rowspan="1" colspan="1">1092</td><td align="char" char="." rowspan="1" colspan="1">77.8</td><td align="char" char="." rowspan="1" colspan="1">79.46</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic2A</td><td align="char" char="." rowspan="1" colspan="1">804.7</td><td align="char" char="." rowspan="1" colspan="1">92</td><td align="char" char="." rowspan="1" colspan="1">36.9</td><td align="char" char="." rowspan="1" colspan="1">43</td><td align="char" char="." rowspan="1" colspan="1">54</td><td align="char" char="." rowspan="1" colspan="1">327&#x000a0;364</td><td align="char" char="." rowspan="1" colspan="1">288.3</td><td align="char" char="." rowspan="1" colspan="1">2345</td><td align="char" char="." rowspan="1" colspan="1">31.9</td><td align="char" char="." rowspan="1" colspan="1">69.68</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic2B</td><td align="char" char="." rowspan="1" colspan="1">708.1</td><td align="char" char="." rowspan="1" colspan="1">93</td><td align="char" char="." rowspan="1" colspan="1">34.8</td><td align="char" char="." rowspan="1" colspan="1">39</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="char" char="." rowspan="1" colspan="1">350&#x000a0;258</td><td align="char" char="." rowspan="1" colspan="1">477.1</td><td align="char" char="." rowspan="1" colspan="1">4266</td><td align="char" char="." rowspan="1" colspan="1">50.1</td><td align="char" char="." rowspan="1" colspan="1">78.88</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic3A</td><td align="char" char="." rowspan="1" colspan="1">647.7</td><td align="char" char="." rowspan="1" colspan="1">93</td><td align="char" char="." rowspan="1" colspan="1">35.5</td><td align="char" char="." rowspan="1" colspan="1">44</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">427&#x000a0;274</td><td align="char" char="." rowspan="1" colspan="1">431.1</td><td align="char" char="." rowspan="1" colspan="1">2787</td><td align="char" char="." rowspan="1" colspan="1">50.2</td><td align="char" char="." rowspan="1" colspan="1">79.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic3B</td><td align="char" char="." rowspan="1" colspan="1">742.1</td><td align="char" char="." rowspan="1" colspan="1">92</td><td align="char" char="." rowspan="1" colspan="1">38.0</td><td align="char" char="." rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">360&#x000a0;242</td><td align="char" char="." rowspan="1" colspan="1">552.9</td><td align="char" char="." rowspan="1" colspan="1">4707</td><td align="char" char="." rowspan="1" colspan="1">55.3</td><td align="char" char="." rowspan="1" colspan="1">79.93</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic4A</td><td align="char" char="." rowspan="1" colspan="1">864.0</td><td align="char" char="." rowspan="1" colspan="1">76</td><td align="char" char="." rowspan="1" colspan="1">28.9</td><td align="char" char="." rowspan="1" colspan="1">41</td><td align="char" char="." rowspan="1" colspan="1">54</td><td align="char" char="." rowspan="1" colspan="1">638&#x000a0;342</td><td align="char" char="." rowspan="1" colspan="1">388.6</td><td align="char" char="." rowspan="1" colspan="1">1114</td><td align="char" char="." rowspan="1" colspan="1">41.1</td><td align="char" char="." rowspan="1" colspan="1">70.52</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic4B</td><td align="char" char="." rowspan="1" colspan="1">893.6</td><td align="char" char="." rowspan="1" colspan="1">87</td><td align="char" char="." rowspan="1" colspan="1">30.3</td><td align="char" char="." rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="char" char="." rowspan="1" colspan="1">592&#x000a0;030</td><td align="char" char="." rowspan="1" colspan="1">519.0</td><td align="char" char="." rowspan="1" colspan="1">2479</td><td align="char" char="." rowspan="1" colspan="1">64.9</td><td align="char" char="." rowspan="1" colspan="1">83.22</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic5A</td><td align="char" char="." rowspan="1" colspan="1">659.8</td><td align="char" char="." rowspan="1" colspan="1">98</td><td align="char" char="." rowspan="1" colspan="1">33.8</td><td align="char" char="." rowspan="1" colspan="1">51</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="char" char="." rowspan="1" colspan="1">455&#x000a0;525</td><td align="char" char="." rowspan="1" colspan="1">353.1</td><td align="char" char="." rowspan="1" colspan="1">1913</td><td align="char" char="." rowspan="1" colspan="1">41.3</td><td align="char" char="." rowspan="1" colspan="1">72.93</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic5B</td><td align="char" char="." rowspan="1" colspan="1">842.0</td><td align="char" char="." rowspan="1" colspan="1">95</td><td align="char" char="." rowspan="1" colspan="1">34.1</td><td align="char" char="." rowspan="1" colspan="1">41</td><td align="char" char="." rowspan="1" colspan="1">62</td><td align="char" char="." rowspan="1" colspan="1">572&#x000a0;876</td><td align="char" char="." rowspan="1" colspan="1">441.2</td><td align="char" char="." rowspan="1" colspan="1">1927</td><td align="char" char="." rowspan="1" colspan="1">50.5</td><td align="char" char="." rowspan="1" colspan="1">76.24</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic6A</td><td align="char" char="." rowspan="1" colspan="1">958.4</td><td align="char" char="." rowspan="1" colspan="1">97</td><td align="char" char="." rowspan="1" colspan="1">34.0</td><td align="char" char="." rowspan="1" colspan="1">53</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="char" char="." rowspan="1" colspan="1">252&#x000a0;227</td><td align="char" char="." rowspan="1" colspan="1">392.7</td><td align="char" char="." rowspan="1" colspan="1">4938</td><td align="char" char="." rowspan="1" colspan="1">54.4</td><td align="char" char="." rowspan="1" colspan="1">82.09</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic6B</td><td align="char" char="." rowspan="1" colspan="1">764.1</td><td align="char" char="." rowspan="1" colspan="1">53</td><td align="char" char="." rowspan="1" colspan="1">34.3</td><td align="char" char="." rowspan="1" colspan="1">42</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">905&#x000a0;302</td><td align="char" char="." rowspan="1" colspan="1">624.3</td><td align="char" char="." rowspan="1" colspan="1">1522</td><td align="char" char="." rowspan="1" colspan="1">67.0</td><td align="char" char="." rowspan="1" colspan="1">79.69</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic7A</td><td align="char" char="." rowspan="1" colspan="1">813.5</td><td align="char" char="." rowspan="1" colspan="1">59</td><td align="char" char="." rowspan="1" colspan="1">34.5</td><td align="char" char="." rowspan="1" colspan="1">47</td><td align="char" char="." rowspan="1" colspan="1">60</td><td align="char" char="." rowspan="1" colspan="1">649&#x000a0;826</td><td align="char" char="." rowspan="1" colspan="1">497.4</td><td align="char" char="." rowspan="1" colspan="1">1822</td><td align="char" char="." rowspan="1" colspan="1">51.1</td><td align="char" char="." rowspan="1" colspan="1">73.85</td></tr><tr><td align="left" rowspan="1" colspan="1">Tdic7B</td><td align="char" char="." rowspan="1" colspan="1">772.9</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">30.0</td><td align="char" char="." rowspan="1" colspan="1">39</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">730&#x000a0;770</td><td align="char" char="." rowspan="1" colspan="1">585.1</td><td align="char" char="." rowspan="1" colspan="1">2090</td><td align="char" char="." rowspan="1" colspan="1">60.3</td><td align="char" char="." rowspan="1" colspan="1">79.72</td></tr></tbody></table><table-wrap-foot><fn id="pbi12940-note-0001"><label>a</label><p>Chromosome sizes were assumed to be similar to the estimated sizes for <italic>T.&#x000a0;turgidum</italic> cv. Timilia (Venora <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0063" ref-type="ref">2002</xref>), calculated by dividing 1C genome size by relative length.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="pbi12940-sec-0004"><title>
+<italic>T.&#x000a0;dicoccoides</italic> genome is swamped by repetitive elements</title><p>As a hallmark of <italic>Triticeae</italic> genomes, chromosome assemblies were also swamped by repetitive elements which indicated an overall repeat content of 78.2% for the entire genome, marginally underestimated due to the exclusion of ultra&#x02010;short contigs. While Class I retroelements dominated the overall repetitive landscape, at the family level, the Jorge family of Class II DNA transposons (En&#x02010;Spm superfamily) was prominent, reaching as many as 15% of all bases masked as repetitive elements in all chromosome assemblies. Among repeat families, the most striking difference was observed for undetermined LTR elements, which collectively comprised over one&#x02010;fifth of all repeat annotations from A&#x02010;genome chromosomes, in contrast to B&#x02010;genome chromosomes, where these elements comprised only ~12.5% of all repeat annotations combined (Figure&#x000a0;<xref rid="pbi12940-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12940-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Distribution of repetitive elements in the A and B subgenomes. Repeat annotations of three chromosomes belonging to each subgenome were combined to assess the repetitive landscape of the subgenomes. <styled-content style="fixed-case">DNA</styled-content>:<styled-content style="fixed-case"> DNA</styled-content> transposons; En&#x02010;<styled-content style="fixed-case">SPM</styled-content>/<styled-content style="fixed-case">CACTA</styled-content>, Harbinger, Mu<styled-content style="fixed-case">DR</styled-content>/Mutator, Tc1/Mariner and&#x000a0;hobo/Activator are <styled-content style="fixed-case">DNA</styled-content> transposon subfamilies, while long terminal repeats (<styled-content style="fixed-case">LTR</styled-content>) elements and long and short interspersed elements (<styled-content style="fixed-case">LINE</styled-content>s, <styled-content style="fixed-case">SINE</styled-content>s) are retroelements.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-2077-g001"/></fig></sec><sec id="pbi12940-sec-0005"><title>
+<italic>T.&#x000a0;dicoccoides</italic> genome is highly populated with genes that are conserved among grasses</title><p>To identify genes encoded by the <italic>T.&#x000a0;dicoccoides</italic> chromosomes and explore syntenic relationships, chromosome assemblies were compared against the fully annotated proteomes of the related grasses <italic>Brachypodium</italic>, rice and sorghum and high&#x02010;confidence proteins of its close relative, barley, in addition to transcript assemblies and predicted proteins of <italic>T.&#x000a0;dicoccoides</italic> (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0003" ref-type="ref">2015a</xref>; Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) (Table&#x000a0;<xref rid="pbi12940-sup-0008" ref-type="supplementary-material">S1</xref>, Figure&#x000a0;<xref rid="pbi12940-sup-0001" ref-type="supplementary-material">S1</xref>). To avoid redundancy in gene number estimations due to orthologous relationships, <italic>Brachypodium</italic>, rice, sorghum and barley genes were clustered into nonredundant orthologous groups based on sequence similarity using OrthoMCL (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0035" ref-type="ref">2003</xref>). In total, 60&#x000a0;392 contigs were associated with 14&#x000a0;882 nonredundant orthologous genes from related grasses, representing orthologous coding loci. Of these, loci found on only one chromosome, on homeologous group chromosomes or all chromosomes, were excluded. Remaining 6430 coding loci found on two or more chromosomes corresponding to the same orthologous grass gene may point to putative interchromosomal gene duplication or gene loss events. Overall, assuming an average coding sequence length of 2772 bases for wheat (Luo <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0043" ref-type="ref">2013</xref>), these observations suggested that the entire <italic>T.&#x000a0;dicoccoides</italic> genome may encode ~37&#x000a0;000 conserved genes that have orthologs in the four related grass genomes, with a peak of conserved gene fraction of 1.3% for chromosome Tdic4A. The estimation of total gene content of the genome should take functional intra&#x02010;chromosomal gene duplicates that widely diverged from their grass orthologs (neo&#x02010;functionalization) and genes that are specific to the wheat lineage into account, while putting special care on the well&#x02010;known prevalence of nonfunctional pseudogenes in wheat genomes (Choulet <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0016" ref-type="ref">2010</xref>).</p><p>Due to their shared ancestry, cereal genomes exhibit widespread colinearity, forming large &#x02018;syntenic&#x02019; regions on chromosomes that carry orthologous genes (The International Brachypodium Initiative, <xref rid="pbi12940-bib-0060" ref-type="ref">2010</xref>). Comparison of the chromosome assemblies to the related grasses reproduced the well&#x02010;known patterns of synteny at the chromosome level, providing evidence for the well&#x02010;documented 4AL&#x02010;5AL&#x02010;7BS translocation, as well (Figure&#x000a0;<xref rid="pbi12940-sup-0002" ref-type="supplementary-material">S2</xref>). While Tdic5A and Tdic5B had similar conservation patterns in general, a unique region of synteny to the distal regions of Bd1 (Bd1 for <italic>Brachypodium distachyon</italic> chromosome 1) and Sb1 (Sb1 for <italic>Sorghum bicolor</italic> chromosome 1) and to the proximal region of Os3 (Os3 for <italic>Oryza sativa</italic> chromosome 3), was observed only for Tdic5A (Figure&#x000a0;<xref rid="pbi12940-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12940-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Syntenic relationships of homeologous group 5 chromosomes with the <italic>Brachypodium</italic> genome, rice chromosome 3 (Os3) and sorghum chromosome 1 (Sb1). For simplicity, only chromosomes of interest are shown for rice and sorghum. Chromosome lengths for <italic>Brachypodium</italic> are relative to each other, while for rice and sorghum, chromosome lengths are arbitrary. Red asterisks highlight syntenic regions observed for Tdic5A but not Tdic5B.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-2077-g002"/></fig></sec><sec id="pbi12940-sec-0006"><title>Overview of the structural comparison of wild and modern wheat genomes</title><p>To explore the overall conservation between modern and wild wheat genomes, chromosome assemblies were compared against the genomes of wild emmer wheat Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) and bread wheat cultivar Chinese Spring (IWGSC RefSeqv1). We individually mapped the chromosome assemblies to each genome and used any sequence mapping to specific locations on both the Zavitan and Chinese Spring genomes as links to connect the two respective positions. For each of the 14 chromosomes, approximately 400&#x000a0;000&#x02013;500&#x000a0;000 such links demonstrated large&#x02010;scale structural variations between these wild and domesticated genotypes. As expected from the close evolutionary relationship between these two species, extensive colinearity between orthologous chromosomes was evident (Figure&#x000a0;<xref rid="pbi12940-sup-0003" ref-type="supplementary-material">S3</xref>). Despite the extensive conservation between the closely related tetraploid wild genomes, we identified over 45M sequence variations, including single nucleotide polymorphisms (SNPs) and InDels, between our chromosome sequences and the Zavitan genome that passed stringent filtering criteria (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0005" ref-type="ref">2016</xref>) (Table&#x000a0;<xref rid="pbi12940-sup-0009" ref-type="supplementary-material">S2</xref>). These SNPs could be useful in designing novel SNP markers to distinguish regions of interest within these highly similar genomes.</p></sec><sec id="pbi12940-sec-0007"><title>MiRNAs from the noncoding RNA pool hint at potential toolboxes of <italic>T.&#x000a0;dicoccoides</italic> in response to stress</title><p>Chromosome assemblies contained 28&#x000a0;011 putative precursor loci for miRNA biogenesis, representing 59 miRNA families (Table&#x000a0;<xref rid="pbi12940-sup-0010" ref-type="supplementary-material">S3</xref>). Of these, expression evidence was present for 49 families (83%) at the small RNA (sRNA) and/or pre&#x02010;miRNA level, among previously published durum wheat sRNA sequences and <italic>T.&#x000a0;dicoccoides</italic> transcripts (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0003" ref-type="ref">2015a</xref>; Distelfeld, <xref rid="pbi12940-bib-0019" ref-type="ref">2016</xref>; Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0039" ref-type="ref">2015</xref>). Predicted miRNAs with precursor sequences containing transposable elements (TEs) by more than 50% of their lengths were classified as &#x02018;low confidence (LC)&#x02019;, as TE&#x02010;associated miRNAs are not easily distinguished from siRNAs, particularly from genome sequence data alone. The precursor sequences of these LC miRNA families predominantly contained Class I DNA transposons, abundantly from the Mariner superfamily (Table&#x000a0;<xref rid="pbi12940-sup-0010" ref-type="supplementary-material">S3</xref>). Notably, 11 miRNA families were processed from both LC precursors and precursors that contained few to no TEs (classified as &#x02018;high confidence (HC)&#x02019;). Seventeen miRNA families contained loci on all chromosomes, suggesting functional redundancy and/or potential TE&#x02010;mediated proliferation events and loci for 49 miRNA families were common to both subgenomes (Figure&#x000a0;<xref rid="pbi12940-sup-0004" ref-type="supplementary-material">S4</xref>). On a broader scale, using the same identification procedure, precursor sequences for 26 HC miRNA families identified from chromosome assemblies were also present in the whole&#x02010;genome sequences of <italic>T.&#x000a0;dicoccoides</italic> genotype Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) (27 HC miRNA families predicted in total) and the hexaploid <italic>T.&#x000a0;aestivum</italic> cv. Chinese Spring (31 HC miRNA families predicted in total), suggesting a core collection of regulatory miRNAs in polyploid wheats. In all three species, the total number of miRNA encoding loci was the highest in the B subgenomes. When mapped back to the genome, majority of mature miRNAs predicted from chromosome assemblies aligned with intergenic regions (94.35% of all predicted mature miRNAs), pointing out to a vast genomic source for miRNA biogenesis. On average, only 0.11% and 5.54% of predicted miRNAs aligned to exons and introns, respectively, of gene models (IWGSC RefSeqv1), indicating potential autoregulatory circuits.</p><p>Functional annotation of the putative targets of <italic>T.&#x000a0;dicoccoides</italic> miRNAs identified from the chromosome assemblies revealed an array of biological processes, molecular functions and cellular components, with subtle differences across subgenomes and homeologous groups. These potential miRNA&#x02010;target pairs hint at an intriguing toolbox that can be used by <italic>T.&#x000a0;dicoccoides</italic> to cope with stress conditions, including nuances for fine&#x02010;tuning. For instance, <italic>Tsn1</italic>, a biotic stress&#x02010;related gene involved in the response to tan spot disease in durum wheat, was a target of the miR2118 family members from multiple chromosomes with slightly different mature miRNA sequences (Table&#x000a0;<xref rid="pbi12940-sup-0010" ref-type="supplementary-material">S3</xref>). Whole&#x02010;genome network of potential miRNA&#x02010;target pairs can be of substantial importance to understand the regulation of a given phenotype with its full dimensions.</p><p>In addition to miRNAs, precursors for two other classes of noncoding RNAs, tRNAs and long noncoding RNAs (lncRNAs) were identified from the chromosome assemblies. Consistent with previous observations, a marked abundance of tRNA<sup>Lys</sup> genes, speculatively resulting from co&#x02010;proliferation following an ancient TE capture, was observed for all chromosomes (Figure&#x000a0;<xref rid="pbi12940-sup-0005" ref-type="supplementary-material">S5</xref>) (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0002" ref-type="ref">2014</xref>, <xref rid="pbi12940-bib-0004" ref-type="ref">2015b</xref>; Lucas <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0042" ref-type="ref">2014</xref>; Tanaka <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0059" ref-type="ref">2013</xref>). As lncRNAs are typically mined from transcriptomics data, lncRNA candidates on chromosome assemblies were explored using a comparative approach. Potential lncRNA sequences were extracted from a combined set of RNA&#x02010;sequencing data from <italic>Triticum turgidum</italic> ssp. <italic>dicoccoides</italic> genotype Zavitan, six different tissues of <italic>T.&#x000a0;aestivum</italic>, and also drought stressed and irrigated samples of <italic>T.&#x000a0;aestivum</italic> with a strict set of elimination steps (Cagirici <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0013" ref-type="ref">2017</xref>) (Experimental Procedures). A total of 89,623 lncRNAs passing all elimination steps were then mapped to the <italic>T.&#x000a0;dicoccoides</italic> chromosome assemblies and genome sequences of wild emmer wheat Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) and bread wheat cultivar Chinese Spring (IWGSC RefSeqv1) to confidently identify a core set of lncRNAs. Importantly, of 83&#x000a0;822 lncRNAs common to all three genomic resources, 23&#x000a0;713 were potential targets of mature miRNAs from chromosome assemblies (Table&#x000a0;<xref rid="pbi12940-sup-0011" ref-type="supplementary-material">S4</xref>). These miRNA&#x02010;lncRNA associations may provoke target mimicry, within stress response pathways as well. For instance, a member of the miR437 family (mature miRNA sequence: AAAGUUAGAGAAGUUUGACUU) targeted an aquaporin <italic>PIP1&#x02010;5</italic> transcript in <italic>T.&#x000a0;dicoccoides</italic>, along with by 8, 24 and 89 lncRNAs in identified from leaf, seed and root tissue transcriptomes of <italic>T.&#x000a0;aestivum</italic>, respectively. It is tempting to speculate that under drought stress, target mimicry imposed by lncRNAs can alter miRNA function, resulting in reduced down&#x02010;regulation of aquaporin proteins and improved water uptake.</p></sec><sec id="pbi12940-sec-0008"><title>
+<italic>T.&#x000a0;dicoccoides</italic> chromosome assemblies cover several agronomically important loci</title><p>Chromosome assemblies contained several genomic loci coding for agronomically relevant traits, which not only demonstrated the utility of the assemblies but, also in some cases, provided novel insights (Data <xref rid="pbi12940-sup-0014" ref-type="supplementary-material">S1</xref>). Domestication is a key event shaping the wheat genome. In barley, <italic>nonbrittle rachis 1</italic> (<italic>Btr1</italic>) and <italic>nonbrittle rachis 2</italic> (<italic>Btr2</italic>) control an important domestication&#x02010;related trait, &#x02018;Brittle Rachis (BR)&#x02019;. Loss&#x02010;of&#x02010;function mutations in either of these genes disrupt the BR phenotype that enables free dispersal of grains at maturity (Pourkheirandish <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0053" ref-type="ref">2015</xref>). In tetraploid wheat, homeologous copies of both <italic>Btr1</italic> and <italic>Btr2</italic> genes were found on chromosomes 3A and 3B (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). In this study, two contigs, Tdic3A&#x02010;contig10048876 and Tdic3B&#x02010;contig9087392, contained coding regions for <italic>Btr1&#x02010;A</italic> and <italic>Btr2&#x02010;B</italic> (designated as <italic>TdicBtr1&#x02010;A</italic> and <italic>TdicBtr2&#x02010;B</italic>), respectively, as indicated by their sequence similarities to barley <italic>Btr</italic> genes. Notably, <italic>TdicBtr1&#x02010;A</italic>, with 93% sequence identity to the wild barley (<italic>Hordeum vulgare</italic> subsp. <italic>spontaneum</italic>) <italic>Btr1</italic> gene (KR813340.1), had a 2&#x02010;bp deletion at position 290 that resulted in a premature stop codon. Therefore, the predicted translated product of <italic>TdicBtr1&#x02010;A</italic> was a 97&#x02010;amino acid peptide that was likely nonfunctional. By contrast, <italic>TdicBtr2&#x02010;B</italic> was 88% identical to its wild barley ortholog (KR813339.1) and was translated into a full&#x02010;length 198 amino acid protein product (Table&#x000a0;<xref rid="pbi12940-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="pbi12940-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>BTR protein characteristics in wild tetraploid and modern hexaploid wheat</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Wild emmer wheat &#x02018;Zavitan&#x02019;</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>T.&#x000a0;dicoccoides</italic> chromosome assemblies (This study)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>T.&#x000a0;aestivum</italic> Chinese Spring (IWGSC RefSeq)</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">BTR1&#x02010;A</td><td align="left" rowspan="1" colspan="1">196 residues</td><td align="left" rowspan="1" colspan="1">97 residues</td><td align="left" rowspan="1" colspan="1">97 residues</td></tr><tr><td align="left" rowspan="1" colspan="1">Functional</td><td align="left" rowspan="1" colspan="1">Nonfunctional</td><td align="left" rowspan="1" colspan="1">Nonfunctional</td></tr><tr><td align="left" rowspan="2" colspan="1">BTR1&#x02010;B</td><td align="left" rowspan="1" colspan="1">196 residues</td><td align="left" rowspan="2" colspan="1">196 residues functional</td><td align="left" rowspan="1" colspan="1">196 residues</td></tr><tr><td align="left" rowspan="1" colspan="1">Functional</td><td align="left" rowspan="1" colspan="1">Nonfunctional</td></tr><tr><td align="left" rowspan="2" colspan="1">BTR2&#x02010;A</td><td align="left" rowspan="1" colspan="1">198 residues</td><td align="left" rowspan="1" colspan="1">173 residues</td><td align="left" rowspan="1" colspan="1">198 residues</td></tr><tr><td align="left" rowspan="1" colspan="1">Functional</td><td align="left" rowspan="1" colspan="1">Nonfunctional</td><td align="left" rowspan="1" colspan="1">Functional</td></tr><tr><td align="left" rowspan="2" colspan="1">BTR2&#x02010;B</td><td align="left" rowspan="1" colspan="1">198 residues</td><td align="left" rowspan="1" colspan="1">198 residues</td><td align="left" rowspan="1" colspan="1">198 residues</td></tr><tr><td align="left" rowspan="1" colspan="1">Functional</td><td align="left" rowspan="1" colspan="1">Polymorphic</td><td align="left" rowspan="1" colspan="1">Functional</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>A closer look at the protein level revealed candidate sequences on two contigs on chromosome 3A and three contigs on chromosome 3B for <italic>Btr2&#x02010;A</italic> and <italic>Btr1&#x02010;B</italic>, respectively. Potential coding regions on contigs from chromosome 3B shared relatively low sequence similarity with <italic>Btr1</italic> sequences, which is consistent with the presence of Btr&#x02010;like genes along the genome (Pourkheirandish <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0053" ref-type="ref">2015</xref>). However, Tdic3A&#x02010;Cluster30852 contained 494 bases from the 3&#x002b9; end of a potential <italic>Btr2&#x02010;A</italic> gene separated from its 61&#x02010;base 5&#x02032; region by a 3.7&#x02010;kb unrelated sequence. Together, these segments of the <italic>Btr2&#x02010;A</italic> gene shared high sequence identity with its barley ortholog (90%), and its sequence was identical to that of Zavitan <italic>TtBtr2&#x02010;A</italic> (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). In addition, the unrelated sequence separating the 3&#x002b9; and 5&#x002b9; ends of <italic>Btr2&#x02010;A</italic> carried TE elements including both DNA transposons and retroelements. This organization suggested that a TE insertion within the coding sequence of <italic>TdicBtr2&#x02010;A</italic> could have relocated the first 61 bases at the 5&#x002b9; end to a downstream position, splitting this sequence into two segments and resulting in the loss of a genomic sequence encoding 15 amino acids in the translated product. Notably, Cluster30852 originated from the merging of two Tdic3A contigs that mapped to the Zavitan 3A chromosome at positions 41 bases apart. Such an organization could have been the result of ambiguous (and erroneous) mapping due to the presence of repetitive sequences, although the presence of flanking nonrepetitive sequences would reduce this possibility. This observation could also be explained by a small&#x02010;scale genome rearrangement on Tdic3A in our assembly with respect to the Zavitan genotype. In this case, even though the 5&#x002b9; and 3&#x002b9; fragments were identical to the BTR2 protein, such an organization should abolish its function completely (Table&#x000a0;<xref rid="pbi12940-tbl-0002" ref-type="table">2</xref>, Figure&#x000a0;<xref rid="pbi12940-sup-0006" ref-type="supplementary-material">S6</xref>).</p><p>The chromosome assemblies also covered two vernalization genes that are important regulators of flowering in wheat. Tdic5A&#x02010;contig17747970 and Tdic5B&#x02010;contig15503489 contained homeologous coding regions for <italic>Vrn1</italic>, while Tdic7A&#x02010;contig20604678 potentially contained coding sequences for <italic>Vrn3</italic>. Intriguingly, two contigs from Tdic4B might harbour coding sequences for the <italic>Vrn2</italic> locus, along with TE&#x02010;related sequences. The <italic>Vrn2</italic> locus, which was mapped to the 5A chromosome, was organized as two tandemly duplicated genes, <italic>ZCCT1</italic> and <italic>ZCCT2</italic>. The protein products of both genes were composed of a putative zinc finger domain and a CCT domain, and they shared 76% sequence identity (Distelfeld <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0020" ref-type="ref">2009</xref>). The 11&#x02010;kb Tdic4B&#x02010;contig10186201 contained a two&#x02010;exon ORF that was translated into a 217&#x02010;residue peptide. This translated product shared 93% similarity with <italic>T.&#x000a0;turgidum</italic> ZCCT2&#x02010;B2a (ACI00359.1). Importantly, the product encoded by contig10186201 did not exhibit any of the three mutations at positions 16, 35 and 39 of the CCT domain that are predicted to disrupt protein function (Distelfeld <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0020" ref-type="ref">2009</xref>). The translation product of a second contig on Tdic4B, contig10211027, consisted of 209 amino acids and was 97% similar to <italic>T.&#x000a0;turgidum</italic> ZCCT1&#x02010;B1 (ACI00355.1). Both of these ORFs were surrounded by TEs, including the highly promiscuous Gypsy family of retrotransposons. Whether these ORFs represent a fully functional <italic>Vrn2</italic>&#x02010;like locus that was translocated into Tdic4B awaits further study.</p><p>Leaf rust caused by <italic>Puccinia triticina</italic> is an important disease that affects wheat production worldwide(Sela <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0055" ref-type="ref">2012</xref>; Xie and Nevo, <xref rid="pbi12940-bib-0066" ref-type="ref">2008</xref>). A leaf rust resistance gene, <italic>Lr10</italic>, was located inside the 13&#x02010;kb contig6213438 from Tdic1A, which may potentially represent a new allele (Data <xref rid="pbi12940-sup-0014" ref-type="supplementary-material">S1</xref>). The <italic>Lr10</italic> locus resided within in a gene&#x02010;rich segment on the distal end in close proximity to another resistance gene, <italic>Pm3</italic>, conferring resistance against powdery mildew disease. In our chromosome assemblies, the 17&#x02010;kb contig, Tdic1A&#x02010;contig6388763, carried a coding region for the <italic>Pm3</italic> locus. Importantly, a number of resistance genes against Hessian fly have also been mapped to the same gene&#x02010;rich region on 1AS, a few of which have already been introgressed from close and distant relatives into hexaploid wheat (Data <xref rid="pbi12940-sup-0014" ref-type="supplementary-material">S1</xref>).</p><p>Autophagy is a process in which cellular contents are degraded, resulting in either recycling of cytoplasmic components or the elimination of damaged or toxic molecules inside the cell. This process plays an important role in both abiotic and biotic stress responses (Klionsky <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0030" ref-type="ref">2016</xref>). For instance, wheat homeologs of ATG6 play a role in responses to fungal pathogens in addition to abiotic stress factors&#x000a0;(Yue <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0068" ref-type="ref">2015</xref>). Additionally, the autophagy&#x02010;related gene, <italic>TdATG</italic>8, which was recently cloned from wild emmer wheat, is responsive to water deficit (Kuzuoglu&#x02010;Ozturk <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0034" ref-type="ref">2012</xref>). The <italic>T.&#x000a0;dicoccoides</italic> chromosome assemblies obtained in this study covered several autophagy&#x02010;related genes, including previously cloned <italic>ATG4</italic>,<italic> ATG8</italic> and <italic>ATG6</italic> (Nagy <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0047" ref-type="ref">2014</xref>; Pei <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0052" ref-type="ref">2014</xref>; Yue <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0068" ref-type="ref">2015</xref>). Considering the importance of autophagy&#x02010;related genes in plant metabolism and stress responses which can be modulated for the improvement, all autophagy genes were mined and comparatively analysed in tetraploid Zavitan and hexaploid Chinese Spring genomes. In total, 44 coding regions corresponding to highly conserved 18 isoforms of ATG genes were identified across all wheat chromosomes (Data <xref rid="pbi12940-sup-0015" ref-type="supplementary-material">S2</xref>). <italic>Atg8</italic> isoforms were found in three separate locations on homeologous groups 2 and 5 chromosomes, consistent with previous findings (Kuzuoglu&#x02010;Ozturk <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0034" ref-type="ref">2012</xref>). ATG genes were also conserved at the protein level in close relatives rice and <italic>Brachypodium</italic>, as well as in <italic>Arabidopsis thaliana</italic> albeit to a lesser extent (Table&#x000a0;<xref rid="pbi12940-sup-0012" ref-type="supplementary-material">S5</xref>).</p><p>To gain deeper insight into the functional roles of ATG genes, we assessed the differential expression patterns of these genes including stress responsive pathways and cis regulatory elements. The promoter regions of ATG genes hosted recognition sites for many different transcription factor (TF) families such as WRKY, GATA, TCR and ERF, suggesting a complex interplay of multiple molecular pathways (Figure&#x000a0;<xref rid="pbi12940-sup-0007" ref-type="supplementary-material">S7</xref>). Importantly, recognition sites for AP2, B3, TCP, NAC&#x02010;NAM, bZIP, NF&#x02010;YB TF families were detected in the promoter regions of all ATG genes, which indicates autophagy is commonly recruited in an array of developmental and stress response&#x02010;related processes, under different genetic and/or environmental cues. Consistent with these scheme, ATG genes were differentially expressed in different tissues, developmental stages and environmental conditions (Figure&#x000a0;<xref rid="pbi12940-fig-0003" ref-type="fig">3</xref>). A hallmark of autophagy, Atg8 expression, was prominent in all tissues tested, potentially indicating a basal level of autophagy as a normal developmental process (Figure&#x000a0;<xref rid="pbi12940-fig-0003" ref-type="fig">3</xref>a). Furthermore, ATG genes were also differentially expressed in different layers of grain, with a relatively lower expression profile in endosperm compared to inner and outer pericarp tissues. ATG expression appeared to be high in transfer cells in grain, pointing out an increased autophagic activity in these cells (Figure&#x000a0;<xref rid="pbi12940-fig-0003" ref-type="fig">3</xref>b). Finally, ATG genes were also responsive to abiotic stress factors, such as drought and heat (Figure&#x000a0;<xref rid="pbi12940-fig-0003" ref-type="fig">3</xref>c), together with developmental changes such as senescence and photomorphogenesis.</p><fig fig-type="Figure" xml:lang="en" id="pbi12940-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Expression pattern of Autophagy&#x02010;related genes from hexaploid wheat. (a) Tissue and time&#x02010;zone specific expression of <styled-content style="fixed-case">ATG</styled-content> genes. (b) The expression pattern of <styled-content style="fixed-case">ATG</styled-content> genes in grain tissue and grain tissue layers. (c) The <styled-content style="fixed-case">ATG</styled-content> expression pattern under heat and drought stresses. The expression is normalized to control.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-2077-g003"/></fig></sec></sec><sec id="pbi12940-sec-0009"><title>Discussion</title><p>Due to its high agronomic importance, intensive efforts have focused on achieving whole&#x02010;genome sequencing in wheat, which would open new possibilities for molecular breeding programs (Berkman <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0009" ref-type="ref">2012a</xref>; Feuillet <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0023" ref-type="ref">2011</xref>). Early efforts included large&#x02010;scale sequencing of individual chromosomes (Berkman <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0008" ref-type="ref">2011</xref>, <xref rid="pbi12940-bib-0010" ref-type="ref">2012b</xref>; Lucas <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0042" ref-type="ref">2014</xref>; Vitulo <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0064" ref-type="ref">2011</xref>). More recently, a chromosome&#x02010;based draft genome sequence was released (Mayer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0046" ref-type="ref">2014</xref>), followed by an improved genome assembly (Zimin <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0071" ref-type="ref">2017</xref>), and the first reference&#x02010;quality sequence of the largest wheat chromosome 3B was published (Choulet <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0017" ref-type="ref">2014</xref>). To fully exploit genomics&#x02010;based wheat breeding research, the next objective will be to unlock the genomes of related germplasm. Wild emmer wheat, <italic>Triticum turgidum</italic> ssp. <italic>dicoccoides</italic>, is the wild relative of the tetraploid durum wheat progenitor <italic>Triticum turgidum</italic> and exhibits a remarkable level of adaptation, thereby serving as a valuable source of genetic diversity. Currently available resources for large&#x02010;scale genomics analyses in <italic>T.&#x000a0;dicoccoides</italic> include sequencing of its 5B chromosome(Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0004" ref-type="ref">2015b</xref>), and the recently published genome assembly (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). In the current study, we expand these resources by high&#x02010;throughput sequencing and assembly of all 14 chromosomes of <italic>T.&#x000a0;dicoccoides</italic> (collectively referred as chromosome assemblies, hereafter).</p><p>
+<italic>Triticeae</italic> genomes are notorious for their high DNA repeat content, reaching 80%&#x02013;90% of the entire genome. Consistent with previous observations, our chromosome assemblies contained a large fraction of repetitive elements. The relative abundance of undetermined LTR elements, differing widely between subgenomes, supports the view that relatively few LTR elements likely existed in the B&#x02010;genome progenitor, resulting in the accumulation of more recent, and therefore more &#x02018;classifiable&#x02019;, transposon&#x02010;mediated amplifications in the modern B&#x02010;genomes (Mayer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0046" ref-type="ref">2014</xref>). The nonrepetitive fraction of the chromosome assemblies reproduced the well&#x02010;known syntenic relationships between related grasses, <italic>Brachypodium</italic>, rice and sorghum, including the 4AL&#x02010;5AL&#x02010;7BS translocation (Hernandez <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0026" ref-type="ref">2012</xref>; Kantar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0029" ref-type="ref">2012</xref>) (Figure&#x000a0;<xref rid="pbi12940-fig-0002" ref-type="fig">2</xref>). This observation provides additional evidence at the sequence level that this translocation event dates back to the differentiation of the <italic>T.&#x000a0;turgidum</italic> subspecies, possibly before the emergence of <italic>T.&#x000a0;dicoccoides</italic> (Hao <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0024" ref-type="ref">2013</xref>). In total, 74,653 contigs exhibited significant sequence similarity to <italic>T.&#x000a0;dicoccoides</italic> transcripts and proteins, but not to any related grass genes. However, consistent with the prevalence of pseudogenes and gene fragments in the wheat genome (Choulet <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0016" ref-type="ref">2010</xref>), only 30% of these contigs covered more than 70% of the target wheat gene, a subset of which should include genes specific to the wheat lineage,</p><p>Overall, 59 miRNA families, including five that have not been previously reported (miR158, miR2109, miR414, miR5825 and miR6026), were predicted to be encoded by the entire <italic>T.&#x000a0;dicoccoides</italic> genome, using a homology&#x02010;based pipeline (Alptekin <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0006" ref-type="ref">2017</xref>). A subset of precursor sequences were highly associated with repetitive elements, in particular Class II DNA transposons, supporting the view that DNA transposons may be involved in miRNA biogenesis and evolution (Akpinar and Budak, <xref rid="pbi12940-bib-0001" ref-type="ref">2016</xref>; Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0037" ref-type="ref">2011b</xref>). Predicted targets of miRNAs, including mRNA and lncRNA transcripts, hinted to the post&#x02010;transcriptional regulatory pathways in wheat. For instance, of the novel families reported, miR2109, identified only in Tdic3A, has been reported in legumes in NBS&#x02010;LRR&#x02010;mediated defence signalling (Zhai <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0069" ref-type="ref">2011</xref>). This miRNA family targets an ATP&#x02010;dependent DNA helicase (Table&#x000a0;<xref rid="pbi12940-sup-0010" ref-type="supplementary-material">S3</xref>). Although the underlying molecular mechanism remains unknown, the overexpression of a pea DNA helicase increases salinity tolerance in tobacco and rice (Sahoo <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0054" ref-type="ref">2012</xref>; Tuteja, <xref rid="pbi12940-bib-0061" ref-type="ref">2010</xref>). In addition, several miRNAs associated with biotic stress responses only in dicot species to date were detected in chromosome assemblies, such as the miR482 family implicated in responses to fungal infection in cotton (Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0070" ref-type="ref">2013</xref>). Like miR482, miR6026, which was previously identified only in tomato and potato, is associated with innate immune receptors (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0036" ref-type="ref">2011a</xref>). Comparative analysis of miRNAs indicated that several miRNA families are conserved across tetraploid and hexaploid wheat genotypes (Figure&#x000a0;<xref rid="pbi12940-sup-0004" ref-type="supplementary-material">S4</xref>).</p><p>Chromosome assemblies cover several agronomically important loci demonstrating their utility. These assemblies, most of which are a few kilobases long, also include upstream and downstream sequences for these loci, which can be valuable for cloning genes of interest (as in the case of the <italic>QHf.osu&#x02010;1A</italic> QTL for Hessian fly resistance), discovering new alleles, elucidating the genetic basis of related traits including regulatory regions and developing new molecular markers that can be utilized in breeding programs. For instance, while a recent study failed to identify the 1B allele of <italic>MTP1</italic> in hexaploid wheat (Vatansever <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0062" ref-type="ref">2017</xref>), potential <italic>MTP1</italic> homologs were identified in two Tdic1B contigs, each encoding a protein with an intact cation efflux domain characteristic of MTP proteins and with high sequence similarity to known MTP1 proteins (Data <xref rid="pbi12940-sup-0014" ref-type="supplementary-material">S1</xref>). Intriguingly, sequence similarity searches revealed a potential coding region for the <italic>Vrn2</italic> locus on Tdic4B, which could have resulted from TE capture&#x02010;based translocation, although this locus was originally mapped to the 5A chromosome (Yan, <xref rid="pbi12940-bib-0067" ref-type="ref">2004</xref>). In fact, additional duplication events involving the <italic>Vrn2</italic> locus might have occurred (Distelfeld <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0020" ref-type="ref">2009</xref>). Further functional studies should clarify whether this locus on Tdic4B is transcribed and translated into a fully functional protein, thereby representing new alleles for the vernalization response in wheat.</p><p>A coding region on Tdic3A assembly was identified as the <italic>Btr1&#x02010;A</italic> allele for the domestication&#x02010;related BR phenotype, which is translated into a peptide identical to the wild emmer genotype Zavitan protein BTR1&#x02010;A. Intriguingly, our Tdic3A assembly indicated that a second region, candidate <italic>Btr2&#x02010;A</italic> coding region, contains an extensive rearrangement by TE insertion that likely disrupts the function of the translated peptide (Figure&#x000a0;<xref rid="pbi12940-sup-0006" ref-type="supplementary-material">S6</xref>). While we could not accurately identify the coding region for <italic>Btr1&#x02010;B</italic> on Tdic3B, where candidate regions resemble <italic>Btr1&#x02010;like</italic> sequences known to exist in the genome, the <italic>Btr2&#x02010;B</italic> gene on Tdic3B was capable of being translated into the full&#x02010;length 198&#x02010;residue protein. Interestingly, this protein is only 91% identical to the BTR2&#x02010;B protein in wild Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). Interestingly, BTR2 protein sequences were identical in the wild tetraploid Zavitan and domesticated hexaploid Chinese Spring (Table&#x000a0;<xref rid="pbi12940-tbl-0002" ref-type="table">2</xref>). Although loss&#x02010;of&#x02010;function mutations in the two <italic>Btr1</italic> genes was previously reported to be required for the nonBR phenotype of the domesticated varieties in tetraploid wheat (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>), the BR phenotype may be under a more complicated regulation, given that our chromosome assemblies suggested a nonfunctional copy of the <italic>Btr1A</italic> in another <italic>T.&#x000a0;dicoccoides</italic> accession that is identical to the domesticated hexaploid Chinese Spring copy, which otherwise carries all functional copies (Table&#x000a0;<xref rid="pbi12940-tbl-0002" ref-type="table">2</xref>) and also identical to the domesticated tetraploid genotypes (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). Indeed, we found an intact Q&#x02010;locus on Tdic5A&#x02010;contig17630980. The Q&#x02010;locus is known to have pleiotropic effects on free threshing, rachis fragility and spike shape. Therefore, it is tempting to speculate that in some wild genotypes, mutations in the BR locus that would otherwise disrupt the BR phenotype are &#x02018;rescued&#x02019; by other loci, particularly those that exhibit pleiotropy.</p><p>The expression of autophagy&#x02010;related genes, also covered by our chromosome assemblies, indicated differential regulation of autophagy in tissue, developmental stage and environmental condition&#x02010;dependent backgrounds. Compartmentalization of nutrients from source to sink&#x000a0;and the differential regulation of ATG genes in the different layers of grain tissue proved insights about this role of autophagy in wheat (Figure&#x000a0;<xref rid="pbi12940-fig-0003" ref-type="fig">3</xref>). The higher expression of ATG genes particularly in aleurone layer and transfer cells may suggest high autophagic activity in these cells which contributes to movement of nutrient to endosperm for long&#x02010;term storage. In&#x02010;depth elucidation of the role of autophagy in nutrient compartmentalization may help to increase the nutritional quality of both bread and durum wheat.</p><p>Finally, despite extensive colinearity of their genomes, over 45M SNPs and short InDels were discovered between our chromosome assemblies, wild emmer Zavitan and the bread wheat Chinese Spring, which can be utilized novel molecular markers. In addition, 21 contigs from the chromosome assemblies, which were analysed in detail for the selected traits described above, were used to identify simple sequence repeats (SSRs) and TE junctions within or in the vicinity of coding regions. In total, 41 SSRs and 182 TE junctions were identified for potential use as SSR&#x02010;based and insertion site&#x02010;based polymorphism (ISBP) markers (Paux <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0051" ref-type="ref">2010</xref>), demonstrating the utility of these chromosome assemblies in assisting wheat improvement efforts (Table&#x000a0;<xref rid="pbi12940-sup-0013" ref-type="supplementary-material">S6</xref>). Taken together, these sequence variations and the genome&#x02010;wide sequence data can be used to expand and saturate map&#x02010;based resources for tetraploid wheat to support breeding programs.</p></sec><sec id="pbi12940-sec-0010"><title>Experimental procedures</title><sec id="pbi12940-sec-0011"><title>Chromosome sorting, sequencing, assembly and filtering</title><p>Bivariate flow karyotyping and chromosome sorting were carried out as previously described (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0004" ref-type="ref">2015b</xref>) using <italic>Triticum dicoccoides</italic> (2<italic>n</italic>&#x000a0;=&#x000a0;4<italic>x</italic>&#x000a0;=&#x000a0;28), genotypes TR191 (Karacadag region of Turkey) and MvGB436 (provided by Dr. Istv&#x000e1;n Moln&#x000e1;r, Centre for Agricultural Research, Hungarian Academy of Sciences, Martonv&#x000e1;s&#x000e1;r, Hungary). Only chromosomes 2A and 4A were derived from genotype MvGB436, as flow karyogram did not allow separation of these chromosomes to an acceptable purity in the other genotype. Chromosomal DNA was amplified by isothermal multiple displacement amplification (MDA) (Data <xref rid="pbi12940-sup-0015" ref-type="supplementary-material">S2</xref>).</p><p>Sequencing of amplified chromosomal DNA was carried out by Centrillion Genomic Services, Centrillion Technologies (Palo Alto, CA, <ext-link ext-link-type="uri" xlink:href="http://www.centrilliontech.com/">http://www.centrilliontech.com/</ext-link>) on high output mode HiSeq 2500 v3 at a read length of 2x100PE. The quality metrics of the raw reads were assessed using FASTQC software (<ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>). The Illumina paired&#x02010;end reads were <italic>de novo</italic> assembled using the ABySS tool (Simpson <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0056" ref-type="ref">2009</xref>). The k&#x02010;values for the sequence assemblies were determined using KmerGenie (Chikhi and Medvedev, <xref rid="pbi12940-bib-0015" ref-type="ref">2014</xref>) (Table&#x000a0;<xref rid="pbi12940-tbl-0001" ref-type="table">1</xref>). ABySS scaffolds were then mapped to the chromosome assemblies of <italic>T.&#x000a0;dicoccoides</italic> genotype Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). Scaffolds mapping to the respective Zavitan chromosomes at a distance closer than 50 nucleotides were merged with &#x02018;N's using custom Python scripts, thereby producing the final reference&#x02010;guided assemblies. Repetitive elements were identified by comparing the chromosome assemblies against the MIPS Repeat Element Database v9.3 p for Poaceae (<ext-link ext-link-type="ftp" xlink:href="ftp://ftpmips.helmholtz-muenchen.de/plants/REdat/">ftp://ftpmips.helmholtz-muenchen.de/plants/REdat/</ext-link>) using RepeatMasker v.3.3.0 software (<ext-link ext-link-type="uri" xlink:href="http://www.repeatmasker.org/">http://www.repeatmasker.org/</ext-link>) (Nussbaumer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0049" ref-type="ref">2013</xref>).</p></sec><sec id="pbi12940-sec-0012"><title>Protein&#x02010;coding genes and syntenic relationships</title><p>Protein&#x02010;coding genes were identified through BLAST searches against the fully annotated proteomes of <italic>Brachypodium distachyon</italic> (v1.2, <ext-link ext-link-type="uri" xlink:href="http://mips.helmholtz-muenchen.de/plant/brachypodium">http://mips.helmholtz-muenchen.de/plant/brachypodium</ext-link>) (The International Brachypodium Initiative, <xref rid="pbi12940-bib-0060" ref-type="ref">2010</xref>), <italic>Oryza sativa</italic> (IRGSP&#x02010;1.0, <ext-link ext-link-type="uri" xlink:href="http://rapdb.dna.affrc.go.jp/download/irgsp1.html">http://rapdb.dna.affrc.go.jp/download/irgsp1.html</ext-link>) (Tanaka <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0058" ref-type="ref">2008</xref>), <italic>Sorghum bicolor</italic> (v1.4, <ext-link ext-link-type="uri" xlink:href="http://mips.helmholtz-muenchen.de/plant/sorghum/">http://mips.helmholtz-muenchen.de/plant/sorghum/</ext-link>) (Paterson <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0050" ref-type="ref">2009</xref>) (1E&#x02010;6, &#x02010;length 30, &#x02010;ppos 75); high&#x02010;confidence <italic>Hordeum vulgare</italic> proteins (<ext-link ext-link-type="uri" xlink:href="http://mips.helmholtz-muenchen.de/plant/barley/">http://mips.helmholtz-muenchen.de/plant/barley/</ext-link>) (Mayer <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0045" ref-type="ref">2012</xref>) (1E&#x02010;6, &#x02010;length 30, &#x02010;ppos 90) and <italic>Triticum dicoccoides</italic> transcripts assembled from RNA&#x02010;sequencing data (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0003" ref-type="ref">2015a</xref>; Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) and predicted proteins (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) (1E&#x02010;30, &#x02010;length 100, &#x02010;pident 99 for transcripts; 1E&#x02010;6, &#x02010;length 30, &#x02010;ppos 99 for proteins). A &#x02018;Best Reciprocal Hit&#x02019; approach was adopted, and only the best reciprocal hits in blastx and tblastn searches with the given parameters were accepted as significant matches.</p><p>To estimate gene number, a nonredundant list of orthologous grass genes was constructed from the <italic>B.&#x000a0;distachyon</italic>,<italic> O.&#x000a0;sativa</italic>,<italic> S.&#x000a0;bicolor</italic> and <italic>H.&#x000a0;vulgare</italic> proteins described above using the OrthoMCL pipeline (<ext-link ext-link-type="uri" xlink:href="http://www.orthomcl.org/orthomcl/">http://www.orthomcl.org/orthomcl/</ext-link>) (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0035" ref-type="ref">2003</xref>) (Data <xref rid="pbi12940-sup-0015" ref-type="supplementary-material">S2</xref>).</p><p>Syntenic relationships were visualized as circle plots and heatmaps generated using Circos software (Krzywinski <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0031" ref-type="ref">2009</xref>) and in&#x02010;house Python scripts. Ribbons on the circle plots were obtained by bundling &#x0003e;200 links along 1&#x02010;Mb intervals. Gene densities for <italic>B.&#x000a0;distachyon</italic>,<italic> O.&#x000a0;sativa</italic> and <italic>S.&#x000a0;bicolor</italic> were counted on 500&#x02010;kb intervals (light blue and light grey). The genomic positions of annotated genes were obtained from the MIPS database of plants (<ext-link ext-link-type="uri" xlink:href="http://mips.helmholtz-muenchen.de/plant/genomes.jsp">http://mips.helmholtz-muenchen.de/plant/genomes.jsp</ext-link>). For all BLAST searches, BLAST+ stand&#x02010;alone toolkit, version 2.2.31 was used (Camacho <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0014" ref-type="ref">2009</xref>). All computational analyses were carried out on a High Performance Computing Cluster. All functional annotations were performed using BLAST2GO (Conesa and G&#x000f6;tz, <xref rid="pbi12940-bib-0018" ref-type="ref">2008</xref>); the initial BLAST steps were run locally against all <italic>Viridiplantae</italic> proteins (1E&#x02010;6, &#x02010;outfmt 5, &#x02010;max_target_seq 1).</p></sec><sec id="pbi12940-sec-0013"><title>Putative noncoding RNA species</title><p>A homology&#x02010;based miRNA prediction approach was utilized to annotate miRNA&#x02010;encoding sequences as described previously, with slight modifications (Alptekin <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0006" ref-type="ref">2017</xref>; Kurtoglu <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0032" ref-type="ref">2013</xref>, <xref rid="pbi12940-bib-0033" ref-type="ref">2014</xref>; Lucas and Budak, <xref rid="pbi12940-bib-0041" ref-type="ref">2012</xref>) (Data <xref rid="pbi12940-sup-0015" ref-type="supplementary-material">S2</xref>). Expression analysis of the predicted miRNAs was performed at both the pre&#x02010;miRNA and mature miRNA level, as described in Data <xref rid="pbi12940-sup-0015" ref-type="supplementary-material">S2</xref>. Target sequences for putative miRNAs were predicted with the web&#x02010;tool psRNATarget (<ext-link ext-link-type="uri" xlink:href="http://plantgrn.noble.org/psRNATarget/">http://plantgrn.noble.org/psRNATarget/</ext-link>), using transcripts assembled from RNA&#x02010;sequencing data from two <italic>T.&#x000a0;dicoccoides</italic> genotypes (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0003" ref-type="ref">2015a</xref>; Cagirici <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0013" ref-type="ref">2017</xref>), along with the <italic>T.&#x000a0;dicoccoides</italic> whole&#x02010;transcriptome assembly (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>). For comparative analyses, miRNA identification was carried out on the genome assembly of wild emmer genotype Zavitan (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) and hexaploid wheat cv. Chinese Spring (RefSeqv1, International Wheat Genome Sequencing Consortium, <ext-link ext-link-type="uri" xlink:href="https://urgi.versailles.inra.fr">https://urgi.versailles.inra.fr</ext-link>) using the same approach and target transcripts were identified among whole&#x02010;transcriptome assembly (Avni <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0007" ref-type="ref">2017</xref>) for Zavitan and high&#x02010;confidence coding sequences (<ext-link ext-link-type="ftp" xlink:href="ftp://ftpmips.helmholtz-muenchen.de/plants/wheat/IWGSC/">ftp://ftpmips.helmholtz-muenchen.de/plants/wheat/IWGSC/</ext-link>) for Chinese Spring. Putative tRNA genes were identified using the tRNAscan&#x02010;SE 1.21 program(Lowe and Eddy, <xref rid="pbi12940-bib-0040" ref-type="ref">1997</xref>) with default parameters for eukaryotic genomes. Pseudogenes and other undetermined annotations were excluded.</p><p>Identification of lncRNAs was performed using three available transcriptome data sets from (i) wild emmer genotype &#x02018;Zavitan&#x02019; (both high&#x02010;confidence and low&#x02010;confidence transcripts, (<ext-link ext-link-type="uri" xlink:href="https://wheat.pw.usda.gov/graingenes_downloads/Zavitan/">https://wheat.pw.usda.gov/graingenes_downloads/Zavitan/</ext-link>), (ii) hexaploid wheat Chinese Spring (<ext-link ext-link-type="uri" xlink:href="http://www.earlham.ac.uk/organisms/wheat">http://www.earlham.ac.uk/organisms/wheat</ext-link>) and (iii) Drought&#x02010;stressed and irrigated samples of Chinese Spring. The coding potentials of these transcriptome sequences were assessed with CNCI (<ext-link ext-link-type="uri" xlink:href="https://github.com/www-bioinfo-org/CNCI">https://github.com/www-bioinfo-org/CNCI</ext-link>) (Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0057" ref-type="ref">2013</xref>), and ORFs were identified using Transdecoder (<ext-link ext-link-type="uri" xlink:href="https://transdecoder.github.io/">https://transdecoder.github.io/</ext-link>). Transcripts with protein&#x02010;coding potential and/or with potential ORFs encoding polypeptides &#x0003e;100 amino acids in length were discarded. Remaining transcripts were compared against known protein sequences of <italic>B.&#x000a0;distachyon</italic>,<italic> O.&#x000a0;sativa</italic>,<italic> S.&#x000a0;bicolor</italic> and <italic>H.&#x000a0;vulgare</italic>, as above, and against protein sequences of <italic>Triticum aestivum</italic> (UniProt) and <italic>Triticum turgidum</italic> (NCBI, retrieved from 7 February 2017), together with reviewed protein sequences from the Swiss&#x02010;Prot database with both &#x02018;blastx&#x02019; (1E&#x02010;5, &#x02010;length 30, &#x02010;ppos 80) and &#x02018;tblastn&#x02019; (1E&#x02010;5, &#x02010;length 30, &#x02010;pident 80). BLAST searches were also performed against Unigene sequences of <italic>B.&#x000a0;distachyon</italic> (build #2), <italic>O.&#x000a0;sativa</italic> (build #86), <italic>S.&#x000a0;bicolor</italic> (build #30), <italic>H.&#x000a0;vulgare</italic> (build #59) and <italic>T.&#x000a0;aestivum</italic> (build #63) and EST sequences of <italic>T.&#x000a0;turgidum</italic> (NCBI, retrieved from 7 February 2017) (1E&#x02010;30,&#x02010;length 90, &#x02010;identity 80). In addition, BLAST searches were performed against the organellar genomes of <italic>T.&#x000a0;aestivum</italic> (gene bank ID: NC_007579.1 and NC_002762.1) and <italic>T.&#x000a0;turgidum</italic> (KJ614397.1), together with noncoding RNA sequences (rRNA, tRNA, snRNA and snRNA). Transcript sequences showing any homology in these analyses were discarded and candidates longer than 200 nucleotides were accepted as putative lncRNAs. The lncRNAs were mapped onto the genome assemblies of wild emmer genotype Zavitan and Chinese Spring, as well as the <italic>T.&#x000a0;dicoccoides</italic> chromosome assemblies, using GMAP (&#x02010;cross&#x02010;species, &#x02010;f &#x02018;2) (<ext-link ext-link-type="uri" xlink:href="http://research-pub.gene.com/gmap/">http://research-pub.gene.com/gmap/</ext-link>) (Wu and Watanabe, <xref rid="pbi12940-bib-0065" ref-type="ref">2005</xref>). For positive alignments, only lncRNAs mapping through their entire lengths with an alignment score of at least 40 were accepted. Finally, the lncRNA transcripts that contain noncanonical splice sites were checked in depth to assess whether these transcripts may still have potential coding features that eluded detection simply due to strandedness. This final elimination discarded the lncRNAs with noncanonical splice sites if their reverse complemented sequences coded for canonical transcripts.</p></sec><sec id="pbi12940-sec-0014"><title>Identification of SSRs and TE junctions and SNPs</title><p>SSRs from chromosome assembly contigs fully covering selected genes from <italic>T.&#x000a0;dicoccoides</italic> and <italic>T.&#x000a0;turgidum</italic> were identified independently using the Gramene SSR tool (<ext-link ext-link-type="uri" xlink:href="http://archive.gramene.org/db/markers/ssrtool">http://archive.gramene.org/db/markers/ssrtool</ext-link>) and the MISA&#x02010;MIcroSAtellite identification tool (<ext-link ext-link-type="uri" xlink:href="http://pgrc.ipk-gatersleben.de/misa/">http://pgrc.ipk-gatersleben.de/misa/</ext-link>). TE junctions for which ISBP markers can be designed were identified using IsbpFinder (Paux <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0051" ref-type="ref">2010</xref>). SNPs were identified as previously described (Akpinar <italic>et&#x000a0;al</italic>., <xref rid="pbi12940-bib-0005" ref-type="ref">2016</xref>).</p></sec></sec><sec id="pbi12940-sec-0016"><title>Data availability</title><p>The data sets generated during the current study are available in the [TdicA&#x02010;B] repository, under the accession numbers PRJEB24100 (raw reads) and PRJEB25714 (chromosome assemblies). The data sets generated and/or analysed during the current study, including custom scripts, are also available from the corresponding author on request.</p></sec><sec id="pbi12940-sec-0017"><title>Competing interests</title><p>The authors declare no competing financial interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12940-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Sequences from chromosome assemblies associated with conserved and non&#x02010;conserved genes.</p></caption><media xlink:href="PBI-16-2077-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0002"><caption><p>
+<bold>Figure&#x000a0;S2</bold> Syntenic relationships between <italic>T.&#x000a0;dicoccoides</italic> and related grasses <italic>Brachypodium</italic> (Bd), rice (Os) and sorghum (Sb).</p></caption><media xlink:href="PBI-16-2077-s002.png"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0003"><caption><p>
+<bold>Figure&#x000a0;S3</bold> Overview of the structural genome comparison between tetraploid wild wheat Zavitan and hexaploid bread wheat cv. Chinese Spring, aided by chromosome assemblies.</p></caption><media xlink:href="PBI-16-2077-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0004"><caption><p>
+<bold>Figure&#x000a0;S4</bold> Numbers of putative miRNA families identified in chromosome assemblies.</p></caption><media xlink:href="PBI-16-2077-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0005"><caption><p>
+<bold>Figure&#x000a0;S5</bold> Putative tRNA genes identified from repeat&#x02010;masked (top panel) and unmasked (bottom panel) chromosome assemblies.</p></caption><media xlink:href="PBI-16-2077-s005.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0006"><caption><p>
+<bold>Figure&#x000a0;S6.</bold> A schematic representation of BTR alleles identified in the Zavitan genome and our chromosome assemblies.</p></caption><media xlink:href="PBI-16-2077-s006.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0007"><caption><p>
+<bold>Figure&#x000a0;S7&#x000a0;</bold>Proposed model for autophagy induction in response to stress and developmental regulations.</p></caption><media xlink:href="PBI-16-2077-s007.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0008"><caption><p>
+<bold>Table&#x000a0;S1</bold>
+<italic>T. dicoccoides</italic> contigs matching conserved grass genes and putatively wheat specific genes (excluding potential pseudogenes).</p></caption><media xlink:href="PBI-16-2077-s008.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0009"><caption><p>
+<bold>Table&#x000a0;S2</bold> Summary of the single nucleotide polymorphisms and small InDels between <italic>T.&#x000a0;dicoccoides</italic> survey sequences and pseudomolecules from cv. Zavitan.</p></caption><media xlink:href="PBI-16-2077-s009.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0010"><caption><p>
+<bold>Table&#x000a0;S3</bold> Putative miRNAs encoded by <italic>T.&#x000a0;dicoccoides</italic> chromosomes.</p></caption><media xlink:href="PBI-16-2077-s010.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0011"><caption><p>
+<bold>Table&#x000a0;S4</bold> lncRNAs commonly mapping to chromosome assemblies, in addition to Zavitan and <italic>T.&#x000a0;aestivum</italic> genomes. Potential lncRNA&#x02010;miRNA interactions are also included.</p></caption><media xlink:href="PBI-16-2077-s011.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0012"><caption><p>
+<bold>Table&#x000a0;S5</bold> Overview of annotated ATG proteins from tetraploid and hexaploid wheat.</p></caption><media xlink:href="PBI-16-2077-s012.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0013"><caption><p>
+<bold>Table&#x000a0;S6</bold> Simple Sequence Repeats (SSRs) and TE junctions found in chromosome assemblies that contain coding regions for selected agronomically important traits.</p></caption><media xlink:href="PBI-16-2077-s013.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0014"><caption><p>
+<bold>Data S1</bold> Selected agronomically important genes covered by chromosome assemblies.</p></caption><media xlink:href="PBI-16-2077-s014.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0015"><caption><p>
+<bold>Data S2</bold> Chromosome sorting, sequencing and assembly.</p></caption><media xlink:href="PBI-16-2077-s015.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12940-sup-0016"><caption><p>&#x000a0;</p></caption><media xlink:href="PBI-16-2077-s016.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12940-sec-0015"><title>Acknowledgements</title><p>We greatly acknowledge the support from Montana Plant Sciences Endowment and Winifred&#x02010;Asbjornson Plant Science award. We also thank Dr. Istv&#x000e1;n Moln&#x000e1;r for providing <italic>Triticum dicoccoides</italic> seeds (accession MvGB436). We are grateful to Zde&#x00148;ka Dubsk&#x000e1; and Romana &#x00160;perkov&#x000e1; for technical assistance with chromosome sorting. JV, MK and JD were supported by the Czech Science Foundation (award P501/12/G090) and by Ministry of Education, Youth and Sports of the Czech Republic (award LO1204 from the National Program of Sustainability I). PH was funded by grants AGL2016&#x02010;77149&#x02010;C2&#x02010;1&#x02010;P, and CGL2016&#x02010;79790&#x02010;P from MINECO, Spain and by grant P12&#x02010;AGR&#x02010;0482 from Junta de Andalucia, Spain.</p></ack><ref-list content-type="cited-references" id="pbi12940-bibl-0001"><title>References</title><ref id="pbi12940-bib-0001"><mixed-citation publication-type="journal" id="pbi12940-cit-0001">
+<string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>) <article-title>Dissecting miRNAs in wheat D genome progenitor, Aegilops tauschii</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>1</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">26858731</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0002"><mixed-citation publication-type="journal" id="pbi12940-cit-0002">
+<string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Vr</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dole</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Sequencing chromosome 5D of Aegilops tauschii and comparison with its allopolyploid descendant bread wheat (Triticum aestivum)</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>13</volume>, <fpage>740</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">25516153</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0003"><mixed-citation publication-type="journal" id="pbi12940-cit-0003">
+<string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Kantar</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015a</year>) <article-title>Root precursors of microRNAs in wild emmer and modern wheats show major differences in response to drought stress</article-title>. <source xml:lang="en">Funct. Integr. Genomics</source>, <volume>15</volume>, <fpage>587</fpage>&#x02013;<lpage>598</lpage>.<pub-id pub-id-type="pmid">26174050</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0004"><mixed-citation publication-type="journal" id="pbi12940-cit-0004">
+<string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Yuce</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vr&#x000e1;na</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bure&#x00161;ov&#x000e1;</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015b</year>) <article-title>Molecular organization and comparative analysis of chromosome 5B of the wild wheat ancestor Triticum dicoccoides</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>5</volume>, <fpage>10763</fpage>.<pub-id pub-id-type="pmid">26084265</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0005"><mixed-citation publication-type="journal" id="pbi12940-cit-0005">
+<string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>) <article-title>A large&#x02010;scale chromosome&#x02010;specific SNP discovery guideline</article-title>. <source xml:lang="en">Funct. Integr. Genomics</source>, <volume>17</volume>, <fpage>97</fpage>&#x02013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">27900504</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0006"><mixed-citation publication-type="journal" id="pbi12940-cit-0006">
+<string-name>
+<surname>Alptekin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>) <article-title>A comprehensive prescription for plant miRNA identification</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>2058</fpage>.<pub-id pub-id-type="pmid">28174574</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0007"><mixed-citation publication-type="journal" id="pbi12940-cit-0007">
+<string-name>
+<surname>Avni</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nave</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Barad</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Baruch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Twardziok</surname>, <given-names>S.O.</given-names>
+</string-name>, <string-name>
+<surname>Gundlach</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hale</surname>, <given-names>I.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Wild emmer genome architecture and diversity elucidate wheat evolution and domestication</article-title>. <source xml:lang="en">Science</source>, <volume>357</volume>, <fpage>93</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">28684525</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0008"><mixed-citation publication-type="journal" id="pbi12940-cit-0008">
+<string-name>
+<surname>Berkman</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Skarshewski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lorenc</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ling</surname>, <given-names>E.Y.</given-names>
+</string-name>, <string-name>
+<surname>Stiller</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Sequencing and assembly of low copy and genic regions of isolated Triticum aestivum chromosome arm 7DS</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>9</volume>, <fpage>768</fpage>&#x02013;<lpage>775</lpage>.<pub-id pub-id-type="pmid">21356002</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0009"><mixed-citation publication-type="journal" id="pbi12940-cit-0009">
+<string-name>
+<surname>Berkman</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lorenc</surname>, <given-names>M.T.</given-names>
+</string-name> and <string-name>
+<surname>Edwards</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012a</year>) <article-title>Next&#x02010;generation sequencing applications for wheat crop improvement</article-title>. <source xml:lang="en">Am. J. Bot.</source>
+<volume>99</volume>, <fpage>365</fpage>&#x02013;<lpage>371</lpage>.<pub-id pub-id-type="pmid">22268223</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0010"><mixed-citation publication-type="journal" id="pbi12940-cit-0010">
+<string-name>
+<surname>Berkman</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Skarshewski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Manoli</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lorenc</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Stiller</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Smits</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012b</year>) <article-title>Sequencing wheat chromosome arm 7BS delimits the 7BS/4AL translocation and reveals homoeologous gene conservation</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>124</volume>, <fpage>423</fpage>&#x02013;<lpage>432</lpage>.<pub-id pub-id-type="pmid">22001910</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0011"><mixed-citation publication-type="journal" id="pbi12940-cit-0011">
+<string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Unver</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Turktas</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013a</year>) <article-title>Proteome changes in wild and modern wheat leaves upon drought stress by two&#x02010;dimensional electrophoresis and nanoLC&#x02010;ESI&#x02010;MS/MS</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>83</volume>, <fpage>89</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">23443681</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0012"><mixed-citation publication-type="journal" id="pbi12940-cit-0012">
+<string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kantar</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Kurtoglu</surname>, <given-names>K.Y.</given-names>
+</string-name> (<year>2013b</year>) <article-title>Drought tolerance in modern and wild wheat</article-title>. <source xml:lang="en">Scientific World J.</source>
+<volume>2013</volume>, <fpage>548246</fpage>.</mixed-citation></ref><ref id="pbi12940-bib-0013"><mixed-citation publication-type="journal" id="pbi12940-cit-0013">
+<string-name>
+<surname>Cagirici</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Alptekin</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>) <article-title>RNA sequencing and co&#x02010;expressed long non&#x02010;coding RNA in modern and wild wheats</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>7</volume>, <fpage>10670</fpage>.<pub-id pub-id-type="pmid">28878329</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0014"><mixed-citation publication-type="journal" id="pbi12940-cit-0014">
+<string-name>
+<surname>Camacho</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Coulouris</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Avagyan</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Papadopoulos</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bealer</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Madden</surname>, <given-names>T.L.</given-names>
+</string-name> (<year>2009</year>) <article-title>BLAST+: architecture and applications</article-title>. <source xml:lang="en">BMC Bioinform.</source>
+<volume>10</volume>, <fpage>421</fpage>.</mixed-citation></ref><ref id="pbi12940-bib-0015"><mixed-citation publication-type="journal" id="pbi12940-cit-0015">
+<string-name>
+<surname>Chikhi</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Medvedev</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Informed and automated k&#x02010;mer size selection for genome assembly</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>30</volume>, <fpage>31</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">23732276</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0016"><mixed-citation publication-type="journal" id="pbi12940-cit-0016">
+<string-name>
+<surname>Choulet</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wicker</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rustenholz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Paux</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Salse</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Leroy</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Schlub</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Megabase level sequencing reveals contrasted organization and evolution patterns of the wheat gene and transposable element spaces</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>22</volume>, <fpage>1686</fpage>&#x02013;<lpage>1701</lpage>.<pub-id pub-id-type="pmid">20581307</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0017"><mixed-citation publication-type="journal" id="pbi12940-cit-0017">
+<string-name>
+<surname>Choulet</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Alberti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Theil</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Glover</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Barbe</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Daron</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pingault</surname>, <given-names>L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Structural and functional partitioning of bread wheat chromosome 3B</article-title>. <source xml:lang="en">Science</source>, <volume>345</volume>, <fpage>1249721</fpage>.<pub-id pub-id-type="pmid">25035497</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0018"><mixed-citation publication-type="journal" id="pbi12940-cit-0018">
+<string-name>
+<surname>Conesa</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>G&#x000f6;tz</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Blast2GO: A comprehensive suite for functional analysis in plant genomics</article-title>. <source xml:lang="en">Int. J. Plant Genomics</source>, <volume>2008</volume>, <fpage>619832</fpage>.<pub-id pub-id-type="pmid">18483572</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0019"><mixed-citation publication-type="miscellaneous" id="pbi12940-cit-0019">
+<string-name>
+<surname>Distelfeld</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Assembly and Validation of the Wild Emmer Wheat Genome</article-title>. In Plant and Animal Genome XXIV Conference. Plant and Animal Genome. Available at: <ext-link ext-link-type="uri" xlink:href="https://pag.confex.com/pag/xxiv/webprogram/Paper18477.html">https://pag.confex.com/pag/xxiv/webprogram/Paper18477.html</ext-link> [Accessed May 11, 2016].</mixed-citation></ref><ref id="pbi12940-bib-0020"><mixed-citation publication-type="journal" id="pbi12940-cit-0020">
+<string-name>
+<surname>Distelfeld</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tranquilli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Dubcovsky</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Genetic and molecular characterization of the VRN2 loci in tetraploid wheat</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>149</volume>, <fpage>245</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">19005084</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0021"><mixed-citation publication-type="journal" id="pbi12940-cit-0021">
+<string-name>
+<surname>Ergen</surname>, <given-names>N.Z.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>) <article-title>Sequencing over 13&#x000a0;000 expressed sequence tags from six subtractive cDNA libraries of wild and modern wheats following slow drought stress</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>32</volume>, <fpage>220</fpage>&#x02013;<lpage>236</lpage>.<pub-id pub-id-type="pmid">19054353</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0022"><mixed-citation publication-type="journal" id="pbi12940-cit-0022">
+<string-name>
+<surname>Ergen</surname>, <given-names>N.Z.</given-names>
+</string-name>, <string-name>
+<surname>Thimmapuram</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bohnert</surname>, <given-names>H.J.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>) <article-title>Transcriptome pathways unique to dehydration tolerant relatives of modern wheat</article-title>. <source xml:lang="en">Funct. Integr. Genomics</source>, <volume>9</volume>, <fpage>377</fpage>&#x02013;<lpage>396</lpage>.<pub-id pub-id-type="pmid">19330365</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0023"><mixed-citation publication-type="journal" id="pbi12940-cit-0023">
+<string-name>
+<surname>Feuillet</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Leach</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schnable</surname>, <given-names>P.S.</given-names>
+</string-name> and <string-name>
+<surname>Eversole</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>) <article-title>Crop genome sequencing: lessons and rationales</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>16</volume>, <fpage>77</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">21081278</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0024"><mixed-citation publication-type="journal" id="pbi12940-cit-0024">
+<string-name>
+<surname>Hao</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>) <article-title>In situ hybridization analysis indicates that 4AL&#x02010;5AL&#x02010;7BS translocation preceded subspecies differentiation of Triticum turgidum</article-title>. <source xml:lang="en">Genome</source>, <volume>56</volume>, <fpage>303</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">23789999</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0025"><mixed-citation publication-type="journal" id="pbi12940-cit-0025">
+<string-name>
+<surname>Henry</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Rangan</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Furtado</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Functional cereals for production in new and variable climates</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>30</volume>, <fpage>11</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">26828379</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0026"><mixed-citation publication-type="journal" id="pbi12940-cit-0026">
+<string-name>
+<surname>Hernandez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Martis</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dorado</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pfeifer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000e1;lvez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schaaf</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jouve</surname>, <given-names>N.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Next&#x02010;generation sequencing and syntenic integration of flow&#x02010;sorted arms of wheat chromosome 4A exposes the chromosome structure and gene content</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>69</volume>, <fpage>377</fpage>&#x02013;<lpage>386</lpage>.<pub-id pub-id-type="pmid">21974774</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0027"><mixed-citation publication-type="journal" id="pbi12940-cit-0027">
+<string-name>
+<surname>Iizumi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yokozawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sakurai</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Travasso</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Romanenkov</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Oettli</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Newby</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Historical changes in global yields: major cereal and legume crops from 1982 to 2006</article-title>. <source xml:lang="en">Glob. Ecol. Biogeogr.</source>
+<volume>23</volume>, <fpage>346</fpage>&#x02013;<lpage>357</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0028"><mixed-citation publication-type="journal" id="pbi12940-cit-0028">
+<string-name>
+<surname>Jia</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Appels</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Aegilops tauschii draft genome sequence reveals a gene repertoire for wheat adaptation</article-title>. <source xml:lang="en">Nature</source>, <volume>496</volume>, <fpage>91</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">23535592</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0029"><mixed-citation publication-type="journal" id="pbi12940-cit-0029">
+<string-name>
+<surname>Kantar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Akp&#x00131;nar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Val&#x000e1;rik</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>) <article-title>Subgenomic analysis of microRNAs in polyploid wheat</article-title>. <source xml:lang="en">Funct. Integr. Genomics</source>, <volume>12</volume>, <fpage>465</fpage>&#x02013;<lpage>479</lpage>.<pub-id pub-id-type="pmid">22592659</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0030"><mixed-citation publication-type="journal" id="pbi12940-cit-0030">
+<string-name>
+<surname>Klionsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Agholme</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Agnello</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Agostinis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Aguirre&#x02010;Ghiso</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Ait&#x02010;Mohamed</surname>, <given-names>O.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Guidelines for the use and interpretation of assays for monitoring autophagy</article-title>. <source xml:lang="en">Autophagy</source>, <volume>8</volume>, <fpage>445</fpage>&#x02013;<lpage>544</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0031"><mixed-citation publication-type="journal" id="pbi12940-cit-0031">
+<string-name>
+<surname>Krzywinski</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schein</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Birol</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Connors</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gascoyne</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Horsman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>S.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Circos: an information aesthetic for comparative genomics</article-title>. <source xml:lang="en">Genome Res.</source>
+<volume>19</volume>, <fpage>1639</fpage>&#x02013;<lpage>1645</lpage>.<pub-id pub-id-type="pmid">19541911</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0032"><mixed-citation publication-type="journal" id="pbi12940-cit-0032">
+<string-name>
+<surname>Kurtoglu</surname>, <given-names>K.Y.</given-names>
+</string-name>, <string-name>
+<surname>Kantar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>S.J.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>) <article-title>Unique and conserved microRNAs in wheat chromosome 5D revealed by next&#x02010;generation sequencing</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <fpage>e69801</fpage>.<pub-id pub-id-type="pmid">23936103</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0033"><mixed-citation publication-type="journal" id="pbi12940-cit-0033">
+<string-name>
+<surname>Kurtoglu</surname>, <given-names>K.Y.</given-names>
+</string-name>, <string-name>
+<surname>Kantar</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>New wheat microRNA using whole&#x02010;genome sequence</article-title>. <source xml:lang="en">Funct. Integr. Genomics</source>, <volume>14</volume>, <fpage>363</fpage>&#x02013;<lpage>379</lpage>.<pub-id pub-id-type="pmid">24395439</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0034"><mixed-citation publication-type="journal" id="pbi12940-cit-0034">
+<string-name>
+<surname>Kuzuoglu&#x02010;Ozturk</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cebeci Yalcinkaya</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Mitou</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Korkmaz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gozuacik</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>) <article-title>Autophagy&#x02010;related gene, TdAtg8, in wild emmer wheat plays a role in drought and osmotic stress response</article-title>. <source xml:lang="en">Planta</source>, <volume>236</volume>, <fpage>1081</fpage>&#x02013;<lpage>1092</lpage>.<pub-id pub-id-type="pmid">22569921</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0035"><mixed-citation publication-type="journal" id="pbi12940-cit-0035">
+<string-name>
+<surname>Li</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Stoeckert</surname>, <given-names>C.J.</given-names>
+</string-name> and <string-name>
+<surname>Roos</surname>, <given-names>D.S.</given-names>
+</string-name> (<year>2003</year>) <article-title>OrthoMCL: identification of ortholog groups for eukaryotic genomes</article-title>. <source xml:lang="en">Genome Res.</source>
+<volume>13</volume>, <fpage>2178</fpage>&#x02013;<lpage>2189</lpage>.<pub-id pub-id-type="pmid">12952885</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0036"><mixed-citation publication-type="journal" id="pbi12940-cit-0036">
+<string-name>
+<surname>Li</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pignatta</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bendix</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Brunkard</surname>, <given-names>J.O.</given-names>
+</string-name>, <string-name>
+<surname>Cohn</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Tung</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Sun</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011a</year>) <article-title>MicroRNA regulation of plant innate immune receptors</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>109</volume>, <fpage>1790</fpage>&#x02013;<lpage>1795</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0037"><mixed-citation publication-type="journal" id="pbi12940-cit-0037">
+<string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Jin</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2011b</year>) <article-title>Domestication of transposable elements into MicroRNA genes in plants</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <fpage>e19212</fpage>.<pub-id pub-id-type="pmid">21559273</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0038"><mixed-citation publication-type="journal" id="pbi12940-cit-0038">
+<string-name>
+<surname>Ling</surname>, <given-names>H.&#x02010;Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Draft genome of the wheat A&#x02010;genome progenitor Triticum urartu</article-title>. <source xml:lang="en">Nature</source>, <volume>496</volume>, <fpage>87</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">23535596</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0039"><mixed-citation publication-type="journal" id="pbi12940-cit-0039">
+<string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Searle</surname>, <given-names>I.R.</given-names>
+</string-name>, <string-name>
+<surname>Watson&#x02010;Haigh</surname>, <given-names>N.S.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Mather</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>Able</surname>, <given-names>A.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Genome&#x02010;wide identification of MicroRNAs in leaves and the developing head of four durum genotypes during water deficit stress T. Unver, ed</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>, <fpage>e0142799</fpage>.<pub-id pub-id-type="pmid">26562166</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0040"><mixed-citation publication-type="journal" id="pbi12940-cit-0040">
+<string-name>
+<surname>Lowe</surname>, <given-names>T.M.</given-names>
+</string-name> and <string-name>
+<surname>Eddy</surname>, <given-names>S.R.</given-names>
+</string-name> (<year>1997</year>) <article-title>tRNAscan&#x02010;SE: A program for improved detection of transfer RNA genes in genomic sequence</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>25</volume>, <fpage>0955</fpage>&#x02013;<lpage>0964</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0041"><mixed-citation publication-type="journal" id="pbi12940-cit-0041">
+<string-name>
+<surname>Lucas</surname>, <given-names>S.J.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>) <article-title>Sorting the wheat from the chaff: identifying miRNAs in genomic survey sequences of Triticum aestivum chromosome 1AL. A. A. Aboobaker, ed</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>, <fpage>e40859</fpage>.<pub-id pub-id-type="pmid">22815845</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0042"><mixed-citation publication-type="journal" id="pbi12940-cit-0042">
+<string-name>
+<surname>Lucas</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Akpinar</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;imkov&#x000e1;</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kubal&#x000e1;kov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Budak</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Next&#x02010;generation sequencing of flow&#x02010;sorted wheat chromosome 5D reveals lineage&#x02010;specific translocations and widespread gene duplications</article-title>. <source xml:lang="en">BMC Genom.</source>
+<volume>15</volume>, <fpage>1</fpage>&#x02013;<lpage>18</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0043"><mixed-citation publication-type="journal" id="pbi12940-cit-0043">
+<string-name>
+<surname>Luo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>Y.Q.</given-names>
+</string-name>, <string-name>
+<surname>You</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Deal</surname>, <given-names>K.R.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>A 4&#x02010;gigabase physical map unlocks the structure and evolution of the complex genome of Aegilops tauschii, the wheat D&#x02010;genome progenitor</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>110</volume>, <fpage>7940</fpage>&#x02013;<lpage>7945</lpage>.<pub-id pub-id-type="pmid">23610408</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0044"><mixed-citation publication-type="journal" id="pbi12940-cit-0044">
+<string-name>
+<surname>Marcussen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sandve</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Heier</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Spannagl</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pfeifer</surname>, <given-names>M.</given-names>
+</string-name>, <collab collab-type="authors">International Wheat Genome Sequencing Consortium</collab>
+, <string-name>
+<surname>Jakobsen</surname>, <given-names>K.S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Ancient hybridizations among the ancestral genomes of bread wheat</article-title>. <source xml:lang="en">Science</source>, <volume>345</volume>, <fpage>1250092</fpage>.<pub-id pub-id-type="pmid">25035499</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0045"><mixed-citation publication-type="journal" id="pbi12940-cit-0045">
+<string-name>
+<surname>Mayer</surname>, <given-names>K.F.</given-names>
+</string-name>, <string-name>
+<surname>Waugh</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Langridge</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Platzer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fincher</surname>, <given-names>G.B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>A physical, genetic and functional sequence assembly of the barley genome</article-title>. <source xml:lang="en">Nature</source>, <volume>491</volume>, <fpage>711</fpage>&#x02013;<lpage>716</lpage>.<pub-id pub-id-type="pmid">23075845</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0046"><mixed-citation publication-type="journal" id="pbi12940-cit-0046">
+<string-name>
+<surname>Mayer</surname>, <given-names>K.F.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pozniak</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Eversole</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Feuillet</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>, <given-names>B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>A chromosome&#x02010;based draft sequence of the hexaploid bread wheat (Triticum aestivum) genome</article-title>. <source xml:lang="en">Science</source>, <volume>345</volume>, <fpage>1251788</fpage>.<pub-id pub-id-type="pmid">25035500</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0047"><mixed-citation publication-type="journal" id="pbi12940-cit-0047">
+<string-name>
+<surname>Nagy</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hegedus</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Pircs</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Varga</surname>, <given-names>&#x000c1;.</given-names>
+</string-name> and <string-name>
+<surname>Juh&#x000e1;sz</surname>, <given-names>G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Different effects of Atg2 and Atg18 mutations on Atg8a and Atg9 trafficking during starvation in Drosophila</article-title>. <source xml:lang="en">FEBS Lett.</source>
+<volume>588</volume>, <fpage>408</fpage>&#x02013;<lpage>413</lpage>.<pub-id pub-id-type="pmid">24374083</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0048"><mixed-citation publication-type="journal" id="pbi12940-cit-0048">
+<string-name>
+<surname>Nevo</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>G.</given-names>
+</string-name> (<year>2010</year>) <article-title>Drought and salt tolerances in wild relatives for wheat and barley improvement</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>33</volume>, <fpage>670</fpage>&#x02013;<lpage>685</lpage>.<pub-id pub-id-type="pmid">20040064</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0049"><mixed-citation publication-type="journal" id="pbi12940-cit-0049">
+<string-name>
+<surname>Nussbaumer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Martis</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Roessner</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Pfeifer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bader</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gundlach</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>MIPS PlantsDB: a database framework for comparative plant genome research</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>41</volume>, <fpage>D1144</fpage>&#x02013;<lpage>D1151</lpage>.<pub-id pub-id-type="pmid">23203886</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0050"><mixed-citation publication-type="journal" id="pbi12940-cit-0050">
+<string-name>
+<surname>Paterson</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Bruggmann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dubchak</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Grimwood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gundlach</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Haberer</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>The Sorghum bicolor genome and the diversification of grasses</article-title>. <source xml:lang="en">Nature</source>, <volume>457</volume>, <fpage>551</fpage>&#x02013;<lpage>556</lpage>.<pub-id pub-id-type="pmid">19189423</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0051"><mixed-citation publication-type="journal" id="pbi12940-cit-0051">
+<string-name>
+<surname>Paux</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Faure</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Choulet</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Roger</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gauthier</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Martinant</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Sourdille</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Insertion site&#x02010;based polymorphism markers open new perspectives for genome saturation and marker&#x02010;assisted selection in wheat</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>8</volume>, <fpage>196</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">20078842</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0052"><mixed-citation publication-type="journal" id="pbi12940-cit-0052">
+<string-name>
+<surname>Pei</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yue</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Identification of autophagy&#x02010;related genes ATG4 and ATG8 from wheat (Triticum aestivum L.) and profiling of their expression patterns responding to biotic and abiotic stresses</article-title>. <source xml:lang="en">Plant Cell Rep.</source>
+<volume>33</volume>, <fpage>1697</fpage>&#x02013;<lpage>1710</lpage>.<pub-id pub-id-type="pmid">24996626</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0053"><mixed-citation publication-type="journal" id="pbi12940-cit-0053">
+<string-name>
+<surname>Pourkheirandish</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hensel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kilian</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Senthil</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sameri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Azhaguvel</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Evolution of the grain dispersal system in barley</article-title>. <source xml:lang="en">Cell</source>, <volume>162</volume>, <fpage>527</fpage>&#x02013;<lpage>539</lpage>.<pub-id pub-id-type="pmid">26232223</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0054"><mixed-citation publication-type="journal" id="pbi12940-cit-0054">
+<string-name>
+<surname>Sahoo</surname>, <given-names>R.K.</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>, <given-names>S.S.</given-names>
+</string-name> and <string-name>
+<surname>Tuteja</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>) <article-title>Pea DNA helicase 45 promotes salinity stress tolerance in IR64 rice with improved yield</article-title>. <source xml:lang="en">Plant Signal. Behav.</source>
+<volume>7</volume>, <fpage>1042</fpage>&#x02013;<lpage>1046</lpage>.<pub-id pub-id-type="pmid">22827940</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0055"><mixed-citation publication-type="journal" id="pbi12940-cit-0055">
+<string-name>
+<surname>Sela</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Spiridon</surname>, <given-names>L.N.</given-names>
+</string-name>, <string-name>
+<surname>Petrescu</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Akerman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mandel&#x02010;Gutfreund</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Nevo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Loutre</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Ancient diversity of splicing motifs and protein surfaces in the wild emmer wheat (Triticum dicoccoides) LR10 coiled coil (CC) and leucine&#x02010;rich repeat (LRR) domains</article-title>. <source xml:lang="en">Mol. Plant Pathol.</source>
+<volume>13</volume>, <fpage>276</fpage>&#x02013;<lpage>287</lpage>.<pub-id pub-id-type="pmid">21952112</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0056"><mixed-citation publication-type="journal" id="pbi12940-cit-0056">
+<string-name>
+<surname>Simpson</surname>, <given-names>J.T.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jackman</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>Schein</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>S.J.M.</given-names>
+</string-name> and <string-name>
+<surname>Birol</surname>, <given-names>I.</given-names>
+</string-name> (<year>2009</year>) <article-title>ABySS: a parallel assembler for short read sequence data</article-title>. <source xml:lang="en">Genome Res.</source>
+<volume>19</volume>, <fpage>1117</fpage>&#x02013;<lpage>1123</lpage>.<pub-id pub-id-type="pmid">19251739</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0057"><mixed-citation publication-type="journal" id="pbi12940-cit-0057">
+<string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Utilizing sequence intrinsic composition to classify protein&#x02010;coding and long non&#x02010;coding transcripts</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>41</volume>, <fpage>e166</fpage>.<pub-id pub-id-type="pmid">23892401</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0058"><mixed-citation publication-type="journal" id="pbi12940-cit-0058">
+<string-name>
+<surname>Tanaka</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Antonio</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Kikuchi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Matsumoto</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nagamura</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Numa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sakai</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>The rice annotation project database (RAP&#x02010;DB): 2008 update</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>36</volume>, <fpage>D1028</fpage>&#x02013;<lpage>D1033</lpage>.<pub-id pub-id-type="pmid">18089549</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0059"><mixed-citation publication-type="journal" id="pbi12940-cit-0059">
+<string-name>
+<surname>Tanaka</surname>, <given-names>T.S.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>F.U.</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>, <given-names>G.I.R.I.P.R.</given-names>
+</string-name>, <string-name>
+<surname>Onuki</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sakai</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kanamori</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Next&#x02010;generation survey sequencing and the molecular organization of wheat chromosome 6B</article-title>. <source xml:lang="en">DNA Res.</source>, <volume>21</volume>, <fpage>103</fpage>&#x02013;<lpage>114</lpage>.<pub-id pub-id-type="pmid">24086083</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0060"><mixed-citation publication-type="journal" id="pbi12940-cit-0060">
+<collab collab-type="authors">The International Brachypodium Initiative</collab>
+(<year>2010</year>) <article-title>Genome sequencing and analysis of the model grass Brachypodium distachyon</article-title>. <source xml:lang="en">Nature</source>, <volume>463</volume>, <fpage>763</fpage>&#x02013;<lpage>768</lpage>.<pub-id pub-id-type="pmid">20148030</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0061"><mixed-citation publication-type="miscellaneous" id="pbi12940-cit-0061">
+<string-name>
+<surname>Tuteja</surname>, <given-names>N.</given-names>
+</string-name> (<year>2010</year>) <article-title>A Method to Confer Salinity Stress Tolerance to Plants by Helicase Overexpression.</article-title> In Helicases. pp. <fpage>377</fpage>&#x02013;<lpage>387</lpage>. Available at: <ext-link ext-link-type="uri" xlink:href="http://link.springer.com/10.1007/978-1-60327-355-8">http://link.springer.com/10.1007/978-1-60327-355-8</ext-link>.</mixed-citation></ref><ref id="pbi12940-bib-0062"><mixed-citation publication-type="journal" id="pbi12940-cit-0062">
+<string-name>
+<surname>Vatansever</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Filiz</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Eroglu</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>) <article-title>Genome&#x02010;wide exploration of metal tolerance protein (MTP) genes in common wheat (Triticum aestivum): insights into metal homeostasis and biofortification</article-title>. <source xml:lang="en">Biometals</source>, <volume>30</volume>, <fpage>217</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">28150142</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0063"><mixed-citation publication-type="journal" id="pbi12940-cit-0063">
+<string-name>
+<surname>Venora</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Blangiforti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Castiglione</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Pignone</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Losavio</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Cremonini</surname>, <given-names>R.</given-names>
+</string-name> (<year>2002</year>) <article-title>Chromatin organisation and computer aided karyotyping of Triticum durum Desf. cv</article-title>. <source xml:lang="en">Timilia. Caryologia</source>, <volume>55</volume>, <fpage>91</fpage>&#x02013;<lpage>98</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0064"><mixed-citation publication-type="journal" id="pbi12940-cit-0064">
+<string-name>
+<surname>Vitulo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Albiero</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Forcato</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Campagna</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dal Pero</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bagnaresi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Colaiacovo</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>First survey of the wheat chromosome 5A composition through a next generation sequencing approach. E. Newbigin, ed</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <fpage>e26421</fpage>.<pub-id pub-id-type="pmid">22028874</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0065"><mixed-citation publication-type="journal" id="pbi12940-cit-0065">
+<string-name>
+<surname>Wu</surname>, <given-names>T.D.</given-names>
+</string-name> and <string-name>
+<surname>Watanabe</surname>, <given-names>C.K.</given-names>
+</string-name> (<year>2005</year>) <article-title>GMAP: a genomic mapping and alignment program for mRNA and EST sequences</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>21</volume>, <fpage>1859</fpage>&#x02013;<lpage>1875</lpage>.<pub-id pub-id-type="pmid">15728110</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0066"><mixed-citation publication-type="journal" id="pbi12940-cit-0066">
+<string-name>
+<surname>Xie</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Nevo</surname>, <given-names>E.</given-names>
+</string-name> (<year>2008</year>) <article-title>Wild emmer: genetic resources, gene mapping and potential for wheat improvement</article-title>. <source xml:lang="en">Euphytica</source>, <volume>164</volume>, <fpage>603</fpage>&#x02013;<lpage>614</lpage>.</mixed-citation></ref><ref id="pbi12940-bib-0067"><mixed-citation publication-type="journal" id="pbi12940-cit-0067">
+<string-name>
+<surname>Yan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2004</year>) <article-title>The wheat VRN2 gene is a flowering repressor down&#x02010;regulated by vernalization</article-title>. <source xml:lang="en">Science</source>, <volume>303</volume>, <fpage>1640</fpage>&#x02013;<lpage>1644</lpage>.<pub-id pub-id-type="pmid">15016992</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0068"><mixed-citation publication-type="journal" id="pbi12940-cit-0068">
+<string-name>
+<surname>Yue</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Pei</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>) <article-title>Wheat homologs of yeast ATG6 function in autophagy and are implicated in powdery mildew immunity</article-title>. <source xml:lang="en">BMC Plant Biol.</source>
+<volume>15</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">25592487</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0069"><mixed-citation publication-type="journal" id="pbi12940-cit-0069">
+<string-name>
+<surname>Zhai</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>D.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>De Paoli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>, <given-names>B.D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>A.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>MicroRNAs as master regulators of the plant NB&#x02010;LRR defense gene family via the production of phased, trans&#x02010;acting siRNAs</article-title>. <source xml:lang="en">Genes Dev.</source>
+<volume>25</volume>, <fpage>2540</fpage>&#x02013;<lpage>2553</lpage>.<pub-id pub-id-type="pmid">22156213</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0070"><mixed-citation publication-type="journal" id="pbi12940-cit-0070">
+<string-name>
+<surname>Zhu</surname>, <given-names>Q.H.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Llewellyn</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Wilson</surname>, <given-names>I.</given-names>
+</string-name> (<year>2013</year>) <article-title>miR482 regulation of NBS&#x02010;LRR defense genes during fungal pathogen infection in cotton</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <fpage>e84390</fpage>.<pub-id pub-id-type="pmid">24391949</pub-id></mixed-citation></ref><ref id="pbi12940-bib-0071"><mixed-citation publication-type="journal" id="pbi12940-cit-0071">
+<string-name>
+<surname>Zimin</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name>
+<surname>Puiu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kingan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Clavijo</surname>, <given-names>B.J.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2017</year>) <article-title>The first near&#x02010;complete assembly of the hexaploid bread wheat genome, Triticum aestivum</article-title>. <source xml:lang="en">Gigascience</source>, <volume>6</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>.</mixed-citation></ref></ref-list></back></article>

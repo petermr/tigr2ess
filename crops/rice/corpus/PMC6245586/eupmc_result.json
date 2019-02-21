@@ -1,0 +1,281 @@
+{
+  "id": [
+    "30453969"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30453969"
+  ],
+  "pmcid": [
+    "PMC6245586"
+  ],
+  "doi": [
+    "10.1186/s12920-018-0418-y"
+  ],
+  "title": [
+    "MiteFinderII: a novel tool to identify miniature inverted-repeat transposable elements hidden in eukaryotic genomes."
+  ],
+  "authorString": [
+    "Hu J, Zheng Y, Shang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu J"
+          ],
+          "firstName": [
+            "Jialu"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Computer Science, Northwestern Polytechnical University, West Youyi Road 127, Xi'an, 710072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Computer Science, Northwestern Polytechnical University, West Youyi Road 127, Xi'an, 710072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shang X"
+          ],
+          "firstName": [
+            "Xuequn"
+          ],
+          "lastName": [
+            "Shang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Computer Science, Northwestern Polytechnical University, West Youyi Road 127, Xi'an, 710072, China. shang@nwpu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2751746"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "101"
+  ],
+  "abstractText": [
+    "BACKGROUND:Miniature inverted-repeat transposable element (MITE) is a type of class II non-autonomous transposable element playing a crucial role in the process of evolution in biology. There is an urgent need to develop bioinformatics tools to effectively identify MITEs on a whole genome-wide scale. However, most of currently existing tools suffer from low ability to deal with large eukaryotic genomes. METHODS:In this paper, we proposed a novel tool MiteFinderII, which was adapted from our previous algorithm MiteFinder, to efficiently detect MITEs from genomics sequences. It has six major steps: (1) build K-mer Index and search for inverted repeats; (2) filtration of inverted repeats with low complexity; (3) merger of inverted repeats; (4) filtration of candidates with low score; (5) selection of final MITE sequences; (6) selection of representative sequences. RESULTS:To test the performance, MiteFinderII and three other existing algorithms were applied to identify MITEs on the whole genome of oryza sativa. Results suggest that MiteFinderII outperforms existing popular tools in terms of both specificity and recall. Additionally, it is much faster and more memory-efficient than other tools in the detection. CONCLUSION:MiteFinderII is an accurate and effective tool to detect MITEs hidden in eukaryotic genomes. The source code is freely accessible at the website: https://github.com/screamer/miteFinder ."
+  ],
+  "affiliation": [
+    "School of Computer Science, Northwestern Polytechnical University, West Youyi Road 127, Xi'an, 710072, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genomic analysis",
+        "Transposable element",
+        "Terminal Inverted Repeat",
+        "K-mer Index",
+        "Target Site Duplication"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6245586?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6245586"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-018-0418-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-21"
+  ],
+  "dateOfRevision": [
+    "2018-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}

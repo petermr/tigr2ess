@@ -1,0 +1,625 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Chem Soc</journal-id><journal-id journal-id-type="iso-abbrev">J. Am. Chem. Soc</journal-id><journal-id journal-id-type="publisher-id">ja</journal-id><journal-id journal-id-type="coden">jacsat</journal-id><journal-title-group><journal-title>Journal of the American Chemical Society</journal-title></journal-title-group><issn pub-type="ppub">0002-7863</issn><issn pub-type="epub">1520-5126</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5269645</article-id><article-id pub-id-type="doi">10.1021/jacs.6b10075</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Contribution
+of Shape and Charge to the Inhibition
+of a Family GH99 <italic>endo</italic>-&#x003b1;-1,2-Mannanase</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Petricevic</surname><given-names>Marija</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Sobala</surname><given-names>Lukasz F.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Fernandes</surname><given-names>Pearl Z.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Raich</surname><given-names>Llu&#x000ed;s</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Thompson</surname><given-names>Andrew J.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Bernardo-Seisdedos</surname><given-names>Ganeko</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Millet</surname><given-names>Oscar</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Zhu</surname><given-names>Sha</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Sollogoub</surname><given-names>Matthieu</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Jim&#x000e9;nez-Barbero</surname><given-names>Jes&#x000fa;s</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref><xref rid="aff7" ref-type="aff">&#x02207;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath11"><name><surname>Rovira</surname><given-names>Carme</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><name><surname>Davies</surname><given-names>Gideon J.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><name><surname>Williams</surname><given-names>Spencer J.</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>School
+of Chemistry and Bio21 Molecular Science and Biotechnology Institute, <institution>University of Melbourne</institution>, Parkville 3010, <country>Australia</country></aff><aff id="aff2"><label>&#x02021;</label>York
+Structural Biology Laboratory, Department of Chemistry, <institution>University of York</institution>, York YO10 5DD, <country>United
+Kingdom</country></aff><aff id="aff3"><label>&#x000a7;</label>Sorbonne Universit&#x000e9;s,
+UPMC Univ Paris 06, CNRS, Institut Parisien de Chimie Mol&#x000e9;culaire
+(IPCM), UMR 8232, 4, place Jussieu, 75005 Paris, <country>France</country></aff><aff id="aff4"><label>&#x02225;</label>Molecular
+Recognition
+and Host&#x02212;Pathogen Interactions, CIC bioGUNE, Bizkaia Technology Park, Building 800, 48160 Derio, <country>Spain</country></aff><aff id="aff5"><label>&#x022a5;</label>Departament
+de Qu&#x000ed;mica Inorg&#x000e0;nica i Org&#x000e0;nica (Secci&#x000f3;
+de Qu&#x000ed;mica Org&#x000e0;nica) &#x00026; Institut de Qu&#x000ed;mica
+Te&#x000f2;rica i Computacional (IQTCUB), <institution>Universitat de Barcelona</institution>, Mart&#x000ed; i Franqu&#x000e8;s 1, 08028 Barcelona, <country>Spain</country></aff><aff id="aff6"><label>#</label><institution>Instituci&#x000f3;
+Catalana de Recerca i Estudis Avan&#x000e7;ats (ICREA)</institution>, Pg. Llu&#x000ed;s Companys 23, 08010 Barcelona, <country>Spain</country></aff><aff id="aff7"><label>&#x02207;</label>Ikerbasque, Basque
+Foundation for Science, Mar&#x000ed;a
+D&#x000ed;az de Haro 3, 48013 Bilbao, <country>Spain</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label><email>c.rovira@ub.edu</email></corresp><corresp id="cor2"><label>*</label><email>gideon.davies@york.ac.uk</email></corresp><corresp id="cor3"><label>*</label><email>sjwill@unimelb.edu.au</email></corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>12</month><year>2016</year></pub-date><pub-date pub-type="ppub"><day>25</day><month>01</month><year>2017</year></pub-date><volume>139</volume><issue>3</issue><fpage>1089</fpage><lpage>1097</lpage><history><date date-type="received"><day>25</day><month>09</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 American Chemical Society</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0008" id="ab-tgr1"/></p><p>Inhibitor
+design incorporating features of the reaction coordinate
+and transition-state structure has emerged as a powerful approach
+for the development of enzyme inhibitors. Such inhibitors find use
+as mechanistic probes, chemical biology tools, and therapeutics. <italic>Endo</italic>-&#x003b1;-1,2-mannosidases and <italic>endo</italic>-&#x003b1;-1,2-mannanases,
+members of glycoside hydrolase family 99 (GH99), are interesting targets
+for inhibitor development as they play key roles in N-glycan maturation
+and microbiotal yeast mannan degradation, respectively. These enzymes
+are proposed to act via a 1,2-anhydrosugar &#x0201c;epoxide&#x0201d;
+mechanism that proceeds through an unusual conformational itinerary.
+Here, we explore how shape and charge contribute to binding of diverse
+inhibitors of these enzymes. We report the synthesis of neutral dideoxy,
+glucal and cyclohexenyl disaccharide inhibitors, their binding to
+GH99 <italic>endo</italic>-&#x003b1;-1,2-mannanases, and their structural
+analysis by X-ray crystallography. Quantum mechanical calculations
+of the free energy landscapes reveal how the neutral inhibitors provide
+shape but not charge mimicry of the proposed intermediate and transition
+state structures. Building upon the knowledge of shape and charge
+contributions to inhibition of family GH99 enzymes, we design and
+synthesize &#x003b1;-Man-1,3-noeuromycin, which is revealed to be the
+most potent inhibitor (<italic>K</italic><sub>D</sub> 13 nM for <italic>Bacteroides xylanisolvens</italic> GH99 enzyme) of these enzymes
+yet reported. This work reveals how shape and charge mimicry of transition
+state features can enable the rational design of potent inhibitors.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ja6b10075</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ja-2016-10075v</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Over
+500&#x0202f;000 gene sequences have been discovered encoding
+glycoside hydrolases that are grouped into more than 130 families
+according to the Carbohydrate Active enZyme classification (CAZy: <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.cazy.org">www.cazy.org</uri>).<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Glycoside hydrolases of family 99 possess two distinct
+activities: <italic>endo</italic>-&#x003b1;-1,2-mannosidase and <italic>endo</italic>-&#x003b1;-1,2-mannanase. <italic>endo</italic>-&#x003b1;-1,2-Mannosidases
+are eukaryotic proteins involved in N-linked glycan maturation, folding,
+and quality control<sup><xref ref-type="bibr" rid="ref2">2</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> and are of clinical significance as they provide a means for viruses
+and cancer to evade the effect of <italic>exo</italic>-glucosidase
+inhibitors.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup><italic>endo</italic>-&#x003b1;-1,2-Mannanases
+are produced by <italic>Bacteroides</italic> spp., bacterial residents
+of the gut microbiota.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> They facilitate
+the degradation of dietary yeast mannan consumed in bread and fermented
+foods, facilitating the breakdown of these complex carbohydrates,
+with beneficial effects on the gastrointestinal tract and, possibly,
+mitigating the symptoms of Crohn&#x02019;s disease.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> Given the importance of family GH99 enzymes in N-linked
+glycan maturation and carbohydrate processing by the microbiota, the
+development of inhibitors has been of particular importance to allow
+assessment and manipulation of their roles in these complex processes.
+In this work, we investigate several mechanism-inspired inhibitor
+design concepts for family GH99 <italic>endo</italic>-&#x003b1;-1,2-mannanases
+from the gut microbiota constituents <italic>Bacteroides thetaiotaomicron</italic> and <italic>Bacteroides xylanisolvens</italic>; <italic>BtGH99</italic> and <italic>BxGH99</italic>, respectively. Our results cast light
+on the importance of structural mimicry of shape and charge of species
+along the reaction coordinate for achieving potent inhibition of this
+enzyme family.</p><p>Glycosidases that cleave their substrates with
+retention of anomeric
+configuration typically operate through a two-step mechanism that
+proceeds via a covalent glycosyl-enzyme intermediate. Such enzymes
+utilize enzymatic amino acid residues that in the first step act as
+general acid and nucleophile to assist in departure of the anomeric
+substituent while simultaneously substituting the anomeric group;
+in the second step the first carboxylate acts as a general base to
+deprotonate a nucleophilic water molecule that hydrolyzes the covalent
+glycosyl enzyme intermediate (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Important exceptions include
+a range of &#x003b2;-hexosaminidases that perform catalysis through
+mechanisms involving neighboring group participation by the 2-acetamido
+group of the substrate (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B).<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> These enzymes also operate
+through a two-step mechanism: in the first step an amino acid residue
+acts as a general acid to assist in departure of the leaving group
+while the 2-acetamido group performs a nucleophilic attack on the
+anomeric center, forming a bicyclic oxazoline/oxazolinium ion intermediate.
+In the second step the same amino acid residue acts as a general base,
+assisting nucleophilic attack by a water molecule that opens the oxazolinium
+ion ring, reforming the 2-acetamido group and completing the hydrolysis
+reaction.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Mechanism for a canonical retaining &#x003b1;-glycosidase that
+proceeds through a covalent glycosyl-enzyme intermediate. (B) Mechanism
+for a retaining &#x003b2;-hexosaminidase involving neighboring group
+participation by the 2-acetamido group, via an oxazolinium ion intermediate.
+(C) Proposed mechanism for family GH99 &#x003b1;-mannosidases involving
+neighboring group participation by the 2-OH group, via a 1,2-anhydro
+sugar (epoxide). Numbering is for <italic>Bx</italic>GH99.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0001" id="gr3" position="float"/></fig><p>Family GH99 enzymes cleave glycosides with an overall
+retention
+of anomeric configuration.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> X-ray structures
+are available for GH99 enzymes in complex with a variety of ligands
+based on sugar-shaped heterocycles.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> However, in X-ray structures of <italic>B. xylanisolvens
+Bx</italic>GH99 with various substrate-mimicking ligands, it was not
+possible to identify an appropriately positioned enzymatic nucleophile
+within the typical &#x0003c;3 &#x000c5; distance from the reactive anomeric
+center, leading to the proposal of a nonclassical mechanism.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> In particular, in structures of GlcIFG (<bold>2</bold>) and ManIFG (<bold>3</bold>) with <italic>Bx</italic>GH99,
+there were no close contacts with a likely candidate enzymatic nucleophile,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> at odds with the usual observation of a carboxylate situated typically
+2.6&#x02013;2.7 &#x000c5; away in classical retaining glycosidases. Moreover,
+in complexes of GlcDMJ (<bold>1</bold>) with <italic>Bx</italic>GH99
+a conserved carboxyl residue (E333; numbering refers to <italic>Bx</italic>GH99) was located 2.7 &#x000c5; from the 2-OH group;<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> similar observations extend to the binding of a substrate
+(&#x003b1;-Man-1,3-&#x003b1;-ManMU) to the carboxamide mutant <italic>Bx</italic>GH99 E333Q.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Collectively these
+data supported the proposal of a two-step reaction involving in the
+first step the formation of a bicyclic 1,2-anhydro sugar intermediate,
+through E333 acting as a general base residue to deprotonate the 2-OH
+and facilitating a nucleophilic substitution at C1 coincident with
+departure of the leaving group, assisted by E336 acting as general
+acid (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C).<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> In the second step of this proposed mechanism,
+E333 acts as a general acid, assisting ring opening of the epoxide,
+while E336 acts as a general base, promoting nucleophilic attack by
+a water molecule. While such a mechanism lacks precedent in enzymes,
+there is strong evidence that the base-catalyzed solvolysis of 4-nitrophenyl
+&#x003b1;-<sc>d</sc>-mannoside and &#x003b1;-mannosyl fluoride proceed
+through similar neighboring group participation mechanisms.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup> The most stable conformation of 1,2-anhydro-&#x003b2;-<sc>d</sc>-mannose
+is a <sup>4</sup><italic>H</italic><sub>5</sub> half-chair; applying
+the principle of least nuclear motion, a <sup>4</sup><italic>C</italic><sub>1</sub> &#x02192; <sup>4</sup><italic>E</italic><sup>&#x02021;</sup> &#x02192; <sup>4</sup><italic>H</italic><sub>5</sub> conformational
+itinerary has been proposed for the first step of the family GH99
+reaction coordinate.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>Intensive
+efforts have been invested in the rational development
+of glycosidase inhibitors, and many fundamental principles have been
+articulated inspired by our deep mechanistic understanding of this
+class of enzyme. Based on pioneering insights from Pauling<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> and Wolfenden,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> it
+is recognized that a common principle underpinning catalysis is the
+selective affinity of an enzyme for a reaction transition state, relative
+to the ground state. Accordingly, inhibitor design by transition state
+mimicry, which can take advantage of the high transition state affinity
+of a glycosidase, has proven a useful guiding strategy.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> While it is widely appreciated that perfect
+transition state mimics are chemically unstable and thus unattainable,
+a general design principle is to develop analogues incorporating features
+that mimic the shape and charge of the transition state.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Three features have been highlighted for consideration
+in the development of effective glycosidase inhibitors: configuration,
+conformation and charge.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Configuration
+is the simplest to address and not surprisingly it is usually found
+that glycosidases are normally best targeted by inhibitors with stereochemistry
+matching that of the substrate. In the case of <italic>Bx</italic>GH99, an enzyme that has the ability to cleave both &#x003b1;-Glc-1,3-&#x003b1;-Man-OR
+and &#x003b1;-Man-1,3-&#x003b1;-Man-OR configured substrates (with a preference
+for the latter),<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> optimal inhibition is
+achieved by inhibitors matching the preferred substrate configuration.
+Glycosidases typically operate through transition states with substantial
+oxocarbenium ion character, and partial double bond development between
+O5 and C1, leading to a flattened conformation at the transition state.
+Consequently, mimicry of the flattened conformation expected at the
+transition state has proven a second effective strategy, with inhibitors
+bearing sp<sup>2</sup>-hybridized atoms at the anomeric or endocyclic
+oxygen positions, such as glyconolactones and -lactams, identified
+as fairly broad spectrum glycosidase inhibitors. Finally, partial
+charge development at C1 and the endocyclic oxygen at the transition
+state can be mimicked by the protonated forms of nitrogen-containing
+heterocycles, exemplified by deoxymannojirimycin (DMJ) with a nitrogen
+in place of the endocyclic oxygen, and isofagomine with a nitrogen
+in place of C1.</p><p>Motivated by the unusual mechanism proposed
+for family GH99 enzymes
+and the complexity of their biochemical roles, our understanding of
+which should benefit from the development of potent inhibitors, we
+undertook a study of several inhibitor designs inspired by the concepts
+of charge and shape mimicry. GlcDMJ (<bold>1</bold>), an inhibitor
+reported by Spiro and co-workers,<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> was
+the first effective inhibitor of mammalian <italic>endo</italic>-&#x003b1;-1,2-mannosidase,<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> and was subsequently shown to bind to and inhibit <italic>Bx</italic>GH99 and <italic>Bt</italic>GH99 (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>).<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> More potent
+inhibition was achieved by GlcIFG (<bold>2</bold>),<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> which also proved to be a more effective inhibitor than
+GlcDMJ of mammalian <italic>endo</italic>-&#x003b1;-1,2-mannosidase
+in cell-based studies,<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> demonstrating
+that varying the position of charge can provide improvements in potency.
+Further, upon identification of the <italic>Bacteroides</italic> spp.
+enzymes as preferential <italic>endo</italic>-&#x003b1;-1,2-mannanases,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> we were able to configurationally match the substrate and develop
+the inhibitor ManIFG (<bold>3</bold>), the most potent inhibitor yet
+reported for any GH99 enzyme.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> However,
+ManIFG and GlcIFG lack the 2-OH group of the substrate and thus cannot
+benefit from specific interactions with the putative acid/base E333.
+Separately, Spiro and co-workers reported that two other neutral compounds
+were almost as effective as GlcDMJ in the inhibition of mammalian <italic>endo</italic>-&#x003b1;-1,2-mannosidase, namely, GlcddMan (<bold>4</bold>) and GlcGlucal (<bold>6</bold>).<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> We were intrigued
+by these observations and sought to investigate whether the equivalent
+configurationally matched species, ManddMan (<bold>5</bold>) and ManGlucal
+(<bold>7</bold>), and the related cyclohexene derivative (<bold>8</bold>) were inhibitors of bacterial GH99 enzymes and to understand how
+they bind to the enzyme.<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0009" id="fx1" position="float"/></p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Dissociation Constants
+for GH99 <italic>endo</italic>-Mannanase Inhibitors</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center"><italic>K</italic><sub>D</sub> values (&#x003bc;M)<hr/></th><th style="border:none;" align="center">&#x000a0;</th></tr><tr><th style="border:none;" align="center">compd</th><th style="border:none;" align="center"><italic>Bt</italic>GH99</th><th style="border:none;" align="center"><italic>Bx</italic>GH99</th><th style="border:none;" align="center">method</th></tr></thead><tbody><tr><td style="border:none;" align="left"><bold>1</bold>&#x000a0;(GlcDMJ)</td><td style="border:none;" align="left">24</td><td style="border:none;" align="left">ND<xref rid="t1fn1" ref-type="table-fn">a</xref></td><td style="border:none;" align="left">ITC<sup><xref ref-type="bibr" rid="ref12">12</xref></sup></td></tr><tr><td style="border:none;" align="left"><bold>2</bold>&#x000a0;(GlcIFG)</td><td style="border:none;" align="left">0.63</td><td style="border:none;" align="left">ND<xref rid="t1fn1" ref-type="table-fn">a</xref></td><td style="border:none;" align="left">ITC<sup><xref ref-type="bibr" rid="ref12">12</xref></sup></td></tr><tr><td style="border:none;" align="left"><bold>3</bold>&#x000a0;(ManIFG)</td><td style="border:none;" align="left">0.14</td><td style="border:none;" align="left">0.27</td><td style="border:none;" align="left">ITC<sup><xref ref-type="bibr" rid="ref6">6</xref></sup></td></tr><tr><td style="border:none;" align="left"><bold>5</bold>&#x000a0;(ManddMan)</td><td style="border:none;" align="left">53&#x000a0;&#x000b1;&#x000a0;5</td><td style="border:none;" align="left">221&#x000a0;&#x000b1;&#x000a0;11</td><td style="border:none;" align="left">NMR</td></tr><tr><td style="border:none;" align="left"><bold>7</bold>&#x000a0;(ManGlucal)</td><td style="border:none;" align="left">15&#x000a0;&#x000b1;&#x000a0;1.9</td><td style="border:none;" align="left">111&#x000a0;&#x000b1;&#x000a0;11</td><td style="border:none;" align="left">NMR</td></tr><tr><td style="border:none;" align="left"><bold>8</bold>&#x000a0;(GlcChex)</td><td style="border:none;" align="left">no&#x000a0;binding</td><td style="border:none;" align="left">no&#x000a0;binding</td><td style="border:none;" align="left">NMR/ITC</td></tr><tr><td style="border:none;" align="left"><bold>9</bold>&#x000a0;(ManNOE)</td><td style="border:none;" align="left">0.03&#x000a0;&#x000b1;&#x000a0;0.01</td><td style="border:none;" align="left">0.013&#x000a0;&#x000b1;&#x000a0;0.002</td><td style="border:none;" align="left">ITC</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>ND, not determined.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>Synthesis of ManGlucal
+and ManddMan</title><p>ManddMan (<bold>5</bold>) and ManGlucal (<bold>7</bold>) were prepared from &#x003b1;-1,3-mannobiose
+(<bold>10</bold>) (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>). Acetylation, followed by bromination afforded mannobiosyl
+bromide (<bold>12</bold>), which was converted to the protected glucal
+(<bold>13</bold>) using Zn in MeOH. Zempl&#x000e9;n transesterification
+afforded ManGlucal (<bold>7</bold>). Alternatively, reduction of <bold>13</bold> using H<sub>2</sub>/Pd&#x02013;C, followed by Zempl&#x000e9;n
+transesterification afforded ManddMan (<bold>5</bold>). The preparation
+of GlcChex (<bold>8</bold>) will be described elsewhere.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Synthesis
+of ManddMan (<bold>5</bold>) and ManGlucal (<bold>7</bold>)</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0006" id="gr1" position="float"/></fig></sec><sec id="sec2.2"><title>Binding and 3-D Structural
+Analyses of Putative &#x0201c;Shape
+Mimics&#x0201d;</title><p>Dissociation constants for the binding of
+compounds <bold>5</bold> and <bold>7</bold> to <italic>Bt</italic>GH99 and <italic>Bx</italic>GH99 were determined by NMR spectroscopy
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">Figure S1</ext-link>). The 2D NMR SOFAST-HMQC spectra
+of <sup>15</sup>N-labeled enzymes determined in the presence or absence
+of a saturating amount of the ligands revealed several H&#x02013;N
+peaks that displayed significant chemical shift perturbations. For
+instance, new signals for an arginine residue (assigned as R295 in <italic>Bx</italic>GH99 and R291 in <italic>Bt</italic>GH99 on the basis
+of analysis of inter-residue nOes from the 3D-HSQC-NOESY spectra;
+see annotation to <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A) appeared during the titration experiments, which were in
+slow exchange with the initial ones in the chemical shift time scale
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). Therefore,
+since the relative intensities of these signals are proportional to
+the populations of the bound and unbound forms (see <xref rid="sec4" ref-type="other">Experimental Section</xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">Supporting Information</ext-link> (SI)), the dissociation constants (<italic>K</italic><sub>D</sub>) were readily calculated. The binding constants are shown in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. No evidence for
+binding of GlcChex could be obtained by either NMR or ITC.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Excerpt of
+the side chain HN &#x003b5;-arginine region in the 2D
+SOFAST-HMQC NMR spectra of <sup>15</sup>N-labeled <italic>Bt</italic>GH99 in the absence (blue) or presence of an excess (top) of ManGlucal
+(<bold>7</bold>; red) or (bottom) ManddMan (<bold>5</bold>; green).
+The arrow highlights the chemical shift perturbation observed for
+the HN-&#x003b5; signal corresponding to R295.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0002" id="gr4" position="float"/></fig><p>In order to analyze the mode of binding of the conformationally
+restricted compounds, 3-D structures of complexes of <italic>Bx</italic>GH99 with <bold>7</bold> and <bold>8</bold> were determined by X-ray
+crystallography at near atomic (approximately 1.0 &#x000c5;) resolutions
+(<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A,B). ManGlucal <bold>7</bold> (<italic>K</italic><sub>D</sub> 111 &#x003bc;M) binds to <italic>Bx</italic>GH99 in the &#x02212;2 and &#x02212;1 subsites, with the
+&#x02212;1 glucal ring intact in a <sup>4</sup><italic>H</italic><sub>5</sub> conformation. For reasons most likely related to its poor
+affinity for the enzyme, we were unable to obtain a complex of GlcChex
+with wildtype enzyme, but were serendipitously successful in obtaining
+a complex with the catalytically inactive <italic>Bx</italic>GH99
+E333Q mutant. In this complex GlcChex <bold>8</bold> also bound in
+the &#x02212;2/&#x02013;1 subsite with the cyclohexene ring in a <sup>4</sup><italic>H</italic><sub>5</sub> conformation (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). Relative to ManGlucal,
+GlcChex suffers both by replacement of the endocyclic oxygen with
+methylene and by the presence of a nonreducing-end glucosyl moiety,
+the latter of which is known to reduce binding to the <italic>Bacteroides</italic> spp. enzymes by 4&#x02013;10-fold.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Owing
+to the unmeasurable binding of GlcChex, the synthesis of the mannose
+analogue was not pursued. The lack of oxygen atoms within the GlcChex
+ring means it cannot form hydrogen bonds with active site residues
+Y252, E333 or E336. MS experiments indicated that the compound is
+not affected by the enzyme or its variants so the reason for binding
+to only the inactive variant is unclear.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Stereoview of active
+site of <italic>B. xylanisolvens</italic> family
+GH99 enzyme complexes. (A) <italic>Bx</italic>GH99 with ManGlucal
+(<bold>7</bold>), (B) <italic>Bx</italic>GH99-E333Q with GlcChex (<bold>8</bold>), and (C) <italic>Bx</italic>GH99 with ManddMan (<bold>5</bold>). Depicted electron density maps are REFMAC<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> maximum-likelihood/&#x003c3;A weighted 2<italic>F</italic><sub>0</sub> &#x02013; <italic>F</italic><sub>c</sub> syntheses contoured at 1.5&#x003c3;
+(0.57, 0.59, and 0.62 <italic>e</italic>&#x000c5;<sup>&#x02013;3</sup>, respectively). All panels were assembled using CCP4mg.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0003" id="gr5" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>X-ray Data and Structure Summary</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center"><bold>5</bold>&#x000a0;(ManddMan)</th><th style="border:none;" align="center"><bold>7</bold>&#x000a0;(ManGlucal)</th><th style="border:none;" align="center"><bold>8</bold>&#x000a0;(GlcChex)</th><th style="border:none;" align="center"><bold>10</bold>&#x000a0;(ManNOE)</th><th style="border:none;" align="center"><bold>10</bold>&#x000a0;+&#x000a0;M<sub>2</sub> (ManNOE&#x000a0;+&#x000a0;1,2-&#x003b1;-mannobiose)</th></tr></thead><tbody><tr><td style="border:none;" align="left">resolution (outer shell)
+(&#x000c5;)</td><td style="border:none;" align="left">76.77&#x02013;1.03 (1.05&#x02013;1.03)</td><td style="border:none;" align="left">76.85&#x02013;1.07 (1.09&#x02013;1.07)</td><td style="border:none;" align="left">39.54&#x02013;1.2 (1.22&#x02013;1.2)</td><td style="border:none;" align="left">76.73&#x02013;1.14 (1.16&#x02013;1.14)</td><td style="border:none;" align="left">57.21&#x02013;1.05 (1.07&#x02013;1.05)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>merge</sub> (outer)</td><td style="border:none;" align="left">0.052&#x000a0;(0.989)</td><td style="border:none;" align="left">0.052&#x000a0;(1.748)</td><td style="border:none;" align="left">0.059&#x000a0;(0.955)</td><td style="border:none;" align="left">0.051&#x000a0;(1.158)</td><td style="border:none;" align="left">0.054&#x000a0;(1.314)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>cryst</sub>/<italic>R</italic><sub>free</sub></td><td style="border:none;" align="left">0.117/0.130</td><td style="border:none;" align="left">0.124/0.141</td><td style="border:none;" align="left">0.119/0.137</td><td style="border:none;" align="left">0.124/0.143</td><td style="border:none;" align="left">0.115/0.133</td></tr><tr><td style="border:none;" align="left">rmsd bonds (&#x000c5;)</td><td style="border:none;" align="left">0.010</td><td style="border:none;" align="left">0.011</td><td style="border:none;" align="left">0.012</td><td style="border:none;" align="left">0.011</td><td style="border:none;" align="left">0.013</td></tr><tr><td style="border:none;" align="left">rmsd angles (deg)</td><td style="border:none;" align="left">1.53</td><td style="border:none;" align="left">1.54</td><td style="border:none;" align="left">1.59</td><td style="border:none;" align="left">1.50</td><td style="border:none;" align="left">1.67</td></tr><tr><td style="border:none;" align="left">PDB code</td><td style="border:none;" align="left">5M17</td><td style="border:none;" align="left">5M5D</td><td style="border:none;" align="left">5MEL</td><td style="border:none;" align="left">5LYR</td><td style="border:none;" align="left">5M03</td></tr></tbody></table></table-wrap><p>Glycals are often effective inhibitors of classical
+retaining glycosidases.
+Inhibition is typically found to be time-dependent, owing to a chemical
+reaction in which the conjugate acid of the nucleophile protonates
+the enol ether of the glycal, and forms a 2-deoxy-glycosyl enzyme.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> This mode of reactivity has been exploited to allow the identification
+of the catalytic nucleophile by peptide sequencing,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> and the 2-deoxyglycosyl-enzymes are sufficiently stable
+to be studied by X-ray crystallography.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> To date, only two classes of retaining glycosidases have been identified
+upon which glycals bind as competitive inhibitors without exhibiting
+this mode of reactivity. These are <italic>N</italic>-acetylhexosaminidases
+that use neighboring group participation and retaining sialidases,
+and in both cases these enzymes lack a typical carboxylate nucleophile.
+Retaining <italic>N</italic>-acetylhexosaminidases use a 2-acetamido
+group, which is able to catalyze the slow hydration of the enol ether.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> Retaining sialidases lack a carboxylate nucleophile
+capable of protonating the glycal, and instead use a less acidic tyrosine
+residue as the catalytic nucleophile.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> In the case of sialidases, the corresponding glycal 2,3-didehydro-2-deoxy-<italic>N</italic>-acetylneuraminic acid has been elaborated into the extraordinarily
+potent inhibitor zanamivir,<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> a clinically
+used antiinfluenza drug. Despite its potency, quantitative examination
+of transition state mimicry by zanamivir reveals it to be a poor transition
+state mimic.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The observation that ManGlucal
+binds to <italic>Bx</italic>GH99 without a chemical reaction despite
+the retaining mechanism of the enzyme provides further evidence in
+favor of the unique neighboring group participation mechanism proposed
+for this family.</p></sec><sec id="sec2.3"><title>Binding and 3-D Structural Analyses of ManddMan:
+Probing the
+Role of O2 Interactions</title><p>In order to harness the tighter binding
+of the bacterial enzymes with a mannoside in the &#x02212;2 subsite<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> ManddMan (<bold>5</bold>) was synthesized (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>). NMR titration
+revealed ManddMan to bind to <italic>Bx</italic>GH99 and <italic>Bt</italic>GH99 with <italic>K</italic><sub>D</sub> values of 221 and 53 &#x003bc;M,
+respectively (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). By comparison, GlcddMan (<bold>4</bold>) is an inhibitor for rat
+endomannosidase<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> with an IC<sub>50</sub> value of 3.8 &#x003bc;M for inhibition of cleavage of <sup>14</sup>C-labeled GlcMan<sub>9</sub>GlcNAc, only slightly worse than that
+of GlcDMJ (<bold>1</bold>) (IC<sub>50</sub> = 1.7 &#x003bc;M). The structure
+of <italic>Bx</italic>GH99 in complex with ManddMan was determined
+at 1.03 &#x000c5; resolution. Compound <bold>5</bold> binds in the &#x02212;2/&#x02013;1
+subsites of the enzyme in an undistorted <sup>4</sup><italic>C</italic><sub>1</sub> conformation. This conformation matches that of the
+ground state of the substrate, and while this is consistent with the
+modest dissociation constant, it is noteworthy that the tight-binding
+inhibitor ManIFG <bold>3</bold> also binds in a <sup>4</sup><italic>C</italic><sub>1</sub> chair.</p></sec><sec id="sec2.4"><title>Design, Synthesis, and
+Characterization of ManNOE as a GH99
+Inhibitor</title><p>As ManIFG (<bold>3</bold>), ManddMan (<bold>5</bold>), and ManGlucal (<bold>7</bold>) all lack an O2 group, in considering
+the contribution of shape and charge to inhibition, it would appear
+that the cationic nature of ManIFG contributes most significantly
+to inhibition, in spite of its conformational resemblance to the ground
+state. We therefore decided that it would be appropriate to investigate
+a charged inhibitor based on ManIFG that was able to make the correct
+O2 interactions, in particular with E333. Inspired by the work of
+Bols and co-workers on the development of noeuromycin, a 2-hydroxy
+analogue of isofagomine that binds 2&#x02013;4000 times more tightly
+than isofagomine to various glycosidases,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> we therefore synthesized the noeuromycin derivative, ManNOE. This
+inhibitor was synthesized by the regioselective mannosylation of the
+nitrile diol <bold>16</bold>(<xref ref-type="bibr" rid="ref35">35</xref>) by trichloroacetimidate <bold>15</bold><xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The sole acetate group of the glycoside <bold>17</bold> was cleaved by treatment with HCl/MeOH to afford alcohol <bold>18</bold>, and the nitrile group was reduced using BH<sub>3</sub>&#x000b7;Me<sub>2</sub>S, followed by protection as the Boc derivative <bold>19</bold>. Hydrogenolysis of the benzyl ethers of <bold>19</bold> using H<sub>2</sub>/Pd&#x02013;C, and then cleavage of the Boc group
+with HCl, afforded ManNOE.HCl (<bold>9</bold>) [as a mixture of &#x003b1;-hydroxypiperidine
+and pyranose isomers (not drawn); see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">SI</ext-link>].</p><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Synthesis of ManNOE (<bold>9</bold>)</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0007" id="gr2" position="float"/></fig><p>Isothermal titration calorimetry revealed ManNOE (<bold>9</bold>) to bind to <italic>Bx</italic>GH99 with <italic>K</italic><sub>D</sub> = 13 nM, and to <italic>Bt</italic>GH99 with a <italic>K</italic><sub>D</sub> = 30 nM, 17- and 5-fold more tightly than
+ManIFG (<bold>3</bold>) to the respective enzymes, commensurate with
+improvements
+seen for binding of IFG versus NOE for other enzymes,<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> and demonstrating that better matching of the substrate by reinstatement
+of the 2-OH group absent in the latter compound provides more effective
+inhibition (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">Figure S4</ext-link>). 3-D structures were solved
+of a binary complex of <italic>Bx</italic>GH99&#x02013;ManNOE, and
+a ternary complex of <italic>Bx</italic>GH99&#x02013;ManNOE&#x02212;&#x003b1;-1,2-mannobiose
+at resolutions of 1.14 and 1.05 &#x000c5;, respectively (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). The poses of ManNOE in both complexes were essentially
+identical and the more informative ternary complex, with ManNOE in
+the &#x02212;2/&#x02013;1 subsites, and &#x003b1;-1,2-mannobiose in the
++1/+2 subsites will therefore be discussed. The NOE heterocycle binds
+in a <sup>4</sup><italic>C</italic><sub>1</sub> conformation, similar
+to that seen for ManIFG with the same enzyme. A close contact with
+E333 O&#x003b4;&#x000b7;&#x000b7;&#x000b7;O2 of 2.58 &#x000c5; is evident, similar
+to that seen in the complex of <italic>Bx</italic>GH99 with GlcDMJ
+(2.54 &#x000c5;, PDB 4AD3).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(A) X-ray structure of ternary complex of <italic>Bx</italic>GH99
+with ManNOE (above) and &#x003b1;-1,2-mannobiose (below). The residue
+used for NMR titrations, R295, is shown in yellow. 2<italic>F</italic><sub>0</sub> &#x02013; <italic>F</italic><sub>c</sub> map contoured
+at 1.0 &#x003c3; (0.42 <italic>e</italic>&#x000c5;<sup>&#x02013;3</sup>).
+The +1 subsite mannose residue electron density is best modeled by
+two mannose conformations with 0.6/0.4 occupancy, rotated by about
+30&#x000b0; with respect to +2 mannose. (B) Stereoview of ManNOE in the
+active site. 2<italic>F</italic><sub>0</sub> &#x02013; <italic>F</italic><sub>c</sub> map contoured at 1.5 &#x003c3; (0.58 <italic>e</italic>&#x000c5;<sup>&#x02013;3</sup>). Assembled using CCP4mg.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0004" id="gr6" position="float"/></fig></sec><sec id="sec2.5"><title>Conformational Analyses
+of Glucal, Chex, ddMan, and NOE</title><p>In order to understand the
+intrinsic conformational preferences of
+the D-glucal, 1,2-dideoxymannose (ddMan), Chex, and noeuromycin (NOE)
+inhibitor warheads, so as to help rationalize the conformations observed
+on-enzyme, we calculated their conformational free energy landscapes
+(FELs). FELs were computed by ab initio metadynamics (see <xref rid="sec4" ref-type="other">Experimental Section</xref>), and the Cremer&#x02013;Pople
+puckering coordinates &#x003b8; and &#x003d5; were used as collective
+variables, yielding a Mercator representation<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> for each inhibitor FEL (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). The same procedure has been previously used to analyze
+the conformational preferences of related GH inhibitors (mannoimidazole,
+glucoimidazole, and IFG).<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Conformational free-energy
+landscapes (FELs, Mercator projection)
+of isolated D-glucal (A), Chex (B), ddMan (C), and NOE (D), contoured
+at 1 kcal mol<sup>&#x02013;1</sup>. FELs have been annotated (yellow
+star) with the inhibitor conformations of ManGlucal <bold>7</bold> (for A), GlcChex <bold>8</bold> (for B), ManddMan <bold>5</bold> (for C), and ManNOE <bold>9</bold> (for D) that have been observed
+on-enzyme in this work.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_0005" id="gr7" position="float"/></fig><p>The FELs of both D-glucal and Chex (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A,B) exhibit a main energy minimum centered
+at <sup>4</sup><italic>H</italic><sub>5</sub>. The free energy well
+is quite large and extends through <sup>4</sup><italic>E</italic>&#x02013;<sup>4</sup><italic>H</italic><sub>5</sub>&#x02013;<italic>E</italic><sub>5</sub>, with an &#x0201c;arm&#x0201d; toward <italic>B</italic><sub>3,O</sub>, indicating substantial conformational freedom around <sup>4</sup><italic>H</italic><sub>5</sub>. There is also a local minimum
+in the southern hemisphere, centered at <sup>5</sup><italic>H</italic><sub>4</sub>. However, this is 3 kcal mol<sup>&#x02013;1</sup> higher
+in energy and thus less populated at room temperature. Interconversion
+between the two minima is hindered by an 8 kcal mol<sup>&#x02013;1</sup> energy barrier. Therefore, both D-glucal and Chex display only one
+main accessible conformation at room temperature, <sup>4</sup><italic>H</italic><sub>5</sub>, but can readily adopt the nearby <sup>4</sup><italic>E</italic> conformation predicted for the transition states
+leading to and from the proposed 1,2-anhydrosugar intermediate. These
+data suggest that D-glucal and Chex provide good shape mimicry of
+the transition state or intermediate for the GH99 catalyzed reaction.</p><p>That both D-glucal and Chex adopt a <sup>4</sup><italic>H</italic><sub>5</sub> conformation when complexed to <italic>Bx</italic>GH99
+(<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref> and yellow
+star in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A,B)
+indicates that the conformational preference of the isolated molecules
+are not significantly perturbed on-enzyme. This is also the case for
+ddMan, for which the FEL (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C) is strongly biased toward the <sup>4</sup><italic>C</italic><sub>1</sub> chair (the local minima on the equator are
+&#x02248;8 kcal/mol higher in energy), as observed in the X-ray structure
+on-enzyme. However, the FEL of ddMan does not exhibit any stable minimum
+around <sup>4</sup><italic>H</italic><sub>5</sub>, thus it cannot
+be considered a GH99 transition state shape mimic, and should instead
+be considered a mimic of the substrate conformation in the Michaelis
+complex.</p><p>NOE differs from the other inhibitors considered here
+as it is
+a basic molecule and was therefore considered as both the neutral
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>D) and protonated
+species (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">Figure S5</ext-link>). While the topographies
+of the FELs for the two protonation states are broadly similar, they
+differ greatly in relative energies, most importantly for the global
+and local minima, such that the most stable state in NOE, a <sup>4</sup><italic>C</italic><sub>1</sub> chair, becomes the &#x0201c;ring-flipped&#x0201d; <sup>1</sup><italic>C</italic><sub>4</sub> conformer in protonated NOE.
+In that case, the two most stable species, the <sup>1</sup><italic>C</italic><sub>4</sub> and <sup>1</sup><italic>S</italic><sub>5</sub> states, are characterized by the presence of transannular hydrogen
+bonds between NH<sub>2</sub><sup>+</sup> and O6 or O3, respectively.
+What then is the most appropriate FEL to consider in relation to the
+enzyme-bound state, which is expected to be protonated, but which
+in a <sup>4</sup><italic>C</italic><sub>1</sub> conformation lacks
+a transannular hydrogen bond? It is known that in the absence of solvation
+(in the gas phase) flexible molecules in low charge states tend to
+compensate charge effects by forming stabilizing intramolecular interactions
+that do not take place in other environments (e.g., in solution).
+For example, low-charge state proteins in the gas phase tend to adopt
+more compact structures owing to increased intramolecular interactions.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> On balance, we consider the FEL of neutral NOE
+to be a more relevant representation of the enzyme-bound conformations,
+because interactions of the inhibitor with active site residues prevent
+the formation of intramolecular hydrogen bonds that dominate the conformations
+of charged species. Accordingly, the FEL displays a wide main minimum
+situated close to <sup>4</sup><italic>C</italic><sub>1</sub> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>D), and is thus similar
+to that of ddMan. The NOE FEL is also reminiscent of the one previously
+computed for the closely related neutral IFG inhibitor<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> (which differs from NOE by the absence of the
+2-hydroxyl group). Interestingly, the transition state region between
+the north pole and the equator in NOE (<sup>4</sup><italic>H</italic><sub>3</sub>/<sup>4</sup><italic>E</italic>) is shifted by 60&#x000b0;
+in &#x003d5; in ddMan. This is likely due to a vicinal intramolecular
+hydrogen bond formed between the 2-OH and the 3-OH, which stabilizes
+the <sup>4</sup><italic>H</italic><sub>3</sub>/<sup>4</sup><italic>E</italic> conformations in NOE; this interaction is not present
+in ddMan or IFG as they both lack a 2-OH. Overall, NOE most closely
+resembles the conformation of the substrate in the Michaelis complex
+and in its protonated state on-enzyme provides mimicry of an oxocarbenium-ion-like
+transition state; it is therefore best considered a &#x0201c;charge&#x0201d;-mimicking
+inhibitor with no significant shape mimicry of the transition state.</p></sec></sec><sec id="sec3"><title>Conclusions</title><p>The proposed GH family 99 neighboring group
+participation mechanism,
+via a 1,2-anhydro sugar, allows prediction of a <sup>4</sup><italic>C</italic><sub>1</sub> &#x02192; <sup>4</sup><italic>E</italic><sup>&#x02021;</sup> &#x02192; <sup>4</sup><italic>H</italic><sub>5</sub> conformational itinerary for the first step of the reaction coordinate.
+The FELs for Glucal and Chex suggest that when these inhibitor warheads
+are extended to ManGlucal and GlcChex, their flattened conformations
+provide mimicry of the <sup>4</sup><italic>E</italic> transition state
+and <sup>4</sup><italic>H</italic><sub>5</sub> intermediate conformations.
+Their nonbasic nature provides shape but not charge mimicry of the
+transition state. X-ray structures of these compounds in complex with <italic>Bx</italic>GH99 revealed them to bind in a <sup>4</sup><italic>H</italic><sub>5</sub> conformation, most closely matching the proposed intermediate
+conformation. The modest dissociation constant of ManGlucal, and lack
+of detectable binding for GlcChex, suggests that shape mimicry of
+the intermediate or transition state provides only weak affinity for
+the enzyme. On the other hand the FEL for the neutral sugar ddMan
+reveals a preference for a <sup>4</sup><italic>C</italic><sub>1</sub> conformation, and the corresponding complex of ManddMan with <italic>Bx</italic>GH99 revealed this compound to bind in the same conformation,
+albeit with an affinity relative to ManGlucal 8- or 18-fold worse
+for <italic>Bx</italic> or <italic>Bt</italic>GH99 enzymes, respectively.
+As ManGlucal, GlcChex and ManddMan all lack a 2-OH group, these ratios
+provide an estimate for the contribution of shape-mimicry of the TS
+or intermediate to enzyme binding.</p><p>Based on the above analysis,
+and combined with the previous discovery
+that the best inhibitor for GH99 <italic>endo</italic>-&#x003b1;-mannanases
+is ManIFG,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> which provides charge mimicry,
+but poor transition state shape mimicry, we were inspired to reinstate
+the 2-hydroxyl group missing in this compound. ManNOE was synthesized
+and shown to bind to <italic>Bx</italic> and <italic>Bt</italic>GH99
+with <italic>K</italic><sub>D</sub> values of 30 and 13 nM, the most
+tightly binding ligand for these enzymes yet reported, and a 20-fold
+enhancement of affinity relative to ManIFG. The X-ray structure of
+ManNOE in complex with BxGH99 reveals a <sup>4</sup><italic>C</italic><sub>1</sub> ground-state conformation mimicking the Michaelis complex,
+and we conclude that this inhibitor acts primarily to mimic the charge
+of the transition state.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>X-ray
+Crystallography</title><p>Data reduction was performed
+using xia2<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> or XDS.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Data set HKL index was matched to a previous solution using
+Aimless<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> software and FreeR set was generated from <italic>Bx</italic>GH99&#x02013;ManddMan data, and then used for every other
+data set. Initial polypeptide chain model was obtained from the same
+previous solution, refined against <italic>Bx</italic>GH99&#x02013;ManddMan
+data and used as starting model for other structure solutions. Refmac5<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> with ProSmart was used for restrained refinement
+and Coot<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> for real-space refinement. During
+model rebuilding the <italic>F</italic><sub>obs</sub> &#x02013; <italic>F</italic><sub>calc</sub> difference map was examined at 3&#x003c3;.
+Validation was performed using Coot and edstats.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> Sugar and pseudopyranose conformations and density correlation
+were validated by Privateer.<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup></p></sec><sec id="sec4.2"><title>Isothermal Titration Calorimetry</title><p>ManNOE binding to <italic>Bt</italic> and <italic>Bx</italic>GH99
+was measured using a MicroCal
+AutoITC200 instrument (Malvern Instruments, formerly GE Healthcare)
+at 25 &#x000b0;C in 25 mM HEPES pH 7.0, 100 mM NaCl buffer. Protein concentration
+was kept at 5 &#x003bc;M and ligand concentration at 50 &#x003bc;M. As
+ManNOE exists as a 5:2 ratio of <sc>d</sc>-gluco and <sc>d</sc>-manno
+NOE isomers; the effective ManNOE concentration was adjusted accordingly.</p></sec><sec id="sec4.3"><title>2D NMR Titrations</title><p>Two-dimensional <sup>1</sup>H&#x02013;<sup>15</sup>N SOFAST-HMQC<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> spectra were recorded
+at 298 K for 1 h using <sup>15</sup>N-labeled <italic>Bt</italic>GH99
+and <italic>Bx</italic>GH99 on a Bruker AVANCE III 800 MHz spectrometer
+with cryoprobe. Upon binding of ManGlucal or ManddMan, chemical shift
+perturbations were observed in slow exchange regime. A signal corresponding
+to N&#x003b5;-H&#x003b5; of R295 (numbering based on <italic>Bx</italic>GH99), and which is close to the enzyme active site, was chosen as
+binding reporter. In the case of <italic>Bx</italic>GH99, this signal
+shifts from &#x003b4; 7.33, 87.5 ppm (<sup>1</sup>H,<sup>15</sup>N)
+in the free state to &#x003b4; 7.41, 87.2 ppm (<sup>1</sup>H,<sup>15</sup>N) in the bound state. Bound and free protein populations at different
+protein/ligand ratios were calculated from peak intensities. NMR measurements
+were made in 50 mM potassium phosphate pH 7.0, 50 mM KCl with 5% D<sub>2</sub>O added. Protein concentration was determined by measuring
+280 nm UV absorbance after denaturing the solution in 6 M guanidinium
+chloride (average protein concentration: 58 &#x003bc;M). Ligand concentrations
+were cross verified by integrating the <sup>1</sup>H peaks against
+the internal standard TSP-<italic>d</italic><sub>4</sub> (Sigma-Aldrich).
+The NMR data were processed and integrated using NMRPipe.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> The dissociation constants (<italic>K</italic><sub>D</sub> values) were estimated using in-house Matlab 2015b scripts,
+using the following equation:<disp-formula id="ueq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja-2016-10075v_m001" position="anchor"/></disp-formula>where L is the
+free ligand concentration and
+([PL]/P<sub>T</sub>) is the ligand-bound protein fraction. Duplicate
+experimental points were used for error-bar estimation. Errors were
+propagated using a Monte Carlo algorithm to estimate the uncertainty
+in the <italic>K</italic><sub>D</sub> values. A distribution of <italic>K</italic><sub>D</sub> values (<italic>n</italic> = 10&#x0202f;000)
+were obtained from data sets randomly varying within the error bars,
+and the standard deviation of was used for the <italic>K</italic><sub>D</sub> error estimation.</p></sec><sec id="sec4.4"><title>Quantum Chemical Calculations</title><p>To
+obtain the conformational
+free energy landscapes of ddMan, Glucal, Chex, and NOE, quantum mechanical
+calculations were performed using density functional theory based
+molecular dynamics (MD), according to the Car&#x02013;Parrinello (CP)
+method.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> Each molecule was enclosed in
+an isolated cubic box of 12.0 &#x000c5; &#x000d7; 12.0 &#x000c5; &#x000d7; 12.0
+&#x000c5;. A fictitious electron mass of 700 au was used for the CP Lagrangian
+and a time step of 0.12 fs was used in all CPMD simulations. The Kohn&#x02013;Sham
+orbitals were expanded in a plane wave (PW) basis set with a kinetic
+energy cutoff of 70 Ry. Ab initio pseudopotentials, generated within
+the Troullier&#x02013;Martins scheme, were employed.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> The Perdew, Burke, and Ernzerhoff generalized gradient-corrected
+approximation (PBE)<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> was selected in view
+of its good performance in previous work on isolated sugars,<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> glycosidases,<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> and
+glycosyltransferases.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup></p><p>The metadynamics
+algorithm,<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> provided by the Plumed 2 plugin,<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> was used to explore the conformational free
+energy landscape of the systems, taking as collective variables &#x003b8;
+and &#x003c6; of the puckering coordinates of Cremer and Pople,<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> in the spirit of the pioneering work by Dowd,
+French, and Reilly.<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> Initially, the height
+of these Gaussian terms was set at 0.6 kcal mol<sup>&#x02013;1</sup> and a new Gaussian-like potential was added every 250 MD steps.
+Once the whole free energy space was explored, the height of the Gaussian
+terms was reduced to half of its initial value (0.3 kcal&#x000b7;mol<sup>&#x02013;1</sup>) and a new Gaussian-like potential was added every
+500 MD steps. The width of the Gaussian terms was set to 0.10 &#x000c5;.
+The simulations were stopped when energy differences among wells remain
+constant, which was further confirmed by a time-independent free energy
+estimator.<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> For all molecules, the phase
+space was fully explored in less than 60 ps and the simulations were
+further extended up to 140 ps for Chex and Glucal, 160 ps for ddMan,
+and 240 ps for NOE. The errors in the principal minima, taken as a
+standard deviation (SD) from the last 60 ps, are below 0.6 kcal mol<sup>&#x02013;1</sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">Figure S6</ext-link>).</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting
+Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/jacs.6b10075">10.1021/jacs.6b10075</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental procedures,
+analytical data (<sup>1</sup>H and <sup>13</sup>C NMR, MS) for all
+new compounds; detailed crystallographic
+experimental and data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/jacs.6b10075/suppl_file/ja6b10075_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ja6b10075_si_001.pdf"><caption><p>ja6b10075_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-3" notes-type="COI-statement"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank
+the Australian Research Council (FT130100103; DP120101396),
+the BBSRC (BB/G016127/1) and the ERC (ERC-2012-AdG-322942), the Spanish
+Ministry of Economy and Competitiveness (CTQ2014-55174, CTQ2015-64597-C2-1P,
+CTQ2015-68756-R) and the Generalitat de Catalunya (2014SGR-987). We
+thank Diamond Light Source for access to beamlines i02, i04, i04-1,
+and i24 (mx-9948) that contributed to the results presented here.
+We are grateful to Sivanandam Veeramuthu for his help with NMR. In-house
+crystal screening and testing was performed on X-ray equipment provided,
+in part, by the Wellcome Trust. The authors gratefully acknowledge
+the computer resources at <italic>MareNostrum</italic> and the technical
+support provided by BSC-CNS (RES-QCM-2016-3-00017). L.R. thanks the
+University of Barcelona for an APIF predoctoral fellowship.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Lombard</surname><given-names>V.</given-names></name>; <name><surname>Golaconda Ramulu</surname><given-names>H.</given-names></name>; <name><surname>Drula</surname><given-names>E.</given-names></name>; <name><surname>Coutinho</surname><given-names>P. M.</given-names></name>; <name><surname>Henrissat</surname><given-names>B.</given-names></name>
+<source>Nucleic Acids Res.</source>
+<year>2014</year>, <volume>42</volume>, <fpage>D490</fpage>&#x02013;<lpage>5</lpage><pub-id pub-id-type="doi">10.1093/nar/gkt1178</pub-id>.<pub-id pub-id-type="pmid">24270786</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lubas</surname><given-names>W. A.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>J. Biol. Chem.</source>
+<year>1987</year>, <volume>262</volume>, <fpage>3775</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">3818665</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Lubas</surname><given-names>W. A.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>J. Biol. Chem.</source>
+<year>1988</year>, <volume>263</volume>, <fpage>3990</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">3346233</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Moore</surname><given-names>S. E.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>J. Biol. Chem.</source>
+<year>1990</year>, <volume>265</volume>, <fpage>13104</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">2165493</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Moore</surname><given-names>S. E.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>J. Biol. Chem.</source>
+<year>1992</year>, <volume>267</volume>, <fpage>8443</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">1533222</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Hiraizumi</surname><given-names>S.</given-names></name>; <name><surname>Spohr</surname><given-names>U.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>J. Biol. Chem.</source>
+<year>1993</year>, <volume>268</volume>, <fpage>9927</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">8486671</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Hakki</surname><given-names>Z.</given-names></name>; <name><surname>Thompson</surname><given-names>A. J.</given-names></name>; <name><surname>Bellmaine</surname><given-names>S.</given-names></name>; <name><surname>Speciale</surname><given-names>G.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>
+<source>Chem. - Eur. J.</source>
+<year>2015</year>, <volume>21</volume>, <fpage>1966</fpage>&#x02013;<lpage>77</lpage><pub-id pub-id-type="doi">10.1002/chem.201405539</pub-id>.<pub-id pub-id-type="pmid">25487964</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Cuskin</surname><given-names>F.</given-names></name>; <name><surname>Lowe</surname><given-names>E. C.</given-names></name>; <name><surname>Temple</surname><given-names>M. J.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Cameron</surname><given-names>E. A.</given-names></name>; <name><surname>Pudlo</surname><given-names>N. A.</given-names></name>; <name><surname>Porter</surname><given-names>N. T.</given-names></name>; <name><surname>Urs</surname><given-names>K.</given-names></name>; <name><surname>Thompson</surname><given-names>A. J.</given-names></name>; <name><surname>Cartmell</surname><given-names>A.</given-names></name>; <name><surname>Rogowski</surname><given-names>A.</given-names></name>; <name><surname>Hamilton</surname><given-names>B. S.</given-names></name>; <name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>Tolbert</surname><given-names>T. J.</given-names></name>; <name><surname>Piens</surname><given-names>K.</given-names></name>; <name><surname>Bracke</surname><given-names>D.</given-names></name>; <name><surname>Vervecken</surname><given-names>W.</given-names></name>; <name><surname>Hakki</surname><given-names>Z.</given-names></name>; <name><surname>Speciale</surname><given-names>G.</given-names></name>; <name><surname>Munoz-Munoz</surname><given-names>J. L.</given-names></name>; <name><surname>Day</surname><given-names>A.</given-names></name>; <name><surname>Pena</surname><given-names>M. J.</given-names></name>; <name><surname>McLean</surname><given-names>R.</given-names></name>; <name><surname>Suits</surname><given-names>M. D.</given-names></name>; <name><surname>Boraston</surname><given-names>A. B.</given-names></name>; <name><surname>Atherly</surname><given-names>T.</given-names></name>; <name><surname>Ziemer</surname><given-names>C. J.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Abbott</surname><given-names>D. W.</given-names></name>; <name><surname>Martens</surname><given-names>E. C.</given-names></name>; <name><surname>Gilbert</surname><given-names>H. J.</given-names></name>
+<source>Nature</source>
+<year>2015</year>, <volume>517</volume>, <fpage>165</fpage>&#x02013;<lpage>9</lpage><pub-id pub-id-type="doi">10.1038/nature13995</pub-id>.<pub-id pub-id-type="pmid">25567280</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Sinnott</surname><given-names>M. L.</given-names></name>
+<source>Chem. Rev.</source>
+<year>1990</year>, <volume>90</volume>, <fpage>1171</fpage>&#x02013;<lpage>202</lpage><pub-id pub-id-type="doi">10.1021/cr00105a006</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Zechel</surname><given-names>D. L.</given-names></name>; <name><surname>Withers</surname><given-names>S. G.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2000</year>, <volume>33</volume>, <fpage>11</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">10639071</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Vocadlo</surname><given-names>D. J.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>
+<source>Curr. Opin. Chem. Biol.</source>
+<year>2008</year>, <volume>12</volume>, <fpage>539</fpage>&#x02013;<lpage>55</lpage><pub-id pub-id-type="doi">10.1016/j.cbpa.2008.05.010</pub-id>.<pub-id pub-id-type="pmid">18558099</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Thompson</surname><given-names>A. J.</given-names></name>; <name><surname>Williams</surname><given-names>R. J.</given-names></name>; <name><surname>Hakki</surname><given-names>Z.</given-names></name>; <name><surname>Alonzi</surname><given-names>D. S.</given-names></name>; <name><surname>Wennekes</surname><given-names>T.</given-names></name>; <name><surname>Gloster</surname><given-names>T. M.</given-names></name>; <name><surname>Songsrirote</surname><given-names>K.</given-names></name>; <name><surname>Thomas-Oates</surname><given-names>J. E.</given-names></name>; <name><surname>Wrodnigg</surname><given-names>T. M.</given-names></name>; <name><surname>Spreitz</surname><given-names>J.</given-names></name>; <name><surname>Stutz</surname><given-names>A. E.</given-names></name>; <name><surname>Butters</surname><given-names>T. D.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>
+<source>Proc. Natl. Acad. Sci.
+U. S. A.</source>
+<year>2012</year>, <volume>109</volume>, <fpage>781</fpage>&#x02013;<lpage>6</lpage><pub-id pub-id-type="doi">10.1073/pnas.1111482109</pub-id>.<pub-id pub-id-type="pmid">22219371</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Gasman</surname><given-names>R. C.</given-names></name>; <name><surname>Johnson</surname><given-names>D. C.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>1966</year>, <volume>31</volume>, <fpage>1830</fpage>&#x02013;<lpage>8</lpage><pub-id pub-id-type="doi">10.1021/jo01344a037</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Micheel</surname><given-names>F.</given-names></name>; <name><surname>Borrmann</surname><given-names>D.</given-names></name>
+<source>Chem. Ber.</source>
+<year>1960</year>, <volume>93</volume>, <fpage>1143</fpage>&#x02013;<lpage>7</lpage><pub-id pub-id-type="doi">10.1002/cber.19600930524</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kyosaka</surname><given-names>S.</given-names></name>; <name><surname>Murata</surname><given-names>S.</given-names></name>; <name><surname>Tanaka</surname><given-names>M.</given-names></name>
+<source>Chem. Pharm. Bull.</source>
+<year>1983</year>, <volume>31</volume>, <fpage>3902</fpage>&#x02013;<lpage>5</lpage><pub-id pub-id-type="doi">10.1248/cpb.31.3902</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Speciale</surname><given-names>G.</given-names></name>; <name><surname>Farren-Dai</surname><given-names>M.</given-names></name>; <name><surname>Shidmoossavee</surname><given-names>F. S.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>; <name><surname>Bennet</surname><given-names>A. J.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>14012</fpage>&#x02013;<lpage>9</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b07935</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Speciale</surname><given-names>G.</given-names></name>; <name><surname>Thompson</surname><given-names>A. J.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>
+<source>Curr. Opin. Struct. Biol.</source>
+<year>2014</year>, <volume>28</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage><pub-id pub-id-type="doi">10.1016/j.sbi.2014.06.003</pub-id>.<pub-id pub-id-type="pmid">25016573</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Pauling</surname><given-names>L.</given-names></name>
+<source>Am. Sci.</source>
+<year>1948</year>, <volume>36</volume>, <fpage>51</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">18920436</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Wolfenden</surname><given-names>R.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>1972</year>, <volume>5</volume>, <fpage>10</fpage>&#x02013;<lpage>8</lpage><pub-id pub-id-type="doi">10.1021/ar50049a002</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Heightman</surname><given-names>T. D.</given-names></name>; <name><surname>Vasella</surname><given-names>A. T.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>1999</year>, <volume>38</volume>, <fpage>750</fpage>&#x02013;<lpage>70</lpage><pub-id pub-id-type="doi">10.1002/(SICI)1521-3773(19990315)38:6&#x0003c;750::AID-ANIE750&#x0003e;3.0.CO;2-6</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Gloster</surname><given-names>T. M.</given-names></name>; <name><surname>Vocadlo</surname><given-names>D. J.</given-names></name>
+<source>Nat. Chem. Biol.</source>
+<year>2012</year>, <volume>8</volume>, <fpage>683</fpage>&#x02013;<lpage>94</lpage><pub-id pub-id-type="doi">10.1038/nchembio.1029</pub-id>.<pub-id pub-id-type="pmid">22810773</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Spohr</surname><given-names>U.</given-names></name>; <name><surname>Bach</surname><given-names>M.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>Can. J. Chem.</source>
+<year>1993</year>, <volume>71</volume>, <fpage>1928</fpage>&#x02013;<lpage>42</lpage><pub-id pub-id-type="doi">10.1139/v93-240</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Alonzi</surname><given-names>D. S.</given-names></name>; <name><surname>Kukushkin</surname><given-names>N. V.</given-names></name>; <name><surname>Allman</surname><given-names>S. A.</given-names></name>; <name><surname>Hakki</surname><given-names>Z.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>; <name><surname>Pierce</surname><given-names>L.</given-names></name>; <name><surname>Dwek</surname><given-names>R. A.</given-names></name>; <name><surname>Butters</surname><given-names>T. D.</given-names></name>
+<source>Cell. Mol. Life Sci.</source>
+<year>2013</year>, <volume>70</volume>, <fpage>2799</fpage>&#x02013;<lpage>814</lpage><pub-id pub-id-type="doi">10.1007/s00018-013-1304-6</pub-id>.<pub-id pub-id-type="pmid">23503623</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Spohr</surname><given-names>U.</given-names></name>; <name><surname>Bach</surname><given-names>M.</given-names></name>; <name><surname>Spiro</surname><given-names>R. G.</given-names></name>
+<source>Can. J. Chem.</source>
+<year>1993</year>, <volume>71</volume>, <fpage>1919</fpage>&#x02013;<lpage>27</lpage><pub-id pub-id-type="doi">10.1139/v93-239</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Legler</surname><given-names>G.</given-names></name>; <name><surname>Roeser</surname><given-names>K. R.</given-names></name>; <name><surname>Illig</surname><given-names>H. K.</given-names></name>
+<source>Eur. J. Biochem.</source>
+<year>1979</year>, <volume>101</volume>, <fpage>85</fpage>&#x02013;<lpage>92</lpage><pub-id pub-id-type="doi">10.1111/j.1432-1033.1979.tb04219.x</pub-id>.<pub-id pub-id-type="pmid">389631</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Arribas</surname><given-names>J. C.</given-names></name>; <name><surname>Herrero</surname><given-names>A. G.</given-names></name>; <name><surname>Martin-Lomas</surname><given-names>M.</given-names></name>; <name><surname>Canada</surname><given-names>F. J.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>; <name><surname>Withers</surname><given-names>S. G.</given-names></name>
+<source>Eur. J. Biochem.</source>
+<year>2000</year>, <volume>267</volume>, <fpage>6996</fpage>&#x02013;<lpage>7005</lpage><pub-id pub-id-type="doi">10.1046/j.1432-1327.2000.01784.x</pub-id>.<pub-id pub-id-type="pmid">11106409</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Hill</surname><given-names>C. H.</given-names></name>; <name><surname>Graham</surname><given-names>S. C.</given-names></name>; <name><surname>Read</surname><given-names>R. J.</given-names></name>; <name><surname>Deane</surname><given-names>J. E.</given-names></name>
+<source>Proc. Natl. Acad. Sci.
+U. S. A.</source>
+<year>2013</year>, <volume>110</volume>, <fpage>20479</fpage>&#x02013;<lpage>84</lpage><pub-id pub-id-type="doi">10.1073/pnas.1311990110</pub-id>.<pub-id pub-id-type="pmid">24297913</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Murshudov</surname><given-names>G. N.</given-names></name>; <name><surname>Skubak</surname><given-names>P.</given-names></name>; <name><surname>Lebedev</surname><given-names>A. A.</given-names></name>; <name><surname>Pannu</surname><given-names>N. S.</given-names></name>; <name><surname>Steiner</surname><given-names>R. A.</given-names></name>; <name><surname>Nicholls</surname><given-names>R. A.</given-names></name>; <name><surname>Winn</surname><given-names>M. D.</given-names></name>; <name><surname>Long</surname><given-names>F.</given-names></name>; <name><surname>Vagin</surname><given-names>A. A.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<year>2011</year>, <volume>67</volume>, <fpage>355</fpage>&#x02013;<lpage>67</lpage><pub-id pub-id-type="doi">10.1107/S0907444911001314</pub-id>.<pub-id pub-id-type="pmid">21460454</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>McNicholas</surname><given-names>S.</given-names></name>; <name><surname>Potterton</surname><given-names>E.</given-names></name>; <name><surname>Wilson</surname><given-names>K. S.</given-names></name>; <name><surname>Noble</surname><given-names>M. E. M.</given-names></name>
+<source>Acta Crystallogr.,
+Sect.
+D: Biol. Crystallogr.</source>
+<year>2011</year>, <volume>67</volume>, <fpage>386</fpage>&#x02013;<lpage>94</lpage><pub-id pub-id-type="doi">10.1107/S0907444911007281</pub-id>.<pub-id pub-id-type="pmid">21460457</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Santana</surname><given-names>A. G.</given-names></name>; <name><surname>Vadlamani</surname><given-names>G.</given-names></name>; <name><surname>Mark</surname><given-names>B. L.</given-names></name>; <name><surname>Withers</surname><given-names>S. G.</given-names></name>
+<source>Chem. Commun.</source>
+<year>2016</year>, <volume>52</volume>, <fpage>7943</fpage>&#x02013;<lpage>6</lpage><pub-id pub-id-type="doi">10.1039/C6CC02520J</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Watts</surname><given-names>A. G.</given-names></name>; <name><surname>Damager</surname><given-names>I.</given-names></name>; <name><surname>Amaya</surname><given-names>M. L.</given-names></name>; <name><surname>Buschiazzo</surname><given-names>A.</given-names></name>; <name><surname>Alzari</surname><given-names>P.</given-names></name>; <name><surname>Frasch</surname><given-names>A. C.</given-names></name>; <name><surname>Withers</surname><given-names>S. G.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2003</year>, <volume>125</volume>, <fpage>7532</fpage>&#x02013;<lpage>3</lpage><pub-id pub-id-type="doi">10.1021/ja0344967</pub-id>.<pub-id pub-id-type="pmid">12812490</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>von
+Itzstein</surname><given-names>M.</given-names></name>; <name><surname>Wu</surname><given-names>W.-Y.</given-names></name>; <name><surname>Kok</surname><given-names>G. B.</given-names></name>; <name><surname>Pegg</surname><given-names>M. S.</given-names></name>; <name><surname>Dyason</surname><given-names>J. C.</given-names></name>; <name><surname>Jin</surname><given-names>B.</given-names></name>; <name><surname>Phan</surname><given-names>T. V.</given-names></name>; <name><surname>Smythe</surname><given-names>M. L.</given-names></name>; <name><surname>White</surname><given-names>H. F.</given-names></name>; <name><surname>Oliver</surname><given-names>S. W.</given-names></name>; <name><surname>Colman</surname><given-names>P. M.</given-names></name>; <name><surname>Varghese</surname><given-names>J. N.</given-names></name>; <name><surname>Ryan</surname><given-names>D. M.</given-names></name>; <name><surname>Woods</surname><given-names>J. M.</given-names></name>; <name><surname>Bethell</surname><given-names>R. C.</given-names></name>; <name><surname>Hotham</surname><given-names>V. J.</given-names></name>; <name><surname>Cameron</surname><given-names>J. M.</given-names></name>; <name><surname>Penn</surname><given-names>C. R.</given-names></name>
+<source>Nature</source>
+<year>1993</year>, <volume>363</volume>, <fpage>418</fpage>&#x02013;<lpage>23</lpage><pub-id pub-id-type="doi">10.1038/363418a0</pub-id>.<pub-id pub-id-type="pmid">8502295</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Shidmoossavee</surname><given-names>F. S.</given-names></name>; <name><surname>Watson</surname><given-names>J. N.</given-names></name>; <name><surname>Bennet</surname><given-names>A. J.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>13254</fpage>&#x02013;<lpage>7</lpage><pub-id pub-id-type="doi">10.1021/ja405916q</pub-id>.<pub-id pub-id-type="pmid">24001125</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>S&#x000f8;hoel</surname><given-names>H.</given-names></name>; <name><surname>B&#x000fc;low</surname><given-names>A.</given-names></name>; <name><surname>Bols</surname><given-names>M.</given-names></name>
+<source>J.
+Am. Chem. Soc.</source>
+<year>2001</year>, <volume>123</volume>, <fpage>5116</fpage>&#x02013;<lpage>7</lpage><pub-id pub-id-type="doi">10.1021/ja010240u</pub-id>.<pub-id pub-id-type="pmid">11457350</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Goddard-Borger</surname><given-names>E. D.</given-names></name>; <name><surname>Stick</surname><given-names>R. V.</given-names></name>
+<source>Aust. J. Chem.</source>
+<year>2007</year>, <volume>60</volume>, <fpage>211</fpage>&#x02013;<lpage>3</lpage><pub-id pub-id-type="doi">10.1071/CH07016</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Mayer</surname><given-names>T. G.</given-names></name>; <name><surname>Schmidt</surname><given-names>R. R.</given-names></name>
+<source>Eur. J. Org. Chem.</source>
+<year>1999</year>, <volume>1999</volume>, <fpage>1153</fpage>&#x02013;<lpage>65</lpage><pub-id pub-id-type="doi">10.1002/(SICI)1099-0690(199905)1999:5&#x0003c;1153::AID-EJOC1153&#x0003e;3.0.CO;2-S</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Meloncelli</surname><given-names>P. J.</given-names></name>; <name><surname>Gloster</surname><given-names>T. M.</given-names></name>; <name><surname>Money</surname><given-names>V. A.</given-names></name>; <name><surname>Tarling</surname><given-names>C. A.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Withers</surname><given-names>S. G.</given-names></name>; <name><surname>Stick</surname><given-names>R. V.</given-names></name>
+<source>Aust. J. Chem.</source>
+<year>2007</year>, <volume>60</volume>, <fpage>549</fpage>&#x02013;<lpage>65</lpage><pub-id pub-id-type="doi">10.1071/CH07188</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Planas</surname><given-names>A.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>
+<source>Acc. Chem. Res.</source>
+<year>2012</year>, <volume>45</volume>, <fpage>308</fpage>&#x02013;<lpage>16</lpage><pub-id pub-id-type="doi">10.1021/ar2001765</pub-id>.<pub-id pub-id-type="pmid">21923088</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Williams</surname><given-names>R. J.</given-names></name>; <name><surname>Iglesias-Fernandez</surname><given-names>J.</given-names></name>; <name><surname>Stepper</surname><given-names>J.</given-names></name>; <name><surname>Jackson</surname><given-names>A.</given-names></name>; <name><surname>Thompson</surname><given-names>A. J.</given-names></name>; <name><surname>Lowe</surname><given-names>E. C.</given-names></name>; <name><surname>White</surname><given-names>J. M.</given-names></name>; <name><surname>Gilbert</surname><given-names>H. J.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>1087</fpage>&#x02013;<lpage>91</lpage><pub-id pub-id-type="doi">10.1002/anie.201308334</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Tankrathok</surname><given-names>A.</given-names></name>; <name><surname>Iglesias-Fern&#x000e1;ndez</surname><given-names>J.</given-names></name>; <name><surname>Williams</surname><given-names>R. J.</given-names></name>; <name><surname>Pengthaisong</surname><given-names>S.</given-names></name>; <name><surname>Baiya</surname><given-names>S.</given-names></name>; <name><surname>Hakki</surname><given-names>Z.</given-names></name>; <name><surname>Robinson</surname><given-names>R. C.</given-names></name>; <name><surname>Hrmova</surname><given-names>M.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>; <name><surname>Williams</surname><given-names>S. J.</given-names></name>; <name><surname>Ketudat Cairns</surname><given-names>J. R.</given-names></name>
+<source>ACS Catal.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>6041</fpage>&#x02013;<lpage>51</lpage><pub-id pub-id-type="doi">10.1021/acscatal.5b01547</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Warnke</surname><given-names>S.</given-names></name>; <name><surname>von Helden</surname><given-names>G.</given-names></name>; <name><surname>Pagel</surname><given-names>K.</given-names></name>
+<source>J.
+Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>1177</fpage>&#x02013;<lpage>80</lpage><pub-id pub-id-type="doi">10.1021/ja308528d</pub-id>.<pub-id pub-id-type="pmid">23320566</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Winter</surname><given-names>G.</given-names></name>
+<source>J. Appl. Crystallogr.</source>
+<year>2010</year>, <volume>43</volume>, <fpage>186</fpage>&#x02013;<lpage>90</lpage><pub-id pub-id-type="doi">10.1107/S0021889809045701</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kabsch</surname><given-names>W.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<year>2010</year>, <volume>66</volume>, <fpage>125</fpage>&#x02013;<lpage>32</lpage><pub-id pub-id-type="doi">10.1107/S0907444909047337</pub-id>.<pub-id pub-id-type="pmid">20124692</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Evans</surname><given-names>P. R.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<year>2011</year>, <volume>67</volume>, <fpage>282</fpage>&#x02013;<lpage>92</lpage><pub-id pub-id-type="doi">10.1107/S090744491003982X</pub-id>.<pub-id pub-id-type="pmid">21460446</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Evans</surname><given-names>P. R.</given-names></name>; <name><surname>Murshudov</surname><given-names>G. N.</given-names></name>
+<source>Acta Crystallogr., Sect. D: Biol. Crystallogr.</source>
+<year>2013</year>, <volume>69</volume>, <fpage>1204</fpage>&#x02013;<lpage>14</lpage><pub-id pub-id-type="doi">10.1107/S0907444913000061</pub-id>.<pub-id pub-id-type="pmid">23793146</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Emsley</surname><given-names>P.</given-names></name>; <name><surname>Lohkamp</surname><given-names>B.</given-names></name>; <name><surname>Scott</surname><given-names>W. G.</given-names></name>; <name><surname>Cowtan</surname><given-names>K.</given-names></name>
+<source>Acta Crystallogr., Sect. D:
+Biol. Crystallogr.</source>
+<year>2010</year>, <volume>66</volume>, <fpage>486</fpage>&#x02013;<lpage>501</lpage><pub-id pub-id-type="doi">10.1107/S0907444910007493</pub-id>.<pub-id pub-id-type="pmid">20383002</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Tickle</surname><given-names>I.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<year>2012</year>, <volume>68</volume>, <fpage>454</fpage>&#x02013;<lpage>67</lpage><pub-id pub-id-type="doi">10.1107/S0907444911035918</pub-id>.<pub-id pub-id-type="pmid">22505266</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Agirre</surname><given-names>J.</given-names></name>; <name><surname>Davies</surname><given-names>G.</given-names></name>; <name><surname>Wilson</surname><given-names>K.</given-names></name>; <name><surname>Cowtan</surname><given-names>K.</given-names></name>
+<source>Nat. Chem. Biol.</source>
+<year>2015</year>, <volume>11</volume>, <fpage>303</fpage><pub-id pub-id-type="doi">10.1038/nchembio.1798</pub-id>.<pub-id pub-id-type="pmid">25885951</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Agirre</surname><given-names>J.</given-names></name>; <name><surname>Iglesias-Fernandez</surname><given-names>J.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>; <name><surname>Davies</surname><given-names>G. J.</given-names></name>; <name><surname>Wilson</surname><given-names>K. S.</given-names></name>; <name><surname>Cowtan</surname><given-names>K. D.</given-names></name>
+<source>Nat. Struct. Mol.
+Biol.</source>
+<year>2015</year>, <volume>22</volume>, <fpage>833</fpage>&#x02013;<lpage>4</lpage><pub-id pub-id-type="doi">10.1038/nsmb.3115</pub-id>.<pub-id pub-id-type="pmid">26581513</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Schanda</surname><given-names>P.</given-names></name>; <name><surname>Kup&#x0010d;e</surname><given-names>&#x00045;&#x00305;.</given-names></name>; <name><surname>Brutscher</surname><given-names>B.</given-names></name>
+<source>J. Biomol. NMR</source>
+<year>2005</year>, <volume>33</volume>, <fpage>199</fpage>&#x02013;<lpage>211</lpage><pub-id pub-id-type="doi">10.1007/s10858-005-4425-x</pub-id>.<pub-id pub-id-type="pmid">16341750</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Delaglio</surname><given-names>F.</given-names></name>; <name><surname>Grzesiek</surname><given-names>S.</given-names></name>; <name><surname>Vuister</surname><given-names>G. W.</given-names></name>; <name><surname>Zhu</surname><given-names>G.</given-names></name>; <name><surname>Pfeifer</surname><given-names>J.</given-names></name>; <name><surname>Bax</surname><given-names>A.</given-names></name>
+<source>J.
+Biomol. NMR</source>
+<year>1995</year>, <volume>6</volume>, <fpage>277</fpage>&#x02013;<lpage>93</lpage><pub-id pub-id-type="doi">10.1007/BF00197809</pub-id>.<pub-id pub-id-type="pmid">8520220</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Car</surname><given-names>R.</given-names></name>; <name><surname>Parrinello</surname><given-names>M.</given-names></name>
+<source>Phys. Rev. Lett.</source>
+<year>1985</year>, <volume>55</volume>, <fpage>2471</fpage>&#x02013;<lpage>4</lpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.55.2471</pub-id>.<pub-id pub-id-type="pmid">10032153</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Troullier</surname><given-names>N.</given-names></name>; <name><surname>Martins</surname><given-names>J. L.</given-names></name>
+<source>Phys. Rev. B: Condens.
+Matter Mater. Phys.</source>
+<year>1991</year>, <volume>43</volume>, <fpage>1993</fpage>&#x02013;<lpage>2006</lpage><pub-id pub-id-type="doi">10.1103/PhysRevB.43.1993</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Perdew</surname><given-names>J. P.</given-names></name>; <name><surname>Burke</surname><given-names>K.</given-names></name>; <name><surname>Ernzerhof</surname><given-names>M.</given-names></name>
+<source>Phys. Rev. Lett.</source>
+<year>1996</year>, <volume>77</volume>, <fpage>3865</fpage>&#x02013;<lpage>8</lpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.77.3865</pub-id>.<pub-id pub-id-type="pmid">10062328</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Biarnes</surname><given-names>X.</given-names></name>; <name><surname>Ardevol</surname><given-names>A.</given-names></name>; <name><surname>Planas</surname><given-names>A.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>; <name><surname>Laio</surname><given-names>A.</given-names></name>; <name><surname>Parrinello</surname><given-names>M.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2007</year>, <volume>129</volume>, <fpage>10686</fpage>&#x02013;<lpage>93</lpage><pub-id pub-id-type="doi">10.1021/ja068411o</pub-id>.<pub-id pub-id-type="pmid">17696342</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Raich</surname><given-names>L.</given-names></name>; <name><surname>Borodkin</surname><given-names>V.</given-names></name>; <name><surname>Fang</surname><given-names>W.</given-names></name>; <name><surname>Castro-Lopez</surname><given-names>J.</given-names></name>; <name><surname>van Aalten</surname><given-names>D. M.</given-names></name>; <name><surname>Hurtado-Guerrero</surname><given-names>R.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>3325</fpage>&#x02013;<lpage>32</lpage><pub-id pub-id-type="doi">10.1021/jacs.5b10092</pub-id>.<pub-id pub-id-type="pmid">26859322</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Ard&#x000e8;vol</surname><given-names>A.</given-names></name>; <name><surname>Rovira</surname><given-names>C.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2015</year>, <volume>137</volume>, <fpage>7528</fpage>&#x02013;<lpage>47</lpage><pub-id pub-id-type="doi">10.1021/jacs.5b01156</pub-id>.<pub-id pub-id-type="pmid">25970019</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Laio</surname><given-names>A.</given-names></name>; <name><surname>Parrinello</surname><given-names>M.</given-names></name>
+<source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2002</year>, <volume>99</volume>, <fpage>12562</fpage>&#x02013;<lpage>6</lpage><pub-id pub-id-type="doi">10.1073/pnas.202427399</pub-id>.<pub-id pub-id-type="pmid">12271136</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Tribello</surname><given-names>G. A.</given-names></name>; <name><surname>Bonomi</surname><given-names>M.</given-names></name>; <name><surname>Branduardi</surname><given-names>D.</given-names></name>; <name><surname>Camilloni</surname><given-names>C.</given-names></name>; <name><surname>Bussi</surname><given-names>G.</given-names></name>
+<source>Comput.
+Phys. Commun.</source>
+<year>2014</year>, <volume>185</volume>, <fpage>604</fpage>&#x02013;<lpage>13</lpage><pub-id pub-id-type="doi">10.1016/j.cpc.2013.09.018</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Cremer</surname><given-names>D.</given-names></name>; <name><surname>Pople</surname><given-names>J. A.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>1975</year>, <volume>97</volume>, <fpage>1354</fpage>&#x02013;<lpage>8</lpage><pub-id pub-id-type="doi">10.1021/ja00839a011</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Dowd</surname><given-names>M. K.</given-names></name>; <name><surname>French</surname><given-names>A. D.</given-names></name>; <name><surname>Reilly</surname><given-names>P. J.</given-names></name>
+<source>Carbohydr. Res.</source>
+<year>1994</year>, <volume>264</volume>, <fpage>1</fpage>&#x02013;<lpage>19</lpage><pub-id pub-id-type="doi">10.1016/0008-6215(94)00185-5</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Tiwary</surname><given-names>P.</given-names></name>; <name><surname>Parrinello</surname><given-names>M.</given-names></name>
+<source>J. Phys. Chem. B</source>
+<year>2015</year>, <volume>119</volume>, <fpage>736</fpage>&#x02013;<lpage>42</lpage><pub-id pub-id-type="doi">10.1021/jp504920s</pub-id>.<pub-id pub-id-type="pmid">25046020</pub-id></mixed-citation></ref></ref-list></back></article>

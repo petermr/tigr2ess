@@ -1,0 +1,328 @@
+{
+  "id": [
+    "30719286"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30719286"
+  ],
+  "pmcid": [
+    "PMC6350319"
+  ],
+  "doi": [
+    "10.1186/s40104-019-0315-z"
+  ],
+  "title": [
+    "Improving genomic predictions by correction of genotypes from genotyping by sequencing in livestock populations."
+  ],
+  "authorString": [
+    "Wang X, Lund MS, Ma P, Janss L, Kadarmideen HN, Su G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Tjele, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Lund MS"
+          ],
+          "firstName": [
+            "Mogens Sandø"
+          ],
+          "lastName": [
+            "Lund"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "1Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Tjele, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma P"
+          ],
+          "firstName": [
+            "Peipei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "1Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Tjele, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Janss L"
+          ],
+          "firstName": [
+            "Luc"
+          ],
+          "lastName": [
+            "Janss"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "1Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Tjele, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Kadarmideen HN"
+          ],
+          "firstName": [
+            "Haja N"
+          ],
+          "lastName": [
+            "Kadarmideen"
+          ],
+          "initials": [
+            "HN"
+          ],
+          "affiliation": [
+            "2Department of Bio and Health Informatics and Department of Applied Mathematics and Computer Science, Technical University of Denmark, Kongens Lyngby, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Su G"
+          ],
+          "firstName": [
+            "Guosheng"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "1Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Tjele, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2772141"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of animal science and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Anim Sci Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "J Anim Sci Biotechnol"
+          ],
+          "NLMid": [
+            "101581293"
+          ],
+          "ISSN": [
+            "1674-9782"
+          ],
+          "ESSN": [
+            "2049-1891"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "Background:Genotyping by sequencing (GBS) is a robust method to genotype markers. Many factors can influence the genotyping quality. One is that heterozygous genotypes could be wrongly genotyped as homozygotes, dependent on the genotyping depths. In this study, a method correcting this type of genotyping error was demonstrated. The efficiency of this correction method and its effect on genomic prediction were assessed using simulated data of livestock populations. Results:Chip array (Chip) and four depths of GBS data was simulated. After quality control (call rate ≥ 0.8 and MAF ≥ 0.01), the remaining number of Chip and GBS SNPs were both approximately 7,000, averaged over 10 replicates. GBS genotypes were corrected with the proposed method. The reliability of genomic prediction was calculated using GBS, corrected GBS (GBSc), true genotypes for the GBS loci (GBSr) and Chip data. The results showed that GBSc had higher rates of correct genotype calls and higher correlations with true genotypes than GBS. For genomic prediction, using Chip data resulted in the highest reliability. As the depth increased to 10, the prediction reliabilities using GBS and GBSc data approached those using true GBS data. The reliabilities of genomic prediction using GBSc data were 0.604, 0.672, 0.684 and 0.704 after genomic correction, with the improved values of 0.013, 0.009, 0.006 and 0.001 at depth = 2, 4, 5 and 10, respectively. Conclusions:The current study showed that a correction method for GBS data increased the genotype accuracies and, consequently, improved genomic predictions. These results suggest that a correction of GBS genotype is necessary, especially for the GBS data with low depths."
+  ],
+  "affiliation": [
+    "1Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Tjele, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Simulation",
+        "Genotyping By Sequencing",
+        "Genomic Prediction",
+        "Genotype Correction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6350319?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6350319"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40104-019-0315-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-06"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-24"
+  ],
+  "firstPublicationDate": [
+    "2019-01-24"
+  ]
+}

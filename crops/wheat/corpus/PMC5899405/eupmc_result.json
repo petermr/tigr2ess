@@ -1,0 +1,564 @@
+{
+  "id": [
+    "29653520"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29653520"
+  ],
+  "pmcid": [
+    "PMC5899405"
+  ],
+  "doi": [
+    "10.1186/s12864-018-4640-y"
+  ],
+  "title": [
+    "A modified sequence capture approach allowing standard and methylation analyses of the same enriched genomic DNA sample."
+  ],
+  "authorString": [
+    "Olohan L, Gardiner LJ, Lucaci A, Steuernagel B, Wulff B, Kenny J, Hall N, Hall A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Olohan L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Olohan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Crown Street, Liverpool, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gardiner LJ"
+          ],
+          "firstName": [
+            "Laura-Jayne"
+          ],
+          "lastName": [
+            "Gardiner"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "Earlham Institute, Norwich research Park, Norwich, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lucaci A"
+          ],
+          "firstName": [
+            "Anita"
+          ],
+          "lastName": [
+            "Lucaci"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Crown Street, Liverpool, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Steuernagel B"
+          ],
+          "firstName": [
+            "Burkhard"
+          ],
+          "lastName": [
+            "Steuernagel"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich Research Park, Norwich, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wulff B"
+          ],
+          "firstName": [
+            "Brande"
+          ],
+          "lastName": [
+            "Wulff"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4044-4346",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich Research Park, Norwich, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kenny J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Kenny"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Crown Street, Liverpool, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hall N"
+          ],
+          "firstName": [
+            "Neil"
+          ],
+          "lastName": [
+            "Hall"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Earlham Institute, Norwich research Park, Norwich, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hall A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Hall"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Earlham Institute, Norwich research Park, Norwich, UK. Anthony.Hall@earlham.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1806-020X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4044-4346",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2666610"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "250"
+  ],
+  "abstractText": [
+    "BACKGROUND:Bread wheat has a large complex genome that makes whole genome resequencing costly. Therefore, genome complexity reduction techniques such as sequence capture make re-sequencing cost effective. With a high-quality draft wheat genome now available it is possible to design capture probe sets and to use them to accurately genotype and anchor SNPs to the genome. Furthermore, in addition to genetic variation, epigenetic variation provides a source of natural variation contributing to changes in gene expression and phenotype that can be profiled at the base pair level using sequence capture coupled with bisulphite treatment. Here, we present a new 12 Mbp wheat capture probe set, that allows both the profiling of genotype and methylation from the same DNA sample. Furthermore, we present a method, based on Agilent SureSelect Methyl-Seq, that will use a single capture assay as a starting point to allow both DNA sequencing and methyl-seq. RESULTS:Our method uses a single capture assay that is sequentially split and used for both DNA sequencing and methyl-seq. The resultant genotype and epi-type data is highly comparable in terms of coverage and SNP/methylation site identification to that generated from separate captures for DNA sequencing and methyl-seq. Furthermore, by defining SNP frequencies in a diverse landrace from the Watkins collection we highlight the importance of having genotype data to prevent false positive methylation calls. Finally, we present the design of a new 12 Mbp wheat capture and demonstrate its successful application to re-sequence wheat. CONCLUSIONS:We present a cost-effective method for performing both DNA sequencing and methyl-seq from a single capture reaction thus reducing reagent costs, sample preparation time and DNA requirements for these complementary analyses."
+  ],
+  "affiliation": [
+    "Institute of Integrative Biology, University of Liverpool, Crown Street, Liverpool, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/N005104/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/L011786/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "DNA Methylation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Chloroplast"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Methodology",
+        "Sequence Capture",
+        "Combining Genotype And Epi-type Analysis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5899405?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5899405"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-4640-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR12119"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-27"
+  ],
+  "dateOfCreation": [
+    "2018-04-15"
+  ],
+  "dateOfRevision": [
+    "2018-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-13"
+  ],
+  "firstPublicationDate": [
+    "2018-04-13"
+  ]
+}

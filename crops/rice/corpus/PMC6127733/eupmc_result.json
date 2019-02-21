@@ -1,0 +1,380 @@
+{
+  "id": [
+    "30233646"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30233646"
+  ],
+  "pmcid": [
+    "PMC6127733"
+  ],
+  "doi": [
+    "10.3389/fgene.2018.00364"
+  ],
+  "title": [
+    "Genomic Prediction of Complex Phenotypes Using Genic Similarity Based Relatedness Matrix."
+  ],
+  "authorString": [
+    "Gao N, Teng J, Ye S, Yuan X, Huang S, Zhang H, Zhang X, Li J, Zhang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gao N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Teng J"
+          ],
+          "firstName": [
+            "Jinyan"
+          ],
+          "lastName": [
+            "Teng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye S"
+          ],
+          "firstName": [
+            "Shaopan"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan X"
+          ],
+          "firstName": [
+            "Xiaolong"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Shuwen"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiquan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jiaqi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645050"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "364"
+  ],
+  "abstractText": [
+    "In the last years, a series of methods for genomic prediction (GP) have been established, and the advantages of GP over pedigree best linear unbiased prediction (BLUP) have been reported. However, the majority of previously proposed GP models are purely based on mathematical considerations while seldom take the abundant biological knowledge into account. Prediction ability of those models largely depends on the consistency between the statistical assumptions and the underlying genetic architectures of traits of interest. In this study, gene annotation information was incorporated into GP models by constructing haplotypes with SNPs mapped to genic regions. Haplotype allele similarity between pairs of individuals was measured through different approaches at single gene level and then converted into whole genome level, which was then treated as a special kernel and used in kernel based GP models. Results shown that the gene annotation guided methods gave higher or at least comparable predictive ability in some traits, especially in the Arabidopsis dataset and the rice breeding population. Compared to SNP models and haplotype models without gene annotation, the gene annotation based models improved the predictive ability by 0.56~26.67% in the Arabidopsis and 1.62~16.53% in the rice breeding population, respectively. However, incorporating gene annotation slightly improved the predictive ability for several traits but did not show any extra gain for the rest traits in a chicken population. In conclusion, integrating gene annotation into GP models could be beneficial for some traits, species, and populations compared to SNP models and haplotype models without gene annotation. However, more studies are yet to be conducted to implicitly investigate the characteristics of these gene annotation guided models."
+  ],
+  "affiliation": [
+    "National Engineering Research Center for Breeding Swine Industry, Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding, College of Animal Science, South China Agricultural University, Guangzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene Annotation",
+        "Genomic Selection",
+        "Complex Phenotypes",
+        "Genomic Prediction",
+        "Haplotype Models"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6127733?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6127733"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2018.00364"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-21"
+  ],
+  "dateOfRevision": [
+    "2018-09-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-31"
+  ],
+  "firstPublicationDate": [
+    "2018-08-31"
+  ]
+}

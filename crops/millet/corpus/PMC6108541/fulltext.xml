@@ -1,0 +1,661 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?all-math-mml yes?><?use-mml?><?properties open_access?><?properties manuscript?><?origin nihpa?><?iso-abbr Nat Phys?><?submitter-system nihms?><?submitter-canonical-name Nature Publishing Group?><?submitter-canonical-id NATURE-STRUCTUR?><?submitter-userid 8068858?><?submitter-authority myNCBI?><?submitter-login nature-structure?><?submitter-name Nature Publishing Group?><?domain nihpa?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">101235387</journal-id><journal-id journal-id-type="pubmed-jr-id">34285</journal-id><journal-id journal-id-type="nlm-ta">Nat Phys</journal-id><journal-id journal-id-type="iso-abbrev">Nat Phys</journal-id><journal-title-group><journal-title>Nature physics</journal-title></journal-title-group><issn pub-type="ppub">1745-2473</issn></journal-meta><article-meta><article-id pub-id-type="pmcid">6108541</article-id><article-id pub-id-type="doi">10.1038/s41567-018-0089-9</article-id><article-id pub-id-type="manuscript">nihpa944195</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Geometric constraints during epithelial jamming</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Atia</surname><given-names>Lior</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref rid="FN2" ref-type="author-notes">+</xref></contrib><contrib contrib-type="author"><name><surname>Bi</surname><given-names>Dapeng</given-names></name><xref ref-type="aff" rid="A2">2</xref><xref rid="FN2" ref-type="author-notes">+</xref></contrib><contrib contrib-type="author"><name><surname>Sharma</surname><given-names>Yasha</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref rid="FN2" ref-type="author-notes">+</xref></contrib><contrib contrib-type="author"><name><surname>Mitchel</surname><given-names>Jennifer A.</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Gweon</surname><given-names>Bomi</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name><surname>Koehler</surname><given-names>Stephan</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>DeCamp</surname><given-names>Stephen J.</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Lan</surname><given-names>Bo</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Jae Hun</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Hirsch</surname><given-names>Rebecca</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Pegoraro</surname><given-names>Adrian F.</given-names></name><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Kyu Ha</given-names></name><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author"><name><surname>Starr</surname><given-names>Jacqueline R.</given-names></name><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author"><name><surname>Weitz</surname><given-names>David A.</given-names></name><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author"><name><surname>Martin</surname><given-names>Adam C.</given-names></name><xref ref-type="aff" rid="A6">6</xref></contrib><contrib contrib-type="author"><name><surname>Park</surname><given-names>Jin-Ah</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Butler</surname><given-names>James P.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A7">7</xref><xref rid="FN2" ref-type="author-notes">*</xref></contrib><contrib contrib-type="author"><name><surname>Fredberg</surname><given-names>Jeffrey J.</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref rid="FN2" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="A1">
+<label>1</label>Harvard T.H. Chan School of Public Health, Boston, Massachusetts
+02115, USA</aff><aff id="A2">
+<label>2</label>Northeastern University, Department of Physics, Boston,
+Massachusetts 02115, USA</aff><aff id="A3">
+<label>3</label>Hanyang University, Department of Biomedical Engineering, Seoul
+04763, Korea</aff><aff id="A4">
+<label>4</label>Harvard University, School of Engineering and Applied Sciences,
+Cambridge, Massachusetts 02138, USA</aff><aff id="A5">
+<label>5</label>The Forsyth Institute, Cambridge, Massachusetts 02142 USA</aff><aff id="A6">
+<label>6</label>Massachusetts Institute of Technology, Department of Biology,
+Cambridge, Massachusetts 02142, USA</aff><aff id="A7">
+<label>7</label>Dept. Medicine, Brigham and Women&#x02019;s Hospital and Harvard
+Medical School, Boston, Massachusetts, 02115, USA</aff><author-notes><corresp id="FN1">Send correspondence to:
+<email>jfredber@hsph.harvard.edu</email></corresp><fn id="FN2" fn-type="equal"><label>+,*</label><p>contributed equally</p></fn></author-notes><pub-date pub-type="nihms-submitted"><day>17</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="epub"><day>2</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>02</day><month>10</month><year>2018</year></pub-date><volume>14</volume><fpage>613</fpage><lpage>620</lpage><!--elocation-id from pubmed: 10.1038/s41567-018-0089-9--><permissions><license><license-p>Users may view, print, copy, and download text and data-mine the
+content in such documents, for the purposes of academic research, subject
+always to the full Conditions of use: <uri xlink:type="simple" xlink:href="http://www.nature.com/authors/editorial_policies/license.html#terms">http://www.nature.com/authors/editorial_policies/license.html#terms</uri></license-p></license></permissions><abstract><p id="P1">As an injury heals, an embryo develops, or a carcinoma spreads,
+epithelial cells systematically change their shape. In each of these processes
+cell shape is studied extensively whereas variability of shape from cell-to-cell
+is regarded most often as biological noise. But where do cell shape and its
+variability come from? Here we report that cell shape and shape variability are
+mutually constrained through a relationship that is purely geometrical. That
+relationship is shown to govern processes as diverse as maturation of the
+pseudostratified bronchial epithelial layer cultured from non-asthmatic or
+asthmatic donors, and formation of the ventral furrow in the
+<italic>Drosophila</italic> embryo. Across these and other epithelial
+systems, shape variability collapses to a family of distributions that is common
+to all. That distribution, in turn, is accounted for by a mechanistic theory of
+cell-cell interaction showing that cell shape becomes progressively less
+elongated and less variable as the layer becomes progressively more jammed.
+These findings suggest a connection between jamming and geometry that spans
+living organisms and inert jammed systems, and thus transcends system details.
+Although molecular events are needed for any complete theory of cell shape and
+cell packing, observations point to the hypothesis that jamming behavior at
+larger scales of organization sets overriding geometrical constraints.</p></abstract></article-meta></front><body><p id="P2">Grain in a silo, sand in a pile, or beans in a chute can flow in some
+circumstances or become jammed in others.<sup><xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R3" ref-type="bibr">3</xref></sup> Even bubbles
+comprising a foam or colloid particles comprising a suspension can jam or unjam. In each
+case constituent particles interact with nearest neighbors to form a disordered
+collective, and the collective as a whole can exhibit a transition from a fluid-like
+unjammed phase toward a solid-like jammed phase. A characteristic feature of the jamming
+phenomenon is that thermal fluctuations by themselves are insufficient to drive local
+structural rearrangements. The collective can therefore become trapped away from
+thermodynamic equilibrium and stuck in packing geometries that remain disordered in
+solid-like and fluid-like phases alike. Disordered geometry near the solid-like phase is
+thought to result from caging of each constituent particle by its immediate neighbors,
+force chains that percolate from particle to particle, and associated cooperative
+particle-particle interactions.<sup><xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R3" ref-type="bibr">3</xref></sup> Within such
+collective systems the jamming phenomenon is virtually ubiquitous.</p><p id="P3">To a surprising extent, similar phenomena typify the cellular collective
+comprising the confluent epithelial layer.<sup><xref rid="R4" ref-type="bibr">4</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup> Constituent
+cells can migrate in multicellular packs and swirls reminiscent of fluid flow, with
+embryonic development, cancer invasion, and wound healing being classical examples. Or
+instead they can become quiescent, solid-like, and non-migratory, as in the mature,
+uninjured epithelium. Moreover, these solid-like versus fluid-like phases of the
+epithelial collective have been linked to cell caging by immediate neighbors,
+propagating force chains, and cooperative cell-cell interactions that typify cell
+jamming and unjamming.<sup><xref rid="R4" ref-type="bibr">4</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup> Every analogy has its limits, however,
+and, compared to that within the inert granular collective, the cellular packing
+geometry that defines a confluent epithelial collective would seem to be quite a
+different matter controlled by altogether different mechanisms.<sup><xref rid="R9" ref-type="bibr">9</xref>&#x02013;<xref rid="R13" ref-type="bibr">13</xref></sup></p><p id="P4">Detailed measurements of epithelial packing geometry and associated cell-to-cell
+shape variability described below lead to two striking findings. Here we report, first,
+that measurements spanning diverse confluent epithelial systems scale to a statistical
+shape distribution that is virtually common to all. As a result, cell shape and shape
+variability are mutually constrained through a relationship that is purely geometrical.
+We show, second, that these shape distributions are reminiscent of the Edwards
+conjecture, which holds that among the immense number of packing geometries that is
+possible within a jammed granular collective, all are equally likely.<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> But how the physics of granular matter can be adapted in a more
+satisfying way to the biology of the space-filling, highly adaptable, active particles
+that comprise a confluent epithelial collective remains an open question (<xref rid="SD1" ref-type="supplementary-material">Supplement 1</xref>). Nevertheless, the
+findings described here deepen the analogy between the physics of the inert granular
+collective and that of the living epithelial collective, thus making this analogy all
+the more striking, and all the more curious.<sup><xref rid="R4" ref-type="bibr">4</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup></p><sec id="S1"><title>Shape and shape variability in vitro</title><p id="P5">Human bronchial epithelial cells (HBECs) were grown to confluence in
+submerged conditions on a porous transwell for 5&#x02013;6 days and then allowed to
+mature in air-liquid interface (ALI) culture conditions to become
+well-differentiated over the course of 6 to 20 days. Migratory dynamics were used to
+confirm evidence of progressive cell jamming<sup><xref rid="R4" ref-type="bibr">4</xref></sup> (<xref rid="SD1" ref-type="supplementary-material">Supplement 2: Fig. S1</xref>), and a variety of imaging modalities were used to
+quantify cellular morphology (Methods; <xref rid="SD1" ref-type="supplementary-material">Supplements 3, 4</xref>). In HBEC layers from
+both non-asthmatic and asthmatic donors, areas and aspect ratios
+(<italic>ARs</italic>; Methods) were highly variable (<xref rid="F1" ref-type="fig">Fig. 1a,b</xref>). Consistent with previous reports<sup><xref rid="R4" ref-type="bibr">4</xref></sup>, cells from asthmatic donors were
+more elongated than their non-asthmatic counterparts, and the distributions of
+<italic>ARs</italic> were broad and skewed (<xref rid="F1" ref-type="fig">Fig.
+1c</xref>; <xref rid="SD1" ref-type="supplementary-material">Fig. S2</xref>). As
+a simple measure of shape variability from cell-to-cell, we used the standard
+deviation of the aspect ratio, SD(<italic>AR</italic>). We had thought of this shape
+variability as representing biological noise. We were therefore surprised to find
+that data from all non-asthmatic donors and all days of maturation traced an
+unanticipated but clear linear relationship between the mean of the aspect ratio, <inline-formula><mml:math id="M1" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> , and its standard deviation,
+SD(<italic>AR</italic>), (p&#x0003c;0.0005; <xref rid="F1" ref-type="fig">Fig.
+1d</xref>; <xref rid="SD1" ref-type="supplementary-material">Table S1</xref>).
+Specifically, as the cell aspect ratio became progressively smaller with increasing
+days of maturation, its variability from-cell-to cell did so as well (<xref rid="F1" ref-type="fig">Fig. 1e</xref>). Cells from asthmatic donors mature more slowly
+and migrate more quickly than do cells from non-asthmatic donors.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> We had therefore expected that any
+relationship between cell shape and its variability would be different as well
+between non-asthmatic versus asthmatic donors. To our further surprise, <inline-formula><mml:math id="M2" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) from all asthmatic
+donors and all days of maturation defined a closely similar linear relationship,
+although with a slightly smaller slope (p&#x0003c;0.0005; <xref rid="F1" ref-type="fig">Fig 1d</xref>; <xref rid="SD1" ref-type="supplementary-material">Table
+S1</xref>). Moreover, when we pooled all cells from all fields of view, and for
+each day of maturation, <inline-formula><mml:math id="M3" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) for both asthmatic and
+non-asthmatic donors traced virtually the same relationship (<xref rid="F1" ref-type="fig">Fig. 1d</xref>). Within this relationship, however, mature and/or
+non-asthmatic cells tended to fall at lower values of <inline-formula><mml:math id="M4" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) whereas immature and/or
+asthmatic cells tended to fall at larger values (<xref rid="F1" ref-type="fig">Fig.
+1e</xref>, <xref rid="SD1" ref-type="supplementary-material">Fig.
+S2d</xref>).</p></sec><sec id="S2"><title>Shape and shape variability in vivo</title><p id="P6">We then considered that this geometrical relationship might reflect a
+peculiarity of HBECs, an idiosyncrasy of layer maturation, or an artifact of cell
+culture. We show in <xref rid="SD1" ref-type="supplementary-material">Supplement
+5</xref> that the geometrical relationship traced by the data of <xref rid="F1" ref-type="fig">Fig. 1d,e,f</xref> and <xref rid="SD1" ref-type="supplementary-material">Video S1</xref> is not limited to HBECs, and
+is not a specific effect of the passage of time, layer maturation, or cell crowding;
+these factors all mattered but no one among them could fully explain the
+observations. To rule out artifacts of cell culture and, more importantly, to test
+the relationship between shape and shape variability in a completely distinct
+epithelial system <italic>in vivo</italic>, we studied ventral furrow formation in
+the developing embryo of the fruit fly <italic>Drosophila
+melanogaster</italic>.<sup><xref rid="R10" ref-type="bibr">10</xref></sup></p><p id="P7">In <italic>Drosophila</italic> development, the ventral furrow forms to bring
+mesodermal precursor cells into the interior of the embryo. In this process cells
+exhibit pulsatile contractions that transition from a relaxed to a sustained
+contractile state.<sup><xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref></sup> These events are accompanied by changes of
+cell shape that include apical flattening, constriction of apical diameter, cell
+elongation, and subsequent shortening (<xref rid="F2" ref-type="fig">Fig.
+2a,b</xref>, left column).<sup><xref rid="R18" ref-type="bibr">18</xref></sup>
+Across multiple wild type (WT) embryos, we characterized the aspect ratio of cell
+apical domains and its variability as cells constricted, increased their movement
+within the epithelial plane (towards ventral midline in wild type), and escaped
+their arrested state (<xref rid="F2" ref-type="fig">Fig. 2c</xref> left column), but
+before the cells invaginated (Materials and Methods). Even though the
+<italic>Drosophila</italic> embryonic epithelium differs in many regards from
+HBEC and MDCK layers <italic>in vitro,</italic> cell shape data obtained in this
+system as the furrow forms traced the same geometric relationship (<xref rid="F2" ref-type="fig">Fig. 2d</xref>, left; <xref rid="SD1" ref-type="supplementary-material">Video S2</xref>). To test how shape and shape
+variability are affected by genetic variability, we studied embryos that were mutant
+for <italic>concertina</italic> (<italic>cta</italic>). The <italic>cta</italic>
+gene encodes a G&#x003b1;<sub>12/13</sub> protein, which is required for coordinated
+apical constriction.<sup><xref rid="R19" ref-type="bibr">19</xref></sup> In
+<italic>cta</italic> maternal effect mutants, cells of the ventral furrow
+constrict in an uncoordinated manner and furrow formation becomes slow and
+uneven.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> In addition, we
+used RNAi to knock down the transcription factor <italic>twist,</italic> which is
+essential for sustained apical contraction and ventral furrow formation. Unlike the
+maturing HBEC layer, but similar to compression-induced unjamming of the HBEC layer,
+these events in the embryo were accompanied by progressive increases of cellular
+speeds and <inline-formula><mml:math id="M5" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> s in tandem (<xref rid="F2" ref-type="fig">Fig.
+2c</xref>, center and right), and tracked with time from smaller toward larger <inline-formula><mml:math id="M6" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>and SD(<italic>AR</italic>) (<xref rid="F2" ref-type="fig">Fig. 2d</xref> center and right; <xref rid="SD1" ref-type="supplementary-material">Videos S3,4</xref>). Moreover, gradual
+transitions of layer structure (as reflected by changes of <inline-formula><mml:math id="M7" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>) and cooperative dynamics (as reflected by changes
+in the self-overlap order parameter and the four-point susceptibility), occurred
+simultaneously (<xref rid="SD1" ref-type="supplementary-material">Fig. S1</xref>).
+These data suggest that certain changes in cell morphology during ventral furrow
+formation are associated with epithelial layer unjamming. It remains unclear,
+however, if unjamming and the associated solid-like to fluid-like transition in that
+particular context are permissive of the cellular flows that are driven by apical
+acto-myosin constriction, or are the effect.<sup><xref rid="R16" ref-type="bibr">16</xref></sup></p></sec><sec id="S3"><title>Diverse systems reveal common shape distributions</title><p id="P8">We found that explanations based solely upon the mathematics of randomness
+and tessellation are at best incomplete (<xref rid="SD1" ref-type="supplementary-material">Fig. S3</xref>). To explain these findings at
+a deeper level, we reasoned that the underlying statistical distributions of
+observed cell shapes across these diverse epithelial systems must comprise a special
+subclass of distributions that has yet to be determined. To fill that gap, we
+measured for each of the biological cases above the corresponding probability
+density functions (PDFs) of observed <italic>AR</italic>s, as described below. We
+then go on to ask what physical mechanism might account for that special subclass
+and its statistical properties.</p><p id="P9">During maturation of HBECs or MDCKs, cell shapes became systematically less
+elongated and less variable with time (<xref rid="F3" ref-type="fig">Fig.
+3a,c</xref>). In contrast, during the approach to the formation of the ventral
+furrow in the wild type <italic>Drosophila</italic> embryo, cell shapes became more
+elongated and more variable with time (<xref rid="F3" ref-type="fig">Fig.
+3e</xref>). In the <italic>cta</italic> mutant compared with WT, cell shape was more
+elongated and more variable, and even more so in the <italic>twist</italic>
+knockdown (<xref rid="F3" ref-type="fig">Fig. 3e</xref>). Despite differences in
+PDFs within and between these systems, and regardless of their trajectories over
+time, the functional form of all respective PDFs were unimodal and skewed in a
+manner suggestive of a common underlying mathematical basis (<xref rid="F3" ref-type="fig">Fig. 3a,c,e</xref>). To assess this commonality in a quantitative
+fashion, we rescaled <italic>AR</italic> to the form <inline-formula><mml:math id="M8" display="inline" overflow="scroll"><mml:mrow><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>A</mml:mi><mml:mi>R</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>; importantly, <inline-formula><mml:math id="M9" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> in HBECs progressively fell with increasing days of
+maturation (p&#x0003c;0.0005; <xref rid="SD1" ref-type="supplementary-material">Fig.
+S1</xref>), and was systematically greater in non-asthmatic versus asthmatic
+cells (p&#x0003c;0.0005). Rescaling in this fashion maps the lower limits of the abscissa
+and the ordinate to zero, and scales the mean of the distribution to unity. Across
+all days of maturation for HBEC data in all non-asthmatic donors, data thereupon
+collapsed onto a common distribution (<xref rid="F3" ref-type="fig">Fig.
+3a,b</xref>). For asthmatic donors, too, rescaled data again collapsed to a common
+distribution (<xref rid="F3" ref-type="fig">Fig. 3a,b</xref>), as did data from MDCK
+cells (<xref rid="F3" ref-type="fig">Fig. 3c,d</xref>), events preceding formation
+of the ventral furrow, and interventions that disrupt that furrow formation (<xref rid="F3" ref-type="fig">Fig. 3e,f</xref>).</p></sec><sec id="S4"><title>Generic connections between jamming and geometry</title><p id="P10">Remarkably, within and across these diverse epithelial layers, observed
+variability of shape from cell-to-cell was well-described by a single distribution
+that, with small distinctions, was common to all. Importantly, a direct consequence
+of distributions that are invariant to scaling in this manner is a linear
+relationship between <inline-formula><mml:math id="M10" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>), as seen in <xref rid="F1" ref-type="fig">Figs. 1</xref>&#x02013;<xref rid="F2" ref-type="fig">2</xref>.</p><p id="P11">We wondered, therefore, if the findings above might be explained by a
+generic empirical connection between jamming and geometry that is not restricted to
+the particular effects of cell maturation, cortical tension or cell-cell adhesion,
+and instead points to a larger jamming reference class that transcends such system
+details (<xref rid="F4" ref-type="fig">Fig. 4</xref>; <xref rid="SD1" ref-type="supplementary-material">Fig. S4</xref>). As a guide for thought, we
+start by considering the well-studied case of the disordered granular collective;
+recent evidence points to fluid-solid transitions in disordered granular matter as
+being similar in 2 and 3 dimensions.<sup><xref rid="R21" ref-type="bibr">21</xref>,<xref rid="R22" ref-type="bibr">22</xref></sup> In 3 dimensions,
+grain centers can be used to tessellate the volume around each individual grain.
+When packing is dense and disordered, these tessellated volumes necessarily vary
+from grain-to-grain. In such a physical system, the distribution of volumes,
+<italic>x</italic>, has been found theoretically and confirmed empirically to
+follow the <italic>k</italic>-gamma distribution<sup><xref rid="R23" ref-type="bibr">23</xref></sup>,</p><p id="P12">
+<disp-formula id="FD1"><label>(1)</label><mml:math id="M11" display="block" overflow="scroll"><mml:mrow><mml:mtext>PDF</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo>;</mml:mo><mml:mi>k</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:msup><mml:mi>k</mml:mi><mml:mi>k</mml:mi></mml:msup><mml:msup><mml:mi>x</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mo>-</mml:mo><mml:mn mathvariant="italic">1</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>k</mml:mi><mml:mspace width="0.16667em"/><mml:mi>x</mml:mi></mml:mrow></mml:msup><mml:mo>/</mml:mo><mml:mi mathvariant="normal">&#x00393;</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></disp-formula> where &#x00393;(<italic>k</italic>) is the Legendre
+gamma function. This distribution is fully described by only a single parameter,
+<italic>k</italic>, and has a mean of unity.</p><p id="P13"><xref rid="FD1" ref-type="disp-formula">Eq. 1</xref> arises from statistical
+mechanics based in part upon volume exclusion, which prevents two grains from
+occupying the same space at the same time, and tessellated volume fluctuations that
+are additive so as to account for total system volume. We note that the derivation
+of this result<sup><xref rid="R23" ref-type="bibr">23</xref></sup> does not depend
+on the dimensionality of the system, and therefore applies as well to granular
+systems in 2 and 3 dimensions alike. In a confluent cellular system, however,
+cellular aspect ratios are in no sense additive, and for that reason and others
+there presently exists no rigorous basis for the applicability of the
+<italic>k</italic>-gamma distribution to metrics of cell shape. Nevertheless,
+when a layer remains confluent each individual cell can change not only its area but
+also its shape at the expense of complementary changes in neighboring cells. A
+central role for cell shape is demonstrated, for example, in the case of unjamming
+caused by acute layer compression which, compared with the case of layer maturation,
+reveals changes of area per cell and area distributions that are small but changes
+of cell shape and shape distributions that are not small (<xref rid="F1" ref-type="fig">Fig. 1d</xref> inset; <xref rid="SD1" ref-type="supplementary-material">Fig. S2d</xref>).</p><p id="P14">For these reasons and others, the statistical physics of cell jamming
+emphasizes cell shape and its changes.<sup><xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R24" ref-type="bibr">24</xref>&#x02013;<xref rid="R27" ref-type="bibr">27</xref><xref rid="R28" ref-type="bibr">28</xref></sup> Statistical physics of cell
+jamming also leads to a prediction for the distribution of energy barrier heights
+that act to impede local cellular rearrangements, where the <italic>k</italic>-gamma
+distribution is seen to arise yet again.<sup><xref rid="R25" ref-type="bibr">25</xref></sup> These hints lead us to the conjecture that cell shapes,
+too, are governed by a <italic>k</italic>-gamma distribution. We cannot prove this
+conjecture analytically, but using the extensive data sets described above we can
+test it empirically. Specifically, we take <inline-formula><mml:math id="M12" display="inline" overflow="scroll"><mml:mrow><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>A</mml:mi><mml:mi>R</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> and use maximum likelihood estimation (MLE;
+Materials and Methods). <xref rid="FD1" ref-type="disp-formula">Eq. 1</xref> is then
+seen to be faithful to observations with a high degree of statistical confidence
+(<xref rid="SD1" ref-type="supplementary-material">Fig. S5,6</xref>). In HBECs,
+the parameter, <italic>k</italic>, varied little over all days of maturation
+(p&#x0003c;0.0005, <xref rid="SD1" ref-type="supplementary-material">Fig. S5b</xref>)
+and, moreover, did not differ between non-asthmatic versus asthmatic cells
+(p=0.2147, <xref rid="SD1" ref-type="supplementary-material">Fig.
+S5b</xref>). Much as in the case of jammed granular packings<sup><xref rid="R23" ref-type="bibr">23</xref></sup>, but quite unlike the case of unjammed
+granular packings, <italic>k</italic> changed only slightly as the system became
+progressively more jammed (<xref rid="SD1" ref-type="supplementary-material">Fig.
+S5b</xref>; see also <xref rid="SD1" ref-type="supplementary-material">Supplement 6</xref>; compare <xref rid="F4" ref-type="fig">Fig. 4</xref>
+in<sup><xref rid="R23" ref-type="bibr">23</xref></sup>). Even though some
+differences in <italic>k</italic> were statistically significant, these differences
+were at most modest and, to a reasonable approximation, <italic>k</italic> in HBECs
+could be taken as a constant value of 1.97 (95% CI [1.89,
+2.04]). In MDCK cells we found, similarly, that all data were well
+represented by a single <italic>k</italic> value of 2.31 (CI [1.90,
+2.73]). In <italic>Drosophila, k</italic> values were not statistically
+different between WT and <italic>cta</italic> mutant (p=0.023), or
+<italic>twist RNAi</italic> (p =0.762) (<xref rid="SD1" ref-type="supplementary-material">Fig. S6b</xref>), and were well represented by
+a single <italic>k</italic> value of 2.52 (CI [2.43, 2.62]). Across
+these diverse epithelial systems, <xref rid="FD1" ref-type="disp-formula">Eq.
+1</xref> pertained throughout and <italic>k</italic> was bounded to the
+relatively narrow range between 2 and 2.5. The near universal structure of shape
+distributions, and with a virtually common value of <italic>k</italic>, are
+therefore all the more striking.</p></sec><sec id="S5"><title>Effective temperature in jammed packings</title><p id="P15">For disordered granular matter, the mathematical form of the
+<italic>k-</italic>gamma distribution (<xref rid="FD1" ref-type="disp-formula">Eq. 1</xref>) constrains volume variability to mean volume according to the
+relationship <inline-formula><mml:math id="M13" display="inline" overflow="scroll"><mml:mrow><mml:mi>S</mml:mi><mml:mi>D</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>V</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mi>V</mml:mi><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo>-</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mi mathvariant="italic">min</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:msqrt><mml:mi>k</mml:mi></mml:msqrt></mml:mrow></mml:math></inline-formula>, where <italic>V</italic> represents local
+tessellated volume associated with each individual grain,
+<italic>&#x00056;&#x00304;</italic> is the mean value of such volumes, and
+<italic>V<sub>min</sub></italic> is the minimal random packing volume that
+the system can attain.<sup><xref rid="R23" ref-type="bibr">23</xref></sup> But just
+as <xref rid="FD1" ref-type="disp-formula">Eq. 1</xref> requires volume variability
+<italic>SD</italic>(<italic>V</italic>) to change linearly with mean volume
+<italic>&#x00056;&#x00304;</italic> in the case of granular systems, so too <xref rid="FD1" ref-type="disp-formula">Eq. 1</xref> requires cell shape variability
+<italic>SD</italic>(<italic>AR</italic>) to change linearly with mean cell shape <inline-formula><mml:math id="M14" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> in the case of epithelial systems (<xref rid="F1" ref-type="fig">Fig. 1d</xref>, <xref rid="F2" ref-type="fig">2d</xref>). But is
+there deeper insight that might help to explain these empirical findings?</p><p id="P16">Of the great many possible jammed packings into which a collective system
+might become trapped, all jammed packings become equally likely just as the system
+approaches the transition between fluid-like and solid-like phases; this is called
+the Edwards conjecture, and has been recently proven.<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> If
+no one jammed configuration is privileged over another, then the distributional
+entropy, <italic>S,</italic> becomes maximized, from which it has been shown that
+<xref rid="FD1" ref-type="disp-formula">Eq. 1</xref> follows directly.<sup><xref rid="R23" ref-type="bibr">23</xref></sup> In a jammed packing, however,
+thermal fluctuations are insufficient to drive local rearrangements, and for that
+reason the traditional statistical mechanics of Gibbs do not apply. Nevertheless, if
+volume in an athermal granular system were to play a role analogous to that of
+energy in a thermodynamic system, as suggested by Edwards, one can then define an
+effective temperature, <italic>T<sub>eff</sub></italic>, given by
+1/(&#x02202;<italic>S</italic>/&#x02202;<italic>V</italic>).<sup><xref rid="R23" ref-type="bibr">23</xref>,<xref rid="R14" ref-type="bibr">14</xref></sup>
+Carried over from volume variability in granular jamming to shape variability in
+cellular jamming, <italic>T<sub>eff</sub></italic> then takes the form,</p><disp-formula id="FD2"><label>(2)</label><mml:math id="M15" display="block" overflow="scroll"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="italic">eff</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mtext>SD</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mi>A</mml:mi><mml:mi>R</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:msqrt><mml:mi>k</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo>-</mml:mo><mml:mi>A</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mi mathvariant="italic">min</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:mi>k</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula><p id="P17">To the extent that <xref rid="FD1" ref-type="disp-formula">Eq. 1</xref>
+pertains (<xref rid="F3" ref-type="fig">Fig. 3b,d,f</xref>) and to the extent that
+observed changes in <italic>k</italic> across diverse epithelial systems are small
+(<xref rid="SD1" ref-type="supplementary-material">Fig. S5b, S6b</xref>), then
+the cell jamming mechanism and <xref rid="FD2" ref-type="disp-formula">Eq. 2</xref>
+would explain not only the existence of a relationship between cell shape
+variability and cell shape, but also its linearity and its invariance. Through the
+lens of such a physical picture, data in the lower left of <xref rid="F1" ref-type="fig">Fig. 1d</xref> might then be imagined as corresponding to
+effectively &#x02018;cooler&#x02019; states, and those at the upper right to
+relatively &#x02018;warmer&#x02019; states. It remains to be determined, however, if
+effectively warmer, unjammed, migratory, fluid-like phases are harnessed to enable
+wound healing, development, or invasion, and effectively cooler, jammed,
+non-migratory, solid-like phases are harnessed to slow those processes or arrest
+them. Experimental observations of cell shape spanning diverse epithelia, the
+statistical physics of disordered granular matter, and computational mechanics of
+cell-cell interactions (<xref rid="SD1" ref-type="supplementary-material">Supplement
+6</xref>) are thus seen to converge in a manner that is qualitatively consistent
+and quantitatively reinforcing.</p></sec><sec id="S6"><title>Geometrical constraints on cell shape variation</title><p id="P18">As early as 36 BC, the Roman Marcus Terentius Varro suggested that the
+bee&#x02019;s honeycomb, in order to enclose a cellular space, makes optimal use of
+material. It was only much later, in 1611, when Johannes Kepler proposed that
+hexagonal packing of identical spheres corresponds to the densest possible
+arrangement. D&#x02019;Arcy Thompson later argued that biological systems evolve
+toward and thus tend to recapitulate such optimal packing structures.<sup><xref rid="R29" ref-type="bibr">29</xref></sup> These conjectures and others
+dating even earlier have been proven only recently.<sup><xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref></sup>
+Cell divisions and apoptosis are known to drive cell arrangements away from such a
+hexagonal packing, however, and toward an equilibrium distribution of polydisperse
+cellular polygons.<sup><xref rid="R11" ref-type="bibr">11</xref></sup> Nevertheless,
+shape distributions measured throughout the jamming process of HBECs depart
+systematically from that predicted equilibrium distribution (<xref rid="SD1" ref-type="supplementary-material">Fig. S2e</xref>). Moreover, cell divisions
+tend to orient along the long axis of the interphase cell in a manner that
+facilitates both stress relaxation and isotropic growth within the cell layer
+&#x02013; a phenomenon commonly known as Hertwig&#x02019;s rule. <sup><xref rid="R32" ref-type="bibr">32</xref></sup></p><p id="P19">A variety of dynamic events were likely at work in the datasets reported
+here, including but not limited to proliferation, crowding, extrusion, apoptosis,
+and even newly discovered nematic defects<sup><xref rid="R13" ref-type="bibr">13</xref></sup>, any of which might be expected to impact the jamming state
+of the epithelial collective. Nevertheless, in instances when <inline-formula><mml:math id="M16" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) are relatively small
+the configurational options from which the cellular collective can sample are
+correspondingly limited, cell movements become highly constrained, rearrangements
+among neighboring cells become slowed, and the collective as a whole becomes
+solid-like. This is the essence of the jammed state. By contrast, in instances when <inline-formula><mml:math id="M17" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) are relatively large a
+wider range of configurational options become available, cell movements become less
+constrained, rearrangements among neighboring cells become increasingly frequent,
+and the collective as a whole becomes fluid-like (<xref rid="SD1" ref-type="supplementary-material">Videos S1&#x02013;4</xref>). This is the
+essence of the unjammed state.</p><p id="P20">The fundamental open questions are these. First, experimental results
+establish that scaled <italic>AR</italic>s are distributed in a fashion that is
+approximately common to all and follow the <italic>k</italic>-gamma distribution,
+which in turn requires a linear relationship between <inline-formula><mml:math id="M18" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>). But why this should be
+true, and why the numerical value of <italic>k</italic> in those systems should be
+so narrowly limited remain unexplained. Second, does structural disorder within a
+multicellular tissue represent noise, i.e., an inconsequential byproduct of more
+consequential biological events? Or instead might disorder be physiologically useful
+in its own right? New experimental evidence presented here and elsewhere
+increasingly ties cell jamming together with structural disorder, cell mechanics,
+and collective migration.<sup><xref rid="R4" ref-type="bibr">4</xref>&#x02013;<xref rid="R9" ref-type="bibr">9</xref></sup> But the extent to which graded
+degrees of cell jamming and disorder might be regulated physiologically, or
+dysregulated pathologically, remains unclear. Importantly, both cell jamming and
+contact inhibition of locomotion (CIL) have argued to account for the progressive
+slowdown of cellular motions within the confluent epithelial layer.<sup><xref rid="R33" ref-type="bibr">33</xref></sup> But it remains unclear if these
+mechanisms are distinct, and, if so, the extent to which they are mutually
+independent, interdependent, or reinforcing. Finally, the biology of metastatic
+disease currently lacks a mechanistic explanation for how collective cancer cell
+migration can occur when the epithelial-to-mesenchymal transition (EMT) program is
+inactive.<sup><xref rid="R34" ref-type="bibr">34</xref>,<xref rid="R35" ref-type="bibr">35</xref></sup> The extent to which the unjamming transition
+comprises an alternative gateway to cancer cell migration and metastasis remains to
+be established (<xref rid="SD1" ref-type="supplementary-material">Supplement
+1</xref>).</p><p id="P21">Data obtained across vastly different epithelial systems emphasize the
+generality of the cell jamming concept. Although molecular events are needed for any
+complete theory of cell shape and cell packing &#x02013;whether during
+embryogenesis, cancer invasion, or wound healing&#x02013; jamming behavior at a
+larger scale of organization is seen to set overriding geometric constraints. It is
+well-recognized that molecular events cannot exert their effects upon cell shape
+directly, but rather mediate their effects through the combined but indirect actions
+of genetic, cellular, and mechanical inputs that remain incompletely
+understood.<sup><xref rid="R10" ref-type="bibr">10</xref></sup> Here we
+build directly upon this idea and extend it from the singe cell to the epithelial
+collective. To set the most primitive features of cell shape and shape variability,
+these indirect actions combine to modulate proximity of the confluent cell layer to
+the jammed state, and thereby shift the layer up or down the geometric relationship
+shown in <xref rid="F1" ref-type="fig">Fig. 1</xref>&#x02013;<xref rid="F3" ref-type="fig">3</xref>. On the scale of cellular dimensions, therefore, these
+findings point to the hypothesis that cell jamming may be the principal determinant
+of epithelial cell shape and shape variability.</p></sec><sec sec-type="methods" id="S7" specific-use="web-only"><title>Methods</title><sec id="S8"><title>Culture of primary HBECs in ALI culture</title><p id="P22">Primary human bronchial epithelial cells (HBECs) were obtained at
+passage 0 or passage 1 from the Marsico Lung Institute/Cystic Fibrosis Center at
+the University of North Carolina, Chapel Hill. HBECs were cultured from three
+non-asthmatic and three asthmatic donors as previously described.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> Briefly, passage 2 HBECs were
+seeded onto a transwell insert coated with type I collagen (2 transwells per
+donor), and grown under submerged conditions for five to six days until the
+cells reached confluence. Upon reaching confluence, media was removed from the
+apical side of the transwell, but was kept in the basal side to initiate
+air-liquid interface (ALI) culture conditions. Cells were maintained in ALI
+conditions and became well-differentiated, expressing basal, goblet and ciliated
+cells (<xref rid="SD1" ref-type="supplementary-material">Fig. S8</xref>), as
+seen in airways <italic>in vivo</italic>. On specific days of ALI cells were
+fixed with 4% paraformaldehyde (PFA) and stained with phalloidin
+conjugated with alexa-488 to visualize F-actin (Life Technologies). Wide field
+fluorescent images (10&#x02013;20 per transwell) were acquired at the apical
+plane on a Leica DMI 8 microscope using either a 40X or 63X-oil objective
+(Leica), and automatically segmented and analyzed using an in-house custom
+algorithm.</p></sec><sec id="S9"><title>Cell morphology and metrics</title><p id="P23">Cell numbers progressively increased and projected areas progressively
+decreased with layer maturation (<xref rid="F1" ref-type="fig">Fig. 1a</xref>;
+<xref rid="SD1" ref-type="supplementary-material">Fig. S2a,d</xref>). Both
+in ALI culture and <italic>in vivo</italic>, the mature HBEC layer comprises
+mainly basal cells, goblet cells, and ciliated cells arrayed in a complex
+pseudostratified structure (<xref rid="SD1" ref-type="supplementary-material">Fig. S9</xref>). Cell shapes vary dramatically along the apical-basal axis,
+with the cell body often bulging in the vicinity of the nucleus, which is
+relatively stiff. Analysis of such systems typically emphasizes the dominant
+mechanical effects attributable to apical regions and the apical actin
+ring.<sup><xref rid="R5" ref-type="bibr">5</xref></sup> Fluorescent
+images labeled for F-actin show how these apical rings tile the cell layer
+(<xref rid="F1" ref-type="fig">Fig. 1a</xref>; <xref rid="SD1" ref-type="supplementary-material">Fig. S9&#x02013;11</xref>). These rings
+were segmented using a customized algorithm (<xref rid="SD1" ref-type="supplementary-material">Supplement 4</xref>), and from these
+segmented images we measured corresponding geometries across all donors and days
+of maturation in a total of 1.4&#x000d7;10<sup>5</sup> cells. For each ring we
+determined the projected area and the aspect ratio, <italic>AR</italic> (<xref rid="SD1" ref-type="supplementary-material">Fig. S11</xref>); the more
+slender or elongated the profile, the higher is its <italic>AR</italic>. For any
+closed ring in the cell plane, <italic>AR</italic> thus serves as a simple,
+primitive, and robust metric of ring shape. In a previous study we had used as
+an index of shape the factor, <italic>q</italic>, which is the ring perimeter
+divided by the square root of area.<sup><xref rid="R4" ref-type="bibr">4</xref></sup> In the dataset described here <italic>AR</italic> and
+<italic>q</italic> were correlated, but we found that the experimentally
+observed range of <italic>AR</italic> spanned roughly five-fold whereas that of
+<italic>q</italic> spanned less two-fold (<xref rid="SD1" ref-type="supplementary-material">Fig. S7</xref>). To better resolve changes
+in shapes, we found it preferable to use <italic>AR</italic>.</p></sec><sec id="S10"><title>Migratory dynamics</title><p id="P24">Collective migratory dynamics in this experimental system have been
+characterized previously<sup><xref rid="R4" ref-type="bibr">4</xref></sup>, and
+we use a variety of metrics here to replicate and confirm those earlier findings
+(<xref rid="SD1" ref-type="supplementary-material">Fig. S1</xref>). For
+example, within the confluent layer cells move in cooperative swirls or packs of
+10&#x02013;100 cells. These packs display characteristic pack speed, size, and
+lifetime (as determined from the peak of the four-point susceptibility), and
+after several pack lifetimes any individual cell finds itself surrounded by a
+different set of immediate neighbors. As the jamming transition is approached,
+pack speed tends to decrease as pack size and pack lifetime tend to
+grow<sup><xref rid="R4" ref-type="bibr">4</xref></sup>, but there is no
+objective cutoff that defines a jamming transition. Rather, the transition is
+gradual and continuous, and jamming is said to occur when pack lifetime grows to
+exceed the laboratory measurement window (144 min). Using those criteria, the
+non-asthmatic maturing HBEC layer approaches jamming by day 8 of ALI culture,
+whereas the asthmatic layer approaches jamming no sooner than day 14.<sup><xref rid="R4" ref-type="bibr">4</xref></sup></p></sec><sec id="S11"><title>MDCK culture and live imaging</title><p id="P25">Cells were stably transfected with GFP-linked nuclear localization
+(NLS-GFP) and cultured in Dulbecco&#x02019;s modified Eagle&#x02019;s medium
+(DMEM) supplemented with 10% fetal bovine serum (FBS), 1%
+penicillin/streptomycin, and 0.5 mg/ml G418. Tissue culture plates were coated
+with collagen I and 50,000 cells were added to the center of the well and
+allowed to adhere for 24 hours. Cells were maintained at 37C and 5%
+CO<sub>2</sub> as images were recorded every three minutes for 54 hours
+using phase microscopy and confocal fluorescence using the 488 nm line of an
+argon laser on a Leica DMI6000 SP5 microscope with a stage top incubator. Images
+were processed to find centroids of each nuclei, which were used as seeds for a
+Voronoi tessellation in order to create a polygonal tiling of the cell layer.
+These polygons were then used to obtain cell aspect ratio using an in-house
+custom algorithm.</p></sec><sec id="S12"><title>Fly stocks and live imaging</title><p id="P26">The following fly lines were used for imaging: <italic>sqh::GFP</italic>
+(myosin regulatory light chain, <italic>sqh</italic>, fused to GFP and expressed
+from endogenous promoter)<sup><xref rid="R47" ref-type="bibr">47</xref></sup>,
+<italic>Gap43-mCherry</italic> (membrane marker driven by
+<italic>sqh</italic> promoter)<sup><xref rid="R48" ref-type="bibr">48</xref></sup>. To make maternal effect <italic>concertina</italic>
+(<italic>cta)</italic> mutant embryos, the <italic>cta<sup>RC10</sup>;
+sqh::GFP, Gap43::mCherry/TM3</italic> flies were crossed with
+<italic>Df(2L)PR31/CyO, sqh::GFP</italic> flies and embryos from nonbalancer
+F1 females were imaged.</p><p id="P27">For live-cell imaging of <italic>Drosophila</italic>, embryos were
+dechorionated with 50% commercial bleach, washed with water, and mounted
+ventral side up on a glue-coated microscope slide. Two No. 1.5 coverslips were
+put between the slide and top coverslip to make a chamber and avoid compressing
+the embryo. Embryos were imaged in halocarbon 27 oil (Sigma-Aldrich). Images
+were acquired using a Zeiss LSM 710 confocal microscope equipped with a x 40/1.2
+numerical aperture Apochromat water objective (Carl Zeiss). For each time point,
+z-projections of three consecutive slices were automatically segmented and
+analyzed using an in-house custom algorithm.</p></sec><sec id="S13"><title>RNAi knock-down in Drosophila</title><p id="P28">To disrupt the <italic>twist</italic> transcription factor, we injected
+dsRNA generated using the Invitrogen MEGAscript T7 transcription kit,
+resuspended in 0.1 x PBS.<sup><xref rid="R16" ref-type="bibr">16</xref></sup>
+The dsRNA against <italic>twist</italic> had to be injected at least 2.5 hours
+before imaging/gastrulation in order to observe the phenotype. The following
+primers were used to generate <italic>twist</italic> dsRNA: F:
+5&#x02032;-TAATACGACTCACTATAGGGGCCAAGCAAGATCACCAAAT-3&#x02032;; R:
+5&#x02032;-TAATAC GACTCACTATAGGGGACCTCGTTGCTGGGTATGT-3&#x02032;.</p></sec><sec id="S14"><title>Maximum likelihood estimation (MLE)</title><p id="P29">We fitted the k-gamma probability density, PDF(<italic>x; k</italic>)
+= <italic>k <sup>k</sup> x <sup>k&#x02212;1</sup> e<sup>&#x02212;k
+x</sup></italic>/&#x00393;(<italic>k</italic>), to the data by the
+method of maximum likelihood. For each data set, aspect ratios were shifted and
+normalized by <inline-formula><mml:math id="M19" display="inline" overflow="scroll"><mml:mrow><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>A</mml:mi><mml:mi>R</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>. For a given set of data
+{<italic>x<sub>i</sub></italic>} <italic>i</italic>
+= 1, &#x02026;, <italic>N</italic>, the likelihood function is,</p><disp-formula id="FD3"><mml:math id="M20" display="block" overflow="scroll"><mml:mrow><mml:mi>L</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:munderover><mml:mo>&#x0220f;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>;</mml:mo><mml:mi>k</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math></disp-formula><p id="P30">The MLE estimate of <italic>k</italic> is then given by
+<italic>&#x0006b;&#x00302;</italic> = argmin<italic>I<sub>k</sub></italic>
+(&#x02212;ln<italic>L</italic>(<italic>k</italic>)). The confidence
+intervals for <italic>&#x0006b;&#x00302;</italic> were determined by parametric
+bootstrapping as follows. <italic>N</italic> simulated data points were
+generated from the cumulative distribution function (CDF) corresponding to the
+<italic>&#x0006b;&#x00302;</italic> for that set. Maximum likelihood was again
+performed, yielding a parameter estimate <italic>&#x0006b;&#x00302;</italic><sub>1</sub>
+from this first set of simulated data. This procedure was repeated over a large
+number <italic>S</italic> of simulations, typically &#x0003e;200. The standard
+deviation of the resulting set
+{<italic>&#x0006b;&#x00302;<sub>s</sub></italic>}, <italic>s</italic>
+= 1, &#x02026;, <italic>S</italic> was used to construct 95%
+confidence intervals.</p><p id="P31">Finally, we tested goodness-of-fit for this approach by computing Chi
+squared values. For each data set, we constructed (uniform) decile bins from the
+cumulative distribution function, given <italic>&#x0006b;&#x00302;</italic> for that
+set. We counted the observed number of data points
+<italic>O<sub>j</sub></italic>, <italic>j</italic> = 1, &#x02026;,
+10 occurring within each bin, and compared these with the expected number of
+occurrences <italic>E</italic> = <italic>N</italic>/10 within each bin
+by computing,</p><disp-formula id="FD4"><mml:math id="M21" display="block" overflow="scroll"><mml:mrow><mml:msup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>=</mml:mo><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>O</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:mi>E</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>/</mml:mo><mml:mi>E</mml:mi></mml:mrow><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula><p id="P32">For decile binning, the number of degrees of freedom is 9; the threshold
+value of &#x003c7;<sup>2</sup> for 95% confidence is given by <inline-formula><mml:math id="M22" display="inline" overflow="scroll"><mml:mrow><mml:msubsup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mrow><mml:mn>0.05</mml:mn><mml:mo>,</mml:mo><mml:mn>9</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mo>=</mml:mo><mml:mn>16.9</mml:mn></mml:mrow></mml:math></inline-formula>. Observed values of <inline-formula><mml:math id="M23" display="inline" overflow="scroll"><mml:mrow><mml:msup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>&#x0003e;</mml:mo><mml:msubsup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mrow><mml:mn>0.05</mml:mn><mml:mo>,</mml:mo><mml:mn>9</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:math></inline-formula> indicate a rejection of goodness-of-fit with
+95% confidence.</p><p id="P33">For HBEC data, we found that out of 646 frames only 22 had <inline-formula><mml:math id="M24" display="inline" overflow="scroll"><mml:mrow><mml:msup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>&#x0003e;</mml:mo><mml:msubsup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mrow><mml:mn>0.05</mml:mn><mml:mo>,</mml:mo><mml:mn>9</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:math></inline-formula>, or approximately 3.4%. This is close
+to the expected false negative rate of 5%, given an appropriate
+distribution function with 95% confidence limits. Similarly, the data
+from Drosophila revealed a fraction of <inline-formula><mml:math id="M25" display="inline" overflow="scroll"><mml:mrow><mml:msup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>&#x0003e;</mml:mo><mml:msubsup><mml:mi mathvariant="normal">&#x003c7;</mml:mi><mml:mrow><mml:mn>0.05</mml:mn><mml:mo>,</mml:mo><mml:mn>9</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:math></inline-formula> also approximately 3.4%, and the MDCK
+data exhibited a fraction 9.8%. This is striking confirmation at the
+level of goodness-of-fit that the underlying distribution over these cell types
+is well characterized by the <italic>k</italic>-gamma distribution given in
+<xref rid="FD1" ref-type="disp-formula">Eq. 1</xref>.</p></sec><sec id="S15"><title>Data Availability</title><p id="P34">Data that support the plots within this paper and other findings of this
+study are available from the corresponding author upon request.</p></sec></sec><sec sec-type="supplementary-material" id="S16"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1"><label>1</label><media xlink:href="NIHMS944195-supplement-1.pdf" orientation="portrait" xlink:type="simple" id="d36e1863" position="anchor"/></supplementary-material></sec></body><back><ack id="S17"><p>The authors thank M. Lisa Manning, Henry Feldman, and Emil Millet for helpful
+discussions. This work was conducted with support from the Harvard Catalyst Clinical
+and Translational Science Center (National Center for Advancing Translational
+Sciences, National Institutes of Health Award UL1 TR001102) and financial
+contributions from Harvard University and its affiliated academic healthcare
+centers; the content is solely the responsibility of the authors and does not
+necessarily represent the official views of Harvard Catalyst, Harvard University and
+its affiliated academic healthcare centers, or the National Institutes of Health.
+This work was funded by the National Cancer Institute grant number 1U01CA202123 and
+by the National Heart Lung and Blood Institute grant numbers R01HL107561,
+PO1HL120839, and T32 HL007118, and the National Research Foundation of Korea grant
+number NRF-2014R1A6A3A04059713.</p></ack><fn-group><fn id="FN3" fn-type="con"><p><bold>Author contributions:</bold> LA designed and performed HBECs experiment,
+developed the cell shape algorithm, analyzed corresponding data, contributed to
+manuscript preparation and oversaw the project. DB performed theoretical and
+computational analysis of the SPV model, guided analysis and interpretation of
+data and contributed to manuscript preparation. YS analyzed
+<italic>Drosophila</italic> data, assisted with statistical analysis, and
+contributed to manuscript preparation. JAM designed and performed layer
+maturation and compression experiments with HBECs and contributed to manuscript
+preparation. BG designed and performed stretching experiments with MDCKs. SK
+analyzed MDCK data, and performed computational simulations. SJD designed the
+jamming superfamily figure and assisted with statistical analysis. BL assisted
+with preparation of slides in HBECs experiment. JHK analyzed the dynamics of
+cellular motions in HBECs. RH assisted with cell culture in HBECs experiment.
+AFP designed and performed the experiments on MDCKs and contributed to the
+manuscript preparation. KHL performed statistical analysis. JS designed and
+performed statistical analysis. DAW guided data interpretation of cell shape.
+ACM provided imaging data from <italic>Drosophila</italic> and contributed to
+manuscript preparation. JP designed and guided the experiment on HBECs and
+contributed to the manuscript preparation. JPB guided data interpretation and
+analysis, and contributed to manuscript preparation. JJF oversaw the project,
+and contributed to experimental design, data analysis, and manuscript
+preparation.</p></fn></fn-group><ref-list><ref id="R1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>AJ</given-names></name><name><surname>Nagel</surname><given-names>SR</given-names></name></person-group><article-title>Jamming is not just cool any more</article-title><source>Nature</source><volume>396</volume><fpage>21</fpage><lpage>22</lpage><year>1998</year></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Trappe</surname><given-names>V</given-names></name><name><surname>Prasad</surname><given-names>V</given-names></name><name><surname>Cipelletti</surname><given-names>L</given-names></name><name><surname>Segre</surname><given-names>PN</given-names></name><name><surname>Weitz</surname><given-names>DA</given-names></name></person-group><article-title>Jamming phase diagram for attractive particles</article-title><source>Nature</source><volume>411</volume><fpage>772</fpage><lpage>775</lpage><pub-id pub-id-type="doi">10.1038/35081021</pub-id><year>2001</year><pub-id pub-id-type="pmid">11459050</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>de Gennes</surname><given-names>P</given-names></name><name><surname>Badoz</surname><given-names>J</given-names></name></person-group><source>Fragile Objects: Soft Matter, Hard Science, and the Thrill of
+Discovery</source><publisher-name>Copernicus Books, Springer-Verlag</publisher-name><year>1996</year></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>JA</given-names></name><etal/></person-group><article-title>Unjamming and cell shape in the asthmatic airway
+epithelium</article-title><source>Nature Materials</source><volume>14</volume><fpage>1040</fpage><lpage>1048</lpage><pub-id pub-id-type="doi">10.1038/nmat4357</pub-id><year>2015</year><pub-id pub-id-type="pmid">26237129</pub-id></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farhadifar</surname><given-names>R</given-names></name><name><surname>Roper</surname><given-names>JC</given-names></name><name><surname>Aigouy</surname><given-names>B</given-names></name><name><surname>Eaton</surname><given-names>S</given-names></name><name><surname>Julicher</surname><given-names>F</given-names></name></person-group><article-title>The influence of cell mechanics, cell-cell interactions, and
+proliferation on epithelial packing</article-title><source>Curr Biol</source><volume>17</volume><fpage>2095</fpage><lpage>2104</lpage><comment>S0960-9822(07)02334-2 [pii]</comment><pub-id pub-id-type="doi">10.1016/j.cub.2007.11.049</pub-id><year>2007</year><pub-id pub-id-type="pmid">18082406</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sadati</surname><given-names>M</given-names></name><name><surname>Taheri Qazvini</surname><given-names>N</given-names></name><name><surname>Krishnan</surname><given-names>R</given-names></name><name><surname>Park</surname><given-names>CY</given-names></name><name><surname>Fredberg</surname><given-names>JJ</given-names></name></person-group><article-title>Collective migration and cell jamming</article-title><source>Differentiation</source><volume>86</volume><fpage>121</fpage><lpage>125</lpage><pub-id pub-id-type="doi">10.1016/j.diff.2013.02.005</pub-id><year>2013</year><pub-id pub-id-type="pmid">23791490</pub-id></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pawlizak</surname><given-names>S</given-names></name><etal/></person-group><article-title>Testing the differential adhesion hypothesis across the
+epithelial&#x02013;mesenchymal transition</article-title><source>New Journal of Physics</source><volume>17</volume><fpage>083049</fpage><year>2015</year></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nnetu</surname><given-names>KD</given-names></name><name><surname>Knorr</surname><given-names>M</given-names></name><name><surname>Pawlizak</surname><given-names>S</given-names></name><name><surname>Fuhs</surname><given-names>T</given-names></name><name><surname>Kas</surname><given-names>JA</given-names></name></person-group><article-title>Slow and anomalous dynamics of an MCF-10A epithelial cell
+monolayer</article-title><source>Soft matter</source><volume>9</volume><fpage>9335</fpage><lpage>9341</lpage><pub-id pub-id-type="doi">10.1039/c3sm50806d</pub-id><year>2013</year></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Hilgenfeldt</surname><given-names>S</given-names></name></person-group><article-title>Cell shapes and patterns as quantitative indicators of tissue
+stress in the plant epidermis</article-title><source>Soft matter</source><volume>11</volume><fpage>7270</fpage><lpage>7275</lpage><pub-id pub-id-type="doi">10.1039/c5sm01563d</pub-id><year>2015</year><pub-id pub-id-type="pmid">26264286</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gilmour</surname><given-names>D</given-names></name><name><surname>Rembold</surname><given-names>M</given-names></name><name><surname>Leptin</surname><given-names>M</given-names></name></person-group><article-title>From morphogen to morphogenesis and back</article-title><source>Nature</source><volume>541</volume><fpage>311</fpage><lpage>320</lpage><pub-id pub-id-type="doi">10.1038/nature21348</pub-id><year>2017</year><pub-id pub-id-type="pmid">28102269</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gibson</surname><given-names>MC</given-names></name><name><surname>Patel</surname><given-names>AB</given-names></name><name><surname>Nagpal</surname><given-names>R</given-names></name><name><surname>Perrimon</surname><given-names>N</given-names></name></person-group><article-title>The emergence of geometric order in proliferating metazoan
+epithelia</article-title><source>Nature</source><volume>442</volume><fpage>1038</fpage><lpage>1041</lpage><year>2006</year><pub-id pub-id-type="pmid">16900102</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xiong</surname><given-names>F</given-names></name><etal/></person-group><article-title>Interplay of Cell Shape and Division Orientation Promotes Robust
+Morphogenesis of Developing Epithelia</article-title><source>Cell</source><volume>159</volume><fpage>415</fpage><lpage>427</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2014.09.007</pub-id><year>2014</year><pub-id pub-id-type="pmid">25303534</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saw</surname><given-names>TB</given-names></name><etal/></person-group><article-title>Topological defects in epithelia govern cell death and
+extrusion</article-title><source>Nature</source><volume>544</volume><fpage>212</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1038/nature21718</pub-id><year>2017</year><pub-id pub-id-type="pmid">28406198</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Edwards</surname><given-names>SF</given-names></name><name><surname>Oakeshott</surname><given-names>RBS</given-names></name></person-group><article-title>Theory of powders</article-title><source>Physica A: Statistical Mechanics and its Applications</source><volume>157</volume><fpage>1080</fpage><lpage>1090</lpage><year>1989</year></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martiniani</surname><given-names>S</given-names></name><name><surname>Schrenk</surname><given-names>KJ</given-names></name><name><surname>Ramola</surname><given-names>K</given-names></name><name><surname>Chakraborty</surname><given-names>B</given-names></name><name><surname>Frenkel</surname><given-names>D</given-names></name></person-group><article-title>Numerical test of the Edwards conjecture shows that all packings
+are equally probable at jamming</article-title><source>Nature Physics</source><volume>13</volume><fpage>848</fpage><lpage>851</lpage><pub-id pub-id-type="doi">10.1038/nphys4168</pub-id><year>2017</year></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>AC</given-names></name><name><surname>Kaschube</surname><given-names>M</given-names></name><name><surname>Wieschaus</surname><given-names>EF</given-names></name></person-group><article-title>Pulsed contractions of an actin-myosin network drive apical
+constriction</article-title><source>Nature</source><volume>457</volume><fpage>495</fpage><lpage>499</lpage><year>2009</year><pub-id pub-id-type="pmid">19029882</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>S</given-names></name><name><surname>Martin</surname><given-names>AC</given-names></name></person-group><article-title>Intracellular signalling and intercellular coupling coordinate
+heterogeneous contractile events to facilitate tissue
+folding</article-title><source>Nature communications</source><volume>6</volume><fpage>7161</fpage><pub-id pub-id-type="doi">10.1038/ncomms8161</pub-id><year>2015</year></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sweeton</surname><given-names>D</given-names></name><name><surname>Parks</surname><given-names>S</given-names></name><name><surname>Costa</surname><given-names>M</given-names></name><name><surname>Wieschaus</surname><given-names>E</given-names></name></person-group><article-title>Gastrulation in Drosophila: the formation of the ventral furrow
+and posterior midgut invaginations</article-title><source>Development</source><volume>112</volume><fpage>775</fpage><lpage>789</lpage><year>1991</year><pub-id pub-id-type="pmid">1935689</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parks</surname><given-names>S</given-names></name><name><surname>Wieschaus</surname><given-names>E</given-names></name></person-group><article-title>The Drosophila gastrulation gene concertina encodes a G
+alpha-like protein</article-title><source>Cell</source><volume>64</volume><fpage>447</fpage><lpage>458</lpage><year>1991</year><pub-id pub-id-type="pmid">1899050</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>S</given-names></name><name><surname>Mason</surname><given-names>FM</given-names></name><name><surname>Martin</surname><given-names>AC</given-names></name></person-group><article-title>Loss of Galpha12/13 exacerbates apical area dependence of
+actomyosin contractility</article-title><source>Mol Biol Cell</source><volume>27</volume><fpage>3526</fpage><lpage>3536</lpage><pub-id pub-id-type="doi">10.1091/mbc.E16-05-0305</pub-id><year>2016</year><pub-id pub-id-type="pmid">27489340</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vivek</surname><given-names>S</given-names></name><name><surname>Kelleher</surname><given-names>CP</given-names></name><name><surname>Chaikin</surname><given-names>PM</given-names></name><name><surname>Weeks</surname><given-names>ER</given-names></name></person-group><article-title>Long-wavelength fluctuations and the glass transition in two
+dimensions and three dimensions</article-title><source>Proceedings of the National Academy of Sciences</source><volume>114</volume><fpage>1850</fpage><lpage>1855</lpage><pub-id pub-id-type="doi">10.1073/pnas.1607226113</pub-id><year>2017</year></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Illing</surname><given-names>B</given-names></name><etal/></person-group><article-title>Mermin&#x02013;Wagner fluctuations in 2D amorphous
+solids</article-title><source>Proceedings of the National Academy of Sciences</source><volume>114</volume><fpage>1856</fpage><lpage>1861</lpage><pub-id pub-id-type="doi">10.1073/pnas.1612964114</pub-id><year>2017</year></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aste</surname><given-names>T</given-names></name><name><surname>Di Matteo</surname><given-names>T</given-names></name></person-group><article-title>Emergence of Gamma distributions in granular materials and
+packing models</article-title><source>Physical Review E</source><volume>77</volume><fpage>021309</fpage><year>2008</year></element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bi</surname><given-names>DP</given-names></name><name><surname>Lopez</surname><given-names>JH</given-names></name><name><surname>Schwarz</surname><given-names>JM</given-names></name><name><surname>Manning</surname><given-names>ML</given-names></name></person-group><article-title>Energy barriers and cell migration in densely packed
+tissues</article-title><source>Soft matter</source><volume>10</volume><fpage>1885</fpage><lpage>1890</lpage><pub-id pub-id-type="doi">10.1039/c3sm52893f</pub-id><year>2014</year><pub-id pub-id-type="pmid">24652538</pub-id></element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bi</surname><given-names>D</given-names></name><name><surname>Lopez</surname><given-names>JH</given-names></name><name><surname>Schwarz</surname><given-names>JM</given-names></name><name><surname>Manning</surname><given-names>ML</given-names></name></person-group><article-title>A density-independent rigidity transition in biological
+tissues</article-title><source>Nat Phys</source><volume>11</volume><fpage>1074</fpage><lpage>1079</lpage><pub-id pub-id-type="doi">10.1038/nphys3471</pub-id><year>2015</year></element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bi</surname><given-names>D</given-names></name><name><surname>Yang</surname><given-names>X</given-names></name><name><surname>Marchetti</surname><given-names>MC</given-names></name><name><surname>Manning</surname><given-names>ML</given-names></name></person-group><article-title>Motility-Driven Glass and Jamming Transitions in Biological
+Tissues</article-title><source>Physical Review X</source><volume>6</volume><fpage>021011</fpage><year>2016</year><pub-id pub-id-type="pmid">28966874</pub-id></element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sussman</surname><given-names>DM</given-names></name><name><surname>Paoluzzi</surname><given-names>M</given-names></name><name><surname>Marchetti</surname><given-names>MC</given-names></name><name><surname>Manning</surname><given-names>ML</given-names></name></person-group><article-title>Anomalous glassy dynamics in simple models of dense biological
+tissue</article-title><comment>arXiv:1712.05758 [cond-mat.soft]</comment><year>2017</year></element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wilk</surname><given-names>G</given-names></name><name><surname>Iwasa</surname><given-names>M</given-names></name><name><surname>Fuller</surname><given-names>PE</given-names></name><name><surname>Kandere-Grzybowska</surname><given-names>K</given-names></name><name><surname>Grzybowski</surname><given-names>BA</given-names></name></person-group><article-title>Universal Area Distributions in the Monolayers of Confluent
+Mammalian Cells</article-title><source>Physical Review Letters</source><volume>112</volume><fpage>138104</fpage><year>2014</year><pub-id pub-id-type="pmid">24745461</pub-id></element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Thompson</surname><given-names>DAW</given-names></name></person-group><source>On Growth and Form</source><fpage>88</fpage><lpage>125</lpage><publisher-name>Cambridge University Press</publisher-name><year>1917</year></element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hales</surname><given-names>T</given-names></name><etal/></person-group><article-title>A formal proof of the Kepler conjecture</article-title><source>Forum of Mathematics, Pi</source><volume>5</volume><fpage>1</fpage><lpage>29</lpage><pub-id pub-id-type="doi">10.1017/fmp.2017.1</pub-id><year>2017</year></element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hales</surname><given-names>CT</given-names></name></person-group><article-title>The Honeycomb Conjecture</article-title><source>Discrete &#x00026; Computational Geometry</source><volume>25</volume><fpage>1</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1007/s004540010071</pub-id><year>2001</year></element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wyatt</surname><given-names>TPJ</given-names></name><etal/></person-group><article-title>Emergence of homeostatic epithelial packing and stress
+dissipation through divisions oriented along the long cell
+axis</article-title><source>Proceedings of the National Academy of Sciences</source><volume>112</volume><fpage>5726</fpage><lpage>5731</lpage><pub-id pub-id-type="doi">10.1073/pnas.1420585112</pub-id><year>2015</year></element-citation></ref><ref id="R33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puliafito</surname><given-names>A</given-names></name><etal/></person-group><article-title>Collective and single cell behavior in epithelial contact
+inhibition</article-title><source>Proc Natl Acad Sci U S A</source><volume>109</volume><fpage>739</fpage><lpage>744</lpage><pub-id pub-id-type="doi">10.1073/pnas.1007809109</pub-id><year>2012</year><pub-id pub-id-type="pmid">22228306</pub-id></element-citation></ref><ref id="R34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brabletz</surname><given-names>T</given-names></name><name><surname>Kalluri</surname><given-names>R</given-names></name><name><surname>Nieto</surname><given-names>MA</given-names></name><name><surname>Weinberg</surname><given-names>RA</given-names></name></person-group><article-title>EMT in cancer</article-title><source>Nature Reviews Cancer</source><volume>18</volume><fpage>128</fpage><lpage>134</lpage><pub-id pub-id-type="doi">10.1038/nrc.2017.118</pub-id><year>2018</year><pub-id pub-id-type="pmid">29326430</pub-id></element-citation></ref><ref id="R35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haeger</surname><given-names>A</given-names></name><name><surname>Krause</surname><given-names>M</given-names></name><name><surname>Wolf</surname><given-names>K</given-names></name><name><surname>Friedl</surname><given-names>P</given-names></name></person-group><article-title>Cell jamming: collective invasion of mesenchymal tumor cells
+imposed by tissue confinement</article-title><source>Biochim Biophys Acta</source><volume>1840</volume><fpage>2386</fpage><lpage>2395</lpage><pub-id pub-id-type="doi">10.1016/j.bbagen.2014.03.020</pub-id><year>2014</year><pub-id pub-id-type="pmid">24721714</pub-id></element-citation></ref><ref id="R36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>JA</given-names></name><name><surname>Fredberg</surname><given-names>JJ</given-names></name><name><surname>Drazen</surname><given-names>JM</given-names></name></person-group><article-title>Putting the Squeeze on Airway Epithelia</article-title><source>Physiology (Bethesda)</source><volume>30</volume><fpage>293</fpage><lpage>303</lpage><pub-id pub-id-type="doi">10.1152/physiol.00004.2015</pub-id><year>2015</year><pub-id pub-id-type="pmid">26136543</pub-id></element-citation></ref><ref id="R37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tschumperlin</surname><given-names>DJ</given-names></name><etal/></person-group><article-title>Mechanotransduction through growth-factor shedding into the
+extracellular space</article-title><source>Nature</source><volume>429</volume><fpage>83</fpage><lpage>86</lpage><year>2004</year><pub-id pub-id-type="pmid">15103386</pub-id></element-citation></ref><ref id="R38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Trepat</surname><given-names>X</given-names></name><etal/></person-group><article-title>Physical forces during collective cell migration</article-title><source>Nature Physics</source><volume>5</volume><fpage>426</fpage><lpage>430</lpage><year>2009</year></element-citation></ref><ref id="R39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Henkes</surname><given-names>S</given-names></name><name><surname>Fily</surname><given-names>Y</given-names></name><name><surname>Marchetti</surname><given-names>M</given-names></name></person-group><article-title>Active jamming: Self-propelled soft particles at high
+density</article-title><source>PHYSICAL REVIEW E</source><volume>84</volume><fpage>040301(R)</fpage><year>2011</year></element-citation></ref><ref id="R40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Angelini</surname><given-names>TE</given-names></name><etal/></person-group><article-title>Glass-like dynamics of collective cell migration</article-title><source>Proc Natl Acad Sci U S A</source><volume>108</volume><fpage>4714</fpage><lpage>4719</lpage><pub-id pub-id-type="doi">10.1073/pnas.1010059108</pub-id><year>2011</year><pub-id pub-id-type="pmid">21321233</pub-id></element-citation></ref><ref id="R41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nnetu</surname><given-names>KD</given-names></name><name><surname>Knorr</surname><given-names>M</given-names></name><name><surname>Kas</surname><given-names>J</given-names></name><name><surname>MZ</surname></name></person-group><article-title>The impact of jamming on boundaries of collectively moving
+weak-interacting cells</article-title><source>New Journal of Physics</source><volume>14</volume><fpage>115012</fpage><year>2012</year></element-citation></ref><ref id="R42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tambe</surname><given-names>DT</given-names></name><etal/></person-group><article-title>Collective cell guidance by cooperative intercellular
+forces</article-title><source>Nature Materials</source><volume>10</volume><fpage>469</fpage><lpage>475</lpage><pub-id pub-id-type="doi">10.1038/nmat3025</pub-id><year>2011</year><pub-id pub-id-type="pmid">21602808</pub-id></element-citation></ref><ref id="R43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Banigan</surname><given-names>EJ</given-names></name><name><surname>Illich</surname><given-names>MK</given-names></name><name><surname>Stace-Naughton</surname><given-names>DJ</given-names></name><name><surname>Egolf</surname><given-names>DA</given-names></name></person-group><article-title>The chaotic dynamics of jamming</article-title><source>Nature Physics</source><volume>9</volume><fpage>288</fpage><lpage>292</lpage><pub-id pub-id-type="doi">10.1038/nphys2593</pub-id><year>2013</year></element-citation></ref><ref id="R44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garrahan</surname><given-names>JP</given-names></name></person-group><article-title>Dynamic heterogeneity comes to life</article-title><source>Proc Natl Acad Sci U S A</source><volume>108</volume><fpage>4701</fpage><lpage>4702</lpage><comment>1101436108 [pii]</comment><pub-id pub-id-type="doi">10.1073/pnas.1101436108</pub-id><year>2011</year></element-citation></ref><ref id="R45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schall</surname><given-names>P</given-names></name><name><surname>Weitz</surname><given-names>DA</given-names></name><name><surname>Spaepen</surname><given-names>F</given-names></name></person-group><article-title>Structural rearrangements that govern flow in colloidal
+glasses</article-title><source>Science</source><volume>318</volume><fpage>1895</fpage><lpage>1899</lpage><year>2007</year><pub-id pub-id-type="pmid">18096800</pub-id></element-citation></ref><ref id="R46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mattsson</surname><given-names>J</given-names></name><etal/></person-group><article-title>Soft colloids make strong glasses</article-title><source>Nature</source><volume>462</volume><fpage>83</fpage><lpage>86</lpage><comment>nature08457 [pii]</comment><pub-id pub-id-type="doi">10.1038/nature08457</pub-id><year>2009</year><pub-id pub-id-type="pmid">19890327</pub-id></element-citation></ref><ref id="R47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Royou</surname><given-names>A</given-names></name><name><surname>Sullivan</surname><given-names>W</given-names></name><name><surname>Karess</surname><given-names>R</given-names></name></person-group><article-title>Cortical recruitment of nonmuscle myosin II in early syncytial
+Drosophila embryos: its role in nuclear axial expansion and its regulation
+by Cdc2 activity</article-title><source>The Journal of cell biology</source><volume>158</volume><fpage>127</fpage><lpage>137</lpage><pub-id pub-id-type="doi">10.1083/jcb.200203148</pub-id><year>2002</year><pub-id pub-id-type="pmid">12105185</pub-id></element-citation></ref><ref id="R48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>AC</given-names></name><name><surname>Gelbart</surname><given-names>M</given-names></name><name><surname>Fernandez-Gonzalez</surname><given-names>R</given-names></name><name><surname>Kaschube</surname><given-names>M</given-names></name><name><surname>Wieschaus</surname><given-names>EF</given-names></name></person-group><article-title>Integration of contractile forces during tissue
+invagination</article-title><source>The Journal of cell biology</source><volume>188</volume><fpage>735</fpage><lpage>749</lpage><pub-id pub-id-type="doi">10.1083/jcb.200910099</pub-id><year>2010</year><pub-id pub-id-type="pmid">20194639</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="F1" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Across non-asthmatic and asthmatic donors of primary human bronchial epithelial
+cells (HBECs), and across all days of maturation, cell shape and shape
+variability <italic>in vitro</italic> are mutually constrained.</p><p>a, The apical actin ring was used to measure projected cell area and cell aspect
+ratio (<italic>AR</italic>; Methods, <xref rid="SD1" ref-type="supplementary-material">Fig. S9&#x02013;11</xref>). With ongoing
+layer maturation, the <italic>AR</italic> of both non-asthmatic and asthmatic
+cells became progressively smaller and less variable (corresponding color maps).
+Scale bar, 50 &#x003bc;m. b, In cells from both non-asthmatic donors
+(n=87,066 cells, blue) and asthmatic donors (n=46,076 cells,
+red), <italic>AR</italic> was highly variable but did not co-vary with projected
+cell area. c, In the mature layer (20 days), the distributions of
+<italic>AR</italic> in both non-asthmatic and asthmatic cells were wide and
+skewed. d, <italic>AR</italic> from all donors and all days of maturation
+defined a clear relationship between the mean of <inline-formula><mml:math id="M26" display="inline" overflow="scroll"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi><mml:mspace width="0.16667em"/><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> and the standard deviation (SD) of
+<italic>AR</italic> (each datum represents a different field of view), with
+non-asthmatic cells (day 6, 10, 14, 20; correspondingly n=13293, 23624,
+20371, 29778) tending to fall at lower values of <inline-formula><mml:math id="M27" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>), and asthmatic
+cells (day 6, 10, 14, 20; correspondingly n=5372, 12629, 10019, 18056)
+tending to fall at larger values. <bold>e,</bold> With increasing days of
+maturation <inline-formula><mml:math id="M28" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) decreased in tandem
+(each datum pools all cells for a given day of maturation), but were
+systematically increased in asthmatic compared with non-asthmatic controls.
+Nevertheless, all observations fell onto the same relationship. <bold>f,</bold>
+To rule out the possibility that this relationship might reflect an idiosyncrasy
+of layer maturation, we studied changes in cell shape and shape variability that
+occur acutely in response to an imposed mechanical perturbation. As demonstrated
+previously, for example, application of an apical-to-basal pressure difference
+(30cmH<sub>2</sub>O) across the porous transwell causes the mature, jammed,
+HBEC layer to unjam<sup><xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R36" ref-type="bibr">36</xref>,<xref rid="R37" ref-type="bibr">37</xref></sup> (<xref rid="SD1" ref-type="supplementary-material">Supplement 2, Video S1</xref>). Whereas maturation caused changes in cell
+shape to track in time from larger <inline-formula><mml:math id="M29" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) to smaller,
+indicative of progressive jamming, mechanical compression caused changes in cell
+shape to track in the opposite direction with time, from smaller <inline-formula><mml:math id="M30" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) to larger (control,
+n=6153; post-compression, n=5659), indicative of unjamming.
+Comparing unjamming <italic>vs.</italic> jamming, these changes with time were
+opposite in sign but tracked up or down a geometric relationship that in both
+instances was the same (cf. <bold>e</bold> and <bold>d</bold>). To complement
+results from HBEC compression, we applied sequential stretches to the mature
+MDCK layer plated on a deformable substrate (6% strain amplitude,
+isotropic in the cell plane, 1s duration, once every 6s for 20 min). Immediately
+after stretch cessation, cell shapes became elongated, but within 60 min these
+changes relaxed back to pre-stretch values (control, n=367;
+post-compression, n=422). These acute changes in cell shape could not be
+accounted for by changes in cell crowding, which were small (<xref rid="SD1" ref-type="supplementary-material">Fig. S2d</xref> for HBEC). As such, the
+geometrical relationship traced by the data
+(<bold>d</bold>,<bold>e</bold>,<bold>f</bold>) is not a specific effect of
+the passage of time, layer maturation, or cell crowding; these factors all
+mattered but no one among them could account for the observed geometric
+relationship. The dark continuous line
+(<bold>d</bold>,<bold>e</bold>,<bold>f</bold>) is not a regression line, but
+rather the prediction given by the computational model of cell-cell interactions
+(<xref rid="SD1" ref-type="supplementary-material">Supplement 6, Fig.
+S12</xref>). The light continuous line in <bold>d</bold> represents a linear
+regression for all data which gives SD(<italic>AR</italic>)=0.808 <inline-formula><mml:math id="M31" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>&#x02212;0.85 (R<sup>2</sup>=0.878).</p></caption><graphic xlink:href="nihms944195f1"/></fig><fig id="F2" orientation="portrait" position="float"><label>Figure 2</label><caption><p>During ventral furrow formation in <italic>Drosophila in-vivo,</italic> cell
+shape and shape variability follow the same geometrical relationship as do HBECs
+<italic>in vitro</italic>.</p><p>a,b, During <italic>Drosophila</italic> ventral furrow formation, a membrane
+marker was used to identify cell-cell boundaries in Wild Type (WT),
+<italic>concertina (cta)</italic> mutant, and <italic>twist</italic> (twi)
+RNAi embryos (n=5, 2 and 3 respectively). Aspect ratio
+(<italic>AR</italic>) was measured for 100&#x02013;150 cells per frame, for
+60&#x02013;100 frames (6&#x02013;8 seconds apart) per embryo. With time (b,
+after 5 minutes) cells constricted and attempted to form the ventral furrow, and
+cell <italic>AR</italic> in all embryos became progressively larger and more
+variable (corresponding color maps). Scale bar, 25 &#x003bc;m. c, Average speed
+in epithelial plane (across all cells) and <inline-formula><mml:math id="M32" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> increased in tandem for WT,
+<italic>cta</italic> mutant and twi-RNAi embryos. The speed is normalized to
+the maximum speed observed in each embryo, typically corresponding with the
+initiation of the fold, and ranging from 3 &#x003bc;m/min in WT to 1.5
+&#x003bc;m/min in <italic>cta</italic> mutant and <italic>twist</italic> (twi)
+RNAi embryos. <bold>d,</bold> With time, <inline-formula><mml:math id="M33" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> and SD(<italic>AR</italic>) increased in tandem
+in WT embryos (<bold>c</bold>, left) and followed the same geometric
+relationship as seen in HBECs <italic>in-vitro</italic> (<xref rid="F1" ref-type="fig">Fig. 1d,e,f</xref>; <xref rid="SD1" ref-type="supplementary-material">Video S2&#x02013;4</xref>).This
+relationship persisted in embryos with genetic variability (<bold>c</bold>,
+center and left) that prevent or hinder the ventral furrow formation, as in
+<italic>cta</italic> mutant and <italic>twist</italic> (twi) RNAi embryos
+respectively. (Each datum represents a frame from an individual embryo). Each
+gray datum represents a different field of view for both asthmatic and
+non-asthmatic HBEC. The dark continuous line is the same as in <xref rid="F1" ref-type="fig">Fig. 1</xref>, and corresponds to the prediction given by the
+computational model (<xref rid="SD1" ref-type="supplementary-material">Supplement 6, Fig. S12</xref>).</p></caption><graphic xlink:href="nihms944195f2"/></fig><fig id="F3" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Within and across vastly different epithelial systems, shape variability
+collapses to a family of probability density functions (PDFs) that is common to
+all, and perhaps universal.</p><p>a, PDFs of <italic>AR</italic> in HBECs (<xref rid="F1" ref-type="fig">Fig.
+1d,e</xref>) became systematically less skewed and less variable with
+maturation. b, PDFs of the rescaled parameter <inline-formula><mml:math id="M34" display="inline" overflow="scroll"><mml:mrow><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>A</mml:mi><mml:mi>R</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> of HBECs, where <inline-formula><mml:math id="M35" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> denotes the mean <italic>AR</italic> for each
+respective distribution, followed a <italic>k</italic>-gamma distribution (<xref rid="FD1" ref-type="disp-formula">Eq.1</xref>) with
+<italic>k</italic>= 1.97. <bold>c,d,</bold> Similar to <bold>a,b</bold>
+respectively for MDCKs with k = 2.31. <bold>e,f,</bold> Similar to
+<bold>a,b</bold> respectively for <italic>Drosophila</italic> (<xref rid="F2" ref-type="fig">Fig. 2d</xref>) with k = 2.52.
+<bold>g,</bold> Predicted distributions for <italic>AR</italic> given by the
+model of Bi <italic>et al</italic>.<sup><xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R26" ref-type="bibr">26</xref></sup> For
+increasing values of the model&#x02019;s input parameter P<sub>0</sub>, the
+inset shows the predicted relationship for <inline-formula><mml:math id="M36" display="inline" overflow="scroll"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>A</mml:mi><mml:mi>R</mml:mi></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> vs. SD(<italic>AR</italic>) (<xref rid="SD1" ref-type="supplementary-material">Supplement 6, Fig. S12</xref>).
+<bold>h,</bold> Collapse of predicted distributions. Black line shows
+maximum likelihood estimation (MLE) fit with k = 2.53.</p></caption><graphic xlink:href="nihms944195f3"/></fig><fig id="F4" orientation="portrait" position="float"><label>Figure 4</label><caption><title>The jamming superfamily</title><p>Each entry denotes a phyical system in which jamming behavior has been reported,
+and is categorized here into four classes. In bold are systems described in this
+report; See also <xref rid="SD1" ref-type="supplementary-material">Fig.
+S4</xref>. The jamming mechanism was first introduced to explain the poorly
+understood behaviors that typify certain collective granular systems.
+Similarities in behavior between such inert granular systems and the migrating
+epithelial layer were quickly recognized however.<sup><xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R38" ref-type="bibr">38</xref>,<xref rid="R39" ref-type="bibr">39</xref></sup> For example, both granular and
+cellular collective systems are close-packed, volume exclusion prevents two
+particles (or cells) from occupying the same space at the same time, and
+particle-particle (cell-cell) interactions are strong. Moreover, just as inert
+granular systems display swirling motions that arise in cooperative
+multi-particle packs and clusters, so too does the migrating epithelial
+layer.<sup><xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R40" ref-type="bibr">40</xref>&#x02013;<xref rid="R44" ref-type="bibr">44</xref></sup> But other physical factors do not fit so easily into
+this analogy. For example, within granular matter the state of internal
+mechanical stress is mainly compressive &#x02013;these are fragile materials in
+the sense that they can support immense compressive stresses but can support no
+tensile stress whatsoever&#x02013; whereas within the confluent cell layer the
+mechanical stress is overwhelming tensile.<sup><xref rid="R42" ref-type="bibr">42</xref></sup> Within granular matter a principal control variable for
+jamming is free space between grains<sup><xref rid="R2" ref-type="bibr">2</xref>,<xref rid="R45" ref-type="bibr">45</xref></sup> whereas in the
+fully confluent cell layer there is by definition no free space between cells.
+Within granular matter neither a change of particle shape nor mutual
+particle-particle adhesion is required for jamming or unjamming &#x02013;
+although either can influence jamming dynamics<sup><xref rid="R46" ref-type="bibr">46</xref></sup>&#x02013; whereas cell shape change and
+cell-cell adhesion are thought to be indispensable features of epithelial
+function and jamming <sup><xref rid="R5" ref-type="bibr">5</xref>,<xref rid="R24" ref-type="bibr">24</xref>&#x02013;<xref rid="R26" ref-type="bibr">26</xref></sup>. And perhaps most importantly, the
+granular particle is neither active nor self-propulsive nor mechanosensitive
+whereas the epithelial cell exhibits all of these characteristics. In this
+report we show that the behavior of these diverse living and inert systems is
+unified to a remarkable extent by consideration of system geometry.</p></caption><graphic xlink:href="nihms944195f4"/></fig></floats-group></article>

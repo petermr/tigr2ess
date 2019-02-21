@@ -1,0 +1,697 @@
+{
+  "id": [
+    "30626384"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30626384"
+  ],
+  "pmcid": [
+    "PMC6325765"
+  ],
+  "doi": [
+    "10.1186/s12934-018-1052-2"
+  ],
+  "title": [
+    "Integration of enzymatic data in Bacillus subtilis genome-scale metabolic model improves phenotype predictions and enables in silico design of poly-γ-glutamic acid production strains."
+  ],
+  "authorString": [
+    "Massaiu I, Pasotti L, Sonnenschein N, Rama E, Cavaletti M, Magni P, Calvio C, Herrgård MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Massaiu I"
+          ],
+          "firstName": [
+            "Ilaria"
+          ],
+          "lastName": [
+            "Massaiu"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Laboratory of Bioinformatics, Mathematical Modelling and Synthetic Biology, Dep. Electrical, Computer and Biomedical Engineering, University of Pavia, Via Ferrata 5, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pasotti L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Pasotti"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratory of Bioinformatics, Mathematical Modelling and Synthetic Biology, Dep. Electrical, Computer and Biomedical Engineering, University of Pavia, Via Ferrata 5, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sonnenschein N"
+          ],
+          "firstName": [
+            "Nikolaus"
+          ],
+          "lastName": [
+            "Sonnenschein"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7581-4936",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800, Kgs. Lyngby, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Rama E"
+          ],
+          "firstName": [
+            "Erlinda"
+          ],
+          "lastName": [
+            "Rama"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Biology and Biotechnology \"Lazzaro Spallanzani\", University of Pavia, Via Ferrata 9, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cavaletti M"
+          ],
+          "firstName": [
+            "Matteo"
+          ],
+          "lastName": [
+            "Cavaletti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biology and Biotechnology \"Lazzaro Spallanzani\", University of Pavia, Via Ferrata 9, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Magni P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Magni"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Laboratory of Bioinformatics, Mathematical Modelling and Synthetic Biology, Dep. Electrical, Computer and Biomedical Engineering, University of Pavia, Via Ferrata 5, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Calvio C"
+          ],
+          "firstName": [
+            "Cinzia"
+          ],
+          "lastName": [
+            "Calvio"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biology and Biotechnology \"Lazzaro Spallanzani\", University of Pavia, Via Ferrata 9, 27100, Pavia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Herrgård MJ"
+          ],
+          "firstName": [
+            "Markus J"
+          ],
+          "lastName": [
+            "Herrgård"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800, Kgs. Lyngby, Denmark. herrgard@biosustain.dtu.dk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7581-4936",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2767056"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial cell factories"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Cell Fact."
+          ],
+          "medlineAbbreviation": [
+            "Microb Cell Fact"
+          ],
+          "NLMid": [
+            "101139812"
+          ],
+          "ISSN": [
+            "1475-2859"
+          ],
+          "ESSN": [
+            "1475-2859"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "BACKGROUND:Genome-scale metabolic models (GEMs) allow predicting metabolic phenotypes from limited data on uptake and secretion fluxes by defining the space of all the feasible solutions and excluding physio-chemically and biologically unfeasible behaviors. The integration of additional biological information in genome-scale models, e.g., transcriptomic or proteomic profiles, has the potential to improve phenotype prediction accuracy. This is particularly important for metabolic engineering applications where more accurate model predictions can translate to more reliable model-based strain design. RESULTS:Here we present a GEM with Enzymatic Constraints using Kinetic and Omics data (GECKO) model of Bacillus subtilis, which uses publicly available proteomic data and enzyme kinetic parameters for central carbon (CC) metabolic reactions to constrain the flux solution space. This model allows more accurate prediction of the flux distribution and growth rate of wild-type and single-gene/operon deletion strains compared to a standard genome-scale metabolic model. The flux prediction error decreased by 43% and 36% for wild-type and mutants respectively. The model additionally increased the number of correctly predicted essential genes in CC pathways by 2.5-fold and significantly decreased flux variability in more than 80% of the reactions with variable flux. Finally, the model was used to find new gene deletion targets to optimize the flux toward the biosynthesis of poly-γ-glutamic acid (γ-PGA) polymer in engineered B. subtilis. We implemented the single-reaction deletion targets identified by the model experimentally and showed that the new strains have a twofold higher γ-PGA concentration and production rate compared to the ancestral strain. CONCLUSIONS:This work confirms that integration of enzyme constraints is a powerful tool to improve existing genome-scale models, and demonstrates the successful use of enzyme-constrained models in B. subtilis metabolic engineering. We expect that the new model can be used to guide future metabolic engineering efforts in the important industrial production host B. subtilis."
+  ],
+  "affiliation": [
+    "Laboratory of Bioinformatics, Mathematical Modelling and Synthetic Biology, Dep. Electrical, Computer and Biomedical Engineering, University of Pavia, Via Ferrata 5, 27100, Pavia, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2015-0397"
+          ],
+          "agency": [
+            "Fondazione Cariplo"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "686070"
+          ],
+          "agency": [
+            "Horizon 2020"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2015-0400"
+          ],
+          "agency": [
+            "Fondazione Cariplo"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacillus subtilis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbon"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Enzymes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polyglutamic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrophoresis, Polyacrylamide Gel"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bioreactors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Deletion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kinetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolic Engineering"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacillus subtilis",
+        "Poly-γ-glutamic Acid",
+        "Genome-scale Metabolic Model",
+        "Constraint-based Methods",
+        "Enzymatic Data"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Enzymes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Carbon"
+          ],
+          "registryNumber": [
+            "7440-44-0"
+          ]
+        },
+        {
+          "name": [
+            "Polyglutamic Acid"
+          ],
+          "registryNumber": [
+            "25513-46-6"
+          ]
+        },
+        {
+          "name": [
+            "poly(gamma-glutamic acid)"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325765?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325765"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12934-018-1052-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-01"
+  ],
+  "dateOfCreation": [
+    "2019-01-11"
+  ],
+  "dateOfRevision": [
+    "2019-02-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

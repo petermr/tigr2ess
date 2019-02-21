@@ -1,0 +1,568 @@
+{
+  "id": [
+    "29891814"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29891814"
+  ],
+  "pmcid": [
+    "PMC6021985"
+  ],
+  "doi": [
+    "10.3390/s18061901"
+  ],
+  "title": [
+    "Partial Least Square Discriminant Analysis Based on Normalized Two-Stage Vegetation Indices for Mapping Damage from Rice Diseases Using PlanetScope Datasets."
+  ],
+  "authorString": [
+    "Shi Y, Huang W, Ye H, Ruan C, Xing N, Geng Y, Dong Y, Peng D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8424-6996",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. shiyue@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Wenjiang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1710-8301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. huangwj@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye H"
+          ],
+          "firstName": [
+            "Huichun"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. yehc@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruan C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Ruan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. m17611337552@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing N"
+          ],
+          "firstName": [
+            "Naichen"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. xingnc@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Geng Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Geng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. gengyun@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong Y"
+          ],
+          "firstName": [
+            "Yingying"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. dongyy@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng D"
+          ],
+          "firstName": [
+            "Dailiang"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. pengdl@radi.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1710-8301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8424-6996",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2690826"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "In recent decades, rice disease co-epidemics have caused tremendous damage to crop production in both China and Southeast Asia. A variety of remote sensing based approaches have been developed and applied to map diseases distribution using coarse- to moderate-resolution imagery. However, the detection and discrimination of various disease species infecting rice were seldom assessed using high spatial resolution data. The aims of this study were (1) to develop a set of normalized two-stage vegetation indices (VIs) for characterizing the progressive development of different diseases with rice; (2) to explore the performance of combined normalized two-stage VIs in partial least square discriminant analysis (PLS-DA); and (3) to map and evaluate the damage caused by rice diseases at fine spatial scales, for the first time using bi-temporal, high spatial resolution imagery from PlanetScope datasets at a 3 m spatial resolution. Our findings suggest that the primary biophysical parameters caused by different disease (e.g., changes in leaf area, pigment contents, or canopy morphology) can be captured using combined normalized two-stage VIs. PLS-DA was able to classify rice diseases at a sub-field scale, with an overall accuracy of 75.62% and a Kappa value of 0.47. The approach was successfully applied during a typical co-epidemic outbreak of rice dwarf (Rice dwarf virus, RDV), rice blast (Magnaporthe oryzae), and glume blight (Phyllosticta glumarum) in Guangxi Province, China. Furthermore, our approach highlighted the feasibility of the method in capturing heterogeneous disease patterns at fine spatial scales over the large spatial extents."
+  ],
+  "affiliation": [
+    "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Science, Beijing 100094, China. shiyue@radi.ac.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AH"
+                  ],
+                  "qualifierName": [
+                    "anatomy & histology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Discriminant Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Least-Squares Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Remote Sensing Technology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Satellite Imagery"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice blast",
+        "Feature extraction",
+        "High Spatial Resolution",
+        "Damage Mapping",
+        "Planetscope",
+        "Glume Blight",
+        "Rice Dwarf"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6021985?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6021985"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18061901"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-09"
+  ],
+  "dateOfCreation": [
+    "2018-06-13"
+  ],
+  "dateOfRevision": [
+    "2018-10-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-11"
+  ],
+  "firstPublicationDate": [
+    "2018-06-11"
+  ]
+}

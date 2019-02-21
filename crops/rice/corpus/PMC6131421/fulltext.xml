@@ -1,0 +1,606 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6131421</article-id><article-id pub-id-type="doi">10.1111/pbi.12905</article-id><article-id pub-id-type="publisher-id">PBI12905</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Engineering rice with lower grain arsenic</article-title><alt-title alt-title-type="left-running-head"><italic>Fenglin Deng</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12905-cr-0001" contrib-type="author"><name><surname>Deng</surname><given-names>Fenglin</given-names></name><xref ref-type="aff" rid="pbi12905-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12905-cr-0002" contrib-type="author"><name><surname>Yamaji</surname><given-names>Naoki</given-names></name><xref ref-type="aff" rid="pbi12905-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12905-cr-0003" contrib-type="author"><name><surname>Ma</surname><given-names>Jian Feng</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3411-827X</contrib-id><xref ref-type="aff" rid="pbi12905-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12905-cr-0004" contrib-type="author"><name><surname>Lee</surname><given-names>Sang&#x02010;Kyu</given-names></name><xref ref-type="aff" rid="pbi12905-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12905-cr-0005" contrib-type="author"><name><surname>Jeon</surname><given-names>Jong&#x02010;Seong</given-names></name><xref ref-type="aff" rid="pbi12905-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12905-cr-0006" contrib-type="author"><name><surname>Martinoia</surname><given-names>Enrico</given-names></name><xref ref-type="aff" rid="pbi12905-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12905-cr-0007" contrib-type="author" corresp="yes"><name><surname>Lee</surname><given-names>Youngsook</given-names></name><address><email>ylee@postech.ac.kr</email></address><xref ref-type="aff" rid="pbi12905-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12905-cr-0008" contrib-type="author" corresp="yes"><name><surname>Song</surname><given-names>Won&#x02010;Yong</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9872-5071</contrib-id><address><email>songwy@postech.ac.kr</email></address><xref ref-type="aff" rid="pbi12905-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12905-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Integrative Bioscience and Biotechnology</named-content>
+<institution>Pohang University of Science and Technology</institution>
+<named-content content-type="city">Pohang</named-content>
+<country country="KP">Korea</country>
+</aff><aff id="pbi12905-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Plant Science and Resources</named-content>
+<institution>Okayama University</institution>
+<named-content content-type="city">Kurashiki</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="pbi12905-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Graduate School of Biotechnology &#x00026; Crop Biotech Institute</named-content>
+<institution>Kyung Hee University</institution>
+<named-content content-type="city">Yongin</named-content>
+<country country="KP">Korea</country>
+</aff><aff id="pbi12905-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Institute of Plant Biology</named-content>
+<institution>University Zurich</institution>
+<named-content content-type="city">Zurich</named-content>
+<country country="CH">Switzerland</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +82&#x02010;54 279 2296; fax +82&#x02010;54 279 2199; email <email>ylee@postech.ac.kr</email> and Tel +82&#x02010;54 279 8373; fax +82&#x02010;54 279 2199; email <email>songwy@postech.ac.kr</email></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2018</year></pub-date><volume>16</volume><issue>10</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-10</issue-id><fpage>1691</fpage><lpage>1699</lpage><history><date date-type="received"><day>23</day><month>6</month><year>2017</year></date><date date-type="rev-recd"><day>19</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-1691.pdf"/><abstract id="pbi12905-abs-0001"><title>Summary</title><p>Arsenic (As) is a poisonous element that causes severe skin lesions and cancer in humans. Rice (<italic>Oryza sativa</italic> L.) is a major dietary source of As in humans who consume this cereal as a staple food. We hypothesized that increasing As vacuolar sequestration would inhibit its translocation into the grain and reduce the amount of As entering the food chain. We developed transgenic rice plants expressing two different vacuolar As sequestration genes, <italic>Sc<styled-content style="fixed-case">YCF</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">ABCC</styled-content>1</italic>, under the control of the <styled-content style="fixed-case">RC</styled-content>c3 promoter in the root cortical and internode phloem cells, along with a bacterial &#x003b3;&#x02010;glutamylcysteine synthetase driven by the maize <styled-content style="fixed-case">UBI</styled-content> promoter. The transgenic rice plants exhibited reduced root&#x02010;to&#x02010;shoot and internode&#x02010;to&#x02010;grain As translocation, resulting in a 70% reduction in As accumulation in the brown rice without jeopardizing agronomic traits. This technology could be used to reduce As intake, particularly in populations of South East Asia suffering from As toxicity and thereby improve human health.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12905-kwd-0001">rice</kwd><kwd id="pbi12905-kwd-0002">arsenic</kwd><kwd id="pbi12905-kwd-0003">vacuolar sequestration</kwd><kwd id="pbi12905-kwd-0004"><styled-content style="fixed-case">ABC</styled-content> transporter</kwd></kwd-group><funding-group><award-group><funding-source>Ministry of Education, Korea</funding-source><award-id>BK21 PLUS</award-id><award-id>10Z20130012243</award-id></award-group><award-group><funding-source>Next Generation BioGreen 21 program from Rural Development Administration, Korea</funding-source><award-id>PJ011926</award-id></award-group><award-group><funding-source>JSPS KAKENHI</funding-source><award-id>16H06296</award-id></award-group><award-group><funding-source>NRF Korean government (MSIP)</funding-source><award-id>NRF&#x02010;2015R1A2A1A01004294</award-id><award-id>NRF&#x02010;2016R1A2B4012478</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="9"/><word-count count="7571"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12905</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:11.09.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12905-sec-0001"><title>Introduction</title><p>The US Agency for Toxic Substances and Disease Registry (ATSDR) ranked arsenic (As) top among hazardous substances in their 2015 Priority List (<ext-link ext-link-type="uri" xlink:href="http://www.atsdr.cdc.gov/spl">http://www.atsdr.cdc.gov/spl</ext-link>). As is widely dispersed around the world; in addition to being a natural component of Earth's lithosphere, As is released into the environment through anthropogenic pollution (Bowell <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0004" ref-type="ref">2014</xref>). Rice (<italic>Oryza sativa</italic> L.) is a major contributor to inorganic As intake for the global population, especially for Asians, who consume rice as a staple food (Meharg, <xref rid="pbi12905-bib-0016" ref-type="ref">2004</xref>; Meharg <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0017" ref-type="ref">2009</xref>; Schoof <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0023" ref-type="ref">1999</xref>; Williams <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0034" ref-type="ref">2007</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0039" ref-type="ref">2010</xref>). Rice cultivated in paddy fields accumulates arsenite and arsenate in its grain through the same uptake and translocation pathways used to acquire silicon and phosphate, respectively. As silicon and phosphate are essential macroelements for rice (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0013" ref-type="ref">2016</xref>; Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0015" ref-type="ref">2008</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0039" ref-type="ref">2010</xref>). Efforts to reduce As intake cannot be based on blocking these pathways but should rather focus on removing As from the environment, including agricultural fields, or reducing As accumulation in the edible parts of the plant (i.e. grain). Removing As from the environment to an extent that would benefit human health is not feasible, because As is widespread and large tracts of agricultural land are contaminated with As (Bowell <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0004" ref-type="ref">2014</xref>). Several strategies have been proposed to reduce As accumulation in rice grains, including breeding rice cultivars with low As accumulation, applying silicon fertilizers to limit arsenite uptake and reducing As levels in paddy soil by water management (Arao <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0002" ref-type="ref">2009</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0030" ref-type="ref">2014</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0032" ref-type="ref">2016a</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0039" ref-type="ref">2010</xref>). However, these strategies have limitations. The application of Si fertilizer reduced grain As content by only 20% (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0032" ref-type="ref">2016a</xref>). In addition, water management for aerobic cultivation caused cadmium accumulation in rice grain and reduced rice yield (Arao <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0002" ref-type="ref">2009</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0030" ref-type="ref">2014</xref>). Therefore, developing crops with reduced As levels in their edible parts is the most plausible strategy for decreasing human As intake.</p><p>Many studies have reported the mechanisms and genes involved in As uptake, translocation, accumulation and resistance (Punshon <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0021" ref-type="ref">2017</xref>; Shi <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0024" ref-type="ref">2016</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0033" ref-type="ref">2016b</xref>; Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0036" ref-type="ref">2017</xref>; Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0037" ref-type="ref">2016</xref>), but few have examined how rice plants reduce the As content in their grain (Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0015" ref-type="ref">2008</xref>; Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>). For example, loss&#x02010;of&#x02010;function rice plants lacking the arsenic efflux transporter Lsi2 showed a reduced As content in the grain (51%&#x02013;63% that of the wild type (WT)) but also a reduced grain yield (only 40% that of the WT; Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0014" ref-type="ref">2007</xref>, <xref rid="pbi12905-bib-0015" ref-type="ref">2008</xref>). An alternative approach is therefore needed to decrease the As contents of the grain without impairing rice yield.</p><p>Vacuolar sequestration has been suggested as a crucial mechanism for the resistance, accumulation and differential distribution of toxic metal(loid)s in plants. The expression of <italic>Saccharomyces cerevisiae yeast cadmium factor</italic> (<italic>ScYCF1</italic>), a vacuolar glutathione&#x02010;heavy metal(loid) conjugate, enhanced cadmium (Cd) and lead (Pb) resistance and accumulation in <italic>Saccharomyces cerevisiae</italic> and in plants (Shim <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0025" ref-type="ref">2013</xref>; Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0026" ref-type="ref">2003</xref>). In addition, <italic>ScYCF1</italic> was found to transport bis&#x02010;glutathione&#x02010;As and contribute to As detoxification in yeast (Ghosh <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0007" ref-type="ref">1999</xref>). By contrast, a double knockout mutant lacking the two vacuolar ABC transporters that constitute the major phytochelatin&#x02010;arsenic complex transporters in Arabidopsis, <italic>AtABCC1</italic> and <italic>AtABCC2</italic>, exhibited a strong As hypersensitive phenotype (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0027" ref-type="ref">2010</xref>). <italic>OsABCC1,</italic> the closest homologue of AtABCC1 and AtABCC2, was found to be important for reducing the As concentration in rice (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>); the grains of the <italic>osabcc1</italic> knockout lines accumulated 10 times more As than the WT. OsABCC1 is mainly located in the vacuolar membrane of the nodal phloem companion cells. Together, these results indicated that <italic>OsABCC1</italic>, expressed in specific cells of the nodes, sequesters As into the vacuole, blocking As translocation to the grains (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>). Overexpression of <italic>heavy metal ATPase</italic> (<italic>HMA3</italic>), a heavy metal ATPase regulating Cd sequestration into the vacuole, reduced Cd translocation to the rice shoot, including the grains (Ueno <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0031" ref-type="ref">2010</xref>).</p><p>In this study, we developed transgenic rice exhibiting reduced As concentration in grain with the strategy of vacuolar As sequestration into cortex and phloem cells of root and internode to inhibit As translocation into grains.</p></sec><sec id="pbi12905-sec-0002"><title>Results and discussion</title><sec id="pbi12905-sec-0003"><title>Development of transgenic rice with <italic>OsABCC1</italic>, &#x003b3;<italic>&#x02010;ECS</italic> and <italic>ScYCF1</italic>
+</title><p>To reduce As accumulation in rice grains, we developed transgenic rice expressing two different vacuolar As sequestration genes, <italic>ScYCF1</italic> and <italic>OsABCC1</italic>. These genes were expressed concomitantly with a bacterial &#x003b3;&#x02010;glutamylcysteine synthetase (&#x003b3;<italic>&#x02010;ECS</italic>), a key enzyme in glutathione synthesis, to increase the nonprotein thiol (glutathione and phytochelatin) concentration in the cytosol (Ghosh <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0007" ref-type="ref">1999</xref>; Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>; Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0040" ref-type="ref">1999</xref>). We produced rice lines expressing either V5 tag fused <italic>OsABCC1</italic> alone (<italic>OsABCC1&#x02010;V5,</italic> A for short in constructs), <italic>OsABCC1&#x02010;V5</italic> together with &#x003b3;<italic>&#x02010;ECS</italic> (AE) or <italic>OsABCC1&#x02010;V5</italic>, &#x003b3;<italic>&#x02010;ECS</italic> and <italic>ScYCF1</italic> (AEY). <italic>OsABCC1</italic> and <italic>ScYCF1</italic> were driven by the rice <italic>root&#x02010;specific cDNA clone3</italic> (<italic>RCc3</italic>) promoter for root cortical cell&#x02010;, internode&#x02010; and node&#x02010;specific promoter expression (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0035" ref-type="ref">1995</xref>; Figures <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S1</xref> and <xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>a), and &#x003b3;<italic>&#x02010;ECS</italic> was constitutively expressed under the <italic>Zea mays ubiquitin</italic> (<italic>ZmUBI</italic>) promoter, a ubiquitous promoter (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S2</xref>). The corresponding constructs were named RCc3p&#x02010;A (<italic>RCc3</italic> promoter::<italic>OsABCC1&#x02010;V5</italic>), RCc3p&#x02010;AE (<italic>RCc3</italic> promoter::<italic>OsABCC1&#x02010;V5</italic>,<italic> ZmUBI</italic> promoter::&#x003b3;<italic>&#x02010;ECS</italic>) and RCc3p&#x02010;AEY (<italic>RCc3</italic> promoter::<italic>OsABCC1&#x02010;V5</italic>,<italic> ZmUBI</italic> promoter::&#x003b3;<italic>&#x02010;ECS</italic>,<italic> RCc3</italic> promoter::<italic>ScYCF1</italic>) (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>b). In addition, to determine whether the cell&#x02010;specific expression of vacuolar As transporters in the root cortex or the phloem of the node and internode is critical for reducing As accumulation in grains, we prepared the following control transgenic plants expressing <italic>OsABCC1</italic> and <italic>ScYCF1</italic> using a <italic>ZmUBI</italic> promoter: UBIp&#x02010;A (<italic>ZmUBI</italic> promoter::<italic>OsABCC1&#x02010;V5</italic>), UBIp&#x02010;AE <italic>(ZmUBI</italic> promoter::<italic>OsABCC1&#x02010;V5</italic>,<italic> OsActin2</italic> promoter::&#x003b3;<italic>&#x02010;ECS</italic>) and UBIp&#x02010;AEY (<italic>ZmUBI</italic> promoter::<italic>OsABCC1&#x02010;V5</italic>,<italic> OsActin2</italic> promoter::&#x003b3;<italic>&#x02010;ECS</italic>,<italic> ZmUBI</italic> promoter::<italic>ScYCF1</italic>) (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S4</xref>a). We first confirmed that all the expression cassettes were successfully inserted into the rice genome and expressed in the transgenic plants (Figures <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S3</xref>a, b, c and <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S4</xref>b, c). We also confirmed that OsABCC1&#x02010;V5 protein was produced in the RCc3p&#x02010;AEY and UBIp&#x02010;AEY lines (Figures <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S3</xref>d and <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S4</xref>d) and that the fused protein was successfully targeted to the vacuolar membrane of the roots of the RCc3p&#x02010;AEY plants (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="pbi12905-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Development of transgenic rice with reduced As accumulation in the grains using tissue&#x02010;specific expression of <italic>Os<styled-content style="fixed-case">ABCC</styled-content>1</italic>, &#x003b3;<italic>&#x02010;<styled-content style="fixed-case">ECS</styled-content></italic> and <italic>Sc<styled-content style="fixed-case">YCF</styled-content>1</italic>. (a) Analysis of the tissue&#x02010;specific expression of the <italic>Os<styled-content style="fixed-case">RC</styled-content>c3</italic> promoter by immunostaining <italic>Os<styled-content style="fixed-case">RC</styled-content>c3</italic> promoter::<styled-content style="fixed-case">GUS</styled-content> transgenic plants (<italic><styled-content style="fixed-case">RC</styled-content>c3p::<styled-content style="fixed-case">GUS</styled-content></italic>) using a <styled-content style="fixed-case">GUS</styled-content> antibody. The internode section denoted by broken lines is magnified in the inset surrounded by yellow solid lines. Bar&#x000a0;=&#x000a0;100&#x000a0;&#x003bc;m. (b) Maps of vectors carrying <italic><styled-content style="fixed-case">RC</styled-content>c3</italic>p&#x02010;A (<italic><styled-content style="fixed-case">RC</styled-content>c3</italic> pro::<italic>Os<styled-content style="fixed-case">ABCC</styled-content>1&#x02010;V5</italic>), <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AE</styled-content> (<italic><styled-content style="fixed-case">RC</styled-content>c3</italic> pro::<italic>Os<styled-content style="fixed-case">ABCC</styled-content>1&#x02010;V5, Zm<styled-content style="fixed-case">UBI</styled-content></italic> pro::&#x003b3;<italic>&#x02010;<styled-content style="fixed-case">ECS</styled-content></italic>) or <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> (<italic><styled-content style="fixed-case">RC</styled-content>c3</italic> pro::<italic>Os<styled-content style="fixed-case">ABCC</styled-content>1&#x02010;V5, Zm<styled-content style="fixed-case">UBI</styled-content></italic> pro::&#x003b3;<italic>&#x02010;<styled-content style="fixed-case">ECS</styled-content>,<styled-content style="fixed-case"> RC</styled-content>c3</italic> pro::<italic>Sc<styled-content style="fixed-case">YCF</styled-content>1</italic>). (c) Subcellular localization of Os<styled-content style="fixed-case">ABCC</styled-content>1&#x02010;V5 in the roots of <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> plants using a sucrose density gradient analysis. Anti&#x02010;V5, anti&#x02010;Os<styled-content style="fixed-case">ABCC</styled-content>1, anti&#x02010;V&#x02010;<styled-content style="fixed-case">ATP</styled-content>ase (tonoplast marker), anti&#x02010;H<sup>+</sup>&#x02010;<styled-content style="fixed-case">ATP</styled-content>ase (plasma membrane marker) and Bip (<styled-content style="fixed-case">ER</styled-content> marker) were used to assess protein abundance in the different compartments. The signal of Os<styled-content style="fixed-case">ABCC</styled-content>1&#x02010;V5 corresponded to the signals of Os<styled-content style="fixed-case">ABCC</styled-content>1 and V&#x02010;<styled-content style="fixed-case">ATP</styled-content>ase. (d) Arsenic accumulation in brown rice harvested from T3 transgenic plants transformed with <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;A, <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AE</styled-content>,<styled-content style="fixed-case"> RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content>,<styled-content style="fixed-case"> UBI</styled-content>p&#x02010;A, <styled-content style="fixed-case">UBI</styled-content>p&#x02010;<styled-content style="fixed-case">AE</styled-content> or <styled-content style="fixed-case">UBI</styled-content>p&#x02010;<styled-content style="fixed-case">AEY</styled-content>. The As concentration was analysed in brown rice from plants grown in soil with a typical basal level of As. The values are means and standard errors (<italic>n</italic>&#x000a0;=&#x000a0;5 plants). Different letters indicate significantly different means (Tukey's multiple comparison analysis, <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.05).</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-1691-g001"/></fig></sec><sec id="pbi12905-sec-0004"><title>Reduced As accumulation in grains from transgenic rice plants expressing <italic>OsABCC1</italic> and <italic>ScYCF1</italic> under the <italic>RCc3</italic> promoter</title><p>As concentrations in brown rice were analysed from T3 transgenic rice plants cultivated in normal soil with a typical basal level of As (2.8&#x000a0;&#x000b1;&#x000a0;0.5&#x000a0;mg/kg dried soil; below the acceptable soil As limits in Korea (25&#x000a0;mg/kg)). As accumulation was reduced in the transgenic lines, including RCc3p&#x02010;A, RCc3p&#x02010;AE and RCc3p&#x02010;AEY. In particular, the brown rice of all RCc3p&#x02010;AEY transgenic plants accumulated just 30% of the As levels in WT brown rice (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>d), and As concentrations in the flag leaves of the transgenic lines were highly decreased (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S5</xref>c). In contrast to the transgenic plants expressing vacuolar As transporters driven by the <italic>RCc3</italic> promoter, all single, double and triple overexpressors of <italic>OsABCC1</italic>, &#x003b3;<italic>&#x02010;ECS</italic> and <italic>ScYCF1</italic> driven by the ubiquitous promoters <italic>ZmUBIp</italic> and <italic>Actin2p</italic> had increased or similar levels of As in their brown rice as the WT (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>d). These results indicate that the tissue&#x02010;specific expression of the vacuolar transporters had a greater impact on reduced As levels than did their total expression levels. Interestingly, the Cd concentrations in the grains and flag leaves of RCc3p&#x02010;AEY were comparable between the WT and transgenic lines (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S5</xref>a, b).</p></sec><sec id="pbi12905-sec-0005"><title>Reduced As translocation from root to the grains in RCc3p&#x02010;AEY plants</title><p>All lines exhibited reduced As accumulation in grains and flag leaves compared to the WT and transgenic plants harbouring the UBI&#x02010;driven constructs, UBIp&#x02010;A, UBIp&#x02010;AE and UBIp&#x02010;AEY (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>d and Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S5</xref>c). We randomly selected 3&#x02013;8 transgenic lines to further investigate the mechanisms of As reduction in the brown rice of the RCc3p&#x02010;AEY lines. First, we analysed As accumulation in roots and shoots from 4&#x02010;week&#x02010;old plants treated with 1&#x000a0;&#x003bc;<sc>m</sc> As(III) for 5 days. The As levels in the roots and shoots of the transgenic rice plants expressing <italic>OsABCC1</italic>, &#x003b3;<italic>&#x02010;ECS</italic> and <italic>ScYCF1</italic> under the ubiquitous promoters did not differ from those of the WT (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S6</xref>a, b), consistent with the unaffected As levels in the grains (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>d). By contrast, all the RCc3p&#x02010;AE (2 lines) and RCc3p&#x02010;AEY (2 lines) transgenic plants consistently exhibited different As levels compared to the WT. All of these lines accumulated more than twofold higher As in their roots, but exhibited strongly reduced As levels in their shoots compared to the WT (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S6</xref>a, b), indicating that the RCc3p&#x02010;AEY plants had reduced root&#x02010;to&#x02010;shoot As translocation (Figure&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>a). We then compared the As distribution in various tissues of RCc3p&#x02010;9 transgenic and WT plants at the grain&#x02010;filling and vegetative stages. During the grain&#x02010;filling stage, the RCc3p&#x02010;AEY transgenic plants accumulated 10 times more As in the root than the WT, although the levels of As in the basal tissues of the shoot, such as the basal nodes, internodes and nodes II and III, were similar to those of the WT (Figure&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>b). Less As was accumulated in the upper parts of the shoot of these transgenic plants than in the WT, including at node I, the leaves, internode I, the rachis and the&#x000a0;brown rice (Figure&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>b). To determine whether this was indeed the cause of the As retention in the roots of RCc3p&#x02010;AEY plants, we analysed the As concentrations in the xylem sap of rice seedlings treated with As (III) for four hours. Consistent with their As distribution, the xylem sap of the RCc3p&#x02010;AEY lines had a lower As concentration than the WT (Figure&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>c). However, when treated with organic arsenic dimethylarsinic acid (DMA), the roots and shoots of RCc3p&#x02010;AEY transgenic plants had similar As accumulation compared to the WT, demonstrating the substrate specificity of ScYCF1 and OsABCC1 for with As (III) (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S7</xref>a, b). To verify that DMA is not a major substrate of OsABCC1 and ScYCF1, we performed DMA sensitivity tests using yeast of different genotypes of OsABCC1 and ScYCF1. There is no difference in DMA sensitivity between the <italic>ycf1</italic> null mutant and its isogenic wild type, or between SM7 expressing OsABCC1 and SM7 transformed with empty vector (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S7</xref>c). These results strongly suggest that the two transporters do not recognize DMA as their substrate and that the vacuolar compartmentalization of As in roots inhibits inorganic As translocation to the shoot (Figure&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>a, b, c). There was no observable difference in Cd concentration and root&#x02010;to&#x02010;shoot translocation in any of the transgenic plants tested in this study (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S7</xref>d, e, f).</p><fig fig-type="Figure" xml:lang="en" id="pbi12905-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Reduced As translocation into the grains of <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> plants. (a) Shoot to root As ratio. As contents were measured in the roots and shoots of 4&#x02010;week&#x02010;old plants treated with 1&#x000a0;&#x003bc;<sc>m</sc> As(<styled-content style="fixed-case">III</styled-content>) for five days, and their shoot to root As ratio was analysed (<italic>n</italic>&#x000a0;=&#x000a0;8 plants). (b) As concentrations of various tissues from four&#x02010;month&#x02010;old mature rice plants treated with 1&#x000a0;&#x003bc;<sc>m</sc> As(<styled-content style="fixed-case">III</styled-content>) for 10 days. All values are means with corresponding standard errors (<italic>n</italic>&#x000a0;=&#x000a0;5 plants). *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.01 (Student's <italic>t</italic>&#x02010;test). (c) As concentration in xylem sap from 4&#x02010;week&#x02010;old plants treated with 5&#x000a0;&#x003bc;<sc>m</sc> As(<styled-content style="fixed-case">III</styled-content>) for 4&#x000a0;h (<italic>n</italic>&#x000a0;=&#x000a0;8 plants). (d) As distribution in different root layers of <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> plants. As concentrations were measured in successive layers of root samples. The As concentrations were normalized by total protein content and expressed as the ratios of concentrations in <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> compared with that in <styled-content style="fixed-case">WT</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;4 batches of 300 roots). (e) Expression pattern of the epidermis marker gene <italic>Os<styled-content style="fixed-case">ZIP</styled-content>1</italic> in the successive layers of root samples analysed in d (<italic>n</italic>&#x000a0;=&#x000a0;s4 batches of 300 roots). The result indicates that the first root cell layer corresponds to the epidermis, the second is a mixture of the epidermis and cortex, the third and fourth are derived from the cortex, and the fifth layer is vascular tissue. (f) Accumulation of thiols in roots of 3&#x02010;week&#x02010;old plants treated with 1&#x000a0;&#x003bc;<sc>m</sc> As(<styled-content style="fixed-case">III</styled-content>) for 3&#x000a0;h. The thiol signals were obtained by staining with 15&#x000a0;&#x003bc;<sc>m</sc> monobromobimane for 30&#x000a0;min. The red fluorescence indicates the cell wall stained with 20&#x000a0;&#x003bc;<sc>m</sc> propidium iodide. The values are means and standard errors. In b, c, d and e, the different letters indicate significantly different means (Tukey's multiple comparison analysis, <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.05).</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-1691-g002"/></fig><p>An immunohistochemistry analysis of the roots of the <italic>RCc3p::GUS</italic> plants revealed that the <italic>RCc3</italic> promoter mediated high expression of the gene construct in the cortical cell layer of the root, which constitutes most of the rice root volume, and the endodermis, where Lsi2 mediates the efflux of As and promotes its loading into the xylem (Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0015" ref-type="ref">2008</xref>) (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>a). To determine whether As is specifically compartmentalized in the root cortical cells of RCc3p&#x02010;AEY, we performed several different assays. First, we compared the As concentrations in two root zones, one with live cortical cells (0&#x02013;3&#x000a0;mm from the tip) and the other with aerenchyma (3&#x02013;8&#x000a0;mm). Only the root segments of the RCc3p&#x02010;AEY plants containing live cortical cells accumulated more As than the WT (Figure&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S8</xref>a). Furthermore, the highest As concentrations were found in the RCc3p&#x02010;AEY root samples enriched with cortical layers, prepared using the stepwise grinding method described by Song <italic>et&#x000a0;al</italic>. (<xref rid="pbi12905-bib-0028" ref-type="ref">2011</xref>) (Figure&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>d, e). In addition, thiols, which are the major chelators of As and colocalize with As (Moore <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0018" ref-type="ref">2011</xref>; Raab <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0022" ref-type="ref">2004</xref>), were found to accumulate to high levels in the vacuoles of the root cortex cells in the elongation zone (2&#x02013;3&#x000a0;mm from the root tip) of the RCc3p&#x02010;AEY plants, but not in the WT (Figures&#x000a0;<xref rid="pbi12905-fig-0002" ref-type="fig">2</xref>f, <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S8</xref>b). These results suggest that the vacuolar As compartmentalization in the root cortex, mediated by <italic>OsABCC1</italic> and <italic>ScYCF1</italic> concomitantly with &#x003b3;<italic>&#x02010;ECS</italic>, was the major contributing factor to the reduced As translocation to the shoot and grains of the RCc3p&#x02010;AEY rice plants.</p></sec><sec id="pbi12905-sec-0006"><title>Reduced As translocation from internode II to the grain of RCc3p&#x02010;AEY plants</title><p>The node is the most important tissue for As redistribution and transfer into the rice grain (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0005" ref-type="ref">2015</xref>; Moore <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0019" ref-type="ref">2014</xref>; Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>). A defect in vacuolar As sequestration in phloem companion cells of node I was previously demonstrated to cause a 10&#x02010;fold increase in the As accumulation of rice grains (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>). Our immunohistochemistry results (Figure&#x000a0;<xref rid="pbi12905-fig-0001" ref-type="fig">1</xref>a) suggest that the two As transporters introduced into the transgenic rice might also function in the phloem cells of the node and internode. To determine whether the OsABCC1 and YCF1 vacuolar As transporters decreased the translocation of As to the grains from the nodes or the internodes in the RCc3p&#x02010;AEY transgenic plants, we performed As feeding assays using stems from upper internode II at the milk stage of grain filling. The RCc3p&#x02010;AEY transgenic lines exhibited a highly reduced As concentration in the leaf, flag leaf and grain (Figures&#x000a0;<xref rid="pbi12905-fig-0003" ref-type="fig">3</xref>a, <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S9</xref>a), and accumulated more As than the WT in internode II, which was directly exposed to the As(III) solution (Figure&#x000a0;<xref rid="pbi12905-fig-0003" ref-type="fig">3</xref>a); however, the As distribution was similar in the nodes of both the RCc3p&#x02010;AEY and WT lines. These results suggest that As compartmentalization in the nodes of the RCc3p&#x02010;AEY plants might not have contributed much to the inhibition of As translocation to the leaves and grains. Endogenous <italic>OsABCC1</italic> is likely already expressed in these tissues. The concentration and distribution of rubidium (Rb), the control metal ion used in the feeding assays, was similar in all plants (Figures&#x000a0;<xref rid="pbi12905-fig-0003" ref-type="fig">3</xref>b, <xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S9</xref>b). Our results indicate that RCc3p&#x02010;AEY rice could efficiently reduce As accumulation in the rice grains by inhibiting the movement of As into the shoot. Furthermore, vacuolar sequestration of As in the root cortex and phloem cells of the internode is an effective strategy for reducing the accumulation of As in grains.</p><fig fig-type="Figure" xml:lang="en" id="pbi12905-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Reduced As translocation from internode <styled-content style="fixed-case">II</styled-content> to the grain. <styled-content style="fixed-case">WT</styled-content> and <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> plants were cultured in 1/2 Kimura medium until the milk stage of grain filling. Plants were cut below internode <styled-content style="fixed-case">II</styled-content> and then treated with half&#x02010;strength Kimura solution supplemented with 10&#x000a0;&#x003bc;<sc>m</sc> As(<styled-content style="fixed-case">III</styled-content>) and 10&#x000a0;&#x003bc;<sc>m</sc> Rb(I) for 24&#x000a0;h. After incubation, each organ was harvested to measure As (a) and Rb (b). The values are means and standard errors (<italic>n</italic>&#x000a0;=&#x000a0;7 plants). Different letters indicate significantly different means (Tukey's multiple comparison analysis, <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.05).</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-1691-g003"/></fig></sec><sec id="pbi12905-sec-0007"><title>Grain yield in RCc3p&#x02010;AEY transgenic plants</title><p>We examined the agronomic traits in RCc30&#x02010;AEY transgenic plants cultivated in rice paddy fields to clarify whether hyperaccumulation of As and thiols in the root reduces plant growth and grain yield. We compared the major agronomic traits of four different transgenic lines and WT plants, including plant height, tiller number, panicle length, 1000 grain weight and panicle weight. All of the transgenic lines resembled the WT with respect to these traits (Table&#x000a0;<xref rid="pbi12905-tbl-0001" ref-type="table">1</xref>).</p><table-wrap id="pbi12905-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Agronomic traits in RCc3p&#x02010;AEY rice plants. The agronomic traits were examined in plants cultivated at paddy fields in 2017. The values are means and standard errors (<italic>n</italic>&#x000a0;=&#x000a0;5 plants). The same letters indicate no significantly different means (Tukey's multiple comparison analysis, <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.05)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Genotypes</th><th align="left" valign="top" rowspan="1" colspan="1">Plant height (cm)</th><th align="left" valign="top" rowspan="1" colspan="1">Tiller number</th><th align="left" valign="top" rowspan="1" colspan="1">Panicle length (cm)</th><th align="left" valign="top" rowspan="1" colspan="1">Grain weight (g/1000 grains)</th><th align="left" valign="top" rowspan="1" colspan="1">Panicle weight (g/panicle)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">WT</td><td align="left" rowspan="1" colspan="1">105.0&#x000a0;&#x000b1;&#x000a0;1.060<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">11.1&#x000a0;&#x000b1;&#x000a0;0.167<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.6&#x000a0;&#x000b1;&#x000a0;0.447<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.5&#x000a0;&#x000b1;&#x000a0;0.639<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">4.5&#x000a0;&#x000b1;&#x000a0;0.128<sup>a</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">RCc3p&#x02010;AEY&#x02010;3</td><td align="left" rowspan="1" colspan="1">104.6&#x000a0;&#x000b1;&#x000a0;1.037<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">11.0&#x000a0;&#x000b1;&#x000a0;0.728<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">23.0&#x000a0;&#x000b1;&#x000a0;0.354<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.9&#x000a0;&#x000b1;&#x000a0;0.761<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">4.5&#x000a0;&#x000b1;&#x000a0;0.152<sup>a</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">RCc3p&#x02010;AEY&#x02010;6</td><td align="left" rowspan="1" colspan="1">105.4&#x000a0;&#x000b1;&#x000a0;1.525<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">11.4&#x000a0;&#x000b1;&#x000a0;0.909<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.6&#x000a0;&#x000b1;&#x000a0;0.671<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.1&#x000a0;&#x000b1;&#x000a0;0.564<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">4.4&#x000a0;&#x000b1;&#x000a0;0.113<sup>a</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">RCc3p&#x02010;AEY&#x02010;9</td><td align="left" rowspan="1" colspan="1">106.0&#x000a0;&#x000b1;&#x000a0;1.275<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">11.3&#x000a0;&#x000b1;&#x000a0;1.085<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.6&#x000a0;&#x000b1;&#x000a0;0.570<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">23.0&#x000a0;&#x000b1;&#x000a0;0.715<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">4.6&#x000a0;&#x000b1;&#x000a0;0.143<sup>a</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">RCc3p&#x02010;AEY&#x02010;10</td><td align="left" rowspan="1" colspan="1">104.6&#x000a0;&#x000b1;&#x000a0;0.908<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">11.1&#x000a0;&#x000b1;&#x000a0;0.890<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">23.0&#x000a0;&#x000b1;&#x000a0;0.790<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">22.3&#x000a0;&#x000b1;&#x000a0;0.604<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">4.4&#x000a0;&#x000b1;&#x000a0;1.121<sup>a</sup>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="pbi12905-sec-0008"><title>Conclusion</title><p>Rice is a staple food for billions of people in Asia, and its consumption is increasing in Europe (<ext-link ext-link-type="uri" xlink:href="http://airea.net/images/siteimages/EU27-Rice.pdf">http://airea.net/images/siteimages/EU27-Rice.pdf</ext-link>) and the USA because it is regarded as a healthy, gluten&#x02010;free alternative source of carbohydrates (Batres&#x02010;Marquez <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0003" ref-type="ref">2009</xref>). However, the As content of rice poses a serious problem (Schoof <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0023" ref-type="ref">1999</xref>). Particularly alarming are baby foods based on rice, which were considered to be nutritious and safe, but in fact contain relatively high amounts of As and can cause diseases and developmental problems in children (Karagas <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0012" ref-type="ref">2016</xref>). Therefore, the As content in rice grains is a critical issue for human health. Here, we successfully developed a strategy to reduce As in rice grains by enhancing As vacuolar sequestration through the transgenic expression of <italic>OsABCC1</italic>,<italic> ScYCF1</italic> and &#x003b3;<italic>&#x02010;glutamylcysteine synthetase</italic>, while preserving grain yield. The two ABC transporters for As vacuolar compartmentation were driven by <italic>OsRCc3p,</italic> a tissue&#x02010;specific promoter driving expression in the root cortical cell layer, phloem cells of nodes and internodes. Root&#x02010;to&#x02010;shoot As translocation was greatly reduced in the transgenic plants due to the elevated vacuolar sequestration of As in root cortical cells. This sequestration probably inhibits the radial translocation of As from the cortex to the endodermis, where Lsi2, a major As efflux transporter localized to the proximal side of the endodermal layer, loads As into the xylem (Figure&#x000a0;<xref rid="pbi12905-fig-0004" ref-type="fig">4</xref>). Furthermore, the reduced shoot&#x02010;to&#x02010;grain translocation of As mediated by the transgenically expressed <italic>OsABCC1</italic> and <italic>ScYCF1</italic> in the phloem regions of nodes and internodes also contributed to the decreased As accumulation in grain (Figure&#x000a0;<xref rid="pbi12905-fig-0004" ref-type="fig">4</xref>). These results suggest that sequestering As into tissues involved in As translocation is an important step for developing low As rice. However, if these plants are grown in paddy fields containing excess As, their high vacuolar sequestration of As in nongrain tissues leads to hyperaccumulation and consequential cell damage, especially in the root. Therefore, we plan to improve our As&#x02010;safe rice by increasing the root's As extrusion activity into the rhizosphere.</p><fig fig-type="Figure" xml:lang="en" id="pbi12905-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Vacuolar sequestration of As to reduce the amount of As in the grain. <styled-content style="fixed-case">WT</styled-content> plants efficiently take up and translocate As into the xylem through the Lsi1 (green colour) and Lsi2 (yellow colour) transporters located in the root exodermis and endodermis. However, <styled-content style="fixed-case">RC</styled-content>c3p&#x02010;<styled-content style="fixed-case">AEY</styled-content> plants sequester As (blue colour) into cortical cell vacuoles via Os<styled-content style="fixed-case">ABCC</styled-content>1 and Sc<styled-content style="fixed-case">YCF</styled-content>1 (pink colour). This sequestration inhibits radial translocation of As into the endodermis, where As is translocated into the xylem via Lsi2 and decreases As translocation to the shoot. Furthermore, in phloem cells of the internode, Os<styled-content style="fixed-case">ABCC</styled-content>1 and Sc<styled-content style="fixed-case">YCF</styled-content>1 sequester As into vacuoles and decrease As translocation to the grain.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-16-1691-g004"/></fig></sec><sec id="pbi12905-sec-0009"><title>Experimental procedures</title><sec id="pbi12905-sec-0010"><title>Rice culture conditions</title><p>Rice seeds (<italic>Oryza sativa</italic> L.) were germinated on half&#x02010;strength Murashige and Skoog (1/2 MS) agar plates. After 10 days, the seedlings were transferred to normal soil with basal levels of As (2.8&#x000a0;&#x000b1;&#x000a0;0.5&#x000a0;mg/kg dried soil; below the acceptable soil As limits in Korea (25&#x000a0;mg/kg)) or to half&#x02010;strength (1/2) Kimura B hydroponic medium (Yoshida, <xref rid="pbi12905-bib-0038" ref-type="ref">1976</xref>) supplemented with 0.2&#x000a0;m<sc>m</sc> urea and cultured in a glasshouse at 25&#x02013;35&#x000a0;&#x000b0;C under natural light or in a growth room at 28&#x000a0;&#x000b0;C under 16&#x000a0;h light/8&#x000a0;h dark conditions. To analyse As accumulation in the rice seedlings, the 4&#x02010;week&#x02010;old plants grown hydroponically in the growth room were treated with 1&#x000a0;&#x003bc;<sc>m</sc> As(III) and 0.1&#x000a0;&#x003bc;<sc>m</sc> Cd(II) for five days or 2&#x000a0;&#x003bc;<sc>m</sc> DMA(V) for two days. The shoots and roots were washed with ice&#x02010;cold water and harvested to measure their As and Cd contents. To investigate the As distribution at the reproductive stage, rice plants at the milk stage of grain development, which had been grown in the hydroponic medium in the glasshouse were treated with 1.0&#x000a0;&#x003bc;<sc>m</sc> As (III) for 10&#x000a0;days. Samples were prepared of the root, basal stem (1&#x000a0;cm), internodes, nodes, leaves, flag leaf, peduncle, rachis and brown rice to measure As and Cd contents.</p></sec><sec id="pbi12905-sec-0011"><title>Molecular cloning and construct design</title><p>To express <italic>OsABCC1</italic>,<italic> ScYCF1</italic> and &#x003b3;<italic>&#x02010;ECS</italic> genes, the rice <italic>RCc3</italic> promoter (<italic>RCc3p</italic>), <italic>Zea mays ubiquitin</italic> promoter (<italic>ZmUBIp</italic>), and rice <italic>Actin2</italic> promoters (<italic>ACTIN2p</italic>) were isolated using PCR. The rice <italic>RCc3</italic> promoter (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0035" ref-type="ref">1995</xref>) was amplified with a primer set (RCc3p&#x02010;F, RCc3p&#x02010;R) and a genomic DNA template from <italic>O. sativa</italic> (cv. Donging), while <italic>ZmUBIp</italic> and <italic>ACTIN2p</italic> were isolated using PCR with gene&#x02010;specific primer sets (ZmUBIp&#x02010;F and ZmUBIp&#x02010;R for <italic>ZmUBIp</italic>, Act2p&#x02010;F and Act2p&#x02010;R for <italic>ACTIN2p</italic>), using the pIPKb002 and pIPKb003 vectors as templates (Himmelbach <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0009" ref-type="ref">2007</xref>). Sequences of all primers used are presented in Table&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S1</xref>. All PCR products were cloned using the pGEM&#x02010;T Easy Vector (Promega), and their sequence fidelities were confirmed by sequencing. To increase the number of multicloning sites available in the final vectors, restriction enzyme recognition sites were removed from the promoter sequences using site&#x02010;directed mutagenesis with gene&#x02010;specific primer sets; primers for the removal of the <italic>Sac</italic>I and <italic>PmaC</italic>I sites in the <italic>RCc3</italic> promoter were RCc3p_SacI&#x02010;1F, RCc3p_SacI&#x02010;1R, RCc3p_SacI&#x02010;2F, RCc3p_SacI&#x02010;2R, RCc3p_PmaCI&#x02010;F and RCc3p_PmaCI&#x02010;R; primers the for removal of the <italic>Sal</italic>I, <italic>Xho</italic>I, <italic>Sac</italic>I and <italic>EcoR</italic>I sites in <italic>ZmUBIp</italic> were ZmUBIp_SalI&#x02010;F, ZmUBIp_Sal I&#x02010;R, ZmUBIp_XhoI&#x02010;F, ZmUBIp_XhoI&#x02010;R, ZmUBIp_SacI&#x02010;F, ZmUBIp_SacI&#x02010;R, ZmUBIp_EcoRI&#x02010;F and ZmUBIp_EcoRI&#x02010;R; primers for the removal of the <italic>EcoR</italic>I, <italic>Sac</italic>I and <italic>BamH</italic>I sites in <italic>ACTIN2p</italic> were Act2p_EcoRI&#x02010;F, Act2p_EcoRI&#x02010;R, Act2p_SacI&#x02010;F, Act2p_SacI&#x02010;R, Act2p_BamHI&#x02010;F and Act2p_BamHI&#x02010;R.</p><p>The modified <italic>ZmUBI</italic> promoter was subcloned into the <italic>BstX</italic>I and <italic>EcoR</italic>I sites of the pCAMBIA1300, pCAMBIA1302 and pBSK vectors (ZmUBIp1300, ZmUBIp1302, pBSK_ZmUBIp) or <italic>BamH</italic>I and <italic>EcoR</italic>I sites of the pBSK vector (pBSK_ZmUBIp&#x02010;1). The modified <italic>RCc3</italic> promoter was subcloned into the <italic>BstX</italic>I and <italic>EcoR</italic>I sites of the pCAMBIA1300, pCAMBIA1302 and pBSK vectors (RCc3p1300, RCc3p1302, pBSK_RCc3p). <italic>ACTIN2p</italic> was inserted into the <italic>Nco</italic>I and <italic>Hind</italic>III sites of the pBSK vector to generate pBSK_Actp. Nos and 35S terminators were isolated from the pCAMBIA1302 vector using PCR and sequence&#x02010;specific primer sets (Nos_ter&#x02010;SalI and Nos_ter&#x02010;EcoRV, Nos_ter&#x02010;XbaI and Nos_ter&#x02010;BamHI, 35S_ter&#x02010;F and 35S_ter&#x02010;R) and then subcloned into the pGEM&#x02010;T Easy Vector. The Nos terminator was inserted into the <italic>Sal</italic>I and <italic>EcoR</italic>V sites of the pBSK_RCc3p vector and pBSK_ZmUBIp, or the <italic>Xba</italic>I and <italic>BamH</italic>I sites of the pBSK_ZmUBIp&#x02010;1 vector (pBSK_ZmUBIp_Noster, pBSK_RCc3p_Noster, pBSK_ZmUBIp&#x02010;1_Noster). The 35S terminator was subcloned into the <italic>Xba</italic>I and <italic>Pst</italic>I sites of the pBSK_Actp vector (pBSK_Actp_35Ster).</p><p>Full&#x02010;length <italic>OsABCC1&#x02010;V5</italic> was prepared from the pGK&#x02010;OsABCC1 vector (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>), inserted into the <italic>BamH</italic>I and <italic>Xba</italic>I sites of ZmUBIp1300, ZmUBIp1302, RCc3p1300 and RCc3p1302 to produce <italic>ZmUBIp</italic>::<italic>OsABCC1&#x02010;V5</italic> (UBIp&#x02010;A) and <italic>RCc3p</italic>::<italic>OsABCC1&#x02010;V5</italic> (<italic>RCc3p</italic>&#x02010;A). <italic>Escherichia coli</italic> &#x003b3;<italic>&#x02010;ECS (</italic>Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0040" ref-type="ref">1999</xref>) was isolated from the wild&#x02010;type strain (K12) using PCR with a sequence&#x02010;specific primer set (&#x003b3;&#x02010;ECS_HindIII&#x02010;F, &#x003b3;&#x02010;ECS_SalI&#x02010;R) and subcloned into the pGEM&#x02010;T Easy Vector for sequencing. The confirmed &#x003b3;<italic>&#x02010;ECS</italic> gene was inserted into the <italic>Hind</italic>III and <italic>Sal</italic>I sites of the pBSK_ZmUBIp&#x02010;1_Noster and pBSK_Actp_35Ster vectors (pBSK_ZmUBIp&#x02010;1_&#x003b3;&#x02010;ECS_Noster and pBSK_Actp_&#x003b3;&#x02010;ECS_35Ster). To combine the <italic>OsABCC1&#x02010;V5</italic> and &#x003b3;<italic>&#x02010;ECS</italic> genes in a single vector, the fragments of the 35S terminator&#x02010;<italic>ACTIN2p</italic>&#x02010;&#x003b3;&#x02010;ECS (<italic>Sal</italic>I and <italic>Ecl136</italic>II fragments from the pBSK_Actp_&#x003b3;&#x02010;ECS_35Ster vector) and Nos terminator&#x02010;UBI promoter&#x02010;&#x003b3;<italic>&#x02010;ECS</italic> (<italic>Sal</italic>I and <italic>Ecl126</italic>II from the pBSK_ZmUBIp&#x02010;1_&#x003b3;&#x02010;ECS_Noster vector) were inserted into the <italic>Sal</italic>I and <italic>Pml</italic>I sites of the ZmUBIp1301ABCC1&#x02010;V5 and RCc3p1301ABCC1&#x02010;V5 vectors, and the RCc3p&#x02010;AE (<italic>RCc3p</italic>::<italic>OsABCC1&#x02010;V5</italic>,<italic> ZmUBIp</italic>::&#x003b3;<italic>&#x02010;ECS</italic>) and UBIp&#x02010;AE (ZmUBIp::<italic>OsABCC1&#x02010;V5</italic>,<italic> ACTIN2p</italic>::&#x003b3;<italic>&#x02010;ECS</italic>) vectors were constructed.</p><p>To express <italic>ScYCF1</italic> in rice, codon&#x02010;optimized <italic>ScYCF1</italic> (<italic>YCF1</italic>) was synthesized and cloned into the <italic>EcoR</italic>I/<italic>Xho</italic>I sites of a pGK yeast shuttle vector. <italic>YCF1</italic> was subcloned into the <italic>BamH</italic>I and <italic>Xba</italic>I sites of ZmUBIp1300 and RCc3p1300 to construct the <italic>ZmUBIp</italic>::<italic>YCF1</italic> and <italic>RCc3p</italic>::<italic>YCF1</italic> vectors or inserted into the <italic>EcoR</italic>I and <italic>Xba</italic>I sites of the pBSK_ZmUBIp&#x02010;1_Noster and pBSK_RCc3p&#x02010;1_Noster vectors to produce pBSK_ZmUBIp&#x02010;1_YCF1_Noster and pBSK_RCc3p&#x02010;1_YCF1_Noster.</p><p>To generate the RCc3p&#x02010;AEY (<italic>RCc3p</italic>::<italic>OsABCC1&#x02010;V5</italic>,<italic> ZmUBIp</italic>::&#x003b3;<italic>&#x02010;ECS</italic>,<italic> RCc3p</italic>::<italic>ScYCF1</italic>) vector, the two fragments of Nos terminator&#x02010;ZmUBIp&#x02010;&#x003b3;&#x02010;ECS (<italic>Xba</italic>I and <italic>Sal</italic>I) from the pBSK_ZmUBIp_&#x003b3;&#x02010;ECS_Noster vector and Noster&#x02010;RCc3pYCF1 (<italic>Sal</italic>I and <italic>Ecl</italic>136 II) from pBSK_RCc3p&#x02010;1_YCF1_Noster were inserted into the <italic>Xba</italic>I and <italic>Pml</italic>I sites of the ZmUBIp1301ABCC1&#x02010;V5 vector. The UBIp&#x02010;AEY (ZmUBIp::<italic>OsABCC1&#x02010;V5</italic>,<italic> ACTIN2p</italic>::&#x003b3;<italic>&#x02010;ECS</italic>, ZmUBIp::<italic>ScYCF1</italic>) vector was constructed by ligating three fragments; the 35S terminator&#x02010;<italic>ACTIN2p</italic>&#x02010;&#x003b3;&#x02010;ECS (<italic>Xba</italic>I and <italic>Sal</italic>I) from pBSK_Actp_&#x003b3;&#x02010;ECS_35Ster vector, Noster&#x02010;ZmUBI promoter&#x02010;<italic>YCF1</italic> (<italic>Sal</italic>I and <italic>Ecl136</italic>II) from pBSK_ZmUBIp&#x02010;1_YCF1_Noster vector and the ZmUBIp1301ABCC1&#x02010;V5 (<italic>Xba</italic>I and <italic>Pml</italic>I) vector.</p><p>The coding region of the &#x003b2;<italic>&#x02010;Glucuronidase</italic> (<italic>GUS</italic>) gene was amplified by PCR with the pBI121 vector as template and the primer set GUS_EcoRI&#x02010;F and GUS_XbaI&#x02010;R, and then subcloned into the pGEM&#x02010;T Easy Vector. This gene was then excised with <italic>EcoR</italic>I and <italic>Xba</italic>I and inserted into the <italic>EcoR</italic>I and <italic>Xba</italic>I sites of the RCc3p1300 and ZmUBIp1300 vectors, respectively, to generate <italic>RCc3p</italic>::<italic>GUS</italic> and <italic>ZmUBIp</italic>::<italic>GUS</italic>.</p></sec><sec id="pbi12905-sec-0012"><title>Generation of transgenic rice and expression analysis</title><p>The Dongjin cultivar, a currently cultivated <italic>japonica</italic> rice variety, was used for transformation mediated by <italic>Agrobacterium tumefaciens,</italic> as described previously (Hiei <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0008" ref-type="ref">1994</xref>; Jeon <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0011" ref-type="ref">1999</xref>), with the following modifications. Four&#x02010;week&#x02010;old calli were generated from the scutellum and cocultivated with the <italic>Agrobacterium tumefaciens</italic> strain GV3101 carrying the binary vectors (RCc3p&#x02010;A, RCc3p&#x02010;AE, RCc3p&#x02010;AEY, UBIp&#x02010;A, UBIp&#x02010;AE, UBIp&#x02010;AEY, RCc3p&#x02010;GUS or UBIp&#x02010;GUS) on 2N6 medium containing acetosyringone for 2&#x02013;3 days in darkness at 25&#x000a0;&#x000b0;C. The calli were then washed three times with sterile water containing 100&#x000a0;mg/L cefotaxime, incubated for one day in liquid 2N6 medium supplemented with 50&#x000a0;mg/L hygromycin B and 250&#x000a0;mg/L cefotaxime, washed with sterile water and then incubated at 27&#x000a0;&#x000b0;C on 2N6 solid medium containing 50&#x000a0;mg/L hygromycin B and 250&#x000a0;mg/L cefotaxime for 4&#x02013;5&#x000a0;weeks. The hygromycin&#x02010;resistant calli were transferred onto a preregeneration medium (2N6&#x02010;BA) containing 50&#x000a0;mg/L hygromycin B and 250&#x000a0;mg/L cefotaxime, where they were grown for 10 days before being transferred to a regeneration medium containing 25&#x000a0;mg/L hygromycin B and 250&#x000a0;mg/L cefotaxime for 4&#x02013;6&#x000a0;weeks. The regenerated plants were grown in a 1/2 Kimura B hydroponic medium for 2&#x000a0;weeks and then transferred to soil. The expression of <italic>OsRCc3</italic> was investigated in the roots and node I of WT with primer sets (RCc3&#x02010;RT&#x02010;F and RCc3&#x02010;RT&#x02010;R, OsActin&#x02010;F, and OsActin&#x02010;R). To confirm the insertion of the transgenic genes into the rice genome, a genomic PCR was performed using gene&#x02010;specific primer sets (mOsABCC1&#x02010;F and mOsABCC1&#x02010;R for exogenous <italic>OsABCC1</italic>; mYCF1&#x02010;F and mYCF1&#x02010;R for <italic>YCF1</italic>; &#x003b3;ECS&#x02010;F and &#x003b3;&#x02010;ECS&#x02010;R for &#x003b3;<italic>&#x02010;ECS</italic>). To examine whether the transformed genes were successfully expressed, qRT&#x02010;PCR was performed using Thermal Cycler Dice Real Time System (TP&#x02010;800, Takara Co., Japan) with gene&#x02010;specific primer sets (mOsABCC1&#x02010;F, mOsABCC1&#x02010;R, mYCF1&#x02010;F, mYCF1&#x02010;R, &#x003b3;&#x02010;ECS&#x02010;F, &#x003b3;&#x02010;ECS&#x02010;R, OsActin&#x02010;F and OsActin&#x02010;R).</p></sec><sec id="pbi12905-sec-0013"><title>Stem As feeding assays</title><p>To investigate As translocation from the internodes or nodes to the grains, As feeding assays were performed following a previously published method (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>). The plants of the WT and RCc3p&#x02010;AEY lines were grown hydroponically until 10 days after flowering (milk stage of grain development). The stems were cut below node II, and then, internode II was immersed in a 250&#x02010;mL flask containing 80&#x000a0;mL 1/2 Kimura medium supplemented with 10&#x000a0;&#x003bc;<sc>m</sc> As (III) and 10&#x000a0;&#x003bc;<sc>m</sc> Rb (I) as the control metal for 24&#x000a0;h. Each organ was harvested to measure its As content.</p></sec><sec id="pbi12905-sec-0014"><title>Determination of As and Cd concentrations in the xylem sap</title><p>To analyse the translocation of As and Cd from the root to the shoot, 4&#x02010;week&#x02010;old hydroponically grown rice seedlings were treated with 5.0&#x000a0;&#x003bc;<sc>m</sc> As (III) and 0.2&#x000a0;&#x003bc;<sc>m</sc> Cd for 4 h. The shoot was decapitated with a razor blade, and the xylem sap was collected with a micropipette for 45&#x000a0;min. The samples of collected sap were diluted to an equal volume with 5% HNO<sub>3</sub>.</p></sec><sec id="pbi12905-sec-0015"><title>Histochemical and immunohistochemical localization</title><p>To investigate the tissue&#x02010;specific <italic>RCc3</italic>&#x02010; or <italic>ZmUBI</italic>&#x02010;driven expression of exogenous <italic>OsABCC1</italic> and <italic>ScYCF1</italic> in the transgenic plants, histochemical and immunohistochemical assays were performed in various tissues of <italic>RCc3p</italic>::<italic>GUS</italic> and <italic>ZmUBIp</italic>::<italic>GUS</italic> plants. Samples of the root, basal node, leaf sheath and leaf blade tissues were prepared from 2&#x02010; to 3&#x02010;week&#x02010;old plants grown in a 1/2 Kimura B hydroponic medium, while samples of node I and the internode were collected from plants grown in soil during the grain&#x02010;filling stage. A GUS histochemical assay was performed as described previously (Jeon <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0011" ref-type="ref">1999</xref>). After staining, the samples were dehydrated by sequentially soaking them in an ethanol series (50%, 70%, 90%, 95%, 100%). The hand&#x02010;sectioned samples were observed under a dissecting microscope (Olympus).</p><p>Immunostaining was performed using a GUS antibody (rabbit IgG antibody fraction; A&#x02010;5790, Molecular Probes), as described previously (Deng <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0006" ref-type="ref">2013</xref>). Briefly, samples of the root, basal node, internode and node I were fixed using a fixation solution, sectioned to a 150&#x02010;&#x003bc;m thickness and treated with anti&#x02010;GUS. The fluorescence from the secondary antibody (Alexa Fluor 555 goat anti&#x02010;rabbit IgG; A21428, Molecular Probes) was observed using confocal laser&#x02010;scanning microscopy (Olympus FV&#x02010;1000 or Carl Zeiss LSM700).</p></sec><sec id="pbi12905-sec-0016"><title>Thiol localization in the root</title><p>To determine thiol accumulation in the root, monobromobimane (mBB) staining was performed following the published method (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0029" ref-type="ref">2014</xref>). Roots were collected from 2&#x02010; to 3&#x02010;week&#x02010;old plants treated with 1&#x000a0;&#x003bc;<sc>m</sc> As(III) for 3&#x000a0;h, incubated at room temperature in PBS buffer containing 15&#x000a0;&#x003bc;<sc>m</sc> mBB and 20&#x000a0;&#x003bc;<sc>m</sc> propidium iodide (PPI) for 30&#x000a0;min and then washed with PBS buffer. The fluorescence signal from mBB and PPI was observed using a confocal laser microscope (Olympus FV&#x02010;1000) and quantified using the ImageJ program (Abramoff <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0001" ref-type="ref">2004</xref>).</p></sec><sec id="pbi12905-sec-0017"><title>Immunoblot analysis</title><p>Microsome isolation and fractionation were performed according to a method described previously (Huang <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0010" ref-type="ref">2016</xref>). The suspended microsomes were fractionated using discontinuous sucrose gradients (20%&#x02013;60% sucrose in 10&#x000a0;m<sc>m</sc> Tris&#x02010;HCl, pH 7.6, 1&#x000a0;m<sc>m</sc> EDTA, and 1&#x000a0;m<sc>m</sc> DTT) by ultracentrifugation at 100&#x000a0;000 <italic><bold>g</bold></italic> for 18&#x000a0;h, which separated each membrane protein. After the fractionated membranes were recovered by a further ultracentrifugation at 100&#x000a0;000 <italic><bold>g</bold></italic> for 1&#x000a0;h, equal amounts of the samples (20&#x000a0;&#x003bc;g for the OsABCC1 and V5 detection; 5&#x000a0;&#x003bc;g for the detection of V&#x02010;ATPase, H<sup>+</sup>&#x02010;ATPase, and Bip) were incubated at 37&#x000a0;&#x000b0;C for 30&#x000a0;min. The samples were electrophoresed under the SDS&#x02010;PAGE gels (6% for OsABCC1 and ABCC1&#x02010;V5; 10% for H<sup>+</sup>&#x02010;ATPase, V&#x02010;ATPase and Bip) and transferred onto a nitrocellulose blotting membrane (GE Healthcare Life Sciences). The membranes were cross&#x02010;reacted with anti&#x02010;V5&#x02010;conjugated horseradish peroxidase (HRP) (R961&#x02010;25; Thermo Fisher Scientific; 5000&#x02010;times dilution), anti&#x02010;V&#x02010;ATPase (AS07213; Agrisera; 5000&#x02010;times dilution), anti&#x02010;H<sup>+</sup>&#x02010;ATPase (AS07260; Agrisera; 5000&#x02010;times dilution) and anti&#x02010;Bip (COP&#x02010;080017; Cosmo Bio; 5000&#x02010;times dilution). Anti&#x02010;rabbit antibody conjugated with HRP (Promega; 10&#x000a0;000&#x02010;times dilution) was used as a secondary antibody, and the ECL Plus Western Blotting Detection System (32209; Thermo Fisher Scientific) was used to detect the chemiluminescence under an Image Quant LAS 4000 (GE Healthcare Life Sciences).</p></sec><sec id="pbi12905-sec-0018"><title>Assay of As accumulation pattern in root</title><p>To compare the As accumulation patterns in the roots of the wild&#x02010;type and RCc3p&#x02010;AEY lines, a stepwise grinding method using liquid nitrogen was employed to separate the epidermis, cortex and vascular cell layers, as previously described (Song <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0028" ref-type="ref">2011</xref>). The samples were analysed for As concentration, protein quantification was performed to normalize As concentration, and a qRT&#x02010;PCR analysis was used to determine the source of the cell layers in the root. The epidermis&#x02010;specific gene <italic>OsZIP1</italic> was used as a marker to determine the cell types of the isolated samples (Ogo <italic>et&#x000a0;al</italic>., <xref rid="pbi12905-bib-0020" ref-type="ref">2014</xref>). The primers used to detect <italic>OsZIP1</italic> expression are listed in Table&#x000a0;<xref rid="pbi12905-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="pbi12905-sec-0019"><title>As measurement</title><p>To analyse As accumulation in grains and other organs, dried tissues were digested with 2&#x02013;4&#x000a0;mL 65% HNO<sub>3</sub> at 150&#x000a0;&#x000b0;C for 10&#x02013;15&#x000a0;h. The metal(loid) concentrations were determined using an inductively coupled plasma mass spectrometer (ICP&#x02010;MS; Perkin Elmer).</p></sec><sec id="pbi12905-sec-0020"><title>Grain yield investigation</title><p>To examine the grain yield of the transgenic rice plants, four independent RCc3p&#x02010;AEY lines and WT plants were cultivated in rice paddy fields located at the Kyung&#x02010;Hee University from May to October 2017. At harvest, the grain yield&#x02010;related agronomic traits were analysed.</p></sec><sec id="pbi12905-sec-0021"><title>Statistical analyses</title><p>To analyse the statistical significance of the data, two&#x02010;tailed Student's&#x000a0;<italic>t</italic>&#x02010;tests (significance level of *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 or **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01) were performed using Microsoft Excel, or a one&#x02010;way analysis of variance (ANOVA, significance level of <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) was performed using GraphPad Prism 4.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12905-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Promoter&#x02010;GUS assays in plants transformed with <italic>RCc3</italic> promoter::GUS (RCc3p::GUS) or <italic>ZmUBI</italic> promoter::GUS (UBIp::GUS).</p><p>
+<bold>Figure&#x000a0;S2</bold> Promoter&#x02010;GUS assays in plants transformed with <italic>ZmUBI</italic> promoter::GUS (UBIp::GUS).</p><p>
+<bold>Figure&#x000a0;S3</bold> Development of transgenic plants transformed with <italic>RCc3</italic>p&#x02010;A (<italic>RCc3</italic> pro::<italic>OsABCC1&#x02010;V5</italic>), RCc3p&#x02010;AE (<italic>RCc3</italic> pro::<italic>OsABCC1&#x02010;V5, ZmUBI</italic> pro::&#x003b3;<italic>&#x02010;ECS</italic>), or RCc3p&#x02010;AEY (<italic>RCc3</italic> pro::<italic>OsABCC1&#x02010;V5, ZmUBI</italic> pro::&#x003b3;<italic>&#x02010;ECS, RCc3</italic> pro::<italic>ScYCF1</italic>).</p><p>
+<bold>Figure&#x000a0;S4</bold> Development of transgenic plants transformed with UBIp&#x02010;A (<italic>ZmUBI</italic> pro::<italic>OsABCC1&#x02010;V5)</italic>, UBIp&#x02010;AE (<italic>ZmUBI</italic> pro::<italic>OsABCC1&#x02010;V5, OsActin2</italic> pro::&#x003b3;<italic>&#x02010;ECS</italic>), or UBIp&#x02010;AEY (<italic>ZmUBI</italic> pro::<italic>OsABCC1&#x02010;V5, OsActin2</italic> pro::&#x003b3;<italic>&#x02010;ECS</italic>,<italic> ZmUBI</italic> pro::<italic>ScYCF1</italic>).</p><p>
+<bold>Figure&#x000a0;S5</bold> Cd and As accumulation in brown rice and flag leaves from T3 transgenic plants grown in soil.</p><p>
+<bold>Figure&#x000a0;S6</bold> As concentration in roots and shoots of transgenic rice seedlings.</p><p>
+<bold>Figure&#x000a0;S7</bold> Phenotypic analysis of the transgenic rice seedlings and yeast</p><p>strains subjected to the DMA and Cd treatments.</p><p>
+<bold>Figure&#x000a0;S8</bold> As accumulation and thiols contents in roots.</p><p>
+<bold>Figure&#x000a0;S9</bold> Reduced As translocation to grains of RCc3p&#x02010;AEY plants.</p><p>
+<bold>Table&#x000a0;S1</bold> Primers used in this study.</p></caption><media xlink:href="PBI-16-1691-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12905-sec-0022"><title>Acknowledgements</title><p>This work was supported by grants from the BK21 PLUS program funded by the Ministry of Education, Korea (10Z20130012243), the Next&#x02010;Generation BioGreen 21 program from Rural Development Administration, Korea (PJ011926 to W&#x02010;Y.S.), NRF grants funded by the Korean government (MSIP) (NRF&#x02010;2016R1A2B4012478 to W&#x02010;Y.S., NRF&#x02010;2015R1A2A1A01004294 to Y.L), and a grant for Specially Promoted Research (JSPS KAKENHI Grant Number 16H06296 to J.F.M.). We thank the POCEB at Pohang Techno Park for the use of the ICP&#x02010;MS (NexIon300x, Perkin Elmer) facility. The authors declare competing financial interests: &#x02018;Composition for reducing arsenic accumulation&#x02019; is the subject of a Korea patent (10&#x02010;2017&#x02010;0060054 on May 15, 2017) applied by W&#x02010;Y.S, Y.L and F.D.</p></ack><ref-list content-type="cited-references" id="pbi12905-bibl-0001"><title>References</title><ref id="pbi12905-bib-0001"><mixed-citation publication-type="journal" id="pbi12905-cit-0001">
+<string-name>
+<surname>Abramoff</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Magelhaes</surname>, <given-names>P.J.</given-names>
+</string-name> and <string-name>
+<surname>Ram</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2004</year>) <article-title>Image processing with ImageJ</article-title>. <source xml:lang="en">Biophoton. Int.</source>
+<volume>11</volume>, <fpage>36</fpage>&#x02013;<lpage>42</lpage>.</mixed-citation></ref><ref id="pbi12905-bib-0002"><mixed-citation publication-type="journal" id="pbi12905-cit-0002">
+<string-name>
+<surname>Arao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kawasaki</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Baba</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Matsumoto</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>) <article-title>Effects of water management on cadmium and arsenic accumulation and dimethylarsinic acid concentrations in Japanese rice</article-title>. <source xml:lang="en">Environ. Sci. Technol.</source>
+<volume>43</volume>, <fpage>9361</fpage>&#x02013;<lpage>9367</lpage>.<pub-id pub-id-type="pmid">20000530</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0003"><mixed-citation publication-type="journal" id="pbi12905-cit-0003">
+<string-name>
+<surname>Batres&#x02010;Marquez</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>H.H.</given-names>
+</string-name> and <string-name>
+<surname>Upton</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Rice consumption in the United States: recent evidence from food consumption surveys</article-title>. <source xml:lang="en">J. Am. Diet. Assoc.</source>
+<volume>109</volume>, <fpage>1719</fpage>&#x02013;<lpage>1727</lpage>.<pub-id pub-id-type="pmid">19782171</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0004"><mixed-citation publication-type="journal" id="pbi12905-cit-0004">
+<string-name>
+<surname>Bowell</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Alpers</surname>, <given-names>C.N.</given-names>
+</string-name>, <string-name>
+<surname>Jamieson</surname>, <given-names>H.E.</given-names>
+</string-name>, <string-name>
+<surname>Nordstrom</surname>, <given-names>D.K.</given-names>
+</string-name> and <string-name>
+<surname>Majzlan</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>) <article-title>The environmental geochemistry of arsenic&#x02010;an overview</article-title>. <source xml:lang="en">Rev. Mineral. Geochem.</source>
+<volume>79</volume>, <fpage>1</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="pbi12905-bib-0005"><mixed-citation publication-type="journal" id="pbi12905-cit-0005">
+<string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>McGrath</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.F.</given-names>
+</string-name> and <string-name>
+<surname>Zhao</surname>, <given-names>F.J.</given-names>
+</string-name> (<year>2015</year>) <article-title>The role of nodes in arsenic storage and distribution in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>66</volume>, <fpage>3717</fpage>&#x02013;<lpage>3724</lpage>.<pub-id pub-id-type="pmid">25922485</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0006"><mixed-citation publication-type="journal" id="pbi12905-cit-0006">
+<string-name>
+<surname>Deng</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Yamaji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Ma</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2013</year>) <article-title>A member of the heavy metal P&#x02010;type ATPase OsHMA5 is involved in xylem loading of copper in rice</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>163</volume>, <fpage>1353</fpage>&#x02013;<lpage>1362</lpage>.<pub-id pub-id-type="pmid">24064929</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0007"><mixed-citation publication-type="journal" id="pbi12905-cit-0007">
+<string-name>
+<surname>Ghosh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Rosen</surname>, <given-names>B.P.</given-names>
+</string-name> (<year>1999</year>) <article-title>Pathways of As(III) detoxification&#x000a0;in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>96</volume>, <fpage>5001</fpage>&#x02013;<lpage>5006</lpage>.<pub-id pub-id-type="pmid">10220408</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0008"><mixed-citation publication-type="journal" id="pbi12905-cit-0008">
+<string-name>
+<surname>Hiei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ohta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Komari</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Kumashiro</surname>, <given-names>T.</given-names>
+</string-name> (<year>1994</year>) <article-title>Efficient transformation of rice (<italic>Oryza sativa</italic> L.) mediated by <italic>Agrobacterium</italic> and sequence analysis of the boundaries of the T&#x02010;DNA</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>6</volume>, <fpage>271</fpage>&#x02013;<lpage>282</lpage>.<pub-id pub-id-type="pmid">7920717</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0009"><mixed-citation publication-type="journal" id="pbi12905-cit-0009">
+<string-name>
+<surname>Himmelbach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zierold</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Hensel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Riechen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Douchkov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schweizer</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Kumlehn</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>) <article-title>A set of modular binary vectors for transformation of cereals</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>145</volume>, <fpage>1192</fpage>&#x02013;<lpage>1200</lpage>.<pub-id pub-id-type="pmid">17981986</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0010"><mixed-citation publication-type="journal" id="pbi12905-cit-0010">
+<string-name>
+<surname>Huang</surname>, <given-names>X.Y.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Yamaji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pinson</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Fujii&#x02010;Kashino</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Danku</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Douglas</surname>, <given-names>A.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>A heavy metal P&#x02010;type ATPase OsHMA4 prevents copper accumulation in rice grain</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>7</volume>, <fpage>12138</fpage>.<pub-id pub-id-type="pmid">27387148</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0011"><mixed-citation publication-type="journal" id="pbi12905-cit-0011">
+<string-name>
+<surname>Jeon</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>, <given-names>G.H.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>B.G.</given-names>
+</string-name> and <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name> (<year>1999</year>) <article-title>Isolation and characterization of an anther&#x02010;specific gene, RA8, from rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>39</volume>, <fpage>35</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">10080707</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0012"><mixed-citation publication-type="journal" id="pbi12905-cit-0012">
+<string-name>
+<surname>Karagas</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Punshon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sayarath</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>B.P.</given-names>
+</string-name>, <string-name>
+<surname>Folt</surname>, <given-names>C.L.</given-names>
+</string-name> and <string-name>
+<surname>Cottingham</surname>, <given-names>K.L.</given-names>
+</string-name> (<year>2016</year>) <article-title>Association of rice and rice&#x02010;product consumption with arsenic exposure early in life</article-title>. <source xml:lang="en">JAMA Pediatr.</source>
+<volume>170</volume>, <fpage>609</fpage>&#x02013;<lpage>616</lpage>.<pub-id pub-id-type="pmid">27111102</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0013"><mixed-citation publication-type="journal" id="pbi12905-cit-0013">
+<string-name>
+<surname>Li</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Song</surname>, <given-names>W.Y.</given-names>
+</string-name> (<year>2016</year>) <article-title>Arsenic uptake and translocation in plants</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>57</volume>, <fpage>4</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">26454880</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0014"><mixed-citation publication-type="journal" id="pbi12905-cit-0014">
+<string-name>
+<surname>Ma</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Yamaji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mitani</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tamai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Konishi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fujiwara</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Katsuhara</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>An efflux transporter of silicon in rice</article-title>. <source xml:lang="en">Nature</source>, <volume>448</volume>, <fpage>209</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">17625566</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0015"><mixed-citation publication-type="journal" id="pbi12905-cit-0015">
+<string-name>
+<surname>Ma</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Yamaji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mitani</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.Y.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>McGrath</surname>, <given-names>S.P.</given-names>
+</string-name> and <string-name>
+<surname>Zhao</surname>, <given-names>F.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Transporters of arsenite in rice and their role in arsenic accumulation in rice grain</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>105</volume>, <fpage>9931</fpage>&#x02013;<lpage>9935</lpage>.<pub-id pub-id-type="pmid">18626020</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0016"><mixed-citation publication-type="journal" id="pbi12905-cit-0016">
+<string-name>
+<surname>Meharg</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Arsenic in rice&#x02014;understanding a new disaster for South&#x02010;East Asia</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>9</volume>, <fpage>415</fpage>&#x02013;<lpage>417</lpage>.<pub-id pub-id-type="pmid">15337490</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0017"><mixed-citation publication-type="journal" id="pbi12905-cit-0017">
+<string-name>
+<surname>Meharg</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>P.N.</given-names>
+</string-name>, <string-name>
+<surname>Adomako</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lawgali</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Deacon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Villada</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cambell</surname>, <given-names>R.C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Geographical variation in total and inorganic arsenic content of polished (white) rice</article-title>. <source xml:lang="en">Environ. Sci. Technol.</source>
+<volume>43</volume>, <fpage>1612</fpage>&#x02013;<lpage>1617</lpage>.<pub-id pub-id-type="pmid">19350943</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0018"><mixed-citation publication-type="journal" id="pbi12905-cit-0018">
+<string-name>
+<surname>Moore</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Schr&#x000f6;der</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Hawes</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>McGrath</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Hawkesford</surname>, <given-names>M.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>High&#x02010;resolution secondary ion mass spectrometry reveals the contrasting subcellular distribution of arsenic and silicon in rice roots</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>156</volume>, <fpage>913</fpage>&#x02013;<lpage>924</lpage>.<pub-id pub-id-type="pmid">21490163</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0019"><mixed-citation publication-type="journal" id="pbi12905-cit-0019">
+<string-name>
+<surname>Moore</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>van de Meene</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Geraki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mosselmans</surname>, <given-names>F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Combined NanoSIMS and synchrotron X&#x02010;ray fluorescence reveal distinct cellular and subcellular distribution patterns of trace elements in rice tissues</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>201</volume>, <fpage>104</fpage>&#x02013;<lpage>115</lpage>.<pub-id pub-id-type="pmid">24107000</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0020"><mixed-citation publication-type="journal" id="pbi12905-cit-0020">
+<string-name>
+<surname>Ogo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kakei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Itai</surname>, <given-names>R.N.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nakazono</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Spatial transcriptomes of iron&#x02010;deficient and cadmium&#x02010;stressed rice</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>201</volume>, <fpage>781</fpage>&#x02013;<lpage>794</lpage>.<pub-id pub-id-type="pmid">24188410</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0021"><mixed-citation publication-type="journal" id="pbi12905-cit-0021">
+<string-name>
+<surname>Punshon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>B.P.</given-names>
+</string-name>, <string-name>
+<surname>Meharg</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Warczack</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Scheckel</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Guerinot</surname>, <given-names>M.L.</given-names>
+</string-name> (<year>2017</year>) <article-title>Understanding arsenic dynamics in agronomic systems to predict and prevent uptake by crop plants</article-title>. <source xml:lang="en">Sci. Total Environ.</source>
+<volume>581&#x02013;582</volume>, <fpage>209</fpage>&#x02013;<lpage>220</lpage>.</mixed-citation></ref><ref id="pbi12905-bib-0022"><mixed-citation publication-type="journal" id="pbi12905-cit-0022">
+<string-name>
+<surname>Raab</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Feldmann</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Meharg</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>The nature of arsenic&#x02013;phytochelatin complexes in <italic>Holcus lanatus</italic> and <italic>Pteris cretica</italic>
+</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>134</volume>, <fpage>1113</fpage>&#x02013;<lpage>1122</lpage>.<pub-id pub-id-type="pmid">15001701</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0023"><mixed-citation publication-type="journal" id="pbi12905-cit-0023">
+<string-name>
+<surname>Schoof</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Yost</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Eickhoff</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Crecelius</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Cragin</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Meacher</surname>, <given-names>D.M.</given-names>
+</string-name> and <string-name>
+<surname>Menzel</surname>, <given-names>D.B.</given-names>
+</string-name> (<year>1999</year>) <article-title>A market basket survey of inorganic arsenic in food</article-title>. <source xml:lang="en">Food Chem. Toxicol.</source>
+<volume>37</volume>, <fpage>839</fpage>&#x02013;<lpage>846</lpage>.<pub-id pub-id-type="pmid">10506007</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0024"><mixed-citation publication-type="journal" id="pbi12905-cit-0024">
+<string-name>
+<surname>Shi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Salt</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>Chao</surname>, <given-names>D.Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>OsHAC1;1 and OsHAC1;2 Function as arsenate reductases and regulate arsenic accumulation</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>172</volume>, <fpage>1708</fpage>&#x02013;<lpage>1719</lpage>.<pub-id pub-id-type="pmid">27702843</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0025"><mixed-citation publication-type="journal" id="pbi12905-cit-0025">
+<string-name>
+<surname>Shim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>Y.I.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>W.Y.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Youk</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>S.C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Transgenic poplar trees expressing yeast cadmium factor 1 exhibit the characteristics necessary for the phytoremediation of mine tailing soil</article-title>. <source xml:lang="en">Chemosphere</source>, <volume>90</volume>, <fpage>1478</fpage>&#x02013;<lpage>1486</lpage>.<pub-id pub-id-type="pmid">23062827</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0026"><mixed-citation publication-type="journal" id="pbi12905-cit-0026">
+<string-name>
+<surname>Song</surname>, <given-names>W.Y.</given-names>
+</string-name>, <string-name>
+<surname>Sohn</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Martinoia</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>Y.J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Jasinski</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Forestier</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>Engineering tolerance and accumulation of lead and cadmium in transgenic plants</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>21</volume>, <fpage>914</fpage>&#x02013;<lpage>919</lpage>.<pub-id pub-id-type="pmid">12872132</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0027"><mixed-citation publication-type="journal" id="pbi12905-cit-0027">
+<string-name>
+<surname>Song</surname>, <given-names>W.Y.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mendoza&#x02010;C&#x000f3;zatl</surname>, <given-names>D.G.</given-names>
+</string-name>, <string-name>
+<surname>Suter&#x02010;Grotemeyer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;rtensteiner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Geisle</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Arsenic tolerance in Arabidopsis is mediated by two ABCC&#x02010;type phytochelatin transporters</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>107</volume>, <fpage>21187</fpage>&#x02013;<lpage>21192</lpage>.<pub-id pub-id-type="pmid">21078981</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0028"><mixed-citation publication-type="journal" id="pbi12905-cit-0028">
+<string-name>
+<surname>Song</surname>, <given-names>W.Y.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>de Alexis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Martinoia</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Lee</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2011</year>) <article-title>
+<italic>Brassica juncea</italic> plant cadmium resistance 1 protein (BjPCR1) facilitates the radial transport of calcium in the root</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>108</volume>, <fpage>19808</fpage>&#x02013;<lpage>19813</lpage>.<pub-id pub-id-type="pmid">22089235</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0029"><mixed-citation publication-type="journal" id="pbi12905-cit-0029">
+<string-name>
+<surname>Song</surname>, <given-names>W.Y.</given-names>
+</string-name>, <string-name>
+<surname>Yamaki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yamaji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ko</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name>
+<surname>Fujii&#x02010;Kashino</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>A rice ABC transporter, OsABCC1, reduces arsenic&#x000a0;accumulation in the grain</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>111</volume>, <fpage>15699</fpage>&#x02013;<lpage>15704</lpage>.<pub-id pub-id-type="pmid">25331872</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0030"><mixed-citation publication-type="journal" id="pbi12905-cit-0030">
+<string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Nie</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>) <article-title>Water management practices affect arsenic and cadmium accumulation in rice grains</article-title>. <source xml:lang="en">Scientific World J.</source>
+<volume>24</volume>, <fpage>596438</fpage>.</mixed-citation></ref><ref id="pbi12905-bib-0031"><mixed-citation publication-type="journal" id="pbi12905-cit-0031">
+<string-name>
+<surname>Ueno</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yamaji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kono</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Haung</surname>, <given-names>C.F.</given-names>
+</string-name>, <string-name>
+<surname>Ando</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.F.</given-names>
+</string-name>(<year>2010</year>) <article-title>Gene limiting cadmium accumulation in rice</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>107</volume>, <fpage>16500</fpage>&#x02013;<lpage>16505</lpage>.<pub-id pub-id-type="pmid">20823253</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0032"><mixed-citation publication-type="journal" id="pbi12905-cit-0032">
+<string-name>
+<surname>Wang</surname>, <given-names>H.Y.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cen</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Sun</surname>, <given-names>G.X.</given-names>
+</string-name> (<year>2016a</year>) <article-title>Mitigation of cadmium and arsenic in rice grain by applying different silicon&#x000a0;fertilizers in contaminated fields</article-title>. <source xml:lang="en">Environ. Sci. Pollut. Res. Int.</source>
+<volume>23</volume>, <fpage>3781</fpage>&#x02013;<lpage>3788</lpage>.<pub-id pub-id-type="pmid">26498817</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0033"><mixed-citation publication-type="journal" id="pbi12905-cit-0033">
+<string-name>
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Zhao</surname>, <given-names>F.J.</given-names>
+</string-name> (<year>2016b</year>) <article-title>The role of OsPT8 in arsenate uptake and varietal difference in arsenate tolerance in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>67</volume>, <fpage>6051</fpage>&#x02013;<lpage>6059</lpage>.<pub-id pub-id-type="pmid">27683727</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0034"><mixed-citation publication-type="journal" id="pbi12905-cit-0034">
+<string-name>
+<surname>Williams</surname>, <given-names>P.N.</given-names>
+</string-name>, <string-name>
+<surname>Deacon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Raab</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Figuerola</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Feldmann</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Meharg</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2007</year>) <article-title>Greatly enhanced arsenic shoot assimilation in rice leads to elevated grain levels compared to wheat and barley</article-title>. <source xml:lang="en">Environ. Sci. Technol.</source>
+<volume>41</volume>, <fpage>6854</fpage>&#x02013;<lpage>6859</lpage>.<pub-id pub-id-type="pmid">17969706</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0035"><mixed-citation publication-type="journal" id="pbi12905-cit-0035">
+<string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Buchholz</surname>, <given-names>W.G.</given-names>
+</string-name>, <string-name>
+<surname>DeRose</surname>, <given-names>R.T.</given-names>
+</string-name> and <string-name>
+<surname>Hall</surname>, <given-names>T.C.</given-names>
+</string-name> (<year>1995</year>) <article-title>Characterization of a rice gene family encoding root&#x02010;specific proteins</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>27</volume>, <fpage>237</fpage>&#x02013;<lpage>248</lpage>.<pub-id pub-id-type="pmid">7888615</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0036"><mixed-citation publication-type="journal" id="pbi12905-cit-0036">
+<string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>OsHAC4 is critical for arsenate tolerance and regulates arsenic accumulation in rice</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>215</volume>, <fpage>1090</fpage>&#x02013;<lpage>1101</lpage>
+<pub-id pub-id-type="doi">10.1111/nph.14572</pub-id>.<pub-id pub-id-type="pmid">28407265</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0037"><mixed-citation publication-type="journal" id="pbi12905-cit-0037">
+<string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>M.X.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.M.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>H.W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>OsCLT1, a CRT&#x02010;like transporter 1, is required for glutathione homeostasis and arsenic tolerance in rice</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>211</volume>, <fpage>658</fpage>&#x02013;<lpage>670</lpage>.<pub-id pub-id-type="pmid">26918637</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0038"><mixed-citation publication-type="book" id="pbi12905-cit-0038">
+<string-name>
+<surname>Yoshida</surname>, <given-names>S.</given-names>
+</string-name> (<year>1976</year>) <chapter-title>Routine procedure for growing rice plants in culture solution</chapter-title> In <source xml:lang="en">Laboratory Manual for Physiological Studies of Rice</source> (<person-group person-group-type="editor"><name><surname>Yoshida</surname><given-names>S.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Forno</surname><given-names>D.A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Cook</surname><given-names>J.H.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Gomez</surname><given-names>K.A.</given-names></name></person-group> eds.), pp. <fpage>61</fpage>&#x02013;<lpage>66</lpage>. <publisher-loc>Philippines</publisher-loc>: <publisher-name>International rice research institute</publisher-name>.</mixed-citation></ref><ref id="pbi12905-bib-0039"><mixed-citation publication-type="journal" id="pbi12905-cit-0039">
+<string-name>
+<surname>Zhao</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>McGrath</surname>, <given-names>S.P.</given-names>
+</string-name> and <string-name>
+<surname>Meharg</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Arsenic as a food chain contaminant: mechanisms of plant uptake and metabolism and mitigation strategies</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>61</volume>, <fpage>535</fpage>&#x02013;<lpage>559</lpage>.<pub-id pub-id-type="pmid">20192735</pub-id></mixed-citation></ref><ref id="pbi12905-bib-0040"><mixed-citation publication-type="journal" id="pbi12905-cit-0040">
+<string-name>
+<surname>Zhu</surname>, <given-names>Y.L.</given-names>
+</string-name>, <string-name>
+<surname>Pilon&#x02010;Smits</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>S.U.</given-names>
+</string-name>, <string-name>
+<surname>Jouanin</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Terry</surname>, <given-names>N.</given-names>
+</string-name> (<year>1999</year>) <article-title>Cadmium tolerance and accumulation in Indian mustard is enhanced by overexpressing &#x003b3;&#x02010;glutamylcysteine synthetase</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>121</volume>, <fpage>1169</fpage>&#x02013;<lpage>1178</lpage>.<pub-id pub-id-type="pmid">10594104</pub-id></mixed-citation></ref></ref-list></back></article>

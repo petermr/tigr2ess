@@ -1,0 +1,526 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6173512</article-id><article-id pub-id-type="doi">10.1021/acsomega.8b01453</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Interpretation on Nanoporous Network Structure in
+Rice Husk Silica Layer: A Graph Model</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Lee</surname><given-names>Won Jun</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Bernasek</surname><given-names>Steven L.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><name><surname>Han</surname><given-names>Chong Soo</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry, <institution>Chonnam National University</institution>, Gwangju 61186, <country>Korea</country></aff><aff id="aff2"><label>&#x02021;</label>Nano
+Bio Research Institute, <institution>Jeonnam Bioindustry
+Foundation</institution>, Jangseong 57248, Jeollanamdo, <country>Korea</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Chemistry, <institution>Princeton University</institution>, Princeton, New Jersey 08544, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>cshan@chonnam.ac.kr</email>.</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>09</month><year>2018</year></pub-date><pub-date pub-type="ppub"><day>30</day><month>09</month><year>2018</year></pub-date><volume>3</volume><issue>9</issue><fpage>11544</fpage><lpage>11549</lpage><history><date date-type="received"><day>26</day><month>06</month><year>2018</year></date><date date-type="accepted"><day>06</day><month>09</month><year>2018</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2018 American Chemical
+Society</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-01453m_0002" id="ab-tgr1"/></p><p>The rice plant produces an amorphous
+silica layer in the husk covering
+the brown rice grain as a part of a protective respiration system.
+The layer shows high permeation molecular flow while the Brunauer&#x02013;Emmett&#x02013;Teller
+isotherm indicates the existence of nanometer-sized pores. Here, we
+interpret the inner structure of the layer as a porous network consisting
+of void spheres with a degree of 2&#x02013;5 and tunnels with a length
+of 2&#x02013;7 nm based on the transmission electron microscopy images.
+In the network, the gas molecules travel through the tunnels and move
+in random directions after collisions with the walls of the spheres.
+A tree network was introduced to understand the permeance of the layer
+and the reflection of the molecule of the root or parent sphere was
+estimated for a specific case. The tree becomes a graph with cycles
+in a finite space such as the silica layer and the reflection of the
+root sphere in the graph converses to that of the tree. On the basis
+of the properties of the network, the high permeance of the silica
+layer in the rice husk can be explained. It is suggested that the
+specific system restricts the movements of the gas molecules and can
+be applied to reduce the size of gas phase separation and chemical
+reactor systems providing a new view to understand nanoscaled porous
+materials.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao8b01453</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2018-01453m</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Rice
+is the principal staple in Asia and over 400 million tons
+are produced annually throughout the world. At maturity, the rice
+plant has root, the main stem, and a number of tillers. Each productive
+tiller bears a terminal flowering head that has &#x0223c;80 rice grains.
+The rice grain consists of the brown rice and the hull or husk which
+encloses the brown rice. The husk weighs about 20% of the total grain
+and its thickness varies from 50 to 100 &#x003bc;m.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The
+husk is divided into three layers&#x02014;an outer 50 nm cellulose
+layer, a 2&#x02013;5 &#x003bc;m silica layer, and an inner thick cellulose
+layer.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> The elemental analysis of the husk indicates 5&#x02013;10
+wt % Si, 0.50 wt % K, 0.07 wt % Na, and 0.6 wt % Al on the basis of
+organics.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> Thermal treatment of the rice husk in a
+controlled atmosphere produces silica particles with high purity,
+high surface area, nanometer pores, and high chemical reactivity.<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> Recently, the rice husk silica has been studied as a sustainable
+and environmentally friendly silica source<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> as well as a multifunctional mesoporous material.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref33">33</xref></sup> Besides the possible applications of the thermally produced rice
+husk silica, there is also a question on the origin of its pore, i.e.,
+whether it exists in the fresh rice husk or grows during the thermal
+process. To investigate the whole picture, we have conducted studies
+on the properties and structure of the silica layer in the fresh rice
+husk.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> As a result, we report a porous nanoscaled
+network in the layer and its interpretation from the view of a mathematical
+graph in this study. It is generally understood that the root takes
+silicate ions in the water and the silica deposits in the husk. Since
+the husk grows very fast in the ripening stage, it has been suggested
+that the silica is stored in the stem in the growing stage.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> On the basis of the scanning electron microscopy
+(SEM) images, it is understood that the silica nanoparticle unit starting
+from &#x0223c;10 nm appears and then aggregates up to &#x0223c;50 nm
+in the stem in the growing stage. As the amount and size of the silica
+particles increases, &#x0223c;50 nm clusters aggregate to larger structures
+to strengthen the plant in water. In the flowering stage, the units
+move to rice husk while the aggregates disappear leaving some stripes
+or tracks. From the finding of 10&#x02013;20 nm silica particles in
+the stem and the husk, the 10&#x02013;20 nm silica nanoparticle unit
+is expected to play a key role in the transportation of the silica
+from the stem to husk and the building up of the silica layer in the
+husk.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The existence of &#x0223c;3.5 nm
+pores in the thermally produced rice husk silica suggests that there
+are nano-sized pores in the silica layer of the raw husk.<sup><xref ref-type="bibr" rid="ref35">35</xref>&#x02212;<xref ref-type="bibr" rid="ref38">38</xref></sup> Apparently the rice husk passes oxygen, water, and carbon dioxide
+and also protects the living rice grain from microorganisms similar
+to eggshells.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> The gas permeance through the
+raw husk silica layer has been determined experimentally using individual
+rice husk sample epoxied to a 2 mm diameter end of a glass tubing
+attached to a vacuum system equipped with capacitance manometers and
+a mass spectrometer.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> From the observed
+permeation of gases before and after the treatment of the husk sample
+with hydrogen fluoride solution, the permeance of the silica layer
+for hydrogen is estimated to be &#x0223c;3 &#x000d7; 10<sup>&#x02013;3</sup> mol s<sup>&#x02013;1</sup> m<sup>&#x02013;2</sup> Pa<sup>&#x02013;1</sup>, while the flow was seen to be molecular or Knudsen similar to the
+mesoporous membranes (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). This permeance is considerably larger than previously reported
+values for silica membranes<sup><xref ref-type="bibr" rid="ref41">41</xref>&#x02212;<xref ref-type="bibr" rid="ref44">44</xref></sup> and it corresponds to over 1.8% of the incident molecules
+on the apparent area. The results suggest that there are through-holes
+in the layer and the structure of the holes allows the high gas permeance
+as well as the molecular flow is observed.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Permeance
+of Gases through Raw Rice
+Husk<xref rid="t1fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">samples</th><th style="border:none;" align="center">permeating&#x000a0;gas&#x000a0;G</th><th style="border:none;" align="center" char=".">observed&#x000a0;leak&#x000a0;rate/10<sup>&#x02013;3</sup>&#x000a0;mol&#x000a0;s<sup>&#x02013;1</sup></th><th style="border:none;" align="center" char=".">permeance/10<sup>&#x02013;3</sup>&#x000a0;mol&#x000a0;s<sup>&#x02013;1</sup>&#x000a0;m<sup>&#x02013;2</sup>&#x000a0;Pa<sup>&#x02013;1</sup></th><th style="border:none;" align="center" char=".">ratio of
+permeance <italic>P</italic>(H<sub>2</sub>)/<italic>P</italic>(G)</th><th style="border:none;" align="center" char=".">transmittance
+of incident gas molecule <italic>P</italic>(G)/<italic>Z</italic>(G)</th></tr></thead><tbody><tr><td rowspan="3" style="border:none;" align="left">raw&#x000a0;rice&#x000a0;husk&#x000a0;H</td><td style="border:none;" align="left">H<sub>2</sub></td><td style="border:none;" align="char" char=".">0.92</td><td style="border:none;" align="char" char=".">2.9</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">0.016</td></tr><tr><td style="border:none;" align="left">CH<sub>4</sub></td><td style="border:none;" align="char" char=".">0.32</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">2.9</td><td style="border:none;" align="char" char=".">0.016</td></tr><tr><td style="border:none;" align="left">CO<sub>2</sub></td><td style="border:none;" align="char" char=".">0.20</td><td style="border:none;" align="char" char=".">0.6</td><td style="border:none;" align="char" char=".">4.6</td><td style="border:none;" align="char" char=".">0.016</td></tr><tr><td rowspan="3" style="border:none;" align="left">HF&#x000a0;treated&#x000a0;rice&#x000a0;husk&#x000a0;F</td><td style="border:none;" align="left">H<sub>2</sub></td><td style="border:none;" align="char" char=".">12.04</td><td style="border:none;" align="char" char=".">37.8</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">0.212</td></tr><tr><td style="border:none;" align="left">CH<sub>4</sub></td><td style="border:none;" align="char" char=".">4.83</td><td style="border:none;" align="char" char=".">15.2</td><td style="border:none;" align="char" char=".">2.5</td><td style="border:none;" align="char" char=".">0.240</td></tr><tr><td style="border:none;" align="left">CO<sub>2</sub></td><td style="border:none;" align="char" char=".">2.98</td><td style="border:none;" align="char" char=".">9.3</td><td style="border:none;" align="char" char=".">4.0</td><td style="border:none;" align="char" char=".">0.245</td></tr><tr><td rowspan="3" style="border:none;" align="left">silica&#x000a0;layer&#x000a0;S</td><td style="border:none;" align="left">H<sub>2</sub></td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">3.1</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">0.018</td></tr><tr><td style="border:none;" align="left">CH<sub>4</sub></td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">1.1</td><td style="border:none;" align="char" char=".">2.9</td><td style="border:none;" align="char" char=".">0.017</td></tr><tr><td style="border:none;" align="left">CO<sub>2</sub></td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">0.7</td><td style="border:none;" align="char" char=".">4.7</td><td style="border:none;" align="char" char=".">0.018</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>The leak rate of gas through a sample
+of rice husk was measured under the pressure difference of 1 atm at
+298 K using the sample epoxide to a 2 mm diameter end of a glass tubing
+attached to a vacuum system equipped with capacitance manometers and
+a gas monitoring mass spectrometer. The permeances of samples H and
+F, <italic>P</italic><sub>H</sub> and <italic>P</italic><sub>F</sub> were calculated assuming the permeating area of 3.14 &#x000d7; 10<sup>&#x02013;6</sup> m<sup>2</sup> while that of the silica layer <italic>P</italic><sub>S</sub> was estimated from 1/<italic>P</italic><sub>H</sub> = 1/<italic>P</italic><sub>F</sub> + 1/<italic>P</italic><sub>S</sub>. The theoretical values of <italic>P</italic>(H<sub>2</sub>)/<italic>P</italic>(CH<sub>4</sub>); <italic>P</italic>(H<sub>2</sub>)/<italic>P</italic>(CO<sub>2</sub>) for the molecular and
+viscous flows are 2.8; 4.7 and 1.2; 1.6, respectively. The incident
+molecule flux <italic>Z</italic>(G) was calculated from <italic>Z</italic>(G) = 1/(2&#x003c0;<italic>RTM</italic>(G))<sup>1/2</sup>, where <italic>R</italic> and <italic>M</italic>(G) are the gas constant and molar
+weight of the gas, respectively.</p></fn></table-wrap-foot></table-wrap><p>The chemically isolated silica layer shows a Brunauer&#x02013;Emmett&#x02013;Teller
+(BET) isotherm with the surface area (<italic>A</italic>), single
+point adsorption pore volume (<italic>V</italic>) at <italic>P</italic>/<italic>P</italic><sub>0</sub> = 0.9917, and adsorption averaged
+pore width (4<italic>V</italic>/<italic>A</italic>) as 267 m<sup>2</sup> g<sup>&#x02013;1</sup>, 0.372 cm<sup>3</sup> g<sup>&#x02013;1</sup>, and 5.6 nm, respectively.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> The BET
+isotherm shows the typical hysteresis. The shape of the isotherm can
+be classified as type IV of IUPAC classification characterizing a
+mesoporous adsorbent with strong affinities<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S1a</ext-link>). The analysis of the pore
+size suggests an existence of 3&#x02013;5 nm pores using the Barrett&#x02013;Joyner&#x02013;Halenda
+method<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S1b</ext-link>). The pore size of the layer is larger than that of the thermally
+produced rice husk silica but the pattern of pore size distribution
+is similar. The silica layer shows a broad peak with the <italic>d</italic> spacing of about 0.4 nm (2&#x00398; = 22) in X-ray diffraction as
+seen in the thermally produced rice husk silica (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S2a</ext-link>). In <sup>29</sup>Si NMR, three peaks are observed
+at &#x02212;92, &#x02212;101, and &#x02212;110 ppm that correspond to
+Q<sup>2</sup>, Q<sup>3</sup>, and Q<sup>4</sup> states of Si, respectively<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S2b</ext-link>). This
+implies that the silica layer is amorphous, and there are through-nanometer-sized
+holes, whose structure allows high gas permeance as well as the molecular
+flow is observed. In general, we can imagine two types of pores in
+the silica layer. The first is the connection of the spaces between
+20 and 60 nm silica particles which was observed in SEM images of
+the stem and the husk. The other considerable structure is a straight
+nanometer-sized hole, as a micron-sized hole has been found in the
+egg shell based on the similarity of the biological respiratory system.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> In any case, the images of the hole can be expected in the cross-section
+of the layer. Since the resolution of SEM and atomic force microscopy
+is not suitable to observe the irregular nanometer-sized holes, an
+scanning tunneling microscopy (STM) study was performed on the osmium
+atom-coated cross-section of the silica layer.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> In the STM image, it is apparent that several 10 nm-sized particles
+were aggregated to &#x0223c;100 nm clusters which is consistent with
+the SEM image. However, in the zoom in the STM image and line profile
+analysis, deep wells of about 4.5 nm in horizontal length and about
+1.7 nm in vertical length were also found. Another well with a horizontal
+length of about 1.7 nm and a vertical length of about 4.8 nm was also
+observed in another region in the sample. The results are consistent
+with the fragments of nanometer-sized holes on the silica (particles
+or plates) being covered with osmium atoms showing STM images of the
+wells. Here, we report further study on the structure of the holes
+of the silica layer with high-resolution transmission electron microscopy
+(TEM).</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><p>The silica layer
+is identified as an amorphous phase from the results
+of the electron diffraction pattern.</p><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a,b shows
+cross-sectional TEM micrographs taken from the silica layer. The image
+of the layer is composed of two areas, i.e., gray and white contrast
+areas. The white contrast is assigned to void spaces in the sample
+having 100 nm thickness. The small rectangular parts of the TEM images
+have been displayed in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c,e. If we represent the large white area as a large void
+space like a sphere and the smaller white area as a line or a tunnel,
+we can draw networks similar to graphs in mathematics (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>e,f). Even though the images
+change with the time of electron irradiation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S3</ext-link>) focusing the depth of the electron beam (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S4</ext-link>), they appear to be a network (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S5</ext-link>). To obtain more specific data, we
+constructed a network in different parts of the image through <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">Figure S5</ext-link>. <xref rid="tbl2" ref-type="other">Tables <xref rid="tbl2" ref-type="other">2</xref></xref> and <xref rid="tbl3" ref-type="other">3</xref> correspond to the graphs
+about the degree of sphere and the length of the tunnel in <xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">S5</ext-link>, respectively. In general, the number of tunnels
+connected to a sphere, the sphere in the layer is 2&#x02013;5, while
+the length (projected) of the tunnel is 2&#x02013;7 nm.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Development of the sphere
+and tunnel network model for the silica
+layer in rice husk. (a, b) TEM images of the cross-section of the
+silica layer in rice husk (25&#x02009;000&#x000d7;). (c, d) Expanded image
+of the rectangular parts in (a), (b), respectively. (e, f) Graphs
+overlapped on (c), (d), respectively. Scale bars in (a), (b), 100
+nm. The image size of (c), (d), (e), and (f), 50 nm &#x000d7; 50 nm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-01453m_0004" id="gr1" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Observed Frequency
+of Degree of Spheres
+in the Silica Layer in Rice Husk Samples<xref rid="t2fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="7" align="center" char=".">degree
+of sphere<hr/></th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">1</th><th style="border:none;" align="center" char=".">2</th><th style="border:none;" align="center" char=".">3</th><th style="border:none;" align="center" char=".">4</th><th style="border:none;" align="center" char=".">5</th><th style="border:none;" align="center" char=".">6</th><th style="border:none;" align="center" char=".">7</th><th style="border:none;" align="center" char=".">mean degree</th><th style="border:none;" align="center" char=".">standard
+deviation</th></tr></thead><tbody><tr><td style="border:none;" align="left">network&#x000a0;1</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">88</td><td style="border:none;" align="char" char=".">55</td><td style="border:none;" align="char" char=".">12</td><td style="border:none;" align="char" char=".">4</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">3.6</td><td style="border:none;" align="char" char=".">0.7</td></tr><tr><td style="border:none;" align="left">network&#x000a0;2</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">106</td><td style="border:none;" align="char" char=".">43</td><td style="border:none;" align="char" char=".">13</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">3.4</td><td style="border:none;" align="char" char=".">0.7</td></tr><tr><td style="border:none;" align="left">network&#x000a0;3</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">78</td><td style="border:none;" align="char" char=".">48</td><td style="border:none;" align="char" char=".">11</td><td style="border:none;" align="char" char=".">3</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">3.5</td><td style="border:none;" align="char" char=".">0.7</td></tr><tr><td style="border:none;" align="left">network&#x000a0;4</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">75</td><td style="border:none;" align="char" char=".">27</td><td style="border:none;" align="char" char=".">8</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">3.4</td><td style="border:none;" align="char" char=".">0.7</td></tr><tr><td style="border:none;" align="left">total</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">347</td><td style="border:none;" align="char" char=".">173</td><td style="border:none;" align="char" char=".">44</td><td style="border:none;" align="char" char=".">9</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">3.5</td><td style="border:none;" align="char" char=".">0.7</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>Networks 1, 2, 3, and 4 correspond
+to the graphs in <xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref>e,f, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">S5k,l</ext-link>, respectively.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Observed Frequency
+of Length of Tunnels
+in the Silica Layer in Rice Husk Samples<xref rid="t3fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th colspan="9" align="center" char=".">length&#x000a0;of&#x000a0;tunnel/nm<hr/></th><th style="border:none;" align="center" char=".">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th></tr><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x0003c;2</th><th style="border:none;" align="center" char=".">2&#x02013;3</th><th style="border:none;" align="center" char=".">3&#x02013;4</th><th style="border:none;" align="center" char=".">4&#x02013;5</th><th style="border:none;" align="center" char=".">5&#x02013;6</th><th style="border:none;" align="center" char=".">6&#x02013;7</th><th style="border:none;" align="center" char=".">7&#x02013;8</th><th style="border:none;" align="center" char=".">8&#x02013;9</th><th style="border:none;" align="center" char=".">9&#x0003e;</th><th style="border:none;" align="center" char=".">mean&#x000a0;length/nm</th><th style="border:none;" align="center" char=".">standard&#x000a0;deviation/nm</th></tr></thead><tbody><tr><td style="border:none;" align="left">network&#x000a0;1</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">37</td><td style="border:none;" align="char" char=".">63</td><td style="border:none;" align="char" char=".">54</td><td style="border:none;" align="char" char=".">51</td><td style="border:none;" align="char" char=".">31</td><td style="border:none;" align="char" char=".">11</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">4.5</td><td style="border:none;" align="char" char=".">1.4</td></tr><tr><td style="border:none;" align="left">network&#x000a0;2</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">31</td><td style="border:none;" align="char" char=".">61</td><td style="border:none;" align="char" char=".">59</td><td style="border:none;" align="char" char=".">53</td><td style="border:none;" align="char" char=".">17</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">4.4</td><td style="border:none;" align="char" char=".">1.2</td></tr><tr><td style="border:none;" align="left">network&#x000a0;3</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">15</td><td style="border:none;" align="char" char=".">67</td><td style="border:none;" align="char" char=".">68</td><td style="border:none;" align="char" char=".">49</td><td style="border:none;" align="char" char=".">24</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">4</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">4.6</td><td style="border:none;" align="char" char=".">1.3</td></tr><tr><td style="border:none;" align="left">network&#x000a0;4</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">19</td><td style="border:none;" align="char" char=".">36</td><td style="border:none;" align="char" char=".">40</td><td style="border:none;" align="char" char=".">47</td><td style="border:none;" align="char" char=".">21</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">8</td><td style="border:none;" align="char" char=".">3</td><td style="border:none;" align="char" char=".">4.9</td><td style="border:none;" align="char" char=".">1.6</td></tr><tr><td style="border:none;" align="left">total</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">102</td><td style="border:none;" align="char" char=".">227</td><td style="border:none;" align="char" char=".">221</td><td style="border:none;" align="char" char=".">200</td><td style="border:none;" align="char" char=".">93</td><td style="border:none;" align="char" char=".">23</td><td style="border:none;" align="char" char=".">16</td><td style="border:none;" align="char" char=".">3</td><td style="border:none;" align="char" char=".">4.6</td><td style="border:none;" align="char" char=".">1.4</td></tr></tbody></table><table-wrap-foot><fn id="t3fn1"><label>a</label><p>Networks
+1, 2, 3, and 4 correspond
+to the graphs in <xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref>e,f, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">S5k,l</ext-link>, respectively.</p></fn></table-wrap-foot></table-wrap><p>Similar analysis of other TEM images
+can also be visualized as
+mathematical graphs with the edge (tunnel) and node (sphere) structures.
+In graph theory, the number of edges connected to a node is called
+the degree of the node. Similarly, we can term the number of tunnels
+connected to a sphere as the degree of the sphere. On the basis of
+the observed TEM images, the holes in the silica layer are interpreted
+as a network of nanometer-sized spheres with tunnels between them.
+In contrast, molecular sieve crystals have a defined unit cell with
+cavities and channels between the cavities in periodicity.<sup><xref ref-type="bibr" rid="ref49">49</xref>&#x02212;<xref ref-type="bibr" rid="ref51">51</xref></sup> Here, the sphere and tunnel network does not show distinct replications.
+The silica layer has an irregular pore structure, and we cannot apply
+the unit cell view with cavities and channels to the layer. In the
+view point of understanding amorphous porous materials, especially
+in ceramics, it was considered that the pores are the spaces between
+the spheres. This hard sphere and the inter-space view were more applicable
+to the materials originating from aggregation or sintering of spherical
+particles larger than the order of 100 nm. When the size of the constituting
+hard sphere is less than &#x0223c;100 nm, the increased surface energy
+may force a change in the shape of interparticle spaces from the regular
+stacking of the spheres. In the movement of atoms in the solid phase
+or ions and small nano-sized fragments in the solution toward the
+contacting point of a larger particle, the space between the particles
+becomes smaller and more rounded. This change induces a new structure
+with void spheres and tunnels between the spheres for nano-sized amorphous
+porous materials.</p><p>For the experimental conditions of the permeance
+measurement of
+the rice husk, 1 atm and 298 K, the mean free paths &#x003bb; and the
+speed of the gas molecules <italic>v</italic> are greater than 50
+nm and 100 m s<sup>&#x02013;1</sup>, respectively.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup></p><p>Since the length of the tunnels in the layer <italic>l</italic> is much shorter than &#x003bb;, collisions between the molecules
+as
+well as molecule and the inner wall of the tunnel can be neglected
+during the passage of the molecule through the tunnel (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). Then, the time delay in
+a tunnel becomes <italic>l</italic> &#x000d7; <italic>v</italic><sup>&#x02013;1</sup> (&#x0223c;10<sup>&#x02013;10</sup> s). When the molecules
+enter into a nano-sized sphere, they experience numerous collisions
+with the inner surface of the sphere (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). If there is a negligible interaction
+between the molecule and the surface, each collision changes the momentum
+of the molecule and the total sum of the momentum of the molecules
+is zero. This means the molecules move in all directions in the sphere
+after entry. Probably, there is a certain number of collisions needed
+before this state can be obtained but it does not need a long time
+since the inner surface of the small sphere is not flat atomically.
+Let us describe this process as a randomizing scattering or an agitation
+of the molecules in the sphere. When a molecular flux enters sphere <italic>k</italic> through an opening, we can expect a part of the molecular
+flux, &#x003a9;<sub><italic>mk</italic>|<italic>k</italic></sub>/4&#x003c0;,
+to go out from the sphere through the opening <italic>mk</italic>|<italic>k</italic> after a randomizing scattering at <italic>n</italic><sub>rs</sub>(<italic>d</italic><sub><italic>k</italic></sub>/<italic>v</italic> + <italic>t</italic><sub>s</sub>), where &#x003a9;<sub><italic>mk|k</italic></sub>, <italic>d</italic><sub><italic>k</italic></sub>, <italic>t</italic><sub>s</sub>, and <italic>n</italic><sub>rs</sub> are the solid angle of the opening <italic>mk</italic>|<italic>k</italic>, the diameter of the sphere <italic>k</italic>, the interacting
+time between that inner surface of the sphere, and the number of collisions
+needed to reach the randomizing scattering, respectively. After the
+first outflow, the retained flux, <inline-formula id="d30e1135"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-01453m_m001.gif"/></inline-formula> experiences the second randomizing scattering
+and a part of the flux, <inline-formula id="d30e1138"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-01453m_m002.gif"/></inline-formula> directs to the opening <italic>mk</italic>|<italic>k</italic>. Roughly, the entered molecule is
+retained in
+the sphere for 4&#x003c0;<italic>n</italic><sub>rs</sub>(<italic>d</italic>/<italic>v</italic> + <italic>t</italic><sub>s</sub>)/&#x02211;<sub><italic>m</italic>=1</sub><sup arrange="stack"><italic>n</italic></sup>&#x003a9;<sub><italic>mk</italic>|<italic>k</italic></sub>. Since <italic>d</italic> &#x000d7; <italic>v</italic><sup>&#x02013;1</sup> and <italic>t</italic><sub>s</sub> are estimated to be about 10<sup>&#x02013;12</sup> and 10<sup>&#x02013;15</sup> s in the sphere, respectively,
+the total time to pass the silica layer is proportional to <italic>v</italic><sup>&#x02013;1</sup> and the steady-state gas permeation
+shows characteristics of the molecular flow as is seen in the experimental
+result. In the case of a network consisting of tunnels and spheres,
+we can define the reflection of the sphere <italic>i</italic> toward
+tunnel <italic>ij</italic>, <italic>r</italic><sub><italic>ij</italic>|<italic>j</italic></sub> as the ratio of flux returning from sphere <italic>i</italic> to original flux entering sphere <italic>i</italic> starting
+from sphere <italic>j</italic> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c). If the molecules start from sphere <italic>j</italic> connected to other neighboring spheres through <italic>n</italic> tunnels, the total returning molecular flux after the first round
+trip becomes <italic>S</italic><sub><italic>j</italic></sub> = &#x02211;<sub><italic>i</italic>=1</sub><sup arrange="stack"><italic>n</italic></sup>(<italic>r</italic><sub><italic>ji</italic>|<italic>j</italic></sub> &#x000d7; &#x003a9;<sub><italic>ij</italic>|<italic>j</italic></sub>)/&#x02211;&#x003a9;<sub><italic>ij</italic>|<italic>j</italic></sub>. In the limit of a large number of round trips, the total
+reflection from sphere <italic>j</italic> through the inlet tunnel
+1<italic>j</italic>, the reflection of the network <italic>R</italic><sub>N</sub> becomes (&#x003a9;<sub>1<italic>j</italic>|<italic>j</italic></sub>/&#x02211;&#x003a9;<sub><italic>ij</italic>|<italic>j</italic></sub>) &#x000d7; &#x02211;<sub><italic>v</italic>=1</sub><sup arrange="stack">&#x0221e;</sup>(<italic>S</italic><sub><italic>j</italic></sub>)<sup><italic>v</italic></sup> = &#x003a9;<sub>1<italic>j</italic>|<italic>j</italic></sub>/((1 &#x02013; <italic>S</italic><sub><italic>j</italic></sub>) &#x000d7; &#x02211;&#x003a9;<sub><italic>ij</italic>|<italic>j</italic></sub>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Notations in the nanoscale
+sphere and tunnel network model. (a)
+A tunnel with length <italic>l</italic> (<italic>l</italic> &#x0003c; &#x003bb;).
+(b) Sphere <italic>k</italic> with three openings, &#x003a9;<sub>1<italic>k</italic>|<italic>k</italic></sub>, &#x003a9;<sub>1<italic>k</italic>|<italic>k</italic></sub>, and &#x003a9;<sub>1<italic>k</italic>|<italic>k</italic></sub>, and diameter <italic>d</italic> (<italic>d</italic> &#x0003c; &#x003bb;). (c) A network consisted of two ideal spheres and
+four tunnels. The arrows indicate the directions of molecule movements.
+Collisions between the molecules can be neglected during the passage
+through the network.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-01453m_0003" id="gr2" position="float"/></fig><p>The entire porous silica layer can be modeled by considering
+a
+tree like sphere and tunnel network, <italic>T</italic>(<italic>n</italic>) where <italic>n</italic> is the degree of the spheres (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b&#x02013;d). In our
+case, the root or parent sphere has one inletting open tunnel and
+generates (<italic>n</italic> &#x02013; 1) child spheres. Then the
+number of <italic>k</italic>th generation spheres is (<italic>n</italic> &#x02013; 1)<sup><italic>k</italic></sup>. To analyze the root sphere&#x02019;s
+reflection in the tree of <italic>k</italic>-generations, <italic>R</italic><sub>0,<italic>k</italic></sub><sup arrange="stack"><italic>T</italic>(<italic>n</italic>)</sup>, we can
+start from the reflectance of the <italic>k</italic>th generation
+leaf spheres, <italic>R</italic><sub><italic>k,k</italic></sub><sup arrange="stack"><italic>T</italic>(<italic>n</italic>)</sup> and then calculate that of (<italic>k</italic> &#x02013; 1)th generation
+spheres, <italic>R</italic><sub><italic>k</italic>&#x02013;1,<italic>k</italic></sub><sup arrange="stack"><italic>T</italic>(<italic>n</italic>)</sup>. Let the leaf sphere have a tunnel connected
+to the (<italic>k</italic> &#x02013; 1)th generation sphere and (<italic>n</italic> &#x02013; 1) open tunnels. Since, the reflectance of the
+open tunnel is zero, <italic>R</italic><sub><italic>k,k</italic></sub><sup arrange="stack"><italic>T</italic>(<italic>n</italic>)</sup> = 1/<italic>n</italic> toward (<italic>k</italic> &#x02013; 1)th generation sphere when the solid angles of the tunnels
+are equal. Let us follow the special case of <italic>n</italic> =
+2 to understand the change in reflectance of the spheres in the identical
+tunnels and sphere tree (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b). Starting from the <italic>k</italic>th generation
+sphere, <italic>R</italic><sub><italic>k,k</italic></sub><sup arrange="stack"><italic>T</italic>(2)</sup> = 1/2, we
+can get the set of {<italic>k</italic> &#x02013; <italic>x</italic>, <italic>R</italic><sub><italic>k</italic>&#x02013;<italic>x,k</italic></sub><sup arrange="stack"><italic>T</italic>(2)</sup>}; {<italic>k</italic>, 1/2}, {<italic>k</italic> &#x02013; 1, 2/3},
+{<italic>k</italic> &#x02013; 2, 3/4}, ..., {0, (<italic>k</italic> + 1)/(<italic>k</italic> + 2)}. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a shows the change of <italic>R</italic><sub><italic>k</italic>&#x02013;<italic>x,k</italic></sub><sup arrange="stack"><italic>T</italic>(<italic>n</italic>)</sup> for <italic>n</italic> and <italic>x</italic>. The reflectance of
+the tree seems to converge to a finite value as <italic>k</italic> increases as <italic>R</italic><sub>0|&#x0221e;</sub><sup arrange="stack"><italic>T</italic>(<italic>n</italic>)</sup> = 1/<italic>n</italic>.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Schematic change of the reflectance of root
+sphere in the sphere
+and tunnel network. (a, b) <italic>T</italic>(2); (c) <italic>T</italic>(3); and (d) <italic>T</italic>(4); tree with the degree of spheres, <italic>n</italic> = 2; 3; and 4, respectively. The fourth generation leaf
+spheres of the trees have (<italic>n</italic> &#x02013; 1) open tunnels
+(e). A graph with cycles, <italic>G</italic>(4c), transformed from
+(d). The leaf sphere has an open tunnel. The number of generations
+of (b)&#x02013;(e), <italic>k</italic> is 4. It is assumed that all
+the solid angles of tunnels &#x003a9;<sub><italic>ij</italic>|<italic>j</italic></sub> are equal for sphere <italic>j</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2018-01453m_0001" id="gr3" position="float"/></fig><p>In a finite space, a tree cannot grow to infinite
+size, and graphs
+with cycles should be considered. In this sort of network, a <italic>k</italic>th generation sphere is connected to several (<italic>k</italic> &#x02013; 1)th generation spheres. When the degree of the <italic>k</italic>th generation sphere is not changed, the sphere can connect
+up to (<italic>n</italic> &#x02013; 1) spheres. For example, three
+third generation spheres and an open tunnel are connected to one fourth
+generation sphere in the network with <italic>n</italic> = 4 in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e. The reflections
+of spheres in the specific graph or network, <italic>R</italic><sub>4&#x02013;<italic>x</italic>,4</sub><sup arrange="stack"><italic>G</italic>(<italic>n</italic>)</sup> can be estimated as
+a set of {<italic>k</italic> &#x02013; <italic>x</italic>, <italic>R</italic><sub>4&#x02013;<italic>x</italic>,4</sub><sup arrange="stack"><italic>G</italic>(4c)</sup>}; {4, 3/4}, {3,
+4/7}, {2, 7/16}, {1, 16/43}, {0, 43/124} compared to this, the set
+of {<italic>k</italic> &#x02013; <italic>x</italic>, <italic>R</italic><sub>4&#x02013;<italic>x</italic>,4</sub><sup arrange="stack"><italic>T</italic>(4)</sup>} of the tree of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d is {4, 1/4}, {3,
+4/13}, {2, 13/40}, {1, 40/121}, {0, 121/364}. The reflectance of the
+root sphere in the graph converges to the same value of the tree in
+the case of the existence of at least one open tunnel in the leaf
+sphere. The same number of leaf spheres and their parent spheres in
+the graph of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e means the outer diameter of the network does not increase during
+the generation while they start to make a three-dimensional network.
+The result suggests that the reflectance of the root sphere in the
+high-pressure side depends on the degree of nearby connected spheres
+when the spheres far from the root are in cycles with open tunnel(s).
+It also means the transmission of a network with specific spheres
+and tunnels depends on the degree of the spheres in the network. This
+fact can be easily understood physically because the molecules are
+moving in an infinite tree without distinguishing the connecting spheres.</p><p>On the basis of the discussed properties of the network model,
+the high permeance of the silica layer in the rice husk can be explained.
+The permeance of the rice husk silica <italic>P</italic> is <italic>Z</italic> &#x000b7;<italic>T</italic><sub><italic>N</italic></sub>&#x000b7;<italic>N</italic><sub><italic>t</italic></sub>&#x000b7;&#x003c3;<sub><italic>t</italic></sub> where <italic>Z</italic>, <italic>T</italic><sub><italic>N</italic></sub>, <italic>N</italic><sub><italic>t</italic></sub>, and &#x003c3;<sub><italic>t</italic></sub> are the striking
+molecular flux on the surface, the transmittance of the network 1
+&#x02013; <italic>R</italic><sub><italic>N</italic></sub>, the density
+of holes per apparent area of the surface, and cross-section of the
+hole, respectively. Since <italic>P</italic>/<italic>Z</italic> is
+about 0.02 in the permeation experiment and <italic>T</italic><sub><italic>N</italic></sub> is 1/2&#x02013;2/3 from the analysis of the
+network with the degree of 3&#x02013;4, <italic>N</italic><sub><italic>t</italic></sub>&#x000b7;&#x003c3;<sub><italic>t</italic></sub> ranges
+about 0.04 which is not difficult to imagine in the porous and rough
+amorphous surface. It was also observed that the silica layer has
+the similar pores and permeation properties even after the treatment
+up to &#x0223c;1000 K.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> It
+is suggested that the mechanical stability as well as the biological
+stability<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> of the &#x0223c;micrometer silica
+layer with the nanoscaled porous network have been proved in the evolutional
+processes of the living things.</p></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>We have developed a new approach for analysis of amorphous, nanoporous
+materials based on the network of void spheres and tunnels. This view
+point explains the inner structure and the flow characteristics of
+the silica layer in rice husk. Specially, the size of the sphere and
+tunnels are shorter than the mean free paths of gases, the network
+shows gas molecule transmittance depending on the degree of sphere
+and the molecular motion strongly related to its speed. As current
+nanotechnology mainly focuses on the confinement of electron movement,
+the specific system also restricts the movement of traveling molecules
+in the network. This means that the new approach can make possible
+to design and realize the micro/nano-sized gas phase chemical reactor
+system as a technical convergence of chemical engineering technology,
+surface science, and micro/nano fabrication techniques of information
+technology.</p></sec><sec id="sec4"><label>4</label><title>Methodology</title><p>The inner structure of
+the silica layer was investigated with 200
+or 300 keV high-resolution TEM. The rice used in this study was harvested
+from suburban areas of Gwangju in Republic of Korea from 2006. The
+cultivar of rice was Seomyeong (Gyehwa30). The rice husk sample was
+obtained by careful cutting of the rice granule with a razor blade.
+The sample was washed with acetone and cured at 25 &#x000b0;C for 12
+h after imbedding in epoxy resin. The microtomed sections
+(approximately 100&#x02013;150 nm thickness) were cut from the embedded
+specimen by an ultramicrotome using a diamond knife at room temperature
+and then collected onto 200-mesh Formvar coated copper grids. The
+specimen was thinned by ion milling to prepare for high-resolution
+TEM.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsomega.8b01453">10.1021/acsomega.8b01453</ext-link>.<list id="silist" list-type="simple"><list-item><p>Adsorption and
+desorption of N<sub>2</sub> at 77 K on
+the silica layer in rice husk (Figure S1); the long range structure
+of the silica layer (Figure S2); change of the TEM image of an edge
+of the silica layer during electron irradiation (Figure S3); change
+of the TEM image of the silica layer depending on the focusing depth
+(Figure S4); development of sphere and tunnel network model for the
+silica layer in rice husk (Figure S5) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.8b01453/suppl_file/ao8b01453_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao8b01453_si_001.pdf"><caption><p>ao8b01453_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-2"><title>Author Contributions</title><p>C.S.H. designed
+the project. W.J.L. prepared the specimens and analyzed the images.
+C.S.H. developed the network model. S.L.B. and C.S.H. discussed the
+result. All authors wrote the manuscript.</p></notes><notes id="notes-3" notes-type="COI-statement"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This specific
+project was supported by Icosatech Co. Ltd.,
+Gwangju, Republic of Korea.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Chandrasekhar</surname><given-names>S.</given-names></name>; <name><surname>Pramada</surname><given-names>P. N.</given-names></name>; <name><surname>Praveen</surname><given-names>L.</given-names></name>
+<article-title>Effect of
+organic acid treatment
+on the properties of rice husk silica</article-title>. <source>J. Mater.
+Sci.</source>
+<year>2005</year>, <volume>40</volume>, <fpage>6535</fpage>&#x02013;<lpage>6544</lpage><pub-id pub-id-type="doi">10.1007/s10853-005-1816-z</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Bansal</surname><given-names>V.</given-names></name>; <name><surname>Ahmad</surname><given-names>A.</given-names></name>; <name><surname>Sastry</surname><given-names>M.</given-names></name>
+<article-title>Fungus-mediated
+biotransformation
+of amorphous silica in rice husk to nanocrystalline silica</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2006</year>, <volume>128</volume>, <fpage>14059</fpage>&#x02013;<lpage>14066</lpage><pub-id pub-id-type="doi">10.1021/ja062113+</pub-id>.<pub-id pub-id-type="pmid">17061888</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Byun</surname><given-names>S. C.</given-names></name>; <name><surname>Jung</surname><given-names>I. O.</given-names></name>; <name><surname>Kim</surname><given-names>M. Y.</given-names></name>; <name><surname>So</surname><given-names>S. J.</given-names></name>; <name><surname>Yoon</surname><given-names>C.</given-names></name>; <name><surname>Kim</surname><given-names>C.</given-names></name>; <name><surname>Lei</surname><given-names>G.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name>
+<article-title>Morphology of the cross section of
+silica layer in rice husk</article-title>. <source>J. Nanosci. Nanotechnol.</source>
+<year>2011</year>, <volume>11</volume>, <fpage>1305</fpage>&#x02013;<lpage>1309</lpage><pub-id pub-id-type="doi">10.1166/jnn.2011.3338</pub-id>.<pub-id pub-id-type="pmid">21456176</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Johar</surname><given-names>N.</given-names></name>; <name><surname>Ahmad</surname><given-names>I.</given-names></name>; <name><surname>Dufresne</surname><given-names>A.</given-names></name>
+<article-title>Extraction, preparation
+and characterization
+of cellulose fibres and nanocrystals from rice husk</article-title>. <source>Ind. Crops Prod.</source>
+<year>2012</year>, <volume>37</volume>, <fpage>93</fpage>&#x02013;<lpage>99</lpage><pub-id pub-id-type="doi">10.1016/j.indcrop.2011.12.016</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Kumar</surname><given-names>A.</given-names></name>; <name><surname>Negi</surname><given-names>Y. S.</given-names></name>; <name><surname>Choudhary</surname><given-names>V.</given-names></name>; <name><surname>Bhardwaj</surname><given-names>N. K.</given-names></name>
+<article-title>Characterization
+of cellulose nanocrystals produced by acid-hydrolysis from sugarcane
+bagasse as agro-waste</article-title>. <source>J. Mater. Phys. Chem.</source>
+<year>2014</year>, <volume>2</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage><pub-id pub-id-type="doi">10.12691/jmpc-2-1-1</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Kalapathy</surname><given-names>U.</given-names></name>; <name><surname>Proctor</surname><given-names>A.</given-names></name>; <name><surname>Shultz</surname><given-names>J.</given-names></name>
+<article-title>A simple method for production of
+pure silica from rice hull ash</article-title>. <source>Bioresour. Technol.</source>
+<year>2000</year>, <volume>73</volume>, <fpage>257</fpage>&#x02013;<lpage>262</lpage><pub-id pub-id-type="doi">10.1016/S0960-8524(99)00127-3</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>P.</given-names></name>; <name><surname>Shao</surname><given-names>Q.</given-names></name>
+<article-title>Porous silica
+and carbon derived
+materials from rice husk pyrolysis char</article-title>. <source>Microporous
+Mesoporous Mater.</source>
+<year>2014</year>, <volume>188</volume>, <fpage>46</fpage>&#x02013;<lpage>76</lpage><pub-id pub-id-type="doi">10.1016/j.micromeso.2014.01.005</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="patent" id="cit8"><person-group person-group-type="allauthors"><name><surname>Chon</surname><given-names>H.</given-names></name>; <name><surname>Chon</surname><given-names>M.
+J.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name></person-group><article-title>Method for preparing porous
+silica, porous silica based molding material, and nano-sized silica
+particle derived from rice husk</article-title>. Korean Patent <patent>0396457</patent>, <year>2001</year>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Liou</surname><given-names>T. H.</given-names></name>
+<article-title>Preparation
+and characterization of nano-structured silica from rice husk</article-title>. <source>Mater. Sci. Eng., A</source>
+<year>2004</year>, <volume>364</volume>, <fpage>313</fpage>&#x02013;<lpage>323</lpage><pub-id pub-id-type="doi">10.1016/j.msea.2003.08.045</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Jing</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Jin</surname><given-names>Y.</given-names></name>
+<article-title>Silica white
+obtained from rice husk in a fluidized bed</article-title>. <source>Powder Technol.</source>
+<year>2001</year>, <volume>117</volume>, <fpage>232</fpage>&#x02013;<lpage>238</lpage><pub-id pub-id-type="doi">10.1016/S0032-5910(00)00372-7</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Liou</surname><given-names>T. H.</given-names></name>
+<article-title>Evolution
+of chemistry and morphology during the carbonization and combustion
+of rice husk</article-title>. <source>Carbon</source>
+<year>2004</year>, <volume>42</volume>, <fpage>785</fpage>&#x02013;<lpage>794</lpage><pub-id pub-id-type="doi">10.1016/j.carbon.2004.01.050</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>So</surname><given-names>S. J.</given-names></name>; <name><surname>Jang</surname><given-names>I. S.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name>
+<article-title>Effect of micro/nano
+silica particle
+feeding for mice</article-title>. <source>J. Nanosci. Nanotechnol.</source>
+<year>2008</year>, <volume>8</volume>, <fpage>5367</fpage>&#x02013;<lpage>5371</lpage><pub-id pub-id-type="doi">10.1166/jnn.2008.1347</pub-id>.<pub-id pub-id-type="pmid">19198457</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Shen</surname><given-names>Y.</given-names></name>
+<article-title>Rice husk
+silica derived nanomaterials for sustainable application</article-title>. <source>Renewable Sustainable Energy Rev.</source>
+<year>2017</year>, <volume>80</volume>, <fpage>453</fpage>&#x02013;<lpage>366</lpage><pub-id pub-id-type="doi">10.1016/j.rser.2017.05.115</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Sobrosa</surname><given-names>F. Z.</given-names></name>; <name><surname>Stochero</surname><given-names>N. P.</given-names></name>; <name><surname>Marangon</surname><given-names>E.</given-names></name>; <name><surname>Tier</surname><given-names>M. D.</given-names></name>
+<article-title>Development
+of refractory
+ceramics from residual silica derived from rice husk ash</article-title>. <source>Ceram. Int.</source>
+<year>2017</year>, <volume>43</volume>, <fpage>7142</fpage>&#x02013;<lpage>7146</lpage><pub-id pub-id-type="doi">10.1016/j.ceramint.2017.02.147</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Wittayakun</surname><given-names>J.</given-names></name>; <name><surname>Khemthong</surname><given-names>P.</given-names></name>; <name><surname>Prayoonpokarach</surname><given-names>S.</given-names></name>
+<article-title>Synthesis and characterization of
+zeolite NaY from rice husk silica</article-title>. <source>Korean J.
+Chem. Eng.</source>
+<year>2008</year>, <volume>25</volume>, <fpage>861</fpage>&#x02013;<lpage>864</lpage><pub-id pub-id-type="doi">10.1007/s11814-008-0142-y</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Liu</surname><given-names>N.</given-names></name>; <name><surname>Huo</surname><given-names>K.</given-names></name>; <name><surname>McDowell</surname><given-names>M. T.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>
+<article-title>Rice husks as a sustainable
+source of nanostructured silicon for high performance Li-ion battery
+anodes</article-title>. <source>Sci. Rep.</source>
+<year>2013</year>, <volume>3</volume>, <elocation-id>1919</elocation-id><pub-id pub-id-type="doi">10.1038/srep01919</pub-id>.<pub-id pub-id-type="pmid">23715238</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Gaslain</surname><given-names>F. O. M.</given-names></name>; <name><surname>Delacote</surname><given-names>C.</given-names></name>; <name><surname>Walcarius</surname><given-names>A.</given-names></name>; <name><surname>Lebeau</surname><given-names>B.</given-names></name>
+<article-title>One-step preparation
+of thiol-modified mesoporous silica spheres with various functionalization
+levels and different pore structures</article-title>. <source>J. Sol-Gel
+Sci. Technol.</source>
+<year>2009</year>, <volume>49</volume>, <fpage>112</fpage>&#x02013;<lpage>124</lpage><pub-id pub-id-type="doi">10.1007/s10971-008-1845-6</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Alvarez</surname><given-names>J.</given-names></name>; <name><surname>Lopez</surname><given-names>G.</given-names></name>; <name><surname>Amutio</surname><given-names>M.</given-names></name>; <name><surname>Bilbao</surname><given-names>J.</given-names></name>; <name><surname>Olazar</surname><given-names>M.</given-names></name>
+<article-title>Upgrading
+the rice husk char obtained by flash pyrolysis for the production
+of amorphous silica and high quality activated carbon</article-title>. <source>Bioresour. Technol.</source>
+<year>2014</year>, <volume>170</volume>, <fpage>132</fpage>&#x02013;<lpage>137</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2014.07.073</pub-id>.<pub-id pub-id-type="pmid">25127010</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Della</surname><given-names>V. P.</given-names></name>; <name><surname>Kuhn</surname><given-names>I.</given-names></name>; <name><surname>Hotza</surname><given-names>D.</given-names></name>
+<article-title>Rice husk
+ash as an alternate source
+for active silica production</article-title>. <source>Mater. Lett.</source>
+<year>2002</year>, <volume>57</volume>, <fpage>818</fpage>&#x02013;<lpage>821</lpage><pub-id pub-id-type="doi">10.1016/S0167-577X(02)00879-0</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Yal&#x000e7;in</surname><given-names>N.</given-names></name>; <name><surname>Sevinc</surname><given-names>V.</given-names></name>
+<article-title>Studies on silica obtained
+from rice husk</article-title>. <source>Ceram. Int.</source>
+<year>2001</year>, <volume>27</volume>, <fpage>219</fpage>&#x02013;<lpage>224</lpage><pub-id pub-id-type="doi">10.1016/S0272-8842(00)00068-7</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>An</surname><given-names>D.</given-names></name>; <name><surname>Guo</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>
+<article-title>A green route to preparation
+of silica
+powders with rice husk ash and waste gas</article-title>. <source>Chem.
+Eng. J.</source>
+<year>2010</year>, <volume>162</volume>, <fpage>509</fpage>&#x02013;<lpage>514</lpage><pub-id pub-id-type="doi">10.1016/j.cej.2010.05.052</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Slowing</surname><given-names>I. I.</given-names></name>; <name><surname>Vivero-Escoto</surname><given-names>J. L.</given-names></name>; <name><surname>Wu</surname><given-names>C. W.</given-names></name>; <name><surname>Lin</surname><given-names>V. S. Y.</given-names></name>
+<article-title>Mesoporous silica
+nanoparticles as controlled release drug delivery and gene transfection
+carriers</article-title>. <source>Adv. Drug Delivery Rev.</source>
+<year>2008</year>, <volume>60</volume>, <fpage>1278</fpage>&#x02013;<lpage>1288</lpage><pub-id pub-id-type="doi">10.1016/j.addr.2008.03.012</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Radhika</surname><given-names>T.</given-names></name>; <name><surname>Sugunan</surname><given-names>S.</given-names></name>
+<article-title>Structural and catalytic
+investigation of vanadia supported
+on ceria promoted with high surface area rice husk silica</article-title>. <source>J. Mol. Catal. A: Chem.</source>
+<year>2006</year>, <volume>250</volume>, <fpage>169</fpage>&#x02013;<lpage>176</lpage><pub-id pub-id-type="doi">10.1016/j.molcata.2006.01.048</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Ahmed</surname><given-names>A. E.</given-names></name>; <name><surname>Adam</surname><given-names>F.</given-names></name>
+<article-title>Indium incorporated
+silica from rice husk and its catalytic activity</article-title>. <source>Microporous Mesoporous Mater.</source>
+<year>2007</year>, <volume>103</volume>, <fpage>284</fpage>&#x02013;<lpage>295</lpage><pub-id pub-id-type="doi">10.1016/j.micromeso.2007.01.055</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Adam</surname><given-names>F.</given-names></name>; <name><surname>Appaturi</surname><given-names>J. N.</given-names></name>; <name><surname>Iqbal</surname><given-names>A.</given-names></name>
+<article-title>The utilization
+of rice husk silica
+as a catalyst: review and recent progress</article-title>. <source>Catal.
+Today</source>
+<year>2012</year>, <volume>190</volume>, <fpage>2</fpage>&#x02013;<lpage>14</lpage><pub-id pub-id-type="doi">10.1016/j.cattod.2012.04.056</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Lee</surname><given-names>S. Y.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name>
+<article-title>Nano filter from
+sintered rice husk silica membrane</article-title>. <source>J. Nanosci.
+Nanotechnol.</source>
+<year>2006</year>, <volume>6</volume>, <fpage>3384</fpage>&#x02013;<lpage>3387</lpage><pub-id pub-id-type="doi">10.1166/jnn.2006.016</pub-id>.<pub-id pub-id-type="pmid">17252771</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Hwang</surname><given-names>M. J.</given-names></name>; <name><surname>Lee</surname><given-names>S. Y.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name>
+<article-title>A study
+on electric conductivity
+of phosphoric acid supported on nano-pore rice husk silica in H<sub>2</sub>|Pt|H<sub>3</sub>PO<sub>4</sub>/RHS|Pt|O<sub>2</sub> fuel
+cell</article-title>. <source>J. Nanosci. Nanotechnol.</source>
+<year>2006</year>, <volume>6</volume>, <fpage>3491</fpage>&#x02013;<lpage>3493</lpage><pub-id pub-id-type="doi">10.1166/jnn.2006.041</pub-id>.<pub-id pub-id-type="pmid">17252796</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Zhao</surname><given-names>Y. N.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name>
+<article-title>Permeation of solvents through disk
+type rice husk
+silica membrane modified with alkyl silylation reagents</article-title>. <source>J. Nanosci. Nanotechnol.</source>
+<year>2011</year>, <volume>11</volume>, <fpage>7254</fpage>&#x02013;<lpage>7257</lpage><pub-id pub-id-type="doi">10.1166/jnn.2011.4804</pub-id>.<pub-id pub-id-type="pmid">22103170</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Le</surname><given-names>T. B.</given-names></name>; <name><surname>Han</surname><given-names>C. S.</given-names></name>; <name><surname>Cho</surname><given-names>K. W.</given-names></name>; <name><surname>Han</surname><given-names>O. S.</given-names></name>
+<article-title>Covalent immobilization
+of oxylipin biosynthetic enzymes on nanoporous rice husk silica for
+production of cis(+)-12-oxophytodienoic acid</article-title>. <source>Artif. Cells, Nanomed., Biotechnol.</source>
+<year>2017</year>, <fpage>1</fpage>&#x02013;<lpage>7</lpage><pub-id pub-id-type="doi">10.1080/21691401.2017.1375939</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Pattnayak</surname><given-names>A.</given-names></name>; <name><surname>Madhu</surname><given-names>N.</given-names></name>; <name><surname>Panda</surname><given-names>A. S.</given-names></name>; <name><surname>Sahoo</surname><given-names>M. K.</given-names></name>; <name><surname>Mohanta</surname><given-names>K.</given-names></name>
+<article-title>A Comparative
+study on mechanical properties of Al-SiO<sub>2</sub> composites fabricated
+using rice husk silica in crystalline and amorphous form as reinforcement</article-title>. <source>Mater. Today: Proc.</source>
+<year>2018</year>, <volume>5</volume>, <fpage>8184</fpage>&#x02013;<lpage>8192</lpage><pub-id pub-id-type="doi">10.1016/j.matpr.2017.11.507</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Bhagiyalakshmi</surname><given-names>M.</given-names></name>; <name><surname>Yun</surname><given-names>L. J.</given-names></name>; <name><surname>Anuradha</surname><given-names>R.</given-names></name>; <name><surname>Jang</surname><given-names>H. T.</given-names></name>
+<article-title>Utilization of rice
+husk ash as silica source for the synthesis of mesoporous silicas
+and their application to CO<sub>2</sub> adsorption through TREN/TEPA
+grafting</article-title>. <source>J. Hazard. Mater.</source>
+<year>2010</year>, <volume>175</volume>, <fpage>928</fpage>&#x02013;<lpage>938</lpage><pub-id pub-id-type="doi">10.1016/j.jhazmat.2009.10.097</pub-id>.<pub-id pub-id-type="pmid">19939554</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Adam</surname><given-names>F.</given-names></name>; <name><surname>Ahmed</surname><given-names>A. E.</given-names></name>; <name><surname>Min</surname><given-names>S. L.</given-names></name>
+<article-title>Silver modified
+porous silica from
+rice husk and its catalytic potential</article-title>. <source>J. Porous
+Mater.</source>
+<year>2008</year>, <volume>15</volume>, <fpage>433</fpage>&#x02013;<lpage>444</lpage><pub-id pub-id-type="doi">10.1007/s10934-007-9106-6</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Sankar</surname><given-names>S.</given-names></name>; <name><surname>Sharma</surname><given-names>S. K.</given-names></name>; <name><surname>Kaur</surname><given-names>N.</given-names></name>; <name><surname>Lee</surname><given-names>B.</given-names></name>; <name><surname>Kim</surname><given-names>D. Y.</given-names></name>; <name><surname>Lee</surname><given-names>S.</given-names></name>; <name><surname>Jung</surname><given-names>H.</given-names></name>
+<article-title>Biogenerated silica
+nanoparticles synthesized from
+sticky, red, and brown rice husk ashes by a chemical method</article-title>. <source>Ceram. Int.</source>
+<year>2016</year>, <volume>42</volume>, <fpage>4875</fpage>&#x02013;<lpage>4885</lpage><pub-id pub-id-type="doi">10.1016/j.ceramint.2015.11.172</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Han</surname><given-names>C. S.</given-names></name>; <name><surname>Lee</surname><given-names>H. Y.</given-names></name>; <name><surname>Rho</surname><given-names>Y.</given-names></name>
+<article-title>On biologically
+produced nanomaterials</article-title>. <source>Int. J. Nanotechnol.</source>
+<year>2006</year>, <volume>3</volume>, <fpage>236</fpage>&#x02013;<lpage>252</lpage><pub-id pub-id-type="doi">10.1504/IJNT.2006.009582</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Wang</surname><given-names>W.</given-names></name>; <name><surname>Martin</surname><given-names>J. C.</given-names></name>; <name><surname>Fan</surname><given-names>X.</given-names></name>; <name><surname>Han</surname><given-names>A.</given-names></name>; <name><surname>Luo</surname><given-names>Z.</given-names></name>; <name><surname>Sun</surname><given-names>L.</given-names></name>
+<article-title>Silica Nanoparticles and Frameworks from Rice Husk
+Biomass</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2012</year>, <volume>4</volume>, <fpage>977</fpage>&#x02013;<lpage>981</lpage><pub-id pub-id-type="doi">10.1021/am201619u</pub-id>.<pub-id pub-id-type="pmid">22206457</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Carmona</surname><given-names>V. B.</given-names></name>; <name><surname>Oliveria</surname><given-names>R. M.</given-names></name>; <name><surname>Silva</surname><given-names>W. T. L.</given-names></name>; <name><surname>Mattoso</surname><given-names>L. H. C.</given-names></name>; <name><surname>Marconcini</surname><given-names>J. M.</given-names></name>
+<article-title>Nanosilica
+from rice husk: Extraction and characterization</article-title>. <source>Ind. Crops Prod.</source>
+<year>2013</year>, <volume>43</volume>, <fpage>291</fpage>&#x02013;<lpage>296</lpage><pub-id pub-id-type="doi">10.1016/j.indcrop.2012.06.050</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Adam</surname><given-names>F.</given-names></name>; <name><surname>Appaturi</surname><given-names>J. N.</given-names></name>; <name><surname>Thankappan</surname><given-names>R.</given-names></name>; <name><surname>Nawi</surname><given-names>M. A. M.</given-names></name>
+<article-title>Silica&#x02013;tin
+nanotubes prepared from rice husk ash by sol&#x02013;gel method: Characterization
+and its photocatalytic activity</article-title>. <source>Appl. Surf.
+Sci.</source>
+<year>2010</year>, <volume>257</volume>, <fpage>811</fpage>&#x02013;<lpage>816</lpage><pub-id pub-id-type="doi">10.1016/j.apsusc.2010.07.070</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Soltani</surname><given-names>N.</given-names></name>; <name><surname>Bahrami</surname><given-names>A.</given-names></name>; <name><surname>Pech-Canul</surname><given-names>M. I.</given-names></name>; <name><surname>Gonz&#x000e1;lez</surname><given-names>L. A.</given-names></name>
+<article-title>Review
+on the physicochemical treatments of rice husk for production of advanced
+materials</article-title>. <source>Chem. Eng. J.</source>
+<year>2015</year>, <volume>264</volume>, <fpage>899</fpage>&#x02013;<lpage>935</lpage><pub-id pub-id-type="doi">10.1016/j.cej.2014.11.056</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Hinton</surname><given-names>H. E.</given-names></name>
+<article-title>Respiratory
+systems of insect egg shells</article-title>. <source>Annu. Rev. Entomol.</source>
+<year>1969</year>, <volume>14</volume>, <fpage>343</fpage>&#x02013;<lpage>368</lpage><pub-id pub-id-type="doi">10.1146/annurev.en.14.010169.002015</pub-id>.<pub-id pub-id-type="pmid">4882182</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Wangensteen</surname><given-names>O. D.</given-names></name>; <name><surname>Wilson</surname><given-names>D.</given-names></name>; <name><surname>Rahn</surname><given-names>H.</given-names></name>
+<article-title>Diffusion
+of gases across the shell
+of the hen&#x02019;s egg</article-title>. <source>Respir. Physiol.</source>
+<year>1970</year>, <volume>11</volume>, <fpage>16</fpage>&#x02013;<lpage>30</lpage><pub-id pub-id-type="doi">10.1016/0034-5687(70)90099-X</pub-id>.<pub-id pub-id-type="pmid">5491112</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Kumar</surname><given-names>P.</given-names></name>; <name><surname>Ida</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Guliants</surname><given-names>V. V.</given-names></name>; <name><surname>Lin</surname><given-names>J. Y. S.</given-names></name>
+<article-title>Ordered mesoporous
+membranes: Effects of support and surfactant removal conditions on
+membrane quality</article-title>. <source>J. Membr. Sci.</source>
+<year>2006</year>, <volume>279</volume>, <fpage>539</fpage>&#x02013;<lpage>574</lpage><pub-id pub-id-type="doi">10.1016/j.memsci.2005.12.053</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Tsuru</surname><given-names>T.</given-names></name>; <name><surname>Igi</surname><given-names>R.</given-names></name>; <name><surname>Kanezashi</surname><given-names>M.</given-names></name>; <name><surname>Yoshioka</surname><given-names>T.</given-names></name>; <name><surname>Fujisaki</surname><given-names>S.</given-names></name>; <name><surname>Iwamoto</surname><given-names>Y.</given-names></name>
+<article-title>Permeation
+properties of hydrogen and water vapor through porous silica membranes
+at high temperatures</article-title>. <source>AIChE J.</source>
+<year>2011</year>, <volume>57</volume>, <fpage>618</fpage>&#x02013;<lpage>629</lpage><pub-id pub-id-type="doi">10.1002/aic.12298</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kanezashi</surname><given-names>M.</given-names></name>; <name><surname>Yada</surname><given-names>K.</given-names></name>; <name><surname>Yoshioka</surname><given-names>T.</given-names></name>; <name><surname>Tsuru</surname><given-names>T.</given-names></name>
+<article-title>Design of silica networks
+for development of highly permeable hydrogen separation membranes
+with hydrothermal stability</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>414</fpage>&#x02013;<lpage>415</lpage><pub-id pub-id-type="doi">10.1021/ja806762q</pub-id>.<pub-id pub-id-type="pmid">19113940</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Gavalas</surname><given-names>G. R.</given-names></name>; <name><surname>Megiris</surname><given-names>C. E.</given-names></name>; <name><surname>Nam</surname><given-names>S. W.</given-names></name>
+<article-title>Deposition of H<sub>2</sub>-permselective
+SiO<sub>2</sub> films</article-title>. <source>Chem. Eng. Sci.</source>
+<year>1989</year>, <volume>44</volume>, <fpage>1829</fpage>&#x02013;<lpage>1836</lpage><pub-id pub-id-type="doi">10.1016/0009-2509(89)85125-5</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Brunauer</surname><given-names>S.</given-names></name>; <name><surname>Emmett</surname><given-names>P. H.</given-names></name>; <name><surname>Teller</surname><given-names>E.</given-names></name>
+<article-title>Absorption
+of gases in multimolecular
+layers</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1938</year>, <volume>60</volume>, <fpage>309</fpage>&#x02013;<lpage>319</lpage><pub-id pub-id-type="doi">10.1021/ja01269a023</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Sing</surname><given-names>K. S. W.</given-names></name>
+<article-title>Reporting
+physisorption data for gas/solid systems with special reference to
+the determination of surface area and porosity</article-title>. <source>Pure Appl. Chem.</source>
+<year>1982</year>, <volume>54</volume>, <fpage>2201</fpage>&#x02013;<lpage>22l8</lpage><pub-id pub-id-type="doi">10.1351/pac198254112201</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Barrett</surname><given-names>E. P.</given-names></name>; <name><surname>Joyner</surname><given-names>L. G.</given-names></name>; <name><surname>Halenda</surname><given-names>P. P.</given-names></name>
+<article-title>The determination
+of pore volume
+and area distributions in porous substances. I. Computations from
+nitrogen isotherms</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1951</year>, <volume>73</volume>, <fpage>373</fpage>&#x02013;<lpage>380</lpage><pub-id pub-id-type="doi">10.1021/ja01145a126</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Brinker</surname><given-names>C. J.</given-names></name>; <name><surname>Kirkpatrick</surname><given-names>R. J.</given-names></name>; <name><surname>Tallent</surname><given-names>D. R.</given-names></name>; et al. <article-title>NMR
+confirmation of
+strained &#x0201c;Defects&#x0201d; in amorphous silica</article-title>. <source>J. Non-Cryst. Solids</source>
+<year>1988</year>, <volume>99</volume>, <fpage>418</fpage>&#x02013;<lpage>428</lpage><pub-id pub-id-type="doi">10.1016/0022-3093(88)90448-6</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Joo</surname><given-names>S. H.</given-names></name>; <name><surname>Ryoo</surname><given-names>R.</given-names></name>; et al. <article-title>Structural
+study of mesoporous MCM-48 and carbon networks
+synthesized in the spaces of MCM-48 by electron crystallography</article-title>. <source>J. Phys. Chem. B</source>
+<year>2002</year>, <volume>106</volume>, <fpage>1256</fpage>&#x02013;<lpage>1266</lpage><pub-id pub-id-type="doi">10.1021/jp0131875</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Schumacher</surname><given-names>K.</given-names></name>; <name><surname>Ravikovitch</surname><given-names>P. I.</given-names></name>; <name><surname>Chesne</surname><given-names>A. D.</given-names></name>; <name><surname>Neimark</surname><given-names>A. V.</given-names></name>; <name><surname>Unger</surname><given-names>K. K.</given-names></name>
+<article-title>Characterization
+of MCM-48 materials</article-title>. <source>Langmuir</source>
+<year>2000</year>, <volume>16</volume>, <fpage>4648</fpage>&#x02013;<lpage>4654</lpage><pub-id pub-id-type="doi">10.1021/la991595i</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Kleitz</surname><given-names>F.</given-names></name>; <name><surname>Berube</surname><given-names>F.</given-names></name>; <name><surname>Gullet-Nicolas</surname><given-names>R.</given-names></name>; <name><surname>Yang</surname><given-names>C. M.</given-names></name>; <name><surname>Thommes</surname><given-names>M.</given-names></name>
+<article-title>Probing adsorption,
+pore condensation, and hysteresis behavior of pure fluids in three-dimensional
+cubic mesoporous KIT-6 silica</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2010</year>, <volume>114</volume>, <fpage>9344</fpage>&#x02013;<lpage>9355</lpage><pub-id pub-id-type="doi">10.1021/jp909836v</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="book" id="cit52"><person-group person-group-type="allauthors"><name><surname>Bird</surname><given-names>G. A.</given-names></name></person-group><source>Molecular Gas Dynamics
+and the Direct Simulation of Gas Flows</source>; <publisher-name>Oxford
+University Press</publisher-name>, <year>1994</year>.</mixed-citation></ref></ref-list></back></article>

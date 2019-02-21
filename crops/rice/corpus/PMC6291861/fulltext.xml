@@ -1,0 +1,602 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Bioinform Online</journal-id><journal-id journal-id-type="iso-abbrev">Evol. Bioinform. Online</journal-id><journal-id journal-id-type="publisher-id">EVB</journal-id><journal-id journal-id-type="hwp">spevb</journal-id><journal-title-group><journal-title>Evolutionary Bioinformatics Online</journal-title></journal-title-group><issn pub-type="epub">1176-9343</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6291861</article-id><article-id pub-id-type="doi">10.1177/1176934318810990</article-id><article-id pub-id-type="publisher-id">10.1177_1176934318810990</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Putative Interaction Proteins of the Ubiquitin Ligase Hrd1 in
+<italic>Magnaporthe oryzae</italic></article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Haolang</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref><xref ref-type="author-notes" rid="fn1-1176934318810990">#</xref></contrib><contrib contrib-type="author"><name><surname>Lin</surname><given-names>Lianyu</given-names></name><xref ref-type="aff" rid="aff2-1176934318810990">2</xref><xref ref-type="author-notes" rid="fn1-1176934318810990">#</xref></contrib><contrib contrib-type="author"><name><surname>Tang</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref><xref ref-type="author-notes" rid="fn1-1176934318810990">#</xref><xref ref-type="corresp" rid="corresp1-1176934318810990"/></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Xuehang</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref></contrib><contrib contrib-type="author"><name><surname>Zheng</surname><given-names>Qiaojia</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Jun</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Tao</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref></contrib><contrib contrib-type="author"><name><surname>Su</surname><given-names>Li</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref></contrib><contrib contrib-type="author"><name><surname>Dong</surname><given-names>Yanhan</given-names></name><xref ref-type="aff" rid="aff3-1176934318810990">3</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Baohua</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Zonghua</given-names></name><xref ref-type="aff" rid="aff1-1176934318810990">1</xref><xref ref-type="aff" rid="aff4-1176934318810990">4</xref></contrib></contrib-group><aff id="aff1-1176934318810990"><label>1</label>Fujian University Key Laboratory for
+Plant-Microbe Interaction and College of Plant Protection, Fujian Agriculture and
+Forestry University, Fuzhou, China</aff><aff id="aff2-1176934318810990"><label>2</label>Fujian University Key Laboratory for
+Plant-Microbe Interaction and College of Life Sciences, Fujian Agriculture and
+Forestry University, Fuzhou, China</aff><aff id="aff3-1176934318810990"><label>3</label>Qingdao University, Qingdao, China</aff><aff id="aff4-1176934318810990"><label>4</label>Institute of Oceanography, Minjiang
+University, Fuzhou, China</aff><author-notes><corresp id="corresp1-1176934318810990">Wei Tang, Fujian University Key Laboratory
+for Plant-Microbe Interaction and College of Plant Protection, Fujian
+Agriculture and Forestry University, Fuzhou 350002, China. Email:
+<email>tangw@fafu.edu.cn</email></corresp><corresp id="corresp2-1176934318810990">Zonghua Wang, Fujian University Key
+Laboratory for Plant-Microbe Interaction and College of Plant Protection, Fujian
+Agriculture and Forestry University, Fuzhou 350002, China. Email:
+<email>wangzh@fafu.edu.cn</email></corresp><fn fn-type="other" id="fn1-1176934318810990"><label>#</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>07</day><month>12</month><year>2018</year></pub-date><pub-date pub-type="collection"><year>2018</year></pub-date><volume>14</volume><elocation-id>1176934318810990</elocation-id><history><date date-type="received"><day>10</day><month>8</month><year>2018</year></date><date date-type="accepted"><day>12</day><month>9</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2018</copyright-statement><copyright-year>2018</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted.
+Manuscript content on this site is licensed under Creative Commons
+Licenses</copyright-holder><license license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>The endoplasmic reticulum (ER) is the entry portal of the conventional secretory
+pathway where the newly synthesized polypeptides fold, modify, and assemble. The
+ER responses to the unfolded proteins in its lumen (ER stress) by triggering
+intracellular signal transduction pathways include the ER-associated degradation
+(ERAD) pathway and the unfolded protein response (UPR) pathway. In yeast and
+mammals, the ubiquitin ligase Hrd1 is indispensable for the ERAD pathway, and
+also Hrd1-mediated ERAD pathway plays a crucial role in maintaining homeostasis
+and metabolism of human beings. However, the underlying physiological roles and
+regulatory mechanism of the Hrd1-involved ERAD pathway in the plant pathogenic
+fungi are still unclear. Here, we identified the Hrd1 orthologous proteins from
+9 different fungi and noticed that these Hrd1 orthologs are conserved. Through
+identification of MoHrd1 putative interacting proteins by co-immunoprecipitation
+assays and enrichment analysis, we found that MoHrd1 is involved in the
+secretory pathway, energy synthesis, and metabolism. Taken together, our results
+suggest that MoHrd1 is conserved among fungi and play an important role in
+cellular metabolism and infection-related development. Our finding helps uncover
+the mechanism of Hrd1-involved ERAD pathway in fungi and sheds a new light to
+understand the pathogenic mechanism of <italic>Magnaporthe oryzae</italic>.</p></abstract><kwd-group><kwd>endoplasmic reticulum&#x02013;associated degradation (ERAD)</kwd><kwd>the ubiquitin ligase Hrd1</kwd><kwd>mass spectrometry</kwd><kwd><italic>Magnaporthe oryzae</italic></kwd></kwd-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-1176934318810990"><title>Introduction</title><p>Approximately one-third of the cellular proteomes is destined for the plasma
+membrane, extracellular space, or secretory compartments via targeting to the entry
+portal of the secretory pathway-endoplasmic reticulum (ER).<sup><xref rid="bibr1-1176934318810990" ref-type="bibr">1</xref></sup> The newly synthesized polypeptides enter into the ER through the Sec61
+translocon complex for folding and N-linked glycosylation. Then, a diverse set of
+chaperones and accessory proteins assist immature polypeptides in folding to the
+native conformation, whereas chaperone interactions keep these proteins soluble to
+prevent aggregation in the ER lumen.<sup><xref rid="bibr2-1176934318810990" ref-type="bibr">2</xref><xref rid="bibr3-1176934318810990" ref-type="bibr"/><xref rid="bibr4-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr5-1176934318810990" ref-type="bibr">5</xref></sup> The ER is a checkpoint of the
+secretory pathway, with hosting a stringent and specialized protein quality control
+(PQC) system, which delivers the correctly folded proteins to the Golgi complex
+while retaining the abnormal folding proteins in the ER.<sup><xref rid="bibr1-1176934318810990" ref-type="bibr">1</xref>,<xref rid="bibr6-1176934318810990" ref-type="bibr">6</xref>,<xref rid="bibr7-1176934318810990" ref-type="bibr">7</xref></sup> The ER PQC machinery regulates
+both the ER-associated degradation (ERAD) pathway for eliminating the ultimately
+unfolded proteins and unfolded protein response (UPR) pathway, a signaling cascade
+pathway for reducing protein biosynthesis and facilitating ER folding and
+degradation ability.<sup><xref rid="bibr7-1176934318810990" ref-type="bibr">7</xref><xref rid="bibr8-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr9-1176934318810990" ref-type="bibr">9</xref></sup></p><p>ERAD pathway removed the aberrant proteins via a series of tightly coupled stages
+consisting of substrate recognition, retrotranslocation, and ubiquitin proteasome
+system (UPS)-dependent degradation<sup><xref rid="bibr4-1176934318810990" ref-type="bibr">4</xref>,<xref rid="bibr8-1176934318810990" ref-type="bibr">8</xref>,<xref rid="bibr10-1176934318810990" ref-type="bibr">10</xref>,<xref rid="bibr11-1176934318810990" ref-type="bibr">11</xref></sup> In the budding yeast, ER
+luminal substrates are recognized by the molecular chaperones such as Kar2, Scj1,
+Jem1, and Pdi1, retrotranslocated, and ubiquitinated by the Hrd1 complex and are
+finally delivered to the UPS for degradation.<sup><xref rid="bibr4-1176934318810990" ref-type="bibr">4</xref>,<xref rid="bibr12-1176934318810990" ref-type="bibr">12</xref><xref rid="bibr13-1176934318810990" ref-type="bibr"/><xref rid="bibr14-1176934318810990" ref-type="bibr"/><xref rid="bibr15-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr16-1176934318810990" ref-type="bibr">16</xref></sup> The multitransmembrane protein
+Hrd1 is the E3 ubiquitin ligase for the substrate ubiquitination. Moreover,
+cryo-electron microscopic structure suggested that the retrotranslocation channel
+for the misfolded proteins crossing the ER membrane is formed by the membrane
+protein Hrd1.<sup><xref rid="bibr17-1176934318810990" ref-type="bibr">17</xref><xref rid="bibr18-1176934318810990" ref-type="bibr"/><xref rid="bibr19-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr20-1176934318810990" ref-type="bibr">20</xref></sup> In the mammals, Hrd1 is
+indispensable for the misfolded proteins which retrotranslocated from the ER lumen
+to the cytosolic UPS for degradation.<sup><xref rid="bibr6-1176934318810990" ref-type="bibr">6</xref>,<xref rid="bibr21-1176934318810990" ref-type="bibr">21</xref><xref rid="bibr22-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr23-1176934318810990" ref-type="bibr">23</xref></sup> Moreover, Hrd1-mediated ERAD
+pathway is essential for maintaining metabolic homeostasis and provides a
+breathtaking new challenge of disease control such as Alzheimer disease and
+Parkinson disease.<sup><xref rid="bibr24-1176934318810990" ref-type="bibr">24</xref>,<xref rid="bibr25-1176934318810990" ref-type="bibr">25</xref></sup> However, the physiological roles of the Hrd1-involved ERAD
+pathway in the plant pathogenic fungi are still unclear.</p><p>The hemibiotrophic filamentous fungus <italic>Magnaporthe oryzae</italic>
+(<italic>Pyricularia oryzae</italic>) is the causal agent of rice blast disease
+which is one of the most destructive diseases of cultivated rice worldwide and
+threats rice production and global food security seriously. <italic>Magnaporthe
+oryzae</italic> has been used as a primary model organism for studying
+plant-fungi interaction.<sup><xref rid="bibr26-1176934318810990" ref-type="bibr">26</xref><xref rid="bibr27-1176934318810990" ref-type="bibr"/><xref rid="bibr28-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr29-1176934318810990" ref-type="bibr">29</xref></sup> Similar to other fungi and
+oomycetes, rice blast fungus secretes some protein termed effectors during infection
+development for suppressing plant immunity and establishing plant disease.
+Sequentially, <italic>M. oryzae</italic> has evolved two distinct secretion systems:
+on one hand, apoplastic effectors such as Bas4 and Slp1 are delivered into the space
+between the fungal cell wall and extra-invasive hyphal membrane (EIHM) by
+conventional ER-Golgi secretion pathway; on the other hand, cytoplasmic effectors
+(such as Pwl2, AvrPiz-t, and AvrPi9) are secreted from invasive hyphae into the
+extracellular compartment and the biotrophic interfacial complex (BIC).<sup><xref rid="bibr30-1176934318810990" ref-type="bibr">30</xref><xref rid="bibr31-1176934318810990" ref-type="bibr"/><xref rid="bibr32-1176934318810990" ref-type="bibr"/><xref rid="bibr33-1176934318810990" ref-type="bibr"/><xref rid="bibr34-1176934318810990" ref-type="bibr"/><xref rid="bibr35-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr36-1176934318810990" ref-type="bibr">36</xref></sup> The ER-associated secretory
+pathway is important for rice blast disease development. Previous studies elaborated
+that MoHac1, MoLhs1, and MoKar2 involved in UPR pathway are essential for asexual
+development and infection-related morphogenesis,<sup><xref rid="bibr37-1176934318810990" ref-type="bibr">37</xref>,<xref rid="bibr38-1176934318810990" ref-type="bibr">38</xref></sup> but little is known about
+another cascade pathway of the ER PQC system in <italic>M. oryzae</italic>.</p><p>Protein-protein interactions play a vital role in many cellular processes, such as
+translation and signal transduction.<sup><xref rid="bibr39-1176934318810990" ref-type="bibr">39</xref><xref rid="bibr40-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr41-1176934318810990" ref-type="bibr">41</xref></sup> Immunoprecipitation (IP) is a
+proven technique for the enrichment and isolation of interacting proteins via an
+antigen binding to a specific antibody.<sup><xref rid="bibr42-1176934318810990" ref-type="bibr">42</xref></sup> Tandem mass spectrometry (MS) could identify the proteins which directly or
+indirectly bind each other.<sup><xref rid="bibr39-1176934318810990" ref-type="bibr">39</xref>,<xref rid="bibr43-1176934318810990" ref-type="bibr">43</xref></sup> Thus, IP-MS is a feasible and complementary approach to screen
+interaction proteins and investigate the potential biological function of the target
+protein. For example, Li et al. screened out MoArk1 interaction proteins MoCapA and
+MoCapB using IP-MS. Further study showed that MoArk1 regulated MoCapA and MoCapB to
+involve in control of growth, conidiation, and pathogenesis in <italic>M.
+oryzae</italic>.<sup><xref rid="bibr44-1176934318810990" ref-type="bibr">44</xref></sup></p><p>In this study, we identified the Hrd1 orthologous proteins in different fungi and
+noticed that these proteins are conserved. Moreover, we demonstrated that MoHrd1
+could be crucial for the secretory pathway, energy synthesis, and metabolism in
+<italic>M. oryzae</italic> both by bioinformatics analysis and by the
+co-immunoprecipitation (Co-IP) assays.</p></sec><sec sec-type="materials|methods" id="section2-1176934318810990"><title>Materials and Methods</title><sec id="section3-1176934318810990"><title>Strains and culture conditions</title><p>The <italic>M. oryzae</italic> Guy11 strain was used as wild type (WT) in this
+study. All strains were cultured on complete medium (CM) agar plates at 28&#x000b0;C
+(CM: 10&#x02009;g <sc>D</sc>-glucose, 2&#x02009;g peptone, 1&#x02009;g yeast extract, 1&#x02009;g casamino acid,
+50&#x02009;mL 20&#x000d7; nitrate salts, 1&#x02009;mL trace elements, 1&#x02009;mL vitamin solution, 15&#x02009;g agar,
+and 1&#x02009;L distilled water). Liquid CM medium was used to prepare the mycelia for
+DNA and protein extraction.</p></sec><sec id="section4-1176934318810990"><title>Construction of MoHRD1::GFP</title><p>To establish <italic>MoHRD1::GFP</italic> construct, full-length genomic DNA of
+<italic>MoHRD1</italic> with the native promoter (1.5&#x02009;kb upstream fragment)
+was cloned from Guy11 using primer pair HRD1 Com-F and HRD1 Com-R which was then
+co-introduced with <italic>Xho</italic> I (Takara, Shiga, Japan)-digested pYF11
+into the XK125 yeast competent cell. Plasmids of <italic>MoHRD1::GFP</italic>
+were recovered from generating Trp<sup>+</sup> yeast transformants and verified
+by performing polymerase chain reaction (PCR) assays with primer pair HRD1 Con-F
+and GFP-R.</p></sec><sec id="section5-1176934318810990"><title>IP assays</title><p>The <italic>MoHRD1-GFP</italic> fusion construct was introduced by transformation
+into protoplasts of the <italic>Mohrd1</italic> null mutant. Mycelia were ground
+into fine powder in liquid nitrogen and resuspended in 20&#x02009;mL lysis buffer (10&#x02009;mM
+Tris-HCl [pH 7.5], 150&#x02009;mM NaCl, 0.5&#x02009;mM EDTA, 0.5% NP-40) with freshly added 1&#x02009;mM
+phenylmethylsulfonyl fluoride (PMSF) and 10&#x02009;&#x003bc;L of protease inhibitor cocktail
+(Sigma Aldrich , Shanghai, China). Then, total proteins were incubated with
+anti-GFP (green fluorescent protein) agarose beads (ChromoTek,
+Planegg-Martinsried, Germany). Proteins bound to GFP agarose beads were eluted
+after a series of washing steps according to the manufacturer&#x02019;s protocol.
+Analysis of bound proteins was performed by the Beijing Genomics Institute using
+MS.</p></sec><sec id="section6-1176934318810990"><title>Pathway enrichment analysis and Gene Ontology enrichment analysis of MoHrd1
+putative interaction proteins</title><p>KEGG (Kyoto Encyclopedia of Genes and Genome; <ext-link ext-link-type="uri" xlink:href="http://www.genome.jp/kegg/">http://www.genome.jp/kegg/</ext-link>) is a primary biological database of
+the pathway and an efficient instrument for characterization of metabolism and
+metabolic network.<sup><xref rid="bibr45-1176934318810990" ref-type="bibr">45</xref></sup> The most important metabolic pathways and signal transduction pathways
+that putative interacting proteins are involved could be identified via pathway
+enrichment analysis. Providing functional information of gene product, GO (Gene
+Ontology; <ext-link ext-link-type="uri" xlink:href="http://www.geneontology.org/">http://www.geneontology.org/</ext-link>) is a published bioinformatics
+database that classifies functions along molecular function, biological process,
+and cellular component in 3 aspects. The enrichment analysis of MoHrd1 putative
+interaction proteins was performed using ClueGO<sup><xref rid="bibr46-1176934318810990" ref-type="bibr">46</xref></sup> which is a Cytoscape plugin to improve the biological interpretation of
+gene lists and a functional organization network was constructed.</p></sec></sec><sec sec-type="results" id="section7-1176934318810990"><title>Results</title><sec id="section8-1176934318810990"><title>Identification of Hrd1p orthologous proteins in different fungi</title><p>Using the amino acid sequence of Hrd1p from <italic>Saccharomyces
+cerevisiae</italic> as a query, we performed a homology search in 9 fungal
+species including <italic>M. oryzae, Ustilago maydis, Fusarium graminearum,
+Botrytis cinerea, Neurospora crassa, Aspergillus fumigatus, Aspergillus
+nidulans, Aspergillus oryzae</italic>, and <italic>Aspergillus
+niger</italic> in the NCBI (National Center for Biotechnology Information)
+database (<ext-link ext-link-type="uri" xlink:href="http://blast.ncbi.nlm.nih.gov/">http://blast.ncbi.nlm.nih.gov/</ext-link>). Nine potential candidates
+including the orthologous protein of <italic>M. oryzae</italic> encoded by
+MGG_09205 were found. Based on the sequences of these 9 Hrd1 orthologous
+proteins, a phylogenetic tree was constructed using the ClustalX and the
+<italic>MEGA</italic> version 6 software<sup><xref rid="bibr47-1176934318810990" ref-type="bibr">47</xref>,<xref rid="bibr48-1176934318810990" ref-type="bibr">48</xref></sup> (<xref ref-type="fig" rid="fig1-1176934318810990">Figure 1</xref>). The phylogenetic dendrogram
+shows that the 4 potential Hrd1 orthologs in the <italic>Aspergillus</italic>
+species are most closely related, whereas the Hrd1 orthologous protein in
+<italic>M. oryzae</italic> is closely related to orthologs in <italic>N.
+crassa, F. graminearum</italic>, and <italic>B. cinerea</italic>.</p><fig id="fig1-1176934318810990" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Phylogenetic tree of the Hrd1 orthologous proteins in different fungi.
+The Hrd1 protein sequences from different fungi were aligned using the
+ClustalX software. Phylogenetic analysis was performed using
+<italic>MEGA</italic> version 6.</p></caption><graphic xlink:href="10.1177_1176934318810990-fig1"/></fig></sec><sec id="section9-1176934318810990"><title>Hrd1 is highly conserved in different fungi</title><p>To investigate and compare the function of these Hrd1 orthologous proteins,
+functional domains were identified using the SMART software<sup><xref rid="bibr49-1176934318810990" ref-type="bibr">49</xref>,<xref rid="bibr50-1176934318810990" ref-type="bibr">50</xref></sup> (<ext-link ext-link-type="uri" xlink:href="http://smart.embl-heidelberg.de/">http://smart.embl-heidelberg.de/</ext-link>; <xref ref-type="fig" rid="fig2-1176934318810990">Figure 2</xref>). Identification of domains from
+protein sequences demonstrated that Hrd1 proteins are highly conserved among
+selected fungi and all contain a RING domain and several transmembrane regions.
+Moreover, 4 to 6 transmembrane regions and a RING domain localize to the similar
+loci from N-terminus, whereas most of them hold a coiled-coil domain between the
+last 2 transmembrane regions. These observations suggest that the function of
+these Hrd1 orthologous proteins could be highly conserved.</p><fig id="fig2-1176934318810990" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Domain architecture of Hrd1 orthologous proteins in different fungi. The
+protein functional domains were identified using the SMART software
+(<ext-link ext-link-type="uri" xlink:href="http://smart.embl-heidelberg.de/">http://smart.embl-heidelberg.de/</ext-link>).</p></caption><graphic xlink:href="10.1177_1176934318810990-fig2"/></fig><p>We further performed a sequence alignment using the ClustalX software.<sup><xref rid="bibr47-1176934318810990" ref-type="bibr">47</xref></sup> Amino acid alignments of Hrd1 orthologs display high conservation. Almost
+one-half of the amino acids are highly conserved among these 10 fungi,
+especially in the N-terminus transmembrane regions and RING region (<xref ref-type="fig" rid="fig3-1176934318810990">Figure 3</xref>). In the RING
+region, almost one-third of the amino acids are identical among all selected
+fungi; meanwhile, more than one-half of the amino acids are uniform among
+<italic>F. graminearum, B. cinerea, N. crassa, M. oryzae, A. fumigatus, A.
+nidulans, A. oryzae</italic>, and <italic>A. niger</italic> (<xref ref-type="fig" rid="fig4-1176934318810990">Figure 4A</xref>). For visually
+displaying the conservation of the RING domain, we built a sequence logo diagram
+using the WebLogo software (<ext-link ext-link-type="uri" xlink:href="http://weblogo.berkeley.edu/logo.cgi">http://weblogo.berkeley.edu/logo.cgi</ext-link>).<sup><xref rid="bibr51-1176934318810990" ref-type="bibr">51</xref></sup> Simultaneously, the amino acids logo diagram showed that Hrd1 RING domain
+is highly conserved in these selected fungi (<xref ref-type="fig" rid="fig4-1176934318810990">Figure 4B</xref>).</p><fig id="fig3-1176934318810990" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Hrd1 is conserved in different fungi. Sequence alignment of Hrd1 in
+different fungi. Sequence identity is shaded in black; shading in dark
+gray shows that amino acid sequence are conserved over 75% species,
+whereas shading in light gray shows only over 50% species. The alignment
+was performed using ClustalX software.</p></caption><graphic xlink:href="10.1177_1176934318810990-fig3"/></fig><fig id="fig4-1176934318810990" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Hrd1 RING domain is conserved in different fungi. (A) Sequence alignment
+of the Hrd1 RING domains in different fungi. Red shows sequence
+identity, blue shows sequence is conserved over 75% species, whereas
+purple displays only over a half, and the consensus exhibited the
+conserved amino acids. (B) Sequence logo diagram shows Hrd1 RING domain
+ortholog in different fungi. The alignment was performed using the
+ClustalX software. The logo was built using the WebLogo software
+(<ext-link ext-link-type="uri" xlink:href="http://weblogo.berkeley.edu/logo.cgi">http://weblogo.berkeley.edu/logo.cgi</ext-link>).</p></caption><graphic xlink:href="10.1177_1176934318810990-fig4"/></fig><p>In the human pathogenic fungi <italic>A. fumigatus</italic>, loss of HrdA (the
+Hrd1 ortholog in <italic>A. fumigatus</italic>) exhibited defects in degradation
+of a folding-defective ERAD substrate, as well as activation of the UPR.<sup><xref rid="bibr52-1176934318810990" ref-type="bibr">52</xref></sup> In the filamentous fungus <italic>A. oryzae</italic>, HrdA (the Hrd1
+ortholog in <italic>A. oryzae</italic>) mediated ERAD pathway is required for
+the degradation of the moderate-level MsdS mutant.<sup><xref rid="bibr53-1176934318810990" ref-type="bibr">53</xref></sup> We found that approximately 80% of the MoHrd1 RING domain amino acid
+sequences are identical to those in <italic>A. fumigatus</italic> and <italic>A.
+oryzae</italic> (<xref ref-type="fig" rid="fig4-1176934318810990">Figure
+4A</xref>). Meanwhile, Hrd1 orthologs in <italic>M. oryzae, A.
+fumigatus</italic>, and <italic>A. oryzae</italic> contain similar
+functional domain combination (<xref ref-type="fig" rid="fig2-1176934318810990">Figure 2</xref>). In brief, these results suggest that MoHrd1 may play an
+important role in the ER PQC system of <italic>M oryzae</italic>.</p></sec><sec id="section10-1176934318810990"><title>Putative interaction proteins of MoHrd1 were identified by IP-MS</title><p>To identify MoHrd1 putative interaction proteins, Co-IP assays were performed. A
+GFP-encoding gene was fused at the C-terminus of the MoHrd1-coding sequence
+using the native promoter and was transformed into the &#x00394;<italic>Mohrd1</italic>
+mutant (unpublished data). Wild type expressing GFP gene driven by a
+constitutive promoter was used as a negative control. Western blots were used to
+detect Co-IP assays with GFP-tag proteins extracted from MoHrd1::GFP and the GFP
+control strain of the WT. As shown in <xref ref-type="fig" rid="fig5-1176934318810990">Figure 5</xref>, the anti-GFP antibody detected
+the 117-kDa MoHrd1::GFP-fusing protein and the GFP, 26-kDa bands, respectively,
+from total proteins isolated from the corresponding strains and proteins eluted
+from anti-GFP beads, indicating that GFP-tag proteins were successfully
+co-immunoprecipitated in the elution buffer.</p><fig id="fig5-1176934318810990" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Western blots of total proteins (total) and proteins eluted (elution)
+from the anti-GFP agarose beads from the wild type constitutively
+expressing GFP and transformant expressing MoHrd1::GFP were probed with
+the anti-GFP (GFP-Tag 7G9 Mouse mAb; Abmart, Shanghai, China) antibody.
+GFP indicates green fluorescent protein.</p></caption><graphic xlink:href="10.1177_1176934318810990-fig5"/></fig><p>Meanwhile, tandem MS was employed to identify MoHrd1 putative interacting
+proteins in the immunoprecipitates. The candidate interaction proteins present
+in the different replicates but not present in the negative control were
+regarded as potential interaction proteins; in total, 161 putative interaction
+proteins were identified (<ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/1176934318810990">Supplementary Table S2</ext-link>).</p><p>In <italic>S. cerevisiae</italic>, 60 Hrd1p interaction proteins were identified
+using matrix-assisted laser desorption/ionization-time of flight MS and liquid
+chromatography-tandem MS.<sup><xref rid="bibr54-1176934318810990" ref-type="bibr">54</xref></sup> Using <italic>S cerevisiae</italic> Hrd1 interaction proteins as a query,
+we further performed a homologous search in <italic>M. oryzae</italic>; in
+total, 60 homologous proteins were found (<ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/1176934318810990">Supplementary Table S3</ext-link>). Moreover, 5 of the MoHrd1 putative
+interaction proteins consisting of MGG_05193, MGG_13508, MGG_01790, MGG_04400,
+and MGG_02297 were present in these 60 homologous proteins. MGG_13508,
+MGG_02297, and MGG_05193 were the homologous proteins of <italic>S.
+cerevisiae</italic> Hrd3, Yos9, and Cdc48, respectively. In yeast, Hrd3 was
+required for ERAD pathway and was indispensable for Hrd1 stability<sup><xref rid="bibr55-1176934318810990" ref-type="bibr">55</xref></sup>; Yos9 was essential for ERAD substrate recognition and took part in
+delivering substrates into Hrd1 complex<sup><xref rid="bibr56-1176934318810990" ref-type="bibr">56</xref><xref rid="bibr57-1176934318810990" ref-type="bibr"/>&#x02013;<xref rid="bibr58-1176934318810990" ref-type="bibr">58</xref></sup>; Cdc48 formed a
+heterotrimeric complex with Npl4 and Ufd1 to facilitate substrate retrotranslocation.<sup><xref rid="bibr59-1176934318810990" ref-type="bibr">59</xref></sup> In short, <italic>S. cerevisiae</italic> Hrd3, Yos9, and Cdc48 were
+required for Hrd1-involved ERAD pathway. Taken together, this may suggest that
+MoHrd1 synergizes with MGG_13508, MGG_02297, and MGG_05193 to play a similar
+role in the ERAD pathway of <italic>M. oryzae</italic>.</p></sec><sec id="section11-1176934318810990"><title>Pathway enrichment analysis and GO enrichment analysis of the MoHrd1 putative
+interaction proteins</title><p>Pathway enrichment analysis (KEGG) and functional enrichment analysis (GO) were
+applied to elucidating the biological functions of the putative interaction
+proteins related to MoHrd1. Enriched results were subjected to multiple testing
+adjustment with a threshold value (adjusted <italic>P</italic> value with
+Bonferroni correction) less than 0.05. In total, 5 significantly enriched
+pathways were annotated, and their descriptions suggest that they are highly
+correlated with energy metabolisms such as tricarboxylic acid (TCA) cycle,
+ribosome biogenesis, and secretory pathways such as protein export and protein
+processing in ER in eukaryotes (<xref ref-type="fig" rid="fig6-1176934318810990">Figure 6A</xref>). To better exhibit functional consequence, only the top
+10 significant enriched GO terms are shown in <xref ref-type="fig" rid="fig6-1176934318810990">Figure 6B</xref>. Consistent with pathway
+enrichment results, several GO terms such as gene expression, translation,
+ribosome biogenesis, metabolic process, and biosynthetic process indicate that
+these protein data sets belong to the secretory pathway, energy synthesis, and
+metabolism.</p><fig id="fig6-1176934318810990" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>Pathway enrichment analysis and GO (Gene Ontology) enrichment analysis of
+MoHrd1 putative interaction proteins. (A) Advanced bubble chart shows
+enrichment of MoHrd1 putative interaction proteins in different
+signaling pathways. <italic>Y</italic>-axis label represents pathway,
+and <italic>X</italic>-axis label represents rich factor (rich
+factor&#x02009;=&#x02009;amount of putative interaction proteins enriched in the
+pathway/amount of all proteins in background proteins set). Size and
+color of the bubble represent the amount of putative interaction
+proteins enriched in pathway and enrichment significance, respectively.
+(B) Column diagram shows enrichment of MoHrd1 putative interaction
+proteins in different metabolic pathways. <italic>Y</italic>-axis label
+represents pathway, and <italic>X</italic>-axis label represents the
+ratio of putative interaction proteins.</p></caption><graphic xlink:href="10.1177_1176934318810990-fig6"/></fig></sec></sec><sec sec-type="discussion" id="section12-1176934318810990"><title>Discussion</title><p>In this study, we identified the Hrd1 orthologous proteins in 9 different fungi and
+found that these orthologs are conserved. Further enrichment analysis suggested that
+the Hrd1 ortholog in <italic>M. oryzae</italic> should be essential for the
+secretory pathway, energy synthesis, and metabolism.</p><p>Previous studies on the ubiquitin ligase Hrd1 revealed that the multispanning
+membrane Hrd1 is required for the ER luminal substrates retrotranslocation and
+ubiquitination, and its autoubiquitination triggered protein retrotranslocation.
+Moreover, this membrane-anchored protein is involved in the constitution of the
+retrotranslocation channel for the movement of the abnormal polypeptides through the
+ER membrane.<sup><xref rid="bibr4-1176934318810990" ref-type="bibr">4</xref>,<xref rid="bibr17-1176934318810990" ref-type="bibr">17</xref>,<xref rid="bibr18-1176934318810990" ref-type="bibr">18</xref>,<xref rid="bibr20-1176934318810990" ref-type="bibr">20</xref>,<xref rid="bibr60-1176934318810990" ref-type="bibr">60</xref></sup> And, the Hrd1
+RING domain is indispensable for the function of Hrd1 in the ERAD pathway; the
+site-specific mutant (C399S) is not functional.<sup><xref rid="bibr61-1176934318810990" ref-type="bibr">61</xref></sup> More than that recent studies revealed that the Hrd1 RING domain plays an
+important role in the activation of its cognate E2 ubiquitin-conjugating enzyme.<sup><xref rid="bibr62-1176934318810990" ref-type="bibr">62</xref></sup> Our results showed that all 10 Hrd1 orthologs contain similar functional
+domain combination (<xref ref-type="fig" rid="fig2-1176934318810990">Figure
+2</xref>) and the RING domain is highly conserved (<xref ref-type="fig" rid="fig4-1176934318810990">Figure 4</xref>). This may suggest that the Hrd1
+orthologs including MoHrd1 play a similar role in the ERAD pathway among different
+fungi.</p><p>Recent studies have shown that <italic>M. oryzae</italic> secreted effectors to
+suppress plant immunity and support rice blast development.<sup><xref rid="bibr30-1176934318810990" ref-type="bibr">30</xref>,<xref rid="bibr33-1176934318810990" ref-type="bibr">33</xref></sup> For instance,
+<italic>M. oryzae</italic> secreted Slp1 (secreted LysM protein 1) to overcome
+PTI (pathogen-associated molecular patterns&#x02013;triggered immunity) via suppressing
+chitin-induced plant immune responses.<sup><xref rid="bibr63-1176934318810990" ref-type="bibr">63</xref></sup> Hence, correct secretion of effectors is necessary for the <italic>M
+oryzae</italic> infection&#x02013;related development and abnormal secretory proteins
+should be eliminated in time. Consequently, MoHrd1-mediated ERAD pathway may be
+important for the infection-related morphogenesis. Similarly, our results showed
+that MoHrd1 is related to the conventional secretory pathway (translation, protein
+processing in ER, protein export; <xref ref-type="fig" rid="fig6-1176934318810990">Figure 6</xref>). This may suggest that MoHrd1 is required for the pathogenesis
+of <italic>M. oryzae</italic> via mediating secretion of effectors.</p><p>Misfolded proteins undergo 2 sequential steps after retrotranslocation and
+ubiquitination in the cytosol, N-linked glycans are removed from misfolded proteins,
+and remaining proteins delivered to the proteasome for degradation into small
+peptides; meanwhile, free oligosaccharides are generated with the Png1 catalyzation.<sup><xref rid="bibr4-1176934318810990" ref-type="bibr">4</xref></sup> Our results showed that MoHrd1 putative interaction proteins mainly enriched
+the energy synthesis and metabolism (<xref ref-type="fig" rid="fig6-1176934318810990">Figure 6</xref>). This may reveal that the product
+of the ERAD pathway such as small peptides and free oligosaccharides is recycled
+into the cellular metabolism such as the TCA cycle in <italic>M. oryzae</italic>.
+Hrd1 (HMG-CoA reductase degradation) was discovered in the genetic analysis of Hmg2
+degradation. Hmg2 is one of the HMG-CoA (3-hydroxy-3-methyl-glutaryl-CoA) reductase
+isozymes which is considered as a rate-controlling enzyme of sterol synthesis
+(mevalonate pathway) in eukaryotes. Hrd1 contributes to the regulation of sterol
+synthesis via degradation of Hmg2.<sup><xref rid="bibr64-1176934318810990" ref-type="bibr">64</xref>,<xref rid="bibr65-1176934318810990" ref-type="bibr">65</xref></sup> Similar to these studies, KEGG
+enrichment analysis and GO enrichment analysis results supported that Hrd1
+contributes to the energy synthesis and metabolism (<xref ref-type="fig" rid="fig6-1176934318810990">Figure 6</xref>). In summary, we found that MoHrd1
+is conserved with other fungi and may play an important role in cellular metabolism
+and infection-related development. This study helps unveil the physiological roles
+and regulatory mechanism of Hrd1-involved ERAD pathway in fungi and provides a new
+idea to understand the pathogenic mechanism of <italic>M. oryzae</italic>.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="SD1"><caption><title>Supplementary material</title></caption><media mimetype="application" mime-subtype="pdf" xlink:href="Table_S1.pdf" orientation="portrait" id="d35e842" position="anchor"/></supplementary-material><supplementary-material content-type="local-data" id="SD2"><caption><title>Supplementary material</title></caption><media mimetype="application" mime-subtype="xlsx" xlink:href="Table_S2.xlsx" orientation="portrait" id="d35e847" position="anchor"/></supplementary-material><supplementary-material content-type="local-data" id="SD3"><caption><title>Supplementary material</title></caption><media mimetype="application" mime-subtype="xlsx" xlink:href="Table_S3.xlsx" orientation="portrait" id="d35e852" position="anchor"/></supplementary-material></sec></body><back><ack><p>The authors thank Dr Mingxiong Pang (Texas A&#x00026;M AgriLife Dallas Center, Dallas,
+TX, USA) for English language editing and improving the manuscript.</p></ack><fn-group><fn fn-type="financial-disclosure"><p><bold>Funding:</bold>The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This research was
+supported by the Natural Science Foundation of China (31601584 and 31701733),
+the Natural Science Foundation of Fujian Province (2016J05070), Science Fund for
+Distinguished Young Scholars of Fujian Agriculture and Forestry University to
+W.T. (KXJQ17020), and China Scholarship Council.</p></fn><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="con"><p><bold>Author Contributions:</bold> HJ, WT, and ZW conceived and designed the experiments and contributed
+reagents/materials/analysis tools. HJ, XC, QZ, WT, LS, TY, YD and BW performed
+the experiments. HJ, WT, and LL analyzed the experiment data. HJ, WT, JH, and ZW
+wrote the paper. All authors have read and approved the final manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-1176934318810990"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCaffrey</surname><given-names>K</given-names></name><name><surname>Braakman</surname><given-names>I.</given-names></name></person-group>
+<article-title>Protein quality control at the endoplasmic
+reticulum</article-title>. <source>Essays Biochem</source>.
+<year>2016</year>;<volume>60</volume>:<fpage>227</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">27744338</pub-id></mixed-citation></ref><ref id="bibr2-1176934318810990"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rothman</surname><given-names>JE</given-names></name><name><surname>Orci</surname><given-names>L.</given-names></name></person-group>
+<article-title>Molecular dissection of the secretory pathway</article-title>.
+<source>Nature</source>.
+<year>1992</year>;<volume>355</volume>:<fpage>409</fpage>&#x02013;<lpage>415</lpage>.<pub-id pub-id-type="pmid">1734280</pub-id></mixed-citation></ref><ref id="bibr3-1176934318810990"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rapoport</surname><given-names>TA.</given-names></name></person-group>
+<article-title>Protein translocation across the eukaryotic endoplasmic reticulum
+and bacterial plasma membranes</article-title>. <source>Nature</source>.
+<year>2007</year>;<volume>450</volume>:<fpage>663</fpage>&#x02013;<lpage>669</lpage>.<pub-id pub-id-type="pmid">18046402</pub-id></mixed-citation></ref><ref id="bibr4-1176934318810990"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thibault</surname><given-names>G</given-names></name><name><surname>Ng</surname><given-names>DT.</given-names></name></person-group>
+<article-title>The endoplasmic reticulum-associated degradation pathways of
+budding yeast</article-title>. <source>Cold Spring Harb Perspect
+Biol</source>.
+<year>2012</year>;<volume>4</volume>:<fpage>a013193</fpage>.<pub-id pub-id-type="pmid">23209158</pub-id></mixed-citation></ref><ref id="bibr5-1176934318810990"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koenig</surname><given-names>PA</given-names></name><name><surname>Ploegh</surname><given-names>HL.</given-names></name></person-group>
+<article-title>Protein quality control in the endoplasmic
+reticulum</article-title>. <source>F1000Prime Rep</source>.
+<year>2014</year>;<volume>6</volume>:<fpage>49</fpage>.<pub-id pub-id-type="pmid">25184039</pub-id></mixed-citation></ref><ref id="bibr6-1176934318810990"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olzmann</surname><given-names>JA</given-names></name><name><surname>Kopito</surname><given-names>RR</given-names></name><name><surname>Christianson</surname><given-names>JC.</given-names></name></person-group>
+<article-title>The mammalian endoplasmic reticulum-associated degradation
+system</article-title>. <source>Cold Spring Harb Perspect Biol</source>.
+<year>2013</year>;<volume>5</volume>:<fpage>a013185</fpage>.<pub-id pub-id-type="pmid">23232094</pub-id></mixed-citation></ref><ref id="bibr7-1176934318810990"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schroder</surname><given-names>M</given-names></name><name><surname>Kaufman</surname><given-names>RJ.</given-names></name></person-group>
+<article-title>ER stress and the unfolded protein response</article-title>.
+<source>Mutat Res</source>.
+<year>2005</year>;<volume>569</volume>:<fpage>29</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">15603751</pub-id></mixed-citation></ref><ref id="bibr8-1176934318810990"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stevenson</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>EY</given-names></name><name><surname>Olzmann</surname><given-names>JA.</given-names></name></person-group>
+<article-title>Endoplasmic reticulum-associated degradation and lipid
+homeostasis</article-title>. <source>Annu Rev Nutr</source>.
+<year>2016</year>;<volume>36</volume>:<fpage>511</fpage>&#x02013;<lpage>542</lpage>.<pub-id pub-id-type="pmid">27296502</pub-id></mixed-citation></ref><ref id="bibr9-1176934318810990"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hershko</surname><given-names>A</given-names></name><name><surname>Ciechanover</surname><given-names>A.</given-names></name></person-group>
+<article-title>The ubiquitin system</article-title>. <source>Annu Rev
+Biochem</source>.
+<year>1998</year>;<volume>67</volume>:<fpage>425</fpage>&#x02013;<lpage>479</lpage>.<pub-id pub-id-type="pmid">9759494</pub-id></mixed-citation></ref><ref id="bibr10-1176934318810990"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Christianson</surname><given-names>JC</given-names></name><name><surname>Ye</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Cleaning up in the endoplasmic reticulum: ubiquitin in
+charge</article-title>. <source>Nat Struct Mol Biol</source>.
+<year>2014</year>;<volume>21</volume>:<fpage>325</fpage>&#x02013;<lpage>335</lpage>.<pub-id pub-id-type="pmid">24699081</pub-id></mixed-citation></ref><ref id="bibr11-1176934318810990"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plemper</surname><given-names>RK</given-names></name><name><surname>B&#x000f6;hmler</surname><given-names>S</given-names></name><name><surname>Bordallo</surname><given-names>J</given-names></name><name><surname>Sommer</surname><given-names>T</given-names></name><name><surname>Wolf</surname><given-names>DH.</given-names></name></person-group>
+<article-title>Mutant analysis links the translocon and BiP to retrograde
+protein transport for ER degradation</article-title>.
+<source>Nature</source>.
+<year>1997</year>;<volume>388</volume>:<fpage>891</fpage>&#x02013;<lpage>895</lpage>.<pub-id pub-id-type="pmid">9278052</pub-id></mixed-citation></ref><ref id="bibr12-1176934318810990"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gillece</surname><given-names>P</given-names></name><name><surname>Luz</surname><given-names>JM</given-names></name><name><surname>Lennarz</surname><given-names>WJ</given-names></name><name><surname>de la Cruz</surname><given-names>FJ</given-names></name><name><surname>R&#x000f6;misch</surname><given-names>K.</given-names></name></person-group>
+<article-title>Export of a cysteine-free misfolded secretory protein from the
+endoplasmic reticulum for degradation requires interaction with protein
+disulfide isomerase</article-title>. <source>J Cell Biol</source>.
+<year>1999</year>;<volume>147</volume>:<fpage>1443</fpage>&#x02013;<lpage>1456</lpage>.<pub-id pub-id-type="pmid">10613903</pub-id></mixed-citation></ref><ref id="bibr13-1176934318810990"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakatsukasa</surname><given-names>K</given-names></name><name><surname>Nishikawa</surname><given-names>S</given-names></name><name><surname>Hosokawa</surname><given-names>N</given-names></name><name><surname>Nagata</surname><given-names>K</given-names></name><name><surname>Endo</surname><given-names>T.</given-names></name></person-group>
+<article-title>Mnl1p, an alpha-mannosidase-like protein in yeast saccharomyces
+cerevisiae, is required for endoplasmic reticulum-associated degradation of
+glycoproteins</article-title>. <source>J Biol Chem</source>.
+<year>2001</year>;<volume>276</volume>:<fpage>8635</fpage>&#x02013;<lpage>8638</lpage>.<pub-id pub-id-type="pmid">11254655</pub-id></mixed-citation></ref><ref id="bibr14-1176934318810990"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grubb</surname><given-names>S</given-names></name><name><surname>Guo</surname><given-names>L</given-names></name><name><surname>Fisher</surname><given-names>EA</given-names></name><name><surname>Brodsky</surname><given-names>JL.</given-names></name></person-group>
+<article-title>Protein disulfide isomerases contribute differentially to the
+endoplasmic reticulum-associated degradation of apolipoprotein B and other
+substrates</article-title>. <source>Mol Biol Cell</source>.
+<year>2012</year>;<volume>23</volume>:<fpage>520</fpage>&#x02013;<lpage>532</lpage>.<pub-id pub-id-type="pmid">22190736</pub-id></mixed-citation></ref><ref id="bibr15-1176934318810990"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thibault</surname><given-names>G</given-names></name><name><surname>Ismail</surname><given-names>N</given-names></name><name><surname>Ng</surname><given-names>DT.</given-names></name></person-group>
+<article-title>The unfolded protein response supports cellular robustness as a
+broad-spectrum compensatory pathway</article-title>. <source>Proc Natl Acad
+Sci U S A</source>.
+<year>2011</year>;<volume>108</volume>:<fpage>20597</fpage>&#x02013;<lpage>20602</lpage>.<pub-id pub-id-type="pmid">22143797</pub-id></mixed-citation></ref><ref id="bibr16-1176934318810990"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silberstein</surname><given-names>S</given-names></name><name><surname>Schlenstedt</surname><given-names>G</given-names></name><name><surname>Silver</surname><given-names>PA</given-names></name><name><surname>Gilmore</surname><given-names>R.</given-names></name></person-group>
+<article-title>A role for the DnaJ homologue Scj1p in protein folding in the
+yeast endoplasmic reticulum</article-title>. <source>J Cell Biol</source>.
+<year>1998</year>;<volume>143</volume>:<fpage>921</fpage>&#x02013;<lpage>933</lpage>.<pub-id pub-id-type="pmid">9817751</pub-id></mixed-citation></ref><ref id="bibr17-1176934318810990"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bordallo</surname><given-names>J</given-names></name><name><surname>Plemper</surname><given-names>RK</given-names></name><name><surname>Finger</surname><given-names>A</given-names></name><name><surname>Wolf</surname><given-names>DH.</given-names></name></person-group>
+<article-title>Der3p/Hrd1p is required for endoplasmic reticulum-associated
+degradation of misfolded lumenal and integral membrane
+proteins</article-title>. <source>Mol Biol Cell</source>.
+<year>1998</year>;<volume>9</volume>:<fpage>209</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">9437001</pub-id></mixed-citation></ref><ref id="bibr18-1176934318810990"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldridge</surname><given-names>RD</given-names></name><name><surname>Rapoport</surname><given-names>TA.</given-names></name></person-group>
+<article-title>Autoubiquitination of the Hrd1 ligase triggers protein
+retrotranslocation in ERAD</article-title>. <source>Cell</source>.
+<year>2016</year>;<volume>166</volume>:<fpage>394</fpage>&#x02013;<lpage>407</lpage>.<pub-id pub-id-type="pmid">27321670</pub-id></mixed-citation></ref><ref id="bibr19-1176934318810990"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stein</surname><given-names>A</given-names></name><name><surname>Ruggiano</surname><given-names>A</given-names></name><name><surname>Carvalho</surname><given-names>P</given-names></name><name><surname>Rapoport</surname><given-names>TA.</given-names></name></person-group>
+<article-title>Key steps in ERAD of luminal ER proteins reconstituted with
+purified components</article-title>. <source>Cell</source>.
+<year>2014</year>;<volume>158</volume>:<fpage>1375</fpage>&#x02013;<lpage>1388</lpage>.<pub-id pub-id-type="pmid">25215493</pub-id></mixed-citation></ref><ref id="bibr20-1176934318810990"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schoebel</surname><given-names>S</given-names></name><name><surname>Mi</surname><given-names>W</given-names></name><name><surname>Stein</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Cryo-EM structure of the protein-conducting ERAD
+channel Hrd1 in complex with Hrd3</article-title>. <source>Nature</source>.
+<year>2017</year>;<volume>548</volume>:<fpage>352</fpage>&#x02013;<lpage>355</lpage>.<pub-id pub-id-type="pmid">28682307</pub-id></mixed-citation></ref><ref id="bibr21-1176934318810990"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kikkert</surname><given-names>M</given-names></name><name><surname>Doolman</surname><given-names>R</given-names></name><name><surname>Dai</surname><given-names>M</given-names></name><etal>et al</etal></person-group>
+<article-title>Human HRD1 is an E3 ubiquitin ligase involved in
+degradation of proteins from the endoplasmic reticulum</article-title>.
+<source>J Biol Chem</source>.
+<year>2004</year>;<volume>279</volume>:<fpage>3525</fpage>&#x02013;<lpage>3534</lpage>.<pub-id pub-id-type="pmid">14593114</pub-id></mixed-citation></ref><ref id="bibr22-1176934318810990"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maeda</surname><given-names>T</given-names></name><name><surname>Marutani</surname><given-names>T</given-names></name><name><surname>Zou</surname><given-names>K</given-names></name><etal>et al</etal></person-group>
+<article-title>An E3 ubiquitin ligase, synoviolin, is involved
+in the degradation of immature nicastrin and regulates the production of
+amyloid beta-protein</article-title>. <source>FEBS J</source>.
+<year>2009</year>;<volume>276</volume>:<fpage>5832</fpage>&#x02013;<lpage>5840</lpage>.<pub-id pub-id-type="pmid">19725872</pub-id></mixed-citation></ref><ref id="bibr23-1176934318810990"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burr</surname><given-names>ML</given-names></name><name><surname>Cano</surname><given-names>F</given-names></name><name><surname>Svobodova</surname><given-names>S</given-names></name><name><surname>Boyle</surname><given-names>LH</given-names></name><name><surname>Boname</surname><given-names>JM</given-names></name><name><surname>Lehner</surname><given-names>PJ.</given-names></name></person-group>
+<article-title>HRD1 and UBE2J1 target misfolded MHC class I heavy chains for
+endoplasmic reticulum-associated degradation</article-title>. <source>Proc
+Natl Acad Sci U S A</source>.
+<year>2011</year>;<volume>108</volume>:<fpage>2034</fpage>&#x02013;<lpage>2039</lpage>.<pub-id pub-id-type="pmid">21245296</pub-id></mixed-citation></ref><ref id="bibr24-1176934318810990"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qi</surname><given-names>L</given-names></name><name><surname>Tsai</surname><given-names>B</given-names></name><name><surname>Arvan</surname><given-names>P.</given-names></name></person-group>
+<article-title>New insights into the physiological role of endoplasmic
+reticulum-associated degradation</article-title>. <source>Trends Cell
+Biol</source>.
+<year>2017</year>;<volume>27</volume>:<fpage>430</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">28131647</pub-id></mixed-citation></ref><ref id="bibr25-1176934318810990"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaneko</surname><given-names>M.</given-names></name></person-group>
+<article-title>Physiological roles of ubiquitin ligases related to the
+endoplasmic reticulum</article-title>. <source>Yakugaku Zasshi</source>.
+<year>2016</year>;<volume>136</volume>:<fpage>805</fpage>&#x02013;<lpage>809</lpage>.<pub-id pub-id-type="pmid">27252059</pub-id></mixed-citation></ref><ref id="bibr26-1176934318810990"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilson</surname><given-names>RA</given-names></name><name><surname>Talbot</surname><given-names>NJ.</given-names></name></person-group>
+<article-title>Under pressure: investigating the biology of plant infection by
+<italic>Magnaporthe oryzae</italic></article-title>. <source>Nat Rev
+Microbiol</source>.
+<year>2009</year>;<volume>7</volume>:<fpage>185</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">19219052</pub-id></mixed-citation></ref><ref id="bibr27-1176934318810990"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Talbot</surname><given-names>NJ.</given-names></name></person-group>
+<article-title>On the trail of a cereal killer: exploring the biology of
+<italic>Magnaporthe grisea</italic></article-title>. <source>Annu Rev
+Microbiol</source>.
+<year>2003</year>;<volume>57</volume>:<fpage>177</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">14527276</pub-id></mixed-citation></ref><ref id="bibr28-1176934318810990"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ebbole</surname><given-names>DJ.</given-names></name></person-group>
+<article-title><italic>Magnaporthe</italic> as a model for understanding
+host-pathogen interactions</article-title>. <source>Annu Rev
+Phytopathol</source>.
+<year>2007</year>;<volume>45</volume>:<fpage>437</fpage>&#x02013;<lpage>456</lpage>.<pub-id pub-id-type="pmid">17489691</pub-id></mixed-citation></ref><ref id="bibr29-1176934318810990"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yan</surname><given-names>X</given-names></name><name><surname>Talbot</surname><given-names>NJ.</given-names></name></person-group>
+<article-title>Investigating the cell biology of plant infection by the rice
+blast fungus Magnaporthe oryzae</article-title>. <source>Curr Opin
+Microbiol</source>.
+<year>2016</year>;<volume>34</volume>:<fpage>147</fpage>&#x02013;<lpage>153</lpage>.<pub-id pub-id-type="pmid">27816794</pub-id></mixed-citation></ref><ref id="bibr30-1176934318810990"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valent</surname><given-names>B</given-names></name><name><surname>Khang</surname><given-names>CH.</given-names></name></person-group>
+<article-title>Recent advances in rice blast effector research</article-title>.
+<source>Curr Opin Plant Biol</source>.
+<year>2010</year>;<volume>13</volume>:<fpage>434</fpage>&#x02013;<lpage>441</lpage>.<pub-id pub-id-type="pmid">20627803</pub-id></mixed-citation></ref><ref id="bibr31-1176934318810990"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>CH</given-names></name><name><surname>Chen</surname><given-names>S</given-names></name><name><surname>Shirsekar</surname><given-names>G</given-names></name><etal>et al</etal></person-group>
+<article-title>The <italic>Magnaporthe oryzae</italic> effector
+AvrPiz-t targets the RING E3 ubiquitin ligase APIP6 to suppress
+pathogen-associated molecular pattern-triggered immunity in
+rice</article-title>. <source>Plant Cell</source>.
+<year>2012</year>;<volume>24</volume>:<fpage>4748</fpage>&#x02013;<lpage>4762</lpage>.<pub-id pub-id-type="pmid">23204406</pub-id></mixed-citation></ref><ref id="bibr32-1176934318810990"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hogenhout</surname><given-names>SA</given-names></name><name><surname>Van der Hoorn</surname><given-names>RA</given-names></name><name><surname>Terauchi</surname><given-names>R</given-names></name><name><surname>Kamoun</surname><given-names>S.</given-names></name></person-group>
+<article-title>Emerging concepts in effector biology of plant-associated
+organisms</article-title>. <source>Mol Plant Microbe Interact</source>.
+<year>2009</year>;<volume>22</volume>:<fpage>115</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">19132864</pub-id></mixed-citation></ref><ref id="bibr33-1176934318810990"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giraldo</surname><given-names>MC</given-names></name><name><surname>Dagdas</surname><given-names>YF</given-names></name><name><surname>Gupta</surname><given-names>YK</given-names></name><etal>et al</etal></person-group>
+<article-title>Two distinct secretion systems facilitate tissue
+invasion by the rice blast fungus <italic>Magnaporthe
+oryzae</italic></article-title>. <source>Nat Commun</source>.
+<year>2013</year>;<volume>4</volume>:<year>1996</year>.</mixed-citation></ref><ref id="bibr34-1176934318810990"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khang</surname><given-names>CH</given-names></name><name><surname>Berruyer</surname><given-names>R</given-names></name><name><surname>Giraldo</surname><given-names>MC</given-names></name><etal>et al</etal></person-group>
+<article-title>Translocation of Magnaporthe oryzae effectors
+into rice cells and their subsequent cell-to-cell movement</article-title>.
+<source>Plant Cell</source>.
+<year>2010</year>;<volume>22</volume>:<fpage>1388</fpage>&#x02013;<lpage>1403</lpage>.<pub-id pub-id-type="pmid">20435900</pub-id></mixed-citation></ref><ref id="bibr35-1176934318810990"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>J</given-names></name><name><surname>Kou</surname><given-names>Y</given-names></name><name><surname>Bao</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Comparative genomics identifies the
+<italic>Magnaporthe oryzae</italic> avirulence effector AvrPi9 that
+triggers pi9-mediated blast resistance in rice</article-title>. <source>New
+Phytol</source>.
+<year>2015</year>;<volume>206</volume>:<fpage>1463</fpage>&#x02013;<lpage>1475</lpage>.<pub-id pub-id-type="pmid">25659573</pub-id></mixed-citation></ref><ref id="bibr36-1176934318810990"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sweigard</surname><given-names>JA</given-names></name><name><surname>Carroll</surname><given-names>AM</given-names></name><name><surname>Kang</surname><given-names>S</given-names></name><name><surname>Farrall</surname><given-names>L</given-names></name><name><surname>Chumley</surname><given-names>FG</given-names></name><name><surname>Valent</surname><given-names>B.</given-names></name></person-group>
+<article-title>Identification, cloning, and characterization of PWL2, a gene for
+host species specificity in the rice blast fungus</article-title>.
+<source>Plant Cell</source>.
+<year>1995</year>;<volume>7</volume>:<fpage>1221</fpage>&#x02013;<lpage>1233</lpage>.<pub-id pub-id-type="pmid">7549480</pub-id></mixed-citation></ref><ref id="bibr37-1176934318810990"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montenegro-Montero</surname><given-names>A</given-names></name><name><surname>Goity</surname><given-names>A</given-names></name><name><surname>Larrondo</surname><given-names>LF.</given-names></name></person-group>
+<article-title>The bZIP transcription factor HAC-1 is involved in the unfolded
+protein response and is necessary for growth on cellulose in
+<italic>Neurospora crassa</italic>.</article-title>
+<source>PLoS ONE</source>.
+<year>2015</year>;<volume>10</volume>:<fpage>e0131415</fpage>.<pub-id pub-id-type="pmid">26132395</pub-id></mixed-citation></ref><ref id="bibr38-1176934318810990"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yi</surname><given-names>M</given-names></name><name><surname>Chi</surname><given-names>MH</given-names></name><name><surname>Khang</surname><given-names>CH</given-names></name><etal>et al</etal></person-group>
+<article-title>The ER chaperone LHS1 is involved in asexual
+development and rice infection by the blast fungus <italic>Magnaporthe
+oryzae</italic></article-title>. <source>Plant Cell</source>.
+<year>2009</year>;<volume>21</volume>:<fpage>681</fpage>&#x02013;<lpage>695</lpage>.<pub-id pub-id-type="pmid">19252083</pub-id></mixed-citation></ref><ref id="bibr39-1176934318810990"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>Z</given-names></name><name><surname>Crockett</surname><given-names>DK</given-names></name><name><surname>Lim</surname><given-names>MS</given-names></name><name><surname>Elenitoba-Johnson</surname><given-names>KS.</given-names></name></person-group>
+<article-title>High-throughput analysis of protein/peptide complexes by
+immunoprecipitation and automated LC-MS/MS</article-title>. <source>J Biomol
+Tech</source>.
+<year>2003</year>;<volume>14</volume>:<fpage>149</fpage>&#x02013;<lpage>155</lpage>.<pub-id pub-id-type="pmid">14676314</pub-id></mixed-citation></ref><ref id="bibr40-1176934318810990"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewis</surname><given-names>TS</given-names></name><name><surname>Hunt</surname><given-names>JB</given-names></name><name><surname>Aveline</surname><given-names>LD</given-names></name><etal>et al</etal></person-group>
+<article-title>Identification of novel MAP kinase pathway
+signaling targets by functional proteomics and mass
+spectrometry</article-title>. <source>Mol Cell</source>.
+<year>2000</year>;<volume>6</volume>:<fpage>1343</fpage>&#x02013;<lpage>1354</lpage>.<pub-id pub-id-type="pmid">11163208</pub-id></mixed-citation></ref><ref id="bibr41-1176934318810990"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gallie</surname><given-names>DR.</given-names></name></person-group>
+<article-title>Protein-protein interactions required during
+translation</article-title>. <source>Plant Mol Biol</source>.
+<year>2002</year>;<volume>50</volume>:<fpage>949</fpage>&#x02013;<lpage>970</lpage>.<pub-id pub-id-type="pmid">12516864</pub-id></mixed-citation></ref><ref id="bibr42-1176934318810990"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bonifacino</surname><given-names>JS</given-names></name><name><surname>Dell&#x02019;Angelica</surname><given-names>EC</given-names></name><name><surname>Springer</surname><given-names>TA.</given-names></name></person-group>
+<article-title>Immunoprecipitation</article-title>. <source>Curr Protoc
+Immunol</source>.
+<year>2001</year>;<volume>41</volume>:8.3.1&#x02013;8.3.28.</mixed-citation></ref><ref id="bibr43-1176934318810990"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Edmondson</surname><given-names>RD</given-names></name><name><surname>Vondriska</surname><given-names>TM</given-names></name><name><surname>Biederman</surname><given-names>KJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Protein kinase C epsilon signaling complexes
+include metabolism- and transcription/translation-related proteins:
+complimentary separation techniques with LC/MS/MS</article-title>.
+<source>Mol Cell Proteomics</source>
+<year>2002</year>;<volume>1</volume>:<fpage>421</fpage>&#x02013;<lpage>433</lpage>.<pub-id pub-id-type="pmid">12169683</pub-id></mixed-citation></ref><ref id="bibr44-1176934318810990"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Zhang</surname><given-names>S</given-names></name><etal>et al</etal></person-group>
+<article-title>MoCAP proteins regulated by MoArk1-mediated
+phosphorylation coordinate endocytosis and actin dynamics to govern
+development and virulence of <italic>Magnaporthe
+oryzae</italic></article-title>. <source>PLoS Genet</source>.
+<year>2017</year>;<volume>13</volume>:<fpage>e1006814</fpage>.<pub-id pub-id-type="pmid">28542408</pub-id></mixed-citation></ref><ref id="bibr45-1176934318810990"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kanehisa</surname><given-names>M</given-names></name><name><surname>Araki</surname><given-names>M</given-names></name><name><surname>Goto</surname><given-names>S</given-names></name><etal>et al</etal></person-group>
+<article-title>KEGG for linking genomes to life and the
+environment</article-title>. <source>Nucleic Acids Res</source>.
+<year>2008</year>;<volume>36</volume>:<fpage>D480</fpage>&#x02013;<lpage>D484</lpage>.<pub-id pub-id-type="pmid">18077471</pub-id></mixed-citation></ref><ref id="bibr46-1176934318810990"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bindea</surname><given-names>G</given-names></name><name><surname>Mlecnik</surname><given-names>B</given-names></name><name><surname>Hackl</surname><given-names>H</given-names></name><etal>et al</etal></person-group>
+<article-title>ClueGO: a Cytoscape plug-in to decipher
+functionally grouped gene ontology and pathway annotation
+networks</article-title>. <source>Bioinformatics</source>.
+<year>2009</year>;<volume>25</volume>:<fpage>1091</fpage>&#x02013;<lpage>1093</lpage>.<pub-id pub-id-type="pmid">19237447</pub-id></mixed-citation></ref><ref id="bibr47-1176934318810990"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larkin</surname><given-names>MA</given-names></name><name><surname>Blackshields</surname><given-names>G</given-names></name><name><surname>Brown</surname><given-names>NP</given-names></name><etal>et al</etal></person-group>
+<article-title>Clustal W and Clustal X version
+2.0</article-title>. <source>Bioinformatics</source>.
+<year>2007</year>;<volume>23</volume>:<fpage>2947</fpage>&#x02013;<lpage>2948</lpage>.<pub-id pub-id-type="pmid">17846036</pub-id></mixed-citation></ref><ref id="bibr48-1176934318810990"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tamura</surname><given-names>K</given-names></name><name><surname>Stecher</surname><given-names>G</given-names></name><name><surname>Peterson</surname><given-names>D</given-names></name><name><surname>Filipski</surname><given-names>A</given-names></name><name><surname>Kumar</surname><given-names>S.</given-names></name></person-group>
+<article-title>MEGA6: molecular evolutionary genetics analysis version
+6.0</article-title>. <source>Mol Biol Evol</source>.
+<year>2013</year>;<volume>30</volume>:<fpage>2725</fpage>&#x02013;<lpage>2729</lpage>.<pub-id pub-id-type="pmid">24132122</pub-id></mixed-citation></ref><ref id="bibr49-1176934318810990"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Doerks</surname><given-names>T</given-names></name><name><surname>Bork</surname><given-names>P.</given-names></name></person-group>
+<article-title>SMART: recent updates, new developments and status in
+2015</article-title>. <source>Nucleic Acids Res</source>.
+<year>2015</year>;<volume>43</volume>:<fpage>D257</fpage>&#x02013;<lpage>D260</lpage>.<pub-id pub-id-type="pmid">25300481</pub-id></mixed-citation></ref><ref id="bibr50-1176934318810990"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Bork</surname><given-names>P.</given-names></name></person-group>
+<article-title>20 years of the SMART protein domain annotation
+resource</article-title>. <source>Nucleic Acids Res</source>.
+<year>2018</year>;<volume>46</volume>:<fpage>D493</fpage>&#x02013;<lpage>D496</lpage>.<pub-id pub-id-type="pmid">29040681</pub-id></mixed-citation></ref><ref id="bibr51-1176934318810990"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crooks</surname><given-names>GE</given-names></name><name><surname>Hon</surname><given-names>G</given-names></name><name><surname>Chandonia</surname><given-names>JM</given-names></name><name><surname>Brenner</surname><given-names>SE.</given-names></name></person-group>
+<article-title>WebLogo: a sequence logo generator</article-title>.
+<source>Genome Res</source>.
+<year>2004</year>;<volume>14</volume>:<fpage>1188</fpage>&#x02013;<lpage>1190</lpage>.<pub-id pub-id-type="pmid">15173120</pub-id></mixed-citation></ref><ref id="bibr52-1176934318810990"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krishnan</surname><given-names>K</given-names></name><name><surname>Feng</surname><given-names>X</given-names></name><name><surname>Powers-Fletcher</surname><given-names>MV</given-names></name><etal>et al</etal></person-group>
+<article-title>Effects of a defective endoplasmic
+reticulum-associated degradation pathway on the stress response, virulence,
+and antifungal drug susceptibility of the mold pathogen <italic>Aspergillus
+fumigatus</italic></article-title>. <source>Eukaryot Cell</source>.
+<year>2013</year>;<volume>12</volume>:<fpage>512</fpage>&#x02013;<lpage>519</lpage>.<pub-id pub-id-type="pmid">23355008</pub-id></mixed-citation></ref><ref id="bibr53-1176934318810990"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yokota</surname><given-names>JI</given-names></name><name><surname>Shiro</surname><given-names>D</given-names></name><name><surname>Tanaka</surname><given-names>M</given-names></name><etal>et al</etal></person-group>
+<article-title>Cellular responses to the expression of unstable
+secretory proteins in the filamentous fungus <italic>Aspergillus
+oryzae</italic></article-title>. <source>Appl Microbiol
+Biotechnol</source>.
+<year>2017</year>;<volume>101</volume>:<fpage>2437</fpage>&#x02013;<lpage>2446</lpage>.<pub-id pub-id-type="pmid">28064367</pub-id></mixed-citation></ref><ref id="bibr54-1176934318810990"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krogan</surname><given-names>NJ</given-names></name><name><surname>Cagney</surname><given-names>G</given-names></name><name><surname>Yu</surname><given-names>H</given-names></name><etal>et al</etal></person-group>
+<article-title>Global landscape of protein complexes in the
+yeast <italic>Saccharomyces cerevisiae</italic></article-title>.
+<source>Nature</source>.
+<year>2006</year>;<volume>440</volume>:<fpage>637</fpage>&#x02013;<lpage>643</lpage>.<pub-id pub-id-type="pmid">16554755</pub-id></mixed-citation></ref><ref id="bibr55-1176934318810990"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gardner</surname><given-names>RG</given-names></name><name><surname>Swarbrick</surname><given-names>GM</given-names></name><name><surname>Bays</surname><given-names>NW</given-names></name><etal>et al</etal></person-group>
+<article-title>Endoplasmic reticulum degradation requires lumen
+to cytosol signaling: transmembrane control of Hrd1p by
+Hrd3p</article-title>. <source>J Cell Biol</source>.
+<year>2000</year>;<volume>151</volume>:<fpage>69</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">11018054</pub-id></mixed-citation></ref><ref id="bibr56-1176934318810990"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bhamidipati</surname><given-names>A</given-names></name><name><surname>Denic</surname><given-names>V</given-names></name><name><surname>Quan</surname><given-names>EM</given-names></name><name><surname>Weissman</surname><given-names>JS.</given-names></name></person-group>
+<article-title>Exploration of the topological requirements of ERAD identifies
+Yos9p as a lectin sensor of misfolded glycoproteins in the ER
+lumen</article-title>. <source>Mol Cell</source>.
+<year>2005</year>;<volume>19</volume>:<fpage>741</fpage>&#x02013;<lpage>751</lpage>.<pub-id pub-id-type="pmid">16168370</pub-id></mixed-citation></ref><ref id="bibr57-1176934318810990"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>W</given-names></name><name><surname>Spear</surname><given-names>ED</given-names></name><name><surname>Ng</surname><given-names>DT.</given-names></name></person-group>
+<article-title>Yos9p detects and targets misfolded glycoproteins for
+ER-associated degradation</article-title>. <source>Mol Cell</source>.
+<year>2005</year>;<volume>19</volume>:<fpage>753</fpage>&#x02013;<lpage>764</lpage>.<pub-id pub-id-type="pmid">16168371</pub-id></mixed-citation></ref><ref id="bibr58-1176934318810990"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Izawa</surname><given-names>T</given-names></name><name><surname>Nagai</surname><given-names>H</given-names></name><name><surname>Endo</surname><given-names>T</given-names></name><name><surname>Nishikawa</surname><given-names>S.</given-names></name></person-group>
+<article-title>Yos9p and Hrd1p mediate ER retention of misfolded proteins for
+ER-associated degradation</article-title>. <source>Mol Biol Cell</source>.
+<year>2012</year>;<volume>23</volume>:<fpage>1283</fpage>&#x02013;<lpage>1293</lpage>.<pub-id pub-id-type="pmid">22298424</pub-id></mixed-citation></ref><ref id="bibr59-1176934318810990"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ye</surname><given-names>Y</given-names></name><name><surname>Meyer</surname><given-names>HH</given-names></name><name><surname>Rapoport</surname><given-names>TA.</given-names></name></person-group>
+<article-title>Function of the p97-Ufd1-Npl4 complex in retrotranslocation from
+the ER to the cytosol: dual recognition of nonubiquitinated polypeptide
+segments and polyubiquitin chains</article-title>. <source>J Cell
+Biol</source>.
+<year>2003</year>;<volume>162</volume>:<fpage>71</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">12847084</pub-id></mixed-citation></ref><ref id="bibr60-1176934318810990"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bays</surname><given-names>NW</given-names></name><name><surname>Gardner</surname><given-names>RG</given-names></name><name><surname>Seelig</surname><given-names>LP</given-names></name><name><surname>Joazeiro</surname><given-names>CA</given-names></name><name><surname>Hampton</surname><given-names>RY.</given-names></name></person-group>
+<article-title>Hrd1p/Der3p is a membrane-anchored ubiquitin ligase required for
+ER-associated degradation</article-title>. <source>Nat Cell Biol</source>.
+<year>2000</year>;<volume>3</volume>:<fpage>24</fpage>&#x02013;<lpage>29</lpage>.</mixed-citation></ref><ref id="bibr61-1176934318810990"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bordallo</surname><given-names>J</given-names></name><name><surname>Wolf</surname><given-names>DH.</given-names></name></person-group>
+<article-title>A RING-H2 finger motif is essential for the function of Der3/Hrd1
+in endoplasmic reticulum associated protein degradation in the yeast
+<italic>Saccharomyces cerevisiae</italic></article-title>. <source>FEBS
+Lett</source>.
+<year>1999</year>;<volume>448</volume>:<fpage>244</fpage>&#x02013;<lpage>248</lpage>.<pub-id pub-id-type="pmid">10218484</pub-id></mixed-citation></ref><ref id="bibr62-1176934318810990"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>I</given-names></name><name><surname>Wiener</surname><given-names>R</given-names></name><name><surname>Reiss</surname><given-names>Y</given-names></name><name><surname>Ravid</surname><given-names>T.</given-names></name></person-group>
+<article-title>Distinct activation of an E2 ubiquitin-conjugating enzyme by its
+cognate E3 ligases</article-title>. <source>Proc Natl Acad Sci U S
+A</source>.
+<year>2015</year>;<volume>112</volume>:<fpage>E625</fpage>&#x02013;<lpage>E632</lpage>.<pub-id pub-id-type="pmid">25646477</pub-id></mixed-citation></ref><ref id="bibr63-1176934318810990"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mentlak</surname><given-names>TA</given-names></name><name><surname>Kombrink</surname><given-names>A</given-names></name><name><surname>Shinya</surname><given-names>T</given-names></name><etal>et al</etal></person-group>
+<article-title>Effector-mediated suppression of
+chitin-triggered immunity by <italic>Magnaporthe oryzae</italic> is
+necessary for rice blast disease</article-title>. <source>Plant
+Cell</source>.
+<year>2012</year>;<volume>24</volume>:<fpage>322</fpage>&#x02013;<lpage>335</lpage>.<pub-id pub-id-type="pmid">22267486</pub-id></mixed-citation></ref><ref id="bibr64-1176934318810990"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Geelen</surname><given-names>MJ</given-names></name><name><surname>Gibson</surname><given-names>DM</given-names></name><name><surname>Rodwell</surname><given-names>VW.</given-names></name></person-group>
+<article-title>Hydroxymethylglutaryl-CoA reductase&#x02014;the rate-limiting enzyme of
+cholesterol biosynthesis. A report of a meeting held at Nijenrode Castle,
+Breukelen, the Netherlands</article-title>, <month>8</month>
+<day>24</day>, <year>1985</year>
+<source>FEBS Lett</source>.
+<year>1986</year>;<volume>201</volume>:<fpage>183</fpage>&#x02013;<lpage>186</lpage>.</mixed-citation></ref><ref id="bibr65-1176934318810990"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wangeline</surname><given-names>MA</given-names></name><name><surname>Vashistha</surname><given-names>N</given-names></name><name><surname>Hampton</surname><given-names>RY.</given-names></name></person-group>
+<article-title>Proteostatic tactics in the strategy of sterol
+regulation</article-title>. <source>Annu Rev Cell Dev Biol</source>.
+<year>2017</year>;<volume>33</volume>:<fpage>467</fpage>&#x02013;<lpage>489</lpage>.<pub-id pub-id-type="pmid">28992438</pub-id></mixed-citation></ref></ref-list></back></article>

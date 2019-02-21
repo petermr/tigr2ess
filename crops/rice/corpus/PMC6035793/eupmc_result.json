@@ -1,0 +1,498 @@
+{
+  "id": [
+    "30002723"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30002723"
+  ],
+  "pmcid": [
+    "PMC6035793"
+  ],
+  "doi": [
+    "10.1186/s13007-018-0325-4"
+  ],
+  "title": [
+    "In vivo monitoring of plant small GTPase activation using a Förster resonance energy transfer biosensor."
+  ],
+  "authorString": [
+    "Wong HL, Akamatsu A, Wang Q, Higuchi M, Matsuda T, Okuda J, Kosami KI, Inada N, Kawasaki T, Kaneko-Kawano T, Nagawa S, Tan L, Kawano Y, Shimamoto K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wong HL"
+          ],
+          "firstName": [
+            "Hann Ling"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8903-1812",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Akamatsu A"
+          ],
+          "firstName": [
+            "Akira"
+          ],
+          "lastName": [
+            "Akamatsu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "4Present Address: Signal Transduction and Immunity Group, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Center for Plant Stress Biology, Chinese Academy of Sciences, No. 3888 Chenhua Road, Shanghai, 201602 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Higuchi M"
+          ],
+          "firstName": [
+            "Masayuki"
+          ],
+          "lastName": [
+            "Higuchi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuda T"
+          ],
+          "firstName": [
+            "Tomonori"
+          ],
+          "lastName": [
+            "Matsuda"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okuda J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Okuda"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kosami KI"
+          ],
+          "firstName": [
+            "Ken-Ichi"
+          ],
+          "lastName": [
+            "Kosami"
+          ],
+          "initials": [
+            "KI"
+          ],
+          "affiliation": [
+            "4Present Address: Signal Transduction and Immunity Group, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Center for Plant Stress Biology, Chinese Academy of Sciences, No. 3888 Chenhua Road, Shanghai, 201602 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Inada N"
+          ],
+          "firstName": [
+            "Noriko"
+          ],
+          "lastName": [
+            "Inada"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "6College of Life, Environment, and Advanced, Osaka Prefecture University Sciences, Sakai, Osaka 599-8531 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawasaki T"
+          ],
+          "firstName": [
+            "Tsutomu"
+          ],
+          "lastName": [
+            "Kawasaki"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaneko-Kawano T"
+          ],
+          "firstName": [
+            "Takako"
+          ],
+          "lastName": [
+            "Kaneko-Kawano"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "8College of Pharmaceutical Sciences, Ritsumeikan University, Kusatsu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagawa S"
+          ],
+          "firstName": [
+            "Shingo"
+          ],
+          "lastName": [
+            "Nagawa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Core Facility of Cell Biology, Shanghai Center for Plant Stress Biology, No. 3888 Chenhua Road, Shanghai, 201602 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Core Facility of Cell Biology, Shanghai Center for Plant Stress Biology, No. 3888 Chenhua Road, Shanghai, 201602 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawano Y"
+          ],
+          "firstName": [
+            "Yoji"
+          ],
+          "lastName": [
+            "Kawano"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0687-2777",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimamoto K"
+          ],
+          "firstName": [
+            "Ko"
+          ],
+          "lastName": [
+            "Shimamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8903-1812",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0687-2777",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2639732"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant methods"
+          ],
+          "ISOAbbreviation": [
+            "Plant Methods"
+          ],
+          "medlineAbbreviation": [
+            "Plant Methods"
+          ],
+          "NLMid": [
+            "101245798"
+          ],
+          "ISSN": [
+            "1746-4811"
+          ],
+          "ESSN": [
+            "1746-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "56"
+  ],
+  "abstractText": [
+    "Small GTPases act as molecular switches that regulate various plant responses such as disease resistance, pollen tube growth, root hair development, cell wall patterning and hormone responses. Thus, to monitor their activation status within plant cells is believed to be the key step in understanding their roles.We have established a plant version of a Förster resonance energy transfer (FRET) probe called Ras and interacting protein chimeric unit (Raichu) that can successfully monitor activation of the rice small GTPase OsRac1 during various defence responses in cells. Here, we describe the protocol for visualizing spatiotemporal activity of plant Rac/ROP GTPase in living plant cells, transfection of rice protoplasts with Raichu-OsRac1 and acquisition of FRET images.Our protocol should be adaptable for monitoring activation for other plant small GTPases and protein-protein interactions for other FRET sensors in various plant cells."
+  ],
+  "affiliation": [
+    "1Laboratory of Plant Molecular Genetics, Graduate School of Biological Sciences, Nara Institute of Science and Technology, Nara, 630-0192 Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "small GTPase",
+        "Bioimaging",
+        "Plant Immunity",
+        "Fret Sensor"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6035793?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6035793"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13007-018-0325-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-14"
+  ],
+  "dateOfRevision": [
+    "2018-07-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-07"
+  ],
+  "firstPublicationDate": [
+    "2018-07-07"
+  ]
+}

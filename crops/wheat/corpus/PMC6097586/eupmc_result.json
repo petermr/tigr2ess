@@ -1,0 +1,714 @@
+{
+  "id": [
+    "30128352"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30128352"
+  ],
+  "pmcid": [
+    "PMC6097586"
+  ],
+  "doi": [
+    "10.1126/sciadv.aar8602"
+  ],
+  "title": [
+    "Genome mapping of seed-borne allergens and immunoresponsive proteins in wheat."
+  ],
+  "authorString": [
+    "Juhász A, Belova T, Florides CG, Maulis C, Fischer I, Gell G, Birinyi Z, Ong J, Keeble-Gagnère G, Maharajan A, Ma W, Gibson P, Jia J, Lang D, Mayer KFX, Spannagl M, International Wheat Genome Sequencing Consortium, Tye-Din JA, Appels R, Olsen OA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Juhász A"
+          ],
+          "firstName": [
+            "Angéla"
+          ],
+          "lastName": [
+            "Juhász"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Belova T"
+          ],
+          "firstName": [
+            "Tatiana"
+          ],
+          "lastName": [
+            "Belova"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5229-1717",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Norwegian University of Life Sciences, Aas, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Florides CG"
+          ],
+          "firstName": [
+            "Chris G"
+          ],
+          "lastName": [
+            "Florides"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "affiliation": [
+            "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Maulis C"
+          ],
+          "firstName": [
+            "Csaba"
+          ],
+          "lastName": [
+            "Maulis"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Fischer I"
+          ],
+          "firstName": [
+            "Iris"
+          ],
+          "lastName": [
+            "Fischer"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5080-1223",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum München, Plant Genome and Systems Biology, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gell G"
+          ],
+          "firstName": [
+            "Gyöngyvér"
+          ],
+          "lastName": [
+            "Gell"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0873-4896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Applied Genomics Department, Agricultural Institute, Centre for Agricultural Research, Hungarian Academy of Sciences, Martonvásár, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Birinyi Z"
+          ],
+          "firstName": [
+            "Zsófia"
+          ],
+          "lastName": [
+            "Birinyi"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9339-0372",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Applied Genomics Department, Agricultural Institute, Centre for Agricultural Research, Hungarian Academy of Sciences, Martonvásár, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Ong J"
+          ],
+          "firstName": [
+            "Jamie"
+          ],
+          "lastName": [
+            "Ong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Keeble-Gagnère G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Keeble-Gagnère"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Maharajan A"
+          ],
+          "firstName": [
+            "Amudha"
+          ],
+          "lastName": [
+            "Maharajan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Norwegian University of Life Sciences, Aas, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma W"
+          ],
+          "firstName": [
+            "Wujun"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1264-866X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gibson P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Gibson"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9108-1712",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine Nursing and Health Sciences, Monash University, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jia J"
+          ],
+          "firstName": [
+            "Jizeng"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Crop Gene Resources and Germplasm Enhancement, Ministry of Agriculture, National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Science, Chinese Academy of Agricultural Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lang D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Lang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2166-0716",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum München, Plant Genome and Systems Biology, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Mayer KFX"
+          ],
+          "firstName": [
+            "Klaus F X"
+          ],
+          "lastName": [
+            "Mayer"
+          ],
+          "initials": [
+            "KFX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6484-1077",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum München, Plant Genome and Systems Biology, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Spannagl M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Spannagl"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0701-7035",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum München, Plant Genome and Systems Biology, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany."
+          ]
+        },
+        {
+          "collectiveName": [
+            "International Wheat Genome Sequencing Consortium"
+          ]
+        },
+        {
+          "fullName": [
+            "Tye-Din JA"
+          ],
+          "firstName": [
+            "Jason A"
+          ],
+          "lastName": [
+            "Tye-Din"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7687-9654",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Appels R"
+          ],
+          "firstName": [
+            "Rudi"
+          ],
+          "lastName": [
+            "Appels"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Olsen OA"
+          ],
+          "firstName": [
+            "Odd-Arne"
+          ],
+          "lastName": [
+            "Olsen"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8787-1057",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Norwegian University of Life Sciences, Aas, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5080-1223",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2166-0716",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5229-1717",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1264-866X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9339-0372",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0701-7035",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0873-4896",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6484-1077",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7687-9654",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8787-1057",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9108-1712",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2714421"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "eaar8602"
+  ],
+  "abstractText": [
+    "Wheat is an important staple grain for humankind globally because of its end-use quality and nutritional properties and its adaptability to diverse climates. For a small proportion of the population, specific wheat proteins can trigger adverse immune responses and clinical manifestations such as celiac disease, wheat allergy, baker's asthma, and wheat-dependent exercise-induced anaphylaxis (WDEIA). Establishing the content and distribution of the immunostimulatory regions in wheat has been hampered by the complexity of the wheat genome and the lack of complete genome sequence information. We provide novel insights into the wheat grain proteins based on a comprehensive analysis and annotation of the wheat prolamin Pfam clan grain proteins and other non-prolamin allergens implicated in these disorders using the new International Wheat Genome Sequencing Consortium bread wheat reference genome sequence, RefSeq v1.0. Celiac disease and WDEIA genes are primarily expressed in the starchy endosperm and show wide variation in protein- and transcript-level expression in response to temperature stress. Nonspecific lipid transfer proteins and α-amylase trypsin inhibitor gene families, implicated in baker's asthma, are primarily expressed in the aleurone layer and transfer cells of grains and are more sensitive to cold temperature. The study establishes a new reference map for immunostimulatory wheat proteins and provides a fresh basis for selecting wheat lines and developing diagnostics for products with more favorable consumer attributes."
+  ],
+  "affiliation": [
+    "State Agricultural Biotechnology Centre, School of Veterinary and Life Sciences, Murdoch University, Murdoch, Western Australia, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097586?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097586"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aar8602"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pfam"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-08-22"
+  ],
+  "dateOfRevision": [
+    "2018-08-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-17"
+  ],
+  "firstPublicationDate": [
+    "2018-08-17"
+  ]
+}

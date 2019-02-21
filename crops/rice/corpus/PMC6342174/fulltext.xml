@@ -1,0 +1,418 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="other"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Appl Plant Sci</journal-id><journal-id journal-id-type="iso-abbrev">Appl Plant Sci</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2168-0450</journal-id><journal-id journal-id-type="publisher-id">APS3</journal-id><journal-title-group><journal-title>Applications in Plant Sciences</journal-title></journal-title-group><issn pub-type="epub">2168-0450</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6342174</article-id><article-id pub-id-type="doi">10.1002/aps3.1207</article-id><article-id pub-id-type="publisher-id">APS31207</article-id><article-categories><subj-group subj-group-type="overline"><subject>Software Note</subject></subj-group><subj-group subj-group-type="heading"><subject>Software Notes</subject></subj-group></article-categories><title-group><article-title>
+<italic>EyeChrom</italic> and <italic><styled-content style="fixed-case">CCDB</styled-content>curator:</italic> Visualizing chromosome count data from plants</article-title></title-group><contrib-group><contrib id="aps31207-cr-0001" contrib-type="author"><name><surname>Rivero</surname><given-names>Rodrigo</given-names></name><xref ref-type="aff" rid="aps31207-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aps31207-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="aps31207-cr-0002" contrib-type="author" corresp="yes"><name><surname>Sessa</surname><given-names>Emily B.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6496-5536</contrib-id><address><email>emilysessa@ufl.edu</email></address><xref ref-type="aff" rid="aps31207-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="aps31207-cr-0003" contrib-type="author"><name><surname>Zenil&#x02010;Ferguson</surname><given-names>Rosana</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9083-2972</contrib-id><xref ref-type="aff" rid="aps31207-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aps31207-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>University of Florida</institution>
+<named-content content-type="street">Box 118525</named-content>
+<named-content content-type="city">Gainesville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+<named-content content-type="post-code">32611</named-content>
+<country country="US">USA</country>
+</aff><aff id="aps31207-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Natural Resources and Environmental Management</named-content>
+<institution>University of Hawaii</institution>
+<named-content content-type="street">1910 East&#x02010;West Road</named-content>
+<named-content content-type="city">Manoa</named-content>
+<named-content content-type="country-part">Hawaii</named-content>
+<named-content content-type="post-code">96822</named-content>
+<country country="US">USA</country>
+</aff><aff id="aps31207-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Ecology, Evolution, and Behavior</named-content>
+<institution>University of Minnesota</institution>
+<named-content content-type="street">1479 Gortner Avenue</named-content>
+<named-content content-type="city">St. Paul</named-content>
+<named-content content-type="country-part">Minnesota</named-content>
+<named-content content-type="post-code">55108</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Author for correspondence: <email>emilysessa@ufl.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2019</year></pub-date><volume>7</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/aps3.2019.7.issue-1</issue-id><elocation-id>e01207</elocation-id><history><date date-type="received"><day>03</day><month>8</month><year>2018</year></date><date date-type="accepted"><day>05</day><month>11</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Botanical Society of America <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 Rivero et&#x000a0;al. <italic>Applications in Plant Sciences</italic> is published by Wiley Periodicals, Inc. on behalf of the Botanical Society of America</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:APS3-7-e01207.pdf"/><abstract id="aps31207-abs-0001"><sec id="aps31207-sec-0001"><title>Premise of the Study</title><p>Chromosome count data are available for hundreds of plant species and can be explored in text&#x02010;only format at the Chromosome Counts Database (<ext-link ext-link-type="uri" xlink:href="http://ccdb.tau.ac.il">http://ccdb.tau.ac.il</ext-link>). <italic><styled-content style="fixed-case">CCDB</styled-content>curator</italic> and <italic>EyeChrom</italic> are an R package and a web application, respectively, that first curate and then visualize these data graphically, so that intra&#x02010; and interspecific variation of chromosome numbers can be easily summarized and displayed for a given genus.</p></sec><sec id="aps31207-sec-0002"><title>Methods and Results</title><p>We developed R code to clean, summarize, and display in several formats the chromosome count data for a selected genus or set of species present in the Chromosome Counts Database. These data and figures can be exported for use in analyses, publications, or teaching.</p></sec><sec id="aps31207-sec-0003"><title>Conclusions</title><p>Chromosome count data are critical for a number of evolutionary studies in plant biology, and their importance is underscored by the increasing appreciation of the prevalence of polyploidy in land plants. <italic><styled-content style="fixed-case">CCDB</styled-content>curator</italic> and <italic>EyeChrom</italic> provide a fast, easy, and reproducible means of cleaning, curating, and then visualizing the chromosome count data currently available for plants.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="aps31207-kwd-0001">chromosome</kwd><kwd id="aps31207-kwd-0002">data visualization</kwd><kwd id="aps31207-kwd-0003">genome size</kwd><kwd id="aps31207-kwd-0004">karyotype</kwd><kwd id="aps31207-kwd-0005">polyploidy</kwd></kwd-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="5"/><word-count count="3717"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>aps31207</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.5.6 mode:remove_FC converted:22.01.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="aps31207-cit-1001">
+<string-name>
+<surname>Rivero</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>E. B.</given-names>
+<surname>Sessa</surname>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Zenil&#x02010;Ferguson</surname>
+</string-name>. <year>2019</year>
+<article-title>
+<italic>EyeChrom</italic> and <italic>CCDBcurator:</italic> Visualizing chromosome count data from plants</article-title>. <source xml:lang="en">Applications in Plant Sciences</source>
+<volume>7</volume>(<issue>1</issue>): <elocation-id>e1207</elocation-id>.</mixed-citation>
+</p></notes></front><body><p>Analyses of plant chromosome numbers have been used for decades to understand relationships among plants and, more recently, to assess patterns of genome evolution. Visualization of karyotypes (the chromosome complement of an organism) beginning in the 1800s allowed counting as well as assessment of the appearance of chromosomes. Works like Irene Manton's <italic>Problems of Cytology and Evolution in the Pteridophyta</italic> (Manton, <xref rid="aps31207-bib-0012" ref-type="ref">1950</xref>) contributed substantially to the numbers of published chromosome counts for plants. These data have facilitated insights on plant evolution and the prevalence of polyploidy in plants in addition to untangling species complexes (Williams, <xref rid="aps31207-bib-0030" ref-type="ref">2016</xref>).</p><p>Polyploidy, or whole genome duplication, is a common evolutionary phenomenon that is particularly prevalent in plants (Wood et&#x000a0;al., <xref rid="aps31207-bib-0031" ref-type="ref">2009</xref>) and that generates individuals with extra sets of chromosomes. Polyploidy can occur after the union of two gametes that are &#x0201c;unreduced&#x0201d; and therefore diploid, as opposed to the haploid gametes that would typically result from normal meiosis; syngamy of such unreduced gametes produces a zygote with more than the standard two sets of chromosomes (i.e., instead of one set from each parent, there are two or more sets from each, depending on the ploidy levels of the parents) (Harlan and DeWet, <xref rid="aps31207-bib-0008" ref-type="ref">1975</xref>; Brownfield and K&#x000f6;hler, <xref rid="aps31207-bib-0003" ref-type="ref">2011</xref>). Polyploidy can also occur via a &#x0201c;triploid bridge,&#x0201d; in which union of one reduced and one unreduced gamete produces a (typically sterile) triploid that then undergoes whole genome duplication, resulting in a polyploid organism with proper chromosome pairing behavior, and therefore fertility, restored (Harlan and DeWet, <xref rid="aps31207-bib-0008" ref-type="ref">1975</xref>; Ramsey and Schemske, <xref rid="aps31207-bib-0016" ref-type="ref">1998</xref>). Polyploid organisms are often classified as either autopolyploid or allopolyploid depending on whether the progenitor taxa belong to the same or different species, respectively, although these two terms have long been recognized as ends of a continuum rather than a hard dichotomy (Stebbins, <xref rid="aps31207-bib-0022" ref-type="ref">1971</xref>; Soltis et&#x000a0;al., <xref rid="aps31207-bib-0020" ref-type="ref">2014</xref>).</p><p>Polyploidy is now seen as an important process in plant diversification that has occurred throughout land plant evolution (Soltis et&#x000a0;al., <xref rid="aps31207-bib-0021" ref-type="ref">2015</xref>; Wendel, <xref rid="aps31207-bib-0028" ref-type="ref">2015</xref>). Evolutionary biologists have studied the effects of polyploidy on myriad aspects of plant evolution, including genome structure, epigenetics, ecology, fitness, invasive potential, pollinator interactions, and ability to establish and diversify (Thompson et&#x000a0;al., <xref rid="aps31207-bib-0024" ref-type="ref">2004</xref>; Thompson and Merg, <xref rid="aps31207-bib-0023" ref-type="ref">2008</xref>; te Beest et&#x000a0;al., <xref rid="aps31207-bib-0002" ref-type="ref">2012</xref>; Madlung, <xref rid="aps31207-bib-0010" ref-type="ref">2013</xref>; Madlung and Wendel, <xref rid="aps31207-bib-0011" ref-type="ref">2013</xref>; Weiss&#x02010;Schneeweiss et&#x000a0;al., <xref rid="aps31207-bib-0027" ref-type="ref">2013</xref>; Parisod and Broennimann, <xref rid="aps31207-bib-0013" ref-type="ref">2016</xref>; Van de Peer et&#x000a0;al., <xref rid="aps31207-bib-0025" ref-type="ref">2017</xref>) (see also the <italic>American Journal of Botany</italic> special issue: The Evolutionary Importance of Polyploidy, e.g., &#x000c5;gren et&#x000a0;al., <xref rid="aps31207-bib-0001" ref-type="ref">2016</xref>; Husband et&#x000a0;al., <xref rid="aps31207-bib-0009" ref-type="ref">2016</xref>; Segraves and Anneberg, <xref rid="aps31207-bib-0019" ref-type="ref">2016</xref>; Zenil&#x02010;Ferguson et&#x000a0;al., <xref rid="aps31207-bib-0032" ref-type="ref">2016</xref>). The basic establishment of whether or not a species is polyploid, however, still comes down to chromosome count data, which for more than 50 years were only available in books (Manton, <xref rid="aps31207-bib-0012" ref-type="ref">1950</xref>; Darlington and Wylie, <xref rid="aps31207-bib-0004" ref-type="ref">1955</xref>) or in databases that did not aggregate all genera (Goldblatt and Lowry, <xref rid="aps31207-bib-0007" ref-type="ref">2011</xref>). Although methods like flow cytometry (Dolezel and Bartos, <xref rid="aps31207-bib-0005" ref-type="ref">2005</xref>) and sequencing&#x02010;based approaches (Vurture et&#x000a0;al., <xref rid="aps31207-bib-0026" ref-type="ref">2017</xref>) are now widely used to estimate genome sizes and predict ploidy levels, these methods must ultimately rely on comparisons to chromosome numbers previously obtained from counts, either newly collected or in most cases from past literature. Chromosome count data therefore remain a critical information source for plant biologists studying polyploidy and genome size evolution.</p><p>Currently, the largest source of plant chromosome count information available is the Chromosome Counts Database (CCDB; <ext-link ext-link-type="uri" xlink:href="http://ccdb.tau.ac.il/">http://ccdb.tau.ac.il/</ext-link>), which is a regularly updated repository of chromosome counts drawn from numerous sources in the literature (Rice et&#x000a0;al., <xref rid="aps31207-bib-0017" ref-type="ref">2015</xref>). The CCDB displays in tabular format the chromosome count mode available for a given species, as well as the original source reference and records for that species, and whether each count is gametophytic (<italic>n</italic>) or sporophytic (2<italic>n</italic>). These full records are easily exportable to CSV format directly from the CCDB website or via the R package <italic>chromer</italic> (Pennell, <xref rid="aps31207-bib-0014" ref-type="ref">2016</xref>). However, the data displayed in the CCDB and that are available for export are raw and uncurated, which can be problematic if the raw counts are formatted differently or are represented using different patterns. In addition, the downloadable CSV file will provide a parsed value for each entry in the data set that has a non&#x02010;numeric character format, and this parsing is accomplished using rules that are not transparent or reproducible. Therefore, the export tools available directly from the CCDB cannot provide a comprehensive list of chromosome numbers for multiple species simultaneously. This is a serious limitation, as interspecific and intergeneric chromosomal variation are key for the development of models in polyploidy research, among other things (Zenil&#x02010;Ferguson et&#x000a0;al., <xref rid="aps31207-bib-0032" ref-type="ref">2016</xref>, <xref rid="aps31207-bib-0033" ref-type="ref">2017</xref>). For example, if bivalents as well as trivalents or quadrivalents were visible in a karyotype, historically this was represented using notation that indicates the number of each type seen. For example, <italic>Blechnum occidentale</italic> L. has one count in the CCDB recorded as &#x0201c;40II+44I,&#x0201d; which means that 40 bivalents were present (each bivalent is a pair of chromosomes, indicated by the &#x0201c;II&#x0201d; after the 40) in addition to 44 univalents (singleton chromosomes, indicated by the &#x0201c;I&#x0201d; after the 44). The actual count is therefore 40 + 40 + 44 = 124 chromosomes, which suggests that this individual may have been a tetraploid (the base number in <italic>Blechnum</italic> is <italic>x</italic> = 31; Gasper et&#x000a0;al., <xref rid="aps31207-bib-0006" ref-type="ref">2016</xref>). In the downloadable CSV version of the CCDB data, this same record shows as &#x0201c;40II+44I&#x0201d; and is parsed as &#x0201c;40,&#x0201d; losing critical information about the complete chromosome complement. Entries in the database can differ in their formats in other ways as well (Table&#x000a0;<xref rid="aps31207-tbl-0001" ref-type="table">1</xref>), resulting in additional opportunities for information loss or mishandling.</p><table-wrap id="aps31207-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Examples of count translations (i.e., curated, clean records) produced via the <italic>CCDBcurator</italic> R package. Original records in the CCDB include thousands of different patterns, which makes accurate interpretation of chromosome numbers challenging. <italic>CCDBcurator</italic> cleans the most common patterns in the original records using perl&#x02010;like regular expressions. These clean records become the input for visualization in <italic>EyeChrom</italic> and are downloadable for quantitative analyses or further cleaning. Users can report cleaning issues or suspected new patterns to <ext-link ext-link-type="uri" xlink:href="https://github.com/roszenil/CCDBcurator">https://github.com/roszenil/CCDBcurator</ext-link>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Taxon</th><th align="left" valign="top" rowspan="1" colspan="1">Count type</th><th align="left" valign="top" rowspan="1" colspan="1">Original record format (exact text from CCDB)</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>CCDBcurator</italic> count translation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>Gomphrena globosa</italic>
+</td><td align="left" rowspan="1" colspan="1">Sporophytic</td><td align="left" rowspan="1" colspan="1">40&#x02010;44</td><td align="char" char="." rowspan="1" colspan="1">
+40<break/>
+44
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Barnardia japonica</italic>
+</td><td align="left" rowspan="1" colspan="1">Sporophytic</td><td align="left" rowspan="1" colspan="1">34+0&#x02010;13,16,27,30f,etc</td><td align="char" char="." rowspan="1" colspan="1">
+34<break/>
+16<break/>
+27<break/>
+30
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Gentiana terglouensis</italic>
+</td><td align="left" rowspan="1" colspan="1">Sporophytic</td><td align="left" rowspan="1" colspan="1">11II+16I;19II</td><td align="char" char="." rowspan="1" colspan="1">
+38<break/>
+38
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Chrysanthemum morifolium</italic>
+</td><td align="left" rowspan="1" colspan="1">Sporophytic</td><td align="left" rowspan="1" colspan="1">62+1B, 62+2Bs, 63, 63+1B, 64(1, 1, 1, 4, 1, 1)</td><td align="char" char="." rowspan="1" colspan="1">
+62<break/>
+62<break/>
+63<break/>
+63<break/>
+64
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Heracleum sphondylium</italic>
+</td><td align="left" rowspan="1" colspan="1">Sporophytic</td><td align="left" rowspan="1" colspan="1">11II+1BI</td><td align="char" char="." rowspan="1" colspan="1">22</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Extracting and summarizing uncurated or incomplete data from the CCDB has been accomplished previously by software packages including <italic>chromer</italic>, but creating a uniformly curated version of these data that is easily accessible is challenging given the number of data patterns present in the uncurated data. (There are thousands of these patterns in the CCDB; the most commonly encountered are given in Table&#x000a0;<xref rid="aps31207-tbl-0001" ref-type="table">1</xref>.) Furthermore, data sets cleaned by individual researchers are not available via a public&#x02010;facing application (i.e., one that requires no coding skills). Here we present a web application (<italic>EyeChrom</italic>) and an R package (<italic>CCDBcurator</italic>) that together allow for comprehensive, reproducible curation and visualization of CCDB chromosome count data. The first complete version of the R package <italic>CCDBcurator</italic> is documented here (it was first described as a set of scripts by Zenil&#x02010;Ferguson et&#x000a0;al. <xref rid="aps31207-bib-0033" ref-type="ref">2017</xref>)<italic>. EyeChrom</italic> visualizes the processed data from <italic>CCDBcurator</italic> for a given genus or set of species using both plots and tables, and allows these curated data to be exported for further cleaning or analysis, including the original records reported by CCDB for comparison.</p><p>Variation in chromosome counts for a genus or even a species can be difficult to visualize and summarize, and presenting this information in an easily accessible, graphical format for many taxa simultaneously should be a useful tool for researchers as well as instructors interested in teaching about chromosomes, karyotypes, polyploidy, or genetics. Visualization also allows easy detection of mistakes in pattern curation, allowing users to quickly identify and report new patterns of chromosome numbers in the original database that are not captured in our curation code and need to be incorporated, allowing the R package and web application to work in tandem to visualize and improve curation of chromosome count data (Fig.&#x000a0;<xref rid="aps31207-fig-0001" ref-type="fig">1</xref>). The <italic>EyeChrom</italic> web application aims to accomplish these goals by using simple drop&#x02010;down controls and menus, being web&#x02010;based, accessible from any browser, and available at no cost, and therefore approachable for users not comfortable with programming languages. Simultaneously, users that are familiar with R programming can access the curated records via <italic>CCDBcurator</italic>, clean and upload their own data, and dynamically contribute to the improvement of pattern detection via GitHub.</p><fig fig-type="Figure" xml:lang="en" id="aps31207-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Diagram showing the workflow for <italic><styled-content style="fixed-case">CCDB</styled-content>curator</italic> and <italic>EyeChrom</italic>. Steps 1 and 2 are completed automatically, and the curated data are visualized via <italic>EyeChrom</italic> in Step 3. Step 1: <styled-content style="fixed-case">CCDB</styled-content> records are first obtained using the R package <italic>chromer</italic> (Pennell, <xref rid="aps31207-bib-0014" ref-type="ref">2016</xref>). Step 2: <italic><styled-content style="fixed-case">CCDB</styled-content>curator</italic> cleans the records and prepares a data frame in the format used by <italic>EyeChrom</italic>. Alternatively, users can upload pre&#x02010;processed data frames. Step 3: Users visualize records online using the <italic>EyeChrom</italic> interface (available at <ext-link ext-link-type="uri" xlink:href="http://www.eyechrom.com">http://eyechrom.com</ext-link>) and can report potential issues in the count patterns and translation via <ext-link ext-link-type="uri" xlink:href="https://github.com/roszenil/CCDBcurator">https://github.com/roszenil/CCDBcurator</ext-link> or <ext-link ext-link-type="uri" xlink:href="https://github.com/RodrigoRivero/EyeChrom">https://github.com/RodrigoRivero/EyeChrom</ext-link>. Users can also improve the pattern recognition by cloning the GitHub repositories of <italic><styled-content style="fixed-case">CCDB</styled-content>curator</italic> and <italic>EyeChrom</italic>.</p></caption><graphic id="nlm-graphic-1" xlink:href="APS3-7-e01207-g001"/></fig><sec id="aps31207-sec-0005"><title>METHODS AND RESULTS</title><sec id="aps31207-sec-0006"><title>Data source and processing</title><p>The CCDB (<ext-link ext-link-type="uri" xlink:href="http://ccdb.tau.ac.il/">http://ccdb.tau.ac.il/</ext-link>) (Rice et&#x000a0;al., <xref rid="aps31207-bib-0017" ref-type="ref">2015</xref>) is the source of primary data for <italic>EyeChrom</italic>. <italic>EyeChrom</italic> uses a version of the CCDB database that has first been processed/curated using tools in the R package <italic>CCDBcurator</italic>. The output of <italic>CCDBcurator</italic> is a database free of non&#x02010;integer entries. Entries formatted using the notation described above (&#x0201c;40II+44I&#x0201d;) or that include other signs or symbols (e.g., &#x0201c;+&#x0201d;) are converted to the appropriate integer value. <italic>CCDBcurator</italic> recognizes the most common patterns encountered in the CCDB and cleans the records via perl&#x02010;like regular expressions, although additional patterns may exist that it does not yet recognize. <italic>CCDBcurator</italic> is regularly updated to incorporate these, and researchers are encouraged to submit pattern recognition updates via GitHub (<ext-link ext-link-type="uri" xlink:href="https://github.com/roszenil/CCDBcurator">https://github.com/roszenil/CCDBcurator</ext-link>). Examples of the types of regular expressions cleaned by <italic>CCDBcurator</italic> are shown in Table&#x000a0;<xref rid="aps31207-tbl-0001" ref-type="table">1</xref>.</p></sec><sec id="aps31207-sec-0007"><title>Description of the application</title><p>Once the CCDB records are curated, the <italic>EyeChrom</italic> scripts ingest the curated data in a simple table format that includes taxon name, curated chromosome number, the translation made by <italic>CCDBcurator</italic>, and the original record as found in the CCDB. At the <italic>EyeChrom</italic> web application (which can be accessed at <ext-link ext-link-type="uri" xlink:href="http://eyechrom.com">http://eyechrom.com</ext-link>), the user first selects the taxon group (ferns or angiosperms) and whether to display gametophytic (<italic>n</italic>), sporophytic (2<italic>n</italic>), or combined (both gametophytic and sporophytic) counts. The user then indicates the taxa they are interested in by selecting a genus from a drop&#x02010;down menu (text can also be entered into this box) and then checking or unchecking the species to be included (a &#x0201c;select all/deselect all&#x0201d; option is available). The data are then presented in several formats in separate tabs of the application, as follows: (1) A stacked bar plot, where the height of each bar corresponds to the frequency of CCDB records that have a particular count for each species selected. If more than one species (or an entire genus) was selected, each stacked bar is divided by species, which are represented by different colors, and a legend is provided to identify the species in the plot (Fig.&#x000a0;<xref rid="aps31207-fig-0002" ref-type="fig">2</xref>). (2) An interactive plot identical to the stacked bar plot, but where the user can hover the cursor over each color block to view information about the species, chromosome number, and number of records represented by that section of the stacked bar. (3) A heatmap with cell colors corresponding to the percentage of records with a given count for the taxa selected. (4) A table showing the species name, chromosome number, original count, translated count, and whether the count is gametophytic or sporophytic.</p><fig fig-type="Figure" xml:lang="en" id="aps31207-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Example output of a search in <italic>EyeChrom</italic> for the fern genus <italic>Anemia</italic>. Columns in the stacked bar plot correspond to the number of curated records in the Chromosome Counts Database (<styled-content style="fixed-case">CCDB</styled-content>) at a particular chromosome number, and are colored according to individual species. If a given species has records present at multiple chromosome numbers, it will appear in multiple bars (e.g., <italic>Anemia adiantifolia</italic> has counts of both 76 and 152).</p></caption><graphic id="nlm-graphic-3" xlink:href="APS3-7-e01207-g002"/></fig><p>It is not uncommon for individual species to have multiple records at different chromosome count values, which may represent polyploid series or an unidentified case of autopolyploidy. For example, the records for the fern genus <italic>Anemia</italic> Sw. (Anemiaceae, Schizeales) show that <italic>A. adiantifolia</italic> (L.) Sw. and <italic>A. schimperiana</italic> C. Presl (and several other taxa) have both been recorded as having 76 and 152 chromosomes (Fig.&#x000a0;<xref rid="aps31207-fig-0002" ref-type="fig">2</xref>). These are easy to see as the same color block appearing in multiple columns in the stacked bar plot, interactive plot, and heatmap. Genera that contain potentially polyploid species can also be easily identified; <italic>Anemia</italic>, for example, appears to include diploid (2<italic>n</italic> = 2<italic>x</italic> = 76), tetraploid (2<italic>n</italic> = 4<italic>x</italic> = 156), hexaploid (2<italic>n</italic> = 6<italic>x</italic> = 228), and octoploid (2<italic>n</italic> = 8<italic>x</italic> = 304) species (Fig.&#x000a0;<xref rid="aps31207-fig-0002" ref-type="fig">2</xref>).</p><p>
+<italic>CCDBcurator</italic> and <italic>EyeChrom</italic> were both written in R (R Development Core Team, <xref rid="aps31207-bib-0015" ref-type="ref">2016</xref>), and all graphics in <italic>EyeChrom</italic> are produced using the package <italic>ggplot2</italic> (Wickham, <xref rid="aps31207-bib-0029" ref-type="ref">2009</xref>). The web application was implemented with <italic>Rshiny</italic> (RStudio Inc., <xref rid="aps31207-bib-0018" ref-type="ref">2014</xref>), an R package produced by RStudio (Boston, Massachussetts, USA) for creating web applications in the RStudio In&#x02010;Development Environment (IDE). <italic>Rshiny</italic> makes it easy to process information and display it on a website, without the need to write in html or CSS. It also allows the creation of dynamic applications that can respond to user's selections, and has the capability of exporting data in table or text format. The application can also be run on a personal computer by cloning the <italic>EyeChrom</italic> repository from GitHub (<ext-link ext-link-type="uri" xlink:href="https://github.com/RodrigoRivero/EyeChrom">https://github.com/RodrigoRivero/EyeChrom</ext-link>).</p></sec></sec><sec id="aps31207-sec-0008"><title>CONCLUSIONS</title><p>
+<italic>EyeChrom</italic> presents information on chromosome counts from the CCDB that have been curated with <italic>CCDBcurator</italic> so that users can visualize these data and export them for downstream analyses. The combination of the data curation package and web application described here allows users to quickly visualize chromosome count data from the CCDB, view the distribution of these counts for taxa of interest, and assess whether genera or species are likely to include polyploids.</p></sec><sec id="aps31207-sec-0010"><title>AUTHOR CONTRIBUTIONS</title><p>R.Z.F. wrote the <italic>CCDBcurator</italic> code and conceived the application that would become <italic>EyeChrom</italic>; R.R. wrote the <italic>EyeChrom</italic> code, implemented the <italic>Shiny</italic> web application, and outlined the manuscript; E.B.S. consulted at all steps and oversaw manuscript preparation. All authors contributed to and approved the final version of the manuscript.</p></sec><sec id="aps31207-sec-0011"><title>DATA ACCESSIBILITY</title><p>
+<italic>EyeChrom</italic> is available under the GNU General Public License at&#x000a0;<ext-link ext-link-type="uri" xlink:href="https://github.com/RodrigoRivero/EyeChrom">https://github.com/RodrigoRivero/EyeChrom</ext-link>. <italic>EyeChrom</italic> is implemented in R and interactive online at <ext-link ext-link-type="uri" xlink:href="http://eyechrom.com">http://eyechrom.com</ext-link>. <italic>CCDBcurator</italic> is available under the GNU General Public License at <ext-link ext-link-type="uri" xlink:href="https://github.com/roszenil/CCDBcurator">https://github.com/roszenil/CCDBcurator</ext-link>.</p></sec></body><back><ack id="aps31207-sec-0009"><title>ACKNOWLEDGMENTS</title><p>The authors thank Sally Chambers for assistance with the early stages of writing the R code for this project, and members of the Goldberg lab at the University of Minnesota for useful feedback on the first version of the manuscript.</p></ack><ref-list content-type="cited-references" id="aps31207-bibl-0001"><title>LITERATURE CITED</title><ref id="aps31207-bib-0001"><mixed-citation publication-type="journal" id="aps31207-cit-0001">
+<string-name>
+<surname>&#x000c5;gren</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<given-names>H.&#x02010;R.</given-names>
+<surname>Huang</surname>
+</string-name>, and <string-name>
+<given-names>S. I.</given-names>
+<surname>Wright</surname>
+</string-name>. <year>2016</year>
+<article-title>Transposable element evolution in the allotetraploid <italic>Capsella bursa&#x02010;pastoris</italic>
+</article-title>. <source xml:lang="en">American Journal of Botany</source>
+<volume>103</volume>: <fpage>1197</fpage>&#x02013;<lpage>1202</lpage>.<pub-id pub-id-type="pmid">27440791</pub-id></mixed-citation></ref><ref id="aps31207-bib-0002"><mixed-citation publication-type="journal" id="aps31207-cit-0002">
+<string-name>
+<surname>te Beest</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Le Roux</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Brysting</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Suda</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kubesov&#x000e1;</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Pysek</surname>
+</string-name>. <year>2012</year>
+<article-title>The more the better? The role of polyploidy in facilitating plant invasions</article-title>. <source xml:lang="en">Annals of Botany</source>
+<volume>109</volume>: <fpage>19</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">22040744</pub-id></mixed-citation></ref><ref id="aps31207-bib-0003"><mixed-citation publication-type="journal" id="aps31207-cit-0003">
+<string-name>
+<surname>Brownfield</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>K&#x000f6;hler</surname>
+</string-name>. <year>2011</year>
+<article-title>Unreduced gamete formation in plants: Mechanisms and prospects</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>
+<volume>62</volume>: <fpage>1659</fpage>&#x02013;<lpage>1668</lpage>.<pub-id pub-id-type="pmid">21109579</pub-id></mixed-citation></ref><ref id="aps31207-bib-0004"><mixed-citation publication-type="book" id="aps31207-cit-0004">
+<string-name>
+<surname>Darlington</surname>, <given-names>C. D.</given-names>
+</string-name>, and <string-name>
+<given-names>A. P.</given-names>
+<surname>Wylie</surname>
+</string-name>. <year>1955</year>
+<source xml:lang="en">Chromosome atlas of flowering plants</source>, <edition>2nd ed</edition>
+<publisher-name>Allen &#x00026; Unwin</publisher-name>, <publisher-loc>United Kingdom</publisher-loc>.</mixed-citation></ref><ref id="aps31207-bib-0005"><mixed-citation publication-type="journal" id="aps31207-cit-0005">
+<string-name>
+<surname>Dolezel</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Bartos</surname>
+</string-name>. <year>2005</year>
+<article-title>Plant DNA flow cytometry and estimation of nuclear genome size</article-title>. <source xml:lang="en">Annals of Botany</source>
+<volume>95</volume>: <fpage>99</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">15596459</pub-id></mixed-citation></ref><ref id="aps31207-bib-0006"><mixed-citation publication-type="journal" id="aps31207-cit-0006">
+<string-name>
+<surname>Gasper</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<given-names>V. A. O.</given-names>
+<surname>Dittrich</surname>
+</string-name>, <string-name>
+<given-names>A. R.</given-names>
+<surname>Smith</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Salino</surname>
+</string-name>. <year>2016</year>
+<article-title>A classification for Blechnaceae (Polypodiales: Polypodiopsida): New genera, resurrected names, and combinations</article-title>. <source xml:lang="en">Phytotaxa</source>
+<volume>275</volume>: <fpage>191</fpage>.</mixed-citation></ref><ref id="aps31207-bib-0007"><mixed-citation publication-type="journal" id="aps31207-cit-0007">
+<string-name>
+<surname>Goldblatt</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<given-names>P. P.</given-names>
+<surname>Lowry</surname>
+</string-name>. <year>2011</year>
+<article-title>The <italic>Index to Plant Chromosome Numbers</italic> (IPCN): Three decades of publication by the Missouri Botanical Garden come to an end</article-title>. <source xml:lang="en">Annals of the Missouri Botanical Garden</source>
+<volume>98</volume>: <fpage>226</fpage>&#x02013;<lpage>227</lpage>.</mixed-citation></ref><ref id="aps31207-bib-0008"><mixed-citation publication-type="journal" id="aps31207-cit-0008">
+<string-name>
+<surname>Harlan</surname>, <given-names>J. R.</given-names>
+</string-name>, and <string-name>
+<given-names>J. M. J.</given-names>
+<surname>DeWet</surname>
+</string-name>. <year>1975</year>
+<article-title>On &#x000d6;. Winge and a prayer: The origins of polyploidy</article-title>. <source xml:lang="en">Botanical Review</source>
+<volume>41</volume>: <fpage>361</fpage>&#x02013;<lpage>390</lpage>.</mixed-citation></ref><ref id="aps31207-bib-0009"><mixed-citation publication-type="journal" id="aps31207-cit-0009">
+<string-name>
+<surname>Husband</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<given-names>S.&#x02010;J.</given-names>
+<surname>Baldwin</surname>
+</string-name>, and <string-name>
+<given-names>H. A.</given-names>
+<surname>Sabara</surname>
+</string-name>. <year>2016</year>
+<article-title>Direct vs. indirect effects of whole&#x02010;genome duplication on prezygotic isolation in <italic>Chamerion angustifolium</italic>: Implications for rapid speciation<italic>s</italic>
+</article-title>. <source xml:lang="en">American Journal of Botany</source>
+<volume>103</volume>: <fpage>1259</fpage>&#x02013;<lpage>1271</lpage>.<pub-id pub-id-type="pmid">27440792</pub-id></mixed-citation></ref><ref id="aps31207-bib-0010"><mixed-citation publication-type="journal" id="aps31207-cit-0010">
+<string-name>
+<surname>Madlung</surname>, <given-names>A.</given-names>
+</string-name>
+<year>2013</year>
+<article-title>Polyploidy and its effect on evolutionary success: Old questions revisited with new tools</article-title>. <source xml:lang="en">Heredity</source>
+<volume>110</volume>: <fpage>99</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">23149459</pub-id></mixed-citation></ref><ref id="aps31207-bib-0011"><mixed-citation publication-type="journal" id="aps31207-cit-0011">
+<string-name>
+<surname>Madlung</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<given-names>J. F.</given-names>
+<surname>Wendel</surname>
+</string-name>. <year>2013</year>
+<article-title>Genetic and epigenetic aspects of polyploid evolution in plants</article-title>. <source xml:lang="en">Cytogenetic and Genome Research</source>
+<volume>140</volume>: <fpage>270</fpage>&#x02013;<lpage>285</lpage>.<pub-id pub-id-type="pmid">23751292</pub-id></mixed-citation></ref><ref id="aps31207-bib-0012"><mixed-citation publication-type="book" id="aps31207-cit-0012">
+<string-name>
+<surname>Manton</surname>, <given-names>I.</given-names>
+</string-name>
+<year>1950</year>
+<source xml:lang="en">Problems of cytology and evolution in the Pteridophyta</source>. <publisher-name>Cambridge University Press</publisher-name>, <publisher-loc>Cambridge, United Kingdom</publisher-loc>.</mixed-citation></ref><ref id="aps31207-bib-0013"><mixed-citation publication-type="journal" id="aps31207-cit-0013">
+<string-name>
+<surname>Parisod</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<given-names>O.</given-names>
+<surname>Broennimann</surname>
+</string-name>. <year>2016</year>
+<article-title>Towards unified hypotheses of the impact of polyploidy on ecological niches</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>212</volume>: <fpage>540</fpage>&#x02013;<lpage>542</lpage>.<pub-id pub-id-type="pmid">27735072</pub-id></mixed-citation></ref><ref id="aps31207-bib-0014"><mixed-citation publication-type="journal" id="aps31207-cit-0014">
+<string-name>
+<surname>Pennell</surname>, <given-names>M. W.</given-names>
+</string-name>
+<year>2016</year>
+<article-title>chromer: Interface to Chromosome Counts Database API</article-title>. <source xml:lang="en">R package version 0.1.2.9000</source>. Website <ext-link ext-link-type="uri" xlink:href="https://github.com/ropensci/chromer">https://github.com/ropensci/chromer</ext-link> [accessed 20 June 2018].</mixed-citation></ref><ref id="aps31207-bib-0015"><mixed-citation publication-type="book" id="aps31207-cit-0015">
+<collab collab-type="authors">R Development Core Team</collab>
+. <year>2016</year>
+<source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-name>R Foundation for Statistical Computing</publisher-name>, <publisher-loc>Vienna, Austria</publisher-loc>.</mixed-citation></ref><ref id="aps31207-bib-0016"><mixed-citation publication-type="journal" id="aps31207-cit-0016">
+<string-name>
+<surname>Ramsey</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<given-names>D. W.</given-names>
+<surname>Schemske</surname>
+</string-name>. <year>1998</year>
+<article-title>Pathways, mechanisms, and rates of polyploid formation in flowering plants</article-title>. <source xml:lang="en">Annual Review of Ecology and Systematics</source>
+<volume>29</volume>: <fpage>467</fpage>&#x02013;<lpage>501</lpage>.</mixed-citation></ref><ref id="aps31207-bib-0017"><mixed-citation publication-type="journal" id="aps31207-cit-0017">
+<string-name>
+<surname>Rice</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Glick</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Abadi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Einhorn</surname>
+</string-name>, <string-name>
+<given-names>N. M.</given-names>
+<surname>Kopelman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Salman&#x02010;Minkov</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mayzel</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>The Chromosome Counts Database (CCDB): A community resource of plant chromosome numbers</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>206</volume>: <fpage>19</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">25423910</pub-id></mixed-citation></ref><ref id="aps31207-bib-0018"><mixed-citation publication-type="book" id="aps31207-cit-0018">
+<collab collab-type="authors">RStudio Inc</collab>
+. <year>2014</year>
+<source xml:lang="en">shiny: Web Application Framework for R</source>. <publisher-name>RStudio Inc.</publisher-name>, <publisher-loc>Boston, Massachusetts, USA</publisher-loc>.</mixed-citation></ref><ref id="aps31207-bib-0019"><mixed-citation publication-type="journal" id="aps31207-cit-0019">
+<string-name>
+<surname>Segraves</surname>, <given-names>K. A.</given-names>
+</string-name>, and <string-name>
+<given-names>T. J.</given-names>
+<surname>Anneberg</surname>
+</string-name>. <year>2016</year>
+<article-title>Species interactions and plant polyploidy</article-title>. <source xml:lang="en">American Journal of Botany</source>
+<volume>103</volume>: <fpage>1326</fpage>&#x02013;<lpage>1335</lpage>.<pub-id pub-id-type="pmid">27370313</pub-id></mixed-citation></ref><ref id="aps31207-bib-0020"><mixed-citation publication-type="journal" id="aps31207-cit-0020">
+<string-name>
+<surname>Soltis</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Visger</surname>
+</string-name>, and <string-name>
+<given-names>P. S.</given-names>
+<surname>Soltis</surname>
+</string-name>. <year>2014</year>
+<article-title>The polyploidy revolution then&#x02026;and now: Stebbins revisited</article-title>. <source xml:lang="en">American Journal of Botany</source>
+<volume>101</volume>: <fpage>1057</fpage>&#x02013;<lpage>1078</lpage>.<pub-id pub-id-type="pmid">25049267</pub-id></mixed-citation></ref><ref id="aps31207-bib-0021"><mixed-citation publication-type="journal" id="aps31207-cit-0021">
+<string-name>
+<surname>Soltis</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<given-names>D. B.</given-names>
+<surname>Marchant</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Van de Peer</surname>
+</string-name>, and <string-name>
+<given-names>D. E.</given-names>
+<surname>Soltis</surname>
+</string-name>. <year>2015</year>
+<article-title>Polyploidy and genome evolution in plants</article-title>. <source xml:lang="en">Current Opinion in Genetics and Development</source>
+<volume>35</volume>: <fpage>119</fpage>&#x02013;<lpage>125</lpage>.<pub-id pub-id-type="pmid">26656231</pub-id></mixed-citation></ref><ref id="aps31207-bib-0022"><mixed-citation publication-type="book" id="aps31207-cit-0022">
+<string-name>
+<surname>Stebbins</surname>, <given-names>G. L.</given-names>
+</string-name>
+<year>1971</year>
+<source xml:lang="en">Chromosomal evolution in higher plants</source>. <publisher-name>Edward Arnold</publisher-name>, <publisher-loc>London, United Kingdom</publisher-loc>.</mixed-citation></ref><ref id="aps31207-bib-0023"><mixed-citation publication-type="journal" id="aps31207-cit-0023">
+<string-name>
+<surname>Thompson</surname>, <given-names>J. N.</given-names>
+</string-name>, and <string-name>
+<given-names>K. F.</given-names>
+<surname>Merg</surname>
+</string-name>. <year>2008</year>
+<article-title>Evolution of polyploidy and the diversification of plant&#x02010;pollinator interactions</article-title>. <source xml:lang="en">Ecology</source>
+<volume>89</volume>: <fpage>2197</fpage>&#x02013;<lpage>2206</lpage>.<pub-id pub-id-type="pmid">18724730</pub-id></mixed-citation></ref><ref id="aps31207-bib-0024"><mixed-citation publication-type="journal" id="aps31207-cit-0024">
+<string-name>
+<surname>Thompson</surname>, <given-names>J. N.</given-names>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Nuismer</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Merg</surname>
+</string-name>. <year>2004</year>
+<article-title>Plant polyploidy and the evolutionary ecology of plant/animal interactions</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>
+<volume>82</volume>: <fpage>511</fpage>&#x02013;<lpage>519</lpage>.</mixed-citation></ref><ref id="aps31207-bib-0025"><mixed-citation publication-type="journal" id="aps31207-cit-0025">
+<string-name>
+<surname>Van de Peer</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Mizrachi</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Marchal</surname>
+</string-name>. <year>2017</year>
+<article-title>The evolutionary significance of polyploidy</article-title>. <source xml:lang="en">Nature Reviews. Genetics</source>
+<volume>18</volume>: <fpage>411</fpage>&#x02013;<lpage>424</lpage>.</mixed-citation></ref><ref id="aps31207-bib-0026"><mixed-citation publication-type="journal" id="aps31207-cit-0026">
+<string-name>
+<surname>Vurture</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Sedlazeck</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Nattestad</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Underwood</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gurtowski</surname>
+</string-name>, and <string-name>
+<given-names>M. C.</given-names>
+<surname>Schatz</surname>
+</string-name>. <year>2017</year>
+<article-title>GenomeScope: Fast reference&#x02010;free genome profiling from short reads</article-title>. <source xml:lang="en">Bioinformatics</source>
+<volume>33</volume>: <fpage>2202</fpage>&#x02013;<lpage>2204</lpage>.<pub-id pub-id-type="pmid">28369201</pub-id></mixed-citation></ref><ref id="aps31207-bib-0027"><mixed-citation publication-type="journal" id="aps31207-cit-0027">
+<string-name>
+<surname>Weiss&#x02010;Schneeweiss</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Emadzade</surname>
+</string-name>, <string-name>
+<given-names>T. S.</given-names>
+<surname>Jang</surname>
+</string-name>, and <string-name>
+<given-names>G. M.</given-names>
+<surname>Schneeweiss</surname>
+</string-name>. <year>2013</year>
+<article-title>Evolutionary consequences, constraints and potential of polyploidy in plants</article-title>. <source xml:lang="en">Cytogenetic and Genome Research</source>
+<volume>140</volume>: <fpage>137</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">23796571</pub-id></mixed-citation></ref><ref id="aps31207-bib-0028"><mixed-citation publication-type="journal" id="aps31207-cit-0028">
+<string-name>
+<surname>Wendel</surname>, <given-names>J. F.</given-names>
+</string-name>
+<year>2015</year>
+<article-title>The wondrous cycles of polyploidy in plants</article-title>. <source xml:lang="en">American Journal of Botany</source>
+<volume>102</volume>: <fpage>1753</fpage>&#x02013;<lpage>1756</lpage>.<pub-id pub-id-type="pmid">26451037</pub-id></mixed-citation></ref><ref id="aps31207-bib-0029"><mixed-citation publication-type="book" id="aps31207-cit-0029">
+<string-name>
+<surname>Wickham</surname>, <given-names>H.</given-names>
+</string-name>
+<year>2009</year>
+<source xml:lang="en">ggplot2: Elegant graphics for data analysis</source>. <publisher-name>Springer, New York</publisher-name>, <publisher-loc>New York, USA</publisher-loc>.</mixed-citation></ref><ref id="aps31207-bib-0030"><mixed-citation publication-type="journal" id="aps31207-cit-0030">
+<string-name>
+<surname>Williams</surname>, <given-names>N.</given-names>
+</string-name>
+<year>2016</year>
+<article-title>Irene Manton, Erwin Schr&#x000f6;dinger and the puzzle of chromosome structure</article-title>. <source xml:lang="en">Journal of the History of Biology</source>
+<volume>49</volume>: <fpage>425</fpage>&#x02013;<lpage>459</lpage>.<pub-id pub-id-type="pmid">26385728</pub-id></mixed-citation></ref><ref id="aps31207-bib-0031"><mixed-citation publication-type="journal" id="aps31207-cit-0031">
+<string-name>
+<surname>Wood</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Takebayashi</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Barker</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Mayrose</surname>
+</string-name>, <string-name>
+<given-names>P. B.</given-names>
+<surname>Greenspoon</surname>
+</string-name>, and <string-name>
+<given-names>L. H.</given-names>
+<surname>Rieseberg</surname>
+</string-name>. <year>2009</year>
+<article-title>The frequency of polyploid speciation in vascular plants</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>
+<volume>106</volume>: <fpage>13875</fpage>&#x02013;<lpage>13879</lpage>.</mixed-citation></ref><ref id="aps31207-bib-0032"><mixed-citation publication-type="journal" id="aps31207-cit-0032">
+<string-name>
+<surname>Zenil&#x02010;Ferguson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Ponciano</surname>
+</string-name>, and <string-name>
+<given-names>J. G.</given-names>
+<surname>Burleigh</surname>
+</string-name>. <year>2016</year>
+<article-title>Evaluating the role of genome downsizing and size thresholds from genome size distributions in angiosperms</article-title>. <source xml:lang="en">American Journal of Botany</source>
+<volume>103</volume>: <fpage>1175</fpage>&#x02013;<lpage>1186</lpage>.<pub-id pub-id-type="pmid">27206462</pub-id></mixed-citation></ref><ref id="aps31207-bib-0033"><mixed-citation publication-type="journal" id="aps31207-cit-0033">
+<string-name>
+<surname>Zenil&#x02010;Ferguson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Ponciano</surname>
+</string-name>, and <string-name>
+<given-names>J. G.</given-names>
+<surname>Burleigh</surname>
+</string-name>. <year>2017</year>
+<article-title>Testing the association of phenotypes with polyploidy: An example using herbaceous and woody eudicots</article-title>. <source xml:lang="en">Evolution</source>
+<volume>71</volume>: <fpage>1138</fpage>&#x02013;<lpage>1148</lpage>.<pub-id pub-id-type="pmid">28295270</pub-id></mixed-citation></ref></ref-list></back></article>

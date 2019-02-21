@@ -1,0 +1,395 @@
+{
+  "id": [
+    "30615612"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30615612"
+  ],
+  "pmcid": [
+    "PMC6336352"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1006664"
+  ],
+  "title": [
+    "Mutation, drift and selection in single-driver hematologic malignancy: Example of secondary myelodysplastic syndrome following treatment of inherited neutropenia."
+  ],
+  "authorString": [
+    "Wojdyla T, Mehta H, Glaubach T, Bertolusso R, Iwanaszko M, Braun R, Corey SJ, Kimmel M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wojdyla T"
+          ],
+          "firstName": [
+            "Tomasz"
+          ],
+          "lastName": [
+            "Wojdyla"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Systems Engineering Group, Silesian University of Technology, Gliwice, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mehta H"
+          ],
+          "firstName": [
+            "Hrishikesh"
+          ],
+          "lastName": [
+            "Mehta"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9140-9765",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cleveland Clinic, Cleveland, OH, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Glaubach T"
+          ],
+          "firstName": [
+            "Taly"
+          ],
+          "lastName": [
+            "Glaubach"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Clinical Pediatrics, Division of Hospital Medicine, Stony Brook Children's Hospital, Stony Brook, New York."
+          ]
+        },
+        {
+          "fullName": [
+            "Bertolusso R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Bertolusso"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Statistics, Rice University, Houston, TX, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Iwanaszko M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Iwanaszko"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Systems Engineering Group, Silesian University of Technology, Gliwice, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Braun R"
+          ],
+          "firstName": [
+            "Rosemary"
+          ],
+          "lastName": [
+            "Braun"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Preventive Medicine-Division of Biostatistics, Northwestern University, Chicago, IL United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Corey SJ"
+          ],
+          "firstName": [
+            "Seth J"
+          ],
+          "lastName": [
+            "Corey"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cleveland Clinic, Cleveland, OH, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kimmel M"
+          ],
+          "firstName": [
+            "Marek"
+          ],
+          "lastName": [
+            "Kimmel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Systems Engineering Group, Silesian University of Technology, Gliwice, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9140-9765",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2765642"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1006664"
+  ],
+  "abstractText": [
+    "Cancer development is driven by series of events involving mutations, which may become fixed in a tumor via genetic drift and selection. This process usually includes a limited number of driver (advantageous) mutations and a greater number of passenger (neutral or mildly deleterious) mutations. We focus on a real-world leukemia model evolving on the background of a germline mutation. Severe congenital neutropenia (SCN) evolves to secondary myelodysplastic syndrome (sMDS) and/or secondary acute myeloid leukemia (sAML) in 30-40%. The majority of SCN cases are due to a germline ELANE mutation. Acquired mutations in CSF3R occur in >70% sMDS/sAML associated with SCN. Hypotheses underlying our model are: an ELANE mutation causes SCN; CSF3R mutations occur spontaneously at a low rate; in fetal life, hematopoietic stem and progenitor cells expands quickly, resulting in a high probability of several tens to several hundreds of cells with CSF3R truncation mutations; therapeutic granulocyte colony-stimulating factor (G-CSF) administration early in life exerts a strong selective pressure, providing mutants with a growth advantage. Applying population genetics theory, we propose a novel two-phase model of disease development from SCN to sMDS. In Phase 1, hematopoietic tissues expand and produce tens to hundreds of stem cells with the CSF3R truncation mutation. Phase 2 occurs postnatally through adult stages with bone marrow production of granulocyte precursors and positive selection of mutants due to chronic G-CSF therapy to reverse the severe neutropenia. We predict the existence of the pool of cells with the mutated truncated receptor before G-CSF treatment begins. The model does not require increase in mutation rate under G-CSF treatment and agrees with age distribution of sMDS onset and clinical sequencing data."
+  ],
+  "affiliation": [
+    "Systems Engineering Group, Silesian University of Technology, Gliwice, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL128173"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6336352?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6336352"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1006664"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-08"
+  ],
+  "dateOfRevision": [
+    "2019-01-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2019-01-07"
+  ]
+}

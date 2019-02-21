@@ -1,0 +1,324 @@
+{
+  "id": [
+    "30517144"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30517144"
+  ],
+  "pmcid": [
+    "PMC6281281"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0207624"
+  ],
+  "title": [
+    "Estimation of paddy rice leaf area index using machine learning methods based on hyperspectral data from multi-year experiments."
+  ],
+  "authorString": [
+    "Wang L, Chang Q, Yang J, Zhang X, Li F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang Q"
+          ],
+          "firstName": [
+            "Qingrui"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7154-6068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaohua"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fenling"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7154-6068",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2755928"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0207624"
+  ],
+  "abstractText": [
+    "The performance of three machine learning methods (support vector regression, random forests and artificial neural network) for estimating the LAI of paddy rice was evaluated in this study. Traditional univariate regression models involving narrowband NDVI with optimized band combinations as well as linear multivariate calibration partial least squares regression models were also evaluated for comparison. A four year field-collected dataset was used to test the robustness of LAI estimation models against temporal variation. The partial least squares regression and three machine learning methods were built on the raw hyperspectral reflectance and the first derivative separately. Two different rules were used to determine the models' key parameters. The results showed that the combination of the red edge and NIR bands (766 nm and 830 nm) as well as the combination of SWIR bands (1114 nm and 1190 nm) were optimal for producing the narrowband NDVI. The models built on the first derivative spectra yielded more accurate results than the corresponding models built on the raw spectra. Properly selected model parameters resulted in comparable accuracy and robustness with the empirical optimal parameter and significantly reduced the model complexity. The machine learning methods were more accurate and robust than the VI methods and partial least squares regression. When validating the calibrated models against the standalone validation dataset, the VI method yielded a validation RMSE value of 1.17 for NDVI(766,830) and 1.01 for NDVI(1114,1190), while the best models for the partial least squares, support vector machine and artificial neural network methods yielded validation RMSE values of 0.84, 0.82, 0.67 and 0.84, respectively. The RF models built on the first derivative spectra with mtry = 10 showed the highest potential for estimating the LAI of paddy rice."
+  ],
+  "affiliation": [
+    "College of Natural Resources and Environment, Northwest A&F University, Yangling, Shaanxi, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6281281?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6281281"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0207624"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-06"
+  ],
+  "dateOfRevision": [
+    "2018-12-21"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-05"
+  ],
+  "firstPublicationDate": [
+    "2018-12-05"
+  ]
+}

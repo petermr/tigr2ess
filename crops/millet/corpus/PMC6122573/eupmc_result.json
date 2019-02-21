@@ -1,0 +1,579 @@
+{
+  "id": [
+    "30180802"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30180802"
+  ],
+  "pmcid": [
+    "PMC6122573"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5040-z"
+  ],
+  "title": [
+    "Linked read technology for assembling large complex and polyploid genomes."
+  ],
+  "authorString": [
+    "Ott A, Schnable JC, Yeh CT, Wu L, Liu C, Hu HC, Dalgard CL, Sarkar S, Schnable PS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ott A"
+          ],
+          "firstName": [
+            "Alina"
+          ],
+          "lastName": [
+            "Ott"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Agronomy, Iowa State University, Ames, IA, 50011, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schnable JC"
+          ],
+          "firstName": [
+            "James C"
+          ],
+          "lastName": [
+            "Schnable"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Department of Agriculture and Horticulture, University of Nebraska-Lincoln, Lincoln, NE, 68588, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh CT"
+          ],
+          "firstName": [
+            "Cheng-Ting"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1392-2018",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Agronomy, Iowa State University, Ames, IA, 50011, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu L"
+          ],
+          "firstName": [
+            "Linjiang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Iowa State University, Ames, IA, 50011, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Iowa State University, Ames, IA, 50011, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu HC"
+          ],
+          "firstName": [
+            "Heng-Cheng"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "The American Genome Center, Uniformed Services University of the Health Sciences, Bethesda, MD, 20814, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dalgard CL"
+          ],
+          "firstName": [
+            "Clifton L"
+          ],
+          "lastName": [
+            "Dalgard"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "The American Genome Center, Uniformed Services University of the Health Sciences, Bethesda, MD, 20814, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarkar S"
+          ],
+          "firstName": [
+            "Soumik"
+          ],
+          "lastName": [
+            "Sarkar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Iowa State University, Ames, IA, 50011, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schnable PS"
+          ],
+          "firstName": [
+            "Patrick S"
+          ],
+          "lastName": [
+            "Schnable"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "Department of Agronomy, Iowa State University, Ames, IA, 50011, USA. schnable@iastate.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1392-2018",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2722464"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "651"
+  ],
+  "abstractText": [
+    "BACKGROUND:Short read DNA sequencing technologies have revolutionized genome assembly by providing high accuracy and throughput data at low cost. But it remains challenging to assemble short read data, particularly for large, complex and polyploid genomes. The linked read strategy has the potential to enhance the value of short reads for genome assembly because all reads originating from a single long molecule of DNA share a common barcode. However, the majority of studies to date that have employed linked reads were focused on human haplotype phasing and genome assembly. RESULTS:Here we describe a de novo maize B73 genome assembly generated via linked read technology which contains ~ 172,000 scaffolds with an N50 of 89 kb that cover 50% of the genome. Based on comparisons to the B73 reference genome, 91% of linked read contigs are accurately assembled. Because it was possible to identify errors with > 76% accuracy using machine learning, it may be possible to identify and potentially correct systematic errors. Complex polyploids represent one of the last grand challenges in genome assembly. Linked read technology was able to successfully resolve the two subgenomes of the recent allopolyploid, proso millet (Panicum miliaceum). Our assembly covers ~ 83% of the 1 Gb genome and consists of 30,819 scaffolds with an N50 of 912 kb. CONCLUSIONS:Our analysis provides a framework for future de novo genome assemblies using linked reads, and we suggest computational strategies that if implemented have the potential to further improve linked read assemblies, particularly for repetitive genomes."
+  ],
+  "affiliation": [
+    "Department of Agronomy, Iowa State University, Ames, IA, 50011, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DGE1247194"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Plant Sciences Institute, Iowa State University (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Office of Biotechnology, Iowa State University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polyploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome Assembly",
+        "Long Molecule Sequencing",
+        "Polyploid Assembly"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6122573?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6122573"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5040-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-18"
+  ],
+  "dateOfCreation": [
+    "2018-09-06"
+  ],
+  "dateOfRevision": [
+    "2018-12-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-04"
+  ],
+  "firstPublicationDate": [
+    "2018-09-04"
+  ]
+}

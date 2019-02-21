@@ -1,0 +1,825 @@
+{
+  "id": [
+    "30208846"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30208846"
+  ],
+  "pmcid": [
+    "PMC6134603"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5051-9"
+  ],
+  "title": [
+    "Genomic, expressional, protein-protein interactional analysis of Trihelix transcription factor genes in Setaria italia and inference of their evolutionary trajectory."
+  ],
+  "authorString": [
+    "Wang Z, Zhao K, Pan Y, Wang J, Song X, Ge W, Yuan M, Lei T, Wang L, Zhang L, Li Y, Liu T, Chen W, Meng W, Sun C, Cui X, Bai Y, Wang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhenyi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China. zhenyiwang0301@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao K"
+          ],
+          "firstName": [
+            "Kanglu"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan Y"
+          ],
+          "firstName": [
+            "Yuxin"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jinpeng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ge W"
+          ],
+          "firstName": [
+            "Weina"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lei T"
+          ],
+          "firstName": [
+            "Tianyu"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yuxian"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Center for Genomics and Computational Biology, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Center for Genomics and Computational Biology, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Meng W"
+          ],
+          "firstName": [
+            "Wenjing"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun C"
+          ],
+          "firstName": [
+            "Changkai"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui X"
+          ],
+          "firstName": [
+            "Xiaobo"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiyin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China. wangxiyin@vip.sina.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2722464"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "665"
+  ],
+  "abstractText": [
+    "BACKGROUND:Trihelix transcription factors (TTF) play important roles in plant growth and response to adversity stress. Until now, genome-wide identification and analysis of this gene family in foxtail millet has not been available. Here, we identified TTF genes in the foxtail millet and its grass relatives, and characterized their functional domains. RESULTS:As to sequence divergence, TTF genes were previously divided into five subfamilies, I-V. We found that Trihelix family members in foxtail millet and other grasses mostly preserved their ancestral chromosomal locations during millions of years' evolution. Six amino acid sites of the SIP1 subfamily possibly were likely subjected to significant positive selection. Highest expression level was observed in the spica, with the SIP1 subfamily having highest expression level. As to the origination and expansion of the gene family, notably we showed that a subgroup of subfamily IV was the oldest, and therefore was separated to define a new subfamily O. Overtime, starting from the subfamily O, certain genes evolved to form subfamilies III and I, and later from subfamily I to develop subfamilies II and V. The oldest gene, Si1g016284, has the most structural changes, and a high expression in different tissues. What's more interesting is that it may have bridge the interaction with different proteins. CONCLUSIONS:By performing phylogenetic analysis using non-plant species, notably we showed that a subgroup of subfamily IV was the oldest, and therefore was separated to define a new subfamily O. Starting from the subfamily O, certain genes evolved to form other subfamilies. Our work will contribute to understanding the structural and functional innovation of Trihelix transcription factor, and the evolutionary trajectory."
+  ],
+  "affiliation": [
+    "College of Life Sciences, North China University of Science and Technology, Caofeidian Dist, Tangshan, 063210, Hebei, China. zhenyiwang0301@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31371282"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31501072"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "X2016161"
+          ],
+          "agency": [
+            "Undergraduate Training Programs for Innovation and Entrepreneurship of North China University of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "E2013100003"
+          ],
+          "agency": [
+            "China-Hebei 100 Scholars Supporting Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "QN2017123"
+          ],
+          "agency": [
+            "Youth Foundation of Educational Committee of Hebei Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "C2016209097"
+          ],
+          "agency": [
+            "National Science Foundation of Hebei province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Setaria Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Alignment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Protein Interaction Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Selection",
+        "Grass",
+        "Transcription factor",
+        "Foxtail millet",
+        "Trihelix"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6134603?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6134603"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5051-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pfam"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-12"
+  ],
+  "dateOfCreation": [
+    "2018-09-14"
+  ],
+  "dateOfRevision": [
+    "2018-11-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-12"
+  ],
+  "firstPublicationDate": [
+    "2018-09-12"
+  ]
+}

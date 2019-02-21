@@ -1,0 +1,312 @@
+{
+  "id": [
+    "29760766"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29760766"
+  ],
+  "pmcid": [
+    "PMC5944015"
+  ],
+  "doi": [
+    "10.1186/s13007-018-0303-x"
+  ],
+  "title": [
+    "Holistic and component plant phenotyping using temporal image sequence."
+  ],
+  "authorString": [
+    "Das Choudhury S, Bashyam S, Qiu Y, Samal A, Awada T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Das Choudhury S"
+          ],
+          "firstName": [
+            "Sruti"
+          ],
+          "lastName": [
+            "Das Choudhury"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1School of Natural Resources, University of Nebraska-Lincoln, Lincoln, NE USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bashyam S"
+          ],
+          "firstName": [
+            "Srinidhi"
+          ],
+          "lastName": [
+            "Bashyam"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "2Department of Computer Science and Engineering, University of Nebraska-Lincoln, Lincoln, NE USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu Y"
+          ],
+          "firstName": [
+            "Yumou"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "3Department of Statistics, University of Nebraska-Lincoln, Lincoln, NE USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Samal A"
+          ],
+          "firstName": [
+            "Ashok"
+          ],
+          "lastName": [
+            "Samal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "2Department of Computer Science and Engineering, University of Nebraska-Lincoln, Lincoln, NE USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Awada T"
+          ],
+          "firstName": [
+            "Tala"
+          ],
+          "lastName": [
+            "Awada"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1School of Natural Resources, University of Nebraska-Lincoln, Lincoln, NE USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2639732"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant Methods"
+          ],
+          "ISOAbbreviation": [
+            "Plant Methods"
+          ],
+          "medlineAbbreviation": [
+            "Plant Methods"
+          ],
+          "NLMid": [
+            "101245798"
+          ],
+          "ISSN": [
+            "1746-4811"
+          ],
+          "ESSN": [
+            "1746-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "35"
+  ],
+  "abstractText": [
+    "Image-based plant phenotyping facilitates the extraction of traits noninvasively by analyzing large number of plants in a relatively short period of time. It has the potential to compute advanced phenotypes by considering the whole plant as a single object (holistic phenotypes) or as individual components, i.e., leaves and the stem (component phenotypes), to investigate the biophysical characteristics of the plants. The emergence timing, total number of leaves present at any point of time and the growth of individual leaves during vegetative stage life cycle of the maize plants are significant phenotypic expressions that best contribute to assess the plant vigor. However, image-based automated solution to this novel problem is yet to be explored.A set of new holistic and component phenotypes are introduced in this paper. To compute the component phenotypes, it is essential to detect the individual leaves and the stem. Thus, the paper introduces a novel method to reliably detect the leaves and the stem of the maize plants by analyzing 2-dimensional visible light image sequences captured from the side using a graph based approach. The total number of leaves are counted and the length of each leaf is measured for all images in the sequence to monitor leaf growth. To evaluate the performance of the proposed algorithm, we introduce University of Nebraska-Lincoln Component Plant Phenotyping Dataset (UNL-CPPD) and provide ground truth to facilitate new algorithm development and uniform comparison. The temporal variation of the component phenotypes regulated by genotypes and environment (i.e., greenhouse) are experimentally demonstrated for the maize plants on UNL-CPPD. Statistical models are applied to analyze the greenhouse environment impact and demonstrate the genetic regulation of the temporal variation of the holistic phenotypes on the public dataset called Panicoid Phenomap-1.The central contribution of the paper is a novel computer vision based algorithm for automated detection of individual leaves and the stem to compute new component phenotypes along with a public release of a benchmark dataset, i.e., UNL-CPPD. Detailed experimental analyses are performed to demonstrate the temporal variation of the holistic and component phenotypes in maize regulated by environment and genetic variation with a discussion on their significance in the context of plant science."
+  ],
+  "affiliation": [
+    "1School of Natural Resources, University of Nebraska-Lincoln, Lincoln, NE USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "plant architecture",
+        "Plant Phenotyping",
+        "Image Sequence Analysis",
+        "Component Phenotypes",
+        "Holistic Phenotypes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5944015?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5944015"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13007-018-0303-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-16"
+  ],
+  "dateOfRevision": [
+    "2018-05-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-10"
+  ],
+  "firstPublicationDate": [
+    "2018-05-10"
+  ]
+}

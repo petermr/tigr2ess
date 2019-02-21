@@ -1,0 +1,847 @@
+{
+  "id": [
+    "29730773"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29730773"
+  ],
+  "pmcid": [
+    "PMC6097106"
+  ],
+  "doi": [
+    "10.1007/s10142-018-0607-y"
+  ],
+  "title": [
+    "Comparison of gene co-networks reveals the molecular mechanisms of the rice (Oryza sativa L.) response to Rhizoctonia solani AG1 IA infection."
+  ],
+  "authorString": [
+    "Zhang J, Zhao W, Fu R, Fu C, Wang L, Liu H, Li S, Deng Q, Wang S, Zhu J, Liang Y, Li P, Zheng A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jinfeng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2516-7099",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao W"
+          ],
+          "firstName": [
+            "Wenjuan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu R"
+          ],
+          "firstName": [
+            "Rong"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu C"
+          ],
+          "firstName": [
+            "Chenglin"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lingxia"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Huainian"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shuangcheng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng Q"
+          ],
+          "firstName": [
+            "Qiming"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shiquan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang Y"
+          ],
+          "firstName": [
+            "Yueyang"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng A"
+          ],
+          "firstName": [
+            "Aiping"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China. aipingzh@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2516-7099",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2715559"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Functional & integrative genomics"
+          ],
+          "ISOAbbreviation": [
+            "Funct. Integr. Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Funct Integr Genomics"
+          ],
+          "NLMid": [
+            "100939343"
+          ],
+          "ISSN": [
+            "1438-793X"
+          ],
+          "ESSN": [
+            "1438-7948"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "545-557"
+  ],
+  "abstractText": [
+    "Rhizoctonia solani causes rice sheath blight, an important disease affecting the growth of rice (Oryza sativa L.). Attempts to control the disease have met with little success. Based on transcriptional profiling, we previously identified more than 11,947 common differentially expressed genes (TPM > 10) between the rice genotypes TeQing and Lemont. In the current study, we extended these findings by focusing on an analysis of gene co-expression in response to R. solani AG1 IA and identified gene modules within the networks through weighted gene co-expression network analysis (WGCNA). We compared the different genes assigned to each module and the biological interpretations of gene co-expression networks at early and later modules in the two rice genotypes to reveal differential responses to AG1 IA. Our results show that different changes occurred in the two rice genotypes and that the modules in the two groups contain a number of candidate genes possibly involved in pathogenesis, such as the VQ protein. Furthermore, these gene co-expression networks provide comprehensive transcriptional information regarding gene expression in rice in response to AG1 IA. The co-expression networks derived from our data offer ideas for follow-up experimentation that will help advance our understanding of the translational regulation of rice gene expression changes in response to AG1 IA."
+  ],
+  "affiliation": [
+    "Rice Research Institute of Sichuan Agricultural University, Chengdu, 611130, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31400130"
+          ],
+          "agency": [
+            "National Natural Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2014CB160304"
+          ],
+          "agency": [
+            "National 973 Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rhizoctonia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Resistance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Ontology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice",
+        "Transcriptomics",
+        "Co-expression Network",
+        "Rhizoctonia Solani Ag1 Ia"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097106?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097106"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10142-018-0607-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-19"
+  ],
+  "dateOfCreation": [
+    "2018-05-07"
+  ],
+  "dateOfRevision": [
+    "2018-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-05"
+  ],
+  "firstPublicationDate": [
+    "2018-05-05"
+  ]
+}

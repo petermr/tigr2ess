@@ -1,0 +1,355 @@
+{
+  "id": [
+    "30407594"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30407594"
+  ],
+  "pmcid": [
+    "PMC6323939"
+  ],
+  "doi": [
+    "10.1093/nar/gky1038"
+  ],
+  "title": [
+    "PANTHER version 14: more genomes, a new PANTHER GO-slim and improvements in enrichment analysis tools."
+  ],
+  "authorString": [
+    "Mi H, Muruganujan A, Ebert D, Huang X, Thomas PD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mi H"
+          ],
+          "firstName": [
+            "Huaiyu"
+          ],
+          "lastName": [
+            "Mi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Division of Bioinformatics, Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Muruganujan A"
+          ],
+          "firstName": [
+            "Anushya"
+          ],
+          "lastName": [
+            "Muruganujan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Bioinformatics, Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ebert D"
+          ],
+          "firstName": [
+            "Dustin"
+          ],
+          "lastName": [
+            "Ebert"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Bioinformatics, Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang X"
+          ],
+          "firstName": [
+            "Xiaosong"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8117-7323",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Bioinformatics, Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas PD"
+          ],
+          "firstName": [
+            "Paul D"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "PD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9074-3507",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Bioinformatics, Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9074-3507",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8117-7323",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "D1"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2769746"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "D419-D426"
+  ],
+  "abstractText": [
+    "PANTHER (Protein Analysis Through Evolutionary Relationships, http://pantherdb.org) is a resource for the evolutionary and functional classification of genes from organisms across the tree of life. We report the improvements we have made to the resource during the past two years. For evolutionary classifications, we have added more prokaryotic and plant genomes to the phylogenetic gene trees, expanding the representation of gene evolution in these lineages. We have refined many protein family boundaries, and have aligned PANTHER with the MEROPS resource for protease and protease inhibitor families. For functional classifications, we have developed an entirely new PANTHER GO-slim, containing over four times as many Gene Ontology terms as our previous GO-slim, as well as curated associations of genes to these terms. Lastly, we have made substantial improvements to the enrichment analysis tools available on the PANTHER website: users can now analyze over 900 different genomes, using updated statistical tests with false discovery rate corrections for multiple testing. The overrepresentation test is also available as a web service, for easy addition to third-party sites."
+  ],
+  "affiliation": [
+    "Division of Bioinformatics, Department of Preventive Medicine, Keck School of Medicine of USC, University of Southern California, Los Angeles, CA 90033, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U41 HG002273"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323939?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323939"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gky1038"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-09"
+  ],
+  "dateOfRevision": [
+    "2019-01-12"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

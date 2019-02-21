@@ -1,0 +1,469 @@
+{
+  "id": [
+    "30275366"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30275366"
+  ],
+  "pmcid": [
+    "PMC6209949"
+  ],
+  "doi": [
+    "10.3390/s18103299"
+  ],
+  "title": [
+    "Accurate Weed Mapping and Prescription Map Generation Based on Fully Convolutional Networks Using UAV Imagery."
+  ],
+  "authorString": [
+    "Huang H, Deng J, Lan Y, Yang A, Deng X, Wen S, Zhang H, Zhang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Huasheng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Wushan Road, Guangzhou 510642, China. huanghsheng@stu.scau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng J"
+          ],
+          "firstName": [
+            "Jizhong"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Wushan Road, Guangzhou 510642, China. jz-deng@scau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan Y"
+          ],
+          "firstName": [
+            "Yubin"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Wushan Road, Guangzhou 510642, China. ylan@scau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang A"
+          ],
+          "firstName": [
+            "Aqing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "College of Electronic Engineering, South China Agricultural University, Wushan Road, Guangzhou 510624, China. yangaqing@stu.scau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng X"
+          ],
+          "firstName": [
+            "Xiaoling"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Wushan Road, Guangzhou 510624, China. dengxl@scau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, Wushan Road, Guangzhou 510624, China. vincen@scau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huihui"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9781-6086",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "USDA, Agricultural Research Service, Water Management Research Unit, 2150 Centre Ave., Building D, Suite 320, Fort Collins, CO 80526-8119, USA. huihui.zhang@ars.usda.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yali"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Engineering, South China Agricultural University, Wushan Road, Guangzhou 510642, China. ylzhang@scau.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9781-6086",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2732860"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Chemical control is necessary in order to control weed infestation and to ensure a rice yield. However, excessive use of herbicides has caused serious agronomic and environmental problems. Site specific weed management (SSWM) recommends an appropriate dose of herbicides according to the weed coverage, which may reduce the use of herbicides while enhancing their chemical effects. In the context of SSWM, the weed cover map and prescription map must be generated in order to carry out the accurate spraying. In this paper, high resolution unmanned aerial vehicle (UAV) imagery were captured over a rice field. Different workflows were evaluated to generate the weed cover map for the whole field. Fully convolutional networks (FCN) was applied for a pixel-level classification. Theoretical analysis and practical evaluation were carried out to seek for an architecture improvement and performance boost. A chessboard segmentation process was used to build the grid framework of the prescription map. The experimental results showed that the overall accuracy and mean intersection over union (mean IU) for weed mapping using FCN-4s were 0.9196 and 0.8473, and the total time (including the data collection and data processing) required to generate the weed cover map for the entire field (50 × 60 m) was less than half an hour. Different weed thresholds (0.00⁻0.25, with an interval of 0.05) were used for the prescription map generation. High accuracies (above 0.94) were observed for all of the threshold values, and the relevant herbicide saving ranged from 58.3% to 70.8%. All of the experimental results demonstrated that the method used in this work has the potential to produce an accurate weed cover map and prescription map in SSWM applications."
+  ],
+  "affiliation": [
+    "College of Engineering, South China Agricultural University, Wushan Road, Guangzhou 510642, China. huanghsheng@stu.scau.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2015KGJHZ007"
+          ],
+          "agency": [
+            "Educational Commission of Guangdong Province of China for Platform Construction: International Cooperation on R&D of Key Technology of Precision Agric"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016A020210100"
+          ],
+          "agency": [
+            "the Science and Technology Planning Project of Guangdong Province, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016YFD0200700"
+          ],
+          "agency": [
+            "the National Key Research and Development Plan, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "61675003"
+          ],
+          "agency": [
+            "the National Natural Science Fund, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017A020208046"
+          ],
+          "agency": [
+            "the Science and Technology Planning Project of Guangdong Province, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017B010117010"
+          ],
+          "agency": [
+            "the Science and Technology Planning Project of Guangdong Province, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "201707010047"
+          ],
+          "agency": [
+            "the Science and Technology Planning Project of Guangzhou city, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fcn",
+        "Uav",
+        "Weed Mapping",
+        "Prescription Map",
+        "Semantic Labeling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6209949?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6209949"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18103299"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-03"
+  ],
+  "dateOfCreation": [
+    "2018-10-03"
+  ],
+  "dateOfRevision": [
+    "2018-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-01"
+  ],
+  "firstPublicationDate": [
+    "2018-10-01"
+  ]
+}

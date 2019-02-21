@@ -1,0 +1,683 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Appl</journal-id><journal-id journal-id-type="iso-abbrev">Evol Appl</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1752-4571</journal-id><journal-id journal-id-type="publisher-id">EVA</journal-id><journal-title-group><journal-title>Evolutionary Applications</journal-title></journal-title-group><issn pub-type="epub">1752-4571</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6304679</article-id><article-id pub-id-type="doi">10.1111/eva.12581</article-id><article-id pub-id-type="publisher-id">EVA12581</article-id><article-categories><subj-group subj-group-type="overline"><subject>Special Issue Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Special Issue Original Articles</subject></subj-group></article-categories><title-group><article-title>Call of the wild rice: <italic>Oryza rufipogon</italic> shapes weedy rice evolution in Southeast Asia</article-title><alt-title alt-title-type="left-running-head">VIGUEIRA et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="eva12581-cr-0001" contrib-type="author"><name><surname>Vigueira</surname><given-names>Cynthia C.</given-names></name><xref ref-type="aff" rid="eva12581-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="eva12581-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="eva12581-cr-0002" contrib-type="author"><name><surname>Qi</surname><given-names>Xinshuai</given-names></name><xref ref-type="aff" rid="eva12581-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="eva12581-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="eva12581-cr-0003" contrib-type="author" corresp="yes"><name><surname>Song</surname><given-names>Beng&#x02010;Kah</given-names></name><address><email>song.beng.kah@monash.edu</email></address><xref ref-type="aff" rid="eva12581-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="eva12581-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="eva12581-cr-0004" contrib-type="author"><name><surname>Li</surname><given-names>Lin&#x02010;Feng</given-names></name><xref ref-type="aff" rid="eva12581-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="eva12581-cr-0005" contrib-type="author"><name><surname>Caicedo</surname><given-names>Ana L.</given-names></name><xref ref-type="aff" rid="eva12581-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="eva12581-cr-0006" contrib-type="author"><name><surname>Jia</surname><given-names>Yulin</given-names></name><xref ref-type="aff" rid="eva12581-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="eva12581-cr-0007" contrib-type="author" corresp="yes"><name><surname>Olsen</surname><given-names>Kenneth M.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8338-3638</contrib-id><address><email>kolsen@wustl.edu</email></address><xref ref-type="aff" rid="eva12581-aff-0008">
+<sup>8</sup>
+</xref></contrib></contrib-group><aff id="eva12581-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>High Point University</institution>
+<named-content content-type="city">High Point</named-content>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="eva12581-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Ecology &#x00026; Evolutionary Biology</named-content>
+<institution>University of Arizona</institution>
+<named-content content-type="city">Tucson</named-content>
+<named-content content-type="country-part">AZ</named-content>
+<country country="US">USA</country>
+</aff><aff id="eva12581-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">School of Science</named-content>
+<institution>Monash University Malaysia</institution>
+<named-content content-type="city">Selangor</named-content>
+<country country="MY">Malaysia</country>
+</aff><aff id="eva12581-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Genomics Facility</named-content>
+<institution>Monash University Malaysia</institution>
+<named-content content-type="city">Selangor</named-content>
+<country country="MY">Malaysia</country>
+</aff><aff id="eva12581-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Ministry of Education Key Laboratory for Biodiversity Science and Ecological Engineering</named-content>
+<named-content content-type="organisation-division">Department of Ecology and Evolutionary Biology</named-content>
+<institution>Fudan University</institution>
+<named-content content-type="city">Shanghai</named-content>
+<country country="CN">China</country>
+</aff><aff id="eva12581-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>University of Massachusetts</institution>
+<named-content content-type="city">Amherst</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="eva12581-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Dale Bumpers National Rice Research Center</named-content>
+<institution>USDA&#x02010;ARS</institution>
+<named-content content-type="city">Stuttgart</named-content>
+<named-content content-type="country-part">AR</named-content>
+<country country="US">USA</country>
+</aff><aff id="eva12581-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>Washington University</institution>
+<named-content content-type="city">St. Louis</named-content>
+<named-content content-type="country-part">MO</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Beng&#x02010;Kah Song, School of Science, Monash University Malaysia, Selangor, Malaysia.<break/>
+Email: <email>song.beng.kah@monash.edu</email><break/>
+and<break/>
+Kenneth M. Olsen, Department of Biology, Washington University, St. Louis, MO, USA.<break/>
+Email: <email>kolsen@wustl.edu</email><break/></corresp><fn fn-type="equal" id="eva12581-note-0001"><label>&#x02020;</label><p>The first two authors contributed equally to this paper.</p></fn></author-notes><pub-date pub-type="epub"><day>11</day><month>1</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2019</year></pub-date><volume>12</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/eva.2019.12.issue-1</issue-id><issue-title content-type="special-issue-title">Genomics of Domestication</issue-title><fpage>93</fpage><lpage>104</lpage><history><date date-type="received"><day>16</day><month>10</month><year>2017</year></date><date date-type="accepted"><day>21</day><month>11</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Evolutionary Applications</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EVA-12-93.pdf"/><abstract id="eva12581-abs-0001"><title>Abstract</title><p>Agricultural weeds serve as productive models for studying the genetic basis of rapid adaptation, with weed&#x02010;adaptive traits potentially evolving multiple times independently in geographically distinct but environmentally similar agroecosystems. Weedy relatives of domesticated crops can be especially interesting systems because of the potential for weed&#x02010;adaptive alleles to originate through multiple mechanisms, including introgression from cultivated and/or wild relatives, standing genetic variation, and de novo mutations. Weedy rice populations have evolved multiple times through dedomestication from cultivated rice. Much of the genomic work to date in weedy rice has focused on populations that exist outside the range of the wild crop progenitor. In this study, we use genome&#x02010;wide SNPs generated through genotyping&#x02010;by&#x02010;sequencing to compare the evolution of weedy rice in regions outside the range of wild rice (North America, South Korea) and populations in Southeast Asia, where wild rice populations are present. We find evidence for adaptive introgression of wild rice alleles into weedy rice populations in Southeast Asia, with the relative contributions of wild and cultivated rice alleles varying across the genome. In addition, gene regions underlying several weed&#x02010;adaptive traits are dominated by genomic contributions from wild rice. Genome&#x02010;wide nucleotide diversity is also much higher in Southeast Asian weeds than in North American and South Korean weeds. Besides reflecting introgression from wild rice, this difference in diversity likely reflects genetic contributions from diverse cultivated landraces that may have served as the progenitors of these weedy populations. These important differences in weedy rice evolution in regions with and without wild rice could inform region&#x02010;specific management strategies for weed control.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="eva12581-kwd-0001">adaptive evolution</kwd><kwd id="eva12581-kwd-0002">dedomestication</kwd><kwd id="eva12581-kwd-0003">introgression</kwd><kwd id="eva12581-kwd-0004">population genomics</kwd><kwd id="eva12581-kwd-0005">rice (<italic>Oryza sativa</italic>)</kwd><kwd id="eva12581-kwd-0006">weedy crop relatives</kwd></kwd-group><funding-group><award-group><funding-source>Division of Integrative Organismal Systems</funding-source><award-id>1032023</award-id></award-group><award-group><funding-source>Malaysian Ministry of Education</funding-source><award-id>FRGS/1/2015/ST03/MUSM/02/1</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="12"/><word-count count="8822"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>eva12581</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:24.12.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="eva12581-cit-1001">
+<string-name>
+<surname>Vigueira</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>B&#x02010;K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Call of the wild rice: <italic>Oryza rufipogon</italic> shapes weedy rice evolution in Southeast Asia</article-title>. <source xml:lang="en">Evol Appl</source>. <year>2019</year>;<volume>12</volume>:<fpage>93</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12581</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="eva12581-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Crop domestication and agricultural weed evolution together represent two of the best documented forms of rapid evolution in plant species. Both of these processes are at play in the evolution of weedy crop relatives, which have recently gained attention as valuable systems for studying the genetic basis of rapid adaptation in agroecosystems (Vigueira, Olsen, &#x00026; Caicedo, <xref rid="eva12581-bib-0045" ref-type="ref">2013</xref>). Weedy crop relatives are also increasingly recognized as long&#x02010;standing components of agroecosystems and integral contributors to crop evolutionary dynamics (F&#x000e9;nart, Arnaud, De Cauwer, &#x00026; Cuguen, <xref rid="eva12581-bib-0014" ref-type="ref">2008</xref>; Li, Li, Jia, Caicedo, &#x00026; Olsen, <xref rid="eva12581-bib-0022" ref-type="ref">2017</xref>; Roumet, Noilhan, Latreille, David, &#x00026; Muller, <xref rid="eva12581-bib-0034" ref-type="ref">2013</xref>).</p><p>In the case of domesticated rice (<italic>Oryza sativa</italic> L.), conspecific weed strains occur in rice production areas worldwide, where they aggressively compete with crop varieties for nutrients and light. Weedy rice infestations can reduce harvests by more than 80% if left unchecked and are considered a primary constraint on rice productivity in the United States and other world regions. Weedy rice control is hindered by its close phenotypic similarity to its domesticated relative, especially at the vegetative stage, and by the potential for crop&#x02010;to&#x02010;weed movement of herbicide resistance alleles (Chen, Lee, Song, Suh, &#x00026; Lu, <xref rid="eva12581-bib-0007" ref-type="ref">2004</xref>; Shivrain et&#x000a0;al., <xref rid="eva12581-bib-0036" ref-type="ref">2009</xref>). Although both cultivated and weedy rice are predominantly self&#x02010;fertilizing, multiple instances of introgression of herbicide resistance alleles have been documented since the commercialization of herbicide&#x02010;resistant cultivars in the early 2000s (Busconi, Rossi, Lorenzoni, Baldi, &#x00026; Fogher, <xref rid="eva12581-bib-0003" ref-type="ref">2012</xref>; Engku et&#x000a0;al., <xref rid="eva12581-bib-0013" ref-type="ref">2016</xref>; Shivrain et&#x000a0;al., <xref rid="eva12581-bib-0035" ref-type="ref">2007</xref>), indicating the potential for weed adaptation through crop&#x02010;to&#x02010;weed gene flow. Phenotypic characteristics of weedy rice include rapid growth and soil nutrient uptake; highly shattering seed that are easily dispersed into crop fields; strong seed dormancy, which allows seeds to remain viable in the seed bank for several years; and proanthocyanidin&#x02010;pigmented pericarps, a dormancy&#x02010;associated trait found in wild <italic>Oryza</italic> species (reviewed in Nadir et&#x000a0;al., <xref rid="eva12581-bib-0027" ref-type="ref">2017</xref>).</p><p>As a conspecific weed of a genomic model crop species, weedy rice has provided a productive system for studying the dynamics of agricultural weed adaptation. Studies over the last two decades have characterized the population structure of weed strains and revealed independent weed origins in different world regions, with most weed strains closely related to domesticated rice (Akasaka, Ushiki, Iwata, Ishikawa, &#x00026; Ishii, <xref rid="eva12581-bib-0001" ref-type="ref">2009</xref>; Cao et&#x000a0;al., <xref rid="eva12581-bib-0005" ref-type="ref">2006</xref>; Cho, Chung, &#x00026; Suh, <xref rid="eva12581-bib-0008" ref-type="ref">1995</xref>; Huang et&#x000a0;al., <xref rid="eva12581-bib-0017" ref-type="ref">2017</xref>; Londo &#x00026; Schaal, <xref rid="eva12581-bib-0024" ref-type="ref">2007</xref>; Song, Chuah, Tam, &#x00026; Olsen, <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>). Weedy rice strains in the southern United States are among the genetically best characterized. A combination of analyses, including comparative QTL mapping (Qi et&#x000a0;al., <xref rid="eva12581-bib-0030" ref-type="ref">2015</xref>), population genomics (Reagon et&#x000a0;al., <xref rid="eva12581-bib-0032" ref-type="ref">2010</xref>), candidate gene studies (Gross et&#x000a0;al., <xref rid="eva12581-bib-0015" ref-type="ref">2010</xref>; Reagon, Thurber, Olsen, Jia, &#x00026; Caicedo, <xref rid="eva12581-bib-0033" ref-type="ref">2011</xref>; Thurber et&#x000a0;al., <xref rid="eva12581-bib-0043" ref-type="ref">2010</xref>; Vigueira, Li, &#x00026; Olsen, <xref rid="eva12581-bib-0044" ref-type="ref">2013</xref>), and selection scans with whole&#x02010;genome sequences (Li et&#x000a0;al., <xref rid="eva12581-bib-0022" ref-type="ref">2017</xref>), has revealed that the two major strains present in US rice fields likely evolved in Asia through two independent episodes of dedomestication from cultivated rice. No wild <italic>Oryza</italic> species occur in North America, and there is minimal evidence for any direct role of wild populations in the evolution of these weed populations. The US weed strains are also characterized by low genetic diversity, consistent with population bottlenecks during their introduction from Asia; this most likely occurred as accidental contaminants of grain stocks (Reagon et&#x000a0;al., <xref rid="eva12581-bib-0032" ref-type="ref">2010</xref>).</p><p>Examination of weedy rice in different regions of Asia can provide valuable points of comparison to the genetically well&#x02010;characterized US weed strains. Here, we focus on portions of Southeast Asia (Thailand, Vietnam, Cambodia, Malaysia, and Indonesia) and Northeast Asia (specifically South Korea). In the case of Southeast Asia, which represents one of the likely centers of early rice cultivation, three factors would be expected to contribute to more complex weed evolutionary dynamics than in other regions: (i) the presence of <italic>Oryza rufipogon</italic> Griff. (hereafter wild rice), the crop's wild progenitor which is outcrossing and interfertile with both cultivated and weedy rice (Majumder, Ram, &#x00026; Sharma, <xref rid="eva12581-bib-0026" ref-type="ref">1997</xref>); (ii) a far greater diversity of crop varieties and landraces in this region, some of which could be contributing to the weed's evolution (Song et&#x000a0;al., <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>); and (iii) the very rapid proliferation of weedy rice across this region in recent decades due to agricultural shifts away from hand&#x02010;transplanting of rice seedlings toward mechanized direct&#x02010;seeded rice cultivation (Chauhan, <xref rid="eva12581-bib-0006" ref-type="ref">2013</xref>; Sudianto et&#x000a0;al., <xref rid="eva12581-bib-0039" ref-type="ref">2016</xref>). In contrast to Southeast Asian weeds, those in Northeast Asia are similar to US weeds in that they occur outside the geographical range of wild <italic>Oryza</italic> populations and the area of high crop varietal diversity.</p><p>Among these different factors that could shape weedy rice evolution, the presence or absence of wild rice populations could be particularly important for weedy rice adaptation. Some wild rice traits, such as freely shattering seed and persistent seed dormancy, would be expected to be highly adaptive if introgressed into weedy rice populations. In contrast, wild rice traits such as perenniality, sporadic seed production and prostrate plant architecture would all be expected to be maladaptive for survival in cultivated rice fields. Given this combination of potentially beneficial and maladaptive traits for weedy rice, one might expect differential evidence of wild&#x02010;to&#x02010;weed introgression in the specific genomic regions that would confer weed&#x02010;adaptive traits. Because rice is a genomic model species with a well&#x02010;annotated reference genome and molecularly well&#x02010;characterized domestication genes, evidence for such adaptive introgression can be explicitly examined using dense, genome&#x02010;wide SNP markers (Hufford et&#x000a0;al., <xref rid="eva12581-bib-0018" ref-type="ref">2013</xref>). This genome&#x02010;wide approach can serve as a useful complement to recent candidate gene studies which have suggested adaptive introgression of wild rice alleles conferring shattering (<italic>sh4</italic>, Song et&#x000a0;al., <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>) and seed dormancy (<italic>Rc</italic>, Cui et&#x000a0;al., <xref rid="eva12581-bib-0009" ref-type="ref">2016</xref>) in some Malaysian weedy rice strains.</p><p>In this study, we used genome&#x02010;wide SNPs generated through genotyping&#x02010;by&#x02010;sequencing (GBS) to compare the genetic composition and evolution of weedy rice strains in Southeast Asia, Northeast Asia, and the United States. We specifically address the following questions: (i) How do weeds from these different world regions compare with respect to relationships to cultivated rice varieties and to wild rice? (ii) To what extent does wild rice hybridization shape the genetic composition of Southeast Asian weeds? (iii) Is there evidence that wild rice hybridization with weeds in Southeast Asia has led to the differential introgression of loci associated with weed&#x02010;adaptive traits?</p></sec><sec id="eva12581-sec-0002"><label>2</label><title>METHODS</title><sec id="eva12581-sec-0003"><label>2.1</label><title>Sampling and genotyping</title><p>Rice seeds were obtained from the International Rice Germplasm Collection (IRGC), the United States Department of Agriculture (USDA), and from direct rice field collections in Malaysia (BK Song collections). Sampling included 133 weedy, 73 cultivated, and 34 wild rice accessions (Table&#x000a0;<xref rid="eva12581-tbl-0001" ref-type="table">1</xref> and Table <xref rid="eva12581-sup-0006" ref-type="supplementary-material">S1</xref>) for a total of 240 accessions. Weedy rice sampling from outside the range of wild rice included 17 US accessions and 18 South Korean accessions. Southeast Asian weed accessions included 24 accessions from Vietnam, Thailand, Cambodia, and Indonesia (referred to collectively as VTCI), where wild rice commonly grows in close proximity to rice fields, as well as 74 weedy accessions from Malaysia, 22 of which were from Sabah (a Bornean state where wild rice does not occur) and 52 of which were from Peninsular Malaysia (where wild rice can be found near rice fields). Local cultivated and wild rice plants were also sampled from each of these regions where they occur. Sampling of cultivated rice accessions included all five major genetic subgroups within the crop: <italic>indica</italic> and <italic>aus</italic> (both within the traditionally recognized <italic>indica</italic> subspecies), and <italic>aromatic</italic>,<italic> tropical japonica,</italic> and <italic>temperate japonica</italic> (together composing the traditional <italic>japonica</italic> subspecies). Wild <italic>Oryza</italic> species included 25 <italic>O.&#x000a0;rufipogon</italic>, two <italic>Oryza barthii</italic>, two <italic>Oryza meridionalis</italic>, and five <italic>Oryza officinalis</italic>; the first three are AA genome species that could potentially hybridize with cultivated and/or weedy rice in nature.</p><table-wrap id="eva12581-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of 240 rice accessions used in this study including country of collection and type</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Country</th><th align="left" valign="top" rowspan="1" colspan="1">Weedy</th><th align="left" valign="top" rowspan="1" colspan="1">Cultivated</th><th align="left" valign="top" rowspan="1" colspan="1">Wild rice (<italic>Oryza rufipogon)</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Other <italic>Oryza</italic> species</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Malaysia</td><td align="left" rowspan="1" colspan="1">74</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">Indonesia</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Thailand</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Vietnam</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Cambodia</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Southeast Asia Total</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">54</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">6</td></tr><tr><td align="left" rowspan="1" colspan="1">South Korea</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Other/unknown countries</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">133</td><td align="left" rowspan="1" colspan="1">73</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">9</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Seeds were germinated for each sampled accession in the greenhouse at Washington University, and leaf tissue was collected from young seedlings. DNA was extracted using DNeasy Plant DNA kits (QIAGEN) or a modified CTAB procedure (Doyle, <xref rid="eva12581-bib-0011" ref-type="ref">1991</xref>). DNA concentrations were determined using Qubit Fluorometric Quantification. Genotyping&#x02010;by&#x02010;sequencing was carried out on 1&#x000a0;&#x003bc;g of genomic DNA (100&#x000a0;ng/&#x003bc;l) at Cornell University's Genomic Diversity facility based on the methods outlined by Elshire et&#x000a0;al. (<xref rid="eva12581-bib-0012" ref-type="ref">2011</xref>). Briefly, each sample was digested with <italic>Ape</italic>KI followed by ligation of barcode and common adapters. Barcoded libraries were sequenced on an Illumina HiSeq2000 sequencer (Illumina Inc., San Diego, CA) with single&#x02010;end 100&#x02010;bp chemistry. Raw sequence data were processed using a standard TASSEL&#x02010;GBS pipeline (Bradbury et&#x000a0;al., <xref rid="eva12581-bib-0002" ref-type="ref">2007</xref>). First, reads were filtered out if &#x0201c;N&#x0201d; was reported in the first 72 bases or a read did not contain a perfect match to any of the barcodes used in this study. Tags comprising fewer than five reads of the identical sequence were also discarded. All filtered tags were then aligned to the rice genome MSU 6.0 assembly (<ext-link ext-link-type="uri" xlink:href="http://rice.plantbiology.msu.edu">http://rice.plantbiology.msu.edu</ext-link>) using the Burrows&#x02013;Wheeler alignment (BWA) tool (Li &#x00026; Durbin, <xref rid="eva12581-bib-0021" ref-type="ref">2009</xref>), allowing a maximum of four mismatches and no gaps within 5&#x000a0;bp at the end of each read. SAMConverter was employed to convert SAM files to TagsOnPhysicalMap (TOPM) files, which were used to store information of the identified SNPs and small indels. Loci with more than 10% missing data and monomorphic data were discarded. After this filtering process, a total of 44,769 SNPs were retained for further analyses. Raw reads were submitted to the NCBI Short Read Archive (accession SRX576894).</p></sec><sec id="eva12581-sec-0004"><label>2.2</label><title>Population structure, PCA, and nucleotide diversity analyses</title><p>Bayesian analysis of population structure was performed in fastSTRUCTURE (Raj, Stephens, &#x00026; Pritchard, <xref rid="eva12581-bib-0031" ref-type="ref">2014</xref>), with <italic>K</italic> values varying from 1 to 10 and three replicates for each <italic>K</italic>. The Python script <italic>chooseK.py</italic>, incorporated with fastSTRUCTURE, was used to identify the <italic>K</italic> value that maximized the marginal likelihood. Principal components analysis (PCA) was performed using the <italic>smartpca</italic> software in the EIGENSOFT package (Patterson, Price, &#x00026; Reich, <xref rid="eva12581-bib-0028" ref-type="ref">2006</xref>).</p><p>A sliding window analysis for each identified rice genetic group was performed to estimate relative nucleotide diversity between rice groups across the genome. SNPs were converted from HAPMAP format to VCF format using TASSEL (Bradbury et&#x000a0;al., <xref rid="eva12581-bib-0002" ref-type="ref">2007</xref>), and average pairwise nucleotide diversity (&#x003c0;) was estimated with a window size of 300 kbp and a step size of 100 kbp for a total of 3,679 sliding windows in VCFtools (Danecek et&#x000a0;al., <xref rid="eva12581-bib-0010" ref-type="ref">2011</xref>). The mean nucleotide diversity and variation were calculated and visualized in R. GBS data cover a reduced fraction of the genome, so nucleotide diversity estimates likely include only a fraction of the total SNPs present in any given window. These estimates will therefore be impacted by the use of GBS data; however, the relative nucleotide diversity estimates between rice groups should not be affected as the same set of markers are used in all rice groups.</p></sec><sec id="eva12581-sec-0005"><label>2.3</label><title>Subpopulation structure of Malaysian weedy rice</title><p>Because a previous analysis of Malaysian weedy rice that we performed using simple sequence repeat (SSR) markers (Song et&#x000a0;al., <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>) detected population structure that was not immediately evident in our fastSTRUCTURE analysis of all accessions (see <xref rid="eva12581-sec-0003" ref-type="sec">Results</xref>), a separate fastSTRUCTURE analysis was carried out exclusively on Malaysian accessions. The previous study found that a phenotypic gradation in grain traits, specifically hull color and awn type (presence/absence), was correlated with a gradient of genetic composition in Malaysian weeds, from mostly crop&#x02010;like strains (straw&#x02010;hull, awnless) to mostly wild&#x02010;like strains (black&#x02010;hull, awned), with phenotypically intermediate and genetically admixed accessions in between the two extremes. We included the full set of 74 Malaysian weedy rice samples (22 Sabah and 52 Peninsular accessions), with phenotypic data incorporated from the previous study (Song et&#x000a0;al., <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>; see also Sudianto et&#x000a0;al., <xref rid="eva12581-bib-0039" ref-type="ref">2016</xref>), as well as 29 Malaysian crop landraces, four elite Malaysian cultivars, seven Malaysian wild rice accessions, and five accessions of the more distantly related species <italic>O.&#x000a0;officinalis</italic>. The fastSTRUCTURE analysis of Malaysian samples was performed with the same parameter settings as for the full dataset.</p></sec><sec id="eva12581-sec-0006"><label>2.4</label><title>Local ancestry estimation (HAPMIX)</title><p>Because population structure analysis of Southeast Asian weeds suggested evidence of ancestry from both cultivated and wild rice (see <xref rid="eva12581-sec-0003" ref-type="sec">Results</xref>), we performed further analyses to identify the specific genomic regions showing evidence of introgression in weed populations. Analyses were performed using HAPMIX (Price et&#x000a0;al., <xref rid="eva12581-bib-0029" ref-type="ref">2009</xref>), which infers ancestry across the genome of an admixed individual that is assumed to be derived from two proposed nonadmixed ancestor populations. Phased genotype data from the two nonadmixed ancestral populations and unphased data from putatively admixed descendants are required for HAPMIX modeling; therefore, only two&#x02010;way admixture can be simulated in this analysis (Price et&#x000a0;al., <xref rid="eva12581-bib-0029" ref-type="ref">2009</xref>). Three weedy rice origin scenarios were investigated based on the results of population structure analyses: (i) weedy rice in VTCI (Vietnam, Thailand, Cambodia, Indonesia) derived by crossing between local wild rice and local crop landraces; (ii) weedy rice in Malaysia derived by crossing between local landraces and Malaysian elite cultivars; and (iii) weedy rice in Malaysia derived by crossing between local wild rice and Malaysian elite cultivars.</p><p>For the first scenario, VTCI wild rice (13 accessions) and landraces (15 accessions) were employed as the two putative parental populations, and the 19 weedy accessions from the same region were employed as the descendant population (Table <xref rid="eva12581-sup-0007" ref-type="supplementary-material">S2</xref>). Indonesian samples were not included in this analysis because of insufficient wild rice collections in that country. To further investigate the role of wild alleles in the origin of wild&#x02010;like traits that are present in these weeds, six well&#x02010;studied domestication&#x02010;related genes that control weed&#x02010;adaptive traits were chosen to examine whether these genes or genomic regions were likely introgressed from wild accessions: <italic>An&#x02010;1</italic>, controlling awn development (Luo et&#x000a0;al., <xref rid="eva12581-bib-0025" ref-type="ref">2013</xref>); <italic>Bh4</italic>, controlling hull color (Zhu et&#x000a0;al., <xref rid="eva12581-bib-0047" ref-type="ref">2011</xref>); <italic>sh4</italic>, controlling grain shattering (Li, Zhou, &#x00026; Sang, <xref rid="eva12581-bib-0023" ref-type="ref">2006</xref>); <italic>qSW5</italic>, controlling seed size (Shomura et&#x000a0;al., <xref rid="eva12581-bib-0037" ref-type="ref">2008</xref>; Weng et&#x000a0;al., <xref rid="eva12581-bib-0046" ref-type="ref">2008</xref>); <italic>PROG1</italic>, controlling prostrate versus erect growth (Jin et&#x000a0;al., <xref rid="eva12581-bib-0019" ref-type="ref">2008</xref>; Tan et&#x000a0;al., <xref rid="eva12581-bib-0041" ref-type="ref">2008</xref>); and <italic>Rc</italic>, controlling pericarp pigmentation (Sweeney, Thomson, Pfeil, &#x00026; Mccouch, <xref rid="eva12581-bib-0040" ref-type="ref">2006</xref>). For each of these genes, VTCI weeds are characterized primarily by the phenotype found in wild rice. The genomic locations of these genes were verified using the latest rice reference genome assembly (IRGSP version 7).</p><p>For the second and the third admixture scenarios, we aimed to assess the extent to which three potential parental groups (elite cultivars, landraces, and wild rice) contributed to the Malaysian weedy rice genome. In the second scenario, the four Malaysian elite rice accessions and six Malaysian landrace accessions (which showed genetic similarity to weedy rice in population structure analyses) were employed as the two proposed parental populations. In the third scenario, we used seven Malaysian wild rice accessions in place of the landrace accessions used in the second scenario (Table <xref rid="eva12581-sup-0007" ref-type="supplementary-material">S2</xref>). Although the actual parental accessions are unknown in each scenario, the use of these proposed parental accessions is arguably justified because they are geographically sympatric with the local weedy rice and genetically most similar based on our global ancestral estimation (see <xref rid="eva12581-sec-0003" ref-type="sec">Results</xref>).</p><p>To convert SNP data from <italic>ancestral map</italic> format to the <italic>EIGENSTRAT</italic> format, which is required by HAPMIX, the CONVERTF function in the EIGENSOFT package (Patterson et&#x000a0;al., <xref rid="eva12581-bib-0028" ref-type="ref">2006</xref>) was used. Positions with ambiguous and heterozygous SNPs were filtered out because their genotypes are not phased. After the filtering, three subsets with 12,387 SNPs, 25,461 SNPs, and 21,302 SNPs were left for each of the three respective admixture scenarios, with 597&#x02010;3,897 SNPs on each chromosome (Table <xref rid="eva12581-sup-0008" ref-type="supplementary-material">S3</xref>). Analyses were run under a model assuming equal genetic contributions from both proposed ancestor populations; this assumption is consistent with population structure results. The number of generations since admixture was set to 10,000. This is most likely an overestimate, as the earliest origins of rice domestication likely date to no more than 10&#x02013;12,000&#x000a0;years ago; however, HAPMIX results are robust to inaccurate estimations of time (Price et&#x000a0;al., <xref rid="eva12581-bib-0029" ref-type="ref">2009</xref>), and the large estimate ensures that the time frame of weedy rice evolution is encompassed in the simulation. All of the remaining parameters used default settings. Results were visualized in R.</p></sec></sec><sec id="eva12581-sec-0007"><label>3</label><title>RESULTS</title><sec id="eva12581-sec-0008"><label>3.1</label><title>Population structure</title><p>Population structure analyses using fastSTRUCTURE of all rice accessions (Figure&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref>) indicates independent origins of weedy rice in the three sampled geographical regions. The maximized marginal likelihood values of fastSTRUCTURE outputs indicated <italic>K&#x000a0;</italic>=&#x000a0;8 as the optimal grouping (Figure <xref rid="eva12581-sup-0001" ref-type="supplementary-material">S1</xref>a,b). At this <italic>K</italic> value, the cultivated rice accessions are separated into their five previously described genetic subgroups: <italic>indica</italic> and <italic>aus</italic> varieties (within the <italic>indica</italic> subspecies), and <italic>aromatic</italic>,<italic> tropical japonica,</italic> and <italic>temperate japonica</italic> varieties (within the <italic>japonica</italic> subspecies). Results from <italic>K&#x000a0;</italic>=<italic>&#x000a0;</italic>4&#x02013;7 are also presented for comparison. As found in previous studies (Li et&#x000a0;al., <xref rid="eva12581-bib-0022" ref-type="ref">2017</xref>; Reagon et&#x000a0;al., <xref rid="eva12581-bib-0032" ref-type="ref">2010</xref>), US weedy rice groups into two distinct subpopulations that are closely related to the two cultivated rice subgroups within the <italic>indica</italic> subspecies: <italic>aus</italic>&#x02010;like strains, corresponding to the previously described black&#x02010;hull awned (BHA) weeds, and <italic>indica</italic>&#x02010;like strains, corresponding to the previously described straw&#x02010;hull awnless (SH) weeds.</p><fig fig-type="Figure" xml:lang="en" id="eva12581-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Population structure of 240 <italic>Oryza</italic> accessions based on 44,769 SNPs. FastSTRUCTURE results are shown from <italic>K&#x000a0;</italic>=<italic>&#x000a0;</italic>4&#x02013;8. The maximized marginal likelihood indicates <italic>K&#x000a0;</italic>=<italic>&#x000a0;</italic>8 as the best fit grouping. Weedy rice from the United States, South Korea, and Malaysia group closely with cultivated rice varieties. Weedy rice from Vietnam, Cambodia, Thailand, and Indonesia group with both wild and cultivated rice accessions</p></caption><graphic id="nlm-graphic-1" xlink:href="EVA-12-93-g001"/></fig><p>Like US weeds, the sampled South Korean weedy rice accessions also segregate into two distinct genetic groups. For these samples, however, one group is <italic>indica</italic>&#x02010;like while the other is grouped with <italic>japonica</italic> rice, specifically the <italic>temperate japonica</italic> varieties cultivated primarily in Northeast Asia (Figure&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref>). This evidence for <italic>temperate japonica</italic>&#x02010;derived South Korean weeds is consistent with other reports of <italic>japonica&#x02010;</italic>like weedy rice in temperate east Asia (Cho et&#x000a0;al., <xref rid="eva12581-bib-0008" ref-type="ref">1995</xref>; He, Kim, &#x00026; Park, <xref rid="eva12581-bib-0016" ref-type="ref">2017</xref>). Neither US nor South Korean weedy rice strains show evidence of population components characteristic of wild rice, which is consistent with origins from dedomesticated crop varieties in these regions occurring outside the geographical range of wild rice.</p><p>Patterns observed in the fastSTRUCTURE analysis for US and South Korean weeds are also evident in the principal components analysis (PCA); US weeds are clustered with <italic>indica</italic> and <italic>aus</italic> rice varieties, and South Korean weeds are clustered with <italic>indica</italic> and <italic>temperate japonica</italic> rice (Figure <xref rid="eva12581-sup-0002" ref-type="supplementary-material">S2</xref>a,b). The <italic>indica&#x02010;</italic>like US and South Korean weeds are largely nonoverlapping in the PCA, which potentially suggests independent origins for these temperate&#x02010;adapted <italic>indica</italic>&#x02010;like weed strains.</p><p>In contrast to the US and South Korean weed strains, weedy rice samples from VTCI share substantial genetic similarity with wild <italic>Oryza</italic> samples (Figure&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref>; Figure <xref rid="eva12581-sup-0002" ref-type="supplementary-material">S2</xref>). This is especially evident in the fastSTRUCTURE output. Two of the genetic subpopulations that are highly represented in the VTCI weeds at <italic>K&#x000a0;</italic>=&#x000a0;8 are well represented in wild accessions and absent in domesticated rice (red and gray components in Figure&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref>). The VTCI weeds also contain <italic>indica</italic>&#x02010; and <italic>aus</italic>&#x02010;like genetic backgrounds, which are present in both domesticated and wild rice. <italic>Indica</italic> rice is widely cultivated in Southeast Asia, and the <italic>indica</italic> component is consistent with local <italic>indica</italic> crop ancestry. In contrast, cultivation of <italic>aus</italic> rice varieties is restricted to northern regions of the Indian subcontinent and is absent in Southeast Asia. As such, the <italic>aus</italic>&#x02010;like component may be more likely to reflect weed descent from <italic>aus</italic>&#x02010;like wild rice than from cultivated <italic>aus</italic> ancestors. Overall, the combination of crop&#x02010;like and wild&#x02010;like genetic components in VTCI weeds suggests an origin through hybridization between cultivated rice and wild rice growing in close proximity to rice fields.</p><p>Malaysian weed samples are genetically distinct from the other Southeast Asian weeds. (Figure&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref>; Figure <xref rid="eva12581-sup-0002" ref-type="supplementary-material">S2</xref>). In both the fastSTRUCTURE analysis and PCA, Malaysian strains group primarily with <italic>indica</italic> crop varieties. This pattern differs from what we observed in an earlier study that examined Peninsular Malaysian weedy rice using a panel of polymorphic SSR markers (Song et&#x000a0;al., <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>). That analysis revealed a gradation in the genetic composition of weed strains, from predominantly crop&#x02010;like, with a particularly close relationship to elite Malaysian <italic>indica</italic> cultivars, to predominantly wild&#x02010;like. The genetic gradation also corresponded to a phenotypic gradation in grain characteristics, from most crop&#x02010;like (straw&#x02010;hull awnless, SH) to most wild&#x02010;like (black&#x02010;hull awned, BHA). To assess whether this previously documented genetic heterogeneity could be detected with the GBS data, we performed a fastSTRUCTURE analysis focused exclusively on Malaysian samples; Figure&#x000a0;<xref rid="eva12581-fig-0002" ref-type="fig">2</xref> presents the results in comparison with the previously reported results of Song et&#x000a0;al. (<xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>). Although marginal likelihood values suggest that the optimal <italic>K</italic> value was 3 (Figure <xref rid="eva12581-sup-0003" ref-type="supplementary-material">S3</xref>), we also included fastSTRUCTURE results of <italic>K&#x000a0;</italic>=&#x000a0;2 and 4 to avoid biased interpretations. (Membership assignments at <italic>K&#x000a0;</italic>=&#x000a0;5 are associated with a secondary delta&#x02010;<italic>K</italic> peak but were largely indistinguishable from <italic>K&#x000a0;</italic>=&#x000a0;4 and are not presented). At <italic>K&#x000a0;</italic>=&#x000a0;2 and <italic>K&#x000a0;</italic>=&#x000a0;3, Malaysian <italic>japonica</italic> landraces and wild <italic>O.&#x000a0;officinalis</italic> are distinct from the remaining accessions. When <italic>K</italic> value is increased to 4, the Malaysian weeds show the pattern observed by Song et&#x000a0;al. (<xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>), with a genetic gradient in the proportions of two subpopulations that correlates with the phenotypic gradient from crop&#x02010;like to wild&#x02010;like weeds. As observed in the earlier study, lighter hulled weeds group more with Malaysian elite <italic>indica</italic> rice (Os_<italic>indica</italic>_Mal in Figure&#x000a0;<xref rid="eva12581-fig-0002" ref-type="fig">2</xref>), while darker hulled weeds group more with Malaysian landrace <italic>indica</italic> rice and Malaysian <italic>O.&#x000a0;rufipogon</italic> (Lr_<italic>indica</italic>_Mal and Or_Mal in Figure&#x000a0;<xref rid="eva12581-fig-0002" ref-type="fig">2</xref>). The BHA weed morphotype has a pattern of genetic admixture as found by Song et&#x000a0;al. (<xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>). Together, these findings support a prominent role of Malaysian elite <italic>indica</italic> cultivated rice in the origin of local weedy rice, which is consistent with the previous study by Song et&#x000a0;al. (<xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12581-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Fine&#x02010;scale population structure of Malaysian wild, cultivated, and weedy rice accessions. The top panel represents STRUCTURE results extracted from Song et&#x000a0;al. (<xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>) based on 24 SSR markers. Below the top panel is the FastSTRUCTURE output of the same accessions using 44,769 SNPs. FastSTRUCTURE results are shown for <italic>K&#x000a0;</italic>=<italic>&#x000a0;</italic>2&#x02013;4. Malaysian weed abbreviations: SH, straw&#x02010;hull awnless; SHA, straw&#x02010;hull awned; mSH, morphologically intermediate weed form between SH and BrH; mSHA, morphologically intermediate weed form between SHA and BrHA; BrH, brown&#x02010;striped hull awnless; BrHA, brown&#x02010;striped hull awned; BH, black&#x02010;hull awnless; BHA, black&#x02010;hull awned. Other abbreviations: Os, <italic>Oryza sativa</italic>; Mal, Malaysia; Lr, landrace; Or, <italic>Oryza rufipogon</italic>
+</p></caption><graphic id="nlm-graphic-3" xlink:href="EVA-12-93-g002"/></fig></sec><sec id="eva12581-sec-0009"><label>3.2</label><title>Genetic diversity</title><p>In order to evaluate genome&#x02010;wide nucleotide diversity, 3,679 sliding windows across the rice genome (on average 36 SNPs per window) were surveyed (Figure&#x000a0;<xref rid="eva12581-fig-0003" ref-type="fig">3</xref>). The overall mean nucleotide diversity for all accessions was 2.21&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>. Nucleotide diversity is highest in wild rice samples (<italic>O.&#x000a0;rufipogon</italic>, 2.44&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>) and reduced in each of the five cultivated rice groups (ranging from 0.95&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup> for <italic>tropical japonica</italic> to 1.47&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup> for <italic>indica</italic>). This pattern is consistent with the previously documented domestication bottleneck in cultivated rice (Caicedo et&#x000a0;al., <xref rid="eva12581-bib-0004" ref-type="ref">2007</xref>). US and South Korean weedy rice have reduced nucleotide diversity when compared to their putative cultivar ancestors (US <italic>indica</italic> type: 0.61&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>; US <italic>aus</italic> type: 1.00&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>; South Korea <italic>temperate japonica</italic> type: 0.40&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>; South Korea <italic>indica</italic> type: 0.72&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>). These patterns are consistent with a second population bottleneck during dedomestication of weedy rice from cultivated rice (see Reagon et&#x000a0;al., <xref rid="eva12581-bib-0032" ref-type="ref">2010</xref>). In contrast, weedy rice from VTCI has nucleotide diversity levels that are only slightly lower than the levels found in <italic>O.&#x000a0;rufipogon</italic> (2.14&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>). These high levels of nucleotide diversity could be driven by genetic input from multiple sources into these weeds, particularly <italic>indica</italic> cultivated rice and <italic>O.&#x000a0;rufipogon</italic>. Malaysian weeds show a slight reduction in genetic diversity when compared to <italic>indica</italic> cultivars (1.34&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>).</p><fig fig-type="Figure" xml:lang="en" id="eva12581-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Box plots of nucleotide diversity from sliding windows across the rice genome for each <italic>Oryza</italic> group. Boxes represent 25th to 75th percentile and mean values are indicated inside each box. Whiskers are high and low values from 3,679 sliding windows. Groups include wild rice species (gray boxes), cultivated rice varieties (gold boxes) and weedy rice populations (pink boxes). VTCI, weedy rice from Vietnam, Thailand, Cambodia, and Indonesia</p></caption><graphic id="nlm-graphic-5" xlink:href="EVA-12-93-g003"/></fig></sec><sec id="eva12581-sec-0010"><label>3.3</label><title>Admixture characterization</title><p>To quantitatively describe the degree of admixture in different weedy rice populations revealed by the fastSTRUCTURE analysis, we adopted a threshold in which individuals whose genome is composed of &#x0003c;80% of their dominant genomic component are considered as resulting from admixture. We then calculated the percentage of admixed samples using this threshold. We used the fastSTRUCTURE results from the analysis of all samples (Figure&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref>) except for the Malaysian weedy population, where we used the <italic>K&#x000a0;</italic>=<italic>&#x000a0;</italic>4 results from the Malaysian subpopulation fastSTRUCTURE results (Figure&#x000a0;<xref rid="eva12581-fig-0002" ref-type="fig">2</xref>). Based on these criteria, none of the weed samples from the United States and South Korea reached the threshold for admixture. In contrast, 66.7% of VTCI weeds and 28.4% of Malaysian weeds samples were identified as admixed. The difference between these two Southeast Asian regions may partially be due to the fact that Malaysian samples from Sabah (representing 22 of the 77 Malaysian samples) are from outside the region of sympatry with wild rice and therefore would not have opportunities for wild&#x02010;to&#x02010;weed introgression.</p><p>As a complement to the quantitative measures of admixture, we used HAPMIX analysis to provide finer&#x02010;scale genomic resolution in identifying specific genomic regions involved in introgression. We observed consistent patterns among weedy samples within each of the three tested scenarios; we therefore present one representative weed accession from VTCI (Thai accession 100218) and one from Peninsular Malaysia (accession MUSC069) to illustrate the observed patterns (Figure&#x000a0;<xref rid="eva12581-fig-0004" ref-type="fig">4</xref>a&#x02013;c). For the VTCI samples, there is a higher inferred level of contribution from wild rice (green) than from local landraces (red) (Figure&#x000a0;<xref rid="eva12581-fig-0004" ref-type="fig">4</xref>a). Using a criterion of &#x0003e;80% ancestry to define genomic regions with a dominant contribution from a single ancestor, we found that 5.4% of the VTCI genomes are dominated by wild rice, with &#x0003c;1% showing a predominant inferred contribution from local landraces (Figure <xref rid="eva12581-sup-0004" ref-type="supplementary-material">S4</xref>). Notably, all six investigated weediness candidate genes (<italic>An&#x02010;1</italic>,<italic> Bh4</italic>,<italic> sh4</italic>,<italic> qSW5</italic>,<italic> PROG1</italic>, and <italic>Rc</italic>) were located within a genomic region which was dominated by wild rice alleles (Figure <xref rid="eva12581-sup-0005" ref-type="supplementary-material">S5</xref>). Consistent with these patterns, seed phenotyping confirmed that all of the 19 tested Southeast Asian weedy rice accessions have dark hulls and awn presence, traits conferred by wild alleles of <italic>An&#x02010;1</italic> and <italic>Bh4</italic>. Thus, the patterns of wild rice ancestry across the genome are consistent with introgression of alleles conferring weed&#x02010;adaptive traits.</p><fig fig-type="Figure" xml:lang="en" id="eva12581-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Bar plots of HAPMIX results. (a) Thai weedy accession 100218 (representing weeds from Vietnam, Thailand, Cambodia, and Indonesia) under landrace&#x000a0;&#x000d7;&#x000a0;wild admixture model, (b) Malaysian weedy accession MUSC069 under the elite&#x000a0;&#x000d7;&#x000a0;landrace model, and (c) Malaysian weedy accession MUSC069 under the elite&#x000a0;&#x000d7;&#x000a0;wild rice model. Each horizontal bar represents one chromosome with SNPs along their length. The color for each SNP represents the probability of that SNP originating from one of the parent populations (green, wild; red, landrace; or gold, elite cultivar) or the probability of admixture between the two parents at that site (blue)</p></caption><graphic id="nlm-graphic-7" xlink:href="EVA-12-93-g004"/></fig><p>For Malaysian weedy rice, HAPMIX results indicate a smaller contribution of <italic>indica</italic> landrace when compared to <italic>indica</italic> elite cultivars under the <italic>indica</italic> elite&#x000a0;&#x000d7;&#x000a0;<italic>indica</italic> landrace scenario (Figure&#x000a0;<xref rid="eva12581-fig-0004" ref-type="fig">4</xref>b). However, most of the genome shows patterns of admixture of elite <italic>indica</italic> cultivars and <italic>O.&#x000a0;rufipogon</italic> under the <italic>indica</italic> elite&#x000a0;&#x000d7;&#x000a0;<italic>O.&#x000a0;rufipogon</italic> scenario (Figure&#x000a0;<xref rid="eva12581-fig-0004" ref-type="fig">4</xref>c). When we applied the same genomic dominance criteria as above under the <italic>indica</italic> elite&#x000a0;&#x000d7;&#x000a0;<italic>indica</italic> landrace scenario, 32.4% of the Malaysian weedy rice genome regions were dominated by <italic>indica</italic> elite alleles, 38.8% were dominated by admixture of the two parental populations, and 2.0% were dominated by <italic>indica</italic> landrace alleles. Under the <italic>indica</italic> elite&#x000a0;&#x000d7;&#x000a0;<italic>O.&#x000a0;rufipogon</italic> scenario, 79.0% of the Malaysian weedy rice genome regions were dominated by admixture of the two parental populations and 4.5% were dominated by wild rice alleles (Figure <xref rid="eva12581-sup-0004" ref-type="supplementary-material">S4</xref>). Thus, under either scenario, elite <italic>indica</italic> cultivars are inferred to have a pervasive genetic contribution across the Malaysian weed genome.</p></sec></sec><sec id="eva12581-sec-0011"><label>4</label><title>DISCUSSION</title><p>Weedy rice provides a valuable model to study rapid evolution and to test the importance of introgression from crops and their wild relatives in this process. In this study, we used more than 40,000 genome&#x02010;wide SNPs to study the origin of weedy rice in five Southeast Asian countries, where wild rice co&#x02010;occurs with cultivated rice, and compared the observed genetic patterns with weedy rice origin in locations where wild rice is not present (Sabah state of Malaysia, USA, and South Korea). Our population genetic analyses reveal two key mechanisms of weedy rice evolution: (i) adaptive introgression from wild rice, which has played an important role in weed evolution from Southeast Asia, and (ii) dedomestication, which is the major mechanism of weedy origination in the USA and South Korea. Figure&#x000a0;<xref rid="eva12581-fig-0005" ref-type="fig">5</xref> illustrates our current model of weedy rice evolution from these different world regions, including proposed population bottlenecks leading to new weedy rice populations in different world regions (dedomestication) and subsequent introgression of alleles from wild rice in Southeast Asian populations.</p><fig fig-type="Figure" xml:lang="en" id="eva12581-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Current hypothesis of relationships between wild, cultivated, and weedy rice included in this study. Circles represent each group with connected triangles that represent population bottlenecks that lead to establishment of the new group. Green arrows represent introgression from wild rice into weedy populations after establishment. Average nucleotide diversity (&#x003c0;) is indicated for each group</p></caption><graphic id="nlm-graphic-9" xlink:href="EVA-12-93-g005"/></fig><sec id="eva12581-sec-0012"><label>4.1</label><title>Contributions of wild and cultivated rice to weedy rice evolution</title><p>Weedy rice strains from different world regions have originated independently from one another. In nearly all cases, there is some genetic contribution of cultivated rice to the ancestry of weedy rice populations. However, the contribution of wild rice to weedy rice ancestry varies widely. US and South Korean weeds have no indication of wild rice contributions, and dedomestication events from cultivated rice seem to be responsible for the origin of these weeds. Population bottlenecks associated with dedomestication events are evident in our nucleotide diversity reductions, when compared to cultivated relatives, for each of these weedy populations. <italic>Oryza rufipogon</italic> has contributed to weedy rice evolution in Peninsular Malaysia, Vietnam, Cambodia, Thailand, and Indonesia. Our data suggest that in regions where wild rice is present, one can expect there to be introgression of wild rice alleles into weedy rice populations. This could occur by two mechanisms: (i) weed evolution through hybridization of crop and wild populations and (ii) weed evolution through dedomestication followed by introgression from wild rice. While it is not possible for us to definitively determine which of these scenarios is correct for the Southeast Asian weeds examined in this study, in both cases wild rice has likely contributed adaptive alleles to weedy rice populations through introgression. This may result in weedy rice populations that are more difficult to control in Southeast Asia compared to populations where wild rice is not contributing alleles.</p><p>Weedy rice has evolved from different lineages of domesticated rice. <italic>Indica&#x02010;</italic>type weeds are most common; there is evidence of <italic>indica</italic> backgrounds in weedy rice found in the United States, South Korea, and all represented countries of Southeast Asia (Figures&#x000a0;<xref rid="eva12581-fig-0001" ref-type="fig">1</xref> and <xref rid="eva12581-fig-0005" ref-type="fig">5</xref>). Interestingly, it seems that <italic>indica</italic>&#x02010;like weeds from Malaysia are genetically more similar to US <italic>indica</italic>&#x02010;like weeds than weeds from other parts of Southeast Asia or South Korea (PCA; Figure <xref rid="eva12581-sup-0002" ref-type="supplementary-material">S2</xref>). This could point to a shared common ancestor of Malaysian and US weeds. That conclusion is not supported by previous findings based on SSR markers (Song et&#x000a0;al., <xref rid="eva12581-bib-0038" ref-type="ref">2014</xref>), a difference that could potentially reflect the higher&#x02010;resolution genomic sampling in the present study. However, <italic>indica</italic> cultivars also cluster with US and Malaysian weedy rice in our PCA (Figure <xref rid="eva12581-sup-0002" ref-type="supplementary-material">S2</xref>), so we cannot rule out independent dedomestication events leading to these two weedy rice populations. The contribution of <italic>aus</italic> genes to weedy rice in Southeast Asia is smaller than that of <italic>indica</italic>, but is still present. Given the absence of <italic>aus</italic> rice cultivation in Southeast Asia, this contribution could most plausibly reflect introgression from <italic>aus</italic>&#x02010;like wild rice rather than cultivated <italic>aus</italic> varieties.</p><p>A subset of South Korean weedy rice is of <italic>temperate japonica</italic> origin. Weedy rice found in California (USA), which was not included in this study, is also of <italic>temperate japonica</italic> origin (Kanapeckas et&#x000a0;al., <xref rid="eva12581-bib-0020" ref-type="ref">2016</xref>). It would be interesting to investigate whether these two weedy rice populations evolved independently from one another or reflect a single dedomestication event. To our knowledge, there is no evidence of weedy rice evolution from <italic>tropical japonica</italic> or <italic>aromatic</italic> rice varieties.</p></sec><sec id="eva12581-sec-0013"><label>4.2</label><title>Standing variation versus adaptive introgression</title><p>South Korean and US weedy rice populations do not show evidence of introgression of alleles from wild rice since their origin. Therefore, weedy adaptive traits that are found in these populations are likely derived from standing genetic variation in the cultivated rice ancestral population. Previous studies have found standing variation in cultivar ancestors to be a contributing factor in weedy traits. The functional <italic>Rc</italic> allele that results in red&#x02010;colored pericarps in wild rice is present in some cultivated rice varieties that are the likely source of this allele in weedy rice from the United States (Gross et&#x000a0;al., <xref rid="eva12581-bib-0015" ref-type="ref">2010</xref>). Genetic bottlenecks during dedomestication could contribute to fixation of rare alleles from cultivated varieties in weedy populations. In a worldwide survey of cultivated and wild rice, one <italic>aus</italic> cultivar shared a functioning <italic>Bh4</italic> allele, which underlies the black&#x02010;hull phenotype, with the fixed allele of BHA weedy rice from the United States (Vigueira, Li et&#x000a0;al., <xref rid="eva12581-bib-0044" ref-type="ref">2013</xref>). However, standing variation does not seem to be the most likely source of all weed&#x02010;adaptive traits in US weedy rice; for example, the <italic>sh4</italic> allele that underlies loss of seed shattering in cultivated rice is also fixed in US weedy rice (Thurber et&#x000a0;al., <xref rid="eva12581-bib-0043" ref-type="ref">2010</xref>). The gain of seed shattering in these weeds may thus be due to recombination of standing genetic variation in the weeds or new mutations since weed establishment. Unique genetic QTLs are responsible for shattering in BHA and SH weeds from the United States (Qi et&#x000a0;al., <xref rid="eva12581-bib-0030" ref-type="ref">2015</xref>), suggesting different underlying genetic mechanisms in the re&#x02010;emergence of shattering.</p><p>Our genomic analysis of weedy rice from Southeast Asia paints a different picture from that of US weeds. Wild rice has contributed weedy adaptive alleles to weedy populations from Malaysia, Thailand, Vietnam, Cambodia, and Indonesia. Wild rice is the inferred contributing parent for genomic regions that house the six candidate weedy genes we tested (Figure <xref rid="eva12581-sup-0005" ref-type="supplementary-material">S5</xref>), specifically <italic>An&#x02010;1,</italic> controlling awn development (Luo et&#x000a0;al., <xref rid="eva12581-bib-0025" ref-type="ref">2013</xref>); <italic>Bh4</italic>, controlling hull color (Zhu et&#x000a0;al., <xref rid="eva12581-bib-0047" ref-type="ref">2011</xref>); <italic>sh4</italic>, controlling grain shattering (Li et&#x000a0;al., <xref rid="eva12581-bib-0023" ref-type="ref">2006</xref>); <italic>qSW5</italic>, controlling seed size (Shomura et&#x000a0;al., <xref rid="eva12581-bib-0037" ref-type="ref">2008</xref>; Weng et&#x000a0;al., <xref rid="eva12581-bib-0046" ref-type="ref">2008</xref>); <italic>PROG1</italic>, controlling prostrate versus erect growth (Jin et&#x000a0;al., <xref rid="eva12581-bib-0019" ref-type="ref">2008</xref>; Tan et&#x000a0;al., <xref rid="eva12581-bib-0041" ref-type="ref">2008</xref>); and <italic>Rc</italic>, controlling pericarp pigmentation (Sweeney et&#x000a0;al., <xref rid="eva12581-bib-0040" ref-type="ref">2006</xref>). The wild rice contributions at all six of these regions suggest that this pattern is due to adaptive introgression rather than random, neutral introgression of portions of the genome.</p><p>One pattern that emerges from all of the weedy rice strains examined here is that to become weedy, rice apparently requires some genomic background from cultivated rice mixed with adaptive weedy alleles that are gained either through standing variation, new mutations, or adaptive introgression from wild rice. In regions where reproductively compatible wild rice is present, it appears that adaptive introgression from wild relatives is an effective route to acquisition of adaptive alleles. A more complete sampling of weedy rice, wild rice, and cultivars from Southeast Asia would be beneficial to untangle exactly which genomic regions are cultivar&#x02010;like and which are wild&#x02010;like across weedy populations. These regions, if shared across populations, would presumably be important to weedy rice establishment or maintenance. It would also be interesting to track this over time as management of rice fields in Southeast Asia changes from traditional practices to more mechanized farming.</p></sec><sec id="eva12581-sec-0014"><label>4.3</label><title>Weedy rice management implications</title><p>Weedy rice populations have undergone a massive increase in regions of Malaysia and Thailand as a result of agronomic shifts toward industrialized rice production that rely on mechanized direct seeding of rice fields (Chauhan, <xref rid="eva12581-bib-0006" ref-type="ref">2013</xref>; Sudianto et&#x000a0;al., <xref rid="eva12581-bib-0039" ref-type="ref">2016</xref>). Traditional rice farming in this region has relied on hand&#x02010;transplanting of paddy&#x02010;grown rice seedlings into prepared, flooded fields. While extremely labor&#x02010;intensive, that method provides ample opportunities for hand&#x02010;weeding of rogue weed seedlings. In contrast, direct seeding reduces opportunities for weeding and increases risks of weed seed dissemination between fields through shared farm equipment (Chauhan, <xref rid="eva12581-bib-0006" ref-type="ref">2013</xref>; Nadir et&#x000a0;al., <xref rid="eva12581-bib-0027" ref-type="ref">2017</xref>). In Thailand, agricultural changes in the last decade away from direct seeding toward mechanized planting of seedlings have proved an effective weed control strategy (S. Jamjod, Chiang Mai Univ., pers. comm.). As the cultivation of herbicide&#x02010;resistant rice planting has become more popular with Malaysian farmers in the last decade, the problem of herbicide&#x02010;tolerant weedy rice has concurrently arisen (Engku et&#x000a0;al., <xref rid="eva12581-bib-0013" ref-type="ref">2016</xref>; Ruzmi, Ahmad&#x02010;Hamdani, &#x00026; Bakar, <xref rid="eva12581-bib-0300" ref-type="ref">2017</xref>). This causes additional strain on the rice industry, particularly in regions where herbicide&#x02010;tolerant rice cultivation has not been widely adopted.</p><p>Southeast Asian weedy rice is marked by much higher levels of genetic diversity than weedy rice from the other world regions sampled for this study. This high level of diversity as well as the continued potential for genetic introgression from both wild and cultivated rice in the region will likely make management of weedy populations extremely difficult. Although weed control in Thailand is showing promise over the last decade, the genetic potential for adaptation to these new practices is quite high in Thailand's weeds. Given our findings, management strategies that include control of wild rice populations in closest proximity to cultivated fields may be beneficial to weed control, as this could reduce the continued movement of adaptive alleles from wild rice into weedy populations. The high levels of genetic diversity in weedy rice from Southeast Asia further suggest that management in those regions should not rely solely on a single method (such as herbicide treatment), as the potential for rapid adaptive evolution is extremely high. Regardless of approach, careful monitoring of weedy populations during any shift in agricultural practices should be used to ensure the continued effectiveness of weed management strategies.</p></sec></sec><sec id="eva12581-sec-0016"><title>DATA ARCHIVING STATEMENT</title><p>Data from this study are archived in the NCBI Short Read Archive (accession SRX576894).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="eva12581-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s005.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0006"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0007"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s007.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12581-sup-0008"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-93-s008.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="eva12581-sec-0015"><title>ACKNOWLEDGEMENTS</title><p>The authors thank Mike Dyer and staff of the Washington University greenhouse for assistance in growing plants, and Linda Small of the Olsen laboratory for technical laboratory assistance. We are grateful to additional members of the Olsen laboratory for helpful comments on the manuscript; and to Teo Sun Sin (Agriculture Research Centre, Tuaran, Sabah), Law Kok Choy (Sekinchan, Malaysia), and the staff at KADA (Kelantan), KETARA (Terengganu), and MADA (Kedah) for assisting in field sampling. This work is supported by the National Science Foundation Plant Genome Research Program (IOS&#x02010;1032023) and the Malaysian Ministry of Education (FRGS/1/2015/ST03/MUSM/02/1). The USDA is an equal opportunity provider and employer.</p></ack><ref-list content-type="cited-references" id="eva12581-bibl-0001"><title>REFERENCES</title><ref id="eva12581-bib-0001"><mixed-citation publication-type="journal" id="eva12581-cit-0001">
+<string-name>
+<surname>Akasaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ushiki</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Iwata</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ishikawa</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ishii</surname>, <given-names>T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Genetic relationships and diversity of weedy rice (<italic>Oryza sativa</italic> L.) and cultivated rice varieties in Okayama Prefecture, Japan</article-title>. <source xml:lang="en">Breeding Science</source>, <volume>59</volume>(<issue>4</issue>), <fpage>401</fpage>&#x02013;<lpage>409</lpage>. <pub-id pub-id-type="doi">10.1270/jsbbs.59.401</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0002"><mixed-citation publication-type="journal" id="eva12581-cit-0002">
+<string-name>
+<surname>Bradbury</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kroon</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Casstevens</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Ramdoss</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Buckler</surname>, <given-names>E. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>TASSEL: Software for association mapping of complex traits in diverse samples</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>23</volume>(<issue>19</issue>), <fpage>2633</fpage>&#x02013;<lpage>2635</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btm308</pub-id>
+<pub-id pub-id-type="pmid">17586829</pub-id></mixed-citation></ref><ref id="eva12581-bib-0003"><mixed-citation publication-type="journal" id="eva12581-cit-0003">
+<string-name>
+<surname>Busconi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lorenzoni</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Baldi</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fogher</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Spread of herbicide&#x02010;resistant weedy rice (red rice, <italic>Oryza sativa</italic> L.) after 5&#x000a0;years of Clearfield rice cultivation in Italy</article-title>. <source xml:lang="en">Plant Biology</source>, <volume>14</volume>(<issue>5</issue>), <fpage>751</fpage>&#x02013;<lpage>759</lpage>. <pub-id pub-id-type="doi">10.1111/j.1438-8677.2012.00570.x</pub-id>
+<pub-id pub-id-type="pmid">22443148</pub-id></mixed-citation></ref><ref id="eva12581-bib-0004"><mixed-citation publication-type="journal" id="eva12581-cit-0004">
+<string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Williamson</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Boyko</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fledel&#x02010;Alon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>York</surname>, <given-names>T. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Purugganan</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2007</year>). <article-title>Genome&#x02010;wide patterns of nucleotide polymorphism in domesticated rice</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>3</volume>(<issue>9</issue>), <fpage>1745</fpage>&#x02013;<lpage>1756</lpage>. <pub-id pub-id-type="doi">10.1371/journal.pgen.0030163</pub-id>
+<pub-id pub-id-type="pmid">17907810</pub-id></mixed-citation></ref><ref id="eva12581-bib-0005"><mixed-citation publication-type="journal" id="eva12581-cit-0005">
+<string-name>
+<surname>Cao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>B.&#x02010;R.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sala</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Spada</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grassi</surname>, <given-names>F.</given-names>
+</string-name> (<year>2006</year>). <article-title>Genetic diversity and origin of weedy rice (<italic>Oryza sativa</italic> f. <italic>spontanea</italic>) populations found in North&#x02010;eastern China revealed by simple sequence repeat (SSR) markers</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>98</volume>(<issue>6</issue>), <fpage>1241</fpage>&#x02013;<lpage>1252</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mcl210</pub-id>
+<pub-id pub-id-type="pmid">17056615</pub-id></mixed-citation></ref><ref id="eva12581-bib-0006"><mixed-citation publication-type="journal" id="eva12581-cit-0006">
+<string-name>
+<surname>Chauhan</surname>, <given-names>B. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Strategies to manage weedy rice in Asia</article-title>. <source xml:lang="en">Crop Protection</source>, <volume>48</volume>, <fpage>51</fpage>&#x02013;<lpage>56</lpage>. <pub-id pub-id-type="doi">10.1016/j.cropro.2013.02.015</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0007"><mixed-citation publication-type="journal" id="eva12581-cit-0007">
+<string-name>
+<surname>Chen</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>Z. P.</given-names>
+</string-name>, <string-name>
+<surname>Suh</surname>, <given-names>H. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lu</surname>, <given-names>B.&#x02010;R.</given-names>
+</string-name> (<year>2004</year>). <article-title>Gene flow from cultivated rice (<italic>Oryza sativa</italic>) to its weedy and wild relatives</article-title>. <source xml:lang="en">Annals of Botany</source>, <volume>93</volume>(<issue>1</issue>), <fpage>67</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1093/aob/mch006</pub-id>
+<pub-id pub-id-type="pmid">14602665</pub-id></mixed-citation></ref><ref id="eva12581-bib-0008"><mixed-citation publication-type="journal" id="eva12581-cit-0008">
+<string-name>
+<surname>Cho</surname>, <given-names>Y.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>T.&#x02010;Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Suh</surname>, <given-names>H.&#x02010;S.</given-names>
+</string-name> (<year>1995</year>). <article-title>Genetic characteristics of Korean weedy rice (<italic>Oryza sativa</italic> L.) by RFLP analysis</article-title>. <source xml:lang="en">Euphytica</source>, <volume>86</volume>(<issue>2</issue>), <fpage>103</fpage>&#x02013;<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1007/BF00022015</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0009"><mixed-citation publication-type="journal" id="eva12581-cit-0009">
+<string-name>
+<surname>Cui</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>B. K.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Little white lies: Pericarp color provides insights into the origins and evolution of southeast Asian weedy rice</article-title>. <source xml:lang="en">G3: Genes, Genomes, Genetics</source>, <volume>6</volume>(<issue>12</issue>), <fpage>4105</fpage>&#x02013;<lpage>4114</lpage>. <pub-id pub-id-type="doi">10.1534/g3.116.035881</pub-id>
+<pub-id pub-id-type="pmid">27729434</pub-id></mixed-citation></ref><ref id="eva12581-bib-0010"><mixed-citation publication-type="journal" id="eva12581-cit-0010">
+<string-name>
+<surname>Danecek</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Auton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abecasis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Albers</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Banks</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>DePristo</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sherry</surname>, <given-names>S. T.</given-names>
+</string-name> (<year>2011</year>). <article-title>The variant call format and VCFtools</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>27</volume>(<issue>15</issue>), <fpage>2156</fpage>&#x02013;<lpage>2158</lpage>.<pub-id pub-id-type="pmid">21653522</pub-id></mixed-citation></ref><ref id="eva12581-bib-0011"><mixed-citation publication-type="book" id="eva12581-cit-0011">
+<string-name>
+<surname>Doyle</surname>, <given-names>J.</given-names>
+</string-name> (<year>1991</year>). <chapter-title>DNA protocols for plants</chapter-title> In <person-group person-group-type="editor"><name><surname>Hewitt</surname><given-names>G. M.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Johnston</surname><given-names>A. W. B.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Young</surname><given-names>J. P. W.</given-names></name></person-group> (Eds.), <source xml:lang="en">Molecular Techniques in Taxonomy</source>, <italic>NATO ASI Series (Series H: Cell Biology)</italic>, vol. <volume>57</volume>
+<publisher-loc>Heidelberg</publisher-loc>: <publisher-name>Springer, Berlin</publisher-name>
+<pub-id pub-id-type="doi">10.1007/978-3-642-83962-7_18</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0012"><mixed-citation publication-type="journal" id="eva12581-cit-0012">
+<string-name>
+<surname>Elshire</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Glaubitz</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Poland</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Kawamoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Buckler</surname>, <given-names>E. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mitchell</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2011</year>). <article-title>A robust, simple genotyping&#x02010;by&#x02010;sequencing (GBS) approach for high diversity species</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>(<issue>5</issue>), <fpage>e19379</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0019379</pub-id>
+<pub-id pub-id-type="pmid">21573248</pub-id></mixed-citation></ref><ref id="eva12581-bib-0013"><mixed-citation publication-type="journal" id="eva12581-cit-0013">
+<string-name>
+<surname>Engku</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Norida</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Juraimi</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Rafii</surname>, <given-names>M. Y.</given-names>
+</string-name>, <string-name>
+<surname>Abdullah</surname>, <given-names>S. N. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Alam</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Gene flow from Clearfield<sup>&#x000ae;</sup> rice to weedy rice under field conditions</article-title>. <source xml:lang="en">Plant Soil and Environment</source>, <volume>62</volume>(<issue>1</issue>), <fpage>16</fpage>&#x02013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.17221/616/2015-pse</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0014"><mixed-citation publication-type="journal" id="eva12581-cit-0014">
+<string-name>
+<surname>F&#x000e9;nart</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arnaud</surname>, <given-names>J.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>De Cauwer</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cuguen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Nuclear and cytoplasmic genetic diversity in weed beet and sugar beet accessions compared to wild relatives: New insights into the genetic relationships within the Beta vulgaris complex species</article-title>. <source xml:lang="en">Theoretical and Applied Genetics</source>, <volume>116</volume>(<issue>8</issue>), <fpage>1063</fpage>&#x02013;<lpage>1077</lpage>. <pub-id pub-id-type="doi">10.1007/s00122-008-0735-1</pub-id>
+<pub-id pub-id-type="pmid">18335202</pub-id></mixed-citation></ref><ref id="eva12581-bib-0015"><mixed-citation publication-type="journal" id="eva12581-cit-0015">
+<string-name>
+<surname>Gross</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Reagon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>S.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Seeing red: The origin of grain pigmentation in US weedy rice</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>19</volume>(<issue>16</issue>), <fpage>3380</fpage>&#x02013;<lpage>3393</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2010.04707.x</pub-id>
+<pub-id pub-id-type="pmid">20584133</pub-id></mixed-citation></ref><ref id="eva12581-bib-0016"><mixed-citation publication-type="journal" id="eva12581-cit-0016">
+<string-name>
+<surname>He</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>K. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Park</surname>, <given-names>Y. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Population genomics identifies the origin and signatures of selection of Korean weedy rice</article-title>. <source xml:lang="en">Plant Biotechnology Journal</source>, <volume>15</volume>(<issue>3</issue>), <fpage>357</fpage>&#x02013;<lpage>366</lpage>. <pub-id pub-id-type="doi">10.1111/pbi.12630</pub-id>
+<pub-id pub-id-type="pmid">27589078</pub-id></mixed-citation></ref><ref id="eva12581-bib-0017"><mixed-citation publication-type="journal" id="eva12581-cit-0017">
+<string-name>
+<surname>Huang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Reagon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hyma</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>All roads lead to weediness: Patterns of genomic divergence reveal extensive recurrent weedy rice origins from South Asian <italic>Oryza</italic>
+</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>26</volume>(<issue>12</issue>), <fpage>3151</fpage>&#x02013;<lpage>3167</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14120</pub-id>
+<pub-id pub-id-type="pmid">28345200</pub-id></mixed-citation></ref><ref id="eva12581-bib-0018"><mixed-citation publication-type="journal" id="eva12581-cit-0018">
+<string-name>
+<surname>Hufford</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Lubinksy</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Pyh&#x000e4;j&#x000e4;rvi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Devengenzo</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Ellstrand</surname>, <given-names>N. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ross&#x02010;Ibarra</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>The genomic signature of crop&#x02010;wild introgression in maize</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>9</volume>(<issue>5</issue>), <fpage>e1003477</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1003477</pub-id>
+<pub-id pub-id-type="pmid">23671421</pub-id></mixed-citation></ref><ref id="eva12581-bib-0019"><mixed-citation publication-type="journal" id="eva12581-cit-0019">
+<string-name>
+<surname>Jin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lin</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>). <article-title>Genetic control of rice plant architecture under domestication</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>40</volume>, <fpage>1365</fpage>&#x02013;<lpage>1369</lpage>.<pub-id pub-id-type="pmid">18820696</pub-id></mixed-citation></ref><ref id="eva12581-bib-0020"><mixed-citation publication-type="journal" id="eva12581-cit-0020">
+<string-name>
+<surname>Kanapeckas</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name>
+<surname>Vigueira</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Ortiz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gettler</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Burgos</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lawton&#x02010;Rauh</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Escape to ferality: The endoferal origin of weedy rice from crop rice through de&#x02010;domestication</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>11</volume>(<issue>9</issue>), <fpage>e0162676</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0162676</pub-id>
+<pub-id pub-id-type="pmid">27661982</pub-id></mixed-citation></ref><ref id="eva12581-bib-0021"><mixed-citation publication-type="journal" id="eva12581-cit-0021">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Fast and accurate short read alignment with Burrows&#x02010;Wheeler transform</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>25</volume>(<issue>14</issue>), <fpage>1754</fpage>&#x02013;<lpage>1760</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btp324</pub-id>
+<pub-id pub-id-type="pmid">19451168</pub-id></mixed-citation></ref><ref id="eva12581-bib-0022"><mixed-citation publication-type="journal" id="eva12581-cit-0022">
+<string-name>
+<surname>Li</surname>, <given-names>L.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Signatures of adaptation in the weedy rice genome</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>49</volume>(<issue>5</issue>), <fpage>811</fpage>&#x02013;<lpage>814</lpage>. <pub-id pub-id-type="doi">10.1038/ng.3825</pub-id>
+<pub-id pub-id-type="pmid">28369039</pub-id></mixed-citation></ref><ref id="eva12581-bib-0023"><mixed-citation publication-type="journal" id="eva12581-cit-0023">
+<string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sang</surname>, <given-names>T.</given-names>
+</string-name> (<year>2006</year>). <article-title>Rice domestication by reducing shattering</article-title>. <source xml:lang="en">Science</source>, <volume>311</volume>(<issue>5769</issue>), <fpage>1936</fpage>&#x02013;<lpage>1939</lpage>. <pub-id pub-id-type="doi">10.1126/science.1123604</pub-id>
+<pub-id pub-id-type="pmid">16527928</pub-id></mixed-citation></ref><ref id="eva12581-bib-0024"><mixed-citation publication-type="journal" id="eva12581-cit-0024">
+<string-name>
+<surname>Londo</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schaal</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Origins and population genetics of weedy red rice in the USA</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>16</volume>(<issue>21</issue>), <fpage>4523</fpage>&#x02013;<lpage>4535</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2007.03489.x</pub-id>
+<pub-id pub-id-type="pmid">17887969</pub-id></mixed-citation></ref><ref id="eva12581-bib-0025"><mixed-citation publication-type="journal" id="eva12581-cit-0025">
+<string-name>
+<surname>Luo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Shangguan</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Han</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>). <article-title>
+<italic>An&#x02010;1</italic> encodes a basic helix&#x02010;loop&#x02010;helix protein that regulates awn development, grain size, and grain number in rice</article-title>. <source xml:lang="en">The Plant Cell Online</source>, <volume>25</volume>(<issue>9</issue>), <fpage>3360</fpage>&#x02013;<lpage>3376</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.113.113589</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0026"><mixed-citation publication-type="journal" id="eva12581-cit-0026">
+<string-name>
+<surname>Majumder</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Ram</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sharma</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>1997</year>). <article-title>Cytological and morphological variation in hybrid swarms and introgressed population of interspecific hybrids (<italic>Oryza rufipogon</italic> Griff. &#x000d7; <italic>Oryza sativa</italic> L.) and its impact on evolution of intermediate types</article-title>. <source xml:lang="en">Euphytica</source>, <volume>94</volume>(<issue>3</issue>), <fpage>295</fpage>&#x02013;<lpage>302</lpage>.</mixed-citation></ref><ref id="eva12581-bib-0027"><mixed-citation publication-type="journal" id="eva12581-cit-0027">
+<string-name>
+<surname>Nadir</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>H.&#x02010;B.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>H.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Chen</surname>, <given-names>L.&#x02010;J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Weedy rice in sustainable rice production. A review</article-title>. <source xml:lang="en">Agronomy for Sustainable Development</source>, <volume>37</volume>(<issue>5</issue>), <fpage>46</fpage>
+<pub-id pub-id-type="doi">10.1007/s13593-017-0456-4</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0028"><mixed-citation publication-type="journal" id="eva12581-cit-0028">
+<string-name>
+<surname>Patterson</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>, <given-names>A. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reich</surname>, <given-names>D.</given-names>
+</string-name> (<year>2006</year>). <article-title>Population structure and eigenanalysis</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>2</volume>(<issue>12</issue>), <fpage>e190</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.0020190</pub-id>
+<pub-id pub-id-type="pmid">17194218</pub-id></mixed-citation></ref><ref id="eva12581-bib-0029"><mixed-citation publication-type="journal" id="eva12581-cit-0029">
+<string-name>
+<surname>Price</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Tandon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Patterson</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Rafaels</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ruczinski</surname>, <given-names>I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Myers</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sensitive detection of chromosomal segments of distinct ancestry in admixed populations</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>5</volume>(<issue>6</issue>), <fpage>e1000519</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1000519</pub-id>
+<pub-id pub-id-type="pmid">19543370</pub-id></mixed-citation></ref><ref id="eva12581-bib-0030"><mixed-citation publication-type="journal" id="eva12581-cit-0030">
+<string-name>
+<surname>Qi</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Vigueira</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>N. D.</given-names>
+</string-name>, <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>More than one way to evolve a weed: Parallel evolution of US weedy rice through independent genetic mechanisms</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>(<issue>13</issue>), <fpage>3329</fpage>&#x02013;<lpage>3344</lpage>. <pub-id pub-id-type="doi">10.1111/mec.13256</pub-id>
+<pub-id pub-id-type="pmid">26031196</pub-id></mixed-citation></ref><ref id="eva12581-bib-0031"><mixed-citation publication-type="journal" id="eva12581-cit-0031">
+<string-name>
+<surname>Raj</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pritchard</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2014</year>). <article-title>fastSTRUCTURE: Variational inference of population structure in large SNP data sets</article-title>. <source xml:lang="en">Genetics</source>, <volume>197</volume>(<issue>2</issue>), <fpage>573</fpage>&#x02013;<lpage>589</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.114.164350</pub-id>
+<pub-id pub-id-type="pmid">24700103</pub-id></mixed-citation></ref><ref id="eva12581-bib-0032"><mixed-citation publication-type="journal" id="eva12581-cit-0032">
+<string-name>
+<surname>Reagon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Thurber</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Genomic patterns of nucleotide diversity in divergent populations of U.S. weedy rice</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>10</volume>(<issue>1</issue>), <fpage>180</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2148-10-180</pub-id>
+<pub-id pub-id-type="pmid">20550656</pub-id></mixed-citation></ref><ref id="eva12581-bib-0033"><mixed-citation publication-type="journal" id="eva12581-cit-0033">
+<string-name>
+<surname>Reagon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Thurber</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>The long and the short of it: SD1 polymorphism and the evolution of growth trait divergence in U.S. weedy rice</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>20</volume>(<issue>18</issue>), <fpage>3743</fpage>&#x02013;<lpage>3756</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2011.05216.x</pub-id>
+<pub-id pub-id-type="pmid">21854475</pub-id></mixed-citation></ref><ref id="eva12581-bib-0034"><mixed-citation publication-type="journal" id="eva12581-cit-0034">
+<string-name>
+<surname>Roumet</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Noilhan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Latreille</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>David</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Muller</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2013</year>). <article-title>How to escape from crop&#x02010;to&#x02010;weed gene flow: Phenological variation and isolation&#x02010;by&#x02010;time within weedy sunflower populations</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>197</volume>(<issue>2</issue>), <fpage>642</fpage>&#x02013;<lpage>654</lpage>. <pub-id pub-id-type="doi">10.1111/nph.12045</pub-id>
+<pub-id pub-id-type="pmid">23181709</pub-id></mixed-citation></ref><ref id="eva12581-bib-0300"><mixed-citation publication-type="journal" id="eva12581-cit-0300">
+<string-name>
+<surname>Ruzmi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ahmad&#x02010;Hamdani</surname>, <given-names>M. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bakar</surname>, <given-names>B. B.</given-names>
+</string-name> (<year>2017</year>). <article-title>Prevalence of herbicide&#x02010;resistant weed species in Malaysian rice fields: A review</article-title>. <source xml:lang="en">Weed Biology and Management</source>, <volume>17</volume>(<issue>1</issue>), <fpage>3</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1111/wbm.12112</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0035"><mixed-citation publication-type="journal" id="eva12581-cit-0035">
+<string-name>
+<surname>Shivrain</surname>, <given-names>V. K.</given-names>
+</string-name>, <string-name>
+<surname>Burgos</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Anders</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Rajguru</surname>, <given-names>S. N.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sales</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Gene flow between Clearfield&#x02122; rice and red rice</article-title>. <source xml:lang="en">Crop Protection</source>, <volume>26</volume>(<issue>3</issue>), <fpage>349</fpage>&#x02013;<lpage>356</lpage>. <pub-id pub-id-type="doi">10.1016/j.cropro.2005.09.019</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0036"><mixed-citation publication-type="journal" id="eva12581-cit-0036">
+<string-name>
+<surname>Shivrain</surname>, <given-names>V. K.</given-names>
+</string-name>, <string-name>
+<surname>Burgos</surname>, <given-names>N. R.</given-names>
+</string-name>, <string-name>
+<surname>Sales</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Mauromoustakos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gealy</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>K. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jia</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Factors affecting the outcrossing rate between Clearfield&#x02122; rice and red rice (<italic>Oryza sativa</italic>)</article-title>. <source xml:lang="en">Weed Science</source>, <volume>57</volume>(<issue>4</issue>), <fpage>394</fpage>&#x02013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1614/WS-09-003.1</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0037"><mixed-citation publication-type="journal" id="eva12581-cit-0037">
+<string-name>
+<surname>Shomura</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Izawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ebana</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ebitani</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kanegae</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Konishi</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>Deletion in a gene associated with grain size increased yields during rice domestication</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>40</volume>(<issue>8</issue>), <fpage>1023</fpage>&#x02013;<lpage>1028</lpage>. <pub-id pub-id-type="doi">10.1038/ng.169</pub-id>
+<pub-id pub-id-type="pmid">18604208</pub-id></mixed-citation></ref><ref id="eva12581-bib-0038"><mixed-citation publication-type="journal" id="eva12581-cit-0038">
+<string-name>
+<surname>Song</surname>, <given-names>B.&#x02010;K.</given-names>
+</string-name>, <string-name>
+<surname>Chuah</surname>, <given-names>T.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Tam</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Malaysian weedy rice shows its true stripes: Wild <italic>Oryza</italic> and elite rice cultivars shape agricultural weed evolution in Southeast Asia</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>23</volume>(<issue>20</issue>), <fpage>5003</fpage>&#x02013;<lpage>5017</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12922</pub-id>
+<pub-id pub-id-type="pmid">25231087</pub-id></mixed-citation></ref><ref id="eva12581-bib-0039"><mixed-citation publication-type="journal" id="eva12581-cit-0039">
+<string-name>
+<surname>Sudianto</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Neik</surname>, <given-names>T.&#x02010;X.</given-names>
+</string-name>, <string-name>
+<surname>Tam</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Chuah</surname>, <given-names>T.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Idris</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Song</surname>, <given-names>B.&#x02010;K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Morphology of Malaysian weedy rice (<italic>Oryza sativa</italic>): Diversity, origin and implications for weed management</article-title>. <source xml:lang="en">Weed Science</source>, <volume>64</volume>(<issue>3</issue>), <fpage>501</fpage>&#x02013;<lpage>512</lpage>. <pub-id pub-id-type="doi">10.1614/WS-D-15-00168.1</pub-id>
+</mixed-citation></ref><ref id="eva12581-bib-0040"><mixed-citation publication-type="journal" id="eva12581-cit-0040">
+<string-name>
+<surname>Sweeney</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Pfeil</surname>, <given-names>B. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mccouch</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Caught red&#x02010;handed: <italic>Rc</italic> encodes a basic helix&#x02010;loop&#x02010;helix protein conditioning red pericarp in rice</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>18</volume>, <fpage>283</fpage>&#x02013;<lpage>294</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.105.038430.1</pub-id>
+<pub-id pub-id-type="pmid">16399804</pub-id></mixed-citation></ref><ref id="eva12581-bib-0041"><mixed-citation publication-type="journal" id="eva12581-cit-0041">
+<string-name>
+<surname>Tan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Z.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sun</surname>, <given-names>C.</given-names>
+</string-name> (<year>2008</year>). <article-title>Control of a key transition from prostrate to erect growth in rice domestication</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>40</volume>(<issue>11</issue>), <fpage>1360</fpage>&#x02013;<lpage>1364</lpage>. <pub-id pub-id-type="doi">10.1038/ng.197</pub-id>
+<pub-id pub-id-type="pmid">18820699</pub-id></mixed-citation></ref><ref id="eva12581-bib-0043"><mixed-citation publication-type="journal" id="eva12581-cit-0043">
+<string-name>
+<surname>Thurber</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Reagon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Molecular evolution of shattering loci in U.S. weedy rice</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>19</volume>(<issue>16</issue>), <fpage>3271</fpage>&#x02013;<lpage>3284</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2010.04708.x</pub-id>
+<pub-id pub-id-type="pmid">20584132</pub-id></mixed-citation></ref><ref id="eva12581-bib-0044"><mixed-citation publication-type="journal" id="eva12581-cit-0044">
+<string-name>
+<surname>Vigueira</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>The role of <italic>Bh4</italic> in parallel evolution of hull colour in domesticated and weedy rice</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>26</volume>(<issue>8</issue>), <fpage>1738</fpage>&#x02013;<lpage>1749</lpage>. <pub-id pub-id-type="doi">10.1111/jeb.12171</pub-id>
+<pub-id pub-id-type="pmid">23859433</pub-id></mixed-citation></ref><ref id="eva12581-bib-0045"><mixed-citation publication-type="journal" id="eva12581-cit-0045">
+<string-name>
+<surname>Vigueira</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>K. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caicedo</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>The red queen in the corn: Agricultural weeds as models of rapid adaptive evolution</article-title>. <source xml:lang="en">Heredity</source>, <volume>110</volume>, <fpage>303</fpage>&#x02013;<lpage>311</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.2012.104</pub-id>
+<pub-id pub-id-type="pmid">23188175</pub-id></mixed-citation></ref><ref id="eva12581-bib-0046"><mixed-citation publication-type="journal" id="eva12581-cit-0046">
+<string-name>
+<surname>Weng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Guo</surname>, <given-names>X.</given-names>
+</string-name> (<year>2008</year>). <article-title>Isolation and initial characterization of GW5, a major QTL associated with rice grain width and weight</article-title>. <source xml:lang="en">Cell Research</source>, <volume>18</volume>(<issue>12</issue>), <fpage>1199</fpage>&#x02013;<lpage>1209</lpage>.<pub-id pub-id-type="pmid">19015668</pub-id></mixed-citation></ref><ref id="eva12581-bib-0047"><mixed-citation publication-type="journal" id="eva12581-cit-0047">
+<string-name>
+<surname>Zhu</surname>, <given-names>B.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Si</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Y. Z. J.</given-names>
+</string-name>, <string-name>
+<surname>Shangguan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Qian</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2011</year>). <article-title>Genetic control of a transition from black to straw&#x02010;white seed hull in rice domestication</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>155</volume>(<issue>3</issue>), <fpage>1301</fpage>&#x02013;<lpage>1311</lpage>. <pub-id pub-id-type="doi">10.1104/pp.110.168500</pub-id>
+<pub-id pub-id-type="pmid">21263038</pub-id></mixed-citation></ref></ref-list></back></article>

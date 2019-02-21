@@ -1,0 +1,940 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Appl</journal-id><journal-id journal-id-type="iso-abbrev">Evol Appl</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1752-4571</journal-id><journal-id journal-id-type="publisher-id">EVA</journal-id><journal-title-group><journal-title>Evolutionary Applications</journal-title></journal-title-group><issn pub-type="epub">1752-4571</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6346652</article-id><article-id pub-id-type="doi">10.1111/eva.12744</article-id><article-id pub-id-type="publisher-id">EVA12744</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Evolution of the exclusively human pathogen <italic>Neisseria gonorrhoeae</italic>: Human&#x02010;specific engagement of immunoregulatory Siglecs</article-title><alt-title alt-title-type="left-running-head">LANDIG et al.</alt-title></title-group><contrib-group><contrib id="eva12744-cr-0001" contrib-type="author"><name><surname>Landig</surname><given-names>Corinna S.</given-names></name><xref ref-type="aff" rid="eva12744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="eva12744-cr-0002" contrib-type="author"><name><surname>Hazel</surname><given-names>Ashley</given-names></name><xref ref-type="aff" rid="eva12744-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="eva12744-cr-0003" contrib-type="author"><name><surname>Kellman</surname><given-names>Benjamin P.</given-names></name><xref ref-type="aff" rid="eva12744-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="eva12744-cr-0004" contrib-type="author"><name><surname>Fong</surname><given-names>Jerry J.</given-names></name><xref ref-type="aff" rid="eva12744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="eva12744-cr-0005" contrib-type="author"><name><surname>Schwarz</surname><given-names>Flavio</given-names></name><xref ref-type="aff" rid="eva12744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="eva12744-cr-0006" contrib-type="author"><name><surname>Agarwal</surname><given-names>Sarika</given-names></name><xref ref-type="aff" rid="eva12744-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="eva12744-cr-0007" contrib-type="author"><name><surname>Varki</surname><given-names>Nissi</given-names></name><xref ref-type="aff" rid="eva12744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="eva12744-cr-0008" contrib-type="author"><name><surname>Massari</surname><given-names>Paola</given-names></name><xref ref-type="aff" rid="eva12744-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="eva12744-cr-0009" contrib-type="author"><name><surname>Lewis</surname><given-names>Nathan E.</given-names></name><xref ref-type="aff" rid="eva12744-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="eva12744-cr-0010" contrib-type="author" corresp="yes"><name><surname>Ram</surname><given-names>Sanjay</given-names></name><address><email>Sanjay.Ram@umassmed.edu</email></address><xref ref-type="aff" rid="eva12744-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="eva12744-cr-0011" contrib-type="author" corresp="yes"><name><surname>Varki</surname><given-names>Ajit</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2206-975X</contrib-id><address><email>a1varki@ucsd.edu</email></address><xref ref-type="aff" rid="eva12744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="eva12744-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="eva12744-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Glycobiology Research and Training Center</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Cellular and Molecular Medicine</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Earth System Science</named-content>
+<institution>Stanford University</institution>
+<named-content content-type="city">Stanford</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Bioinformatics and Systems Biology Graduate Program</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of Massachusetts Medical School</institution>
+<named-content content-type="city">Worcester</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="eva12744-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="eva12744-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Immunology</named-content>
+<institution>Tufts University School of Medicine</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="eva12744-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Novo Nordisk Foundation Center for Biosustainability</named-content>
+<institution>University of California, San Diego</institution>
+<named-content content-type="city">La Jolla</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ajit Varki, Glycobiology Research and Training Center, University of California, San Diego, La Jolla, CA.<break/>
+Email: <email>a1varki@ucsd.edu</email><break/>
+or<break/>
+Sanjay Ram, Department of Medicine, University of Massachusetts Medical School, Worcester, MA.<break/>
+Email: <email>Sanjay.Ram@umassmed.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2019</year></pub-date><volume>12</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/eva.2019.12.issue-2</issue-id><fpage>337</fpage><lpage>349</lpage><history><date date-type="received"><day>29</day><month>7</month><year>2018</year></date><date date-type="accepted"><day>14</day><month>11</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Evolutionary Applications</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EVA-12-337.pdf"/><abstract id="eva12744-abs-0001"><title>Abstract</title><p>
+<italic>Neisseria gonorrhoeae</italic> causes the sexually transmitted disease gonorrhea exclusively in humans and uses multiple strategies to infect, including acquisition of host sialic acids that cap and mask lipooligosaccharide termini, while restricting complement activation. We hypothesized that gonococci selectively target human anti&#x02010;inflammatory sialic acid&#x02010;recognizing Siglec receptors on innate immune cells to blunt host responses and that pro&#x02010;inflammatory Siglecs and <italic>SIGLEC</italic> pseudogene polymorphisms represent host evolutionary adaptations to counteract this interaction. <italic>N.&#x000a0;gonorrhoeae</italic> can indeed engage multiple human but not chimpanzee CD33rSiglecs expressed on innate immune cells and in the genitourinary tract&#x02013;&#x02013;including Siglec&#x02010;11 (inhibitory) and Siglec&#x02010;16 (activating), which we detected for the first time on human cervical epithelium. Surprisingly, in addition to LOS sialic acid, we found that gonococcal porin (PorB) mediated binding to multiple Siglecs. PorB also bound preferentially to human Siglecs and not chimpanzee orthologs, modulating host immune reactions in a human&#x02010;specific manner. Lastly, we studied the distribution of null <italic>SIGLEC </italic>polymorphisms in a Namibian cohort with a high prevalence of gonorrhea and found that uninfected women preferentially harbor functional <italic>SIGLEC16</italic> alleles encoding an activating immune receptor. These results contribute to the understanding of the human specificity of <italic>N.&#x000a0;gonorrhoeae </italic>and how it evolved to evade the human immune defense.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="eva12744-kwd-0001">disease biology</kwd><kwd id="eva12744-kwd-0002">evolutionary medicine</kwd><kwd id="eva12744-kwd-0003">gonorrhea</kwd><kwd id="eva12744-kwd-0004">microbial biology</kwd><kwd id="eva12744-kwd-0005">polymorphism</kwd><kwd id="eva12744-kwd-0006">population genetics</kwd><kwd id="eva12744-kwd-0007">sialic acid</kwd><kwd id="eva12744-kwd-0008">Siglecs</kwd></kwd-group><funding-group><award-group><funding-source>Foundation for the National Institutes of Health</funding-source><award-id>P01 HL107150 </award-id><award-id>R01AI114790</award-id><award-id>R01GM32373</award-id><award-id>U01AI118161</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="13"/><word-count count="22153"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>eva12744</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.5.6 mode:remove_FC converted:25.01.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="eva12744-cit-1001">
+<string-name>
+<surname>Landig</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Hazel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kellman</surname>
+<given-names>BP</given-names>
+</string-name>, et al. <article-title>Evolution of the exclusively human pathogen <italic>Neisseria gonorrhoeae</italic>: Human&#x02010;specific engagement of immunoregulatory Siglecs</article-title>. <source xml:lang="en">Evol Appl</source>. <year>2019</year>;<volume>12</volume>:<fpage>337</fpage>&#x02013;<lpage>349</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12744</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="eva12744-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Gonorrhea is a sexually transmitted disease that poses a major global health problem, with about 78&#x000a0;million estimated infections worldwide in 2012 (Newman et al., <xref rid="eva12744-bib-0038" ref-type="ref">2015</xref>). This disease is caused by <italic>Neisseria gonorrhoeae</italic>, a Gram&#x02010;negative bacterium that exclusively infects humans. Urogenital epithelia are the main sites of infection, but <italic>N.&#x000a0;gonorrhoeae</italic> can also infect the conjunctiva, pharynx, and rectal mucosa (Edwards &#x00026; Apicella, <xref rid="eva12744-bib-0015" ref-type="ref">2004</xref>). Gonococci successfully proliferate in different host microenvironments and evade the human immune system by constantly modulating their surface antigenic makeup by phase variation and other mechanisms (Criss &#x00026; Seifert, <xref rid="eva12744-bib-0012" ref-type="ref">2012</xref>; Edwards &#x00026; Apicella, <xref rid="eva12744-bib-0015" ref-type="ref">2004</xref>; Virji, <xref rid="eva12744-bib-0063" ref-type="ref">2009</xref>).</p><p>Dynamic changes in the glycan extensions of gonococcal lipooligosaccharide (LOS) are an excellent example of how <italic>N.&#x000a0;gonorrhoeae</italic> evade the host immune response. The lacto&#x02010;<italic>N</italic>&#x02010;neotetraose (LNnT) structure of the LOS engages host surface receptors, like the asialoglycoprotein receptor (ASGP&#x02010;R), and leads to the invasion of the urethral epithelia (Harvey, Jennings, Campbell, Williams, &#x00026; Apicella, <xref rid="eva12744-bib-0023" ref-type="ref">2001</xref>). Sialic acid, a 9&#x02010;carbon backbone acidic sugar, plays an important role during the infection of many human&#x02010;specific pathogens (Hentrich et al., <xref rid="eva12744-bib-0025" ref-type="ref">2016</xref>; Patrone &#x00026; Stein, <xref rid="eva12744-bib-0043" ref-type="ref">2007</xref>; Varki &#x00026; Gagneux, <xref rid="eva12744-bib-0061" ref-type="ref">2012</xref>). The gonococcal LNnT structure becomes sialylated by the gonococcal sialyltransferase (Lst), a surface&#x02010;exposed outer membrane protein that uses host sialic acid in form of CMP&#x02010;Neu5Ac (Shell, Chiles, Judd, Seal, &#x00026; Rest, <xref rid="eva12744-bib-0056" ref-type="ref">2002</xref>). Sialylation helps the bacteria recruit factor H to become more resistant to complement&#x02010;mediated killing (Ram et al., <xref rid="eva12744-bib-0047" ref-type="ref">1998</xref>, <xref rid="eva12744-bib-0048" ref-type="ref">1999</xref>) and blocks antibody recognition of select underlying structures (Elkins et al., <xref rid="eva12744-bib-0016" ref-type="ref">1992</xref>).</p><p>Sialic acids on mammalian cell surfaces are also recognized as &#x0201c;Self&#x02010;Associated Molecular Patterns&#x0201d; (SAMPs) by other receptors of the host immune system (Varki, <xref rid="eva12744-bib-0060" ref-type="ref">2011</xref>). Interactions of sialylated host glycans with inhibitory members of the sialic acid&#x02010;binding immunoglobulin superfamily lectins (Siglecs) maintain immune cells in a quiescent state and dampen unwanted inflammation (Crocker, Paulson, &#x00026; Varki, <xref rid="eva12744-bib-0013" ref-type="ref">2007</xref>; Varki, <xref rid="eva12744-bib-0060" ref-type="ref">2011</xref>; von Gunten &#x00026; Bochner, <xref rid="eva12744-bib-0065" ref-type="ref">2008</xref>). Inhibitory effects are driven by ITIM motifs in Siglec intracellular domains, which recruit SHP phosphatases and quench pro&#x02010;inflammatory signaling cascades. This property is subverted by pathogens to control host immune responses and escape elimination. For example, group B streptococci (GBS) evade host immune responses by engaging inhibitory Siglec&#x02010;5 and Siglec&#x02010;9 (Carlin, Lewis, Varki, &#x00026; Nizet, <xref rid="eva12744-bib-0009" ref-type="ref">2007</xref>).</p><p>However, humans also express paired Siglecs&#x02013;&#x02013;sets of receptors with similar ligand specificities but opposite signaling properties. For instance, the Siglec&#x02010;5/&#x02010;14 and Siglec&#x02010;11/&#x02010;16 pairs have a highly conserved extracellular domain and similar ligand specificities (Angata, Hayakawa, Yamanaka, Varki, &#x00026; Nakamura, <xref rid="eva12744-bib-0002" ref-type="ref">2006</xref>; Cao et al., <xref rid="eva12744-bib-0008" ref-type="ref">2008</xref>; Schwarz, Fong, &#x00026; Varki, <xref rid="eva12744-bib-0053" ref-type="ref">2015</xref>; Wang, Mitra, Cruz, et al., <xref rid="eva12744-bib-0066" ref-type="ref">2012</xref>). Activating Siglecs recruit adaptor proteins such as DAP10 and DAP12 through a positively charged amino acid in the transmembrane domain (Angata et al., <xref rid="eva12744-bib-0002" ref-type="ref">2006</xref>; Cao et al., <xref rid="eva12744-bib-0008" ref-type="ref">2008</xref>; Pillai, Netravali, Cariappa, &#x00026; Mattoo, <xref rid="eva12744-bib-0044" ref-type="ref">2012</xref>; Tourdot et al., <xref rid="eva12744-bib-0059" ref-type="ref">2013</xref>). The adaptor proteins contain ITAM motifs that recruit Syk kinase, which induces a pro&#x02010;inflammatory signaling cascade (Lanier, <xref rid="eva12744-bib-0030" ref-type="ref">2009</xref>). It has been suggested that activating Siglecs represent evolutionary responses to microbes exploiting inhibitory Siglecs. In fact, Siglec&#x02010;14 has been shown to counteract the exploitation of Siglec&#x02010;5 by GBS (Ali et al., <xref rid="eva12744-bib-0001" ref-type="ref">2014</xref>), and Siglec&#x02010;16 reduces survival of <italic>E.&#x000a0;coli </italic>K1 during infection (Schwarz et al., <xref rid="eva12744-bib-0055" ref-type="ref">2017</xref>). Moreover, due to polymorphic pseudogenization, not all humans are able to express these activating Siglec receptors, generating different immune responses to infections (Angata et al., <xref rid="eva12744-bib-0003" ref-type="ref">2013</xref>; Schwarz et al., <xref rid="eva12744-bib-0053" ref-type="ref">2015</xref>). Notably, in some instances, Siglec&#x02010;14 blocking antibody reversed pathogens have also evolved direct interactions of Siglecs with their surface proteins (Carlin et al., <xref rid="eva12744-bib-0010" ref-type="ref">2009</xref>). In this study, we elucidate how <italic>N.&#x000a0;gonorrhoeae</italic> has evolved both sialic acid&#x02010;dependent and sialic acid&#x02010;independent interactions with human but not chimpanzee Siglecs to modulate their pathogenic potential and the host inflammatory response in a species&#x02010;specific manner, thus contributing to the host restriction of gonorrhea. We also explore the impact of Siglec polymorphisms in a population at high risk of gonorrhea.</p></sec><sec id="eva12744-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="eva12744-sec-0003"><label>2.1</label><title>Bacteria and cell lines</title><p>
+<italic>Neisseria gonorrhoeae</italic> F62 was isolated from an uncomplicated infection (Kellogg, Peacock, Deacon, Brown, &#x00026; Pirkel, <xref rid="eva12744-bib-0027" ref-type="ref">1963</xref>). <italic>Neisseria gonorrhoeae</italic> 15253 was isolated from a disseminated infection (O'Brien, Goldenberg, &#x00026; Rice, <xref rid="eva12744-bib-0041" ref-type="ref">1983</xref>). Both strains were piliated. The mutant strains of F62 (&#x00394;lgtD, &#x00394;lgtA, &#x00394;lgtE, and &#x00394;lgtF) were constructed using plasmids and methods described previously (Gulati et al., <xref rid="eva12744-bib-0022" ref-type="ref">2015</xref>). The LOS phenotype of the mutants was verified by LOS staining of protease K&#x02010;treated whole&#x02010;cell samples that were separated on a 12% Bis&#x02013;Tris gel with MES running buffer. <italic>N.&#x000a0;gonorrhoeae</italic> were grown overnight on chocolate agar plates with IsoVitaleX (BD Bioscience) or in GC broth supplemented with IsoVitaleX at 37&#x000b0;C and 5% CO<sub>2</sub>. When indicated, growth media was supplemented with 30&#x000a0;&#x000b5;M CMP&#x02010;Neu5Ac (Nacalai USA, Inc.). Incorporation of Neu5Ac has been confirmed by loss of Erythrina Cristagalli Lectin (ECA, Vector Laboratories), which binds to the lactosamine epitope. For all binding and infection studies, bacteria were cultivated to an optical density at 600&#x000a0;nm equivalent to 0.4&#x02013;0.6. THP&#x02010;1 cells were grown in RPMI&#x02010;1640 (Gibco) with 10% fetal calf serum (Gemini Bio&#x02010;Products) at 37&#x000b0;C and 5% CO<sub>2</sub>.</p></sec><sec id="eva12744-sec-0004"><label>2.2</label><title>Siglec&#x02010;Fc production</title><p>Siglec&#x02010;Fcs were produced as described in Padler&#x02010;Karavani et al. (<xref rid="eva12744-bib-0042" ref-type="ref">2014</xref>). Siglec&#x02010;Fc vectors were transfected into HEK293A cells cultured in serum&#x02010;free media supplemented with Nutridoma&#x02010;SP (Roche). Culture supernatants were collected, and Siglec&#x02010;Fcs were purified on a Sepharose Protein A Column (GE Healthcare Life Sciences). After washing with Tris&#x02010;buffered saline (20&#x000a0;mM Tris&#x02013;HCl, 150&#x000a0;mM NaCl, pH 8.0; TBS), Siglec&#x02010;Fcs were desialylated on column by neuraminidase from Arthrobacter ureafaciens (Sigma&#x02010;Aldrich) for 1&#x000a0;hr at room temperature. After extensive washing with TBS, Siglec&#x02010;Fcs were eluted with 0.1&#x000a0;M glycine&#x02013;HCl pH 3.0 and pH is neutralized immediately. Siglec&#x02010;Fcs are concentrated by Amicon centrifugal filters (Millipore). The functionality of Siglec&#x02010;Fcs has been pretested on sialoglycan arrays.</p></sec><sec id="eva12744-sec-0005"><label>2.3</label><title>Bacteria binding assay</title><p>Ninety&#x02010;six&#x02010;well plates were coated with 1&#x000a0;&#x003bc;g/well protein A (Thermo Scientific) in 50&#x000a0;mM carbonate buffer pH 9.5 overnight at 4&#x000b0;C. Wells were washed with PBS&#x02010;T (0.05% Tween&#x02010;20 in PBS) and blocked with 1% BSA in PBS for 1&#x000a0;hr at room temperature. 1&#x000a0;&#x003bc;g/well Siglec&#x02010;Fcs were incubated for 2&#x000a0;hr at room temperature. To correct for unspecific binding of Fc part, human IgG was incubated in parallel. Afterward, wells were washed with PBS&#x02010;T. <italic>N.&#x000a0;gonorrhoeae</italic> were pelleted, washed with HBSS, and then incubated with 0.1% fluorescein isothiocyanate (FITC, Sigma) in PBS for 1&#x000a0;hr at 37 &#x002da;C with rotation. Bacteria were extensively washed with HBSS to remove trace amounts of free FITC and then resuspended in HBSS at an optical density of 1 at 600&#x000a0;nm. A volume of 0.1&#x000a0;ml of FITC&#x02010;labeled bacteria was added to each well. Plates were centrifuged at 500&#x000a0;g for 10&#x000a0;min and incubated for 1&#x000a0;hr at room temperature. After washing to remove unbound bacteria, the residual fluorescent intensity was measured using a SpectraMax M3 (Molecular Devices). Unspecific binding signal from human IgG was subtracted as background from data. Binding of Siglec&#x02010;Fc to <italic>N.&#x000a0;gonorrhoeae</italic> was performed by incubating ~10<sup>7</sup> bacteria with the indicated concentrations of Siglec&#x02010;Fc for 30&#x000a0;min at 37&#x000b0;C. Bound Siglec&#x02010;Fc was detected with anti&#x02010;human IgG FITC on a FACSCalibur, and data were analyzed using FlowJo software.</p></sec><sec id="eva12744-sec-0006"><label>2.4</label><title>Binding assays to porins</title><p>Ninety&#x02010;six&#x02010;well plates were coated with 1&#x000a0;&#x003bc;g/well of purified PorinB.1A and PorinB.1B. Purified porins are in their native trimeric state in proteosomes and purified as described in Ref. Massari, King, MacLeod, and Wetzler (<xref rid="eva12744-bib-0036" ref-type="ref">2005</xref>) or purified IgA&#x02010;Br as negative control (Fong et al., <xref rid="eva12744-bib-0019" ref-type="ref">2015</xref>) in 50&#x000a0;mM carbonate buffer pH 9.5 overnight at 4&#x000b0;C. Wells were washed with PBS&#x02010;T (0.05% Tween&#x02010;20 in PBS) and blocked with 1% BSA in PBS for 1&#x000a0;hr at room temperature. Wells were washed and incubated with 5&#x000a0;&#x000b5;g/ml Siglec&#x02010;Fc in 1% BSA PBS&#x02010;T for 2&#x000a0;hr at room temperature. Wells were washed and incubated with goat HRP&#x02010;conjugated anti&#x02010;human IgG (1:5,000 dilution, Jackson ImmunoResearch Laboratories Inc.) for 1&#x000a0;hr at room temperature. Wells were washed and incubated with TMB substrate (BD OptEIA), and absorbance was measured using a SpectraMax M3 (Molecular Devices).</p></sec><sec id="eva12744-sec-0007"><label>2.5</label><title>Cytokine secretion analysis</title><p>THP&#x02010;1 cells expressing Siglec&#x02010;5 or Siglec&#x02010;14 (Yamanaka, Kato, Angata, &#x00026; Narimatsu, <xref rid="eva12744-bib-0069" ref-type="ref">2009</xref>) were differentiated with 10&#x000a0;ng/ml PMA in a 24&#x02010;well plate for 24&#x000a0;hr and infected with MOI&#x000a0;=&#x000a0;1 of the same inoculum of <italic>N.&#x000a0;gonorrhoeae</italic> F62. Supernatant was collected after 24&#x000a0;hr. IL&#x02010;6 concentration was measured with ELISA standard kit from BioLegend.</p></sec><sec id="eva12744-sec-0008"><label>2.6</label><title>Phagocytosis assay</title><p>THP&#x02010;1 cells transduced with an expression plasmid for Siglec&#x02010;5, Siglec&#x02010;14, or empty vector were differentiated with 12.5&#x000a0;ng/ml of phorbol myristate acetate (PMA) for 24&#x000a0;hr. Next, the cells were washed with sterile culture media, blocking or nonblocking antibodies were added, and then exposed to 10&#x000a0;&#x000b5;g/ml of PIB for 10&#x000a0;min before the addition of pHrodo Red <italic>S.&#x000a0;aureus</italic> BioParticles (prepared as per manufacturer's instructions, Thermo Fisher Scientific). After incubation at 37&#x000b0;C for 2&#x000a0;hr, the cells were washed with PBS and then detached with 5&#x000a0;mM EDTA in PBS. The detached cells were centrifuged for 5&#x000a0;min at 500&#x000a0;g and washed with PBS. After another centrifugation, the cells were resuspended in PBS and assayed for phagocytosis of the pHrodo BioParticles by flow cytometry. All tests were performed in triplicate.</p></sec><sec id="eva12744-sec-0009"><label>2.7</label><title>Immunohistochemistry</title><p>Samples used for immunohistochemistry were heterozygous for Siglec&#x02010;16 or homozygous null (negative control). All three human cervix samples that were used had both squamous epithelium and columnar epithelium as well as the junctional zone. Samples of human spleen similarly either heterozygous for Siglec&#x02010;16 (positive control) or homozygous null (negative control) were used with every experiment. Deparaffinized sections were blocked for endogenous peroxidases and endogenous biotin and subjected to heat&#x02010;induced antigen retrieval using pH 9.0 buffer and pressure cooker de&#x02010;cloaking chamber (Biocare Medical) for 15&#x000a0;min at 110 degrees. After the slides cooled to 37&#x000b0;C, the sections were overlaid with primary antibodies at the appropriate dilutions and incubated in a humid chamber overnight at 4&#x000b0;C. Following washing after each incubation, the sections were sequentially overlaid with biotinylated anti&#x02010;mouse, HRP&#x02010;Streptavidin, and biotinyl tyramide to amplify, either HRP&#x02010;Streptavidin again or fluorescently labeled streptavidin. If HRP&#x02010;Streptavidin was the final step, the substrate used for color development was AEC (Vector laboratories) and nuclei were counterstained with Mayer's hematoxylin and the slides were aqueous mounted for viewing and photography using a Olympus Magnafire digital photomicrography on an Olympus BH2 light microscope. If fluorescence tags were used, the nuclei were counterstained using Hoechst and coverslipped and viewed with photography using the Keyence BZ9000 with the appropriate filters.</p></sec><sec id="eva12744-sec-0010"><label>2.8</label><title>Genotyping of Siglecs in Namibian cohort</title><p>Genomic DNA was isolated from FTA cards of Namibian cohort (Hazel, Ponnaluri&#x02010;Wears, Davis, Low, &#x00026; Foxman, <xref rid="eva12744-bib-0024" ref-type="ref">2014</xref>) with E.Z.N.A. MicroElute Genomic DNA Kit (OMEGA). The participants of the Namibian cohort study were randomly selected and not based on any reported symptoms. Genotyping of the Siglec&#x02010;3 polymorphism rs3865444 was performed as described in Schwarz et al. (<xref rid="eva12744-bib-0054" ref-type="ref">2016</xref>). Genotyping of Siglec&#x02010;5 and Siglec&#x02010;14 was performed as described in Yamanaka et al. (<xref rid="eva12744-bib-0069" ref-type="ref">2009</xref>). Genotyping of Siglec&#x02010;16 was performed by PCR with primers (forward: GCATGTCTGATCACCTCAGTTGGGAAAG; reverse: CCCTGACTCTCCTGTACTGATAAACC) and OneTaq MasterMix (New England Biolabs). Followed by restriction digest with TspRI (New England Biolabs), which cuts a polymorphism (Wang, Mitra, Secundino, et al., <xref rid="eva12744-bib-0068" ref-type="ref">2012</xref>) in disequilibrium with the SIGLEC16P.</p></sec><sec id="eva12744-sec-0011"><label>2.9</label><title>Statistical analysis</title><p>Prism 6 software (GraphPad) was used for statistical analyses of binding, cytokine, and phagocytosis assays. Quantitative data are expressed as means&#x000a0;&#x02009;&#x000b1;&#x02009;&#x000a0;standard deviation (<italic>SD</italic>, represented as error bars). Unpaired Student's <italic>t</italic> test or ANOVA was used for comparisons involving two groups.</p><p>Gene Association Analysis: Gene&#x02013;disease association was assessed between binary variables representing each genotype (homozygous dominant, heterozygous, homozygous recessive) of the three loci (Siglec&#x02010;3, Siglec&#x02010;16, and Siglec&#x02010;5/14), and we used models considering the presence or absence of each genotype. Standard genetic models of dominant, recessive, additive, and epistatic were examined but discarded due to overfitting. The unusually high frequency of disease mutations seen in Namibian cohort interfered with the efficacy of common models. Binary genotype variables were used instead. These models are sufficient to assess univariate and bivariate gene&#x02013;disease associations provided two genotype variables corresponding to one gene are not used in the same model; this results in nonexistent genome models and therefore was avoided.</p><p>Models were learned from gender&#x02010;segregated data to account for the unique mechanisms of virulence across genders. Univariate logistic regressions were constructed to predict the magnitude and significance of association between each genotype and the disease. The univariate models provided assessments of the single genotype contributions to the disease. Multivariate additive was constructed using the R::MASS::stepAIC function. Multivariate additive models were constructed using backward selection from the complete additive model including all genotypes. Code is deposited at github.com/bkellman/Gh_genotypes/.</p></sec></sec><sec id="eva12744-sec-0012"><label>3</label><title>RESULTS</title><sec id="eva12744-sec-0013"><label>3.1</label><title>Siglec&#x02010;11 and Siglec&#x02010;16 are expressed on human cervical epithelium</title><p>Siglecs are mainly found on cells of the innate immune system: For example, monocytes express Siglec&#x02010;3 and Siglec&#x02010;9; neutrophils express Siglec&#x02010;5, Siglec&#x02010;9, and Siglec&#x02010;14 (Crocker et al., <xref rid="eva12744-bib-0013" ref-type="ref">2007</xref>); and macrophages express Siglec&#x02010;3, Siglec&#x02010;11, and Siglec&#x02010;16. Some Siglecs also have been found on other cell types; for example, Siglec&#x02010;11 on ovarian fibroblasts (Wang et al., <xref rid="eva12744-bib-0067" ref-type="ref">2011</xref>), Siglec&#x02010;5 on human but not chimpanzee amniotic epithelia (Ali et al., <xref rid="eva12744-bib-0001" ref-type="ref">2014</xref>), and Siglec&#x02010;6 on human placental trophoblast, but not in great apes (Brinkman&#x02010;Van der Linden et al., <xref rid="eva12744-bib-0006" ref-type="ref">2007</xref>). The primary site of gonococcal infection in women is the endocervical epithelium. We detected Siglec&#x02010;11 and Siglec&#x02010;16 expression on human cervical columnar epithelium (Figure <xref rid="eva12744-fig-0001" ref-type="fig">1</xref>), but not Siglec&#x02010;3, Siglec&#x02010;5, Siglec&#x02010;9, and Siglec&#x02010;14 (data not shown). Cervical squamous epithelia did not show any Siglec&#x02010;11 or Siglec&#x02010;16 expression (data not shown). The presence of Siglec&#x02010;11 and Siglec&#x02010;16 on the cervical columnar epithelium, the main site of gonococcal infection in females, may play a crucial role in host defense. We hypothesize that <italic>N.&#x000a0;gonorrhoeae </italic>engages the inhibitory Siglec&#x02010;11, which downregulates the pro&#x02010;inflammatory response and enables the bacteria to escape immune detection and establish asymptomatic infection. Siglec&#x02010;11 is expressed in all humans; however, due to a polymorphism, not all humans are able to express Siglec&#x02010;16 (Wang, Mitra, Cruz, et al., <xref rid="eva12744-bib-0066" ref-type="ref">2012</xref>). In individuals who express this activating receptor, Siglec&#x02010;16 could enable the host to detect <italic>N.&#x000a0;gonorrhoeae</italic> and mount a pro&#x02010;inflammatory immune response that results in symptoms and facilitates clearance of bacteria.</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Siglec&#x02010;11 and Siglec&#x02010;16 are expressed on human cervical epithelium. Immunohistochemical analysis of paraffin sections of human cervix samples, with spleen as positive control using mouse monoclonal. (a) anti&#x02010;Siglec&#x02010;11 and (b) anti&#x02010;Siglec&#x02010;16 antibodies (green). Nuclei are blue (Hoechst), red arrows indicate columnar cervical epithelium, and yellow bar indicates 100&#x000a0;&#x000b5;m. Images are representative of <italic>n</italic>&#x000a0;=&#x000a0;3. The samples of human Cervix and spleen shown were heterozygous for <italic>SIGLEC16</italic>
+</p></caption><graphic id="nlm-graphic-1" xlink:href="EVA-12-337-g001"/></fig></sec><sec id="eva12744-sec-0014"><label>3.2</label><title>
+<italic>Neisseria gonorrhoeae</italic> selectively engages human Siglec receptors</title><p>Natural infection with <italic>N.&#x000a0;gonorrhoeae </italic>occurs exclusively in humans. Siglecs are widely expressed on cell surfaces of innate immune cells such as macrophages and neutrophils, which produce key innate immune responses to gonococcal infections (Virji, <xref rid="eva12744-bib-0063" ref-type="ref">2009</xref>). We focused on Siglecs 3, 5, 9, 11, 14, and 16, which are prominent examples of Siglecs expressed by phagocytes and/or epithelial cells that are relevant to gonococcal infection in humans. To determine whether gonococci interact with Siglecs in a human&#x02010;specific manner that may contribute to its human specificity, we compared binding of recombinant soluble extracellular domains of human and chimpanzee homologs (fused with Ig&#x02010;Fc) to <italic>N.&#x000a0;gonorrhoeae</italic> strains F62 and 15253 (Figure <xref rid="eva12744-fig-0002" ref-type="fig">2</xref>). While strain F62 can express the LNnT LOS epitope that can be terminally substituted with sialic acid via an &#x003b1;2&#x02010;3 linkage (Yamasaki, Nasholds, Schneider, &#x00026; Apicella, <xref rid="eva12744-bib-0070" ref-type="ref">1991</xref>), strain 15253 lacks the genes that encode LOS glycosyltransferases LgtB, LgtC, and LgtD (Erwin, Haynes, Rice, &#x00026; Gotschlich, <xref rid="eva12744-bib-0017" ref-type="ref">1996</xref>) and thus can expresses LOS structures with only lactose extensions from HepI and HepII (Supporting Information Figure <xref rid="eva12744-sup-0006" ref-type="supplementary-material">S6</xref>a) (Mandrell, Griffiss, Smith, &#x00026; Cole, <xref rid="eva12744-bib-0033" ref-type="ref">1993</xref>). While human Siglec&#x02010;3 (also known as CD33) bound strongly to strain F62 (grown in media containing CMP&#x02010;Neu5Ac to sialylate LOS, Supporting Information Figure <xref rid="eva12744-sup-0001" ref-type="supplementary-material">S1</xref>), the chimpanzee homolog showed no binding (<italic>p</italic>&#x000a0;=&#x000a0;0.002; Figure <xref rid="eva12744-fig-0002" ref-type="fig">2</xref>a). F62 bound to all other human and chimpanzee Siglecs tested (Siglecs 5, 9, 11, 14, and 16), with human Siglec&#x02010;11 (<italic>p</italic>&#x000a0;=&#x000a0;0.013) and Siglec&#x02010;14 (<italic>p</italic>&#x000a0;=&#x000a0;0.010) also showing a significantly increased binding over the chimpanzee homologs. The <italic>N.&#x000a0;gonorrhoeae </italic>PorB.1A strain 15253, which was isolated from a disseminated infection, bound significantly better to human Siglec&#x02010;3 (<italic>p</italic>&#x000a0;=&#x000a0;0.037), Siglec&#x02010;5 (<italic>p</italic>&#x000a0;=&#x000a0;0.011), Siglec&#x02010;9 (<italic>p</italic>&#x000a0;=&#x000a0;0.009), and Siglec&#x02010;14 (<italic>p</italic>&#x000a0;=&#x000a0;0.002) than to its chimpanzee homolog (Figure <xref rid="eva12744-fig-0002" ref-type="fig">2</xref>b). The LOS of strain 15253 present in bacterial Triton X&#x02010;100 extracts can be sialylated upon addition of <sup>3</sup>H&#x02010;labeled CMP&#x02010;Neu5Ac (Mandrell, Smith, Jarvis, McLeod, &#x00026; Cole, <xref rid="eva12744-bib-0034" ref-type="ref">1993</xref>). We recently confirmed the addition of Neu5Ac to the lactose extension from HepII on intact bacteria when strain 15253 was grown in the presence of CMP&#x02010;Neu5Ac (Ram et al., <xref rid="eva12744-bib-0046" ref-type="ref">2018</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Human Siglecs bind selectively to <italic>Neisseria gonorrhoeae.</italic> Recombinant human and chimpanzee Siglec&#x02010;Fc fusion proteins were immobilized, and binding of FITC&#x02010;labeled, sialylated <italic>N.&#x000a0;gonorrhoeae</italic> (a) strain F62 and (b) strain 15253 was measured. Binding is normalized to human Siglec&#x02010;3&#x02010;Fc and corrected for unspecific binding to Fc part (huIgG). Data were analyzed with <italic>t</italic> test and represented as mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>, <italic>n</italic>&#x000a0;=&#x000a0;3</p></caption><graphic id="nlm-graphic-3" xlink:href="EVA-12-337-g002"/></fig><p>Amino acid sequence differences, as well as differences in post&#x02010;translational modifications such as <italic>N</italic>&#x02010; and O&#x02010;glycosylation between the human and chimpanzee homologs, could be responsible for the difference in binding (Supporting Information Figures <xref rid="eva12744-sup-0002" ref-type="supplementary-material">[Link]</xref>, <xref rid="eva12744-sup-0003" ref-type="supplementary-material">[Link]</xref>, <xref rid="eva12744-sup-0004" ref-type="supplementary-material">[Link]</xref>, <xref rid="eva12744-sup-0005" ref-type="supplementary-material">[Link]</xref>). Differences in patterns of Siglec binding between the strains may also be due to differences in the LOS structure (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>a), including sialylation, and/or other surface structures that could modify interactions.</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Siglec interactions with gonococci are sialic acid&#x02010;dependent and sialic acid&#x02010;independent. The LNnT LOS (a) of <italic>N.&#x000a0;gonorrhoeae </italic>F62 strain can be sialylated by the sialyltransferase (Lst) in the presence of CMP&#x02010;Neu5Ac. Phase&#x02010;variable genes are presented in gray. (b) Binding FITC&#x02010;labeled F62 grown with and without CMP&#x02010;Neu5Ac to immobilized human Siglec&#x02010;Fcs. Binding is normalized to human Siglec&#x02010;3&#x02010;Fc and corrected for unspecific binding to Fc part (huIgG). Data were analyzed with <italic>t</italic> test and represented as mean&#x000a0;&#x000b1;&#x000a0;SD, <italic>n</italic>&#x000a0;=&#x000a0;3. (c&#x02013;g) Binding of human Siglec&#x02010;Fcs to F62 mutants where genes that encoded the glycosyltransferases <italic>lgtD</italic>, <italic>lgtA</italic>, <italic>lgtE,</italic> or <italic>lgtF</italic> were deleted, which lead to progressive truncation of the LOS, was measured by flow cytometry. Bacteria (~10<sup>7</sup> CFU) were incubated with 10&#x000a0;&#x000b5;g/ml of each Siglec&#x02010;Fc for 15&#x000a0;min at 37&#x000b0;C and surface&#x02010;bound Siglec&#x02010;Fcs were detected with anti&#x02010;human IgG (Fc specific) conjugated to FITC. Controls represent bacteria incubated with anti&#x02010;human IgG FITC alone (no added Siglec&#x02010;Fc). Data are represented as mean&#x000a0;&#x000b1;&#x000a0;<italic>SEM</italic>, <italic>n</italic>&#x000a0;=&#x000a0;3</p></caption><graphic id="nlm-graphic-5" xlink:href="EVA-12-337-g003"/></fig></sec><sec id="eva12744-sec-0015"><label>3.3</label><title>
+<italic>Neisseria gonorrhoeae</italic> binding to Siglecs is only partially dependent on LOS sialic acid, and truncation of LOS increases binding</title><p>Since Siglecs are lectins that usually bind to sialic acid, we hypothesized that the sialylated LOS on <italic>N.&#x000a0;gonorrhoeae </italic>(Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>a) is likely the primary ligand for Siglecs. Growth of <italic>N.&#x000a0;gonorrhoeae</italic> in media lacking CMP&#x02010;Neu5Ac leads to expression of non&#x02010;sialylated LOS because gonococci lack the ability to synthesize sialic acid de novo<italic>; </italic>the addition of CMP&#x02010;Neu5Ac to media results in sialylation of LNnT LOS (Mandrell, Smith, et al., <xref rid="eva12744-bib-0034" ref-type="ref">1993</xref>; Nairn et al., <xref rid="eva12744-bib-0037" ref-type="ref">1988</xref>; Supporting Information Figure <xref rid="eva12744-sup-0001" ref-type="supplementary-material">S1</xref>). The binding of sialylated and non&#x02010;sialylated gonococci F62 indeed differs with some Siglecs (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>b). The binding of Siglec&#x02010;3 (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) is solely dependent on sialic acid. The binding of Siglec&#x02010;9 (<italic>p</italic>&#x000a0;=&#x000a0;0.016) and Siglec&#x02010;14 (<italic>p</italic>&#x000a0;=&#x000a0;0.004) was enhanced by sialic acid. However, residual binding suggested the presence of sialic acid&#x02010;independent ligands. In contrast, the binding of Siglec&#x02010;16 to F62 was significantly increased (<italic>p</italic>&#x000a0;=&#x000a0;0.013) in the absence of sialic acid. Similar results were observed with gonococcal strain 15253, with the exception of Siglec&#x02010;16, where sialylation of 15253 did not change the binding (Supporting Information Figure <xref rid="eva12744-sup-0006" ref-type="supplementary-material">S6</xref>b). Together with the finding in Figures <xref rid="eva12744-fig-0001" ref-type="fig">1</xref> and <xref rid="eva12744-fig-0002" ref-type="fig">2</xref>, these results support the hypothesis that structures in addition to sialic acids can mediate the interactions of Siglecs and gonococci. It is possible that the glycan&#x02010;binding pocket that confers lectin&#x02010;like properties to Siglecs also binds to other glycan structures. To elucidate whether Siglecs bind to non&#x02010;sialylated LOS structures, we tested Siglec binding by flow cytometry to isogenic mutants of strain F62 that expressed truncated LOS glycans by (separately) inactivating the LOS glycosyltransferases <italic>lgtD, lgtA, lgtE, </italic>and <italic>lgtF</italic> (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>a). Progressive truncation of LOS correlated with increased binding of Siglec&#x02010;5 and Siglec&#x02010;14 to F62 (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>c,f). This inverse correlation between Siglec binding and LOS glycan length was not significant for Siglec&#x02010;9 (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>d). The binding of Siglec&#x02010;11&#x02010;Fc increases significantly with the truncation of the lactose epitope (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>e). Siglec&#x02010;16&#x02010;Fc binds the strongest to the mutant with the exposed (unsialylated) LNnT structure (Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>g). These data suggest the presence of an alternate ligand on <italic>N.&#x000a0;gonorrhoeae</italic> for Siglecs. When present, sialylated LOS may be the primary binding site for LOS. In contrast, as with Siglec&#x02010;11 and Siglec&#x02010;16, sialylated LNnT LOS may actually hinder access of the alternate ligand to Siglecs. However, when LOS phase varies (e.g., lgtA &#x0201c;off&#x0201d;), it may leave the alternate ligand more exposed and permit binding to Siglecs.</p></sec><sec id="eva12744-sec-0016"><label>3.4</label><title>Gonococcal Porin B mediates binding to human Siglecs in a protein&#x02010;dependent manner</title><p>In addition to their main sialylated ligands, some Siglecs have been reported to engage in protein&#x02013;protein interactions (Carlin et al., <xref rid="eva12744-bib-0010" ref-type="ref">2009</xref>; Fong et al., <xref rid="eva12744-bib-0019" ref-type="ref">2015</xref>). Porin B (PorB) is the major outer membrane protein of <italic>N.&#x000a0;gonorrhoeae</italic> and is essential for gonococcal survival. We have shown previously that LOS structure modulates binding of the complement inhibitor C4BP to PorB (Ram et al., <xref rid="eva12744-bib-0049" ref-type="ref">2007</xref>). We did not expect the unsialylated glycans expressed by the gonococcal LOS mutants tested in Figure <xref rid="eva12744-fig-0003" ref-type="fig">3</xref>c&#x02010;g above to directly bind to Siglecs, but instead explored the possibility that alterations in LOS glycan extensions influenced binding of Siglecs to PorB<italic>. </italic>We tested two purified porins, PorB.1A purified from the strain 15253 and PorB.1B derived from the strain F62 (Figure <xref rid="eva12744-fig-0004" ref-type="fig">4</xref>). Neither human nor chimpanzee Siglec&#x02010;3&#x02010;Fc binds to PorB molecules, which is consistent with the finding that binding of human Siglec&#x02010;3&#x02010;Fc to whole bacteria is solely dependent on LOS sialic acid. PorB.1A and PorB.1B both bound only to human, but not chimpanzee Siglec&#x02010;5, Siglec&#x02010;9, and Siglec&#x02010;14. Both PorB molecules bound to human and chimpanzee Siglec&#x02010;11 and Siglec&#x02010;16, although binding to chimpanzee Siglecs was much lower. The binding patterns of PorB.1A and PorB.1B were similar, which could indicate a conserved binding region or motif between the two porins. The preference of porins to bind to human Siglecs over chimpanzee homologs strengthens the hypothesis that gonococcal interactions with Siglecs contribute to the human specificity of gonorrhea. It is worth noting that in some instances, whole bacteria, but not the respective purified PorB, bound to chimpanzee Siglecs. For example, F62 bound to cSiglec&#x02010;5, cSiglec&#x02010;9, and cSiglec&#x02010;14, and 15,253 bound to cSiglec&#x02010;5 and cSiglec&#x02010;14, which suggested that surface molecules other than PorB might engage cSiglecs.</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Siglecs bind to the gonococcal porin in a human&#x02010;specific manner. Purified PorinB.1A from 15253 (a) and PorinB.1B from F62 (b) were immobilized, and binding of human and chimpanzee Siglec&#x02010;Fc proteins was detected with anti&#x02010;human IgG&#x02010;HRP (Fc specific). Data were corrected for unspecific binding to BSA and represented as mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>, <italic>n</italic>&#x000a0;=&#x000a0;3, <italic>p</italic>&#x02010;values for PorinB.1A and PorinB.1B, respectively, Siglec&#x02010;5 <italic>p</italic>&#x000a0;=&#x000a0;0.002/0.009, Siglec&#x02010;9 <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001/&#x0003c;0.001, Siglec&#x02010;11 <italic>p</italic>&#x000a0;=&#x000a0;0.023/0.006, Siglec&#x02010;14 <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001/=0.001, and Siglec&#x02010;16 <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001/=0.006)</p></caption><graphic id="nlm-graphic-7" xlink:href="EVA-12-337-g004"/></fig></sec><sec id="eva12744-sec-0017"><label>3.5</label><title>
+<italic>Neisseria gonorrhoeae</italic> modulates innate immune response via engagement of Siglecs</title><p>The innate immune system plays an important role in the symptomatology of gonorrhea; the lack of a robust inflammatory response contributes to the lack of symptoms that is commonly seen, especially in women. Monocytes and macrophages are an important source of inflammatory cytokines. Multiple attempts to establish an immortalized cell line expressing Siglec&#x02010;11 and Siglec&#x02010;16 or human monocytes as model system failed. To investigate whether Siglec interactions with <italic>N.&#x000a0;gonorrhoeae</italic> modulate the immune responses, we used a monocytic cell line, THP&#x02010;1, which was stably transfected with the paired receptors Siglec&#x02010;5 (inhibitory) or Siglec&#x02010;14 (activating) (Yamanaka et al., <xref rid="eva12744-bib-0069" ref-type="ref">2009</xref>), as a model system. When infected with <italic>N.&#x000a0;gonorrhoeae</italic>, THP&#x02010;1 cells expressing Siglec&#x02010;5 expressed lower level of IL&#x02010;6 compared to an empty vector control (<italic>p</italic>&#x000a0;=&#x000a0;0.046; Figure <xref rid="eva12744-fig-0005" ref-type="fig">5</xref>a). By contrast, expression of the activating Siglec&#x02010;14 increased IL&#x02010;6 secretion (<italic>p</italic>&#x000a0;=&#x000a0;0.043). IL&#x02010;6 is a major pro&#x02010;inflammatory cytokine, plays an important role during gonococcal infection, and is found in the secretions of infected patients (Ramsey et al., <xref rid="eva12744-bib-0050" ref-type="ref">1995</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Siglec&#x02010;5 and Siglec&#x02010;14 modulate pro&#x02010;inflammatory response in opposite directions. (a) The secretion of pro&#x02010;inflammatory cytokine IL&#x02010;6 was measured in THP&#x02010;1 expressing either Siglec&#x02010;5 or Siglec&#x02010;14 after incubation with F62 for 24&#x000a0;hr. (b) Phagocytic activity of THP&#x02010;1 cells expressing Siglec&#x02010;14 was measured by adding PorB.1B and monitoring the uptake of fluorescent particles (pHrodo). A blocking anti&#x02010;Siglec&#x02010;14 antibody could reverse the uptake. Data are represented as mean&#x000a0;&#x000b1;&#x000a0;SD, <italic>n</italic>&#x000a0;=&#x000a0;3</p></caption><graphic id="nlm-graphic-9" xlink:href="EVA-12-337-g005"/></fig><p>In addition to cytokine secretion, phagocytosis is a common response to fight infections. We examined the phagocytic activity of THP&#x02010;1 cells expressing Siglec&#x02010;14 that were stimulated with purified PorB.1B. Increased phagocytic activity was seen when Siglec&#x02010;14&#x02010;expressing THP&#x02010;1 cells were incubated with PorB.1B (<italic>p</italic>&#x000a0;=&#x000a0;0.009). The addition of a Siglec&#x02010;14 blocking antibody reversed this effect (<italic>p</italic>&#x000a0;=&#x000a0;0.002), suggesting a functional interaction between Siglec&#x02010;14 and PorB is a direct physical contact (Figure <xref rid="eva12744-fig-0005" ref-type="fig">5</xref>b). These results indicate that gonococcal engagement of inhibitory Siglecs such as Siglec&#x02010;5 could contribute to inhibition of pro&#x02010;inflammatory responses, as seen in asymptomatic disease. On the other hand, engagement of activating Siglecs, such as Siglec&#x02010;14, can contribute to the pro&#x02010;inflammatory response that could help clear gonococcal infection.</p></sec><sec id="eva12744-sec-0018"><label>3.6</label><title>Genetic polymorphisms in human Siglecs can influence burden of <italic>Neisseria gonorrhoeae</italic>
+</title><p>Similar to Siglec&#x02010;16, Siglec&#x02010;14 is also not expressed in every individual (Yamanaka et al., <xref rid="eva12744-bib-0069" ref-type="ref">2009</xref>). The absence of these activating receptors could contribute to asymptomatic disease and prolonged carriage of gonococci. The rs3865444 polymorphism in Siglec&#x02010;3 could potentially also contribute, as it leads to differential expression of two Siglec&#x02010;3 isoforms (Malik et al., <xref rid="eva12744-bib-0032" ref-type="ref">2013</xref>). The C allele leads to high expression of the full&#x02010;length form with a V&#x02010;set sialic acid&#x02010;binding domain, which can bind to sialylated gonococci, whereas the A allele is associated with lower expression of this isoform. Therefore, the C allele potentially reduces pro&#x02010;inflammatory responses by providing gonococci with more exploitable inhibitory Siglec&#x02010;3 receptors.</p><p>To test whether these genetic variations in human Siglecs are associated with gonococcal infections, we genotyped a human cohort with a high burden of gonorrhea. A cross&#x02010;sectional study of Namibian pastoralists has shown that over 64% of the tested sexually active adult population is infected with <italic>N.&#x000a0;gonorrhoeae</italic> with a higher prevalence in females (72%) compared to males (57%; Hazel et al., <xref rid="eva12744-bib-0024" ref-type="ref">2014</xref>). In this rural population where partner concurrency is normal for men and women, gonorrhea exposure is high but treatment is erratically sought.</p><p>In this cohort, we found that infected females express the Siglec&#x02010;16 receptor less frequently with an allele frequency of the SIGLEC16 with 0.155 compared to uninfected women with 0.213 (Supporting Information Table <xref rid="eva12744-sup-0007" ref-type="supplementary-material">S1</xref>). We further found trends showing higher expression of activating Siglec&#x02010;14 receptor expressed in the uninfected population with an allele frequency of 0.729 compared to 0.693 in the infected population. If statistically significant, this trend could support our hypothesis that activating Siglec&#x02010;14 is protective. We saw a similar trend when females and males were analyzed separately. The pathology of the gonococcal infection is very different between males and females, and therefore, it is important to look at the two populations separately. There were no significant differences between the A and C alleles in Siglec&#x02010;3 among infected and uninfected persons.</p><p>To test the statistical significance of these observations, we used a univariate logistic regression screen within the female population and found a significant protective association, odds ratio of 0.092 (<italic>p</italic>&#x000a0;=&#x000a0;0.034; 95% confidence interval (CI)&#x000a0;=&#x000a0;0.005&#x02013;0.636), for women with the homozygous genotype for Siglec&#x02010;16 (Figure <xref rid="eva12744-fig-0006" ref-type="fig">6</xref>a, Supporting Information Table <xref rid="eva12744-sup-0008" ref-type="supplementary-material">S2</xref>). The same analysis showed no significant protection or risk for the different genotypes in males (Figure <xref rid="eva12744-fig-0006" ref-type="fig">6</xref>b). In an additive model of homozygous Siglec&#x02010;14 wt and Siglec&#x02010;16 wt, Siglec&#x02010;16 again showed again significant protection with an odds ratio of 0.089 (<italic>p</italic>&#x000a0;=&#x000a0;0.032; CI&#x000a0;=&#x000a0;0.004&#x02013;0.620); however, Siglec&#x02010;14 alone was not significant, with an odds ratio of 0.713 (<italic>p</italic>&#x000a0;=&#x000a0;0.280; CI&#x000a0;=&#x000a0;0.384&#x02013;1.318; Figure <xref rid="eva12744-fig-0006" ref-type="fig">6</xref>c, Supporting Information Table <xref rid="eva12744-sup-0008" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Activating Siglecs are protective. Univariate screen of females (a) and males (b). Additive model of females, who are homozygous for SIGLEC16 and Siglec&#x02010;14 wt (c)</p></caption><graphic id="nlm-graphic-11" xlink:href="EVA-12-337-g006"/></fig><p>It is possible that the greater significance of the Siglec&#x02010;16 genotype may result because Siglec&#x02010;16 is expressed on macrophages and also on the cervical epithelium, which is the main site of infection. This additional site of expression could enhance contact with gonococci and thus drive selection for the protective Siglec&#x02010;16 genotype. It is worth noting that immortalized cervical epithelial cells also release pro&#x02010;inflammatory cytokines following stimulation with <italic>N.&#x000a0;gonorrhoeae</italic> (Fichorova, Desai, Gibson, &#x00026; Genco, <xref rid="eva12744-bib-0018" ref-type="ref">2001</xref>).</p></sec></sec><sec id="eva12744-sec-0019"><label>4</label><title>DISCUSSION</title><p>
+<italic>Neisseria gonorrhoeae</italic> has evolved a variety of strategies to infect the human host and exploit its immune system (Edwards &#x00026; Apicella, <xref rid="eva12744-bib-0015" ref-type="ref">2004</xref>). In this study, we present a new mechanism whereby <italic>N.&#x000a0;gonorrhoeae </italic>engages human Siglec receptors to suppress pro&#x02010;inflammatory signaling. Natural infection with <italic>N.&#x000a0;gonorrhoeae</italic> is restricted to humans. In the 1970s, a urethral model of gonorrhea in male chimpanzees (<italic>Pan troglodytes</italic>) was established (Arko, <xref rid="eva12744-bib-0004" ref-type="ref">1989</xref>). Infection occurred by some, but not all strains of <italic>N.&#x000a0;gonorrhoeae</italic> (Arko, Duncan, Brown, Peacock, &#x00026; Tomizawa, <xref rid="eva12744-bib-0005" ref-type="ref">1976</xref>; Kraus, Brown, &#x00026; Arko, <xref rid="eva12744-bib-0029" ref-type="ref">1975</xref>). Similar to humans, localized urethral infection in chimpanzees lasted from 3 to 6&#x000a0;weeks (Lucas, Chandler, Martin, &#x00026; Schmale, <xref rid="eva12744-bib-0031" ref-type="ref">1971</xref>) and male&#x02010;to&#x02010;female transmission among sexually active cage mates was documented (Brown, Lucas, &#x00026; Kuhn, <xref rid="eva12744-bib-0007" ref-type="ref">1972</xref>). Several reasons for the natural host restriction of gonococcal infection have been elucidated, including specificity for human CEACAMs (Pils, Gerrard, Meyer, &#x00026; Hauck, <xref rid="eva12744-bib-0045" ref-type="ref">2008</xref>; Sadarangani, Pollard, &#x00026; Gray&#x02010;Owen, <xref rid="eva12744-bib-0052" ref-type="ref">2011</xref>; Sintsova et al., <xref rid="eva12744-bib-0057" ref-type="ref">2015</xref>; Voges, Bachmann, Kammerer, Gophna, &#x00026; Hauck, <xref rid="eva12744-bib-0064" ref-type="ref">2010</xref>), the ability to utilize transferrin as an iron source from humans and only certain non&#x02010;human primates (Gray&#x02010;Owen &#x00026; Schryvers, <xref rid="eva12744-bib-0021" ref-type="ref">1993</xref>) and the inability to evade non&#x02010;human complement because of its selective binding to the human complement inhibitors, factor H and C4b&#x02010;binding protein (C4BP) (Ngampasutadol et al., <xref rid="eva12744-bib-0039" ref-type="ref">2005</xref>, <xref rid="eva12744-bib-0040" ref-type="ref">2008</xref>). Our results show that <italic>N.&#x000a0;gonorrhoeae</italic> binds preferentially to human Siglecs, which may be another reason for its human specificity.</p><p>Apart from these evolutionary considerations, the data presented in this work suggest that interaction of <italic>N.&#x000a0;gonorrhoeae </italic>with Siglecs plays a role in the innate immune response during infection (see summary in Figure <xref rid="eva12744-fig-0007" ref-type="fig">7</xref>). Binding to the inhibitory receptors Siglec&#x02010;3, Siglec&#x02010;5, Siglec&#x02010;9, and Siglec&#x02010;11 suppresses the pro&#x02010;inflammatory response, which could contribute to decreased clearance of infection and contribute to the relative paucity of symptoms. The engagement of activating Siglec receptors, such as Siglec&#x02010;14 and Siglec&#x02010;16, leads to an activation of the pro&#x02010;inflammatory signaling cascade that facilitates clearance of gonococcal infection. However, these activating receptors are not present on all individuals, which may account, at least in part, for differences across individuals in their ability to clear gonococcal infections.</p><fig fig-type="Figure" xml:lang="en" id="eva12744-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Possible mechanism of Siglec gonococci interactions. <italic>Neisseria gonorrhoeae</italic> engages human immunoregulatory Siglec receptors. Upon binding, the inhibitory receptors Siglec&#x02010;3, Siglec&#x02010;5, Siglec&#x02010;9 and, Siglec&#x02010;11 suppress the pro&#x02010;inflammatory response, which could contribute to decreased clearance of infection and overall appearance of an asymptomatic infection. The engagement of activating Siglec receptors, such as Siglec&#x02010;14 and Siglec&#x02010;16, leads to an activation of the pro&#x02010;inflammatory signaling cascade. This can contribute to a better clearance of a symptomatic infection. However, these activating receptors are expressed only on certain individuals. The presence of these polymorphisms could contribute to different ability of clearing a gonococcal infection among individuals</p></caption><graphic id="nlm-graphic-13" xlink:href="EVA-12-337-g007"/></fig><p>The role of pro&#x02010;inflammatory responses in gonococcal pathogenesis remains controversial (Criss &#x00026; Seifert, <xref rid="eva12744-bib-0012" ref-type="ref">2012</xref>; Virji, <xref rid="eva12744-bib-0063" ref-type="ref">2009</xref>). While activating receptors such as Siglec&#x02010;14 and Siglec&#x02010;16 may contribute to a pro&#x02010;inflammatory response following infection facilitate clearance of infection, <italic>N.&#x000a0;gonorrhoeae</italic> have developed numerous mechanisms to survive within neutrophils that are abundant at the site of infection upon pro&#x02010;inflammatory stimuli, which could form a &#x0201c;safe haven&#x0201d; for bacteria (Criss &#x00026; Seifert, <xref rid="eva12744-bib-0012" ref-type="ref">2012</xref>). Multiple factors, such as sex and site of infection, play a role in the effectiveness of a pro&#x02010;inflammatory stimulus. The genetic analysis of the Namibian pastoralists shows that the presence of activating Siglec&#x02010;16 is correlated with a lower burden of gonorrhea in females. Siglec&#x02010;16 is expressed by cervical epithelium in addition to immune cells, thus making it an activating Siglec that gonococci are likely to encounter in the early stages of infection. This could explain why Siglec&#x02010;16&#x000a0;has stronger effect on the gonococcal burden compared to the activating Siglec&#x02010;14, which is only expressed on neutrophils. It is intriguing that unsialylated <italic>N.&#x000a0;gonorrhoeae</italic> bind better to Siglec&#x02010;16 than sialylated bacteria. Ketterer et al. (<xref rid="eva12744-bib-0028" ref-type="ref">2016</xref>) recently showed that sialidases are present in the female genital tract in amounts sufficient to desialylate gonococcal LOS and enhance infectivity in men, where unsialylated gonococci can engage the asialoglycoprotein receptor (ASGP&#x02010;R; Harvey et al., <xref rid="eva12744-bib-0023" ref-type="ref">2001</xref>). The ability of Siglec&#x02010;16 to respond to unsialylated gonococci may represent an evolutionary mechanism that permits the host to adapt to gonococci whose surface has been modified by sialidases elaborated by cohabiting microbial flora (Ketterer et al., <xref rid="eva12744-bib-0028" ref-type="ref">2016</xref>). Ascending gonococcal infections can also cause pelvic inflammatory disease, a major cause of infertility (Gradison, <xref rid="eva12744-bib-0020" ref-type="ref">2012</xref>) (Reekie et al., <xref rid="eva12744-bib-0051" ref-type="ref">2017</xref>). Whether interactions between <italic>N.&#x000a0;gonorrhoeae</italic> and Siglecs contribute to pelvic inflammatory disease and infertility merits further study. Any impact on fertility would be a powerful driver of selection for <italic>SIGLEC</italic> gene polymorphisms.</p><p>On a more general note, we and others have reported how the human specificity of certain infectious diseases such as <italic>Salmonella typhi&#x02010;</italic>mediated typhoid fever and <italic>Plasmodium falciparum</italic> malaria might be explained by the human&#x02010;universal genetic loss of the common mammalian sialic acid Neu5Gc (Deng et al., <xref rid="eva12744-bib-0014" ref-type="ref">2014</xref>; Martin, Rayner, Gagneux, Barnwell, &#x00026; Varki, <xref rid="eva12744-bib-0035" ref-type="ref">2005</xref>). These organisms have evolved modification of certain binding proteins to preferentially recognize the precursor sialic acid Neu5Ac, which accumulates in excess in humans. While no pathogens are known to synthesize Neu5Gc, other human pathogens have independently evolved convergent ways to coat themselves with Neu5Ac containing glycans, and thereby evade the innate immune response via multiple mechanisms, including the engagement of inhibitory Siglecs on innate immune cells (Chang &#x00026; Nizet, <xref rid="eva12744-bib-0011" ref-type="ref">2014</xref>; Varki &#x00026; Gagneux, <xref rid="eva12744-bib-0061" ref-type="ref">2012</xref>; Vimr, Kalivoda, Deszo, &#x00026; Steenbergen, <xref rid="eva12744-bib-0062" ref-type="ref">2004</xref>). Two such documented examples include human&#x02010;specific pathogens group B streptococcus which engages Siglec&#x02010;9 on neutrophils and Siglec&#x02010;5 on the amniotic epithelium (Ali et al., <xref rid="eva12744-bib-0001" ref-type="ref">2014</xref>; Carlin et al., <xref rid="eva12744-bib-0009" ref-type="ref">2007</xref>) and <italic>E.&#x000a0;coli</italic> K&#x02010;1 which engages Siglec&#x02010;11 on brain microglia, likely suppressing their microbicidal activity during the process of causing meningitis (Schwarz et al., <xref rid="eva12744-bib-0055" ref-type="ref">2017</xref>). Here, we report a different evolutionary strategy for human specificity, employed by a bacterium, which largely bypasses the sialic acid&#x02010;binding properties of Siglecs and instead engages them directly via protein&#x02013;protein interactions. The other pathogen in the genus Neisseria, <italic>N.&#x000a0;meningitidis,</italic> also engages Siglec&#x02010;1 and Siglec&#x02010;5 which results in increased bacterial phagocytosis; however, the interaction occurred exclusively through sialylated lacto&#x02010;<italic>N</italic>&#x02010;neotetraose LOS (Jones, Virji, &#x00026; Crocker, <xref rid="eva12744-bib-0026" ref-type="ref">2003</xref>).</p></sec><sec id="eva12744-sec-0020"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="eva12744-sec-0021"><title>AUTHOR CONTRIBUTIONS</title><p>CSL, SR, and AV designed the research study. CSL, JJF, FS, and AS conducted the experiments. CSL, AH, BJK, NV, and NEL analyzed data. AH and PM provided reagents. CSL, SR, and AV wrote the manuscript.</p></sec><sec id="eva12744-sec-0022"><title>DATA ACCESSIBILITY</title><p>Data for this study are available at Dryad Digital Repository: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.4b2158p">https://doi.org/10.5061/dryad.4b2158p</ext-link>
+<underline underline-style="single">.</underline>
+</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="eva12744-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s005.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0006"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s006.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0007"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s007.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12744-sup-0008"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-12-337-s008.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="eva12744-sec-0023"><title>ACKNOWLEDGMENT</title><p>This work was supported by NIH grants R01GM32373 (to A.V.), and R01AI114790 and U01AI118161 (to S.R.).</p></ack><ref-list content-type="cited-references" id="eva12744-bibl-0001"><title>REFERENCES</title><ref id="eva12744-bib-0001"><mixed-citation publication-type="journal" id="eva12744-cit-0001">
+<string-name>
+<surname>Ali</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Fong</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Carlin</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name>
+<surname>Busch</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name>
+<surname>Linden</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Angata</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Siglec&#x02010;5 and Siglec&#x02010;14 are polymorphic paired receptors that modulate neutrophil and amnion signaling responses to group B Streptococcus</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>211</volume>(<issue>6</issue>), <fpage>1231</fpage>&#x02013;<lpage>1242</lpage>.<pub-id pub-id-type="pmid">24799499</pub-id></mixed-citation></ref><ref id="eva12744-bib-0002"><mixed-citation publication-type="journal" id="eva12744-cit-0002">
+<string-name>
+<surname>Angata</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hayakawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yamanaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nakamura</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Discovery of Siglec&#x02010;14, a novel sialic acid receptor undergoing concerted evolution with Siglec&#x02010;5 in primates</article-title>. <source xml:lang="en">The FASEB Journal</source>, <volume>20</volume>(<issue>12</issue>), <fpage>1964</fpage>&#x02013;<lpage>1973</lpage>. <pub-id pub-id-type="doi">10.1096/fj.06-5800com</pub-id>
+<pub-id pub-id-type="pmid">17012248</pub-id></mixed-citation></ref><ref id="eva12744-bib-0003"><mixed-citation publication-type="journal" id="eva12744-cit-0003">
+<string-name>
+<surname>Angata</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Motegi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Oka</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Soto</surname>, <given-names>P. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Taniguchi</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>). <article-title>Loss of Siglec&#x02010;14 reduces the risk of chronic obstructive pulmonary disease exacerbation</article-title>. <source xml:lang="en">Cellular and Molecular Life Sciences</source>, <volume>70</volume>(<issue>17</issue>), <fpage>3199</fpage>&#x02013;<lpage>3210</lpage>. <pub-id pub-id-type="doi">10.1007/s00018-013-1311-7</pub-id>
+<pub-id pub-id-type="pmid">23519826</pub-id></mixed-citation></ref><ref id="eva12744-bib-0004"><mixed-citation publication-type="journal" id="eva12744-cit-0004">
+<string-name>
+<surname>Arko</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>1989</year>). <article-title>Animal models for pathogenic <italic>Neisseria</italic> species</article-title>. <source xml:lang="en">Clinical Microbiology Reviews</source>, <volume>2</volume>(<issue>Suppl</issue>), <fpage>S56</fpage>&#x02013;<lpage>S59</lpage>. <pub-id pub-id-type="doi">10.1128/CMR.2.Suppl.S56</pub-id>
+<pub-id pub-id-type="pmid">2655884</pub-id></mixed-citation></ref><ref id="eva12744-bib-0005"><mixed-citation publication-type="journal" id="eva12744-cit-0005">
+<string-name>
+<surname>Arko</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Duncan</surname>, <given-names>W. P.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Peacock</surname>, <given-names>W. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tomizawa</surname>, <given-names>T.</given-names>
+</string-name> (<year>1976</year>). <article-title>Immunity in infection with <italic>Neisseria gonorrhoeae</italic>: Duration and serological response in the chimpanzee</article-title>. <source xml:lang="en">Journal of Infectious Diseases</source>, <volume>133</volume>(<issue>4</issue>), <fpage>441</fpage>&#x02013;<lpage>447</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/133.4.441</pub-id>
+<pub-id pub-id-type="pmid">816974</pub-id></mixed-citation></ref><ref id="eva12744-bib-0006"><mixed-citation publication-type="journal" id="eva12744-cit-0006">
+<string-name>
+<surname>Brinkman&#x02010;Van der Linden</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name>
+<surname>Hurtado&#x02010;Ziola</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hayakawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wiggleton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Benirschke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varki</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>). <article-title>Human&#x02010;specific expression of Siglec&#x02010;6 in the placenta</article-title>. <source xml:lang="en">Glycobiology</source>, <volume>17</volume>(<issue>9</issue>), <fpage>922</fpage>&#x02013;<lpage>931</lpage>. <pub-id pub-id-type="doi">10.1093/glycob/cwm065</pub-id>
+<pub-id pub-id-type="pmid">17580316</pub-id></mixed-citation></ref><ref id="eva12744-bib-0007"><mixed-citation publication-type="journal" id="eva12744-cit-0007">
+<string-name>
+<surname>Brown</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>C. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuhn</surname>, <given-names>U. S.</given-names>
+</string-name> (<year>1972</year>). <article-title>Gonorrhoea in the chimpanzee. Infection with laboratory&#x02010;passed gonococci and by natural transmission</article-title>. <source xml:lang="en">The British Journal of Venereal Diseases</source>, <volume>48</volume>(<issue>3</issue>), <fpage>177</fpage>&#x02013;<lpage>178</lpage>.<pub-id pub-id-type="pmid">4627047</pub-id></mixed-citation></ref><ref id="eva12744-bib-0008"><mixed-citation publication-type="journal" id="eva12744-cit-0008">
+<string-name>
+<surname>Cao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lakner</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>de Bono</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Traherne</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Trowsdale</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barrow</surname>, <given-names>A. D.</given-names>
+</string-name> (<year>2008</year>). <article-title>SIGLEC16 encodes a DAP12&#x02010;associated receptor expressed in macrophages that evolved from its inhibitory counterpart SIGLEC11 and has functional and non&#x02010;functional alleles in humans</article-title>. <source xml:lang="en">European Journal of Immunology</source>, <volume>38</volume>(<issue>8</issue>), <fpage>2303</fpage>&#x02013;<lpage>2315</lpage>.<pub-id pub-id-type="pmid">18629938</pub-id></mixed-citation></ref><ref id="eva12744-bib-0009"><mixed-citation publication-type="journal" id="eva12744-cit-0009">
+<string-name>
+<surname>Carlin</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nizet</surname>, <given-names>V.</given-names>
+</string-name> (<year>2007</year>). <article-title>Group B streptococcal capsular sialic acids interact with siglecs (immunoglobulin&#x02010;like lectins) on human leukocytes</article-title>. <source xml:lang="en">Journal of Bacteriology</source>, <volume>189</volume>(<issue>4</issue>), <fpage>1231</fpage>&#x02013;<lpage>1237</lpage>. <pub-id pub-id-type="doi">10.1128/JB.01155-06</pub-id>
+<pub-id pub-id-type="pmid">16997964</pub-id></mixed-citation></ref><ref id="eva12744-bib-0010"><mixed-citation publication-type="journal" id="eva12744-cit-0010">
+<string-name>
+<surname>Carlin</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Areschoug</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lindahl</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hurtado&#x02010;Ziola</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>C. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Nizet</surname>, <given-names>V.</given-names>
+</string-name> (<year>2009</year>). <article-title>Group B Streptococcus suppression of phagocyte functions by protein&#x02010;mediated engagement of human Siglec&#x02010;5</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>206</volume>(<issue>8</issue>), <fpage>1691</fpage>&#x02013;<lpage>1699</lpage>.<pub-id pub-id-type="pmid">19596804</pub-id></mixed-citation></ref><ref id="eva12744-bib-0011"><mixed-citation publication-type="journal" id="eva12744-cit-0011">
+<string-name>
+<surname>Chang</surname>, <given-names>Y. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nizet</surname>, <given-names>V.</given-names>
+</string-name> (<year>2014</year>). <article-title>The interplay between Siglecs and sialylated pathogens</article-title>. <source xml:lang="en">Glycobiology</source>, <volume>24</volume>(<issue>9</issue>), <fpage>818</fpage>&#x02013;<lpage>825</lpage>. <pub-id pub-id-type="doi">10.1093/glycob/cwu067</pub-id>
+<pub-id pub-id-type="pmid">24996821</pub-id></mixed-citation></ref><ref id="eva12744-bib-0012"><mixed-citation publication-type="journal" id="eva12744-cit-0012">
+<string-name>
+<surname>Criss</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seifert</surname>, <given-names>H. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>A bacterial siren song: Intimate interactions between Neisseria and neutrophils</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>10</volume>(<issue>3</issue>), <fpage>178</fpage>&#x02013;<lpage>190</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro2713</pub-id>
+<pub-id pub-id-type="pmid">22290508</pub-id></mixed-citation></ref><ref id="eva12744-bib-0013"><mixed-citation publication-type="journal" id="eva12744-cit-0013">
+<string-name>
+<surname>Crocker</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Paulson</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Siglecs and their roles in the immune system</article-title>. <source xml:lang="en">Nature Reviews Immunology</source>, <volume>7</volume>(<issue>4</issue>), <fpage>255</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.1038/nri2056</pub-id>
+</mixed-citation></ref><ref id="eva12744-bib-0014"><mixed-citation publication-type="journal" id="eva12744-cit-0014">
+<string-name>
+<surname>Deng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Host adaptation of a bacterial toxin from the human pathogen Salmonella Typhi</article-title>. <source xml:lang="en">Cell</source>, <volume>159</volume>(<issue>6</issue>), <fpage>1290</fpage>&#x02013;<lpage>1299</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2014.10.057</pub-id>
+<pub-id pub-id-type="pmid">25480294</pub-id></mixed-citation></ref><ref id="eva12744-bib-0015"><mixed-citation publication-type="journal" id="eva12744-cit-0015">
+<string-name>
+<surname>Edwards</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Apicella</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>The molecular mechanisms used by Neisseria gonorrhoeae to initiate infection differ between men and women</article-title>. <source xml:lang="en">Clinical Microbiology Reviews</source>, <volume>17</volume>(<issue>4</issue>), <fpage>965</fpage>&#x02013;<lpage>981</lpage>. <pub-id pub-id-type="doi">10.1128/CMR.17.4.965-981.2004</pub-id>
+<pub-id pub-id-type="pmid">15489357</pub-id></mixed-citation></ref><ref id="eva12744-bib-0016"><mixed-citation publication-type="journal" id="eva12744-cit-0016">
+<string-name>
+<surname>Elkins</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carbonetti</surname>, <given-names>N. H.</given-names>
+</string-name>, <string-name>
+<surname>Varela</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<surname>Stirewalt</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Klapper</surname>, <given-names>D. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sparling</surname>, <given-names>P. F.</given-names>
+</string-name> (<year>1992</year>). <article-title>Antibodies to N&#x02010;terminal peptides of gonococcal porin are bactericidal when gonococcal lipopolysaccharide is not sialylated</article-title>. <source xml:lang="en">Molecular Microbiology</source>, <volume>6</volume>(<issue>18</issue>), <fpage>2617</fpage>&#x02013;<lpage>2628</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2958.1992.tb01439.x</pub-id>
+<pub-id pub-id-type="pmid">1280317</pub-id></mixed-citation></ref><ref id="eva12744-bib-0017"><mixed-citation publication-type="journal" id="eva12744-cit-0017">
+<string-name>
+<surname>Erwin</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Haynes</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gotschlich</surname>, <given-names>E. C.</given-names>
+</string-name> (<year>1996</year>). <article-title>Conservation of the lipooligosaccharide synthesis locus lgt among strains of <italic>Neisseria gonorrhoeae</italic>: Requirement for lgtE in synthesis of the 2C7 epitope and of the beta chain of strain 15253</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>184</volume>(<issue>4</issue>), <fpage>1233</fpage>&#x02013;<lpage>1241</lpage>. <pub-id pub-id-type="doi">10.1084/jem.184.4.1233</pub-id>
+<pub-id pub-id-type="pmid">8879194</pub-id></mixed-citation></ref><ref id="eva12744-bib-0018"><mixed-citation publication-type="journal" id="eva12744-cit-0018">
+<string-name>
+<surname>Fichorova</surname>, <given-names>R. N.</given-names>
+</string-name>, <string-name>
+<surname>Desai</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>F. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Genco</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Distinct proinflammatory host responses to Neisseria gonorrhoeae infection in immortalized human cervical and vaginal epithelial cells</article-title>. <source xml:lang="en">Infection and Immunity</source>, <volume>69</volume>(<issue>9</issue>), <fpage>5840</fpage>&#x02013;<lpage>5848</lpage>. <pub-id pub-id-type="doi">10.1128/IAI.69.9.5840-5848.2001</pub-id>
+<pub-id pub-id-type="pmid">11500462</pub-id></mixed-citation></ref><ref id="eva12744-bib-0019"><mixed-citation publication-type="journal" id="eva12744-cit-0019">
+<string-name>
+<surname>Fong</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Sreedhara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Angata</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Q.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Immunomodulatory activity of extracellular Hsp70 mediated via paired receptors Siglec&#x02010;5 and Siglec&#x02010;14</article-title>. <source xml:lang="en">EMBO Journal</source>, <volume>34</volume>(<issue>22</issue>), <fpage>2775</fpage>&#x02013;<lpage>2788</lpage>.<pub-id pub-id-type="pmid">26459514</pub-id></mixed-citation></ref><ref id="eva12744-bib-0020"><mixed-citation publication-type="journal" id="eva12744-cit-0020">
+<string-name>
+<surname>Gradison</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Pelvic inflammatory disease</article-title>. <source xml:lang="en">American Family Physician</source>, <volume>85</volume>(<issue>8</issue>), <fpage>791</fpage>&#x02013;<lpage>796</lpage>.<pub-id pub-id-type="pmid">22534388</pub-id></mixed-citation></ref><ref id="eva12744-bib-0021"><mixed-citation publication-type="journal" id="eva12744-cit-0021">
+<string-name>
+<surname>Gray&#x02010;Owen</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schryvers</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>1993</year>). <article-title>The interaction of primate transferrins with receptors on bacteria pathogenic to humans</article-title>. <source xml:lang="en">Microbial Pathogenesis</source>, <volume>14</volume>(<issue>5</issue>), <fpage>389</fpage>&#x02013;<lpage>398</lpage>. <pub-id pub-id-type="doi">10.1006/mpat.1993.1038</pub-id>
+<pub-id pub-id-type="pmid">8366816</pub-id></mixed-citation></ref><ref id="eva12744-bib-0022"><mixed-citation publication-type="journal" id="eva12744-cit-0022">
+<string-name>
+<surname>Gulati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schoenhofen</surname>, <given-names>I. C.</given-names>
+</string-name>, <string-name>
+<surname>Whitfield</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>St Michael</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Utilizing CMP&#x02010;sialic acid analogs to unravel <italic>Neisseria gonorrhoeae</italic> lipooligosaccharide&#x02010;mediated complement resistance and design novel therapeutics</article-title>. <source xml:lang="en">PLoS Path</source>, <volume>11</volume>(<issue>12</issue>), <fpage>e1005290</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.ppat.1005290</pub-id>
+</mixed-citation></ref><ref id="eva12744-bib-0023"><mixed-citation publication-type="journal" id="eva12744-cit-0023">
+<string-name>
+<surname>Harvey</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<surname>Jennings</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Apicella</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Receptor&#x02010;mediated endocytosis of Neisseria gonorrhoeae into primary human urethral epithelial cells: The role of the asialoglycoprotein receptor</article-title>. <source xml:lang="en">Molecular Microbiology</source>, <volume>42</volume>(<issue>3</issue>), <fpage>659</fpage>&#x02013;<lpage>672</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2958.2001.02666.x</pub-id>
+<pub-id pub-id-type="pmid">11722733</pub-id></mixed-citation></ref><ref id="eva12744-bib-0024"><mixed-citation publication-type="journal" id="eva12744-cit-0024">
+<string-name>
+<surname>Hazel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ponnaluri&#x02010;Wears</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Low</surname>, <given-names>B. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foxman</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>). <article-title>High prevalence of <italic>Neisseria gonorrhoeae</italic> in a remote, undertreated population of Namibian pastoralists</article-title>. <source xml:lang="en">Epidemiology and Infection</source>, <volume>142</volume>(<issue>11</issue>), <fpage>2422</fpage>&#x02013;<lpage>2432</lpage>. <pub-id pub-id-type="doi">10.1017/S0950268813003488</pub-id>
+<pub-id pub-id-type="pmid">25267407</pub-id></mixed-citation></ref><ref id="eva12744-bib-0025"><mixed-citation publication-type="journal" id="eva12744-cit-0025">
+<string-name>
+<surname>Hentrich</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f6;fling</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pathak</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nizet</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Henriques&#x02010;Normark</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>). <article-title>
+<italic>Streptococcus pneumoniae</italic> senses a human&#x02010;like sialic acid profile via the response regulator CiaR</article-title>. <source xml:lang="en">Cell Host &#x00026; Microbe</source>, <volume>20</volume>(<issue>3</issue>), <fpage>307</fpage>&#x02013;<lpage>317</lpage>. <pub-id pub-id-type="doi">10.1016/j.chom.2016.07.019</pub-id>
+<pub-id pub-id-type="pmid">27593514</pub-id></mixed-citation></ref><ref id="eva12744-bib-0026"><mixed-citation publication-type="journal" id="eva12744-cit-0026">
+<string-name>
+<surname>Jones</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Virji</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Crocker</surname>, <given-names>P. R.</given-names>
+</string-name> (<year>2003</year>). <article-title>Recognition of sialylated meningococcal lipopolysaccharide by siglecs expressed on myeloid cells leads to enhanced bacterial uptake</article-title>. <source xml:lang="en">Molecular Microbiology</source>, <volume>49</volume>(<issue>5</issue>), <fpage>1213</fpage>&#x02013;<lpage>1225</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2958.2003.03634.x</pub-id>
+<pub-id pub-id-type="pmid">12940982</pub-id></mixed-citation></ref><ref id="eva12744-bib-0027"><mixed-citation publication-type="journal" id="eva12744-cit-0027">
+<string-name>
+<surname>Kellogg</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Peacock</surname>, <given-names>W. L.</given-names>
+</string-name>, <string-name>
+<surname>Deacon</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pirkel</surname>, <given-names>D. I.</given-names>
+</string-name> (<year>1963</year>). <article-title>
+<italic>Neisseria gonorrhoeae</italic>. I. Virulence genetically linked to clonal variation</article-title>. <source xml:lang="en">Journal of Bacteriology</source>, <volume>85</volume>, <fpage>1274</fpage>&#x02013;<lpage>1279</lpage>.<pub-id pub-id-type="pmid">14047217</pub-id></mixed-citation></ref><ref id="eva12744-bib-0028"><mixed-citation publication-type="journal" id="eva12744-cit-0028">
+<string-name>
+<surname>Ketterer</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kiel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Byerly</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fortenberry</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Apicella</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Desialylation of <italic>Neisseria gonorrhoeae</italic> lipooligosaccharide by cervicovaginal microbiome sialidases: The potential for enhancing infectivity in men</article-title>. <source xml:lang="en">Journal of Infectious Diseases</source>, <volume>214</volume>, <fpage>1621</fpage>&#x02013;<lpage>1628</lpage>.<pub-id pub-id-type="pmid">27471322</pub-id></mixed-citation></ref><ref id="eva12744-bib-0029"><mixed-citation publication-type="journal" id="eva12744-cit-0029">
+<string-name>
+<surname>Kraus</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>W. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Arko</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>1975</year>). <article-title>Acquired and natural immunity to gonococcal infection in chimpanzees</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>55</volume>(<issue>6</issue>), <fpage>1349</fpage>&#x02013;<lpage>1356</lpage>. <pub-id pub-id-type="doi">10.1172/JCI108054</pub-id>
+<pub-id pub-id-type="pmid">805797</pub-id></mixed-citation></ref><ref id="eva12744-bib-0030"><mixed-citation publication-type="journal" id="eva12744-cit-0030">
+<string-name>
+<surname>Lanier</surname>, <given-names>L. L.</given-names>
+</string-name> (<year>2009</year>). <article-title>DAP10&#x02010; and DAP12&#x02010;associated receptors in innate immunity</article-title>. <source xml:lang="en">Immunological Reviews</source>, <volume>227</volume>(<issue>1</issue>), <fpage>150</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-065X.2008.00720.x</pub-id>
+<pub-id pub-id-type="pmid">19120482</pub-id></mixed-citation></ref><ref id="eva12744-bib-0031"><mixed-citation publication-type="journal" id="eva12744-cit-0031">
+<string-name>
+<surname>Lucas</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Chandler</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schmale</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>1971</year>). <article-title>Transfer of gonococcal urethritis from man to chimpanzee. An animal model for gonorrhea</article-title>. <source xml:lang="en">JAMA</source>, <volume>216</volume>(<issue>10</issue>), <fpage>1612</fpage>&#x02013;<lpage>1614</lpage>. <pub-id pub-id-type="doi">10.1001/jama.1971.03180360058007</pub-id>
+<pub-id pub-id-type="pmid">4996119</pub-id></mixed-citation></ref><ref id="eva12744-bib-0032"><mixed-citation publication-type="journal" id="eva12744-cit-0032">
+<string-name>
+<surname>Malik</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Parikh</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Wilfred</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Fardo</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>, <given-names>P. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Estus</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>CD33 Alzheimer&#x02019;s risk&#x02010;altering polymorphism, CD33 expression, and exon 2 splicing</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>33</volume>(<issue>33</issue>), <fpage>13320</fpage>&#x02013;<lpage>13325</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1224-13.2013</pub-id>
+<pub-id pub-id-type="pmid">23946390</pub-id></mixed-citation></ref><ref id="eva12744-bib-0033"><mixed-citation publication-type="journal" id="eva12744-cit-0033">
+<string-name>
+<surname>Mandrell</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Griffiss</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cole</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1993</year>). <article-title>Distribution of a lipooligosaccharide&#x02010;specific sialyltransferase in pathogenic and non&#x02010;pathogenic Neisseria</article-title>. <source xml:lang="en">Microbial Pathogenesis</source>, <volume>14</volume>(<issue>4</issue>), <fpage>315</fpage>&#x02013;<lpage>327</lpage>. <pub-id pub-id-type="doi">10.1006/mpat.1993.1031</pub-id>
+<pub-id pub-id-type="pmid">8326855</pub-id></mixed-citation></ref><ref id="eva12744-bib-0034"><mixed-citation publication-type="journal" id="eva12744-cit-0034">
+<string-name>
+<surname>Mandrell</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jarvis</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>McLeod</surname>, <given-names>G. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cole</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1993</year>). <article-title>Detection and some properties of the sialyltransferase implicated in the sialylation of lipopolysaccharide of <italic>Neisseria gonorrhoeae</italic>
+</article-title>. <source xml:lang="en">Microbial Pathogenesis</source>, <volume>14</volume>, <fpage>307</fpage>&#x02013;<lpage>313</lpage>. <pub-id pub-id-type="doi">10.1006/mpat.1993.1030</pub-id>
+<pub-id pub-id-type="pmid">8326854</pub-id></mixed-citation></ref><ref id="eva12744-bib-0035"><mixed-citation publication-type="journal" id="eva12744-cit-0035">
+<string-name>
+<surname>Martin</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Rayner</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Gagneux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Barnwell</surname>, <given-names>J. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Evolution of human&#x02010;chimpanzee differences in malaria susceptibility: Relationship to human genetic loss of N&#x02010;glycolylneuraminic acid</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>102</volume>(<issue>36</issue>), <fpage>12819</fpage>&#x02013;<lpage>12824</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0503819102</pub-id>
+<pub-id pub-id-type="pmid">16126901</pub-id></mixed-citation></ref><ref id="eva12744-bib-0036"><mixed-citation publication-type="journal" id="eva12744-cit-0036">
+<string-name>
+<surname>Massari</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>MacLeod</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wetzler</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Improved purification of native meningococcal porin PorB and studies on its structure/function</article-title>. <source xml:lang="en">Protein Expression and Purification</source>, <volume>44</volume>(<issue>2</issue>), <fpage>136</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1016/j.pep.2005.04.021</pub-id>
+<pub-id pub-id-type="pmid">16027004</pub-id></mixed-citation></ref><ref id="eva12744-bib-0037"><mixed-citation publication-type="journal" id="eva12744-cit-0037">
+<string-name>
+<surname>Nairn</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>P. V.</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>H.</given-names>
+</string-name> (<year>1988</year>). <article-title>Cytidine 5&#x02032;&#x02010;monophospho&#x02010;N&#x02010;acetylneuraminic acid or a related compound is the low Mr factor from human red blood cells which induces gonococcal resistance to killing by human serum</article-title>. <source xml:lang="en">Journal of General Microbiology</source>, <volume>134</volume>(<issue>12</issue>), <fpage>3295</fpage>&#x02013;<lpage>3306</lpage>. <pub-id pub-id-type="doi">10.1099/00221287-134-12-3295</pub-id>
+<pub-id pub-id-type="pmid">3151997</pub-id></mixed-citation></ref><ref id="eva12744-bib-0038"><mixed-citation publication-type="journal" id="eva12744-cit-0038">
+<string-name>
+<surname>Newman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rowley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vander Hoorn</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wijesooriya</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Unemo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Low</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Temmerman</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Global estimates of the prevalence and incidence of four curable sexually transmitted infections in 2012 based on systematic review and global reporting</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>(<issue>12</issue>). <pub-id pub-id-type="doi">10.1371/journal.pone.0143304</pub-id>
+</mixed-citation></ref><ref id="eva12744-bib-0039"><mixed-citation publication-type="journal" id="eva12744-cit-0039">
+<string-name>
+<surname>Ngampasutadol</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Jarva</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jerse</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Lien</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Human C4b&#x02010;binding protein selectively interacts with <italic>Neisseria gonorrhoeae</italic> and results in species&#x02010;specific infection</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>102</volume>(<issue>47</issue>), <fpage>17142</fpage>&#x02013;<lpage>17147</lpage>.<pub-id pub-id-type="pmid">16275906</pub-id></mixed-citation></ref><ref id="eva12744-bib-0040"><mixed-citation publication-type="journal" id="eva12744-cit-0040">
+<string-name>
+<surname>Ngampasutadol</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Agarwal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Visintin</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Human factor H interacts selectively with <italic>Neisseria gonorrhoeae</italic> and results in species&#x02010;specific complement evasion</article-title>. <source xml:lang="en">The Journal of Immunology</source>, <volume>180</volume>(<issue>5</issue>), <fpage>3426</fpage>&#x02013;<lpage>3435</lpage>. <pub-id pub-id-type="doi">10.4049/jimmunol.180.5.3426</pub-id>
+<pub-id pub-id-type="pmid">18292569</pub-id></mixed-citation></ref><ref id="eva12744-bib-0041"><mixed-citation publication-type="journal" id="eva12744-cit-0041">
+<string-name>
+<surname>O&#x02019;Brien</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Goldenberg</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>1983</year>). <article-title>Disseminated gonococcal infection: A prospective analysis of 49 patients and a review of pathophysiology and immune mechanisms</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>, <volume>62</volume>(<issue>6</issue>), <fpage>395</fpage>&#x02013;<lpage>406</lpage>. <pub-id pub-id-type="doi">10.1097/00005792-198311000-00005</pub-id>
+<pub-id pub-id-type="pmid">6415361</pub-id></mixed-citation></ref><ref id="eva12744-bib-0042"><mixed-citation publication-type="journal" id="eva12744-cit-0042">
+<string-name>
+<surname>Padler&#x02010;Karavani</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hurtado&#x02010;Ziola</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>Y. C.</given-names>
+</string-name>, <string-name>
+<surname>Sonnenburg</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Ronaghy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Angata</surname>, <given-names>T.</given-names>
+</string-name> (<year>2014</year>). <article-title>Rapid evolution of binding specificities and expression patterns of inhibitory CD33&#x02010;related Siglecs in primates</article-title>. <source xml:lang="en">The FASEB Journal</source>, <volume>28</volume>(<issue>3</issue>), <fpage>1280</fpage>&#x02013;<lpage>1293</lpage>. <pub-id pub-id-type="doi">10.1096/fj.13-241497</pub-id>
+<pub-id pub-id-type="pmid">24308974</pub-id></mixed-citation></ref><ref id="eva12744-bib-0043"><mixed-citation publication-type="journal" id="eva12744-cit-0043">
+<string-name>
+<surname>Patrone</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stein</surname>, <given-names>D. C.</given-names>
+</string-name> (<year>2007</year>). <article-title>Effect of gonococcal lipooligosaccharide variation on human monocytic cytokine profile</article-title>. <source xml:lang="en">BMC Microbiology</source>, <volume>7</volume>, <fpage>7</fpage>.<pub-id pub-id-type="pmid">17257430</pub-id></mixed-citation></ref><ref id="eva12744-bib-0044"><mixed-citation publication-type="journal" id="eva12744-cit-0044">
+<string-name>
+<surname>Pillai</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Netravali</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>Cariappa</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mattoo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>). <article-title>Siglecs and immune regulation</article-title>. <source xml:lang="en">Annual Review of Immunology</source>, <volume>30</volume>, <fpage>357</fpage>&#x02013;<lpage>392</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-immunol-020711-075018</pub-id>
+</mixed-citation></ref><ref id="eva12744-bib-0045"><mixed-citation publication-type="journal" id="eva12744-cit-0045">
+<string-name>
+<surname>Pils</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gerrard</surname>, <given-names>D. T.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hauck</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2008</year>). <article-title>CEACAM3: An innate immune receptor directed against human&#x02010;restricted bacterial pathogens</article-title>. <source xml:lang="en">International Journal of Medical Microbiology</source>, <volume>298</volume>(<issue>7&#x02013;8</issue>), <fpage>553</fpage>&#x02013;<lpage>560</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijmm.2008.04.005</pub-id>
+<pub-id pub-id-type="pmid">18606569</pub-id></mixed-citation></ref><ref id="eva12744-bib-0046"><mixed-citation publication-type="journal" id="eva12744-cit-0046">
+<string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Chakraborti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>DeOliveira</surname>, <given-names>R. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>A novel sialylation site on Neisseria gonorrhoeae lipooligosaccharide links heptose II lactose expression with pathogenicity</article-title>. <source xml:lang="en">Infection and Immunity</source>, <volume>86</volume>(<issue>8</issue>).</mixed-citation></ref><ref id="eva12744-bib-0047"><mixed-citation publication-type="journal" id="eva12744-cit-0047">
+<string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McQuillen</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Pangburn</surname>, <given-names>M. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>1998</year>). <article-title>A novel sialic acid binding site on factor H mediates serum resistance of sialylated <italic>Neisseria gonorrhoeae</italic>
+</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>187</volume>(<issue>5</issue>), <fpage>743</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">9480984</pub-id></mixed-citation></ref><ref id="eva12744-bib-0048"><mixed-citation publication-type="journal" id="eva12744-cit-0048">
+<string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mackinnon</surname>, <given-names>F. G.</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McQuillen</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Vogel</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Frosch</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>1999</year>). <article-title>The contrasting mechanisms of serum resistance of <italic>Neisseria gonorrhoeae</italic> and group B <italic>Neisseria meningitidis</italic>
+</article-title>. <source xml:lang="en">Molecular Immunology</source>, <volume>36</volume>(<issue>13&#x02013;14</issue>), <fpage>915</fpage>&#x02013;<lpage>928</lpage>. <pub-id pub-id-type="doi">10.1016/S0161-5890(99)00114-5</pub-id>
+<pub-id pub-id-type="pmid">10698346</pub-id></mixed-citation></ref><ref id="eva12744-bib-0049"><mixed-citation publication-type="journal" id="eva12744-cit-0049">
+<string-name>
+<surname>Ram</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ngampasutadol</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>St Michael</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rice</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Heptose I glycan substitutions on <italic>Neisseria gonorrhoeae</italic> lipooligosaccharide influence C4b&#x02010;binding protein binding and serum resistance</article-title>. <source xml:lang="en">Infection and Immunity</source>, <volume>75</volume>(<issue>8</issue>), <fpage>4071</fpage>&#x02013;<lpage>4081</lpage>. <pub-id pub-id-type="doi">10.1128/IAI.01109-06</pub-id>
+<pub-id pub-id-type="pmid">17526744</pub-id></mixed-citation></ref><ref id="eva12744-bib-0050"><mixed-citation publication-type="journal" id="eva12744-cit-0050">
+<string-name>
+<surname>Ramsey</surname>, <given-names>K. H.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cross</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Boslego</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Hoover</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Staley</surname>, <given-names>T. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Deal</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>1995</year>). <article-title>Inflammatory cytokines produced in response to experimental human gonorrhea</article-title>. <source xml:lang="en">Journal of Infectious Diseases</source>, <volume>172</volume>(<issue>1</issue>), <fpage>186</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/172.1.186</pub-id>
+<pub-id pub-id-type="pmid">7797909</pub-id></mixed-citation></ref><ref id="eva12744-bib-0051"><mixed-citation publication-type="journal" id="eva12744-cit-0051">
+<string-name>
+<surname>Reekie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Donovan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Guy</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hocking</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Kaldor</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Mak</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Chlamydia</surname>, <given-names>A. R. H. O. I.</given-names>
+</string-name> (<year>2017</year>). <article-title>Risk of pelvic inflammatory disease in relation to Chlamydia and gonorrhea testing, Repeat Testing, and Positivity: A Population&#x02010;Based Cohort Study</article-title>. <source xml:lang="en">Clinical Infectious Diseases</source>.</mixed-citation></ref><ref id="eva12744-bib-0052"><mixed-citation publication-type="journal" id="eva12744-cit-0052">
+<string-name>
+<surname>Sadarangani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pollard</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gray&#x02010;Owen</surname>, <given-names>S. D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Opa proteins and CEACAMs: Pathways of immune engagement for pathogenic Neisseria</article-title>. <source xml:lang="en">FEMS Microbiology Reviews</source>, <volume>35</volume>(<issue>3</issue>), <fpage>498</fpage>&#x02013;<lpage>514</lpage>.<pub-id pub-id-type="pmid">21204865</pub-id></mixed-citation></ref><ref id="eva12744-bib-0053"><mixed-citation publication-type="journal" id="eva12744-cit-0053">
+<string-name>
+<surname>Schwarz</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fong</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Human&#x02010;specific evolutionary changes in the biology of siglecs</article-title>. <source xml:lang="en">Advances in Experimental Medicine and Biology</source>, <volume>842</volume>, <fpage>1</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="eva12744-bib-0054"><mixed-citation publication-type="journal" id="eva12744-cit-0054">
+<string-name>
+<surname>Schwarz</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Springer</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Altheide</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Gagneux</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Human&#x02010;specific derived alleles of CD33 and other genes protect against postreproductive cognitive decline</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>113</volume>(<issue>1</issue>), <fpage>74</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">26621708</pub-id></mixed-citation></ref><ref id="eva12744-bib-0055"><mixed-citation publication-type="journal" id="eva12744-cit-0055">
+<string-name>
+<surname>Schwarz</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Landig</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Siddiqui</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Secundino</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Olson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Varki</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Paired Siglec receptors generate opposite inflammatory responses to a human&#x02010;specific pathogen</article-title>. <source xml:lang="en">EMBO Journal</source>, <volume>36</volume>(<issue>6</issue>), <fpage>751</fpage>&#x02013;<lpage>760</lpage>. <pub-id pub-id-type="doi">10.15252/embj.201695581</pub-id>
+<pub-id pub-id-type="pmid">28100677</pub-id></mixed-citation></ref><ref id="eva12744-bib-0056"><mixed-citation publication-type="journal" id="eva12744-cit-0056">
+<string-name>
+<surname>Shell</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Chiles</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Judd</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Seal</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rest</surname>, <given-names>R. F.</given-names>
+</string-name> (<year>2002</year>). <article-title>The Neisseria lipooligosaccharide&#x02010;specific alpha&#x02010;2,3&#x02010;sialyltransferase is a surface&#x02010;exposed outer membrane protein</article-title>. <source xml:lang="en">Infection and Immunity</source>, <volume>70</volume>(<issue>7</issue>), <fpage>3744</fpage>&#x02013;<lpage>3751</lpage>.<pub-id pub-id-type="pmid">12065517</pub-id></mixed-citation></ref><ref id="eva12744-bib-0057"><mixed-citation publication-type="journal" id="eva12744-cit-0057">
+<string-name>
+<surname>Sintsova</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>MacDonald</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Kaul</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Virji</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gray&#x02010;Owen</surname>, <given-names>S. D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Selection for a CEACAM receptor&#x02010;specific binding phenotype during <italic>Neisseria gonorrhoeae</italic> infection of the human genital tract</article-title>. <source xml:lang="en">Infection and Immunity</source>, <volume>83</volume>(<issue>4</issue>), <fpage>1372</fpage>&#x02013;<lpage>1383</lpage>. <pub-id pub-id-type="doi">10.1128/IAI.03123-14</pub-id>
+<pub-id pub-id-type="pmid">25605771</pub-id></mixed-citation></ref><ref id="eva12744-bib-0058"><mixed-citation publication-type="journal" id="eva12744-cit-0058">
+<string-name>
+<surname>Steentoft</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vakhrushev</surname>, <given-names>S. Y.</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Vester&#x02010;Christensen</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Schjoldager</surname>, <given-names>K. T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Clausen</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>). <article-title>Precision mapping of the human O&#x02010;GalNAc glycoproteome through SimpleCell technology</article-title>. <source xml:lang="en">EMBO Journal</source>, <volume>32</volume>(<issue>10</issue>), <fpage>1478</fpage>&#x02013;<lpage>1488</lpage>. <pub-id pub-id-type="doi">10.1038/emboj.2013.79</pub-id>
+<pub-id pub-id-type="pmid">23584533</pub-id></mixed-citation></ref><ref id="eva12744-bib-0059"><mixed-citation publication-type="journal" id="eva12744-cit-0059">
+<string-name>
+<surname>Tourdot</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name>
+<surname>Brenner</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name>
+<surname>Keough</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Holyst</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Newman</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Newman</surname>, <given-names>D. K.</given-names>
+</string-name> (<year>2013</year>). <article-title>Immunoreceptor tyrosine&#x02010;based inhibitory motif (ITIM)&#x02010;mediated inhibitory signaling is regulated by sequential phosphorylation mediated by distinct nonreceptor tyrosine kinases: A case study involving PECAM&#x02010;1</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>52</volume>(<issue>15</issue>), <fpage>2597</fpage>&#x02013;<lpage>2608</lpage>. <pub-id pub-id-type="doi">10.1021/bi301461t</pub-id>
+<pub-id pub-id-type="pmid">23418871</pub-id></mixed-citation></ref><ref id="eva12744-bib-0060"><mixed-citation publication-type="journal" id="eva12744-cit-0060">
+<string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Since there are PAMPs and DAMPs, there must be SAMPs? Glycan &#x0201c;self&#x02010;associated molecular patterns&#x0201d; dampen innate immunity, but pathogens can mimic them</article-title>. <source xml:lang="en">Glycobiology</source>, <volume>21</volume>(<issue>9</issue>), <fpage>1121</fpage>&#x02013;<lpage>1124</lpage>.<pub-id pub-id-type="pmid">21932452</pub-id></mixed-citation></ref><ref id="eva12744-bib-0061"><mixed-citation publication-type="journal" id="eva12744-cit-0061">
+<string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gagneux</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>). <article-title>Multifarious roles of sialic acids in immunity</article-title>. <source xml:lang="en">Annals of the New York Academy of Sciences</source>, <volume>1253</volume>, <fpage>16</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1111/j.1749-6632.2012.06517.x</pub-id>
+<pub-id pub-id-type="pmid">22524423</pub-id></mixed-citation></ref><ref id="eva12744-bib-0062"><mixed-citation publication-type="journal" id="eva12744-cit-0062">
+<string-name>
+<surname>Vimr</surname>, <given-names>E. R.</given-names>
+</string-name>, <string-name>
+<surname>Kalivoda</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Deszo</surname>, <given-names>E. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Steenbergen</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2004</year>). <article-title>Diversity of microbial sialic acid metabolism</article-title>. <source xml:lang="en">Microbiology and Molecular Biology Reviews</source>, <volume>68</volume>(<issue>1</issue>), <fpage>132</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1128/MMBR.68.1.132-153.2004</pub-id>
+<pub-id pub-id-type="pmid">15007099</pub-id></mixed-citation></ref><ref id="eva12744-bib-0063"><mixed-citation publication-type="journal" id="eva12744-cit-0063">
+<string-name>
+<surname>Virji</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Pathogenic neisseriae: Surface modulation, pathogenesis and infection control</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>7</volume>(<issue>4</issue>), <fpage>274</fpage>&#x02013;<lpage>286</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro2097</pub-id>
+<pub-id pub-id-type="pmid">19287450</pub-id></mixed-citation></ref><ref id="eva12744-bib-0064"><mixed-citation publication-type="journal" id="eva12744-cit-0064">
+<string-name>
+<surname>Voges</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bachmann</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kammerer</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gophna</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hauck</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2010</year>). <article-title>CEACAM1 recognition by bacterial pathogens is species&#x02010;specific</article-title>. <source xml:lang="en">BMC Microbiology</source>, <volume>10</volume>, <fpage>117</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2180-10-117</pub-id>
+<pub-id pub-id-type="pmid">20406467</pub-id></mixed-citation></ref><ref id="eva12744-bib-0065"><mixed-citation publication-type="journal" id="eva12744-cit-0065">
+<string-name>
+<surname>von Gunten</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bochner</surname>, <given-names>B. S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Basic and clinical immunology of Siglecs</article-title>. <source xml:lang="en">Annals of the New York Academy of Sciences</source>, <volume>1143</volume>, <fpage>61</fpage>&#x02013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1196/annals.1443.011</pub-id>
+<pub-id pub-id-type="pmid">19076345</pub-id></mixed-citation></ref><ref id="eva12744-bib-0066"><mixed-citation publication-type="journal" id="eva12744-cit-0066">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Mitra</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cruz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>L.</given-names>
+</string-name>, <collab collab-type="authors">NISC, C. S. P.</collab>
+, <string-name>
+<surname>Varki</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Evolution of siglec&#x02010;11 and siglec&#x02010;16 genes in hominins</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>29</volume>(<issue>8</issue>), <fpage>2073</fpage>&#x02013;<lpage>2086</lpage>.<pub-id pub-id-type="pmid">22383531</pub-id></mixed-citation></ref><ref id="eva12744-bib-0067"><mixed-citation publication-type="journal" id="eva12744-cit-0067">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Weidner</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Godwin</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>N.</given-names>
+</string-name> (<year>2011</year>). <article-title>Expression of Siglec&#x02010;11 by human and chimpanzee ovarian stromal cells, with uniquely human ligands: Implications for human ovarian physiology and pathology</article-title>. <source xml:lang="en">Glycobiology</source>, <volume>21</volume>(<issue>8</issue>), <fpage>1038</fpage>&#x02013;<lpage>1048</lpage>. <pub-id pub-id-type="doi">10.1093/glycob/cwr039</pub-id>
+<pub-id pub-id-type="pmid">21467073</pub-id></mixed-citation></ref><ref id="eva12744-bib-0068"><mixed-citation publication-type="journal" id="eva12744-cit-0068">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Mitra</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Secundino</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Banda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cruz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Padler&#x02010;Karavani</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Varki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Specific inactivation of two immunomodulatory SIGLEC genes during human evolution</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>109</volume>(<issue>25</issue>), <fpage>9935</fpage>&#x02013;<lpage>9940</lpage>.<pub-id pub-id-type="pmid">22665810</pub-id></mixed-citation></ref><ref id="eva12744-bib-0069"><mixed-citation publication-type="journal" id="eva12744-cit-0069">
+<string-name>
+<surname>Yamanaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Angata</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Narimatsu</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>). <article-title>Deletion polymorphism of SIGLEC14 and its functional implications</article-title>. <source xml:lang="en">Glycobiology</source>, <volume>19</volume>(<issue>8</issue>), <fpage>841</fpage>&#x02013;<lpage>846</lpage>. <pub-id pub-id-type="doi">10.1093/glycob/cwp052</pub-id>
+<pub-id pub-id-type="pmid">19369701</pub-id></mixed-citation></ref><ref id="eva12744-bib-0070"><mixed-citation publication-type="journal" id="eva12744-cit-0070">
+<string-name>
+<surname>Yamasaki</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nasholds</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Apicella</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>1991</year>). <article-title>Epitope expression and partial structural characterization of F62 lipooligosaccharide (LOS) of <italic>Neisseria gonorrhoeae</italic>: IgM monoclonal antibodies (3F11 and 1&#x02010;1&#x02010;M) recognize non&#x02010;reducing termini of the LOS components</article-title>. <source xml:lang="en">Molecular Immunology</source>, <volume>28</volume>(<issue>11</issue>), <fpage>1233</fpage>&#x02013;<lpage>1242</lpage>. <pub-id pub-id-type="doi">10.1016/0161-5890(91)90010-H</pub-id>
+<pub-id pub-id-type="pmid">1720505</pub-id></mixed-citation></ref></ref-list></back></article>

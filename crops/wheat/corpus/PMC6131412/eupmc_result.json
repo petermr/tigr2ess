@@ -1,0 +1,551 @@
+{
+  "id": [
+    "29510004"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29510004"
+  ],
+  "pmcid": [
+    "PMC6131412"
+  ],
+  "doi": [
+    "10.1111/pbi.12913"
+  ],
+  "title": [
+    "Transcriptome reprogramming due to the introduction of a barley telosome into bread wheat affects more barley genes than wheat."
+  ],
+  "authorString": [
+    "Rey E, Abrouk M, Keeble-Gagnère G, Karafiátová M, Vrána J, Balzergue S, Soubigou-Taconnat L, Brunaud V, Martin-Magniette ML, Endo TR, Bartoš J, International Wheat Genome Sequencing Consortium (IWGSC), Appels R, Doležel J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rey E"
+          ],
+          "firstName": [
+            "Elodie"
+          ],
+          "lastName": [
+            "Rey"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Abrouk M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Abrouk"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9082-1432",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Keeble-Gagnère G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Keeble-Gagnère"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Agriculture Research Victoria, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Karafiátová M"
+          ],
+          "firstName": [
+            "Miroslava"
+          ],
+          "lastName": [
+            "Karafiátová"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Vrána J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Vrána"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6171-8516",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Balzergue S"
+          ],
+          "firstName": [
+            "Sandrine"
+          ],
+          "lastName": [
+            "Balzergue"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Plant Sciences Paris Saclay IPS2, CNRS, INRA, Université Paris-Sud, Université Evry, Université Paris-Saclay, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Soubigou-Taconnat L"
+          ],
+          "firstName": [
+            "Ludivine"
+          ],
+          "lastName": [
+            "Soubigou-Taconnat"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Plant Sciences Paris Saclay IPS2, CNRS, INRA, Université Paris-Sud, Université Evry, Université Paris-Saclay, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Brunaud V"
+          ],
+          "firstName": [
+            "Véronique"
+          ],
+          "lastName": [
+            "Brunaud"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Institute of Plant Sciences Paris Saclay IPS2, CNRS, INRA, Université Paris-Sud, Université Evry, Université Paris-Saclay, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin-Magniette ML"
+          ],
+          "firstName": [
+            "Marie-Laure"
+          ],
+          "lastName": [
+            "Martin-Magniette"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Institute of Plant Sciences Paris Saclay IPS2, CNRS, INRA, Université Paris-Sud, Université Evry, Université Paris-Saclay, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Endo TR"
+          ],
+          "firstName": [
+            "Takashi R"
+          ],
+          "lastName": [
+            "Endo"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Department of Plant Life Science, Faculty of Agriculture, Ryukoku University, Shiga, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Bartoš J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Bartoš"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "collectiveName": [
+            "International Wheat Genome Sequencing Consortium (IWGSC)"
+          ]
+        },
+        {
+          "fullName": [
+            "Appels R"
+          ],
+          "firstName": [
+            "Rudi"
+          ],
+          "lastName": [
+            "Appels"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Murdoch University, Perth, WA, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Doležel J"
+          ],
+          "firstName": [
+            "Jaroslav"
+          ],
+          "lastName": [
+            "Doležel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6263-0492",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6171-8516",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6263-0492",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9082-1432",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2726267"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant biotechnology journal"
+          ],
+          "ISOAbbreviation": [
+            "Plant Biotechnol. J."
+          ],
+          "medlineAbbreviation": [
+            "Plant Biotechnol J"
+          ],
+          "NLMid": [
+            "101201889"
+          ],
+          "ISSN": [
+            "1467-7644"
+          ],
+          "ESSN": [
+            "1467-7652"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1767-1777"
+  ],
+  "abstractText": [
+    "Despite a long history, the production of useful alien introgression lines in wheat remains difficult mainly due to linkage drag and incomplete genetic compensation. In addition, little is known about the molecular mechanisms underlying the impact of foreign chromatin on plant phenotype. Here, a comparison of the transcriptomes of barley, wheat and a wheat-barley 7HL addition line allowed the transcriptional impact both on 7HL genes of a non-native genetic background and on the wheat gene complement as a result of the presence of 7HL to be assessed. Some 42% (389/923) of the 7HL genes assayed were differentially transcribed, which was the case for only 3% (960/35 301) of the wheat gene complement. The absence of any transcript in the addition line of a suite of chromosome 7A genes implied the presence of a 36 Mbp deletion at the distal end of the 7AL arm; this deletion was found to be in common across the full set of Chinese Spring/Betzes barley addition lines. The remaining differentially transcribed wheat genes were distributed across the whole genome. The up-regulated barley genes were mostly located in the proximal part of the 7HL arm, while the down-regulated ones were concentrated in the distal part; as a result, genes encoding basal cellular functions tended to be transcribed, while those encoding specific functions were suppressed. An insight has been gained into gene transcription in an alien introgression line, thereby providing a basis for understanding the interactions between wheat and exotic genes in introgression materials."
+  ],
+  "affiliation": [
+    "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Olomouc, Czech Republic."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "LM2010005"
+          ],
+          "agency": [
+            "National Grid Infrastructure MetaCentrum"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P501/12/G090"
+          ],
+          "agency": [
+            "Czech Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "LO1204"
+          ],
+          "agency": [
+            "Ministry of Education, Youth and Sports of the Czech Republic"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene transcription",
+        "Deletion",
+        "Chromosomal rearrangement",
+        "Rna-seq",
+        "Alien Introgression",
+        "Transcriptome Modification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6131412?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6131412"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/pbi.12913"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-03-07"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-13"
+  ],
+  "firstPublicationDate": [
+    "2018-04-13"
+  ]
+}

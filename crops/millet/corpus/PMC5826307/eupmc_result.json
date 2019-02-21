@@ -1,0 +1,295 @@
+{
+  "id": [
+    "29515616"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29515616"
+  ],
+  "pmcid": [
+    "PMC5826307"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.00220"
+  ],
+  "title": [
+    "Recruiting Conventional Tree Architecture Models into State-of-the-Art LiDAR Mapping for Investigating Tree Growth Habits in Structure."
+  ],
+  "authorString": [
+    "Lin Y, Jiang M, Pellikka P, Heiskanen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Beijing Key Lab of Spatial Information Integration and Its Applications, School of Earth and Space Sciences, Institute of Remote Sensing and GIS, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Miao"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Mineral Resources Research, China Metallurgical Geology Bureau, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pellikka P"
+          ],
+          "firstName": [
+            "Petri"
+          ],
+          "lastName": [
+            "Pellikka"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Geosciences and Geography, University of Helsinki, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Heiskanen J"
+          ],
+          "firstName": [
+            "Janne"
+          ],
+          "lastName": [
+            "Heiskanen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Geosciences and Geography, University of Helsinki, Helsinki, Finland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Plant Science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "220"
+  ],
+  "abstractText": [
+    "Mensuration of tree growth habits is of considerable importance for understanding forest ecosystem processes and forest biophysical responses to climate changes. However, the complexity of tree crown morphology that is typically formed after many years of growth tends to render it a non-trivial task, even for the state-of-the-art 3D forest mapping technology-light detection and ranging (LiDAR). Fortunately, botanists have deduced the large structural diversity of tree forms into only a limited number of tree architecture models, which can present a-priori knowledge about tree structure, growth, and other attributes for different species. This study attempted to recruit Hallé architecture models (HAMs) into LiDAR mapping to investigate tree growth habits in structure. First, following the HAM-characterized tree structure organization rules, we run the kernel procedure of tree species classification based on the LiDAR-collected point clouds using a support vector machine classifier in the leave-one-out-for-cross-validation mode. Then, the HAM corresponding to each of the classified tree species was identified based on expert knowledge, assisted by the comparison of the LiDAR-derived feature parameters. Next, the tree growth habits in structure for each of the tree species were derived from the determined HAM. In the case of four tree species growing in the boreal environment, the tests indicated that the classification accuracy reached 85.0%, and their growth habits could be derived by qualitative and quantitative means. Overall, the strategy of recruiting conventional HAMs into LiDAR mapping for investigating tree growth habits in structure was validated, thereby paving a new way for efficiently reflecting tree growth habits and projecting forest structure dynamics."
+  ],
+  "affiliation": [
+    "Beijing Key Lab of Spatial Information Integration and Its Applications, School of Earth and Space Sciences, Institute of Remote Sensing and GIS, Peking University, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Morphological features",
+        "Light Detection And Ranging (Lidar)",
+        "Tree Species Classification",
+        "Hallé Architecture Model (Ham)",
+        "Tree Growth Habits"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5826307?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5826307"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.00220"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-09"
+  ],
+  "dateOfRevision": [
+    "2018-03-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-20"
+  ],
+  "firstPublicationDate": [
+    "2018-02-20"
+  ]
+}

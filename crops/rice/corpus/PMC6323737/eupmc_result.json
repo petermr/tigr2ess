@@ -1,0 +1,399 @@
+{
+  "id": [
+    "30616516"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30616516"
+  ],
+  "pmcid": [
+    "PMC6323737"
+  ],
+  "doi": [
+    "10.1186/s12870-018-1589-6"
+  ],
+  "title": [
+    "Genome-wide dynamic network analysis reveals a critical transition state of flower development in Arabidopsis."
+  ],
+  "authorString": [
+    "Zhang F, Liu X, Zhang A, Jiang Z, Chen L, Zhang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Fuping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Key Laboratory of Plant Germplasm Enhancement and Specially Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaoping"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Systems Biology, Innovation Center for Cell Signaling Network, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang A"
+          ],
+          "firstName": [
+            "Aidi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Key Laboratory of Plant Germplasm Enhancement and Specially Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, 430074, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Z"
+          ],
+          "firstName": [
+            "Zhonglin"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Systems Biology, Innovation Center for Cell Signaling Network, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Luonan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Systems Biology, Innovation Center for Cell Signaling Network, Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China. lnchen@sibs.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiujun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8041-0592",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Plant Germplasm Enhancement and Specially Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, 430074, China. zhangxj@wbgcas.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8041-0592",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2766479"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "11"
+  ],
+  "abstractText": [
+    "BACKGROUND:The flowering transition which is controlled by a complex and intricate gene regulatory network plays an important role in the reproduction for offspring of plants. It is a challenge to identify the critical transition state as well as the genes that control the transition of flower development. With the emergence of massively parallel sequencing, a great number of time-course transcriptome data greatly facilitate the exploration of the developmental phase transition in plants. Although some network-based bioinformatics analyses attempted to identify the genes that control the phase transition, they generally overlooked the dynamics of regulation and resulted in unreliable results. In addition, the results of these methods cannot be self-explained. RESULTS:In this work, to reveal a critical transition state and identify the transition-specific genes of flower development, we implemented a genome-wide dynamic network analysis on temporal gene expression data in Arabidopsis by dynamic network biomarker (DNB) method. In the analysis, DNB model which can exploit collective fluctuations and correlations of different metabolites at a network level was used to detect the imminent critical transition state or the tipping point. The genes that control the phase transition can be identified by the difference of weighted correlations between the genes interested and the other genes in the global network. To construct the gene regulatory network controlling the flowering transition, we applied NARROMI algorithm which can reduce the noisy, redundant and indirect regulations on the expression data of the transition-specific genes. In the results, the critical transition state detected during the formation of flowers corresponded to the development of flowering on the 7th to 9th day in Arabidopsis. Among of 233 genes identified to be highly fluctuated at the transition state, a high percentage of genes with maximum expression in pollen was detected, and 24 genes were validated to participate in stress reaction process, as well as other floral-related pathways. Composed of three major subnetworks, a gene regulatory network with 150 nodes and 225 edges was found to be highly correlated with flowering transition. The gene ontology (GO) annotation of pathway enrichment analysis revealed that the identified genes are enriched in the catalytic activity, metabolic process and cellular process. CONCLUSIONS:This study provides a novel insight to identify the real causality of the phase transition with genome-wide dynamic network analysis."
+  ],
+  "affiliation": [
+    "Key Laboratory of Plant Germplasm Enhancement and Specially Agriculture, Wuhan Botanical Garden, Chinese Academy of Sciences, Wuhan, 430074, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1716315XJ00200303"
+          ],
+          "agency": [
+            "National Project of Cause Control Theory"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "61402457"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "201601"
+          ],
+          "agency": [
+            "CAS Pioneer Hundred Talents Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phase transition",
+        "Flower development",
+        "Gene Regulatory Network (Grn)",
+        "Dynamical Network Biomarker (Dnb)",
+        "Time-course Gene Expression Data"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323737?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323737"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-018-1589-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "go"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-09"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2019-01-07"
+  ]
+}

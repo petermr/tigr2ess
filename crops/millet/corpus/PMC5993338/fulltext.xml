@@ -1,0 +1,1100 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Geophys Res Biogeosci</journal-id><journal-id journal-id-type="iso-abbrev">J Geophys Res Biogeosci</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2169-8961</journal-id><journal-id journal-id-type="publisher-id">JGRG</journal-id><journal-title-group><journal-title>Journal of Geophysical Research. Biogeosciences</journal-title></journal-title-group><issn pub-type="ppub">2169-8953</issn><issn pub-type="epub">2169-8961</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5993338</article-id><article-id pub-id-type="doi">10.1002/2017JG004269</article-id><article-id pub-id-type="publisher-id">JGRG20943</article-id><article-id pub-id-type="other">2017JG004269</article-id><article-categories><subj-group subj-group-type="article-subject-classification"><subject>Biogeosciences</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Carbon Cycling</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Soils/Pedology</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Agricultural Systems</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Isotopic Composition and Chemistry</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Geochemistry</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Stable Isotope Geochemistry</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Global Change</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Land Cover Change</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Hydrology</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Soils</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Oceanography: Biological and Chemical</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Carbon Cycling</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Stable Isotopes</subject></subj-group><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Soil Carbon Dynamics in Soybean Cropland and Forests in Mato Grosso, Brazil</article-title><alt-title alt-title-type="left-running-head">Nagy et al.</alt-title></title-group><contrib-group><contrib id="jgrg20943-cr-0001" contrib-type="author" corresp="yes"><name><surname>Nagy</surname><given-names>R. Chelsea</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7168-3289</contrib-id><address><email>nagyrc@gmail.com</email></address><xref ref-type="aff" rid="jgrg20943-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0002" contrib-type="author"><name><surname>Porder</surname><given-names>Stephen</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5279-766X</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0003" contrib-type="author"><name><surname>Brando</surname><given-names>Paulo</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8952-7025</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0004" contrib-type="author"><name><surname>Davidson</surname><given-names>Eric A.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8525-8697</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0005" contrib-type="author"><name><surname>Figueira</surname><given-names>Adelaine Michela e Silva</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3702-3180</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0006" contrib-type="author"><name><surname>Neill</surname><given-names>Christopher</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0232-8371</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0007" contrib-type="author"><name><surname>Riskin</surname><given-names>Shelby</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6307-7994</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jgrg20943-cr-0008" contrib-type="author"><name><surname>Trumbore</surname><given-names>Susan</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3885-6202</contrib-id><xref ref-type="aff" rid="jgrg20943-aff-0008">
+<sup>8</sup>
+</xref><xref ref-type="aff" rid="jgrg20943-aff-0009">
+<sup>9</sup>
+</xref></contrib></contrib-group><aff id="jgrg20943-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Ecology and Evolutionary Biology</named-content>
+<institution>Brown University</institution>
+<named-content content-type="city">Providence</named-content>
+<named-content content-type="country-part">RI</named-content>
+<country country="US">USA</country>
+</aff><aff id="jgrg20943-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Ecosystems Center</named-content>
+<institution>Marine Biological Laboratory</institution>
+<named-content content-type="city">Woods Hole</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="jgrg20943-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Earth Lab</named-content>
+<institution>University of Colorado Boulder</institution>
+<named-content content-type="city">Boulder</named-content>
+<named-content content-type="country-part">CO</named-content>
+<country country="US">USA</country>
+</aff><aff id="jgrg20943-aff-0004" content-type="private-address">
+<label><sup>4</sup></label>
+<institution>Instituto de Pesquisa Ambiental da Amaz&#x000f4;nia</institution>
+<named-content content-type="city">Bras&#x000ed;lia</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="jgrg20943-aff-0005" content-type="private-address">
+<label><sup>5</sup></label>
+<institution>Woods Hole Research Center</institution>
+<named-content content-type="city">Falmouth</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="jgrg20943-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Appalachian Laboratory</named-content>
+<institution>University of Maryland Center for Environmental Science</institution>
+<named-content content-type="city">Frostburg</named-content>
+<named-content content-type="country-part">MD</named-content>
+<country country="US">USA</country>
+</aff><aff id="jgrg20943-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Natural Science Program</named-content>
+<institution>Federal University of Western Par&#x000e1;</institution>
+<named-content content-type="city">Santar&#x000e9;m</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="jgrg20943-aff-0008" content-type="private-address">
+<label><sup>8</sup></label>
+<institution>Max Planck Institute for Biogeochemistry</institution>
+<named-content content-type="city">Jena</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="jgrg20943-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Earth System Science</named-content>
+<institution>University of California</institution>
+<named-content content-type="city">Irvine</named-content>
+<named-content content-type="country-part">CA</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence to: R. C. Nagy,<break/><email>nagyrc@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>1</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2018</year></pub-date><volume>123</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/jgrg.v123.1</issue-id><fpage>18</fpage><lpage>31</lpage><history><date date-type="received"><day>31</day><month>10</month><year>2017</year></date><date date-type="rev-recd"><day>05</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>10</day><month>12</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9;2018. American Geophysical Union. All Rights Reserved. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9;2017. The Authors.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JGRG-123-18.pdf"/><abstract><title>Abstract</title><p>Climate and land use models predict that tropical deforestation and conversion to cropland will produce a large flux of soil carbon (C) to the atmosphere from accelerated decomposition of soil organic matter (SOM). However, the C flux from the deep tropical soils on which most intensive crop agriculture is now expanding remains poorly constrained. To quantify the effect of intensive agriculture on tropical soil C, we compared C stocks, radiocarbon, and stable C isotopes to 2&#x000a0;m depth from forests and soybean cropland created from former pasture in Mato Grosso, Brazil. We hypothesized that soil disturbance, higher soil temperatures (+2&#x000b0;C), and lower OM inputs from soybeans would increase soil C turnover and deplete C stocks relative to nearby forest soils. However, we found reduced C concentrations and stocks only in surface soils (0&#x02013;10&#x000a0;cm) of soybean cropland compared with forests, and these differences could be explained by soil mixing during plowing. The amount and &#x00394;<sup>14</sup>C of respired CO<sub>2</sub> to 50&#x000a0;cm depth were significantly lower from soybean soils, yet CO<sub>2</sub> production at 2&#x000a0;m deep was low in both forest and soybean soils. Mean surface soil &#x003b4;<sup>13</sup>C decreased by 0.5&#x02030; between 2009 and 2013 in soybean cropland, suggesting low OM inputs from soybeans. Together these findings suggest the following: (1) soil C is relatively resistant to changes in land use and (2) conversion to cropland caused a small, measurable reduction in the fast&#x02010;cycling C pool through reduced OM inputs, mobilization of older C from soil mixing, and/or destabilization of SOM in surface soils.</p></abstract><abstract abstract-type="short"><title>Key Points</title><p>
+<list list-type="bullet" id="jgrg20943-list-0001"><list-item id="jgrg20943-li-0001"><p>A decade of intensive agriculture reduced C concentrations and stocks only in surface soils (0&#x02013;10&#x000a0;cm) in the Brazilian Amazon</p></list-item><list-item id="jgrg20943-li-0002"><p>Organic matter (OM) inputs from soybeans were small, and older CO<sub>2</sub>&#x02010;C was released from soils to 50&#x000a0;cm depth</p></list-item><list-item id="jgrg20943-li-0003"><p>Fast&#x02010;cycling C in surface soils declined through low OM inputs, mobilization of older C from soil mixing, and/or destabilization of soil organic matter</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jgrg20943-kwd-0001">soil carbon</kwd><kwd id="jgrg20943-kwd-0002">agriculture</kwd><kwd id="jgrg20943-kwd-0003">land use</kwd><kwd id="jgrg20943-kwd-0004">Brazil</kwd><kwd id="jgrg20943-kwd-0005">tropical forest</kwd><kwd id="jgrg20943-kwd-0006">isotopes</kwd></kwd-group><funding-group><award-group><funding-source>National Science Foundation</funding-source><award-id>DEB 0949370</award-id><award-id>DEB 1257391</award-id><award-id>ICN 1342953</award-id></award-group><award-group><funding-source>State of S&#x000e3;o Paulo Research Foundation (FAPESP)</funding-source></award-group><award-group><funding-source>Andrew Mellon Foundation</funding-source></award-group><award-group><funding-source>European Research Council (ERC)</funding-source><award-id>695101</award-id></award-group><award-group><funding-source>Brown University</funding-source></award-group><award-group><funding-source>U.S. Environmental Protection Agency</funding-source><award-id>FP&#x02010;91749001&#x02010;0</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="4"/><page-count count="14"/><word-count count="7676"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jgrg20943</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.4 mode:remove_FC converted:06.04.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jgrg20943-cit-0001">
+<string-name>
+<surname>Nagy</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Porder</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brando</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Figueira</surname>, <given-names>A. M. e. S.</given-names>
+</string-name>, <string-name>
+<surname>Neill</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Soil carbon dynamics in soybean cropland and forests in Mato Grosso, Brazil</article-title>. <source xml:lang="en">Journal of Geophysical Research: Biogeosciences</source>, <volume>123</volume>, <fpage>18</fpage>&#x02013;<lpage>31</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/2017JG004269">https://doi.org/10.1002/2017JG004269</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="jgrg20943-sec-0001"><label>1</label><title>Introduction</title><p>The conversion of tropical forest to pasture and cropland has fundamentally altered the global C cycle (Baccini et al., <xref rid="jgrg20943-bib-0003" ref-type="ref">2012</xref>; Houghton, <xref rid="jgrg20943-bib-0037" ref-type="ref">2005</xref>; Houghton et al., <xref rid="jgrg20943-bib-0038" ref-type="ref">2012</xref>). Driven by an increasing global demand for beef and grain from a growing human population (Boucher et al., <xref rid="jgrg20943-bib-0006" ref-type="ref">2012</xref>; Brown, <xref rid="jgrg20943-bib-0007" ref-type="ref">2009</xref>), tropical deforestation to date has largely been for conversion to pasture and the C consequences of such conversions have been extensively documented (De Camargo et al., <xref rid="jgrg20943-bib-0015" ref-type="ref">1999</xref>; Fujisaki et al., <xref rid="jgrg20943-bib-0028" ref-type="ref">2015</xref>; Neill et al., <xref rid="jgrg20943-bib-0057" ref-type="ref">1997</xref>; Powers et al., <xref rid="jgrg20943-bib-0065" ref-type="ref">2011</xref>). Although pasture remains a widespread use of tropical land, in the past two decades land has been increasingly converted to highly mechanized agriculture of commodity crops like soybeans (Galford et al., <xref rid="jgrg20943-bib-0029" ref-type="ref">2011</xref>; Laurance et al., <xref rid="jgrg20943-bib-0044" ref-type="ref">2014</xref>; Nepstad et al., <xref rid="jgrg20943-bib-0059" ref-type="ref">2006</xref>; Morton et al., <xref rid="jgrg20943-bib-0052" ref-type="ref">2016</xref>) and little is known about the transition to industrial soy production, which now covers large swaths of the southern Amazon and Cerrado. This transition, which is playing out on deep, highly weathered soils, may be a substantial C source to the atmosphere, but little work has attempted to quantify soil C changes, particularly the changes that occur deeper in the soil profile.</p><p>Conversion of tropical forests to agriculture can influence soil C storage and soil organic matter (SOM) dynamics in several ways. First, the amount, depth distribution, and quality of litter inputs to soil C can change as annual crops or pasture grasses replace trees (Davidson et al., <xref rid="jgrg20943-bib-0014" ref-type="ref">1995</xref>; Fisher et al., <xref rid="jgrg20943-bib-0025" ref-type="ref">1994</xref>; Harrison et al., <xref rid="jgrg20943-bib-0032" ref-type="ref">1993</xref>). Second, decomposition rates may increase because of higher temperatures in agricultural soils and physical soil disturbance from management practices such as tillage, which mixes soils and breaks up soil aggregates (Harrison et al., <xref rid="jgrg20943-bib-0032" ref-type="ref">1993</xref>; Matson et al., <xref rid="jgrg20943-bib-0048" ref-type="ref">1997</xref>; Murty et al., <xref rid="jgrg20943-bib-0054" ref-type="ref">2002</xref>; Six et al., <xref rid="jgrg20943-bib-0075" ref-type="ref">1999</xref>). The decomposition of fast&#x02010;cycling young C often increases with conversion to agriculture, and old forest&#x02010;derived C is often destabilized after cultivation (Dieckow et al., <xref rid="jgrg20943-bib-0017" ref-type="ref">2009</xref>; Don et al., <xref rid="jgrg20943-bib-0018" ref-type="ref">2011</xref>; Houghton, <xref rid="jgrg20943-bib-0036" ref-type="ref">2003</xref>; Powers et al., <xref rid="jgrg20943-bib-0065" ref-type="ref">2011</xref>; Trumbore, <xref rid="jgrg20943-bib-0085" ref-type="ref">1997</xref>). Third, there is less water transpired from agricultural compared with forest soils (Bosch &#x00026; Hewlett, <xref rid="jgrg20943-bib-0005" ref-type="ref">1982</xref>; Coe et al., <xref rid="jgrg20943-bib-0010" ref-type="ref">2011</xref>; Hayhoe et al., <xref rid="jgrg20943-bib-0033" ref-type="ref">2011</xref>; Hibbert, <xref rid="jgrg20943-bib-0034" ref-type="ref">1967</xref>; Neill et al., <xref rid="jgrg20943-bib-0056" ref-type="ref">2013</xref>), which could reduce water limitation of decomposition. Finally, physical removal of SOM by increased erosion can remove C and nutrients, particularly in tilled soils (Harden et al., <xref rid="jgrg20943-bib-0031" ref-type="ref">1999</xref>; Lal et al., <xref rid="jgrg20943-bib-0043" ref-type="ref">2004</xref>; Quinton et al., <xref rid="jgrg20943-bib-0066" ref-type="ref">2010</xref>; Smith et al., <xref rid="jgrg20943-bib-0076" ref-type="ref">2016</xref>), though the fate of this C downstream of farm fields is not well understood (Huth et al., <xref rid="jgrg20943-bib-0040" ref-type="ref">2012</xref>).</p><p>Previous work in the Amazon has generally found that the conversion of forest to pasture leads to soil C gains because of high inputs from pasture grasses (Fujisaki et al., <xref rid="jgrg20943-bib-0028" ref-type="ref">2015</xref>; Neill et al., <xref rid="jgrg20943-bib-0057" ref-type="ref">1997</xref>; Powers et al., <xref rid="jgrg20943-bib-0065" ref-type="ref">2011</xref>; Trumbore, <xref rid="jgrg20943-bib-0086" ref-type="ref">2000</xref>). Soil texture controls C storage capacity (Desjardins et al., <xref rid="jgrg20943-bib-0016" ref-type="ref">2004</xref>; Feller &#x00026; Beare, <xref rid="jgrg20943-bib-0023" ref-type="ref">1997</xref>; Parton et al., <xref rid="jgrg20943-bib-0062" ref-type="ref">1987</xref>; Six et al., <xref rid="jgrg20943-bib-0074" ref-type="ref">2002</xref>), with fine&#x02010;textured soils having greater C capacity (Angers et al., <xref rid="jgrg20943-bib-0002" ref-type="ref">2011</xref>), but coarse&#x02010;textured soils had slightly greater C increases with pasture use in the Amazon (Desjardins et al., <xref rid="jgrg20943-bib-0016" ref-type="ref">2004</xref>). Crop&#x02010;based agricultural use in the Amazon has in some cases led to C losses, particularly under frequent tilling which can enhance decomposition by breaking up aggregates and mixing surface soil C into deeper soil layers (Carvalho et al., <xref rid="jgrg20943-bib-0008" ref-type="ref">2010</xref>; Durigan et al., <xref rid="jgrg20943-bib-0019" ref-type="ref">2017</xref>; Maia et al., <xref rid="jgrg20943-bib-0047" ref-type="ref">2010</xref>; Rittl et al., <xref rid="jgrg20943-bib-0068" ref-type="ref">2017</xref>). Less is known about changes in deep soil C after conversion to intensive agriculture at the scale of that in the southern Amazon, and deep soils are a focus of the work described here.</p><p>Changes in land use and C storage are also influenced by climate, and combining projections of changes in climate and land use increases complexity and uncertainty in predictions of future soil C stocks (Ciais et al., <xref rid="jgrg20943-bib-0009" ref-type="ref">2013</xref>; Friedlingstein et al., <xref rid="jgrg20943-bib-0027" ref-type="ref">2013</xref>). Warmer temperatures are expected to increase SOM decomposition rates (Davidson &#x00026; Janssens, <xref rid="jgrg20943-bib-0013" ref-type="ref">2006</xref>; Eglin et al., <xref rid="jgrg20943-bib-0020" ref-type="ref">2010</xref>; Trumbore, <xref rid="jgrg20943-bib-0085" ref-type="ref">1997</xref>; Trumbore et al., <xref rid="jgrg20943-bib-0089" ref-type="ref">1996</xref>). However, decomposition is also limited by soil moisture and substrate availability (Davidson &#x00026; Janssens, <xref rid="jgrg20943-bib-0013" ref-type="ref">2006</xref>; Giardina &#x00026; Ryan, <xref rid="jgrg20943-bib-0030" ref-type="ref">2000</xref>; Hursh et al., <xref rid="jgrg20943-bib-0039" ref-type="ref">2016</xref>); thus, future changes in soil C remain poorly constrained. Despite these uncertainties, climate models suggest that tropical soils will store less C in a warmer climate (Intergovernmental Panel on Climate Change, <xref rid="jgrg20943-bib-0041" ref-type="ref">2014</xref>). Coupled projections of land use and climate change suggest a cumulative loss of soil C in tropical Latin America and Africa of 2.75&#x000a0;Pg&#x000a0;C&#x000a0;M&#x000a0;km<sup>&#x02212;2</sup> between 2000 and 2100 or 27.5&#x000a0;Tg&#x000a0;C&#x000a0;M&#x000a0;km<sup>&#x02212;2</sup>&#x000a0;yr<sup>&#x02212;1</sup> during this 100&#x000a0;year period (Eglin et al., <xref rid="jgrg20943-bib-0020" ref-type="ref">2010</xref>).</p><p>Turnover of SOM can be estimated from respiration rates and &#x00394;<sup>14</sup>CO<sub>2</sub> from long&#x02010;term laboratory incubations, modeling of soil C pools using soil C stocks and &#x00394;<sup>14</sup>C, and changes to SOM &#x003b4;<sup>13</sup>C (Ehleringer et al., <xref rid="jgrg20943-bib-0021" ref-type="ref">2000</xref>; Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>; Townsend et al., <xref rid="jgrg20943-bib-0084" ref-type="ref">1995</xref>; Trumbore, <xref rid="jgrg20943-bib-0088" ref-type="ref">2009</xref>). In laboratory incubations, the rate of CO<sub>2</sub> production provides an estimate of the amount of fast&#x02010;cycling C and the mean C residence time in soils (Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>). Respiration of C in the early stages of incubation is dominated by an active pool and rates decline over time as the active pool diminishes and the respired C comes increasingly from the slower cycling pool (Figure&#x000a0;<xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref> in the <xref rid="jgrg20943-supinf-0001" ref-type="supplementary-material">supporting information</xref> Townsend et al., <xref rid="jgrg20943-bib-0084" ref-type="ref">1995</xref>). Because soils are an open pool that exchanges C with the atmosphere through continual organic inputs from plants and removal through decomposition, &#x00394;<sup>14</sup>C data of bulk soil and respired CO<sub>2</sub> can be used with models to estimate the mean turnover time and transit time of soil C (Figure&#x000a0;<xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>) (Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>; Trumbore et al., <xref rid="jgrg20943-bib-0090" ref-type="ref">2016</xref>). Models that best fit the data include at least an active (or fast) pool that cycles on an annual to decadal timeframe and a passive (or slow) pool that turns over in centuries or millennia (Baisden et al., <xref rid="jgrg20943-bib-0004" ref-type="ref">2013</xref>). Stable isotope analysis of C (&#x003b4;<sup>13</sup>C) can also be used to assess turnover of SOM following a change from C<sub>3</sub> to C<sub>4</sub> vegetation or vice versa (Ehleringer et al., <xref rid="jgrg20943-bib-0021" ref-type="ref">2000</xref>; Navarrete et al., <xref rid="jgrg20943-bib-0055" ref-type="ref">2016</xref>; Neill et al., <xref rid="jgrg20943-bib-0057" ref-type="ref">1997</xref>; Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>). Because C<sub>3</sub> plants have lower &#x003b4;<sup>13</sup>C values than C<sub>4</sub> plants because of greater fractionation during photosynthesis, replacement of C<sub>3</sub> trees with C<sub>4</sub> pasture grasses increases soil &#x003b4;<sup>13</sup>C and allows for calculation of turnover times (Ehleringer et al., <xref rid="jgrg20943-bib-0021" ref-type="ref">2000</xref>; Neill et al., <xref rid="jgrg20943-bib-0057" ref-type="ref">1997</xref>; Pendall et al., <xref rid="jgrg20943-bib-0063" ref-type="ref">2010</xref>; Torn et al., <xref rid="jgrg20943-bib-0083" ref-type="ref">2005</xref>).</p><p>We used a combination of these approaches to constrain C cycling and determine if a decade of intensive soybean cultivation following two decades of pasture use in Mato Grosso, Brazil, altered soil C storage and SOM turnover. We focused on the changes that occurred in croplands created from former pasture because this represented the majority of current Mato Grosso soybean cropland (Macedo et al., <xref rid="jgrg20943-bib-0046" ref-type="ref">2012</xref>) and because the changes of soil C with pasture use in the Amazon have received considerable attention. We tested three hypotheses about the relationship between this region's land use history and the fate of soil C in this landscape: (1) that total soil C stocks would be lower and soil respiration rates would be higher in soils from soybean cropland compared with native forest, (2) that faster C turnover and lower C inputs would deplete the pool of fast&#x02010;cycling C in soybean cropland soils, and (3) that the most depleted C stocks and the smallest pools of fast&#x02010;cycling C would occur in fields that were planted with soybeans for the longest time. We also expected soil texture to be important for C storage and changes in C storage with pasture and agricultural use.</p></sec><sec id="jgrg20943-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="jgrg20943-sec-0003"><label>2.1</label><title>Site Description</title><p>We worked on Tanguro Ranch, an 800&#x000a0;km<sup>2</sup> soybean farm in the Brazilian state of Mato Grosso (13&#x000b0;04&#x02032;35.39&#x02033;S, 52&#x000b0;23&#x02032;08.85&#x02033;W). Approximately 400&#x000a0;km<sup>2</sup> of Tanguro Ranch was cleared for pasture between 1976 and 1992 (Figure <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S2</xref>a), planted with C<sub>4</sub>
+<styled-content style="fixed-case"><styled-content style="italic-in-any-context">Brachiaria brizantha</styled-content></styled-content> (a widely&#x02010;planted pasture grass in Amaz&#x000f4;nia) and subsequently converted to soybean production between 2003 and 2010 (Figure <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S2</xref>b) (Riskin et al., <xref rid="jgrg20943-bib-0067" ref-type="ref">2013</xref>). To initiate soybean cultivation, vegetation in the pastures was burned and soil was tilled to 30&#x02013;40&#x000a0;cm for the first 2&#x02013;3&#x000a0;years of cultivation, after which tilling ceased (Riskin et al., <xref rid="jgrg20943-bib-0067" ref-type="ref">2013</xref>). Soybean fields were fertilized annually with phosphorus (~50&#x000a0;kg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;yr<sup>&#x02212;1</sup>) and limed (~1,500&#x000a0;kg&#x000a0;ha<sup>&#x02212;1</sup>&#x000a0;yr<sup>&#x02212;1</sup>) every 2&#x02013;3&#x000a0;years (Riskin et al., <xref rid="jgrg20943-bib-0067" ref-type="ref">2013</xref>). Soy was planted in October or November and harvested in March or April. Crop residues were not removed or otherwise altered in soybean fields, with the exception of the years in which the fields were limed, then the crop residues were disked into the soil. Fields were bare or had a sparse cover crop of millet during the non&#x02010;cropping season. The remaining forests on Tanguro Ranch are closed&#x02010;canopy evergreen forests that are intermediate in stature between more humid rain forests to the north and Cerrado, or savanna, vegetation to the south (Ivanauskas et al., <xref rid="jgrg20943-bib-0042" ref-type="ref">2004</xref>).</p><p>Tanguro Ranch is at 320&#x02013;390&#x000a0;m above sea level on the Brazilian Shield on Precambrian gneisses of the Xingu Complex (Figueira et al., <xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>). The dominant soils of this region are classified as Latossolos&#x02010;vermelho&#x02010;amarealo&#x02010;distr&#x000f3;fico in the Brazilian system and Oxisols (Haplustox) in the U.S. Department of Agriculture system (Figueira et al., <xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>; Neill et al., <xref rid="jgrg20943-bib-0056" ref-type="ref">2013</xref>). Soils are greater than 10&#x000a0;m deep, acidic (pH of native forest soil is ~3.9), and have a sandy clay texture (mean 43% clay) (Neill et al., <xref rid="jgrg20943-bib-0056" ref-type="ref">2013</xref>). The region has a mean annual temperature of 25&#x000b0;C and mean annual precipitation of about 1,770&#x000a0;mm&#x000a0;yr<sup>&#x02212;1</sup> (Rocha et al., <xref rid="jgrg20943-bib-0069" ref-type="ref">2014</xref>). Rainfall is highly seasonal: from May to August, rainfall is &#x0003c;10&#x000a0;mm&#x000a0;month<sup>&#x02212;1</sup> (Rocha et al., <xref rid="jgrg20943-bib-0069" ref-type="ref">2014</xref>). Surface soils in soybean cropland are ~2&#x000b0;C hotter and 5% drier than in forests in both wet and dry seasons (O'Connell, <xref rid="jgrg20943-bib-0060" ref-type="ref">2015</xref>; Silv&#x000e9;rio et al., <xref rid="jgrg20943-bib-0073" ref-type="ref">2015</xref>).</p></sec><sec id="jgrg20943-sec-0004"><label>2.2</label><title>Sample Collection</title><p>In July 2013, we collected soil samples with an auger from five depths (0&#x02013;10, 10&#x02013;20, 40&#x02013;50, 90&#x02013;100, and 190&#x02013;200&#x000a0;cm) at 35 sites: 7 forest sites and 28 locations in soybean cropland (Figure&#x000a0;<xref rid="jgrg20943-fig-0001" ref-type="fig">1</xref>). Of the 28 soybean sites, 7 were converted to soybean cultivation in each of the years 2003, 2004, 2007, and 2008. These same 35 sites had been sampled in 2009 using the same methodology. A full description of the site selection procedure is outlined in Appendix <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>. Soils were air dried for a minimum of 48&#x000a0;h and sieved (&#x0003c;2&#x000a0;mm) then stored in a cool, dry location until analysis. Gravel (&#x0003e;2&#x000a0;mm) is rare in these soils. We collected one sample to measure soil bulk density (BD) from each site (at 0&#x02013;10, 10&#x02013;20, 40&#x02013;50, and 90&#x02013;100&#x000a0;cm) and one deeper sample (at 190&#x02013;200&#x000a0;cm) from three of the seven sites in each land cover and age category by hammering a steel cylinder (diameter&#x000a0;=&#x000a0;4.7&#x000a0;cm, length&#x000a0;=&#x000a0;5.0&#x000a0;cm) horizontally into the side of the soil pit at each depth. We analyzed all surface soils (0&#x02013;10&#x000a0;cm) (forest <italic>n</italic>&#x000a0;=&#x000a0;7, soybean cropland <italic>n</italic>&#x000a0;=&#x000a0;28) and four complete profiles (to 2&#x000a0;m depth) in forest and soybean cropland for &#x00394;<sup>14</sup>C, and all samples at all depths (<italic>n</italic>&#x000a0;=&#x000a0;35 sites&#x000a0;&#x000d7;&#x000a0;5 depths) for % C and &#x003b4;<sup>13</sup>C.</p><fig fig-type="Figure" xml:lang="en" id="jgrg20943-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Location of forest and soybean soil samples collected from Tanguro Ranch (blue outline) in the state of Mato Grosso, Brazil. Soil sample locations (red dots) shown on top of a Landsat image (bands 5, 4, and 3) from June 2011 where forest appears green and agriculture fields appear pink to white.</p></caption><graphic id="nlm-graphic-1" xlink:href="JGRG-123-18-g001"/></fig><p>To examine the longer&#x02010;term effects of agricultural use and to compare the evolution of radiocarbon as well as C stocks over time (Baisden et al., <xref rid="jgrg20943-bib-0004" ref-type="ref">2013</xref>; Schrumpf &#x00026; Kaiser, <xref rid="jgrg20943-bib-0071" ref-type="ref">2015</xref>; Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>; Trumbore, <xref rid="jgrg20943-bib-0085" ref-type="ref">1997</xref>), we also used a subset (forest&#x000a0;=&#x000a0;4 sites at 5 depths, soybean cropland&#x000a0;=&#x000a0;2 sites at 5 depths) of archived samples collected in January&#x02013;February 2009 from the same 35 sites. We analyzed this subset of samples for bulk soil % C, &#x003b4;<sup>13</sup>C, and &#x00394;<sup>14</sup>C.</p></sec><sec id="jgrg20943-sec-0005"><label>2.3</label><title>Soil Incubations</title><p>We selected a subset of soils collected in 2013 for incubation (forest <italic>n</italic>&#x000a0;=&#x000a0;15, soybean cropland <italic>n</italic>&#x000a0;=&#x000a0;21; Appendix <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>). For each of these samples, we incubated ~100&#x000a0;g of soil in 1&#x000a0;L mason jars with modified lids fitted with Suba&#x02010;Seal silicone septa. We wet each sample to approximate field moisture conditions (10% surface soil volumetric moisture) and incubated them at 26&#x000b0;C. Field moisture conditions varied from 7% to 17% throughout the year in forest surface soils at the field site (Rocha et al., <xref rid="jgrg20943-bib-0069" ref-type="ref">2014</xref>). We sampled the headspace in the jars at increasing time intervals between sampling (days after start of incubation&#x000a0;=&#x000a0;1, 3, 5, 7, 11, 18, 28, 40, 61, and 89) to determine rates of CO<sub>2</sub> evolution (&#x003bc;g&#x000a0;C&#x000a0;g&#x000a0;soil<sup>&#x02212;1</sup>&#x000a0;d<sup>&#x02212;1</sup>). We used a syringe to extract 10&#x000a0;mL of gas from the headspace volume and injected it into a Shimadzu GC14A gas chromatograph to determine the CO<sub>2</sub> concentration. When concentrations of CO<sub>2</sub> in the headspace air reached ~20,000&#x000a0;ppm (2%), we collected a sample by attaching and opening an evacuated 100&#x000a0;mL serum bottle to the incubation jar. After sample collection, we vented the jars to release the accumulated CO<sub>2</sub>, then resealed the jars. If the sample had not reached 20,000&#x000a0;ppm after ~3&#x000a0;months, but had a concentration above the minimum sample size of 2,000&#x000a0;ppm (the detection limit for accelerator mass spectrometry (AMS) at the University of California, Irvine), we collected the sample in evacuated 100&#x000a0;mL serum jars.</p></sec><sec id="jgrg20943-sec-0006"><label>2.4</label><title>Sample Analysis</title><p>We analyzed CO<sub>2</sub> from soil incubations and a subset of bulk soil samples (all surface soils and eight complete profiles) for <sup>14</sup>C and <sup>13</sup>C at the Keck Carbon Cycle AMS facility at the University of California, Irvine. Before analysis, pH of homogenized soil was tested to check for the presence of soil carbonates from liming of agricultural soils. The pH of all soil samples ranged from 4.3 to 6.9. Soil &#x00394;<sup>14</sup>C was not significantly related to soil pH (<italic>p</italic>&#x000a0;=&#x000a0;0.48). As an additional test for the potential effect of added lime on soil C, we also acidified several samples and compared the radiocarbon signature with and without carbonates. We found no difference in soil &#x00394;<sup>14</sup>C between acidified and nonacidified replicates (data not shown).</p><p>To analyze for &#x00394;<sup>14</sup>C, soil samples were sealed in evacuated quartz tubes with CuO and Ag and combusted at 950&#x000b0;C for 2&#x000a0;h. The CO<sub>2</sub> from this combustion was purified and reduced to graphite and measured by AMS (Southon et al., <xref rid="jgrg20943-bib-0078" ref-type="ref">2004</xref>; Xu et al., <xref rid="jgrg20943-bib-0094" ref-type="ref">2007</xref>). Reporting of <sup>14</sup>C data as &#x00394;<sup>14</sup>C corrects for mass&#x02010;dependent fractionation using &#x003b4;<sup>13</sup>C values measured by the AMS (not reported here; Stuiver &#x00026; Polach, <xref rid="jgrg20943-bib-0079" ref-type="ref">1977</xref>). For more precise measurement of &#x003b4;<sup>13</sup>C, we used a small aliquot of the CO<sub>2</sub> evolved during combustion for the <sup>13</sup>C measurement by continuous flow isotope ratio mass spectrometry (IRMS) using a GasBench II ConFlo Interface to a Thermo Delta Plus isotope ratio mass spectrometer (Xu et al., <xref rid="jgrg20943-bib-0094" ref-type="ref">2007</xref>).</p><p>The remainder of the 2013 bulk soil samples (27 sites&#x000a0;&#x000d7;&#x000a0;4 depths) was analyzed for <sup>13</sup>C and % C at the Marine Biological Laboratory Stable Isotope Laboratory in Woods Hole, Massachusetts, using a Europa 20&#x02010;20 continuous&#x02010;flow isotope ratio mass spectrometer interfaced with a Europa ANCA&#x02010;SL elemental analyzer.</p></sec><sec id="jgrg20943-sec-0007"><label>2.5</label><title>Calculations and Modeling</title><p>Carbon stocks were calculated from C concentrations as
+<disp-formula id="jgrg20943-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mtext>stock</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mtext>conce</mml:mtext></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:mi>BD</mml:mi><mml:mo>&#x000d7;</mml:mo><mml:mi>d</mml:mi><mml:mo>&#x000d7;</mml:mo><mml:mn>10</mml:mn><mml:mo>,</mml:mo><mml:mn>000</mml:mn></mml:math></disp-formula>where C<sub>stock</sub> is the C content (g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup>) within a sampled depth interval, C<sub>conce</sub> is the C concentration (g&#x000a0;C&#x000a0;g<sup>&#x02212;1</sup>), BD is the bulk density (g&#x000a0;cm<sup>&#x02212;3</sup>), and <italic>d</italic> is the depth increment of the sample (cm). To calculate the cumulative C storage of the soil profile to 2&#x000a0;m depth, the mean depth&#x02010;weighted C storage in between sampled depths (i.e., 20&#x02013;40, 50&#x02013;90, and 100&#x02013;190&#x000a0;cm) was calculated and added to the C storage of the sampled depths (0&#x02013;10, 10&#x02013;20, 40&#x02013;50, 90&#x02013;100, and 190&#x02013;200).</p><p>To account for changes in bulk density that resulted from land use and management practices between soybean cropland and forest soils, we also calculated the C stocks based on equivalent mass as opposed to equivalent volume. To do this, we applied a correction to the surface soil (0&#x02013;10&#x000a0;cm) C content from soybean cropland as follows:
+<disp-formula id="jgrg20943-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mtext>stockadj</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mtext>stock</mml:mtext></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:mfrac><mml:msub><mml:mi>BD</mml:mi><mml:mtext>forest</mml:mtext></mml:msub><mml:msub><mml:mi>BD</mml:mi><mml:mi>soy</mml:mi></mml:msub></mml:mfrac></mml:math></disp-formula>where C<sub>stockadj</sub> is the adjusted C stock based on equivalent mass, C<sub>stock</sub> is the C stock calculated from equation&#x000a0;<xref rid="jgrg20943-disp-0001" ref-type="disp-formula">(1)</xref>, BD<sub>forest</sub> is the mean bulk density of forest soils from 0 to 10&#x000a0;cm, and BD<sub>soy</sub> is the mean bulk density of soybean cropland soils from 0 to 10&#x000a0;cm (Davidson &#x00026; Ackerman, <xref rid="jgrg20943-bib-0012" ref-type="ref">1993</xref>). This correction assumes that compaction only occurs in the surface soils (Davidson &#x00026; Ackerman, <xref rid="jgrg20943-bib-0012" ref-type="ref">1993</xref>). We also included an adjusted cumulative C storage to 50&#x000a0;cm depth (to approximate the depth of soil mixing during tillage) that includes the C stock based on equivalent mass for 0&#x02013;10&#x000a0;cm from equation&#x000a0;<xref rid="jgrg20943-disp-0002" ref-type="disp-formula">(2)</xref>.</p><p>We also calculated the cumulative C&#x02010;mass weighted &#x00394;<sup>14</sup>C and &#x003b4;<sup>13</sup>C to 50&#x000a0;cm depth to account for mixing in the soil profile as
+<disp-formula id="jgrg20943-disp-0003"><label>(3)</label><mml:math id="nlm-math-3"><mml:msup><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mn>14</mml:mn></mml:msup><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mi>mw</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:msubsup><mml:msub><mml:mtext>Cmass</mml:mtext><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mn>14</mml:mn></mml:msup><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:msubsup><mml:msub><mml:mtext>Cmass</mml:mtext><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:math></disp-formula>where &#x00394;<sup>14</sup>C<sub>mw</sub> was the cumulative C&#x02010;mass weighted &#x00394;<sup>14</sup>C, <italic>i</italic> represented each sampled depth interval, &#x00394;<sup>14</sup>C<sub><italic>i</italic></sub> was the sample measurement by AMS for each depth interval, and C<sub>mass</sub> was the depth interval&#x000a0;*&#x000a0;bulk density *C stock as calculated by equation&#x000a0;<xref rid="jgrg20943-disp-0001" ref-type="disp-formula">(1)</xref>. Analogously,
+<disp-formula id="jgrg20943-disp-0004"><label>(4)</label><mml:math id="nlm-math-4"><mml:msup><mml:mi mathvariant="normal">&#x003b4;</mml:mi><mml:mn>13</mml:mn></mml:msup><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mi>mw</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:msubsup><mml:mtext>Cmas</mml:mtext><mml:msub><mml:mi>s</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:msup><mml:mo>&#x000d7;</mml:mo><mml:mn>13</mml:mn></mml:msup><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:msubsup><mml:msub><mml:mtext>Cmass</mml:mtext><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:math></disp-formula>where &#x003b4;<sup>13</sup>C<sub>mw</sub> was the cumulative C&#x02010;mass weighted &#x003b4;<sup>13</sup>C, <italic>i</italic> represented each sampled depth interval, &#x003b4;<sup>13</sup>C<sub><italic>i</italic></sub> was the sample measurement by IRMS for each depth interval, and C<sub>mass</sub> was the depth interval&#x000a0;*&#x000a0;bulk density *C stock as calculated by equation&#x000a0;<xref rid="jgrg20943-disp-0001" ref-type="disp-formula">(1)</xref>.</p><p>To estimate the inputs of C<sub>4</sub> pasture grasses versus C<sub>3</sub> trees or soybeans vegetation into soils, we used a simple mixing model to calculate the percent C<sub>4</sub> or percent C<sub>3</sub>&#x02010;C in the 2009 and 2013 bulk soil samples:
+<disp-formula id="jgrg20943-disp-0005"><label>(5)</label><mml:math id="nlm-math-5"><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mtext>stock</mml:mtext></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mi mathvariant="normal">&#x003b4;</mml:mi><mml:mn>13</mml:mn></mml:msup><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mi>tot</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi>f</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mi mathvariant="normal">&#x003b4;</mml:mi><mml:mn>13</mml:mn></mml:msup><mml:msub><mml:mi>C</mml:mi><mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi>p</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mi mathvariant="normal">&#x003b4;</mml:mi><mml:mn>13</mml:mn></mml:msup><mml:msub><mml:mi>C</mml:mi><mml:mi>p</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:math></disp-formula>where C<sub>stock</sub> was the C stock in the depth interval as calculated by equation&#x000a0;<xref rid="jgrg20943-disp-0001" ref-type="disp-formula">(1)</xref>, <italic>C</italic>
+<sub><italic>f</italic></sub> and <italic>C</italic>
+<sub><italic>p</italic></sub> were the relative proportions of forest&#x02010; and pasture&#x02010;derived C, and &#x003b4;<sup>13</sup>C<sub>tot</sub>, &#x003b4;<sup>13</sup>
+<italic>C</italic>
+<sub><italic>f</italic></sub>, and &#x003b4;<sup>13</sup>
+<italic>C</italic>
+<sub><italic>p</italic></sub> were the &#x003b4;<sup>13</sup>C values of total soil C, forest&#x02010;derived C, and pasture&#x02010;derived C, respectively. In surface soils (0&#x02013;10&#x000a0;cm), we used a C<sub>3</sub> end&#x02010;member of &#x003b4;<sup>13</sup>C&#x000a0;=&#x000a0;&#x02212;28&#x02030; based on measurements in forest soils and a C<sub>4</sub> end&#x02010;member of &#x003b4;<sup>13</sup>C&#x000a0;=&#x000a0;&#x02212;12&#x02030; based on published &#x003b4;<sup>13</sup>C values of <italic>Brachiaria</italic> spp. litter (&#x02010;11.4&#x02030; to &#x02212;13.3&#x02030; Mosquera et al., <xref rid="jgrg20943-bib-0053" ref-type="ref">2012</xref>; Schweizer et al., <xref rid="jgrg20943-bib-0072" ref-type="ref">1999</xref>). To account for &#x003b4;<sup>13</sup>C enrichment with increasing depth in the soil profile, the mean measured enrichment between each depth interval from the forest sites was applied to the end&#x02010;members used at each depth for all sites. This resulted in C<sub>3</sub> end&#x02010;members that ranged from &#x02212;28&#x02030; at the surface to &#x02212;23.2&#x02030; at 2&#x000a0;m and C<sub>4</sub> end&#x02010;members that ranged from &#x02212;12&#x02030; at the surface to &#x02212;7.2&#x02030; at 2&#x000a0;m depth. This simple model assumed a pure C<sub>4</sub>&#x02010;&#x003b4;<sup>13</sup>C signal in pasture grasses rather than a mixture of C<sub>4</sub> and C<sub>3</sub> inputs. We also did not include in this model any effect of past C<sub>4</sub> vegetation such as Cerrado encroachment during historical climatic conditions (Sanaiotti et al., <xref rid="jgrg20943-bib-0070" ref-type="ref">2002</xref>; Victoria et al., <xref rid="jgrg20943-bib-0092" ref-type="ref">1995</xref>).</p><p>We used a two pool model, with fast and slow pools, to estimate turnover times and pool sizes in forest soils (Trumbore et al., <xref rid="jgrg20943-bib-0089" ref-type="ref">1996</xref>). The inputs to each pool were calculated as
+<disp-formula id="jgrg20943-disp-0006"><label>(6)</label><mml:math id="nlm-math-6"><mml:msub><mml:mi>I</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mi>tot</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi mathvariant="italic">tt</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mfrac></mml:math></disp-formula>where <italic>I</italic>
+<sub><italic>i</italic></sub> represented the inputs to pool i (<italic>i</italic>&#x000a0;=&#x000a0;fast or slow), C<sub>tot</sub> was the mean soil C content of that depth interval in forest, <italic>f</italic>
+<sub><italic>i</italic></sub> was the pool size as a fraction of C<sub>tot</sub>, and <italic>tt</italic>
+<sub><italic>i</italic></sub> was the turnover time of pool <italic>i</italic>. The amount of C in each pool was calculated as
+<disp-formula id="jgrg20943-disp-0007"><label>(7)</label><mml:math id="nlm-math-7"><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi mathvariant="italic">tt</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mfrac><mml:mo>&#x000d7;</mml:mo><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi mathvariant="italic">t</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi mathvariant="italic">t</mml:mi></mml:math></disp-formula>where <italic>C</italic>
+<sub><italic>i</italic></sub> was the C content in pool i, <italic>C</italic>
+<sub><italic>i</italic>,<italic>t</italic>&#x000a0;&#x02212;&#x02009;1</sub> was the C content in pool <italic>i</italic> at the previous time step, and &#x00394;<italic>t</italic> was the time elapsed in the previous time step. Built into the model is a function that simulates the lag time spent by a C atom in living vegetation (the time between C fixation and litter deposition to the soil) so that the &#x00394;<sup>14</sup>C in the litter is equal to the value of the current year minus the lag (number of years). For tropical forests this lag time is about 7&#x02013;8&#x000a0;years (Trumbore, <xref rid="jgrg20943-bib-0087" ref-type="ref">2006</xref>), so we set the lag time to 7&#x000a0;years. The model uses observed values of C content and &#x00394;<sup>14</sup>C of respired CO<sub>2</sub> and bulk soil as inputs. Undoubtedly, bulk soil and CO<sub>2</sub> each contain portions of fast and slow cycling C, but bulk soil is dominated by slowly cycling C whereas respired CO<sub>2</sub> comes primarily from faster cycling C (Figure&#x000a0;<xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>) (Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>; Trumbore et al., <xref rid="jgrg20943-bib-0090" ref-type="ref">2016</xref>). We adjusted pool sizes and turnover times of the two model pools to match bulk soil and CO<sub>2</sub> data from samples collected in 2013. The model assumes that C<sub>tot</sub> is at steady state in forests. Based on previous studies (Baisden et al., <xref rid="jgrg20943-bib-0004" ref-type="ref">2013</xref>; Trumbore et al., <xref rid="jgrg20943-bib-0089" ref-type="ref">1996</xref>), we tested a range of potential pool sizes for the fast pool (as a proportion of the total C at that depth interval) as follows: for surface soils: 0.1 to 0.6, for 40&#x02013;50&#x000a0;cm: 0.01 to 0.1, and at 190&#x02013;200&#x000a0;cm: 0.001 to 0.015. Correspondingly, we tested a range of slow pool values from 0.4 to 0.9 of total C in surface soils, 0.9 to 0.99 of total C at 40&#x02013;50&#x000a0;cm, and 0.985 to 0.999 of total C at 190&#x02013;200&#x000a0;cm. For each of these pool size combinations, we used the &#x0201c;solver&#x0201d; function in Excel to calculate the best fit of the turnover times of the two pools while minimizing the sum of squared deviation between the model and observed values of CO<sub>2</sub> and bulk soil &#x00394;<sup>14</sup>C.</p></sec><sec id="jgrg20943-sec-0008"><label>2.6</label><title>Statistical Analyses</title><p>All statistical analyses were done in R version 3.2.2 (R Core Team, <xref rid="jgrg20943-bib-0011" ref-type="ref">2015</xref>). Because we expected the length of soybean cultivation and percent clay to be important for soil C, we ran simple linear and multiple regression with &#x00394;<sup>14</sup>C, &#x003b4;<sup>13</sup>C, or the C stock as the response variable and years of soybean cultivation and percent clay as predictor variables. If a significant relationship was found with any of the response variables and percent clay, we then ran analyses of covariance (ANCOVAs) to control for differences in clay content while looking for differences between treatments (soybean cropland versus forest). We also tested for differences in C stocks, &#x003b4;<sup>13</sup>C, and &#x00394;<sup>14</sup>C using analyses of variance (ANOVAs) among treatments of different number of years in soybean cultivation and in all soybean cropland versus all forest sites. We ran these ANOVAs at individual depths, for the total soil profile (to 2&#x000a0;m), and for the cumulative C&#x02010;mass weighted value to 50&#x000a0;cm depth to account for soil mixing that occurred during tillage. We tested the assumptions of linear regression, ANOVA, and ANCOVA including normally distributed residuals. When the data were nonnormally distributed, transformations were attempted and if this did not improve normality, equivalent nonparametric statistical tests were used (e.g., quantile regression: &#x0201c;quantreg&#x0201d; R package, Kruskal&#x02010;Wallis: base R, nonparametric ANCOVA: &#x0201c;sm&#x0201d; R package).</p></sec></sec><sec id="jgrg20943-sec-0009"><label>3</label><title>Results</title><sec id="jgrg20943-sec-0010"><label>3.1</label><title>Bulk Soil C Stocks and Respired CO<sub>2</sub>
+</title><p>Soil C concentration was significantly higher in forest than soybean cropland soils at 0&#x02013;10&#x000a0;cm but not at other depths (Table&#x000a0;<xref rid="jgrg20943-tbl-0001" ref-type="table-wrap">1</xref>). The higher C concentrations at 0&#x02013;10&#x000a0;cm led to higher mean C concentration across the 2&#x000a0;m profile (Table&#x000a0;<xref rid="jgrg20943-tbl-0001" ref-type="table-wrap">1</xref>). Soil C stocks were also significantly higher in forest than soybean cropland at 0&#x02013;10&#x000a0;cm. Calculations of C stocks at 0&#x02013;10&#x000a0;cm based on equivalent mass rather than volume corroborated a significant reduction in C storage in soybean cropland compared with forest soils (Table&#x000a0;<xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>). However, no significant difference (<italic>p</italic>&#x000a0;=&#x000a0;0.38) was found between C stocks in forest and soybean cropland soils to 50&#x000a0;cm depth as calculated based on equivalent mass (Table&#x000a0;<xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>). Similarly, total C stocks to 2&#x000a0;m did not significantly differ between forest and soybean cropland soils: mean C storage in forest soils to 2&#x000a0;m was 22,800&#x000a0;g m<sup>&#x02212;2</sup> compared with 19,400&#x000a0;g&#x000a0;m<sup>&#x02212;2</sup> in soybean cropland soils (Table&#x000a0;<xref rid="jgrg20943-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="jgrg20943-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Mean&#x000a0;&#x000b1;&#x000a0;Standard Error C Concentration (%), Bulk Density (g&#x000a0;cm<sup>&#x02212;3</sup>), and C Storage (g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup>) in Forest and Soybean Cropland Bulk Soil in Samples Collected in 2013</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="&#x000b1;" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Concentration (%)</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Bulk density (g&#x000a0;cm<sup>&#x02212;3</sup>)</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">C storage (g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup>)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Depth (cm)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Forest</th><th align="center" valign="bottom" rowspan="1" colspan="1">Soybean cropland</th><th align="center" valign="bottom" rowspan="1" colspan="1">Forest</th><th align="center" valign="bottom" rowspan="1" colspan="1">Soybean cropland</th><th align="center" valign="bottom" rowspan="1" colspan="1">Forest</th><th align="center" valign="bottom" rowspan="1" colspan="1">Soybean cropland</th></tr></thead><tbody valign="middle"><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">2.4 (a)&#x000a0;&#x000b1;&#x000a0;0.4</td><td align="char" valign="middle" rowspan="1" colspan="1">1.2 (b)&#x000a0;&#x000b1;&#x000a0;0.4</td><td align="char" valign="middle" rowspan="1" colspan="1">1.2 (b)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1.5 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">2830 (a)&#x000a0;&#x000b1;&#x000a0;170</td><td align="char" valign="middle" rowspan="1" colspan="1">1740 (b)&#x000a0;&#x000b1;&#x000a0;190</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">10&#x02013;20</td><td align="char" valign="middle" rowspan="1" colspan="1">1.0 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">0.9 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1.4 (b)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1.6 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1380 (a)&#x000a0;&#x000b1;&#x000a0;190</td><td align="char" valign="middle" rowspan="1" colspan="1">1560 (a)&#x000a0;&#x000b1;&#x000a0;110</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.7 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">0.6 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1.5 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1.6 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1180 (a)&#x000a0;&#x000b1;&#x000a0;300</td><td align="char" valign="middle" rowspan="1" colspan="1">1090 (a)&#x000a0;&#x000b1;&#x000a0;110</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">90&#x02013;100</td><td align="char" valign="middle" rowspan="1" colspan="1">0.6 (a)&#x000a0;&#x000b1;&#x000a0;0.2</td><td align="char" valign="middle" rowspan="1" colspan="1">0.4 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1.4 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1.4 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1120 (a)&#x000a0;&#x000b1;&#x000a0;480</td><td align="char" valign="middle" rowspan="1" colspan="1">770 (a)&#x000a0;&#x000b1;&#x000a0;130</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.5 (a)&#x000a0;&#x000b1;&#x000a0;0.2</td><td align="char" valign="middle" rowspan="1" colspan="1">0.4 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1.2 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1.4 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">730 (a)&#x000a0;&#x000b1;&#x000a0;290</td><td align="char" valign="middle" rowspan="1" colspan="1">840 (a)&#x000a0;&#x000b1;&#x000a0;200</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Total to 200&#x000a0;cm</td><td align="char" valign="middle" rowspan="1" colspan="1">1.0 (a)&#x000a0;&#x000b1;&#x000a0;0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">0.7 (b)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1.3 (b)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">1.5 (a)&#x000a0;&#x000b1;&#x000a0;0.0</td><td align="char" valign="middle" rowspan="1" colspan="1">22,800 (a)&#x000a0;&#x000b1;&#x000a0;6200</td><td align="char" valign="middle" rowspan="1" colspan="1">19,400 (a)&#x000a0;&#x000b1;&#x000a0;2450</td></tr></tbody></table><table-wrap-foot><fn id="jgrg20943-note-0001"><p>
+<italic>Note</italic>. Total profile to 200&#x000a0;cm includes a depth&#x02010;weighted estimate of the C storage between the sampled intervals. Significant differences (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05) between forest and soybean soils are indicated by different letters.</p></fn></table-wrap-foot></table-wrap><p>We found a significant negative relationship of C concentrations (<italic>p</italic>&#x000a0;=&#x000a0;0.002) and C storage (<italic>p</italic>&#x000a0;=&#x000a0;0.04) with the number of years in soybean cultivation. Mean C stocks at 0&#x02013;10&#x000a0;cm were lowest in sites converted to soybean cropland in 2007 and highest in forest. Mean C stocks in forests were 2,830&#x000a0;&#x000b1;&#x000a0;170&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup>, and C stocks for soybean cropland were 1,650&#x000a0;&#x000b1;&#x000a0;490&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup> (for soybean cropland since 2003), 1,580&#x000a0;&#x000b1;&#x000a0;190&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup> (for soybean cropland since 2004), 1,160&#x000a0;&#x000b1;&#x000a0;380&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup> (for soybean cropland since 2007), and 2,570&#x000a0;&#x000b1;&#x000a0;230&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup> (for soybean cropland since 2008). Across all depths, linear regression indicated no significant relationship between C concentration and percent clay (<italic>p</italic>&#x000a0;=&#x000a0;0.10) and between C stock and percent clay (<italic>p</italic>&#x000a0;=&#x000a0;0.06).</p><p>In surface soils (0&#x02013;10&#x000a0;cm), CO<sub>2</sub> evolution rates were significantly higher (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) in forest compared with soybean cropland soils (Table&#x000a0;<xref rid="jgrg20943-tbl-0002" ref-type="table-wrap">2</xref>). Even after accounting for mixing of soil profiles to 50&#x000a0;cm, soybean cropland soils had significantly lower rates of CO<sub>2</sub> evolution (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) following up to a decade of cultivation. Rates of CO<sub>2</sub> evolution were very low in deep soils (190&#x02013;200&#x000a0;cm) in both forest and soybean cropland (Table&#x000a0;<xref rid="jgrg20943-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="jgrg20943-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Mean&#x000a0;&#x000b1;&#x000a0;Standard Error C Evolved as CO<sub>2</sub> (&#x003bc;g&#x000a0;C&#x000a0;g&#x000a0;soil<sup>&#x02212;1</sup>&#x000a0;&#x000a0;d<sup>&#x02212;1</sup>) Over 89&#x000a0;Days From Soil Incubations by Land Use and Depth (cm)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="&#x000b1;" span="1"/><thead valign="bottom"><tr><th align="center" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">CO<sub>2</sub> evolved (&#x003bc;g&#x000a0;C&#x000a0;g&#x000a0;soil<sup>&#x02212;1</sup>&#x000a0;d<sup>&#x02212;1</sup>)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Depth (cm)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Forest</th><th align="center" valign="bottom" rowspan="1" colspan="1">Soybean cropland</th></tr></thead><tbody valign="middle"><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">35 (a)&#x000a0;&#x000b1;&#x000a0;4</td><td align="char" valign="middle" rowspan="1" colspan="1">12 (b)&#x000a0;&#x000b1;&#x000a0;1</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">1.4 (a)&#x000a0;&#x000b1;&#x000a0;0.3</td><td align="char" valign="middle" rowspan="1" colspan="1">1.6 (a)&#x000a0;&#x000b1;&#x000a0;0.2</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">90&#x02013;100</td><td align="char" valign="middle" rowspan="1" colspan="1">0.44 (a)&#x000a0;&#x000b1;&#x000a0;0.09</td><td align="char" valign="middle" rowspan="1" colspan="1">0.55 (a)&#x000a0;&#x000b1;&#x000a0;0.11</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.52 (a)&#x000a0;&#x000b1;&#x000a0;0.10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.65 (a)&#x000a0;&#x000b1;&#x000a0;0.11</td></tr></tbody></table><table-wrap-foot><fn id="jgrg20943-note-0002"><p>
+<italic>Note</italic>. Significant differences between forest and soybean cropland soils are indicated by different letters.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jgrg20943-sec-0011"><label>3.2</label><title>Soil &#x00394;<sup>14</sup>C</title><p>Bulk soil &#x00394;<sup>14</sup>C was significantly lower (<italic>p</italic>&#x000a0;=&#x000a0;0.0003) in soybean cropland than forest soils at 0&#x02013;10&#x000a0;cm (forest mean&#x000a0;=&#x000a0;107.8&#x000a0;&#x000b1;&#x000a0;4.8&#x02030;, soybean cropland mean&#x000a0;=&#x000a0;77.4&#x000a0;&#x000b1;&#x000a0;10.8&#x02030;), even after accounting for differences in percent clay (<italic>p</italic>&#x000a0;=&#x000a0;0.04). Multiple regression indicated that &#x00394;<sup>14</sup>C at 0&#x02013;10&#x000a0;cm was not related to years in soybean cultivation (<italic>p</italic>&#x000a0;=&#x000a0;0.14) or to percent clay (<italic>p</italic>&#x000a0;=&#x000a0;0.66). Calculations of mixing in the top 50&#x000a0;cm indicated no significant difference in the cumulative C&#x02010;mass weighted &#x00394;<sup>14</sup>C in forest soils compared with soybean cropland soils (<italic>p</italic>&#x000a0;=&#x000a0;0.26; Table <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S2</xref>). In deeper soils (&#x0003e;50&#x000a0;cm), &#x00394;<sup>14</sup>C did not differ between forest and soybean cropland soils (Figure&#x000a0;<xref rid="jgrg20943-fig-0002" ref-type="fig">2</xref>a) and was not related to the length of time in soybean cultivation across all depths (<italic>p</italic>&#x000a0;=&#x000a0;0.95). At most sites, the change in bulk soil &#x00394;<sup>14</sup>C from 2009 to 2013 was negative (lower &#x00394;<sup>14</sup>C in 2013 than 2009), but positive changes occurred in both forest and soybean cropland and the variation in the difference among sites increased with depth (Figures&#x000a0;<xref rid="jgrg20943-fig-0002" ref-type="fig">2</xref>b and <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S3</xref>). Across all depths, bulk soil &#x00394;<sup>14</sup>C was not significantly related to percent clay in 2009 or 2013. There was more variation in bulk soil &#x00394;<sup>14</sup>C in low clay sites (18&#x02013;30% clay, <italic>n</italic>&#x000a0;=&#x000a0;4) than in high clay sites (43&#x02013;55% clay, <italic>n</italic>&#x000a0;=&#x000a0;4) (Figure&#x000a0;<xref rid="jgrg20943-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jgrg20943-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(a) Mean&#x000a0;&#x000b1;&#x000a0;standard error bulk soil &#x00394;<sup>14</sup>C measured in soils collected at the same forest and soy sites in 2009 and 2013 to 2&#x000a0;m depth. At 0&#x02013;10&#x000a0;cm depth, mean forest &#x00394;<sup>14</sup>C was significantly higher than mean soybean cropland &#x00394;<sup>14</sup>C (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001). (b) Comparison of bulk soil &#x00394;<sup>14</sup>C (&#x02030;) from samples collected at the same sites in 2009 and 2013 across all depths. The solid black line is the 1:1 line.</p></caption><graphic id="nlm-graphic-3" xlink:href="JGRG-123-18-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="jgrg20943-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Bulk soil &#x00394;<sup>14</sup>C of soils collected in 2013 to 2&#x000a0;m depth in (a) low and (b) high clay sites. Each profile represents one sampling location. Locations starting with &#x0201c;F&#x0201d; are forested; locations starting with &#x0201c;S&#x0201d; are agricultural and the number after &#x0201c;S&#x0201d; is the two&#x02010;digit year that it was converted to soybean cropland (e.g., S07&#x02010;5 is a soybean cropland location that was converted in 2007); the number after &#x0201c;&#x02010;&#x0201d; was randomly assigned to each point (1&#x02013;7) for each treatment. Clay content ranged from 18 to 30% in low clay sites and 43 to 55% in high clay sites.</p></caption><graphic id="nlm-graphic-5" xlink:href="JGRG-123-18-g003"/></fig><p>The CO<sub>2</sub> released from incubated soybean cropland soils from 0 to 10&#x000a0;cm had significantly lower (<italic>p</italic>&#x000a0;=&#x000a0;0.002) &#x00394;<sup>14</sup>C than CO<sub>2</sub> released from forest soils (Table&#x000a0;<xref rid="jgrg20943-tbl-0003" ref-type="table-wrap">3</xref>). Additionally, the &#x00394;<sup>14</sup>C of CO<sub>2</sub> that accounted for mixing in the top 50&#x000a0;cm of soil was significantly lower in soybean cropland soils than forest soils (<italic>p</italic>&#x000a0;=&#x000a0;0.01). The &#x00394;<sup>14</sup>C of respired CO<sub>2</sub> was not significantly related (<italic>p</italic>&#x000a0;=&#x000a0;0.10) to the length of time in soybean cultivation. The &#x00394;<sup>14</sup>C of CO<sub>2</sub> in both soybean cropland and forest soils was higher than bulk soil &#x00394;<sup>14</sup>C at 40&#x02013;50 and 90&#x02013;100&#x000a0;cm, while the opposite was true at 0&#x02013;10&#x000a0;cm (Figure&#x000a0;<xref rid="jgrg20943-fig-0004" ref-type="fig">4</xref>).</p><table-wrap id="jgrg20943-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Mean&#x000a0;&#x000b1;&#x000a0;Standard Error &#x00394;<sup>14</sup>C (&#x02030;) of C Evolved as CO<sub>2</sub> in Soil Incubations by Depth (cm)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="&#x000b1;" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">&#x00394;<sup>14</sup>C of CO<sub>2</sub> evolved (&#x02030;)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Depth (cm)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Forest</th><th align="center" valign="bottom" rowspan="1" colspan="1">Soybeans</th></tr></thead><tbody valign="middle"><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">73.8 (a)&#x000a0;&#x000b1;&#x000a0;4.9</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x02212;28.5 (b)&#x000a0;&#x000b1;&#x000a0;17.9</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x02212;55.0 (a)&#x000a0;&#x000b1;&#x000a0;12.9</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x02212;54.3 (a)&#x000a0;&#x000b1;&#x000a0;14.1</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">90&#x02013;100</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x02212;16.4 (a)&#x000a0;&#x000b1;&#x000a0;8.7</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x02212;37.1 (a)&#x000a0;&#x000b1;&#x000a0;16.3</td></tr></tbody></table></table-wrap><fig fig-type="Figure" xml:lang="en" id="jgrg20943-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Bulk soil &#x00394;<sup>14</sup>C versus respired CO<sub>2</sub> &#x00394;<sup>14</sup>C by depth of soils collected in 2013 at forest and soybean cropland sites. The solid black line is the 1:1 line.</p></caption><graphic id="nlm-graphic-7" xlink:href="JGRG-123-18-g004"/></fig><p>Results from the two&#x02010;pool model indicated that in forest soils at 0&#x02013;10&#x000a0;cm, the turnover time of the faster pool was approximately 1.0 to 1.6&#x000a0;years while the turnover time of the slower pool ranged from 29 to 75&#x000a0;years (Table&#x000a0;<xref rid="jgrg20943-tbl-0004" ref-type="table-wrap">4</xref> and Figure <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S4</xref>). At deeper depths, where the proportion of slower cycling C was greater than in surface soils, both pools turned over on timescales of centuries or millennia (Table&#x000a0;<xref rid="jgrg20943-tbl-0004" ref-type="table-wrap">4</xref>). Turnover of forest soil C at 190&#x02013;200&#x000a0;cm ranged from 4,952 to 5,770&#x000a0;years for the slower pool (Table&#x000a0;<xref rid="jgrg20943-tbl-0004" ref-type="table-wrap">4</xref>).</p><table-wrap id="jgrg20943-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Modeled Pool Sizes (Fraction of Total C) and Turnover Times (Years) From a Two Pool Model of Forest Soils Based on &#x00394;<sup>14</sup>C of Evolved CO<sub>2</sub> and Bulk Soil and C Stocks in That Depth Interval</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Depth interval (cm)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pool 1 C/Total C</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pool 2 C/Total C</th><th align="center" valign="bottom" rowspan="1" colspan="1">Turnover time (years): pool 1</th><th align="center" valign="bottom" rowspan="1" colspan="1">Turnover time (years): pool 2</th></tr></thead><tbody valign="middle"><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">0.9</td><td align="char" valign="middle" rowspan="1" colspan="1">1.0</td><td align="char" valign="middle" rowspan="1" colspan="1">74.9</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.2</td><td align="char" valign="middle" rowspan="1" colspan="1">0.8</td><td align="char" valign="middle" rowspan="1" colspan="1">1.4</td><td align="char" valign="middle" rowspan="1" colspan="1">69.6</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.3</td><td align="char" valign="middle" rowspan="1" colspan="1">0.7</td><td align="char" valign="middle" rowspan="1" colspan="1">1.5</td><td align="char" valign="middle" rowspan="1" colspan="1">63.4</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.4</td><td align="char" valign="middle" rowspan="1" colspan="1">0.6</td><td align="char" valign="middle" rowspan="1" colspan="1">1.6</td><td align="char" valign="middle" rowspan="1" colspan="1">55.8</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.5</td><td align="char" valign="middle" rowspan="1" colspan="1">0.5</td><td align="char" valign="middle" rowspan="1" colspan="1">1.6</td><td align="char" valign="middle" rowspan="1" colspan="1">45.9</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">0&#x02013;10</td><td align="char" valign="middle" rowspan="1" colspan="1">0.6</td><td align="char" valign="middle" rowspan="1" colspan="1">0.4</td><td align="char" valign="middle" rowspan="1" colspan="1">1.5</td><td align="char" valign="middle" rowspan="1" colspan="1">28.8</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.01</td><td align="char" valign="middle" rowspan="1" colspan="1">0.99</td><td align="char" valign="middle" rowspan="1" colspan="1">46.1</td><td align="char" valign="middle" rowspan="1" colspan="1">1377</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.04</td><td align="char" valign="middle" rowspan="1" colspan="1">0.96</td><td align="char" valign="middle" rowspan="1" colspan="1">121.9</td><td align="char" valign="middle" rowspan="1" colspan="1">1432</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.08</td><td align="char" valign="middle" rowspan="1" colspan="1">0.92</td><td align="char" valign="middle" rowspan="1" colspan="1">190.7</td><td align="char" valign="middle" rowspan="1" colspan="1">1496</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">0.9</td><td align="char" valign="middle" rowspan="1" colspan="1">219.2</td><td align="char" valign="middle" rowspan="1" colspan="1">1527</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.15</td><td align="char" valign="middle" rowspan="1" colspan="1">0.85</td><td align="char" valign="middle" rowspan="1" colspan="1">280.3</td><td align="char" valign="middle" rowspan="1" colspan="1">1606</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">40&#x02013;50</td><td align="char" valign="middle" rowspan="1" colspan="1">0.2</td><td align="char" valign="middle" rowspan="1" colspan="1">0.8</td><td align="char" valign="middle" rowspan="1" colspan="1">331.8</td><td align="char" valign="middle" rowspan="1" colspan="1">1688</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.001</td><td align="char" valign="middle" rowspan="1" colspan="1">0.999</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x0003c;1</td><td align="char" valign="middle" rowspan="1" colspan="1">4952</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.003</td><td align="char" valign="middle" rowspan="1" colspan="1">0.997</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x0003c;1</td><td align="char" valign="middle" rowspan="1" colspan="1">4966</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.008</td><td align="char" valign="middle" rowspan="1" colspan="1">0.992</td><td align="char" valign="middle" rowspan="1" colspan="1">20.9</td><td align="char" valign="middle" rowspan="1" colspan="1">5031</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.01</td><td align="char" valign="middle" rowspan="1" colspan="1">0.99</td><td align="char" valign="middle" rowspan="1" colspan="1">26.4</td><td align="char" valign="middle" rowspan="1" colspan="1">5053</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.015</td><td align="char" valign="middle" rowspan="1" colspan="1">0.985</td><td align="char" valign="middle" rowspan="1" colspan="1">37.7</td><td align="char" valign="middle" rowspan="1" colspan="1">5105</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">190&#x02013;200</td><td align="char" valign="middle" rowspan="1" colspan="1">0.1</td><td align="char" valign="middle" rowspan="1" colspan="1">0.9</td><td align="char" valign="middle" rowspan="1" colspan="1">&#x0003c;1</td><td align="char" valign="middle" rowspan="1" colspan="1">5770</td></tr></tbody></table><table-wrap-foot><fn id="jgrg20943-note-0003"><p>
+<italic>Note</italic>. Pool sizes and turnover times were adjusted for the two pools at 0&#x02013;10&#x000a0;cm, 40&#x02013;50&#x000a0;cm, and 190&#x02013;200&#x000a0;cm.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jgrg20943-sec-0012"><label>3.3</label><title>Soil &#x003b4;<sup>13</sup>C</title><p>Bulk soil &#x003b4;<sup>13</sup>C was significantly higher in soybean cropland compared with forest soils from the surface to 20&#x000a0;cm (soils collected in 2009) or 50&#x000a0;cm depth (soils collected in 2013), and indicated a lasting influence of pasture grasses (Figure&#x000a0;<xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>a). Calculations of mixing in the top 50&#x000a0;cm indicated a significant difference in the cumulative C&#x02010;mass weighted &#x003b4;<sup>13</sup>C in forest soils compared with soybean cropland soils (<italic>p</italic>&#x000a0;=&#x000a0;0.02; Table <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S2</xref>). Bulk soil &#x003b4;<sup>13</sup>C was significantly (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) related to the number of years in soybean cultivation. Sites that had been in soybean cropland for fewer years tended to have higher &#x003b4;<sup>13</sup>C at 0&#x02013;10&#x000a0;cm (mean values of &#x02212;28.5&#x000a0;&#x000b1;&#x000a0;0.2&#x02030; in forest and &#x02212;23.3&#x000a0;&#x000b1;&#x000a0;0.3&#x02030;, &#x02212;24.2&#x000a0;&#x000b1;&#x000a0;0.4&#x02030;, &#x02212;23.7&#x000a0;&#x000b1;&#x000a0;0.4&#x02030;, and &#x02212;23.0&#x000a0;&#x000b1;&#x000a0;0.4&#x02030; in areas converted to soybean cultivation in 2003, 2004, 2007, and 2008), but this relationship was not linear. The change in bulk soil &#x003b4;<sup>13</sup>C from 2009 to 2013 tended to be negative near the soil surface but varied in magnitude and direction in both forest and soybean cropland sites and indicated high heterogeneity among samples collected from within a few meters of the same site in 2009 and 2013 (Figures&#x000a0;<xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>b and <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S5</xref>). Mean bulk soil &#x003b4;<sup>13</sup>C of all soybean cropland soils at 0&#x02013;10&#x000a0;cm in 2013 was &#x02212;23.6&#x02030; compared to &#x02212;23.1&#x02030; in 2009.</p><fig fig-type="Figure" xml:lang="en" id="jgrg20943-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>(a) Mean&#x000a0;&#x000b1;&#x000a0;standard error bulk soil &#x003b4;<sup>13</sup>C measured in soils collected at the same forest and soybean cropland sites in 2009 and 2013 to 2&#x000a0;m depth. (b) Comparison of bulk soil &#x003b4;<sup>13</sup>C (&#x02030;) from samples collected at the same sites in 2009 and 2013 across all depths. The solid black line is the 1:1 line.</p></caption><graphic id="nlm-graphic-9" xlink:href="JGRG-123-18-g005"/></fig><p>The &#x003b4;<sup>13</sup>C of CO<sub>2</sub> from 0 to 10&#x000a0;cm was significantly higher (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) in soybean cropland soils (&#x02212;18.8&#x000a0;&#x000b1;&#x000a0;0.2&#x02030;) compared with forest soils (&#x02212;27.3&#x000a0;&#x000b1;&#x000a0;0.7&#x02030;). The &#x003b4;<sup>13</sup>C of CO<sub>2</sub> was not significantly (<italic>p</italic>&#x000a0;=&#x000a0;0.48) related to the number of years in soybean cultivation.</p><p>The mean % C<sub>4</sub>&#x02010;C in the soybean cropland sites (all former pastures) across all depths was 12&#x000a0;&#x000b1;&#x000a0;4% in 2009 and 14&#x000a0;&#x000b1;&#x000a0;2% in 2013. We did not detect a decrease in the percent of C<sub>4</sub>&#x02010;C in soybean cropland soils over time as expected and the standard error was larger than the change (increase) in the mean. The mean percent C<sub>4</sub>&#x02010;C in the forest sites across all depths was 0.0&#x000a0;&#x000b1;&#x000a0;1.1% in 2009 and 0.3&#x000a0;&#x000b1;&#x000a0;0.9% in 2013.</p></sec></sec><sec id="jgrg20943-sec-0013"><label>4</label><title>Discussion</title><sec id="jgrg20943-sec-0014"><label>4.1</label><title>Resilience of C Stocks to Large Changes in Land Use and Microclimate</title><p>Contrary to our first hypothesis, after nearly three decades of pasture followed by a decade of intensive soybean cultivation, we found evidence of differences in soil C stocks between forest and soybean cropland in surface soils only. These differences can be partially explained by tillage and soil mixing at the time of conversion to soybean cropland. Previous studies have found that tropical forest conversion to pasture can increase, decrease, or have no effect on soil C stocks, while use as cropland often leads to losses of soil C (Don et al., <xref rid="jgrg20943-bib-0018" ref-type="ref">2011</xref>; Fujisaki et al., <xref rid="jgrg20943-bib-0028" ref-type="ref">2015</xref>; McGrath et al., <xref rid="jgrg20943-bib-0049" ref-type="ref">2001</xref>; Powers et al., <xref rid="jgrg20943-bib-0065" ref-type="ref">2011</xref>). Using the predicted loss of 0.00275&#x000a0;Tg&#x000a0;C&#x000a0;km<sup>&#x02212;2</sup> from soils in Latin America from 2000 to 2100 (Eglin et al., <xref rid="jgrg20943-bib-0020" ref-type="ref">2010</xref>) as a rough estimate (while acknowledging the caveats that rates of C emissions and land use change could be nonlinear or variable over the next 100&#x000a0;years), we expected stocks to be on the order of 275&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup> less in soybean cropland soils after a decade of cultivation. This was not detectable here, even after accounting for differences in bulk density between forest and soybean cropland soils.</p><p>These results suggest a resistance of these soils to extensive changes in land use and associated changes in soil microclimate under current minimum tillage management. The increase in the rate of decomposition of SOM associated with a 10&#x000b0;C increase in soil temperature (<italic>Q</italic>
+<sub>10</sub>) is commonly assumed to be around a factor of 2 (Davidson &#x00026; Janssens, <xref rid="jgrg20943-bib-0013" ref-type="ref">2006</xref>). Thus, we would expect that the 2&#x000b0;C soil temperature increase observed in surface soils at Tanguro Ranch (O'Connell, <xref rid="jgrg20943-bib-0060" ref-type="ref">2015</xref>) and in the Xingu Basin (Silv&#x000e9;rio et al., <xref rid="jgrg20943-bib-0073" ref-type="ref">2015</xref>) would be accompanied by least a 15% increase in the rate of decomposition of OM. We did not observe this across the total soil C stocks. It is possible that the decomposition rate only increases in the smaller fraction of more labile C but leaves the majority of more recalcitrant C unchanged on the timescale of two decades (Davidson &#x00026; Janssens, <xref rid="jgrg20943-bib-0013" ref-type="ref">2006</xref>; Liski et al., <xref rid="jgrg20943-bib-0045" ref-type="ref">1999</xref>; Melillo et al., <xref rid="jgrg20943-bib-0050" ref-type="ref">2002</xref>) and that this reduces the magnitude of change to overall soil C stocks, but this hypothesis remains unresolved (Fang et al., <xref rid="jgrg20943-bib-0022" ref-type="ref">2005</xref>; Xu et al., <xref rid="jgrg20943-bib-0093" ref-type="ref">2014</xref>).</p><p>Several of our results indicate that C inputs from soybean plants were low. First, there was at least a several per mil difference between forest and soybean cropland soils in the &#x003b4;<sup>13</sup>C signature in bulk soil to 50&#x000a0;cm depth (Figures&#x000a0;<xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>a, <xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>b, and <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S5</xref>) and in the CO<sub>2</sub> respired from surface soils. If soybean inputs were substantial, the C<sub>4</sub> signature of the pasture grasses on &#x003b4;<sup>13</sup>C would have declined between 2009 and 2013 after replacement of pasture with soybean cropland, but the C<sub>4</sub>&#x02010;C in soils from soybean cropland sites did not change over time (Figures&#x000a0;<xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>a, <xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>b, <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S5</xref>). Thus, even though a fairly large fraction of the C in the 0&#x02013;10 or 0&#x02013;20&#x000a0;cm depths had a turnover time fast enough to acquire the &#x003b4;<sup>13</sup>C signature of C<sub>4</sub> pasture grasses, the turnover time was still slow enough, or the new inputs from soybean plants were small enough, that the signature remained measurable 5&#x02013;10&#x000a0;years after the return of C<sub>3</sub> vegetation in cropland. These findings were supported by field observations of a small litter pool in soybean fields following harvest and low inputs of soybean litter at Tanguro Ranch estimated at 65&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;yr<sup>&#x02212;1</sup> (Figueira et al., <xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>). With a larger sample size in 0&#x02013;10&#x000a0;cm than we used, Figueira et al. (<xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>) found a small but significant decrease in &#x003b4;<sup>13</sup>C from 2009 to 2013 of soil under soybean cropland (mean values of &#x02212;23.5 in 2009 and &#x02212;24.5 in 2013).</p></sec><sec id="jgrg20943-sec-0015"><label>4.2</label><title>Effects of Mixing and Soil Compaction</title><p>In addition to the potential mechanism of C loss in surface soils from reduced soybean OM inputs, the changes in surface soil C could also be caused by mixing with deeper soil depths. Consistent with our second hypothesis, the &#x00394;<sup>14</sup>C data indicated that young C was respired and/or mixed deeper in the soil profile, leading to an older average age of bulk soil C under soybean cropland (Figure&#x000a0;<xref rid="jgrg20943-fig-0002" ref-type="fig">2</xref>a) and lower rates of CO<sub>2</sub> evolution in incubations of soybean cropland surface soils (Table&#x000a0;<xref rid="jgrg20943-tbl-0002" ref-type="table-wrap">2</xref>). The &#x003b4;<sup>13</sup>C indicated the presence of residual C<sub>4</sub>&#x02010;derived C as deep as 20 or 50&#x000a0;cm (Figure&#x000a0;<xref rid="jgrg20943-fig-0005" ref-type="fig">5</xref>a), which could indicate the influence of either downward mixing or the residual effect from past inputs from deep&#x02010;rooted pasture grasses. Tilling in these soils occurred to 40&#x000a0;cm depth so the potential for mixing of old and young soil C was high in the upper soils following tillage. However, old (pre&#x02010;bomb) C was respired in CO<sub>2</sub> in soils at 0&#x02013;10&#x000a0;cm and 0&#x02013;50&#x000a0;cm depth in excess of what could be attributed to mixing alone (Table&#x000a0;<xref rid="jgrg20943-tbl-0003" ref-type="table-wrap">3</xref>). Management practices associated with cultivation, specifically tillage, can break up soil aggregates and expose OM to microbes and oxidation (Six et al., <xref rid="jgrg20943-bib-0075" ref-type="ref">1999</xref>; Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>), which could change the apparent age of both bulk soil C and respired CO<sub>2</sub>.</p><p>The errors associated with C stock calculations in croplands can be large because soil bulk density is difficult to measure accurately (Holmes et al., <xref rid="jgrg20943-bib-0035" ref-type="ref">2012</xref>; Taalab et al., <xref rid="jgrg20943-bib-0081" ref-type="ref">2013</xref>; Veldkamp, <xref rid="jgrg20943-bib-0091" ref-type="ref">1994</xref>), particularly in the upper soil horizons in seasonally dry soils, or in soils that are tilled and impacted by machinery. To observe changes in C stocks following land conversion, the changes must be large enough to detect (De Camargo et al., <xref rid="jgrg20943-bib-0015" ref-type="ref">1999</xref>; Figueira et al., <xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>) despite errors associated with bulk density that can be up to 5% of the uncertainty in C stocks (Holmes et al., <xref rid="jgrg20943-bib-0035" ref-type="ref">2012</xref>). According to the projected losses of 27.5&#x000a0;g&#x000a0;C&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;yr<sup>&#x02212;1</sup> through the year 2100 (Eglin et al., <xref rid="jgrg20943-bib-0020" ref-type="ref">2010</xref>), we were looking for a small change in a large pool that may be below our detection limit. It is possible that error associated with measurement of bulk density masked some of the difference in C stocks by introducing additional variability or that the influence of land conversion on C stocks has been small. Our small errors in bulk density, together with significant differences in C concentrations and stocks found only in surface soils and not at deeper soil depths, even after accounting for soil compaction (Table&#x000a0;<xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S1</xref>), points toward the conclusion of low rates of change in soil C stocks.</p></sec><sec id="jgrg20943-sec-0016"><label>4.3</label><title>The Effect of the Length of Cultivation</title><p>The duration of soybean cultivation did not have a large effect on soil C, contrary to our third hypothesis. The lowest C storage was in areas converted to soybean cropland in 2007, rather than 2003 or 2004, and did not fit with the expected pattern that longer time in soybean cropland would cause greater C reductions. This suggested that reduction in C stocks of surface soils was not a linear process or that initial conditions varied across sites and was related in some way to pre&#x02010;existing soil properties or past management. It would require very large changes in soil C to detect the effect of this chronosequence of years in soybean cultivation within the soybean cropland, and the chronosequence approach assumes that all other factors are equal among sites. We know that some of the sites converted to soybean cropland in 2007 had lower clay content (Riskin et al., <xref rid="jgrg20943-bib-0067" ref-type="ref">2013</xref>) and thus lower C storage in surface soils (Figueira et al., <xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>). However, even with clay content as a covariate, the effect of years in soybean cultivation was not statistically significant in surface soils (Figueira et al., <xref rid="jgrg20943-bib-0024" ref-type="ref">2016</xref>). Significant negative relationships of C content and &#x003b4;<sup>13</sup>C with the years in soybean cultivation were observed, but the greatest differences were between forest and soybean cropland soils.</p></sec><sec id="jgrg20943-sec-0017"><label>4.4</label><title>Multiple Controls on Tropical Soil C</title><p>We observed heterogeneity in C dynamics within forest soils (Figure&#x000a0;<xref rid="jgrg20943-fig-0002" ref-type="fig">2</xref>a). Inherent soil properties, such as clay content, are important controls on C dynamics (Powers et al., <xref rid="jgrg20943-bib-0065" ref-type="ref">2011</xref>; Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>). However, the influence of percent clay on C stocks, C concentrations, &#x003b4;<sup>13</sup>C, and &#x00394;<sup>14</sup>C across soil depths was inconsistent. The strong vertical structure down the profile in &#x00394;<sup>14</sup>C but not in percent clay indicated that a combination of percent clay and depth controlled &#x00394;<sup>14</sup>C changes. Climate can also be an important control of C processes, but these sites all had a similar regional climate (although differences in microclimate between soybean cropland and forest were pronounced).</p></sec><sec id="jgrg20943-sec-0018"><label>4.5</label><title>Stability of Deep Soil C</title><p>Soils of the Brazilian Shield are typically highly weathered and very deep (Neill et al., <xref rid="jgrg20943-bib-0056" ref-type="ref">2013</xref>; Nepstad et al., <xref rid="jgrg20943-bib-0058" ref-type="ref">1994</xref>; Trumbore, <xref rid="jgrg20943-bib-0086" ref-type="ref">2000</xref>) and the small stocks of relatively older C at 2&#x000a0;m depth, compared with surface soils, produced low levels of CO<sub>2</sub> from respiration (Table&#x000a0;<xref rid="jgrg20943-tbl-0002" ref-type="table-wrap">2</xref>). Simple calculations of the time to respire all of the C in deep soils indicated a turnover time of decades, yet the <sup>14</sup>C age of the C respired was on average older, suggesting that incubation conditions enhanced destabilization or that rates would slow over time as the more available C was respired. We measured declining rates of CO<sub>2</sub> evolution during the 3&#x000a0;month incubation period (data not shown), consistent with previous studies (Follett et al., <xref rid="jgrg20943-bib-0026" ref-type="ref">2007</xref>; Swanston et al., <xref rid="jgrg20943-bib-0080" ref-type="ref">2002</xref>).</p><p>Older C in deeper soils at 1&#x02013;2&#x000a0;m did not exhibit differences in C stocks, CO<sub>2</sub> production, or C<sub>4</sub> vegetation signature, despite the change in land use over three decades. The lack of change may be related to the relative stability of Fe&#x02010; and Al&#x02010;stabilized SOM at deeper depths. Associations of organic C and primary and secondary minerals, such as Fe and Al oxides and hydroxides, are important for soil aggregation and SOM stabilization (Sollins et al., <xref rid="jgrg20943-bib-0077" ref-type="ref">1996</xref>; Torn et al., <xref rid="jgrg20943-bib-0082" ref-type="ref">2009</xref>). The respiration of C that was younger than the bulk soil C in deeper soils (Figure&#x000a0;<xref rid="jgrg20943-fig-0004" ref-type="fig">4</xref>) was consistent with previous studies (Phillips et al., <xref rid="jgrg20943-bib-0064" ref-type="ref">2013</xref>) and indicated that there was some older substrate that was more protected or less available. Because both inputs and respiration were low in deep soils, mean turnover times were very slow.</p><p>Changes in regional climate caused by land use and global climate forcings, including increasing atmospheric CO<sub>2</sub> concentrations, warmer temperatures, and increasing periods of drought, have the potential to alter C cycling in the Amazon if large C pools are responsive to climatic changes (Oliveira et al., <xref rid="jgrg20943-bib-0061" ref-type="ref">2013</xref>). The 2&#x000b0;C soil warming that has resulted from land use change here (O'Connell, <xref rid="jgrg20943-bib-0060" ref-type="ref">2015</xref>; Silv&#x000e9;rio et al., <xref rid="jgrg20943-bib-0073" ref-type="ref">2015</xref>) may be larger than the effects caused by climate change directly, and reductions in transpiration in the agricultural soils mean that they remain wetter at depth than forest soils (Neill et al., <xref rid="jgrg20943-bib-0056" ref-type="ref">2013</xref>). We found that large amounts of C in deeper soils remained unaffected despite dramatic changes in land use over three decades. Thus, more work is needed to refine long&#x02010;term projections of the effects of climate and land use change on soil C dynamics in the Amazon.</p></sec></sec><sec id="jgrg20943-sec-0019"><label>5</label><title>Conclusions</title><p>In summary, conversion of seasonally dry tropical forests to pasture and cropland in the southern Amazon region of cropland expansion led to only small changes in soil C dynamics. While organic inputs from African pasture grasses such as <italic>Brachiaria</italic> spp. can meet or exceed those from forest trees, our data suggested that inputs from soybeans in the last decade must have been low relative to those from trees or pasture grasses under forest or pasture. Differences in C storage below the top 10&#x000a0;cm were not detected and mixing to 50&#x000a0;cm depth could account for some differences in both C storage and bulk soil &#x00394;<sup>14</sup>C between forest and soybean cropland soils. However, lower rates of CO<sub>2</sub> production and lower &#x00394;<sup>14</sup>C of CO<sub>2</sub> indicated that there was a loss of young C or destabilization of old C in the top 50&#x000a0;cm. With continued low OM inputs from soybeans and hotter local and regional temperatures, further reductions in C stocks would be possible if these large C pools were responsive. However, we found that C stocks in these soils were mostly resistant to these drivers and that C stock changes in the coming decades are likely to be modest if similar crop management practices are used. Programs like Brazil's Low&#x02010;Carbon Agriculture Plan that provides lines of credit for following best agricultural management practices can help reduce C losses from expanding tropical cropland in the Amazon (Angelo, <xref rid="jgrg20943-bib-0001" ref-type="ref">2012</xref>; de Moraes S&#x000e1; et al., <xref rid="jgrg20943-bib-0051" ref-type="ref">2017</xref>).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jgrg20943-supinf-0001"/><supplementary-material content-type="local-data" id="jgrg20943-supitem-0001"><caption><p>Supporting Information S1</p></caption><media xlink:href="JGRG-123-18-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jgrg20943-sec-0020"><title>Acknowledgments</title><p>We thank Xiaomei Xu and Jennifer Lehman at the UC Irvine Keck Carbon Cycle AMS facility and Marshall Otter at the Marine Biological Laboratory for help with sample preparation and analysis. We are grateful for the help of all members of Instituto de Pesquisa Ambiental da Amaz&#x000f4;nia (IPAM) Canarana including Raimundo Mota Quintino, Sebasti&#x000e2;o Aviz do Nascimento, Darlisson Nunes, Sandro Rocha, Ebis Nascimento, Wanderley Rocha, San Oliveira Santos, and Adilson Ribeiro Coelho. Grupo A. Maggi provided access to the field site. We thank the Max&#x02010;Planck Society and UC Irvine for assistance with this study. We thank Paul Lefebvre of Woods Hole Research Center for preparing the map of land use transitions (Figure <xref rid="jgrg20943-supitem-0001" ref-type="supplementary-material">S2</xref>). This research has been supported by a grant from the U.S. Environmental Protection Agency's Science to Achieve Results (STAR) program (award FP&#x02010;91749001&#x02010;0) and a Brown University EEB Dissertation Development Grant award to R.C.N. S.T. received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation program (grant agreement 695101 (14Constraint)). Additional support was provided by the Andrew Mellon Foundation to S.P., National Science Foundation awards DEB 0949370, DEB 1257391, and ICN 1342953 to C.N., and by the State of S&#x000e3;o Paulo Research Foundation (FAPESP). All of the data from this study are available at <ext-link ext-link-type="uri" xlink:href="http://doi.org/10.5281/zenodo.1127667">http://doi.org/10.5281/zenodo.1127667</ext-link>. The code used to analyze the data can be found at <ext-link ext-link-type="uri" xlink:href="https://github.com/nagyrc/Tanguro_soil_carbon">https://github.com/nagyrc/Tanguro_soil_carbon</ext-link>.</p></ack><ref-list id="jgrg20943-bibl-0001" content-type="cited-references"><title>References</title><ref id="jgrg20943-bib-0001"><mixed-citation publication-type="journal" id="jgrg20943-cit-0002">
+<string-name>
+<surname>Angelo</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Brazil's fund for low&#x02010;carbon agriculture lies fallow</article-title>. <source xml:lang="en">Nature: News</source>.</mixed-citation></ref><ref id="jgrg20943-bib-0002"><mixed-citation publication-type="journal" id="jgrg20943-cit-0003">
+<string-name>
+<surname>Angers</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Arrouays</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Saby</surname>, <given-names>N. P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walter</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Estimating and mapping the carbon saturation deficit of French agricultural topsoils</article-title>. <source xml:lang="en">Soil Use and Management</source>, <volume>27</volume>(<issue>4</issue>), <fpage>448</fpage>&#x02013;<lpage>452</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1475-2743.2011.00366.x">https://doi.org/10.1111/j.1475-2743.2011.00366.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0003"><mixed-citation publication-type="journal" id="jgrg20943-cit-0004">
+<string-name>
+<surname>Baccini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Laporte</surname>, <given-names>N. T.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sulla&#x02010;Menashe</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Houghton</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Estimated carbon dioxide emissions from tropical deforestation improved by carbon&#x02010;density maps</article-title>. <source xml:lang="en">Nature Climate Change</source>, <volume>2</volume>(<issue>3</issue>), <fpage>182</fpage>&#x02013;<lpage>185</lpage>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nclimate/journal/v2/n3/abs/nclimate1354.html#supplementary-information">http://www.nature.com/nclimate/journal/v2/n3/abs/nclimate1354.html#supplementary-information</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0004"><mixed-citation publication-type="journal" id="jgrg20943-cit-0005">
+<string-name>
+<surname>Baisden</surname>, <given-names>W. T.</given-names>
+</string-name>, <string-name>
+<surname>Parfitt</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schipper</surname>, <given-names>L. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Canessa</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Evaluating 50&#x000a0;years of time&#x02010;series soil radiocarbon data: Towards routine calculation of robust C residence times</article-title>. <source xml:lang="en">Biogeochemistry</source>, <volume>112</volume>(<issue>1</issue>), <fpage>129</fpage>&#x02013;<lpage>137</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10533-011-9675-y">https://doi.org/10.1007/s10533-011-9675-y</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0005"><mixed-citation publication-type="journal" id="jgrg20943-cit-0006">
+<string-name>
+<surname>Bosch</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hewlett</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>1982</year>). <article-title>A review of catchment experiments to determine the effect of vegetation changes on water yield and evapotranspiration</article-title>. <source xml:lang="en">Journal of Hydrology</source>, <volume>55</volume>, <fpage>3</fpage>&#x02013;<lpage>23</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0006"><mixed-citation publication-type="book" id="jgrg20943-cit-0007">
+<string-name>
+<surname>Boucher</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Elias</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>May&#x02010;Tobin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mulik</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Roquemore</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>). <source xml:lang="en">Grade A choice? Solutions for deforestation&#x02010;free meat</source>. <publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>Union of Concerned Scientists</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.ucsusa.org/deforestationfree">http://www.ucsusa.org/deforestationfree</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0007"><mixed-citation publication-type="book" id="jgrg20943-cit-0008">
+<string-name>
+<surname>Brown</surname>, <given-names>L. R.</given-names>
+</string-name> (<year>2009</year>). <source xml:lang="en">Plan B 4.0: Mobilizing to save civilization</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>W. W. Norton and Company</publisher-name>.</mixed-citation></ref><ref id="jgrg20943-bib-0008"><mixed-citation publication-type="journal" id="jgrg20943-cit-0009">
+<string-name>
+<surname>Carvalho</surname>, <given-names>J. L. N.</given-names>
+</string-name>, <string-name>
+<surname>Raucci</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Cerri</surname>, <given-names>C. E. P.</given-names>
+</string-name>, <string-name>
+<surname>Bernoux</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Feigl</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Wruck</surname>, <given-names>F. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cerri</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Impact of pasture, agriculture and crop&#x02010;livestock systems on soil C stocks in Brazil</article-title>. <source xml:lang="en">Soil and Tillage Research</source>, <volume>110</volume>(<issue>1</issue>), <fpage>175</fpage>&#x02013;<lpage>186</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.still.2010.07.011">https://doi.org/10.1016/j.still.2010.07.011</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0009"><mixed-citation publication-type="book" id="jgrg20943-cit-0010">
+<string-name>
+<surname>Ciais</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sabine</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bala</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bopp</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brovkin</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Canadell</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Thornton</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>). <chapter-title>Carbon and other biogeochemical cycles</chapter-title> In <person-group person-group-type="editor"><name><surname>Stocker</surname><given-names>T. F.</given-names></name></person-group>, et al. (Eds.), <source xml:lang="en">Climate change 2013: The physical science basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</source> (Chap. 6, pp. <fpage>465</fpage>&#x02013;<lpage>570</lpage>). <publisher-loc>Cambridge, UK, and New York</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="jgrg20943-bib-0010"><mixed-citation publication-type="journal" id="jgrg20943-cit-0011">
+<string-name>
+<surname>Coe</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Latrubesse</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Amsler</surname>, <given-names>M. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>The effects of deforestation and climate variability on the streamflow of the Araguaia River, Brazil</article-title>. <source xml:lang="en">Biogeochemistry</source>, <volume>105</volume>(<issue>1</issue>), <fpage>119</fpage>&#x02013;<lpage>131</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10533-011-9582-2">https://doi.org/10.1007/s10533-011-9582-2</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0011"><mixed-citation publication-type="book" id="jgrg20943-cit-0012">
+<string-name>
+<surname>Core Team</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <source xml:lang="en">R: A language and environment for statistical computing (version 3.2.2)</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.R-project.org/">https://www.R-project.org/</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0012"><mixed-citation publication-type="journal" id="jgrg20943-cit-0013">
+<string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ackerman</surname>, <given-names>I. L.</given-names>
+</string-name> (<year>1993</year>). <article-title>Changes in soil carbon inventories following cultivation of previously untilled soils</article-title>. <source xml:lang="en">Biogeochemistry</source>, <volume>20</volume>(<issue>3</issue>), <fpage>161</fpage>&#x02013;<lpage>193</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/BF00000786">https://doi.org/10.1007/BF00000786</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0013"><mixed-citation publication-type="journal" id="jgrg20943-cit-0014">
+<string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Janssens</surname>, <given-names>I. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Temperature sensitivity of soil carbon decomposition and feedbacks to climate change</article-title>. <source xml:lang="en">Nature</source>, <volume>440</volume>(<issue>7081</issue>), <fpage>165</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">16525463</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0014"><mixed-citation publication-type="journal" id="jgrg20943-cit-0015">
+<string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Nepstad</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Klink</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>1995</year>). <article-title>Pasture soils as carbon sink</article-title>. <source xml:lang="en">Nature</source>, <volume>376</volume>(<issue>6540</issue>), <fpage>472</fpage>&#x02013;<lpage>473</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0015"><mixed-citation publication-type="journal" id="jgrg20943-cit-0016">
+<string-name>
+<surname>De Camargo</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Martinelli</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Nepstad</surname>, <given-names>D. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Victoria</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1999</year>). <article-title>Soil carbon dynamics in regrowing forest of eastern Amazonia</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>5</volume>(<issue>6</issue>), <fpage>693</fpage>&#x02013;<lpage>702</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1046/j.1365-2486.1999.00259.x">https://doi.org/10.1046/j.1365-2486.1999.00259.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0051"><mixed-citation publication-type="journal" id="jgrg20943-cit-0052">
+<string-name>
+<surname>de Moraes S&#x000e1;</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Lal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cerri</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Lorenz</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hungria</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Faccio Carvalho</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Low&#x02010;carbon agriculture in South America to mitigate global climate change and advance food security</article-title>. <source xml:lang="en">Environment International</source>, <volume>98</volume>, <fpage>102</fpage>&#x02013;<lpage>112</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.envint.2016.10.020">https://doi.org/10.1016/j.envint.2016.10.020</ext-link>
+<pub-id pub-id-type="pmid">27838119</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0016"><mixed-citation publication-type="journal" id="jgrg20943-cit-0017">
+<string-name>
+<surname>Desjardins</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Barros</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sarrazin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Girardin</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mariotti</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Effects of forest conversion to pasture on soil carbon content and dynamics in Brazilian Amazonia</article-title>. <source xml:lang="en">Agriculture, Ecosystems &#x00026; Environment</source>, <volume>103</volume>(<issue>2</issue>), <fpage>365</fpage>&#x02013;<lpage>373</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.agee.2003.12.008">https://doi.org/10.1016/j.agee.2003.12.008</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0017"><mixed-citation publication-type="journal" id="jgrg20943-cit-0018">
+<string-name>
+<surname>Dieckow</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bayer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Concei&#x000e7;&#x000e3;o</surname>, <given-names>P. C.</given-names>
+</string-name>, <string-name>
+<surname>Zanatta</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Martin&#x02010;Neto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Milori</surname>, <given-names>D. B. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hernani</surname>, <given-names>L. C.</given-names>
+</string-name> (<year>2009</year>). <article-title>Land use, tillage, texture and organic matter stock and composition in tropical and subtropical Brazilian soils</article-title>. <source xml:lang="en">European Journal of Soil Science</source>, <volume>60</volume>(<issue>2</issue>), <fpage>240</fpage>&#x02013;<lpage>249</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2389.2008.01101.x">https://doi.org/10.1111/j.1365-2389.2008.01101.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0018"><mixed-citation publication-type="journal" id="jgrg20943-cit-0019">
+<string-name>
+<surname>Don</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schumacher</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Freibauer</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Impact of tropical land&#x02010;use change on soil organic carbon stocks&#x02014;A meta&#x02010;analysis</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>17</volume>(<issue>4</issue>), <fpage>1658</fpage>&#x02013;<lpage>1670</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2486.2010.02336.x">https://doi.org/10.1111/j.1365-2486.2010.02336.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0019"><mixed-citation publication-type="journal" id="jgrg20943-cit-0020">
+<string-name>
+<surname>Durigan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cherubin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de Camargo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Berenguer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cerri</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Soil organic matter responses to anthropogenic forest disturbance and land use change in the Eastern Brazilian Amazon</article-title>. <source xml:lang="en">Sustainability</source>, <volume>9</volume>(<issue>3</issue>), <elocation-id>379</elocation-id>.</mixed-citation></ref><ref id="jgrg20943-bib-0020"><mixed-citation publication-type="journal" id="jgrg20943-cit-0021">
+<string-name>
+<surname>Eglin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ciais</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Barre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bellassen</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Cadule</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Smith</surname>, <given-names>P.</given-names>
+</string-name> (<year>2010</year>). <article-title>Historical and future perspectives of global soil carbon response to climate and land&#x02010;use changes</article-title>. <source xml:lang="en">Tellus B</source>, <volume>62</volume>(<issue>5</issue>), <fpage>700</fpage>&#x02013;<lpage>718</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1600-0889.2010.00499.x">https://doi.org/10.1111/j.1600-0889.2010.00499.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0021"><mixed-citation publication-type="journal" id="jgrg20943-cit-0022">
+<string-name>
+<surname>Ehleringer</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Buchmann</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Flanagan</surname>, <given-names>L. B.</given-names>
+</string-name> (<year>2000</year>). <article-title>Carbon isotope ratios in belowground carbon cycle processes</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>10</volume>(<issue>2</issue>), <fpage>412</fpage>&#x02013;<lpage>422</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/1051-0761(2000)010%5B0412:CIRIBC%5D2.0.CO;2">https://doi.org/10.1890/1051-0761(2000)010%5B0412:CIRIBC%5D2.0.CO;2</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0022"><mixed-citation publication-type="journal" id="jgrg20943-cit-0023">
+<string-name>
+<surname>Fang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Moncrieff</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>J. U.</given-names>
+</string-name> (<year>2005</year>). <article-title>Similar response of labile and resistant soil organic matter pools to changes in temperature</article-title>. <source xml:lang="en">Nature</source>, <volume>433</volume>(<issue>7021</issue>), <fpage>57</fpage>&#x02013;<lpage>59</lpage>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature/journal/v433/n7021/suppinfo/nature03138_S1.html">http://www.nature.com/nature/journal/v433/n7021/suppinfo/nature03138_S1.html</ext-link>
+<pub-id pub-id-type="pmid">15635408</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0023"><mixed-citation publication-type="journal" id="jgrg20943-cit-0024">
+<string-name>
+<surname>Feller</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beare</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>1997</year>). <article-title>Physical control of soil organic matter dynamics in the tropics</article-title>. <source xml:lang="en">Geoderma</source>, <volume>79</volume>(<issue>1</issue>), <fpage>69</fpage>&#x02013;<lpage>116</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0016-7061(97)00039-6">https://doi.org/10.1016/S0016-7061(97)00039-6</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0024"><mixed-citation publication-type="journal" id="jgrg20943-cit-0025">
+<string-name>
+<surname>Figueira</surname>, <given-names>A. M. e. S.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Nagy</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Riskin</surname>, <given-names>S. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martinelli</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Isotopically constrained soil carbon and nitrogen budgets in a soybean field chronosequence in the Brazilian Amazon region</article-title>. <source xml:lang="en">Journal of Geophysical Research: Biogeosciences</source>, <volume>121</volume>, <fpage>2520</fpage>&#x02013;<lpage>2529</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/2016JG003470">https://doi.org/10.1002/2016JG003470</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0025"><mixed-citation publication-type="journal" id="jgrg20943-cit-0026">
+<string-name>
+<surname>Fisher</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<surname>Ayarza</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Lascano</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vera</surname>, <given-names>R. R.</given-names>
+</string-name> (<year>1994</year>). <article-title>Carbon storage by introduced deep&#x02010;rooted grasses in the South American savannas</article-title>. <source xml:lang="en">Nature</source>, <volume>371</volume>(<issue>6494</issue>), <fpage>236</fpage>&#x02013;<lpage>238</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0026"><mixed-citation publication-type="journal" id="jgrg20943-cit-0027">
+<string-name>
+<surname>Follett</surname>, <given-names>R. F.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pruessner</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Soil carbon dynamics during a long&#x02010;term incubation study involving <sup>13</sup>C and <sup>14</sup>C measurements</article-title>. <source xml:lang="en">Soil Science</source>, <volume>172</volume>(<issue>3</issue>), <fpage>189</fpage>&#x02013;<lpage>208</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1097/ss.0b013e31803403de">https://doi.org/10.1097/ss.0b013e31803403de</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0027"><mixed-citation publication-type="journal" id="jgrg20943-cit-0028">
+<string-name>
+<surname>Friedlingstein</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Meinshausen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>, <given-names>V. K.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Anav</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Liddicoat</surname>, <given-names>S. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Knutti</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Uncertainties in CMIP5 climate projections due to carbon cycle feedbacks</article-title>. <source xml:lang="en">Journal of Climate</source>, <volume>27</volume>(<issue>2</issue>), <fpage>511</fpage>&#x02013;<lpage>526</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1175/JCLI-D-12-00579.1">https://doi.org/10.1175/JCLI-D-12-00579.1</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0028"><mixed-citation publication-type="journal" id="jgrg20943-cit-0029">
+<string-name>
+<surname>Fujisaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Perrin</surname>, <given-names>A.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Desjardins</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bernoux</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Balbino</surname>, <given-names>L. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brossard</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>From forest to cropland and pasture systems: a critical review of soil organic carbon stocks changes in Amazonia</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>21</volume>(<issue>7</issue>), <fpage>2773</fpage>&#x02013;<lpage>2786</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/gcb.12906">https://doi.org/10.1111/gcb.12906</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0029"><mixed-citation publication-type="journal" id="jgrg20943-cit-0030">
+<string-name>
+<surname>Galford</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Melillo</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Kicklighter</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Mustard</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Cronin</surname>, <given-names>T. W.</given-names>
+</string-name>, <string-name>
+<surname>Cerri</surname>, <given-names>C. E. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cerri</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Historical carbon emissions and uptake from the agricultural frontier of the Brazilian Amazon</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>21</volume>(<issue>3</issue>), <fpage>750</fpage>&#x02013;<lpage>763</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/09-1957.1">https://doi.org/10.1890/09-1957.1</ext-link>
+<pub-id pub-id-type="pmid">21639042</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0030"><mixed-citation publication-type="journal" id="jgrg20943-cit-0031">
+<string-name>
+<surname>Giardina</surname>, <given-names>C. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ryan</surname>, <given-names>M. G.</given-names>
+</string-name> (<year>2000</year>). <article-title>Evidence that decomposition rates of organic carbon in mineral soil do not vary with temperature</article-title>. <source xml:lang="en">Nature</source>, <volume>404</volume>(<issue>6780</issue>), <fpage>858</fpage>&#x02013;<lpage>861</lpage>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature/journal/v404/n6780/suppinfo/404858a0_S1.html">http://www.nature.com/nature/journal/v404/n6780/suppinfo/404858a0_S1.html</ext-link>
+<pub-id pub-id-type="pmid">10786789</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0031"><mixed-citation publication-type="journal" id="jgrg20943-cit-0032">
+<string-name>
+<surname>Harden</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Sharpe</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Parton</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Ojima</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Fries</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Huntington</surname>, <given-names>T. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dabney</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>1999</year>). <article-title>Dynamic replacement and loss of soil carbon on eroding cropland</article-title>. <source xml:lang="en">Global Biogeochemical Cycles</source>, <volume>13</volume>(<issue>4</issue>), <fpage>885</fpage>&#x02013;<lpage>901</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1029/1999GB900061">https://doi.org/10.1029/1999GB900061</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0032"><mixed-citation publication-type="journal" id="jgrg20943-cit-0033">
+<string-name>
+<surname>Harrison</surname>, <given-names>K. G.</given-names>
+</string-name>, <string-name>
+<surname>Broecker</surname>, <given-names>W. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bonani</surname>, <given-names>G.</given-names>
+</string-name> (<year>1993</year>). <article-title>The effect of changing land use on soil radiocarbon</article-title>. <source xml:lang="en">Science</source>, <volume>262</volume>, <fpage>725</fpage>&#x02013;<lpage>725</lpage>.<pub-id pub-id-type="pmid">17812338</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0033"><mixed-citation publication-type="journal" id="jgrg20943-cit-0034">
+<string-name>
+<surname>Hayhoe</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Neill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Porder</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>McHorney</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lefebvre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Coe</surname>, <given-names>M. T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Krusche</surname>, <given-names>A. V.</given-names>
+</string-name> (<year>2011</year>). <article-title>Conversion to soy on the Amazonian agricultural frontier increases streamflow without affecting stormflow dynamics</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>17</volume>(<issue>5</issue>), <fpage>1821</fpage>&#x02013;<lpage>1833</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2486.2011.02392.x">https://doi.org/10.1111/j.1365-2486.2011.02392.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0034"><mixed-citation publication-type="book" id="jgrg20943-cit-0035">
+<string-name>
+<surname>Hibbert</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>1967</year>). <chapter-title>Forest treatment effects on water yield</chapter-title> In <person-group person-group-type="editor"><name><surname>Sopper</surname><given-names>W. E.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Lull</surname><given-names>H. W.</given-names></name></person-group> (Eds.), <source xml:lang="en">Forest hydrology: Proceedings of a National Science Foundation advanced science seminar</source> (pp. <fpage>527</fpage>&#x02013;<lpage>543</lpage>). <publisher-loc>New York</publisher-loc>: <publisher-name>Pergamon Press</publisher-name>.</mixed-citation></ref><ref id="jgrg20943-bib-0035"><mixed-citation publication-type="journal" id="jgrg20943-cit-0036">
+<string-name>
+<surname>Holmes</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Wherrett</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Keating</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Murphy</surname>, <given-names>D. V.</given-names>
+</string-name> (<year>2012</year>). <article-title>Meeting bulk density sampling requirements efficiently to estimate soil carbon stocks</article-title>. <source xml:lang="en">Soil Research</source>, <volume>49</volume>(<issue>8</issue>), <fpage>680</fpage>&#x02013;<lpage>695</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0036"><mixed-citation publication-type="journal" id="jgrg20943-cit-0037">
+<string-name>
+<surname>Houghton</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Revised estimates of the annual net flux of carbon to the atmosphere from changes in land use and land management 1850&#x02013;2000</article-title>. <source xml:lang="en">Tellus B</source>, <volume>55</volume>(<issue>2</issue>), <fpage>378</fpage>&#x02013;<lpage>390</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1034/j.1600-0889.2003.01450.x">https://doi.org/10.1034/j.1600-0889.2003.01450.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0037"><mixed-citation publication-type="journal" id="jgrg20943-cit-0038">
+<string-name>
+<surname>Houghton</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Aboveground forest biomass and the global carbon balance</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>11</volume>(<issue>6</issue>), <fpage>945</fpage>&#x02013;<lpage>958</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2486.2005.00955.x">https://doi.org/10.1111/j.1365-2486.2005.00955.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0038"><mixed-citation publication-type="journal" id="jgrg20943-cit-0039">
+<string-name>
+<surname>Houghton</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>House</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Pongratz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>van der Werf</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>DeFries</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ramankutty</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Carbon emissions from land use and land&#x02010;cover change</article-title>. <source xml:lang="en">Biogeosciences</source>, <volume>9</volume>(<issue>12</issue>), <fpage>5125</fpage>&#x02013;<lpage>5142</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5194/bg-9-5125-2012">https://doi.org/10.5194/bg-9-5125-2012</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0039"><mixed-citation publication-type="journal" id="jgrg20943-cit-0040">
+<string-name>
+<surname>Hursh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ballantyne</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Maneta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kimball</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Watts</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>The sensitivity of soil respiration to soil temperature, moisture, and carbon supply at the global scale</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>23</volume>(<issue>5</issue>), <fpage>2090</fpage>&#x02013;<lpage>2103</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/gcb.13489">https://doi.org/10.1111/gcb.13489</ext-link>
+<pub-id pub-id-type="pmid">27594213</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0040"><mixed-citation publication-type="journal" id="jgrg20943-cit-0041">
+<string-name>
+<surname>Huth</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Porder</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chaves</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whiteside</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2012</year>). <article-title>Soil carbon and nutrient changes associated with deforestation for pasture in southern Costa Rica</article-title>. <source xml:lang="en">Biotropica</source>, <volume>44</volume>(<issue>5</issue>), <fpage>661</fpage>&#x02013;<lpage>667</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1744-7429.2012.00863.x">https://doi.org/10.1111/j.1744-7429.2012.00863.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0041"><mixed-citation publication-type="book" id="jgrg20943-cit-0042">
+<collab collab-type="authors">Intergovernmental Panel on Climate Change</collab>
+(<year>2014</year>). In 
+<collab collab-type="authors">Core Writing Team</collab>
+, <person-group person-group-type="editor"><name><surname>Pachauri</surname><given-names>R. K.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Meyer</surname><given-names>L. A.</given-names></name></person-group> (Eds.), <source xml:lang="en">Climate change 2014: Synthesis report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</source> (p. <fpage>151</fpage>). <publisher-loc>Geneva, Switzerland</publisher-loc>: <publisher-name>IPPC</publisher-name>.</mixed-citation></ref><ref id="jgrg20943-bib-0042"><mixed-citation publication-type="journal" id="jgrg20943-cit-0043">
+<string-name>
+<surname>Ivanauskas</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Monteiro</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rodrigues</surname>, <given-names>R. R.</given-names>
+</string-name> (<year>2004</year>). <article-title>Estrutura de um trecho de floresta Amaz&#x000f4;nica na bacia do alto rio Xingu</article-title>. <source xml:lang="en">Acta Amazonica</source>, <volume>34</volume>, <fpage>275</fpage>&#x02013;<lpage>299</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0043"><mixed-citation publication-type="journal" id="jgrg20943-cit-0044">
+<string-name>
+<surname>Lal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Apt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lave</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morgan</surname>, <given-names>M. G.</given-names>
+</string-name> (<year>2004</year>). <article-title>Managing soil carbon</article-title>. <source xml:lang="en">Science</source>, <volume>304</volume>(<issue>5669</issue>), <elocation-id>393</elocation-id>.<pub-id pub-id-type="pmid">15087532</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0044"><mixed-citation publication-type="journal" id="jgrg20943-cit-0045">
+<string-name>
+<surname>Laurance</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Sayer</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cassman</surname>, <given-names>K. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Agricultural expansion and its impacts on tropical nature</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>29</volume>(<issue>2</issue>), <fpage>107</fpage>&#x02013;<lpage>116</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.tree.2013.12.001">https://doi.org/10.1016/j.tree.2013.12.001</ext-link>
+<pub-id pub-id-type="pmid">24388286</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0045"><mixed-citation publication-type="journal" id="jgrg20943-cit-0046">
+<string-name>
+<surname>Liski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ilvesniemi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Annikki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Makela</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Westman</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>1999</year>). <article-title>CO<sub>2</sub> emissions from soil in response to climatic warming are overestimated: The decomposition of old soil organic matter is tolerant of temperature</article-title>. <source xml:lang="en">Ambio</source>, <volume>28</volume>(<issue>2</issue>), <fpage>171</fpage>&#x02013;<lpage>174</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0046"><mixed-citation publication-type="journal" id="jgrg20943-cit-0047">
+<string-name>
+<surname>Macedo</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>DeFries</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Morton</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Stickler</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Galford</surname>, <given-names>G. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shimabukuro</surname>, <given-names>Y. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Decoupling of deforestation and soy production in the southern Amazon during the late 2000s</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>109</volume>(<issue>4</issue>), <fpage>1341</fpage>&#x02013;<lpage>1346</lpage>.<pub-id pub-id-type="pmid">22232692</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0047"><mixed-citation publication-type="journal" id="jgrg20943-cit-0048">
+<string-name>
+<surname>Maia</surname>, <given-names>S. M. F.</given-names>
+</string-name>, <string-name>
+<surname>Ogle</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Cerri</surname>, <given-names>C. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cerri</surname>, <given-names>C. E. P.</given-names>
+</string-name> (<year>2010</year>). <article-title>Changes in soil organic carbon storage under different agricultural management systems in the Southwest Amazon Region of Brazil</article-title>. <source xml:lang="en">Soil and Tillage Research</source>, <volume>106</volume>(<issue>2</issue>), <fpage>177</fpage>&#x02013;<lpage>184</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.still.2009.12.005">https://doi.org/10.1016/j.still.2009.12.005</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0048"><mixed-citation publication-type="journal" id="jgrg20943-cit-0049">
+<string-name>
+<surname>Matson</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Parton</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Power</surname>, <given-names>A. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Swift</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>1997</year>). <article-title>Agricultural intensification and ecosystem properties</article-title>. <source xml:lang="en">Science</source>, <volume>277</volume>(<issue>5325</issue>), <elocation-id>504</elocation-id>.<pub-id pub-id-type="pmid">20662149</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0049"><mixed-citation publication-type="journal" id="jgrg20943-cit-0050">
+<string-name>
+<surname>McGrath</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>Gholz</surname>, <given-names>H. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Assis Oliveira</surname>, <given-names>F.</given-names>
+</string-name> (<year>2001</year>). <article-title>Effects of land&#x02010;use change on soil nutrient dynamics in Amaz&#x000f4;nia</article-title>. <source xml:lang="en">Ecosystems</source>, <volume>4</volume>(<issue>7</issue>), <fpage>625</fpage>&#x02013;<lpage>645</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10021-001-0033-0">https://doi.org/10.1007/s10021-001-0033-0</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0050"><mixed-citation publication-type="journal" id="jgrg20943-cit-0051">
+<string-name>
+<surname>Melillo</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Steudler</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Aber</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Newkirk</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lux</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bowles</surname>, <given-names>F. P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Morrisseau</surname>, <given-names>S.</given-names>
+</string-name> (<year>2002</year>). <article-title>Soil warming and carbon&#x02010;cycle feedbacks to the climate system</article-title>. <source xml:lang="en">Science</source>, <volume>298</volume>(<issue>5601</issue>), <fpage>2173</fpage>&#x02013;<lpage>2176</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.1074153">https://doi.org/10.1126/science.1074153</ext-link>
+<pub-id pub-id-type="pmid">12481133</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0052"><mixed-citation publication-type="journal" id="jgrg20943-cit-0053">
+<string-name>
+<surname>Morton</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Noojipady</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Macedo</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Victoria</surname>, <given-names>D. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bolfe</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Reevaluating suitability estimates based on dynamics of cropland expansion in the Brazilian Amazon</article-title>. <source xml:lang="en">Global Environmental Change</source>, <volume>37</volume>, <fpage>92</fpage>&#x02013;<lpage>101</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.gloenvcha.2016.02.001">https://doi.org/10.1016/j.gloenvcha.2016.02.001</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0053"><mixed-citation publication-type="journal" id="jgrg20943-cit-0054">
+<string-name>
+<surname>Mosquera</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Buurman</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ramirez</surname>, <given-names>B. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Amezquita</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Carbon stocks and dynamics under improved tropical pasture and silvopastoral systems in Colombian Amazonia</article-title>. <source xml:lang="en">Geoderma</source>, <volume>189&#x02013;190</volume>, <fpage>81</fpage>&#x02013;<lpage>86</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.geoderma.2012.04.022">https://doi.org/10.1016/j.geoderma.2012.04.022</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0054"><mixed-citation publication-type="journal" id="jgrg20943-cit-0055">
+<string-name>
+<surname>Murty</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kirschbaum</surname>, <given-names>M. U. F.</given-names>
+</string-name>, <string-name>
+<surname>McMurtrie</surname>, <given-names>R. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McGilvray</surname>, <given-names>H.</given-names>
+</string-name> (<year>2002</year>). <article-title>Does conversion of forest to agricultural land change soil carbon and nitrogen? A review of the literature</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>8</volume>(<issue>2</issue>), <fpage>105</fpage>&#x02013;<lpage>123</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1046/j.1354-1013.2001.00459.x">https://doi.org/10.1046/j.1354-1013.2001.00459.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0055"><mixed-citation publication-type="journal" id="jgrg20943-cit-0056">
+<string-name>
+<surname>Navarrete</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sitch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arag&#x000e3;o</surname>, <given-names>L. E. O. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pedroni</surname>, <given-names>L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Conversion from forests to pastures in the Colombian Amazon leads to contrasting soil carbon dynamics depending on land management practices</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>(<issue>10</issue>), <fpage>3503</fpage>&#x02013;<lpage>3517</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/gcb.13266">https://doi.org/10.1111/gcb.13266</ext-link>
+<pub-id pub-id-type="pmid">26929394</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0056"><mixed-citation publication-type="journal" id="jgrg20943-cit-0057">
+<string-name>
+<surname>Neill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Coe</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Riskin</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Krusche</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<surname>Elsenbeer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Macedo</surname>, <given-names>M. N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Deegan</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Watershed responses to Amazon soya bean cropland expansion and intensification</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society, B: Biological Sciences</source>, <volume>368</volume>(<issue>1619</issue>). <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rstb.2012.0425">https://doi.org/10.1098/rstb.2012.0425</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0057"><mixed-citation publication-type="journal" id="jgrg20943-cit-0058">
+<string-name>
+<surname>Neill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Melillo</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Steudler</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Cerri</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>de Moraes</surname>, <given-names>J. F. L.</given-names>
+</string-name>, <string-name>
+<surname>Piccolo</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brito</surname>, <given-names>M.</given-names>
+</string-name> (<year>1997</year>). <article-title>Soil carbon and nitrogen stocks following forest clearing for pasture in the southwestern Brazilian Amazon</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>7</volume>(<issue>4</issue>), <fpage>1216</fpage>&#x02013;<lpage>1225</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/1051-0761(1997)007%5B1216:SCANSF%5D2.0.CO;2">https://doi.org/10.1890/1051-0761(1997)007%5B1216:SCANSF%5D2.0.CO;2</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0058"><mixed-citation publication-type="journal" id="jgrg20943-cit-0059">
+<string-name>
+<surname>Nepstad</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>de Carvalho</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Jipp</surname>, <given-names>P. H.</given-names>
+</string-name>, <string-name>
+<surname>Lefebvre</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Negreiros</surname>, <given-names>G. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Vieira</surname>, <given-names>S.</given-names>
+</string-name> (<year>1994</year>). <article-title>The role of deep roots in the hydrological and carbon cycles of Amazonian forests and pastures</article-title>. <source xml:lang="en">Nature</source>, <volume>372</volume>(<issue>6507</issue>), <fpage>666</fpage>&#x02013;<lpage>669</lpage>.</mixed-citation></ref><ref id="jgrg20943-bib-0059"><mixed-citation publication-type="journal" id="jgrg20943-cit-0060">
+<string-name>
+<surname>Nepstad</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Stickler</surname>, <given-names>C. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Almeida</surname>, <given-names>O. T.</given-names>
+</string-name> (<year>2006</year>). <article-title>Globalization of the Amazon soy and beef industries: Opportunities for conservation</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>20</volume>(<issue>6</issue>), <fpage>1595</fpage>&#x02013;<lpage>1603</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1523-1739.2006.00510.x">https://doi.org/10.1111/j.1523-1739.2006.00510.x</ext-link>
+<pub-id pub-id-type="pmid">17181794</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0060"><mixed-citation publication-type="miscellaneous" id="jgrg20943-cit-0061">
+<string-name>
+<surname>O'Connell</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Ecological tradeoffs to an Agricultural Amazonia: Investigating the effects of increased agricultural production on Amazonia's contribution to global climate and nitrogen cycling</article-title>. (PhD), University of Minnesota. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/11299/177116">http://hdl.handle.net/11299/177116</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0061"><mixed-citation publication-type="journal" id="jgrg20943-cit-0062">
+<string-name>
+<surname>Oliveira</surname>, <given-names>L. J. C.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Soares&#x02010;Filho</surname>, <given-names>B. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coe</surname>, <given-names>M. T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Large&#x02010;scale expansion of agriculture in Amazonia may be a no&#x02010;win scenario</article-title>. <source xml:lang="en">Environmental Research Letters</source>, <volume>8</volume>(<issue>2</issue>), <elocation-id>024021</elocation-id>.</mixed-citation></ref><ref id="jgrg20943-bib-0062"><mixed-citation publication-type="journal" id="jgrg20943-cit-0063">
+<string-name>
+<surname>Parton</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Schimel</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>, <given-names>C. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ojima</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>1987</year>). <article-title>Analysis of factors controlling soil organic matter levels in Great Plains grasslands</article-title>. <source xml:lang="en">Soil Science Society of America Journal</source>, <volume>51</volume>(<issue>5</issue>), <fpage>1173</fpage>&#x02013;<lpage>1179</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2136/sssaj1987.03615995005100050015x">https://doi.org/10.2136/sssaj1987.03615995005100050015x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0063"><mixed-citation publication-type="journal" id="jgrg20943-cit-0064">
+<string-name>
+<surname>Pendall</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Schwendenmann</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rahn</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Tans</surname>, <given-names>P. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>White</surname>, <given-names>J. W. C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Land use and season affect fluxes of CO<sub>2</sub>, CH<sub>4</sub>, CO, N<sub>2</sub>O, H<sub>2</sub> and isotopic source signatures in Panama: Evidence from nocturnal boundary layer profiles</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>16</volume>(<issue>10</issue>), <fpage>2721</fpage>&#x02013;<lpage>2736</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2486.2010.02199.x">https://doi.org/10.1111/j.1365-2486.2010.02199.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0064"><mixed-citation publication-type="journal" id="jgrg20943-cit-0065">
+<string-name>
+<surname>Phillips</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>McFarlane</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Risk</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Desai</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Biological and physical influences on soil <sup>14</sup>CO<sub>2</sub> seasonal dynamics in a temperate hardwood forest</article-title>. <source xml:lang="en">Biogeosciences</source>, <volume>10</volume>(<issue>12</issue>), <fpage>7999</fpage>&#x02013;<lpage>8012</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5194/bg-10-7999-2013">https://doi.org/10.5194/bg-10-7999-2013</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0065"><mixed-citation publication-type="journal" id="jgrg20943-cit-0066">
+<string-name>
+<surname>Powers</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Corre</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Twine</surname>, <given-names>T. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Veldkamp</surname>, <given-names>E.</given-names>
+</string-name> (<year>2011</year>). <article-title>Geographic bias of field observations of soil carbon stocks with tropical land&#x02010;use changes precludes spatial extrapolation</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>108</volume>(<issue>15</issue>), <fpage>6318</fpage>&#x02013;<lpage>6322</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1016774108">https://doi.org/10.1073/pnas.1016774108</ext-link>
+<pub-id pub-id-type="pmid">21444813</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0066"><mixed-citation publication-type="journal" id="jgrg20943-cit-0067">
+<string-name>
+<surname>Quinton</surname>, <given-names>J. N.</given-names>
+</string-name>, <string-name>
+<surname>Govers</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Van Oost</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bardgett</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2010</year>). <article-title>The impact of agricultural soil erosion on biogeochemical cycling</article-title>. <source xml:lang="en">Nature Geoscience</source>, <volume>3</volume>(<issue>5</issue>), <fpage>311</fpage>&#x02013;<lpage>314</lpage>. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/ngeo/journal/v3/n5/suppinfo/ngeo838_S1.html">http://www.nature.com/ngeo/journal/v3/n5/suppinfo/ngeo838_S1.html</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0067"><mixed-citation publication-type="journal" id="jgrg20943-cit-0068">
+<string-name>
+<surname>Riskin</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Porder</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Neill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Figueira</surname>, <given-names>A. M. e. S.</given-names>
+</string-name>, <string-name>
+<surname>Tubbesing</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mahowald</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>). <article-title>The fate of phosphorus fertilizer in Amazon soya bean fields</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society, B: Biological Sciences</source>, <volume>368</volume>(<issue>1619</issue>). <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rstb.2012.0154">https://doi.org/10.1098/rstb.2012.0154</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0068"><mixed-citation publication-type="journal" id="jgrg20943-cit-0069">
+<string-name>
+<surname>Rittl</surname>, <given-names>T. F.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cerri</surname>, <given-names>C. E. P.</given-names>
+</string-name> (<year>2017</year>). <article-title>Soil carbon stock changes under different land uses in the Amazon</article-title>. <source xml:lang="en">Geoderma Regional</source>, <volume>10</volume>, <fpage>138</fpage>&#x02013;<lpage>143</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.geodrs.2017.07.004">https://doi.org/10.1016/j.geodrs.2017.07.004</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0069"><mixed-citation publication-type="journal" id="jgrg20943-cit-0070">
+<string-name>
+<surname>Rocha</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Metcalfe</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Doughty</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Brando</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Silv&#x000e9;rio</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Halladay</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Malhi</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Ecosystem productivity and carbon cycling in intact and annually burnt forest at the dry southern limit of the Amazon rainforest (Mato Grosso, Brazil)</article-title>. <source xml:lang="en">Plant Ecology and Diversity</source>, <volume>7</volume>(<issue>1&#x02013;2</issue>), <fpage>25</fpage>&#x02013;<lpage>40</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/17550874.2013.798368">https://doi.org/10.1080/17550874.2013.798368</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0070"><mixed-citation publication-type="journal" id="jgrg20943-cit-0071">
+<string-name>
+<surname>Sanaiotti</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Martinelli</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Victoria</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Camargo</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2002</year>). <article-title>Past vegetation changes in Amazon savannas determined using carbon isotopes of soil organic matter</article-title>. <source xml:lang="en">Biotropica</source>, <volume>34</volume>(<issue>1</issue>), <fpage>2</fpage>&#x02013;<lpage>16</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1744-7429.2002.tb00237.x">https://doi.org/10.1111/j.1744-7429.2002.tb00237.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0071"><mixed-citation publication-type="journal" id="jgrg20943-cit-0072">
+<string-name>
+<surname>Schrumpf</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kaiser</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>). <article-title>Large differences in estimates of soil organic carbon turnover in density fractions by using single and repeated radiocarbon inventories</article-title>. <source xml:lang="en">Geoderma</source>, <volume>239&#x02013;240</volume>, <fpage>168</fpage>&#x02013;<lpage>178</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.geoderma.2014.09.025">https://doi.org/10.1016/j.geoderma.2014.09.025</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0072"><mixed-citation publication-type="journal" id="jgrg20943-cit-0073">
+<string-name>
+<surname>Schweizer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fear</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cadisch</surname>, <given-names>G.</given-names>
+</string-name> (<year>1999</year>). <article-title>Isotopic (<sup>13</sup>C) fractionation during plant residue decomposition and its implications for soil organic matter studies</article-title>. <source xml:lang="en">Rapid Communications in Mass Spectrometry</source>, <volume>13</volume>(<issue>13</issue>), <fpage>1284</fpage>&#x02013;<lpage>1290</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/(SICI)1097-0231(19990715)13:13%C2%A0%3C%C2%A01284::AID-RCM578%C2%A0%3E%C2%A03.0.CO;2%E2%80%930">https://doi.org/10.1002/(SICI)1097-0231(19990715)13:13%C2%A0%3C%C2%A01284::AID-RCM578%C2%A0%3E%C2%A03.0.CO;2%E2%80%930</ext-link>
+<pub-id pub-id-type="pmid">10407311</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0073"><mixed-citation publication-type="journal" id="jgrg20943-cit-0074">
+<string-name>
+<surname>Silv&#x000e9;rio</surname>, <given-names>D. V.</given-names>
+</string-name>, <string-name>
+<surname>Brando</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Macedo</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>, <given-names>P. S. A.</given-names>
+</string-name>, <string-name>
+<surname>Bustamante</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coe</surname>, <given-names>M. T.</given-names>
+</string-name> (<year>2015</year>). <article-title>Agricultural expansion dominates climate changes in southeastern Amazonia: the overlooked non&#x02010;GHG forcing</article-title>. <source xml:lang="en">Environmental Research Letters</source>, <volume>10</volume>(<issue>10</issue>), <elocation-id>104015</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1088/1748-9326/10/10/104015">https://doi.org/10.1088/1748-9326/10/10/104015</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0074"><mixed-citation publication-type="journal" id="jgrg20943-cit-0075">
+<string-name>
+<surname>Six</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Conant</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Paustian</surname>, <given-names>K.</given-names>
+</string-name> (<year>2002</year>). <article-title>Stabilization mechanisms of soil organic matter: Implications for C&#x02010;saturation of soils</article-title>. <source xml:lang="en">Plant and Soil</source>, <volume>241</volume>(<issue>2</issue>), <fpage>155</fpage>&#x02013;<lpage>176</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1023/A:1016125726789">https://doi.org/10.1023/A:1016125726789</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0075"><mixed-citation publication-type="journal" id="jgrg20943-cit-0076">
+<string-name>
+<surname>Six</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>, <given-names>E. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Paustian</surname>, <given-names>K.</given-names>
+</string-name> (<year>1999</year>). <article-title>Aggregate and soil organic matter dynamics under conventional and no&#x02010;tillage systems</article-title>. <source xml:lang="en">Soil Science Society of America Journal</source>, <volume>63</volume>(<issue>5</issue>), <fpage>1350</fpage>&#x02013;<lpage>1358</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2136/sssaj1999.6351350x">https://doi.org/10.2136/sssaj1999.6351350x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0076"><mixed-citation publication-type="journal" id="jgrg20943-cit-0077">
+<string-name>
+<surname>Smith</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>House</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Bustamante</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sobock&#x000e1;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Harper</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Pugh</surname>, <given-names>T. A. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Global change pressures on soils from land use and management</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>22</volume>(<issue>3</issue>), <fpage>1008</fpage>&#x02013;<lpage>1028</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/gcb.13068">https://doi.org/10.1111/gcb.13068</ext-link>
+<pub-id pub-id-type="pmid">26301476</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0077"><mixed-citation publication-type="journal" id="jgrg20943-cit-0078">
+<string-name>
+<surname>Sollins</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Homann</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caldwell</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>1996</year>). <article-title>Stabilization and destabilization of soil organic matter: Mechanisms and controls</article-title>. <source xml:lang="en">Geoderma</source>, <volume>74</volume>(<issue>1</issue>), <fpage>65</fpage>&#x02013;<lpage>105</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0016-7061(96)00036-5">https://doi.org/10.1016/S0016-7061(96)00036-5</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0078"><mixed-citation publication-type="journal" id="jgrg20943-cit-0079">
+<string-name>
+<surname>Southon</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Druffel&#x02010;Rodriguez</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Druffel</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Mazon</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>). <article-title>The keck carbon cycle AMS laboratory, University of California, Irvine: Initial operation and a background surprise</article-title>. <source xml:lang="en">Radiocarbon</source>, <volume>46</volume>(<issue>1</issue>), <fpage>41</fpage>&#x02013;<lpage>49</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0033822200039333">https://doi.org/10.1017/S0033822200039333</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0079"><mixed-citation publication-type="journal" id="jgrg20943-cit-0080">
+<string-name>
+<surname>Stuiver</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Polach</surname>, <given-names>H. A.</given-names>
+</string-name> (<year>1977</year>). <article-title>Discussion reporting of <sup>14</sup>C data</article-title>. <source xml:lang="en">Radiocarbon</source>, <volume>19</volume>(<issue>3</issue>), <fpage>355</fpage>&#x02013;<lpage>363</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1017/S0033822200003672">https://doi.org/10.1017/S0033822200003672</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0080"><mixed-citation publication-type="journal" id="jgrg20943-cit-0081">
+<string-name>
+<surname>Swanston</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Caldwell</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Homann</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name>
+<surname>Ganio</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sollins</surname>, <given-names>P.</given-names>
+</string-name> (<year>2002</year>). <article-title>Carbon dynamics during a long&#x02010;term incubation of separate and recombined density fractions from seven forest soils</article-title>. <source xml:lang="en">Soil Biology and Biochemistry</source>, <volume>34</volume>(<issue>8</issue>), <fpage>1121</fpage>&#x02013;<lpage>1130</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0038-0717(02)00048-2">https://doi.org/10.1016/S0038-0717(02)00048-2</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0081"><mixed-citation publication-type="journal" id="jgrg20943-cit-0082">
+<string-name>
+<surname>Taalab</surname>, <given-names>K. P.</given-names>
+</string-name>, <string-name>
+<surname>Corstanje</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Creamer</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whelan</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Modeling soil bulk density at the landscape scale and its contributions to C stock uncertainty</article-title>. <source xml:lang="en">Biogeosciences</source>, <volume>10</volume>(<issue>7</issue>), <fpage>4691</fpage>&#x02013;<lpage>4704</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5194/bg-10-4691-2013">https://doi.org/10.5194/bg-10-4691-2013</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0082"><mixed-citation publication-type="book" id="jgrg20943-cit-0083">
+<string-name>
+<surname>Torn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Swanston</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Castanha</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2009</year>). <chapter-title>Storage and turnover of organic matter in soil</chapter-title> In <person-group person-group-type="editor"><name><surname>Senesi</surname><given-names>N.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Xing</surname><given-names>B.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Huang</surname><given-names>P. M.</given-names></name></person-group> (Eds.), <source xml:lang="en">Biophysico&#x02010;chemical processes involving natural nonliving organic matter in environmental systems</source> (pp. <fpage>215</fpage>&#x02013;<lpage>268</lpage>). <publisher-loc>Hoboken, NJ</publisher-loc>: <publisher-name>John Wiley</publisher-name>.</mixed-citation></ref><ref id="jgrg20943-bib-0083"><mixed-citation publication-type="journal" id="jgrg20943-cit-0084">
+<string-name>
+<surname>Torn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vitousek</surname>, <given-names>P. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2005</year>). <article-title>The influence of nutrient availability on soil organic matter turnover estimated by incubations and radiocarbon modeling</article-title>. <source xml:lang="en">Ecosystems</source>, <volume>8</volume>(<issue>4</issue>), <fpage>352</fpage>&#x02013;<lpage>372</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10021-004-0259-8">https://doi.org/10.1007/s10021-004-0259-8</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0084"><mixed-citation publication-type="journal" id="jgrg20943-cit-0085">
+<string-name>
+<surname>Townsend</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Vitousek</surname>, <given-names>P. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>1995</year>). <article-title>Soil organic matter dynamics along gradients in temperature and land use on the island of Hawaii</article-title>. <source xml:lang="en">Ecology</source>, <volume>76</volume>(<issue>3</issue>), <fpage>721</fpage>&#x02013;<lpage>733</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/1939339">https://doi.org/10.2307/1939339</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0085"><mixed-citation publication-type="journal" id="jgrg20943-cit-0086">
+<string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name> (<year>1997</year>). <article-title>Potential responses of soil organic carbon to global environmental&#x02009;change</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>94</volume>(<issue>16</issue>), <fpage>8284</fpage>&#x02013;<lpage>8291</lpage>.<pub-id pub-id-type="pmid">11607735</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0086"><mixed-citation publication-type="journal" id="jgrg20943-cit-0087">
+<string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name> (<year>2000</year>). <article-title>Age of soil organic matter and soil respiration: radiocarbon constraints on belowground C dynamics</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>10</volume>(<issue>2</issue>), <fpage>399</fpage>&#x02013;<lpage>411</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/1051-0761(2000)010%5B0399:AOSOMA%5D2.0.CO;2">https://doi.org/10.1890/1051-0761(2000)010%5B0399:AOSOMA%5D2.0.CO;2</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0087"><mixed-citation publication-type="journal" id="jgrg20943-cit-0088">
+<string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Carbon respired by terrestrial ecosystems&#x02014;Recent progress and challenges</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>12</volume>(<issue>2</issue>), <fpage>141</fpage>&#x02013;<lpage>153</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2486.2006.01067.x">https://doi.org/10.1111/j.1365-2486.2006.01067.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0088"><mixed-citation publication-type="journal" id="jgrg20943-cit-0089">
+<string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Radiocarbon and soil carbon dynamics</article-title>. <source xml:lang="en">Annual Review of Earth and Planetary Sciences</source>, <volume>37</volume>(<issue>1</issue>), <fpage>47</fpage>&#x02013;<lpage>66</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.earth.36.031207.124300">https://doi.org/10.1146/annurev.earth.36.031207.124300</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0089"><mixed-citation publication-type="journal" id="jgrg20943-cit-0090">
+<string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chadwick</surname>, <given-names>O. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Amundson</surname>, <given-names>R.</given-names>
+</string-name> (<year>1996</year>). <article-title>Rapid exchange between soil carbon and atmospheric carbon dioxide driven by temperature change</article-title>. <source xml:lang="en">Science</source>, <volume>272</volume>(<issue>5260</issue>), <elocation-id>393</elocation-id>.</mixed-citation></ref><ref id="jgrg20943-bib-0090"><mixed-citation publication-type="book" id="jgrg20943-cit-0091">
+<string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sierra</surname>, <given-names>C. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hicks Pries</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2016</year>). <chapter-title>Radiocarbon nomenclature, theory, models, and interpretation: Measuring age, determining cycling rates, and tracing source pools</chapter-title> In <person-group person-group-type="editor"><name><surname>Schuur</surname><given-names>E. A. G.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Druffel</surname><given-names>E.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Trumbore</surname><given-names>S. E.</given-names></name></person-group> (Eds.), <source xml:lang="en">Radiocarbon and climate change: Mechanisms, applications and laboratory techniques</source> (pp. <fpage>45</fpage>&#x02013;<lpage>82</lpage>). <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation></ref><ref id="jgrg20943-bib-0091"><mixed-citation publication-type="journal" id="jgrg20943-cit-0092">
+<string-name>
+<surname>Veldkamp</surname>, <given-names>E.</given-names>
+</string-name> (<year>1994</year>). <article-title>Organic carbon turnover in three tropical soils under pasture after deforestation</article-title>. <source xml:lang="en">Soil Science Society of America Journal</source>, <volume>58</volume>(<issue>1</issue>), <fpage>175</fpage>&#x02013;<lpage>180</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2136/sssaj1994.03615995005800010025x">https://doi.org/10.2136/sssaj1994.03615995005800010025x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0092"><mixed-citation publication-type="journal" id="jgrg20943-cit-0093">
+<string-name>
+<surname>Victoria</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Fernandes</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Martinelli</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>De C&#x000c1;Ssia Piccolo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>De Camargo</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trumbore</surname>, <given-names>S.</given-names>
+</string-name> (<year>1995</year>). <article-title>Past vegetation changes in the Brazilian Pantanal arboreal&#x02013;grassy savanna ecotone by using carbon isotopes in the soil organic matter</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>1</volume>(<issue>3</issue>), <fpage>165</fpage>&#x02013;<lpage>171</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2486.1995.tb00018.x">https://doi.org/10.1111/j.1365-2486.1995.tb00018.x</ext-link>
+</mixed-citation></ref><ref id="jgrg20943-bib-0093"><mixed-citation publication-type="journal" id="jgrg20943-cit-0094">
+<string-name>
+<surname>Xu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bai</surname>, <given-names>E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Distinct temperature sensitivity of soil carbon decomposition in forest organic layer and mineral soil</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>4</volume>, <elocation-id>6512</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/srep06512">https://doi.org/10.1038/srep06512</ext-link>
+<pub-id pub-id-type="pmid">25270905</pub-id></mixed-citation></ref><ref id="jgrg20943-bib-0094"><mixed-citation publication-type="journal" id="jgrg20943-cit-0095">
+<string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Trumbore</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Southon</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>McDuffee</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Luttgen</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2007</year>). <article-title>Modifying a sealed tube zinc reduction method for preparation of AMS graphite targets: Reducing background and attaining high precision</article-title>. <source xml:lang="en">Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms</source>, <volume>259</volume>(<issue>1</issue>), <fpage>320</fpage>&#x02013;<lpage>329</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.nimb.2007.01.175">https://doi.org/10.1016/j.nimb.2007.01.175</ext-link>
+</mixed-citation></ref></ref-list></back></article>

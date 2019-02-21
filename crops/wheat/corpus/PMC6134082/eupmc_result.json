@@ -1,0 +1,270 @@
+{
+  "id": [
+    "30206343"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30206343"
+  ],
+  "pmcid": [
+    "PMC6134082"
+  ],
+  "doi": [
+    "10.1038/s41598-018-31899-0"
+  ],
+  "title": [
+    "Automatic detection and counting of urediniospores of Puccinia striiformis f. sp. tritici using spore traps and image processing."
+  ],
+  "authorString": [
+    "Lei Y, Yao Z, He D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lei Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Mechanical and Electronic Engineering, Northwest A&F University, Yangling, Shaanxi, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao Z"
+          ],
+          "firstName": [
+            "Zhifeng"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Mechanical and Electronic Engineering, Northwest A&F University, Yangling, Shaanxi, 712100, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He D"
+          ],
+          "firstName": [
+            "Dongjian"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "College of Mechanical and Electronic Engineering, Northwest A&F University, Yangling, Shaanxi, 712100, China. hdj168@nwsuaf.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2722578"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "13647"
+  ],
+  "abstractText": [
+    "The quantitative monitoring of airborne urediniospores of Puccinia striiformis f. sp. tritici (Pst) using spore trap devices in wheat fields is an important process for devising strategies early and effectively controlling wheat stripe rust. The traditional microscopic spore counting method mainly relies on naked-eye observation. Because of the great number of trapped spores, this method is labour intensive and time-consuming and has low counting efficiency, sometimes leading to huge errors; thus, an alternative method is required. In this paper, a new algorithm was proposed for the automatic detection and counting of urediniospores of Pst, based on digital image processing. First, images of urediniospores were collected using portable volumetric spore traps in an indoor simulation. Then, the urediniospores were automatically detected and counted using a series of image processing approaches, including image segmentation using the K-means clustering algorithm, image pre-processing, the identification of touching urediniospores based on their shape factor and area, and touching urediniospore contour segmentation based on concavity and contour segment merging. This automatic counting algorithm was compared with the watershed transformation algorithm. The results show that the proposed algorithm is efficient and accurate for the automatic detection and counting of trapped urediniospores. It can provide technical support for the development of online airborne urediniospore monitoring equipment."
+  ],
+  "affiliation": [
+    "College of Mechanical and Electronic Engineering, Northwest A&F University, Yangling, Shaanxi, 712100, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6134082?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6134082"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-31899-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-13"
+  ],
+  "dateOfRevision": [
+    "2018-09-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-11"
+  ],
+  "firstPublicationDate": [
+    "2018-09-11"
+  ]
+}

@@ -1,0 +1,1027 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Environ Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Environ. Microbiol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1462-2920</journal-id><journal-id journal-id-type="publisher-id">EMI</journal-id><journal-title-group><journal-title>Environmental Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1462-2912</issn><issn pub-type="epub">1462-2920</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6175112</article-id><article-id pub-id-type="doi">10.1111/1462-2920.14339</article-id><article-id pub-id-type="publisher-id">EMI14339</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Set1 and Kdm5 are antagonists for H3K4 methylation and regulators of the major conidiation&#x02010;specific transcription factor gene <italic>ABA1</italic> in <italic>Fusarium fujikuroi</italic>
+</article-title><alt-title alt-title-type="right-running-head">Set1 and Kdm5 antagonize H3K4me in <italic>F. fujikuroi</italic></alt-title><alt-title alt-title-type="left-running-head">S. Janevska <italic>et al</italic>.</alt-title></title-group><contrib-group><contrib id="emi14339-cr-0001" contrib-type="author"><name><surname>Janevska</surname><given-names>Slavica</given-names></name><xref ref-type="aff" rid="emi14339-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emi14339-cr-0002" contrib-type="author"><name><surname>G&#x000fc;ldener</surname><given-names>Ulrich</given-names></name><xref ref-type="aff" rid="emi14339-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="emi14339-cr-0003" contrib-type="author"><name><surname>Sulyok</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="emi14339-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="emi14339-cr-0004" contrib-type="author"><name><surname>Tudzynski</surname><given-names>Bettina</given-names></name><xref ref-type="aff" rid="emi14339-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emi14339-cr-0005" contrib-type="author" corresp="yes"><name><surname>Studt</surname><given-names>Lena</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8738-2106</contrib-id><address><email>lena.studt@boku.ac.at</email></address><xref ref-type="aff" rid="emi14339-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emi14339-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="author-notes" rid="emi14339-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib></contrib-group><aff id="emi14339-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Plant Biology and Biotechnology</named-content>
+<institution>Westf&#x000e4;lische Wilhelms&#x02010;Universit&#x000e4;t M&#x000fc;nster</institution>
+<named-content content-type="city">M&#x000fc;nster</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="emi14339-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Bioinformatics</named-content>
+<institution>TUM School of Life Sciences Weihenstephan, Technical University of Munich</institution>
+<named-content content-type="city">Freising</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="emi14339-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Center for Analytical Chemistry, Department IFA&#x02010;Tulln</named-content>
+<institution>University of Natural Resources and Life Sciences</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="emi14339-aff-0004" content-type="private-address">
+<label><sup>4</sup></label>
+<institution>Department of Applied Genetics and Cell Biology&#x02010;Tulln, University of Natural Resources and Life Sciences</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence. E&#x02010;mail <email>lena.studt@boku.ac.at</email>; Tel. +43 1 47654&#x02010;94193.</corresp><fn id="emi14339-note-0001"><label>&#x02020;</label><p>
+Present address: Department of Applied Genetics and Cell Biology&#x02010;Tulln, University of Natural Resources and Life Sciences, Vienna (BOKU), 3430 Tulln, Austria.</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>9</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2018</year></pub-date><volume>20</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/emi.2018.20.issue-9</issue-id><issue-title>Special Issue on Pathogen and resistance ecology</issue-title><fpage>3343</fpage><lpage>3362</lpage><history><date date-type="received"><day>25</day><month>3</month><year>2018</year></date><date date-type="rev-recd"><day>31</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>22</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Applied Microbiology and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Environmental Microbiology published by Society for Applied Microbiology and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EMI-20-3343.pdf"/><abstract><title>Summary</title><p>Here we present the identification and characterization of the H3K4&#x02010;specific histone methyltransferase Set1 and its counterpart, the Jumonji C demethylase Kdm5, in the rice pathogen <italic>Fusarium fujikuroi</italic>. While Set1 is responsible for all detectable H3K4me2/me3 in this fungus, Kdm5 antagonizes the H3K4me3 mark. Notably, deletion of both <italic>SET1</italic> and <italic>KDM5</italic> mainly resulted in the upregulation of genome&#x02010;wide transcription, also affecting a large set of secondary metabolite (SM) key genes. Although H3K4 methylation is a hallmark of actively transcribed euchromatin, several SM gene clusters located in subtelomeric regions were affected by Set1 and Kdm5. While the regulation of many of them is likely indirect, H3K4me2 levels at gibberellic acid (GA) genes correlated with GA biosynthesis in the wild type, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> under inducing conditions. Whereas &#x00394;<italic>set1</italic> showed an abolished GA<sub>3</sub> production in axenic culture, phytohormone biosynthesis was induced <italic>in planta</italic>, so that residual amounts of GA<sub>3</sub> were detected during rice infection. Accordingly, &#x00394;<italic>set1</italic> exhibited a strongly attenuated, though not abolished, virulence on rice. Apart from regulating secondary metabolism, Set1 and Kdm5 function as activator and repressor of conidiation respectively. They antagonistically regulate H3K4me3 levels and expression of the major conidiation&#x02010;specific transcription factor gene <italic>ABA1</italic> in <italic>F. fujikuroi</italic>.</p></abstract><funding-group><award-group><funding-source>Austrian Science Fund</funding-source><award-id>M 2149&#x02010;B22</award-id></award-group><award-group><funding-source>Deutsche Forschungsgemeinschaft</funding-source><award-id>ME 1682/6&#x02010;2TU101/16 2</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="0"/><page-count count="20"/><word-count count="15965"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>emi14339</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.0 mode:remove_FC converted:08.10.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="emi14339-sec-0001"><title>Introduction</title><p>
+<italic>Fusarium fujikuroi</italic> is a phytopathogenic ascomycete and the founding member of the <italic>Fusarium</italic> (<italic>Gibberella</italic>) <italic>fujikuroi</italic> species complex (Nirenberg and O'Donnell, <xref rid="emi14339-bib-0044" ref-type="ref">1998</xref>; Leslie and Summerell, <xref rid="emi14339-bib-0032" ref-type="ref">2006</xref>). <italic>F. fujikuroi</italic> is the causative agent of the so&#x02010;called <italic>bakanae</italic> (foolish&#x02010;seedling) disease of rice plants which was first described over 100 years ago in Japan (Hori, <xref rid="emi14339-bib-0025" ref-type="ref">1890</xref>). Since then, the fungus has gained considerable attention due to the fact that it is a major threat to rice&#x02010;growing countries worldwide. Its secretion of the bioactive phytohormones gibberellic acids (GAs) results in thin, chlorotic and hyper&#x02010;elongated rice internodes, oftentimes sterile grains, and therefore full harvest losses (Sun and Snyder, <xref rid="emi14339-bib-0069" ref-type="ref">1981</xref>; B&#x000f6;mke and Tudzynski, <xref rid="emi14339-bib-0003" ref-type="ref">2009</xref>). On the contrary, <italic>F. fujikuroi</italic> is exploited as efficient producer of GAs for the use as plant growth regulators in agriculture and horticulture (Rademacher, <xref rid="emi14339-bib-0048" ref-type="ref">1997</xref>; Sponsel and Hedden, <xref rid="emi14339-bib-0062" ref-type="ref">2004</xref>).</p><p>GAs belong to the group of secondary metabolites (SMs) that are per definition not required for fungal growth in general, but might pose an advantage to the fungus under certain environmental conditions (Fox and Howlett, <xref rid="emi14339-bib-0016" ref-type="ref">2008</xref>). Recent sequencing of the <italic>F. fujikuroi</italic> genome revealed 47 predicted SM key genes (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>). Next to the GA gene cluster, our group has identified several additional SMs and the respective biosynthetic genes in <italic>F. fujikuroi</italic> over the last years (Janevska and Tudzynski, <xref rid="emi14339-bib-0026" ref-type="ref">2018</xref>). Among those are the red pigments bikaverin (BIK) and fusarubins (FSR), two polyketide synthase (PKS)&#x02010;derived SMs (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0075" ref-type="ref">2009</xref>; Studt <italic>et al</italic>., <xref rid="emi14339-bib-0064" ref-type="ref">2012</xref>). The mycotoxins apicidin F (APF) and beauvericin are produced by non&#x02010;ribosomal peptide synthetases (NRPSs) (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0039" ref-type="ref">2014a</xref>, <xref rid="emi14339-bib-0041" ref-type="ref">2016</xref>), while two other mycotoxins, fusarins (FUS) and fusaric acid (FSA), are generated by a hybrid PKS&#x02010;NRPS enzyme and by two separate key enzymes respectively (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0038" ref-type="ref">2013</xref>, <xref rid="emi14339-bib-0040" ref-type="ref">2014b</xref>; Studt <italic>et al</italic>., <xref rid="emi14339-bib-0066" ref-type="ref">2016a</xref>).</p><p>Fungal secondary metabolism is regulated by a complex network functioning on different hierarchical levels, including so&#x02010;called pathway&#x02010;/cluster&#x02010;specific transcription factors (TFs) that are often encoded within the respective gene cluster (Brakhage, <xref rid="emi14339-bib-0004" ref-type="ref">2013</xref>), as well as global regulators. The latter are TFs which affect a larger set of genes of both primary and secondary metabolism in response to different environmental cues, such as the availability of carbon and nitrogen sources or the presence of certain pH and light conditions (Macheleidt <italic>et al</italic>., <xref rid="emi14339-bib-0035" ref-type="ref">2016</xref>). On a higher level of regulation, SM biosynthesis underlies the controlled change of the chromatin state which can be either tightly condensed (i.e., heterochromatin) or more loosely packed (i.e., euchromatin), depending on the specific set of post&#x02010;translational histone modifications deposited in response to environmental cues (Gacek and Strauss, <xref rid="emi14339-bib-0018" ref-type="ref">2012</xref>).</p><p>Nearly all of the identified histone (H) modifications are reversible and dynamic. The acetylation of lysine (K) residues is associated with an active transcription, while the methylation of lysine or arginine residues gives a more complex output, depending on associated reader proteins (Brosch <italic>et al</italic>., <xref rid="emi14339-bib-0006" ref-type="ref">2008</xref>; Gacek and Strauss, <xref rid="emi14339-bib-0018" ref-type="ref">2012</xref>). In general, the methylation of H3K9 and H3K27 is involved in the formation of constitutive and facultative heterochromatin, respectively (Rando and Chang, <xref rid="emi14339-bib-0049" ref-type="ref">2009</xref>; Wiles and Selker, <xref rid="emi14339-bib-0080" ref-type="ref">2017</xref>), regions predominantly found at centromeres and subtelomeres in <italic>F. fujikuroi</italic> (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>; Studt <italic>et al</italic>., <xref rid="emi14339-bib-0067" ref-type="ref">2016b</xref>). In contrast, methylation of H3K4 and H3K36 is considered as hallmark of euchromatin in yeast and higher eukaryotes (Rando and Chang, <xref rid="emi14339-bib-0049" ref-type="ref">2009</xref>; Wagner and Carpenter, <xref rid="emi14339-bib-0074" ref-type="ref">2012</xref>). However, the picture seems to be more diverse in filamentous fungi, as recent data revealed the ubiquitous presence of the H3K36 trimethylation (me3) mark and accordingly, no correlation with active transcription in both <italic>F. fujikuroi</italic> and <italic>Fusarium graminearum</italic> (Connolly <italic>et al</italic>., <xref rid="emi14339-bib-0012" ref-type="ref">2013</xref>; Janevska <italic>et al</italic>., <xref rid="emi14339-bib-0028" ref-type="ref">2018</xref>).</p><p>H3K4 methylation has been indeed found in transcribed euchromatic regions in <italic>F. fujikuroi</italic> (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>), and has been clearly linked to actively expressed genes in budding yeast and filamentous fungi, that is, <italic>Saccharomyces cerevisiae</italic>, <italic>Aspergillus nidulans</italic> and <italic>F. graminearum</italic> (Pokholok <italic>et al</italic>., <xref rid="emi14339-bib-0046" ref-type="ref">2005</xref>; Connolly <italic>et al</italic>., <xref rid="emi14339-bib-0012" ref-type="ref">2013</xref>; Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>). In 5&#x02032; promoter regions, H3K4 methylation is associated with the initiating form of RNA polymerase II: all euchromatic genes were found to be decorated with H3K4me2, while H3K4me3 marked actively or recently transcribed genes in <italic>S. cerevisiae</italic> (Santos&#x02010;Rosa <italic>et al</italic>., <xref rid="emi14339-bib-0053" ref-type="ref">2002</xref>; Ng <italic>et al</italic>., <xref rid="emi14339-bib-0037" ref-type="ref">2003</xref>). Noteworthy, <italic>S. cerevisiae</italic> chromatin does not harbour the repressive marks H3K9me3 and H3K27me3, and H3K4 methylation has been implicated in the silencing of subtelomeric genes (Briggs <italic>et al</italic>., <xref rid="emi14339-bib-0005" ref-type="ref">2001</xref>; Krogan <italic>et al</italic>., <xref rid="emi14339-bib-0030" ref-type="ref">2002</xref>; Bryk <italic>et al</italic>., <xref rid="emi14339-bib-0007" ref-type="ref">2002</xref>; Fingerman <italic>et al</italic>., <xref rid="emi14339-bib-0015" ref-type="ref">2005</xref>). However, the exact mechanism remains to be elucidated.</p><p>The methylation of H3K4 has been studied in a number of different organisms from yeast to humans, and has been shown to depend on the conserved Su(var)3&#x02010;9, Enhancer&#x02010;of&#x02010;zeste, Trithorax (SET) domain&#x02010;containing methyltransferase Set1 (Briggs <italic>et al</italic>., <xref rid="emi14339-bib-0005" ref-type="ref">2001</xref>; Lee and Skalnik, <xref rid="emi14339-bib-0031" ref-type="ref">2005</xref>; Freitag, <xref rid="emi14339-bib-0017" ref-type="ref">2017</xref>). The genomes of yeast and filamentous fungi, such as <italic>A. nidulans</italic>, <italic>F. graminearum</italic> and <italic>Fusarium verticillioides</italic>, encode one Set1 homologue that is responsible for all three methylation states H3K4me1/me2/me3 (Briggs <italic>et al</italic>., <xref rid="emi14339-bib-0005" ref-type="ref">2001</xref>; Fingerman <italic>et al</italic>., <xref rid="emi14339-bib-0015" ref-type="ref">2005</xref>; Harting <italic>et al</italic>., <xref rid="emi14339-bib-0024" ref-type="ref">2013</xref>; Govindaraghavan <italic>et al</italic>., <xref rid="emi14339-bib-0022" ref-type="ref">2014</xref>; Liu <italic>et al</italic>., <xref rid="emi14339-bib-0034" ref-type="ref">2015</xref>; Gu <italic>et al</italic>., <xref rid="emi14339-bib-0023" ref-type="ref">2017</xref>). As a counterpart, the Jumonji C (JmjC) domain&#x02010;containing demethylase Jhd2 has been identified in <italic>S. cerevisiae</italic> (Liang <italic>et al</italic>., <xref rid="emi14339-bib-0033" ref-type="ref">2007</xref>; Seward <italic>et al</italic>., <xref rid="emi14339-bib-0056" ref-type="ref">2007</xref>), and later also in <italic>A. nidulans</italic> (Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>). <italic>S. cerevisiae</italic> Jhd2 and the <italic>A. nidulans</italic> homolog KdmB have been shown to counteract H3K4me3 <italic>in vivo</italic> (Liang <italic>et al</italic>., <xref rid="emi14339-bib-0033" ref-type="ref">2007</xref>; Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>).</p><p>Set1 is part of COMPASS (<italic>Com</italic>plex of <italic>P</italic>roteins <italic>As</italic>sociated with <italic>S</italic>et1). Recently, we identified and functionally characterized the COMPASS component Ccl1 in <italic>F. fujikuroi</italic> and <italic>F. graminearum</italic>. In both fungi, Ccl1 is a critical factor for efficient genome&#x02010;wide H3K4 trimethylation by COMPASS and has great impact on SM biosynthesis (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>). However, the exact mechanism of how COMPASS affects the expression of subtelomeric SM genes in both fungi remains unclear so far.</p><p>In the present work, we focused on the catalytic subunit Set1 of COMPASS, and on the H3K4me3&#x02010;specific demethylase Kdm5 as counterpart of Set1. We found a great impact on genome&#x02010;wide transcription, especially upon <italic>SET1</italic> deletion, as well as a considerable effect on SM production for &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants. Notably, albeit completely abolished GA production levels of &#x00394;<italic>set1</italic> in axenic culture, the mutant induced &#x02013; though strongly attenuated &#x02013; <italic>bakanae</italic> symptoms on rice. This phenotype goes in line with residual GA<sub>3</sub> levels found <italic>in planta</italic>. Next to secondary metabolism, Set1 and Kdm5 function as activator and repressor of conidiation respectively. Gene knock&#x02010;out, chromatin immunoprecipitation (ChIP) and/or gene expression analyses revealed the conidiation&#x02010;specific TF&#x02010;encoding gene <italic>ABA1</italic> as major target of Set1, Kdm5 and also other regulators, that is, Csm1, Flb3 and Flb4.</p></sec><sec id="emi14339-sec-0002"><title>Results</title><sec id="emi14339-sec-0003"><title>
+<italic>Identification of the H3K4 methyltransferase Set1 and demethylase Kdm5 in</italic> F. fujikuroi</title><p>After analyzing the COMPASS component Ccl1 in <italic>F. fujikuroi</italic> (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>), we have now identified the putative methyltransferase of this complex by determining the ortholog using QuartetS (Yu <italic>et al</italic>., <xref rid="emi14339-bib-0082" ref-type="ref">2011</xref>). The predicted protein FFUJ_02475 is the ortholog of the well&#x02010;characterized H3K4&#x02010;specific methyltransferases Set1 in <italic>S. cerevisiae</italic> and SetA in <italic>A. nidulans</italic> (Briggs <italic>et al</italic>., <xref rid="emi14339-bib-0005" ref-type="ref">2001</xref>; Govindaraghavan <italic>et al</italic>., <xref rid="emi14339-bib-0022" ref-type="ref">2014</xref>). FFUJ_02475 contains the catalytically active SET (IPR001214), N&#x02010;SET (IPR024657) and Post&#x02010;SET (IPR003616) domains as well as an RNA&#x02010;binding (IPR035979) domain also present in Set1 and SetA from <italic>S. cerevisiae</italic> and <italic>A. nidulans</italic>, respectively (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>A), and was therefore designated <italic>F. fujikuroi</italic> Set1.</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<italic>Fusarium fujikuroi</italic> Set1 and Kdm5 are a H3K4&#x02010;specific histone methyltransferase and demethylase respectively. <bold>A,B</bold>. Schematic representation of the domain structure of Set1 and Kdm5 homologues conserved in <italic>S. cerevisiae</italic>, <italic>A. nidulans</italic> and <italic>F. fujikuroi</italic>. The domain description includes the respective InterPro accession numbers. <bold>C</bold>. Western blot analysis using the H3K4me3/me2/me1 and H3 antibodies. Indicated strains were grown in liquid culture (ICI + 60 mM Gln) for 3 days prior to protein extraction. For the detection of H3K4me3 in &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants, 10 &#x003bc;g of the protein extract was loaded on to the gel, while 15 &#x003bc;g was loaded for the rest.</p></caption><graphic id="nlm-graphic-1" xlink:href="EMI-20-3343-g001"/></fig><p>In addition to Set1, FFUJ_13017 was determined by QuartetS as the <italic>A. nidulans</italic> KdmB ortholog (Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>; Yu <italic>et al</italic>., <xref rid="emi14339-bib-0082" ref-type="ref">2011</xref>), a putative H3K4&#x02010;specific demethylase and possible antagonist to <italic>F. fujikuroi</italic> Set1. Hence, FFUJ_13017 was designated <italic>F. fujikuroi</italic> Kdm5 according to the general nomenclature (Allis <italic>et al</italic>., <xref rid="emi14339-bib-0001" ref-type="ref">2007</xref>). Both <italic>F. fujikuroi</italic> Kdm5 and <italic>A. nidulans</italic> KdmB show an identical domain structure which is more complex than that of the <italic>S. cerevisiae</italic> ortholog Jhd2 (Liang <italic>et al</italic>., <xref rid="emi14339-bib-0033" ref-type="ref">2007</xref>). All three share the catalytically active JmjC (IPR003347) and JmjN (IPR003349) domains, while KdmB and Kdm5 harbor not only one but two plant homeodomain&#x02010;type zinc fingers (IPR001965). In addition, the latter have ARID/BRIGHT DNA&#x02010;binding (IPR001606) and C<sub>5</sub>HC<sub>2</sub>&#x02010;type zinc finger (IPR004198) domains (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>B).</p><p>Single deletion mutants have been successfully generated for <italic>F. fujikuroi SET1</italic> and <italic>KDM5</italic>, and <italic>KDM5</italic> was additionally overexpressed using the constitutive <italic>oliC</italic> promoter from <italic>A. nidulans</italic>. While abundant in the <italic>F. fujikuroi</italic> wild type (WT) IMI58289, all detectable global H3K4me3 and H3K4me2 signals were lost in &#x00394;<italic>set1</italic> mutants as identified by western blot analyses (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C). Contrary to <italic>S. cerevisae</italic> and <italic>A. nidulans</italic> (Fingerman <italic>et al</italic>., <xref rid="emi14339-bib-0015" ref-type="ref">2005</xref>; Govindaraghavan <italic>et al</italic>., <xref rid="emi14339-bib-0022" ref-type="ref">2014</xref>), but in agreement with <italic>F. graminearum</italic> (Liu <italic>et al</italic>., <xref rid="emi14339-bib-0034" ref-type="ref">2015</xref>), a faint band was still detectable for H3K4me1. However, it remains unclear at this moment whether there are indeed residual monomethylation levels in &#x00394;<italic>set1</italic> or whether this band is due to insufficient antibody specificity. The methylation defect was completely restored upon <italic>in loco</italic> complementation of &#x00394;<italic>set1</italic> with the full&#x02010;length gene, gaining <italic>SET1</italic>
+<sup><italic>C</italic></sup> strains (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C). In contrast, the <italic>in loco</italic> integration of the point&#x02010;mutated variant <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup>, in which the catalytically active histidine of the SET domain has been mutated to a lysine residue (Tanaka <italic>et al</italic>., <xref rid="emi14339-bib-0070" ref-type="ref">2007</xref>; Janevska <italic>et al</italic>., <xref rid="emi14339-bib-0028" ref-type="ref">2018</xref>), did not complement as expected (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C).</p><p>Next, <italic>F. fujikuroi</italic> Kdm5 was identified as a true counterpart of Set1, functioning as an H3K4me3&#x02010;specific demethylase. The total level of H3K4me3 was increased in &#x00394;<italic>kdm5</italic> and decreased in OE::<italic>KDM5</italic>, while the opposite was true for H3K4me2 (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C). More precisely, H3K4me3 cannot be removed in the &#x00394;<italic>kdm5</italic> mutant, which results in a shift of H3K4me2 to H3K4me3 genome&#x02010;wide (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C; Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S1</xref>), as H3K4me2 is still continuously converted into the trimethylation state by Set1. Something very similar has also been observed for <italic>S. cerevisiae JHD2</italic> and <italic>A. nidulans kdmB</italic> deletion mutants (Liang <italic>et al</italic>., <xref rid="emi14339-bib-0033" ref-type="ref">2007</xref>; Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>).</p><p>In summary, Set1 is responsible for H3K4 tri&#x02010;, di&#x02010; and possibly also monomethylation in <italic>F. fujikuroi</italic>, while Kdm5 was found to counteract Set1&#x02010;mediated H3K4me3.</p></sec><sec id="emi14339-sec-0004"><title>
+<italic>Deletion of</italic> SET1 <italic>and overexpression of</italic> KDM5 <italic>affect vegetative growth</italic>
+</title><p>Next, we performed a plate assay using complex (complete medium, CM and vegetable juice agar, V8) as well as minimal (Czapek Dox, CD and synthetic ICI with 6 mM NH<sub>4</sub>NO<sub>3</sub>) media to assess the impact of H3K4 methylation on vegetative growth. Deletion of <italic>SET1</italic> resulted in a growth defect on all tested media, which was restored in <italic>SET1</italic>
+<sup><italic>C</italic></sup> but not in <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> strains (Fig. <xref rid="emi14339-fig-0002" ref-type="fig">2</xref>A). Therefore, it is likely that the loss of H3K4 methylation is the sole reason for the poor vegetative growth of &#x00394;<italic>set1</italic>.</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Influence of <italic>SET1</italic> deletion as well as <italic>KDM5</italic> deletion and overexpression on vegetative growth. <bold>A</bold>. The WT, &#x00394;<italic>set1</italic>, <italic>SET1</italic>
+<sup><italic>C</italic></sup> and <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> mutants were grown on solid complex (V8, CM) and minimal (CD, ICI + 6 mM NH<sub>4</sub>NO<sub>3</sub>) media for 7 days in the dark in triplicates. <bold>B</bold>. The WT, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants were grown under above described conditions.</p></caption><graphic id="nlm-graphic-3" xlink:href="EMI-20-3343-g002"/></fig><p>While &#x00394;<italic>kdm5</italic> mutants showed a WT&#x02010;like colony diameter, OE::<italic>KDM5</italic> mutants exhibited an attenuated growth (Fig. <xref rid="emi14339-fig-0002" ref-type="fig">2</xref>B), thereby resembling &#x00394;<italic>set1</italic> and <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup>. In conclusion, strains with reduced (OE::<italic>KDM5</italic>) or abolished (&#x00394;<italic>set1</italic>, <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup>) H3K4me3 levels (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C) showed retarded hyphal growth, suggesting a correlation between H3K4me3 and vegetative growth in <italic>F. fujikuroi</italic>.</p></sec><sec id="emi14339-sec-0005"><title>
+<italic>Only a small set of genes is antagonistically affected in &#x00394;</italic>set1 <italic>and &#x00394;</italic>kdm5</title><p>In order to compare the genome&#x02010;wide impact of <italic>SET1</italic> and <italic>KDM5</italic> deletion on transcription, we performed a microarray expression analysis. For this, the WT, &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants were cultivated in synthetic ICI liquid medium with limiting (6 mM, N&#x02212;) or saturating (60 mM, N+) amounts of glutamine (Gln), conditions that were previously shown to either induce or repress the expression of several SM genes in <italic>F. fujikuroi</italic> (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>; Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0042" ref-type="ref">2017a</xref>). Based on the selection criteria of a fourfold change in expression (log<sub>2</sub> fold change &#x02265; 2 or &#x02264; &#x02212;2) at the 95% confidence interval (false discovery rate <italic>&#x0003c;</italic> 0.05), 2282 of the 14,816 annotated genes (15.4%) were affected in a Set1&#x02010; and/or Kdm5&#x02010;dependent manner in at least one condition. Among these, 1,656 and 1,191 genes were differentially expressed (compared with the WT) in the presence of 6 and 60 mM Gln, respectively, giving an overlap of 565 genes affected under both nitrogen conditions (Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Microarray expression analysis of differentially regulated genes in &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic>. The WT and the two deletion mutants were grown in ICI liquid culture in the presence of (<bold>A)</bold> limiting (6 mM, N&#x02212;) and (<bold>B)</bold> saturating (60 mM, N+) amounts of Gln for 3 days prior to RNA extraction. Data are mean values (<italic>n</italic> = 2). Genes upregulated in the deletion mutants compared with the WT are green (log<sub>2</sub> fold change &#x02265; 2), downregulated genes are red (log<sub>2</sub> fold change &#x02264; &#x02212;2), and not differentially expressed genes are black (between &#x02212;2 and 2). The eight profiles were extracted first, and then the genes were clustered for each profile.</p></caption><graphic id="nlm-graphic-5" xlink:href="EMI-20-3343-g003"/></fig><p>The majority of genes was regulated (directly or indirectly) by Set1, while only a smaller set of genes was affected by Kdm5, and an even smaller set of genes was regulated by both Set1 and Kdm5. More precisely, under nitrogen limitation, 1,079 genes (65.2%) were only affected in &#x00394;<italic>set1</italic>, 361 genes (21.8%) were only affected in &#x00394;<italic>kdm5</italic> and 216 genes (13.0%) were up&#x02010; and/or downregulated in both &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> (Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>A). Notably, the majority of genes was upregulated upon <italic>SET1</italic> and/or <italic>KDM5</italic> deletion (73.0% in Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>A), whereas fewer genes were downregulated (25.1% in Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>A). In contrast to our expectation, only a small set of genes was regulated in an antagonistic manner by Set1 and Kdm5 (1.9% in Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>A and 2.1% in Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>B). At this point, no direct regulation mechanisms can be concluded from these data, as the observed changes in gene expression can still be mediated by downstream regulators, and not via direct binding to the loci by Set1 and Kdm5.</p><p>Under both nitrogen conditions, the largest group comprised genes upregulated in &#x00394;<italic>set1</italic> but not affected in &#x00394;<italic>kdm5</italic>: this profile 2 contained 50.5% and 64.9% of all differentially regulated genes in the presence of 6 and 60 mM Gln respectively (Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>). A Functional Catalogue (FunCat) analysis (Ruepp <italic>et al</italic>., <xref rid="emi14339-bib-0051" ref-type="ref">2004</xref>) to identify significantly enriched protein functions in this profile identified the FunCat groups &#x02018;01.20 secondary metabolism&#x02019; and &#x02018;01 metabolism&#x02019; under both nitrogen conditions (Supporting Information Table <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S1</xref>). Furthermore, in the presence of 6 mM Gln, four additional FunCat groups were enriched with a high significance in profile 2: &#x02018;01.05 C&#x02010;compound and carbohydrate metabolism&#x02019;, &#x02018;01.06.05 fatty acid metabolism&#x02019;, &#x02018;02.07 pentose&#x02010;phosphate pathway&#x02019; and &#x02018;32.07 detoxification&#x02019; (Supporting Information Table <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><p>In summary, the genome&#x02010;wide transcriptome analysis yielded interesting insights: the majority of genes is up&#x02010; but not downregulated upon deletion of <italic>SET1</italic>, including several SM&#x02010;related genes. Set1 and Kdm5 act only in a minority of cases as true antagonists, either directly or indirectly on a transcriptional level.</p></sec><sec id="emi14339-sec-0006"><title>
+<italic>WT&#x02010;like SM biosynthesis depends on both Set1 and Kdm5</italic>
+</title><p>Based on the microarray analysis, several SM key enzyme&#x02010;encoding genes are differentially expressed in &#x00394;<italic>set1</italic> and/or &#x00394;<italic>kdm5</italic> in comparison to the WT. Strikingly, 15 out of the 21 affected key genes are responsive to nitrogen in the WT, and are preferentially expressed under either nitrogen limitation or surplus conditions (Supporting Information Table <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S2</xref>). In agreement with the genome&#x02010;wide transcriptome analysis (Fig. <xref rid="emi14339-fig-0003" ref-type="fig">3</xref>), several SM key genes were found to be upregulated in &#x00394;<italic>set1</italic>. In fact, 8 out of 12 and 5 out of 8 genes were upregulated in the &#x00394;<italic>set1</italic> mutant compared with the WT under N&#x02212; and N+ conditions respectively (Supporting Information Table <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S2</xref>). Among those are several so far cryptic SM key genes without yet assigned products, that is, <italic>PKS&#x02010;NRPS9</italic>, <italic>PKS type III</italic>, <italic>NRPS4</italic>, <italic>NRPS23</italic> and <italic>DMATS3</italic>, rendering this strain an interesting target for future product analyses. Fewer SM genes were affected by the loss of <italic>KDM5</italic>. Here, only 8 SM key genes were deregulated in &#x00394;<italic>kdm5</italic> with the majority of them (5 out of 8) being downregulated (Supporting Information Table <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S2</xref>). Noteworthy, only two of them, that is, <italic>PKS4</italic> and <italic>NRPS31</italic>, involved in the biosynthesis of BIK and APF, respectively, were found to be regulated in an antagonistic manner by Set1 and Kdm5. Indeed, not only the key enzyme&#x02010;encoding genes, but all 6 BIK cluster genes and 11 APF cluster genes were similarly affected by <italic>SET1</italic> and <italic>KDM5</italic> deletion (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><p>Among the known SMs, which can be readily quantified in liquid cultures via high&#x02010;performance liquid chromatography coupled to diode array detection (HPLC&#x02010;DAD), production of the two red pigments BIK and FSR was shown to be increased in &#x00394;<italic>set1</italic> and OE::<italic>KDM5</italic>, and decreased in &#x00394;<italic>kdm5</italic> compared with the WT under their respective producing conditions (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>A,B). A similar pattern was observed for the mycotoxin FUS: FUS biosynthesis was downregulated in &#x00394;<italic>kdm5</italic>, and upregulated in the other two strains (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>C). In contrast, production of the mycotoxin FSA was only slightly enhanced in &#x00394;<italic>set1</italic>, slightly decreased in OE::<italic>KDM5</italic> and not affected in &#x00394;<italic>kdm5</italic> (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>D). Notably, the biosynthesis of the bioactive phytohormone gibberellic acid GA<sub>3</sub> showed a different pattern: GA<sub>3</sub> was not detectable in &#x00394;<italic>set1</italic>, its levels were reduced to about 20% in &#x00394;<italic>kdm5</italic>, and not affected in the <italic>KDM5</italic> overexpression strain (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>E). Therefore, Set1 and Kdm5 were found to antagonize BIK, FSR, FUS (via HPLC) and possibly APF biosynthesis (according to the microarray). Not all of the described effects on SM production were reflected as significant changes in the microarray expression analysis: the GA key gene was only downregulated in &#x00394;<italic>set1</italic> but not in &#x00394;<italic>kdm5</italic> (6 mM Gln), and the changes for the FUS key gene were not significant (60 mM Gln; Supporting Information Table <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S2</xref>). Furthermore, the producing condition for FSR (6 mM NaNO<sub>3</sub>) was not included in the microarray. The discrepancy between SM gene expression and SM production levels can likely be explained by the fact that the two analyses were performed at different time points, that is, after 3 and 7 days of cultivation respectively. While production levels show the accumulation of a metabolite within an extended time period, gene expression levels stand for one (representative) time point.</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>SM biosynthesis is deregulated in &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants. Indicated strains were grown in ICI liquid culture for 7 days and analysed via HPLC&#x02010;DAD. The cultivation was done in the presence of 6 mM Gln for bikaverin (BIK) and gibberellic acid GA<sub>3</sub> (<bold>A, E</bold>), 6 mM NaNO<sub>3</sub> for fusarubins (FSR) (<bold>B</bold>) or 60 mM Gln for fusarins (FUS) and fusaric acid (FSA) (<bold>C, D</bold>). The production was related to the dry weight of the strains and the production level of the WT was arbitrarily set to 100%. Data are mean values &#x000b1; SD (<italic>n</italic> = 3). For statistical analysis, the mutants were compared with the WT using the student's <italic>t</italic>&#x02010;test: *, <italic>p</italic> &#x0003c; 0.05; **, <italic>p</italic> &#x0003c; 0.01.; n.d., not detected.</p></caption><graphic id="nlm-graphic-7" xlink:href="EMI-20-3343-g004"/></fig><p>BIK, FSR, FSA and GA clusters are located within, and the FUS cluster is located in close proximity to subtelomeric regions of facultative heterochromatin, indicated by the heterochromatic mark H3K27me3 (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S3</xref>; Studt <italic>et al</italic>., <xref rid="emi14339-bib-0067" ref-type="ref">2016b</xref>). Previous genome&#x02010;wide ChIP&#x02010;sequencing analysis revealed the absence of H3K4me2 at most of the here analyzed SM genes, except for the GA gene cluster. Here, two out of the seven GA cluster genes were shown to be decorated with H3K4me2 in the WT background only under inducing conditions (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S3C</xref>; Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>). To gain a deeper insight into the H3K4 methylation pattern, we performed ChIP with subsequent quantitative real&#x02010;time polymerase chain reaction (qPCR) to determine H3K4me3 and H3K4me2 levels at GA cluster genes in &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants under GA&#x02010;inducing conditions. The key gene <italic>CPS/KS</italic> as well as <italic>P450&#x02010;1</italic> were chosen as highly expressed GA cluster genes, while <italic>P450&#x02010;2</italic> and <italic>P450&#x02010;4</italic> were the ones decorated with H3K4me2 under inducing conditions (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S3C</xref>).</p><p>As expected, lack of <italic>SET1</italic> resulted in an overall decrease of H3K4me3 and H3K4me2 at all analysed GA genes (Fig. <xref rid="emi14339-fig-0005" ref-type="fig">5</xref>A,B), a phenotype that goes in line with the global loss of H3K4me3/me2 as shown by western blot (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C). While H3K4me3 levels followed a similar pattern in &#x00394;<italic>set1</italic> and OE::<italic>KDM5</italic>, and were reduced in the ChIP and western blot analyses (Figs. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C and <xref rid="emi14339-fig-0005" ref-type="fig">5</xref>A), a significant increase in H3K4me3 was only observed for <italic>CPS/KS</italic> and <italic>P450&#x02010;1</italic>, but not <italic>P450&#x02010;2</italic> and <italic>P450&#x02010;4</italic>, in &#x00394;<italic>kdm5</italic> (Fig. <xref rid="emi14339-fig-0005" ref-type="fig">5</xref>A). This might be due to relatively high amounts of H3K4me3 at these two genes in the WT background, which cannot be elevated any further in &#x00394;<italic>kdm5</italic>.</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>H3K4me3 and H3K4me2 levels at gibberellic acid (GA) cluster genes in &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants. Indicated strains were grown in liquid culture (ICI + 6 mM Gln) for 3 days prior to ChIP&#x02010;qPCR using the (<bold>A</bold>) H3K4me3 or (<bold>B</bold>) H3K4me2 antibody. Therefore, the enriched samples (precipitated by antibody) were normalized to the respective input samples (initially applied chromatin). The WT was arbitrarily set to 1, and the data are mean values &#x000b1; SD (<italic>n</italic> = 4). For statistical analysis, the mutants were compared with the WT using the student's <italic>t</italic>&#x02010;test: *, <italic>p</italic> &#x0003c; 0.05; **, <italic>p</italic> &#x0003c; 0.01.</p></caption><graphic id="nlm-graphic-9" xlink:href="EMI-20-3343-g005"/></fig><p>Contrary to H3K4me3, H3K4me2 levels were comparable in &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> at GA cluster genes (Fig. <xref rid="emi14339-fig-0005" ref-type="fig">5</xref>B), while both H3K4 methylation marks behaved antagonistically genome&#x02010;wide as shown by western blot (Fig. <xref rid="emi14339-fig-0001" ref-type="fig">1</xref>C). The effects were more obvious for the GA cluster genes <italic>P450&#x02010;2</italic> and <italic>P450&#x02010;4</italic>, which exhibit a strong accumulation of H3K4me2 in the WT background (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S3C</xref>), and followed a similar trend for <italic>CPS/KS</italic> and <italic>P450&#x02010;1</italic> (Fig. <xref rid="emi14339-fig-0005" ref-type="fig">5</xref>B). Bearing in mind that &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> showed a similar phenotype and both produced significant amounts of GA<sub>3</sub> in axenic culture (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>C), this might rely on comparable levels of H3K4me2, but not H3K4me3, in these two strains (Fig. <xref rid="emi14339-fig-0005" ref-type="fig">5</xref>A,B).</p><p>To conclude, secondary metabolism in <italic>F. fujikuroi</italic> was found to depend on functional Set1 and Kdm5: the biosynthesis of several SMs was deregulated in the analyzed mutants &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic>. However, the exact regulatory circuits remain to be elucidated.</p></sec><sec id="emi14339-sec-0007"><title>
+<italic>Deletion of</italic> SET1 <italic>results in an attenuated virulence on rice</italic>
+</title><p>Most <italic>F. fujikuroi</italic> strains cause <italic>bakanae</italic> disease when infecting rice plants as a result of their secretion of GAs, a group of highly bioactive phytohormones (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0042" ref-type="ref">2017a</xref>). Since the GA<sub>3</sub> production in axenic culture was fully abolished in &#x00394;<italic>set1</italic> and significantly decreased in &#x00394;<italic>kdm5</italic> (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>E), we next performed infection studies of the analysed mutant strains. Therefore, surface&#x02010;sterilized and pre&#x02010;germinated rice seedlings were infected with the WT, &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> strains (Fig. <xref rid="emi14339-fig-0006" ref-type="fig">6</xref>; Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S4</xref>). Both &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> resulted in a WT&#x02010;like phenotype, characterized by chlorotic and hyper&#x02010;elongated rice internodes (Fig. <xref rid="emi14339-fig-0006" ref-type="fig">6</xref>A,B; Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S4</xref>), albeit the significantly reduced GA<sub>3</sub> levels found in &#x00394;<italic>kdm5</italic> strains during axenic growth (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>E). Notably, even the rice plants infected with &#x00394;<italic>set1</italic>, a strain that did not produce detectable GA<sub>3</sub> levels during axenic growth (Fig. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>E), showed slightly chlorotic and extended internodes (Fig. <xref rid="emi14339-fig-0006" ref-type="fig">6</xref>A,B). Subsequent chemical quantification of GA<sub>3</sub> levels <italic>in planta</italic> revealed that GA<sub>3</sub> levels were in fact not abolished in &#x00394;<italic>set1</italic> during the infection. Rice samples infected with &#x00394;<italic>set1</italic> contained 24% of the GA<sub>3</sub> level of WT&#x02010;infected rice samples (Fig. <xref rid="emi14339-fig-0006" ref-type="fig">6</xref>C). Notably, GA<sub>3</sub> levels in &#x00394;<italic>kdm5</italic>&#x02010;infected plant material were also higher compared with axenic growth (78% of WT&#x02010;infected samples instead of 20% in axenic culture) (Figs. <xref rid="emi14339-fig-0004" ref-type="fig">4</xref>E and <xref rid="emi14339-fig-0006" ref-type="fig">6</xref>C), thereby likely explaining the WT&#x02010;like infection pattern of this strain (Fig. <xref rid="emi14339-fig-0006" ref-type="fig">6</xref>A,B).</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Determination of virulence and GA<sub>3</sub> levels of &#x00394;<italic>set1</italic>&#x02010; and &#x00394;<italic>kdm5</italic>&#x02010;infected rice plants. <bold>A</bold>. Germinated rice seedlings were infected with the WT, the &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> strains. Mock infection was achieved through the addition of H<sub>2</sub>O and served as negative control. Progression of infection was determined after 7 days. <bold>B</bold>. The length between rice internodes was measured (indicated in A). Data are mean values &#x000b1; SD (<italic>n</italic> = 5). For statistical analysis, &#x00394;<italic>set1</italic> was compared with the WT and mock control using the student's <italic>t</italic>&#x02010;test: **, <italic>p</italic> &#x0003c; 0.01. <bold>C</bold>. Gibberellic acid GA<sub>3</sub> levels <italic>in planta</italic> were quantified via HPLC&#x02010;MS/MS and normalized to the input plant material. The 5 (infected) rice plants were combined, and then divided again to yield a technical replicate for the SM extraction and quantification. The WT was arbitrarily set to 100%. n.d., not detected.</p></caption><graphic id="nlm-graphic-11" xlink:href="EMI-20-3343-g006"/></fig></sec><sec id="emi14339-sec-0008"><title>
+<italic>Set1 and Kdm5 are positive and negative regulators of conidiation, respectively</italic>
+</title><p>The formation of asexual spores is an important way for filamentous, pathogenic fungi to proliferate and spread. The <italic>F. fujikuroi</italic> WT IMI58289 used in this work produces only microconidia (here simply referred to as &#x02018;conidia&#x02019;), while other strains produce micro&#x02010; and macroconidia (with several septa), or predominantly macroconidia (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0042" ref-type="ref">2017a</xref>). As conidiation&#x02010;related genes are part of the conserved fungal genome, we assumed an effect on conidiogenesis upon perturbation of the euchromatic H3K4 methylation mark in <italic>SET1</italic> and <italic>KDM5</italic> mutants.</p><p>To assess the ability of &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants to reproduce asexually, we next quantified conidia formation. While both &#x00394;<italic>set1</italic> and OE::<italic>KDM5</italic> produced only very few conidia, &#x00394;<italic>kdm5</italic> showed elevated conidia formation in comparison to the WT, suggesting that Set1 and Kdm5 indeed antagonize conidiogenesis (Fig. <xref rid="emi14339-fig-0007" ref-type="fig">7</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Conidiation is affected by <italic>SET1</italic> and <italic>KDM5</italic> deletion, and is regulated by the conserved TFs Aba1, Flb3 and Flb4. <bold>A</bold>. Indicated strains were grown on V8 agar in the presence of a 12 h light/12 h dark cycle for 14 days prior to analysis of conidia formation. Data are mean values &#x000b1; SD (<italic>n</italic> = 3). For statistical analysis, the mutants were compared with the WT using the student's <italic>t</italic>&#x02010;test: *, <italic>p</italic> &#x0003c; 0.05; **, <italic>p</italic> &#x0003c; 0.01. <bold>B</bold>. The <italic>A. nidulans</italic> regulators AbaA, FlbB&#x02010;FlbE and WetA, but not BrlA, are conserved in <italic>F. fujikuroi</italic>. The domain description includes the respective InterPro accession numbers. <bold>C</bold>. Indicated strains were grown and analysed as described above. n.d., not detected.</p></caption><graphic id="nlm-graphic-13" xlink:href="EMI-20-3343-g007"/></fig><p>Intrigued by these findings, we searched the <italic>F. fujikuroi</italic> genome for conidiation&#x02010;related genes, which have already been well&#x02010;characterized in <italic>A. nidulans</italic> (Krijgsheld <italic>et al</italic>., <xref rid="emi14339-bib-0029" ref-type="ref">2013</xref>). The upstream cascade is mainly transmitted by the so&#x02010;called &#x02018;fluffy&#x02019; proteins, many of which are TFs, such as FlbB (basic leucine zipper TF), FlbC (C<sub>2</sub>H<sub>2</sub> TF) and FlbD (cMyb TF), while FlbE does not harbor a conserved domain (Fig. <xref rid="emi14339-fig-0007" ref-type="fig">7</xref>B). Both FlbC and a heterodimer of FlbB/FlbD (FlbD is released from a heterodimer with FlbE) are required for efficient <italic>brlA</italic> (<italic>bristle</italic>) expression, which encodes the central regulator of asexual development in <italic>A. nidulans</italic>. BrlA further activates the TF gene <italic>abaA</italic> (<italic>abacus</italic>), which in turn activates <italic>wetA</italic> (<italic>wet white</italic>), the two being required for conidia formation and maturation respectively (Krijgsheld <italic>et al</italic>., <xref rid="emi14339-bib-0029" ref-type="ref">2013</xref>).</p><p>Orthologs for <italic>A. nidulans flbB</italic>&#x02010;<italic>flbD</italic> were determined by QuartetS (Yu <italic>et al</italic>., <xref rid="emi14339-bib-0082" ref-type="ref">2011</xref>), while no entry was found for <italic>abaA</italic>, <italic>flbE</italic> and <italic>wetA</italic>. Thus, here putative orthologs were identified as &#x02018;Best&#x02010;Hits&#x02019; by BlastP analyses. No putative ortholog for <italic>brlA</italic> could be identified in the genome of <italic>F. fujikuroi</italic> (Fig. <xref rid="emi14339-fig-0007" ref-type="fig">7</xref>B). BrlA seems to be absent from the genus <italic>Fusarium</italic> (Son <italic>et al</italic>., <xref rid="emi14339-bib-0059" ref-type="ref">2014a</xref>; Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0042" ref-type="ref">2017a</xref>). Single deletion mutants were generated for the <italic>F. fujikuroi</italic> orthologs, designated <italic>ABA1</italic>, <italic>FLB2</italic>&#x02010;<italic>FLB5</italic> and <italic>WET1</italic>, and the mutants were tested for their ability to produce conidia. In Fig. <xref rid="emi14339-fig-0007" ref-type="fig">7</xref>C, the novel mutants are shown in comparison to &#x00394;<italic>csm1</italic> (regulator of <italic>c</italic>onidiation and <italic>s</italic>econdary <italic>m</italic>etabolism). The TF&#x02010;encoding gene <italic>CSM1</italic> encodes a major repressor of conidiation in <italic>F. fujikuroi</italic>, and the respective deletion strain is characterized by a strongly elevated conidia formation relative to the WT (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0043" ref-type="ref">2017b</xref>). Indeed, conidiogenesis was abolished in &#x00394;<italic>aba1</italic>, &#x00394;<italic>flb3</italic> and &#x00394;<italic>flb4</italic> mutants, while WT&#x02010;like amounts of conidia were produced in &#x00394;<italic>flb2</italic>, &#x00394;<italic>flb5</italic> and &#x00394;<italic>wet1</italic> (Fig. <xref rid="emi14339-fig-0007" ref-type="fig">7</xref>C). A plate assay performed under conidiation&#x02010;inducing conditions did not show an altered phenotype, concerning the colony diameter or morphology, for any of the generated deletion mutants (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S5A</xref>). Furthermore, a microscopic analysis revealed that Wet1 is probably also involved in conidia separation and maturation in <italic>F. fujikuroi</italic>, as &#x00394;<italic>wet1</italic> mutants did not form longer strings of conidia as the WT, but formed smaller nests of conidia that remained close to the vegetative hyphae (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S5B</xref>).</p><p>As indicated above, <italic>F. fujikuroi</italic> IMI58289 analyzed so far produces only microconidia, while the sequenced strain <italic>F. fujikuroi</italic> E282 produces macroconidia (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0042" ref-type="ref">2017a</xref>). To elucidate whether Aba1 might be also required for macroconidia formation in E282, the respective <italic>ABA1</italic> ortholog <italic>FFE2_00769</italic> was deleted also in the E282 background. Indeed, macroconidia formation was fully abolished in E282/&#x00394;<italic>aba1</italic> mutants (data not shown), suggesting that the synthesis of micro&#x02010; and macroconidia underlies similar transcriptional regulation mechanisms in <italic>Fusarium</italic> spp.</p><p>To elucidate whether Set1 and Kdm5 regulate any of the identified conidiation&#x02010;specific TF&#x02010;encoding genes, <italic>ABA1</italic>, <italic>FLB3</italic> or <italic>FLB4</italic>, the relative expression of these three genes was assessed in &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants in comparison to the respective WT IMI58289 under conidiation&#x02010;inducing light conditions. Moreover, ChIP&#x02010;qPCR was performed to identify changes in H3K4me3 at these genes, which are located in conserved euchromatic regions of chromosome I (<italic>ABA1</italic>), chromosome III (<italic>FLB3</italic>) and chromosome VIII (<italic>FLB4</italic>). Only the expression of <italic>ABA1</italic>, but not of <italic>FLB3</italic> or <italic>FLB4</italic>, fitted to the conidia production levels of the mutants at the time point chosen: <italic>ABA1</italic> was downregulated in &#x00394;<italic>set1</italic> and upregulated in &#x00394;<italic>kdm5</italic> after 3 days of incubation (Fig. <xref rid="emi14339-fig-0008" ref-type="fig">8</xref>A), correlating with decreased and increased conidia formation in these mutants respectively (Fig. <xref rid="emi14339-fig-0007" ref-type="fig">7</xref>A). Indeed, the deposition of H3K4me3 correlated with the detected <italic>ABA1</italic> expression and conidia production levels of the mutants (Fig. <xref rid="emi14339-fig-0008" ref-type="fig">8</xref>B). The distribution of H3K4me3 at the genes <italic>FLB3</italic> and <italic>FLB4</italic> showed the same trend (Fig. <xref rid="emi14339-fig-0008" ref-type="fig">8</xref>B), and it cannot be excluded that their expression exhibited the same profile at an earlier time point, with H3K4me3 indicating recently performed gene expression.</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Relative expression as well as H3K4me3 levels of conidiation&#x02010;related TF genes in &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants. Indicated strains were grown on V8 agar in the presence of a 12 h light/12 h dark cycle for 3 days to induce conidiation. <bold>A</bold>. RNA was extracted and the relative expression of <italic>ABA1</italic>, <italic>FLB3</italic> and <italic>FLB4</italic> was determined by RT&#x02010;qPCR. <bold>B</bold>. ChIP&#x02010;qPCR was performed for the same genes using the H3K4me3 antibody. Therefore, the enriched samples (precipitated by antibody) were normalized to the respective input samples (initially applied chromatin). The WT was arbitrarily set to 1, and the data are mean values &#x000b1; SD (<italic>n</italic> = 4). For statistical analysis, the mutants were compared with the WT using the student's <italic>t</italic>&#x02010;test: *, <italic>p</italic> &#x0003c; 0.05; **, <italic>p</italic> &#x0003c; 0.01.</p></caption><graphic id="nlm-graphic-15" xlink:href="EMI-20-3343-g008"/></fig><p>To summarize, Set1 and Kdm5 were identified as activator and repressor of conidiation, respectively, which likely regulate <italic>ABA1</italic> expression via deposition of H3K4me3. In addition to Aba1, Flb3 and Flb4 act as positive TFs in conidia formation, while Wet1 is probably involved in conidia maturation.</p></sec><sec id="emi14339-sec-0009"><title>Fusarium fujikuroi ABA1 <italic>is the major conidiation&#x02010;specific TF gene targeted by global regulators</italic>
+</title><p>In order to gain a deeper insight into the hierarchical network of regulation, we performed a qPCR expression analysis of &#x00394;<italic>aba1</italic>, &#x00394;<italic>flb3</italic>, &#x00394;<italic>flb4</italic> and &#x00394;<italic>wet1</italic>, in comparison to the WT and &#x00394;<italic>csm1</italic>, grown under conidiation&#x02010;inducing conditions. The analysis revealed that <italic>ABA1</italic> is likely the major target of these regulators: its expression is induced by Flb3 and Flb4 (downregulated in the deletion mutants), whereas it is strongly repressed by Csm1 in the WT background (upregulated in &#x00394;<italic>csm1</italic>) (Fig. <xref rid="emi14339-fig-0009" ref-type="fig">9</xref>A). Furthermore, <italic>WET1</italic> was neither significantly deregulated in &#x00394;<italic>aba1</italic> nor in any other mutant strain at the time point chosen (Fig. <xref rid="emi14339-fig-0009" ref-type="fig">9</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="emi14339-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Regulatory network of conidiation. <bold>A,B</bold>. The strains were grown on V8 agar in the presence of a 12 h light/12 h dark cycle for 3 days. Then, RNA was extracted and the relative expression of <italic>ABA1</italic> and <italic>WET1</italic> was determined by RT&#x02010;qPCR. Data are mean values (<italic>n</italic> = 3). <bold>C</bold>. Indicated strains were grown for 14 days under above described conditions prior to analysis of conidia formation. Data are mean values &#x000b1; SD (<italic>n</italic> = 4). For statistical analysis, the mutants were compared with the WT using the student's <italic>t</italic>&#x02010;test: *, <italic>p</italic> &#x0003c; 0.05; **, <italic>p</italic> &#x0003c; 0.01; n.d., not detected. <bold>D</bold>. Current model of conidia formation and maturation in <italic>F. fujikuroi</italic>, with <italic>ABA1</italic> as major target of positive and negative regulators of conidiation. Dashed lines indicate that Flb4 can be overruled by Csm1.</p></caption><graphic id="nlm-graphic-17" xlink:href="EMI-20-3343-g009"/></fig><p>Earlier investigations have revealed several global regulators with an influence on asexual development in <italic>F. fujikuroi</italic>. Thus, the fungus&#x02010;specific <italic>velvet</italic> protein Vel1 and the GATA&#x02010;type TF Csm1 were shown to be an activator and repressor of conidiation respectively (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0076" ref-type="ref">2010</xref>; Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0043" ref-type="ref">2017b</xref>) (Fig. <xref rid="emi14339-fig-0009" ref-type="fig">9</xref>A). <italic>CSM1</italic> deletion in a &#x00394;<italic>vel1</italic> background (no conidia) restored conidiogenesis (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0043" ref-type="ref">2017b</xref>). To analyze if lack of the repressor gene <italic>CSM1</italic> also restores conidiogenesis in &#x00394;<italic>aba1</italic>, &#x00394;<italic>flb3</italic> and &#x00394;<italic>flb4</italic>, <italic>CSM1</italic> was deleted in the respective mutant strains in the present work. Both Aba1 and Flb3, but not Flb4, were strictly required for asexual development, and the loss of conidia formation in these mutants was not overcome by deleting <italic>CSM1</italic> (Fig. <xref rid="emi14339-fig-0009" ref-type="fig">9</xref>C).</p><p>Based on these data, we have established the following working model that is depicted in Fig. <xref rid="emi14339-fig-0009" ref-type="fig">9</xref>D: Flb3 is strictly required, but also Flb4 is a positive regulator of <italic>ABA1</italic> expression. In contrast, Csm1 represses the expression of <italic>ABA1</italic>, which is responsible for conidia formation. Subsequently, Wet1 induces conidia maturation. Furthermore, we have identified two novel regulators of conidiation: Set1 as activator and Kdm5 as repressor of <italic>ABA1</italic> expression.</p></sec></sec><sec id="emi14339-sec-0010"><title>Discussion</title><p>In the present work, we analyzed <italic>F. fujikuroi</italic> Set1, the methyltransferase of the H3K4&#x02010;specific COMPASS complex, which was shown to be responsible for all detectable H3K4me2/me3 genome&#x02010;wide (and for the majority, if not all, of H3K4me1). As a counterpart, we generated single deletion and overexpression mutants of <italic>F. fujikuroi KDM5</italic>, encoding the ortholog to <italic>S. cerevisiae</italic> Jhd2 and <italic>A. nidulans</italic> KdmB (Liang <italic>et al</italic>., <xref rid="emi14339-bib-0033" ref-type="ref">2007</xref>; Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>). Similarly to Jhd2 and KdmB, Kdm5 was shown to remove H3K4me3 <italic>in vivo</italic>, resulting in a genome&#x02010;wide increase and decrease of H3K4me3 in &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants respectively. The remaining H3K4me2/me1 marks are likely to be demethylated by an Lsd1&#x02010;type amine oxidase in <italic>F. fujikuroi</italic>, which was first described for <italic>Schizosaccharomyces pombe</italic> (Shi <italic>et al</italic>., <xref rid="emi14339-bib-0057" ref-type="ref">2004</xref>).</p><sec id="emi14339-sec-0011"><title>
+<italic>Set1 and Kdm5 affect genome&#x02010;wide transcription and vegetative growth</italic>
+</title><p>A transcriptome analysis of &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants in comparison to the <italic>F. fujikuroi</italic> WT revealed that the two enzymes act as true antagonists only in the minority of cases, using the strong selection criterion of a fourfold change in expression. However, we did find more subtle antagonistic roles of Set1 and Kdm5 in SM biosynthesis and conidiation, as further discussed below. In the genome&#x02010;wide expression analysis, the majority of affected genes was upregulated upon both <italic>SET1</italic> and <italic>KDM5</italic> deletion. This was surprising regarding the fact that the euchromatic, activating mark H3K4me3 was antagonistically affected in western blot analyses, being decreased in &#x00394;<italic>set1</italic> and increased in &#x00394;<italic>kdm5</italic> mutants respectively. Of course, many of the observed effects on gene expression are likely to be secondary, and to be mediated by unknown downstream regulators, such as Set1&#x02010;dependent repressors in this case. Similarly, genome&#x02010;wide transcription was both up&#x02010; and downregulated upon deletion of <italic>F. fujikuroi GCN5</italic> that is responsible for the majority of the activating acetylation (ac) marks, for example, H3K9ac and H3K27ac (R&#x000f6;sler <italic>et al</italic>., <xref rid="emi14339-bib-0050" ref-type="ref">2016</xref>). This was also true for the deletion of the two histone deacetylase (HDAC) genes <italic>HDA1</italic> and <italic>HDA2</italic> in this fungus (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0065" ref-type="ref">2013</xref>).</p><p>In the performed microarray, the largest group was profile 2 under both nitrogen quantities tested: genes upregulated in &#x00394;<italic>set1</italic> and not differentially expressed in &#x00394;<italic>kdm5</italic> (compared with the WT in each case). Several FunCat groups were identified to be significantly enriched in this profile, including genes of primary and secondary metabolism as well as of detoxification pathways. Also, a significant number of cryptic SM key genes was shown to be upregulated in &#x00394;<italic>set1</italic>. Thus, either the perturbation of carbohydrate and fatty acid metabolism, or the upregulation of possibly toxic SMs could be the reason for the slow growth of &#x00394;<italic>set1</italic> mutants in plate assays. Something similar was suggested for the crippled <italic>F. graminearum</italic> &#x00394;<italic>kmt6</italic> mutant that exhibited a downregulation of the repressive mark H3K27me3 and as a consequence, an upregulation of cryptic SM gene clusters (Connolly <italic>et al</italic>., <xref rid="emi14339-bib-0012" ref-type="ref">2013</xref>). In the performed microarray, <italic>PKS&#x02010;NRPS1</italic>, encoding the key enzyme in trichosetin biosynthesis, was upregulated in &#x00394;<italic>set1</italic> under nitrogen limitation. The tetramic acid trichosetin is a potent mycotoxin, which was shown to inhibit vegetative growth when overproduced by <italic>F. fujikuroi</italic> (Janevska <italic>et al</italic>., <xref rid="emi14339-bib-0027" ref-type="ref">2017</xref>). Noteworthy, <italic>PKS&#x02010;NRPS1</italic> expression was similarly induced in <italic>F. fujikuroi KMT6</italic> knock&#x02010;down mutants, also exhibiting poor vegetative growth (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0067" ref-type="ref">2016b</xref>).</p><p>The <italic>in loco</italic> complementation of &#x00394;<italic>set1</italic> with the point&#x02010;mutated variant <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> did not restore H3K4 methylation levels and notably, the observed growth defect, suggesting that the two are correlated. OE::<italic>KDM5</italic> mutants were also characterized by a slow growth, indicating that the depletion of H3K4me3 in &#x00394;<italic>set1</italic>, <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> and OE::<italic>KDM5</italic> mutants could be associated with this phenotype. A slight reduction in colony diameter was also observed for &#x00394;<italic>ccl1</italic> in both <italic>F. fujikuroi</italic> and <italic>F. graminearum</italic> (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>), further strengthening the assumption that reduced H3K4me3 levels are responsible for growth retardation. Whether the strong phenotype of OE::<italic>KDM5</italic> might also be correlated with an overexpression of <italic>PKS&#x02010;NRPS1</italic>, and therefore partially be attributed to trichosetin overproduction, remains elusive at this point. Noteworthy, colony diameters of <italic>F. graminearum</italic> and <italic>F. verticillioides</italic> &#x00394;<italic>set1</italic> mutants were also reduced in comparison to the respective WT strains (Liu <italic>et al</italic>., <xref rid="emi14339-bib-0034" ref-type="ref">2015</xref>; Gu <italic>et al</italic>., <xref rid="emi14339-bib-0023" ref-type="ref">2017</xref>).</p></sec><sec id="emi14339-sec-0012"><title>
+<italic>Set1 and Kdm5 regulate SM biosynthesis mostly in an indirect manner</italic>
+</title><p>As indicated above, secondary metabolism was strongly affected upon <italic>SET1</italic> deletion, but also upon <italic>KDM5</italic> deletion and overexpression. The strength of the present study is that we were able to compare the different and possibly antagonizing phenotypes with each other. Notably, production of the two red pigments BIK and FSR as well as of the mycotoxin FUS was regulated in an antagonistic manner by Set1 and Kdm5: all three SMs were upregulated in &#x00394;<italic>set1</italic> and OE::<italic>KDM5</italic>, but downregulated in &#x00394;<italic>kdm5</italic> in comparison to the WT. This suggests a repressive influence of H3K4me3 on the respective SM gene clusters in the WT background, because this mark was decreased in both &#x00394;<italic>set1</italic> and OE::<italic>KDM5</italic>, and accordingly increased in &#x00394;<italic>kdm5</italic> genome&#x02010;wide. These results are in accordance with a previous study, where we have observed an increase in BIK and FUS biosynthesis (FSR was not tested) upon deletion of <italic>CCL1</italic>, also showing reduced levels of H3K4me3 genome&#x02010;wide (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>). However, in &#x00394;<italic>ccl1</italic>, H3K4me2/me3 levels were not affected at FUS cluster genes, and H3K4me2 was elevated at BIK cluster genes with unchanged H3K4me3 levels (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>). Contrary to this, the &#x00394;<italic>set1</italic> mutant showed a complete loss of all detectable H3K4me2 and H3K4me3. Therefore, the alterations in H3K4me2 at the BIK genes observed in &#x00394;<italic>ccl1</italic> cannot be the reason for the comparable BIK phenotype in &#x00394;<italic>set1</italic> and &#x00394;<italic>ccl1</italic> mutants. Overall this suggests that the observed phenotypes concerning BIK, FSR and FUS biosynthesis are indeed mediated by the globally changing H3K4me3 levels, however, by an as yet unknown regulatory circuit.</p><p>Generally, H3K4 methylation is found within euchromatic regions and is absent from the majority of subtelomeric SM gene clusters in the <italic>F. fujikuroi</italic> WT, also under inducing conditions (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>). Something very similar was described also for <italic>F. graminearum</italic> and <italic>A. nidulans</italic> (Connolly <italic>et al</italic>., <xref rid="emi14339-bib-0012" ref-type="ref">2013</xref>; Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0020" ref-type="ref">2016</xref>), suggesting that most SM gene clusters are rather regulated in an indirect manner, and are not targeted by Set1 or Kdm5, in <italic>F. fujikuroi</italic> and likely also in other fungi. Early work on Set1 and H3K4 methylation in <italic>S. cerevisiae</italic> has revealed a HDAC&#x02010;independent silencing mechanism of rDNA, mating type and subtelomeric loci (Briggs <italic>et al</italic>., <xref rid="emi14339-bib-0005" ref-type="ref">2001</xref>; Krogan <italic>et al</italic>., <xref rid="emi14339-bib-0030" ref-type="ref">2002</xref>; Bryk <italic>et al</italic>., <xref rid="emi14339-bib-0007" ref-type="ref">2002</xref>). However, the exact mechanism is still not well understood, and recruitment of the HDAC Sir2 to subtelomeric loci and subsequent hypoacetylation is generally accepted as main silencing mechanism in budding yeast (Erlendson <italic>et al</italic>., <xref rid="emi14339-bib-0014" ref-type="ref">2017</xref>). As <italic>Fusarium</italic> species employ H3K9 and especially H3K27 methylation to silence vast stretches of constitutive and facultative heterochromatin, respectively (Connolly <italic>et al</italic>., <xref rid="emi14339-bib-0012" ref-type="ref">2013</xref>; Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>; Studt <italic>et al</italic>., <xref rid="emi14339-bib-0067" ref-type="ref">2016b</xref>), it is questionable whether H3K4 methylation further contributes as a silencing mechanism in <italic>F. fujikuroi</italic>. The fact that H3K4 methylation is predominantly absent from facultative heterochromatin at subtelomeres in general, and from silenced SM genes in particular (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>), would argue against this hypothesis.</p><p>The only subtelomeric SM gene cluster analysed here that harbors H3K4me2 under inducing conditions is the GA gene cluster. Here, two out of the seven cluster genes, <italic>P450&#x02010;2</italic> and <italic>P450&#x02010;4</italic>, are decorated with H3K4me2 under inducing but not under repressing conditions (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>). Indeed, ChIP&#x02010;qPCR analyses revealed that these genes are decorated with H3K4me2 in the WT, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants, possibly correlating with GA biosynthesis in these strains, while the distribution of H3K4me3 did not fit the production levels.</p><p>Accordingly, loss of H3K4me2 in &#x00394;<italic>set1</italic> was accompanied with an abolished GA<sub>3</sub> production <italic>in vitro</italic>, which correlated with a reduced virulence on rice. Similarly, Set1 was required in both <italic>F. graminearum</italic> and <italic>F. verticillioides</italic> for full virulence on wheat and maize respectively (Liu <italic>et al</italic>., <xref rid="emi14339-bib-0034" ref-type="ref">2015</xref>; Gu <italic>et al</italic>., <xref rid="emi14339-bib-0023" ref-type="ref">2017</xref>). In <italic>F. graminearum</italic>, the SM deoxynivalenol (DON) is the virulence factor essential for successful progression of wheat infection. While H3K4me3 was mostly absent from DON cluster genes, H3K4me2 levels correlated well with DON gene expression and product formation in the <italic>F. graminearum</italic> WT (producer) and <italic>SET1</italic> mutant (non&#x02010;producer) under axenic conditions (Liu <italic>et al</italic>., <xref rid="emi14339-bib-0034" ref-type="ref">2015</xref>). Therefore, in both <italic>F. fujikuroi</italic> and <italic>F. graminearum</italic>, H3K4me2 might be important for GA and DON biosynthesis respectively.</p><p>While Set1 was required for full virulence of <italic>F. fujikuroi</italic> on its preferred host plant rice, &#x00394;<italic>kdm5</italic>&#x02010;infected rice seedling resembled WT&#x02010;infected samples. It is noteworthy that &#x00394;<italic>set1</italic> strains still showed <italic>bakanae</italic> symptoms on infected rice samples, though strongly attenuated. This contradictory phenotype can be explained by the finding that although abolished during axenic growth, residual GA<sub>3</sub> levels of about 20% were detectable in &#x00394;<italic>set1</italic>&#x02010;infected rice samples. For &#x00394;<italic>kdm5</italic>, GA<sub>3</sub> levels were reduced to about 20% in axenic culture, but elevated to about 80% during <italic>in planta</italic> growth, likely explaining the WT&#x02010;like virulence of this strain. Similar phenotypes have also been observed for &#x00394;<italic>ccl1</italic> (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>) and &#x00394;<italic>sge1</italic> (Michielse <italic>et al</italic>., <xref rid="emi14339-bib-0036" ref-type="ref">2015</xref>) mutants before, with <italic>SGE1</italic> encoding a global SM regulator in <italic>F. fujikuroi</italic>. This induction of GA<sub>3</sub> biosynthesis <italic>in planta</italic> may be mediated by a specific, possibly plant&#x02010;derived signal, thereby suggesting a more complex regulation during the infection process as opposed to axenic growth.</p><p>In summary, a significant influence of H3K4 methylation on SM biosynthesis was observed, however, further research is required to determine the mode of action of COMPASS and Kdm5, and how exactly subtelomeric SM gene clusters are affected by these histone modifiers.</p></sec><sec id="emi14339-sec-0013"><title>
+<italic>Set1 and Kdm5 regulate the conidiation&#x02010;specific TF gene</italic> ABA1</title><p>One of the most intriguing phenotypes of the &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants is the abolished and enhanced conidiation respectively. In the present work, we identified the orthologues to the <italic>A. nidulans</italic> conidiation&#x02010;related genes <italic>abaA</italic>, <italic>flbB</italic>&#x02010;<italic>flbE</italic> and <italic>wetA</italic>, which were designated <italic>F. fujikuroi ABA1</italic>, <italic>FLB2</italic>&#x02010;<italic>FLB5</italic> and <italic>WET1</italic>. We showed that Aba1, Flb3 and Flb4 are essential for conidia formation, while Flb2 and Flb5 are dispensable in <italic>F. fujikuroi</italic>. In <italic>A. nidulans</italic>, the &#x00394;<italic>flbB</italic>&#x02010;&#x00394;<italic>flbE</italic> mutants were characterized by a fluffy phenotype and a low <italic>brlA</italic> expression, and therefore an abolished or delayed conidiogenesis (Wieser <italic>et al</italic>., <xref rid="emi14339-bib-0079" ref-type="ref">1994</xref>; Krijgsheld <italic>et al</italic>., <xref rid="emi14339-bib-0029" ref-type="ref">2013</xref>). Additionally, asexual development has been studied in <italic>F. graminearum</italic>. In this fungus, only AbaA and FlbD, but not the FlbC homolog, were required for macroconidia formation (Son <italic>et al</italic>., <xref rid="emi14339-bib-0058" ref-type="ref">2013</xref>, <xref rid="emi14339-bib-0059" ref-type="ref">2014a</xref>). Indeed in <italic>F. fujikuroi</italic>, Aba1 is essential for both micro&#x02010; and macroconidia formation in the strains IMI58289 and E282 respectively.</p><p>Furthermore, a microscopic analysis revealed that <italic>F. fujikuroi</italic> Wet1 is likely involved in conidia maturation, as already established for the <italic>A. nidulans</italic> and <italic>F. graminearum</italic> WetA homologs. Thus, <italic>Aspergillus</italic> WetA affects the conidial cell wall composition as well as trehalose accumulation (Sewall <italic>et al</italic>., <xref rid="emi14339-bib-0055" ref-type="ref">1990</xref>; Tao and Yu, <xref rid="emi14339-bib-0071" ref-type="ref">2011</xref>), while <italic>F. graminearum</italic> &#x00394;<italic>wetA</italic> mutants had malformed and longer conidia with fewer septa that were sensitive to stressors (Son <italic>et al</italic>., <xref rid="emi14339-bib-0060" ref-type="ref">2014b</xref>). Although the exact role of <italic>F. fujikuroi</italic> Wet1 remains to be elucidated, one can deduce a conserved role of this protein in conidia separation and maturation for all three filamentous fungi.</p><p>We propose a working model in which different global regulators affect <italic>ABA1</italic> expression, and therefore we suggest that Aba1 is the central conidiation&#x02010;specific TF in <italic>F. fujikuroi</italic>. Flb3 and Flb4 are positive regulators, while Csm1 is a repressor of <italic>ABA1</italic> expression. Only Flb3 cannot be overruled by Csm1, so that this TF is strictly required for <italic>ABA1</italic> expression (Fig. <xref rid="emi14339-fig-0009" ref-type="fig">9</xref>D). Of course, the time&#x02010;dependent expression of these regulator genes was not taken into consideration, so that a larger hierarchical network cannot be excluded at this point.</p><p>Finally, we identified Set1 as activator and Kdm5 as repressor of <italic>ABA1</italic> expression. Noteworthy, conidiation was not affected upon deletion of <italic>F. graminearum</italic> and <italic>F. verticillioides SET1</italic> (Liu <italic>et al</italic>., <xref rid="emi14339-bib-0034" ref-type="ref">2015</xref>; Gu <italic>et al</italic>., <xref rid="emi14339-bib-0023" ref-type="ref">2017</xref>). However, in <italic>F. fujikuroi</italic>, conidia formation was nearly abolished in &#x00394;<italic>set1</italic> and increased in &#x00394;<italic>kdm5</italic>, respectively, which correlated with down&#x02010; and upregulated H3K4me3 levels at the 5&#x02032; end of <italic>ABA1</italic>.</p><p>In conclusion, we present a comprehensive analysis of the H3K4&#x02010;specific histone modifiers Set1 and Kdm5 in the rice pathogen <italic>F. fujikuroi</italic>. We show that they antagonize H3K4me3 genome&#x02010;wide, affecting genes of primary and secondary metabolism as well as asexual conidia formation. While their influence on subtelomeric SM gene clusters remains to be resolved in the future, a direct regulation of the conidiation&#x02010;specific TF gene <italic>ABA1</italic> could be suggested, giving a direct link between H3K4me3 levels, <italic>ABA1</italic> expression and conidia formation.</p></sec></sec><sec id="emi14339-sec-0014"><title>Experimental procedures</title><sec id="emi14339-sec-0015"><title>
+<italic>Fungal strains, media and growth conditions</italic>
+</title><p>
+<italic>F. fujikuroi</italic> IMI58289 (Commonwealth Mycological Institute, Kew, UK) (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0078" ref-type="ref">2013</xref>) was used as WT strain for the generation of deletion, complementation, point&#x02010;mutation and overexpression mutants. Furthermore, <italic>ABA1</italic> was deleted in <italic>F. fujikuroi</italic> E282 (Niehaus <italic>et al</italic>., <xref rid="emi14339-bib-0042" ref-type="ref">2017a</xref>).</p><p>Vegetative growth was assessed in triplicates on solid V8 (30 mM CaCO<sub>3</sub>, 20%, v/v, vegetable juice; Campbell Food, Puurs, Belgium), CM (Pontecorvo <italic>et al</italic>., <xref rid="emi14339-bib-0047" ref-type="ref">1953</xref>), CD (Czapek Dox; Sigma&#x02010;Aldrich, Steinheim, Germany) and ICI + 6 mM NH<sub>4</sub>NO<sub>3</sub> (Imperial Chemical Industries Ltd., London, UK) (Geissman <italic>et al</italic>., <xref rid="emi14339-bib-0021" ref-type="ref">1966</xref>) media after incubation for 7 days in the dark (28&#x000b0;C). Furthermore, conidiation was assessed on V8 agar in the presence of a 12 h light/12 h dark cycle (18&#x000b0;C) after incubation for 3 or 14 days for ChIP, gene expression or conidia formation respectively. Light microscopy with an Axio Scope.A1 (Carl Zeiss, Jena, Germany) was performed using colonies grown on conidiation&#x02010;inducing KCl plates (8 g l<sup>&#x02212;1</sup> KCl, 15 g l<sup>&#x02212;1</sup> agar) for 10 days in the dark (28&#x000b0;C). For the isolation of DNA and RNA from solid cultures, the WT and mutant strains were incubated on solidified medium covered with a layer of cellophane.</p><p>For submersed cultures, a pre&#x02010;culture was done, consisting of 100 ml Darken medium (Darken <italic>et al</italic>., <xref rid="emi14339-bib-0013" ref-type="ref">1959</xref>) in 300 ml&#x02010;Erlenmeyer flasks, which was shaken at 180 rpm and 28&#x000b0;C for 3 days in the dark. Then, 0.5% (v/v) of this pre&#x02010;culture was transferred to the main culture, consisting of 100 ml ICI medium with the appropriate nitrogen source (6 or 60 mM Gln to gain acidic, 6 mM NaNO<sub>3</sub> to gain alkaline pH conditions) in 300 ml&#x02010;Erlenmeyer flasks, being shaken under above described conditions for 3 or 7 days for ChIP, gene expression or SM analyses respectively. Protoplast transformation of <italic>F. fujikuroi</italic> was achieved using a main culture of 100 ml ICI medium with 10 g l<sup>&#x02212;1</sup> fructose instead of glucose as well as 0.5 g l<sup>&#x02212;1</sup> (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> as nitrogen source, which was shaken for a maximum of 16 h under above described conditions.</p></sec><sec id="emi14339-sec-0016"><title>
+<italic>Plasmid constructions</italic>
+</title><p>Yeast recombinational cloning (Colot <italic>et al</italic>., <xref rid="emi14339-bib-0011" ref-type="ref">2006</xref>; Schumacher, <xref rid="emi14339-bib-0054" ref-type="ref">2012</xref>) was applied for the generation of deletion, complementation, point&#x02010;mutation and overexpression vectors. For deletion vectors, about 1 kb large fragments upstream and downstream of the respective gene of interest were amplified, 5&#x02032; flanks with 5F/5R and 3&#x02032; flanks with 3F/3R primer pairs (Supporting Information Table S3). The hygromycin B resistance cassette <italic>hphR</italic> (hygromycin B phosphotransferase gene under the control of the <italic>trpC</italic> promoter from <italic>A. nidulans</italic>) was amplified with hph_F/hph_R (Supporting Information Table S3) from the template pCSN44 (Staben <italic>et al</italic>., <xref rid="emi14339-bib-0063" ref-type="ref">1989</xref>). Additionally for <italic>CSM1</italic> deletion, the nourseothricin resistance cassette <italic>natR</italic> (nourseothricin resistance gene under control of <italic>A. nidulans</italic> P<italic>trpC</italic>) was gained from the template pZPnat1 (GenBank AY631958). <italic>S. cerevisiae</italic> FY834 (Winston <italic>et al</italic>., <xref rid="emi14339-bib-0081" ref-type="ref">1995</xref>) was transformed with the obtained PCR products (5&#x02032; flank, 3&#x02032; flank, resistance cassette) as well as with the EcoRI/XhoI digested shuttle vector pRS426 (Christianson <italic>et al</italic>., <xref rid="emi14339-bib-0009" ref-type="ref">1992</xref>), gaining the respective deletion vectors.</p><p>
+<italic>SET1</italic> complementation and point&#x02010;mutation vectors were generated as follows. The full&#x02010;length gene <italic>SET1</italic> including its 5&#x02032; sequence was amplified in two overlapping fragments with primer pairs set1_5F/set1_c_R1 and set1_c_F2/set1_c_R2 (Supporting Information Table S4). For the point&#x02010;mutated variant, three overlapping fragments were generated to insert the base pair substitutions using primer pairs set1_5F/set1_c_R1, set1_c_F2/set1_mut_R and set1_mut_F/set1_c_R2 (Supporting Information Table S4). The <italic>Tgluc</italic> terminator sequence was amplified from <italic>Botrytis cinerea</italic> B05.10 genomic DNA with BcGlu_Term_F2/Tgluc_Nat1_R (Supporting Information Table S4), while the resistance cassette <italic>natR</italic> and the <italic>SET1</italic> 3&#x02032; flank were generated as described above. Then, <italic>S. cerevisiae</italic> FY834 was transformed with the obtained fragments and with the EcoRI/XhoI digested plasmid pRS426, yielding p<italic>SET1</italic>
+<sup><italic>C</italic></sup> and p<italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6A</xref>).</p><p>For overexpression of <italic>KDM5</italic>, the first 1.7 kb of this gene was amplified with OE_kdm5_F/OE_kdm5_R (Supporting Information Table S4) and was cloned into the NcoI/NotI restricted plasmid pNDH&#x02010;OGG (Schumacher, <xref rid="emi14339-bib-0054" ref-type="ref">2012</xref>), gaining pOE::<italic>KDM5</italic> (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6B</xref>). All complementation, point&#x02010;mutation and overexpression vectors were verified by sequencing using primers listed in Supporting Information Table S4.</p></sec><sec id="emi14339-sec-0017"><title>
+<italic>Fungal transformations and analysis of transformants</italic>
+</title><p>
+<italic>Fusarium fujikuroi</italic> protoplast transformation was carried out as described earlier (Tudzynski <italic>et al</italic>., <xref rid="emi14339-bib-0072" ref-type="ref">1999</xref>). Deletion cassettes were amplified from the deletion vectors with primer pairs 5F/3R (Supporting Information Table S3), while 10&#x02013;40 &#x003bc;g of the ApaI/XbaI digested vectors p<italic>SET1</italic>
+<sup><italic>C</italic></sup> and p<italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6A</xref>) as well as of the circular vector pOE::<italic>KDM5</italic> (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6B</xref>) were applied for transformation. The transformants were selected with 100 &#x003bc;g ml<sup>&#x02212;1</sup> hygromycin B (Calbiochem, Darmstadt, Germany) and/or 100 &#x003bc;g ml<sup>&#x02212;1</sup> nourseothricin (Werner&#x02010;Bioagents, Jena, Germany) resistance markers.</p><p>Single and double deletion mutants were verified by Southern blot and/or diagnostic PCR, showing the homologous integration of deletion cassettes as well as the absence of WT genes. Diagnostic PCRs for three independent &#x00394;<italic>set1</italic> and three independent &#x00394;<italic>kdm5</italic> mutants can be found in Supporting Information Figs. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S7A</xref> and <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S8A</xref> respectively. Furthermore, Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S9A</xref>&#x02013;G shows diagnostic PCRs for two &#x00394;<italic>aba1</italic> (IMI58289 WT background), two E282/&#x00394;<italic>aba1</italic>, two &#x00394;<italic>flb2</italic>, three &#x00394;<italic>flb3</italic>, two &#x00394;<italic>flb4</italic>, three &#x00394;<italic>flb5</italic> and three &#x00394;<italic>wet1</italic> mutants. And Supporting Information Fig. S10A&#x02013;C depicts diagnostic PCRs for two &#x00394;<italic>aba1</italic>/&#x00394;<italic>csm1</italic>, one &#x00394;<italic>flb3</italic>/&#x00394;<italic>csm1</italic> and two &#x00394;<italic>flb4</italic>/&#x00394;<italic>csm1</italic> double mutants.</p><p>Moreover, the <italic>in loco</italic> integration of <italic>SET1</italic>
+<sup><italic>C</italic></sup> and <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> constructs was verified with the amplification of 5&#x02032; and 3&#x02032; flanks and the absence of untransformed nuclei for three independent transformants each (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6C</xref>), and the <italic>in loco</italic> integration of pOE::<italic>KDM5</italic> was shown for three independent transformants (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6D</xref>). A northern blot expression analysis verified the successful overexpression of <italic>KDM5</italic> in the mutants (Supporting Information Fig. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S6E</xref>). For the complementation and point&#x02010;mutation mutants, it was checked that they were unable to grow on hygromycin B (deletion phenotype), but were only able to grow on nourseothricin (complementation phenotype), while the point&#x02010;mutation in <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> mutants was verified by sequencing.</p></sec><sec id="emi14339-sec-0018"><title>
+<italic>DNA analysis</italic> via <italic>Southern blot and PCR</italic>
+</title><p>Plasmid DNA from <italic>S. cerevisiae</italic> FY834 and <italic>E. coli</italic> Top10F&#x02019; (Invitrogen, Darmstadt, Germany) was isolated using the NucleoSpin Plasmid Kit (Macherey&#x02010;Nagel, D&#x000fc;ren, Germany). Moreover, <italic>F. fujikuroi</italic> genomic DNA from lyophilised and ground mycelium was extracted as described elsewhere (Cenis, <xref rid="emi14339-bib-0008" ref-type="ref">1992</xref>). The analysis of ectopically integrated deletion cassettes via Southern blot (Southern, <xref rid="emi14339-bib-0061" ref-type="ref">1975</xref>) started with the digestion of genomic DNA of WT and deletion mutants with an appropriate restriction enzyme (Thermo Fisher Scientific, Schwerte, Germany). The DNA was separated in a 1% (w/v) agarose gel, transferred to a nylon membrane (Nytran SPC; Whatman, Sanford, FL) via downward alkali blotting (Ausubel <italic>et al</italic>., <xref rid="emi14339-bib-0002" ref-type="ref">1987</xref>) and hybridized with <sup>32</sup>P&#x02010;labelled probes. Probes were generated with the random oligomer&#x02010;primer method (Sambrook <italic>et al</italic>., <xref rid="emi14339-bib-0052" ref-type="ref">1989</xref>) using gene flanks as templates (Supporting Information Table S3). Southern blots for &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants can be found in Supporting Information Figs. <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S7B/C</xref> and <xref rid="emi14339-supitem-0001" ref-type="supplementary-material">S8B/C</xref> respectively. For the amplification of DNA by PCR, BioTherm DNA Polymerase (GeneCraft, L&#x000fc;dinghausen, Germany), TaKaRa LA Taq DNA Polymerase (Takara Bio, Saint&#x02010;Germain&#x02010;en&#x02010;Laye, France) or Phusion High&#x02010;Fidelity DNA Polymerase (Finnzymes, Vantaa, Finland) were used.</p></sec><sec id="emi14339-sec-0019"><title>
+<italic>Expression analysis</italic> via <italic>northern blot and qPCR</italic>
+</title><p>RNA from lyophilised and ground mycelium was extracted with the TRI Reagent (Sigma&#x02010;Aldrich, Steinheim, Germany). For northern blot expression analysis (Church and Gilbert, <xref rid="emi14339-bib-0010" ref-type="ref">1984</xref>) of OE::<italic>KDM5</italic> mutants, 20 &#x003bc;g of total RNA was separated in a 1% (w/v) denaturating agarose gel (Sambrook <italic>et al</italic>., <xref rid="emi14339-bib-0052" ref-type="ref">1989</xref>). Blotting and hybridisation were done as described above. For probe generation, the <italic>KDM5</italic> WT fragment (kdm5_WT_F/kdm5_WT_R; Supporting Information Table S3) was used as template.</p><p>For expression analysis via qPCR, 1 &#x003bc;g of DNase I&#x02010;treated (Thermo Fisher Scientific, Schwerte, Germany) total RNA was transcribed into cDNA with oligo dT primers and SuperScript II Reverse Transcriptase (Invitrogen, Darmstadt, Germany). Furthermore, iQ SYBR Green Supermix (Bio&#x02010;Rad, M&#x000fc;nchen, Germany) was used for qPCRs in a C1000 Touch Thermal Cycler with a CFX96 Real&#x02010;Time System (Bio&#x02010;Rad, M&#x000fc;nchen, Germany). Expression levels of <italic>ABA1</italic>, <italic>FLB3</italic>, <italic>FLB4</italic> and <italic>WET1</italic> as well as of the constitutively expressed reference genes (<italic>FFUJ_07710</italic>, GDP mannose transporter gene <italic>GMT</italic>; <italic>FFUJ_05652</italic>, related actin gene <italic>RAC</italic>; <italic>FFUJ_08398</italic>, ubiquitin gene <italic>UBI</italic>) were determined in triplicates or quadruplicates with primer pairs listed in Supporting Information Table S5. Annealing temperatures of 60&#x000b0;C yielded primer efficiencies between 90% and 110% and the expression levels were calculated with the &#x00394;&#x00394;Ct&#x02010;method (Pfaffl, <xref rid="emi14339-bib-0045" ref-type="ref">2001</xref>).</p></sec><sec id="emi14339-sec-0020"><title>
+<italic>Expression analysis</italic> via <italic>microarray</italic>
+</title><p>The WT, &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> mutants were grown in liquid ICI medium with 6 or 60 mM Gln for 3 days in duplicates. After total RNA isolation as described above, an additional clean&#x02010;up step was done with the NucleoSpin RNA Clean&#x02010;up Kit (Macherey&#x02010;Nagel, D&#x000fc;ren, Germany). Agilent Technologies (Santa Clara, CA) designed the microarrays, while Arrows Biomedical (M&#x000fc;nster, Germany) prepared the hybridisation according to the manufacturer's protocol. For the heatmaps, the eight expression profiles were extracted first, and were then clustered in a second step using the programme Perseus 1.5.8.5 (Max Planck Institute of Biochemistry, Martinsried, Germany) (Tyanova <italic>et al</italic>., <xref rid="emi14339-bib-0073" ref-type="ref">2016</xref>) with standard settings. Genes upregulated in the mutants compared with the WT showed a log<sub>2</sub> fold change of &#x02265; 2 (green), downregulated genes of &#x02264; &#x02212;2 (red).</p><p>The Functional Catalogue (FunCat) for protein sequences (Ruepp <italic>et al</italic>., <xref rid="emi14339-bib-0051" ref-type="ref">2004</xref>) was used to identify significantly enriched protein functions. To correct for multiple comparisons in multiple hypotheses testing for the 845 taxonomically allowed FunCat groups, we calculated the Bonferroni correction as well as the false discovery rate with an experiment&#x02010;wide significance level of 0.05. The microarray data as well as additional information on sample preparation and data processing are available at the NCBI Gene Expression Omnibus under the accession number GSE90948.</p></sec><sec id="emi14339-sec-0021"><title>
+<italic>Western blot analysis</italic>
+</title><p>The WT, &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants were grown in liquid ICI medium with 60 mM Gln for 3 days. Western blot detection of K4&#x02010;methylated H3 proteins in a whole&#x02010;protein extract was done as described elsewhere (Janevska <italic>et al</italic>., <xref rid="emi14339-bib-0028" ref-type="ref">2018</xref>). The following primary antibodies were used (Active Motif, La Hulpe, Belgium): anti&#x02010;H3K4me1 (#39298; 1:10 000), anti&#x02010;H3K4me2 (#39141; 1:10 000), anti&#x02010;H3K4me3 (#39159; 1:10 000) and anti&#x02010;H3 C&#x02010;terminal (#39163; 1:10 000). Donkey anti&#x02010;rabbit IgG&#x02010;HRP served as secondary antibody (sc&#x02010;2317; 1:10 000; Santa Cruz Biotechnology, Heidelberg, Germany).</p></sec><sec id="emi14339-sec-0022"><title>
+<italic>ChIP analysis</italic>
+</title><p>For SM&#x02010;related genes, the WT, &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> were grown in liquid ICI medium with 6 mM for 3 days. For conidiation&#x02010;related genes, the WT, &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic> were incubated on solid V8 agar with cellophane in the presence of a 12 h light/12 h dark cycle for 3 days. Crosslinking was performed with 1% (v/v) formaldehyde for 15 min at 28&#x000b0;C and 90 rpm, followed by quenching with 125 mM glycine for 5 min at 37&#x000b0;C. Next, the mycelium was separated from the liquid, was shock&#x02010;frozen with liquid nitrogen and ground to a fine powder. Further sample preparation was essentially performed as described elsewhere (Gacek&#x02010;Matthews <italic>et al</italic>., <xref rid="emi14339-bib-0019" ref-type="ref">2015</xref>) using the Bioruptor Plus (Diagenode, Seraing, Belgium) for sonication. The ChIPs were done with the anti&#x02010;H3K4me2 (#39141; Active Motif, La Hulpe, Belgium) and anti&#x02010;H3K4me3 (#39159; Active Motif, La Hulpe, Belgium) antibodies, followed by treatment with Dynabeads Protein A (Thermo Fisher Scientific, Schwerte, Germany) to precipitate the chromatin&#x02010;antibody&#x02010;conjugate. ChIP&#x02010;qPCR of <italic>CPS/KS</italic>, <italic>P450&#x02010;1</italic>, <italic>P450&#x02010;2</italic>, <italic>P450&#x02010;4</italic>, <italic>ABA1</italic>, <italic>FLB3</italic> and <italic>FLB4</italic> genes was performed in quadruplicates with primers that bind at the 5&#x02032; gene ends (Supporting Information Table S5).</p></sec><sec id="emi14339-sec-0023"><title>
+<italic>Chemical analysis of SM production levels</italic>
+</title><p>The WT, &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants were grown in liquid ICI medium with 6 mM Gln (BIK, GA<sub>3</sub>), 6 mM NaNO<sub>3</sub> (FSR) or 60 mM Gln (FUS, FSA) for 7 days in triplicates. BIK, FSR, FUS and FSA were directly analysed after filter&#x02010;sterilization of the supernatant to remove the mycelium (0.45 &#x003bc;m membrane filters; BGB Analytik, Schlo&#x000df;b&#x000f6;ckelheim, Germany). The four SMs were measured via HPLC&#x02010;DAD which was essentially performed as described elsewhere (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0064" ref-type="ref">2012</xref>), using a VWR Hitachi Chromaster HPLC system (VWR International, Darmstadt Germany) with an EZChrome Elite 3.3.2 SP2 software (Agilent Technologies, Santa Clara, CA). GA<sub>3</sub> was extracted and concentrated from 20 ml supernatant applying Sep&#x02010;Pak C<sub>18</sub> cartridges (Waters, Eschborn, Germany) and 2 ml 55% (v/v) acetonitrile for elution. The HPLC&#x02010;DAD analysis of GA<sub>3</sub> was essentially performed as described earlier (Wiemann <italic>et al</italic>., <xref rid="emi14339-bib-0077" ref-type="ref">2012</xref>) using the same HPLC system from above. In each case, the production of the SMs was related to the dry weight of the strains which was determined after harvesting and freeze&#x02010;drying.</p><p>SM extraction and subsequent quantification of GA<sub>3</sub> levels <italic>in planta</italic> via HPLC coupled to tandem mass spectrometry (HPLC&#x02010;MS/MS) were performed as described previously (Studt <italic>et al</italic>., <xref rid="emi14339-bib-0068" ref-type="ref">2017</xref>). Mock infection was achieved through the addition of H<sub>2</sub>O and served as negative control. Quantified metabolite levels were normalized to the input sample weights.</p></sec><sec id="emi14339-sec-0024"><title>
+<italic>Rice virulence assay</italic>
+</title><p>The infection of surface&#x02010;sterilized and pre&#x02010;germinated seedlings of <italic>Oryza sativa</italic> spp. <italic>japonica</italic> cv. Nipponbare (kindly provided by the USDA ARS Dale Bumpers National Rice Research Center, Arkansas, USA) with mycelial plugs of the WT, &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants was performed for 7 days as described elsewhere (Janevska <italic>et al</italic>., <xref rid="emi14339-bib-0027" ref-type="ref">2017</xref>). Addition of 100 ppm GA<sub>3</sub> and H<sub>2</sub>O served as positive and negative control respectively.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="emi14339-supitem-0001"><caption><p>
+<bold>Fig. S1. Western blot analysis of the &#x00394;<italic>kdm5</italic> mutant</bold>. The western blot was done using the H3K4me3 and H3K4me2 antibodies. Indicated strains were grown in liquid culture (ICI + 60 mM Gln) for 3 days prior to protein extraction. 15 &#x003bc;g of the protein extract was loaded on to the gel, and an unspecific band served as loading control.</p><p>
+<bold>Fig. S2. Microarray expression analysis of differentially regulated A) bikaverin (BIK) and B) apicidin F (APF) cluster genes in &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic></bold>. The WT and the two deletion mutants were grown in liquid culture (ICI + 60 mM Gln) for 3 days prior to RNA extraction. Data are mean values (<italic>n</italic> = 2). Genes upregulated in the deletion mutants compared with the WT are green (significant when log<sub>2</sub> fold change &#x02265;2), downregulated genes are red (significant when log<sub>2</sub> fold change &#x02264; &#x02212;2), and not differentially expressed genes are white (between &#x02212;2 and 2). The tables show the gene accession numbers and the respective cluster genes, while non&#x02010;cluster genes are highlighted in grey. The cluster organization is depicted schematically below, with arrows indicating the direction of transcription and white bars indicating introns.</p><p>
+<bold>Fig. S3. Chromosomal location of the analysed SM gene clusters</bold>. The distribution of H3K27me3 is shown for A) chromosome II, B) chromosome III, C) chromosome V, and D) chromosome IX (taken from Studt <italic>et al</italic>., 2016b). The location of the respective SM key genes is indicated on the chromosomes. Furthermore, the distribution of H3K4me2 is shown for the gibberellic acid (GA) gene cluster (taken from Wiemann <italic>et al</italic>., 2013). For both ChIP&#x02010;Seq analyses, the WT was grown in liquid culture (ICI + 6 mM Gln) for 3 days.</p><p>
+<bold>Fig. S4. Virulence on rice of &#x00394;<italic>set1</italic>, &#x00394;<italic>kdm5</italic> and OE::<italic>KDM5</italic> mutants</bold>. Germinated rice seedlings were infected with 100 ppm gibberellic acid GA<sub>3</sub> (positive control), H<sub>2</sub>O (negative control), and indicated strains for 7 days. Data are mean values &#x000b1;SD (<italic>n</italic> = 3). For statistical analysis, the mutants were compared with the WT using the student's <italic>t</italic>&#x02010;test: **, <italic>P</italic> &#x0003c; 0.01.</p><p>
+<bold>Fig. S5. Plate assay and microscopic analysis of &#x00394;<italic>aba1</italic>, &#x00394;<italic>flb2</italic>&#x02010;&#x00394;<italic>flb5</italic> and &#x00394;<italic>wet1</italic> mutants</bold>. A) Indicated strains were grown on V8 agar in the presence of a 12 h light/12 h dark cycle for 14 days to induce conidiation. B) Microscopic analysis of microconidia formation in the <italic>F. fujikuroi</italic> WT IMI58289 and the respective &#x00394;<italic>wet1</italic> deletion mutant grown on KCl agar for 10 days. For both strains, the same microscopic magnification was applied.</p><p>
+<bold>Fig. S6. Generation of <italic>SET1</italic></bold>
+<sup><bold><italic>C</italic></bold></sup>, <bold><italic>SET1</italic></bold>
+<sup><bold><italic>H1191K</italic></bold></sup>
+<bold>and OE::<italic>KDM5</italic> mutants</bold>. A) The deletion mutant &#x00394;<italic>set1</italic> T34 was transformed with ApaI/XbaI digested p<italic>SET1</italic>
+<sup><italic>C</italic></sup> or p<italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> vectors harbouring the WT or point&#x02010;mutated <italic>SET1</italic> gene, respectively, driven by its native promoter as well as the nourseothricin resistance cassette <italic>natR</italic>. The nucleotide substitutions resulting in the point mutation are indicated. B) <italic>KDM5</italic> was overexpressed with the constitutive <italic>PoliC</italic> promoter from <italic>A. nidulans</italic>. The first 1.7 kb of <italic>KDM5</italic> was cloned into NcoI/NotI restricted pNDH&#x02010;OGG conferring hygromycin B resistance (<italic>hphR</italic>). C) The <italic>in loco</italic> integration of the constructs in three independent <italic>SET1</italic>
+<sup><italic>C</italic></sup> and <italic>SET1</italic>
+<sup><italic>H1191K</italic></sup> mutants, respectively, was verified using primer pairs set1_5diag/set1_c_diag (5&#x02032; flank; 1.40 kb), set1_3diag/nat1_R1 (3&#x02032; flank; 1.57 kb) and set1_5diag/trpC_T (untransformed nuclei; 1.25 kb for &#x00394;<italic>set1</italic>). The respective deletion mutant (&#x00394;) and the WT were used as controls. D) The <italic>in loco</italic> integration of pOE::<italic>KDM5</italic> in the three transformants was checked using primer pair PoliC_Seq_F2/OE_kdm5_diag (1.95 kb). M, GeneRuler DNA Ladder Mix. E) The WT and OE::<italic>KDM5</italic> mutants were grown in liquid culture (ICI + 60 mM Gln) for 3 days prior to RNA extraction from the harvested mycelium. The northern blot was probed with DNA corresponding to <italic>KDM5</italic>, and the ribosomal RNA was visualized for the respective gel as loading control.</p><p>
+<bold>Fig. S7. Verification of &#x00394;<italic>set1</italic> deletion mutants by diagnostic PCR and Southern blot</bold>. A) Deletion via homologous recombination with the hygromycin B resistance cassette (<italic>hphR</italic>) was verified with the amplification of 5&#x02032; (set1_5diag/trpC_T) and 3&#x02032; (set1_3diag/trpC_P2) flanks but no amplification of WT (set1_WT_F/set1_WT_R) signal for three independent transformants. B) For analysing ectopic integration of deletion constructs, genomic DNA of transformants and WT was digested with ClaI, while the 5&#x02032; flank was applied for probing. C) Detected signals match the expected 10.66 kb for the WT and 3.11 kb for &#x00394;<italic>set1</italic>. &#x003bb;, &#x003bb;/HindIII; M, GeneRuler 1 kb Plus DNA Ladder.</p><p>
+<bold>Fig. S8. Verification of &#x00394;<italic>kdm5</italic> deletion mutants by diagnostic PCR and Southern blot</bold>. A) Deletion via homologous recombination with the hygromycin B resistance cassette (<italic>hphR</italic>) was verified with the amplification of 5&#x02032; (kdm5_5diag/trpC_T) and 3&#x02032; (kdm5_3diag/trpC_P2) flanks but no amplification of WT (kdm5_WT_F/kdm5_WT_R) signal for three independent transformants. B) For analysing ectopic integration of deletion constructs, genomic DNA of transformants and WT was digested with SalI, while the 3&#x02032; flank was applied for probing. C) Detected signals match the expected 7.07 kb for the WT and 2.70 kb for &#x00394;<italic>kdm5</italic>. &#x003bb;, &#x003bb;/HindIII; M, GeneRuler DNA Ladder Mix.</p><p>
+<bold>Fig. S9. Verification of &#x00394;<italic>aba1</italic>, &#x00394;<italic>flb2</italic>&#x02010;&#x00394;<italic>flb5</italic> and &#x00394;<italic>wet1</italic> single deletion mutants</bold>. Deletion via homologous recombination with the hygromycin B resistance cassette was verified with the amplification of 5&#x02032; (5diag/trpC_T) and 3&#x02032; (3diag/trpC_P2) flanks but no amplification of WT (WT_F/WT_R) signal for A) two independent &#x00394;<italic>aba1</italic> mutants (IMI58289 WT background), B) two independent E282/&#x00394;<italic>aba1</italic> mutants, C) two independent &#x00394;<italic>flb2</italic> mutants, D) three independent &#x00394;<italic>flb3</italic> mutants, E) two independent &#x00394;<italic>flb4</italic> mutants, F) three independent &#x00394;<italic>flb5</italic> mutants and G) three independent &#x00394;<italic>wet1</italic> mutants. &#x003bb;, &#x003bb;/HindIII.</p><p>
+<bold>Fig. S10. Deletion of <italic>CSM1</italic> in &#x00394;<italic>aba1</italic>, &#x00394;<italic>flb3</italic> and &#x00394;<italic>flb4</italic> backgrounds</bold>. Deletion of <italic>CSM1</italic> via homologous recombination with the nourseothricin resistance cassette was verified with the amplification of 5&#x02032; (csm1_5diag/nat1_hiF) and 3&#x02032; (csm1_3diag/trpC_P2) flanks but no amplification of WT (csm1_WT_F/csm1_WT_R) signal for A) two independent &#x00394;<italic>aba1</italic>/&#x00394;<italic>csm1</italic> double mutants, B) one &#x00394;<italic>flb3</italic>/&#x00394;<italic>csm1</italic> double mutant and C) two independent &#x00394;<italic>flb4</italic>/&#x00394;<italic>csm1</italic> double mutants. &#x003bb;, &#x003bb;/HindIII.</p><p>
+<bold>Table S1. Significantly enriched protein functions of genes deregulated in &#x00394;<italic>set1</italic> and/or &#x00394;<italic>kdm5</italic> in the microarray expression analysis</bold>. Genes upregulated in the deletion mutants compared with the WT have a log<sub>2</sub> fold change &#x02265;2, downregulated genes have a log<sub>2</sub> fold change &#x02264; &#x02212;2. The table is sorted by the <italic>P</italic>&#x02010;value and the filters rely on the following criteria: B, Bonferroni correction &#x0003c;0.05; F, <italic>P</italic>&#x02010;value &#x0003c; FDR; *, <italic>P</italic>&#x02010;value &#x0003c;0.05. abs., absolute; rel., relative; FDR, false discovery rate.</p><p>
+<bold>Table S2. Microarray expression analysis of differentially regulated SM key genes in &#x00394;<italic>set1</italic> and &#x00394;<italic>kdm5</italic></bold>. The WT and the two deletion mutants were grown in ICI liquid culture in the presence of limiting (6 mM, N&#x02010;) and saturating (60 mM, N+) amounts of Gln for 3 days prior to RNA extraction. Data are mean values (<italic>n</italic> = 2). Genes upregulated in the deletion mutants compared with the WT are green (log<sub>2</sub> fold change &#x02265;2), and downregulated genes are red (log<sub>2</sub> fold change &#x02264; &#x02212;2). Shown are the gene accession numbers, the encoded SM key genes as well as the produced SMs. PKS, polyketide synthase; NRPS, non&#x02010;ribosomal peptide synthetase; STC, sesquiterpene cyclase; DTC, diterpene cyclase; TeTC, tetraterpene cyclase; DMATS, dimethylallyltryptophan synthase.</p><p>
+<bold>Table S3. Primer sequences used for the generation of deletion constructs and for the verification of their homologous integration</bold>. Introduced overhangs required for yeast recombinational cloning are underlined.</p><p>
+<bold>Table S4. Primer sequences used for the generation and analysis of complementation, point&#x02010;mutation and overexpression vectors</bold>. Introduced overhangs required for yeast recombinational cloning are underlined.</p><p>
+<bold>Table S5. Primer sequences for analysing relative expression (qPCR) and ChIP&#x02010;qPCR (5&#x02032;ChIP)</bold>. Reference genes for relative expression: <italic>GMT</italic>, GDP mannose transporter gene; <italic>RAC</italic>, related actin gene; <italic>UBI</italic>, ubiquitin gene.</p></caption><media xlink:href="EMI-20-3343-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="emi14339-sec-0025"><title>Acknowledgements</title><p>We thank Eva&#x02010;Maria Niehaus, Kathleen Hu&#x000df; and Sabine Huber for generating the conidiation&#x02010;related mutant strains. Furthermore, we thank Leonie Baumann for generating the &#x00394;<italic>kdm5</italic> transformants, Lena Rindermann for the &#x00394;<italic>kdm5</italic> Southern blot and Simone Bachleitner for her help with the infection assay. Additionally, Martin M&#x000fc;nsterk&#x000f6;tter helped us with the microarray raw data. This work was supported by the German Research Foundation (project numbers TU101/16&#x02010;2 and ME 1682/6&#x02010;2 as a project part (LAP3714) of the special research area &#x02018;SFB Fusarium&#x02019; of the Austrian Science Fund, FWF) as well as by the FWF (Lise Meitner grant M 2149&#x02010;B22 to LS). The authors declare that no conflict of interest exists.</p></ack><ref-list id="emi14339-bibl-0001" content-type="cited-references"><title>References</title><ref id="emi14339-bib-0001"><mixed-citation publication-type="journal" id="emi14339-cit-0001">
+<string-name>
+<surname>Allis</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Cote</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dent</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jenuwien</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kouzarides</surname>, <given-names>T.</given-names>
+</string-name>, <italic>et al</italic> (<year>2007</year>) <article-title>New nomenclature for chromatin&#x02010;modifying enzymes</article-title>. <source xml:lang="en">Cell</source>
+<volume>131</volume>: <fpage>633</fpage>&#x02013;<lpage>636</lpage>.<pub-id pub-id-type="pmid">18022353</pub-id></mixed-citation></ref><ref id="emi14339-bib-0002"><mixed-citation publication-type="book" id="emi14339-cit-0002">
+<string-name>
+<surname>Ausubel</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Brent</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kingston</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>D. D.</given-names>
+</string-name>, <string-name>
+<surname>Seidman</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J. A.</given-names>
+</string-name>, and <string-name>
+<surname>Struhl</surname>, <given-names>K.</given-names>
+</string-name> (<year>1987</year>) <source xml:lang="en">Current Protocols in Molecular Biology</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Wiley</publisher-name>.</mixed-citation></ref><ref id="emi14339-bib-0003"><mixed-citation publication-type="journal" id="emi14339-cit-0003">
+<string-name>
+<surname>B&#x000f6;mke</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>) <article-title>Diversity, regulation, and evolution of the gibberellin biosynthetic pathway in fungi compared to plants and bacteria</article-title>. <source xml:lang="en">Phytochemistry</source>
+<volume>70</volume>: <fpage>1876</fpage>&#x02013;<lpage>1893</lpage>.<pub-id pub-id-type="pmid">19560174</pub-id></mixed-citation></ref><ref id="emi14339-bib-0004"><mixed-citation publication-type="journal" id="emi14339-cit-0004">
+<string-name>
+<surname>Brakhage</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Regulation of fungal secondary metabolism</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>
+<volume>11</volume>: <fpage>21</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">23178386</pub-id></mixed-citation></ref><ref id="emi14339-bib-0005"><mixed-citation publication-type="journal" id="emi14339-cit-0005">
+<string-name>
+<surname>Briggs</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Bryk</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Strahl</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>W. L.</given-names>
+</string-name>, <string-name>
+<surname>Davie</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Dent</surname>, <given-names>S. Y. R.</given-names>
+</string-name>, <italic>et al</italic> (<year>2001</year>) <article-title>Histone H3 lysine 4 methylation is mediated by Set1 and required for cell growth and rDNA silencing in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Genes Dev</source>
+<volume>15</volume>: <fpage>3286</fpage>&#x02013;<lpage>3295</lpage>.<pub-id pub-id-type="pmid">11751634</pub-id></mixed-citation></ref><ref id="emi14339-bib-0006"><mixed-citation publication-type="journal" id="emi14339-cit-0006">
+<string-name>
+<surname>Brosch</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Loidl</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<surname>Graessle</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Histone modifications and chromatin dynamics: a focus on filamentous fungi</article-title>. <source xml:lang="en">FEMS Microbiol Rev</source>
+<volume>32</volume>: <fpage>409</fpage>&#x02013;<lpage>439</lpage>.<pub-id pub-id-type="pmid">18221488</pub-id></mixed-citation></ref><ref id="emi14339-bib-0007"><mixed-citation publication-type="journal" id="emi14339-cit-0007">
+<string-name>
+<surname>Bryk</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Briggs</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Strahl</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Curcio</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Allis</surname>, <given-names>C. D.</given-names>
+</string-name>, and <string-name>
+<surname>Winston</surname>, <given-names>F.</given-names>
+</string-name> (<year>2002</year>) <article-title>Evidence that Set1, a factor required for methylation of histone H3, regulates rDNA silencing in <italic>S. cerevisiae</italic> by a Sir2&#x02010;independent mechanism</article-title>. <source xml:lang="en">Curr Biol</source>
+<volume>12</volume>: <fpage>165</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">11818070</pub-id></mixed-citation></ref><ref id="emi14339-bib-0008"><mixed-citation publication-type="journal" id="emi14339-cit-0008">
+<string-name>
+<surname>Cenis</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>1992</year>) <article-title>Rapid extraction of fungal DNA for PCR amplification</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>20</volume>: <fpage>2380</fpage>.<pub-id pub-id-type="pmid">1594460</pub-id></mixed-citation></ref><ref id="emi14339-bib-0009"><mixed-citation publication-type="journal" id="emi14339-cit-0009">
+<string-name>
+<surname>Christianson</surname>, <given-names>T. W.</given-names>
+</string-name>, <string-name>
+<surname>Sikorski</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Dante</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shero</surname>, <given-names>J. H.</given-names>
+</string-name>, and <string-name>
+<surname>Hieter</surname>, <given-names>P.</given-names>
+</string-name> (<year>1992</year>) <article-title>Multifunctional yeast high&#x02010;copy&#x02010;number shuttle vectors</article-title>. <source xml:lang="en">Gene</source>
+<volume>110</volume>: <fpage>119</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">1544568</pub-id></mixed-citation></ref><ref id="emi14339-bib-0010"><mixed-citation publication-type="journal" id="emi14339-cit-0010">
+<string-name>
+<surname>Church</surname>, <given-names>G. M.</given-names>
+</string-name>, and <string-name>
+<surname>Gilbert</surname>, <given-names>W.</given-names>
+</string-name> (<year>1984</year>) <article-title>Genomic sequencing</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>81</volume>: <fpage>1991</fpage>&#x02013;<lpage>1995</lpage>.<pub-id pub-id-type="pmid">6326095</pub-id></mixed-citation></ref><ref id="emi14339-bib-0011"><mixed-citation publication-type="journal" id="emi14339-cit-0011">
+<string-name>
+<surname>Colot</surname>, <given-names>H. V.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>G. E.</given-names>
+</string-name>, <string-name>
+<surname>Ringelberg</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Crew</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Litvinkova</surname>, <given-names>L.</given-names>
+</string-name>, <italic>et al</italic> (<year>2006</year>) <article-title>A high&#x02010;throughput gene knockout procedure for <italic>Neurospora</italic> reveals functions for multiple transcription factors</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>103</volume>: <fpage>10352</fpage>&#x02013;<lpage>10357</lpage>.<pub-id pub-id-type="pmid">16801547</pub-id></mixed-citation></ref><ref id="emi14339-bib-0012"><mixed-citation publication-type="journal" id="emi14339-cit-0012">
+<string-name>
+<surname>Connolly</surname>, <given-names>L. R.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>K. M.</given-names>
+</string-name>, and <string-name>
+<surname>Freitag</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>The <italic>Fusarium graminearum</italic> histone H3 K27 methyltransferase KMT6 regulates development and expression of secondary metabolite gene clusters</article-title>. <source xml:lang="en">PLoS Genet</source>
+<volume>9</volume>: <fpage>e1003919</fpage>.<pub-id pub-id-type="pmid">24204319</pub-id></mixed-citation></ref><ref id="emi14339-bib-0013"><mixed-citation publication-type="journal" id="emi14339-cit-0013">
+<string-name>
+<surname>Darken</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>A. L.</given-names>
+</string-name>, and <string-name>
+<surname>Ahu</surname>, <given-names>P.</given-names>
+</string-name> (<year>1959</year>) <article-title>Production of gibberellic acid by fermentation</article-title>. <source xml:lang="en">Appl Microbiol</source>
+<volume>7</volume>: <fpage>301</fpage>&#x02013;<lpage>303</lpage>.<pub-id pub-id-type="pmid">13814121</pub-id></mixed-citation></ref><ref id="emi14339-bib-0014"><mixed-citation publication-type="journal" id="emi14339-cit-0014">
+<string-name>
+<surname>Erlendson</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Freitag</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>A matter of scale and dimensions: chromatin of chromosome landmarks in the fungi</article-title>. <source xml:lang="en">Microbiol Spectr</source>
+<volume>5</volume>: <fpage>1</fpage>&#x02013;<lpage>43</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0015"><mixed-citation publication-type="journal" id="emi14339-cit-0015">
+<string-name>
+<surname>Fingerman</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>B. D.</given-names>
+</string-name>, and <string-name>
+<surname>Briggs</surname>, <given-names>S.</given-names>
+</string-name> (<year>2005</year>) <article-title>Global loss of Set1&#x02010;mediated H3 Lys<sup>4</sup> trimethylation is associated with silencing defects in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>280</volume>: <fpage>28761</fpage>&#x02013;<lpage>28765</lpage>.<pub-id pub-id-type="pmid">15964832</pub-id></mixed-citation></ref><ref id="emi14339-bib-0016"><mixed-citation publication-type="journal" id="emi14339-cit-0016">
+<string-name>
+<surname>Fox</surname>, <given-names>E. M.</given-names>
+</string-name>, and <string-name>
+<surname>Howlett</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Secondary metabolism: regulation and role in fungal biology</article-title>. <source xml:lang="en">Curr Opin Microbiol</source>
+<volume>11</volume>: <fpage>481</fpage>&#x02013;<lpage>487</lpage>.<pub-id pub-id-type="pmid">18973828</pub-id></mixed-citation></ref><ref id="emi14339-bib-0017"><mixed-citation publication-type="journal" id="emi14339-cit-0017">
+<string-name>
+<surname>Freitag</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Histone methylation by SET domain proteins in fungi</article-title>. <source xml:lang="en">Annu Rev Microbiol</source>
+<volume>71</volume>: <fpage>413</fpage>&#x02013;<lpage>439</lpage>.<pub-id pub-id-type="pmid">28715960</pub-id></mixed-citation></ref><ref id="emi14339-bib-0018"><mixed-citation publication-type="journal" id="emi14339-cit-0018">
+<string-name>
+<surname>Gacek</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Strauss</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>) <article-title>The chromatin code of fungal secondary metabolite gene clusters</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>95</volume>: <fpage>1389</fpage>&#x02013;<lpage>1404</lpage>.<pub-id pub-id-type="pmid">22814413</pub-id></mixed-citation></ref><ref id="emi14339-bib-0019"><mixed-citation publication-type="journal" id="emi14339-cit-0019">
+<string-name>
+<surname>Gacek&#x02010;Matthews</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Noble</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sulyok</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marcos</surname>, <given-names>A. T.</given-names>
+</string-name>, <italic>et al</italic> (<year>2015</year>) <article-title>KdmA, a histone H3 demethylase with bipartite function, differentially regulates primary and secondary metabolism in <italic>Aspergillus nidulans</italic>
+</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>96</volume>: <fpage>839</fpage>&#x02013;<lpage>860</lpage>.<pub-id pub-id-type="pmid">25712266</pub-id></mixed-citation></ref><ref id="emi14339-bib-0020"><mixed-citation publication-type="journal" id="emi14339-cit-0020">
+<string-name>
+<surname>Gacek&#x02010;Matthews</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wittstein</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>Z. A.</given-names>
+</string-name>, and <string-name>
+<surname>Strauss</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>) <article-title>KdmB, a Jumonji histone H3 demethylase, regulates genome&#x02010;wide H3K4 trimethylation and is required for normal induction of secondary metabolism in <italic>Aspergillus nidulans</italic>
+</article-title>. <source xml:lang="en">PLoS Genet</source>
+<volume>12</volume>: <fpage>e1006222</fpage>.<pub-id pub-id-type="pmid">27548260</pub-id></mixed-citation></ref><ref id="emi14339-bib-0021"><mixed-citation publication-type="journal" id="emi14339-cit-0021">
+<string-name>
+<surname>Geissman</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Verbiscar</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Phinney</surname>, <given-names>B. O.</given-names>
+</string-name>, and <string-name>
+<surname>Cragg</surname>, <given-names>G.</given-names>
+</string-name> (<year>1966</year>) <article-title>Studies on the biosynthesis of gibberellins from (&#x02212;)&#x02010;kaurenoic acid in cultures of <italic>Gibberella fujikuroi</italic>
+</article-title>. <source xml:lang="en">Phytochemistry</source>
+<volume>5</volume>: <fpage>933</fpage>&#x02013;<lpage>947</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0022"><mixed-citation publication-type="journal" id="emi14339-cit-0022">
+<string-name>
+<surname>Govindaraghavan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Anglin</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Osmani</surname>, <given-names>A. H.</given-names>
+</string-name>, and <string-name>
+<surname>Osmani</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2014</year>) <article-title>The Set1/COMPASS histone H3 methyltransferase helps regulate mitosis with the CDK1 and NIMA mitotic kinases in <italic>Aspergillus nidulans</italic>
+</article-title>. <source xml:lang="en">Genetics</source>
+<volume>197</volume>: <fpage>1225</fpage>&#x02013;<lpage>1236</lpage>.<pub-id pub-id-type="pmid">24835271</pub-id></mixed-citation></ref><ref id="emi14339-bib-0023"><mixed-citation publication-type="journal" id="emi14339-cit-0023">
+<string-name>
+<surname>Gu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Tahir</surname>, <given-names>H. A. S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <italic>et al</italic> (<year>2017</year>) <article-title>Involvement of FvSet1 in fumonisin B1 biosynthesis, vegetative growth, fungal virulence, and environmental stress responses in <italic>Fusarium verticillioides</italic>
+</article-title>. <source xml:lang="en">Toxins</source>
+<volume>9</volume>: <fpage>43</fpage>.</mixed-citation></ref><ref id="emi14339-bib-0024"><mixed-citation publication-type="journal" id="emi14339-cit-0024">
+<string-name>
+<surname>Harting</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bayram</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Laubinger</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Valerius</surname>, <given-names>O.</given-names>
+</string-name>, and <string-name>
+<surname>Braus</surname>, <given-names>G. H.</given-names>
+</string-name> (<year>2013</year>) <article-title>Interplay of the fungal sumoylation network for control of multicellular development</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>90</volume>: <fpage>1125</fpage>&#x02013;<lpage>1145</lpage>.<pub-id pub-id-type="pmid">24279728</pub-id></mixed-citation></ref><ref id="emi14339-bib-0025"><mixed-citation publication-type="journal" id="emi14339-cit-0025">
+<string-name>
+<surname>Hori</surname>, <given-names>S.</given-names>
+</string-name> (<year>1890</year>) <article-title>Injurious fungi attacking rice plants</article-title>. <source xml:lang="en">Bot Mag</source>
+<volume>4</volume>: <fpage>425</fpage>&#x02013;<lpage>427</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0026"><mixed-citation publication-type="journal" id="emi14339-cit-0026">
+<string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2018</year>) <article-title>Secondary metabolism in <italic>Fusarium fujikuroi</italic>: strategies to unravel the function of biosynthetic pathways</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>102</volume>: <fpage>615</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">29204899</pub-id></mixed-citation></ref><ref id="emi14339-bib-0027"><mixed-citation publication-type="journal" id="emi14339-cit-0027">
+<string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Apken</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Marques</surname>, <given-names>L. M. M.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2017</year>) <article-title>Establishment of the inducible Tet&#x02010;on system for the activation of the silent trichosetin gene cluster in <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">Toxins</source>
+<volume>9</volume>: <fpage>126</fpage>.</mixed-citation></ref><ref id="emi14339-bib-0028"><mixed-citation publication-type="journal" id="emi14339-cit-0028">
+<string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;nsterk&#x000f6;tter</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ulrich</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000e4;mper</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et al</italic> (<year>2018</year>) <article-title>Elucidation of the two H3K36me3 histone methyltransferases Set2 and Ash1 in <italic>Fusarium fujikuroi</italic> unravels their different chromosomal targets and a major impact of Ash1 on genome stability</article-title>. <source xml:lang="en">Genetics</source>
+<volume>208</volume>: <fpage>153</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">29146582</pub-id></mixed-citation></ref><ref id="emi14339-bib-0029"><mixed-citation publication-type="journal" id="emi14339-cit-0029">
+<string-name>
+<surname>Krijgsheld</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bleichrodt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>van Veluw</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>W. H.</given-names>
+</string-name>, <string-name>
+<surname>Dijksterhuis</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>W&#x000f6;sten</surname>, <given-names>H. A. B.</given-names>
+</string-name> (<year>2013</year>) <article-title>Development in <italic>Aspergillus</italic>
+</article-title>. <source xml:lang="en">Stud Mycol</source>
+<volume>74</volume>: <fpage>1</fpage>&#x02013;<lpage>29</lpage>.<pub-id pub-id-type="pmid">23450714</pub-id></mixed-citation></ref><ref id="emi14339-bib-0030"><mixed-citation publication-type="journal" id="emi14339-cit-0030">
+<string-name>
+<surname>Krogan</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Dover</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Khorrami</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Greenblatt</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Shilatifard</surname>, <given-names>A.</given-names>
+</string-name> (<year>2002</year>) <article-title>COMPASS, a histone H3 (lysine 4) methyltransferase required for telomeric silencing of gene expression</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>277</volume>: <fpage>10753</fpage>&#x02013;<lpage>10755</lpage>.<pub-id pub-id-type="pmid">11805083</pub-id></mixed-citation></ref><ref id="emi14339-bib-0031"><mixed-citation publication-type="journal" id="emi14339-cit-0031">
+<string-name>
+<surname>Lee</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Skalnik</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>2005</year>) <article-title>CpG&#x02010;binding protein (CXXC finger protein 1) is a component of the mammalian Set1 histone H3&#x02010;Lys<sup>4</sup> methyltransferase complex, the analogue of the yeast Set1/COMPASS complex</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>280</volume>: <fpage>41725</fpage>&#x02013;<lpage>41731</lpage>.<pub-id pub-id-type="pmid">16253997</pub-id></mixed-citation></ref><ref id="emi14339-bib-0032"><mixed-citation publication-type="journal" id="emi14339-cit-0032">
+<string-name>
+<surname>Leslie</surname>, <given-names>J. F.</given-names>
+</string-name>, and <string-name>
+<surname>Summerell</surname>, <given-names>B. A.</given-names>
+</string-name> (<year>2006</year>) <article-title>
+<italic>Fusarium</italic> laboratory workshops &#x02010; a recent history</article-title>. <source xml:lang="en">Mycotoxin Res</source>
+<volume>22</volume>: <fpage>73</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">23605575</pub-id></mixed-citation></ref><ref id="emi14339-bib-0033"><mixed-citation publication-type="journal" id="emi14339-cit-0033">
+<string-name>
+<surname>Liang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Klose</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>K. E.</given-names>
+</string-name>, and <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2007</year>) <article-title>Yeast Jhd2p is a histone H3 Lys4 trimethyl demethylase</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>
+<volume>14</volume>: <fpage>243</fpage>&#x02013;<lpage>245</lpage>.<pub-id pub-id-type="pmid">17310254</pub-id></mixed-citation></ref><ref id="emi14339-bib-0034"><mixed-citation publication-type="journal" id="emi14339-cit-0034">
+<string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Ma</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2015</year>) <article-title>Histone H3K4 methylation regulates hyphal growth, secondary metabolism and multiple stress responses in <italic>Fusarium graminearum</italic>
+</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>17</volume>: <fpage>4615</fpage>&#x02013;<lpage>4630</lpage>.<pub-id pub-id-type="pmid">26234386</pub-id></mixed-citation></ref><ref id="emi14339-bib-0035"><mixed-citation publication-type="journal" id="emi14339-cit-0035">
+<string-name>
+<surname>Macheleidt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mattern</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Netzker</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schroeckh</surname>, <given-names>V.</given-names>
+</string-name>, <italic>et al</italic> (<year>2016</year>) <article-title>Regulation and role of fungal secondary metabolites</article-title>. <source xml:lang="en">Annu Rev Genet</source>
+<volume>50</volume>: <fpage>371</fpage>&#x02013;<lpage>392</lpage>.<pub-id pub-id-type="pmid">27732794</pub-id></mixed-citation></ref><ref id="emi14339-bib-0036"><mixed-citation publication-type="journal" id="emi14339-cit-0036">
+<string-name>
+<surname>Michielse</surname>, <given-names>C. B.</given-names>
+</string-name>, <string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Espino</surname>, <given-names>J. J.</given-names>
+</string-name>, <italic>et al</italic> (<year>2015</year>) <article-title>The global regulator FfSge1 is required for expression of secondary metabolite gene clusters but not for pathogenicity in <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>17</volume>: <fpage>2690</fpage>&#x02013;<lpage>2708</lpage>.<pub-id pub-id-type="pmid">25115968</pub-id></mixed-citation></ref><ref id="emi14339-bib-0037"><mixed-citation publication-type="journal" id="emi14339-cit-0037">
+<string-name>
+<surname>Ng</surname>, <given-names>H. H.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>R. A.</given-names>
+</string-name>, and <string-name>
+<surname>Struhl</surname>, <given-names>K.</given-names>
+</string-name> (<year>2003</year>) <article-title>Targeted recruitment of Set1 histone methylase by elongating pol II provides a localized mark and memory of recent transcriptional activity</article-title>. <source xml:lang="en">Mol Cell</source>
+<volume>11</volume>: <fpage>709</fpage>&#x02013;<lpage>719</lpage>.<pub-id pub-id-type="pmid">12667453</pub-id></mixed-citation></ref><ref id="emi14339-bib-0038"><mixed-citation publication-type="journal" id="emi14339-cit-0038">
+<string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kleigrewe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wiemann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>, <given-names>L. R.</given-names>
+</string-name>, <italic>et al</italic> (<year>2013</year>) <article-title>Genetic manipulation of the <italic>Fusarium fujikuroi</italic> fusarin gene cluster yields insight into the complex regulation and fusarin biosynthetic pathway</article-title>. <source xml:lang="en">Chem Biol</source>
+<volume>20</volume>: <fpage>1055</fpage>&#x02013;<lpage>1066</lpage>.<pub-id pub-id-type="pmid">23932525</pub-id></mixed-citation></ref><ref id="emi14339-bib-0039"><mixed-citation publication-type="journal" id="emi14339-cit-0039">
+<string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>von Bargen</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <string-name>
+<surname>Harrer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014a</year>) <article-title>Apicidin F: characterization and genetic manipulation of a new secondary metabolite gene cluster in the rice pathogen <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">PLoS ONE</source>
+<volume>9</volume>: <fpage>e103336</fpage>.<pub-id pub-id-type="pmid">25058475</pub-id></mixed-citation></ref><ref id="emi14339-bib-0040"><mixed-citation publication-type="journal" id="emi14339-cit-0040">
+<string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>von Bargen</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Espino</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Pfannm&#x000fc;ller</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014b</year>) <article-title>Characterization of the fusaric acid gene cluster in <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>98</volume>: <fpage>1749</fpage>&#x02013;<lpage>1762</lpage>.<pub-id pub-id-type="pmid">24389666</pub-id></mixed-citation></ref><ref id="emi14339-bib-0041"><mixed-citation publication-type="journal" id="emi14339-cit-0041">
+<string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>von Bargen</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Kummer</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Reuter</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>) <article-title>Sound of silence: the beauvericin cluster in <italic>Fusarium fujikuroi</italic> is controlled by cluster&#x02010;specific and global regulators mediated by H3K27 modification</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>18</volume>: <fpage>4282</fpage>&#x02013;<lpage>4302</lpage>.<pub-id pub-id-type="pmid">27750383</pub-id></mixed-citation></ref><ref id="emi14339-bib-0042"><mixed-citation publication-type="journal" id="emi14339-cit-0042">
+<string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;nsterk&#x000f6;tter</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kalinina</surname>, <given-names>S. A.</given-names>
+</string-name>, <italic>et al</italic> (<year>2017a</year>) <article-title>Comparative genomics of geographically distant <italic>Fusarium fujikuroi</italic> isolates revealed two distinct pathotypes correlating with secondary metabolite profiles</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>13</volume>: <fpage>e1006670</fpage>.<pub-id pub-id-type="pmid">29073267</pub-id></mixed-citation></ref><ref id="emi14339-bib-0043"><mixed-citation publication-type="journal" id="emi14339-cit-0043">
+<string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Schumacher</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Burkhardt</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Rabe</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;nsterk&#x000f6;tter</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000fc;ldener</surname>, <given-names>U.</given-names>
+</string-name>, <italic>et al</italic> (<year>2017b</year>) <article-title>The GATA&#x02010;type transcription factor Csm1 regulates conidiation and secondary metabolism in <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>8</volume>: <fpage>1175</fpage>.<pub-id pub-id-type="pmid">28694801</pub-id></mixed-citation></ref><ref id="emi14339-bib-0044"><mixed-citation publication-type="journal" id="emi14339-cit-0044">
+<string-name>
+<surname>Nirenberg</surname>, <given-names>H. I.</given-names>
+</string-name>, and <string-name>
+<surname>O'Donnell</surname>, <given-names>K.</given-names>
+</string-name> (<year>1998</year>) <article-title>New <italic>Fusarium</italic> species and combinations within the <italic>Gibberella fujikuroi</italic> species complex</article-title>. <source xml:lang="en">Mycologia</source>
+<volume>90</volume>: <fpage>434</fpage>&#x02013;<lpage>458</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0045"><mixed-citation publication-type="journal" id="emi14339-cit-0045">
+<string-name>
+<surname>Pfaffl</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2001</year>) <article-title>A new mathematical model for relative quantification in real&#x02010;time RT&#x02010;PCR</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>29</volume>: <fpage>e45</fpage>.<pub-id pub-id-type="pmid">11328886</pub-id></mixed-citation></ref><ref id="emi14339-bib-0046"><mixed-citation publication-type="journal" id="emi14339-cit-0046">
+<string-name>
+<surname>Pokholok</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Harbison</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hannett</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>I. L.</given-names>
+</string-name>, <italic>et al</italic> (<year>2005</year>) <article-title>Genome&#x02010;wide map of nucleosome acetylation and methylation in yeast</article-title>. <source xml:lang="en">Cell</source>
+<volume>122</volume>: <fpage>517</fpage>&#x02013;<lpage>527</lpage>.<pub-id pub-id-type="pmid">16122420</pub-id></mixed-citation></ref><ref id="emi14339-bib-0047"><mixed-citation publication-type="journal" id="emi14339-cit-0047">
+<string-name>
+<surname>Pontecorvo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Roper</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Chemmons</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Macdonald</surname>, <given-names>K. D.</given-names>
+</string-name>, and <string-name>
+<surname>Bufton</surname>, <given-names>A. W. J.</given-names>
+</string-name> (<year>1953</year>) <article-title>The genetics of <italic>Aspergillus nidulans</italic>
+</article-title>. <source xml:lang="en">Adv Genet</source>
+<volume>5</volume>: <fpage>141</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">13040135</pub-id></mixed-citation></ref><ref id="emi14339-bib-0048"><mixed-citation publication-type="book" id="emi14339-cit-0048">
+<string-name>
+<surname>Rademacher</surname>, <given-names>W.</given-names>
+</string-name> (<year>1997</year>)<chapter-title>Gibberellins</chapter-title> . In <source xml:lang="en">Fungal Biotechnology</source>, <person-group person-group-type="editor"><name><surname>Anke</surname><given-names>T.</given-names></name></person-group> (ed). <publisher-loc>London</publisher-loc>: <publisher-name>Chapman and Hall</publisher-name>, pp. <fpage>193</fpage>&#x02013;<lpage>205</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0049"><mixed-citation publication-type="journal" id="emi14339-cit-0049">
+<string-name>
+<surname>Rando</surname>, <given-names>O. J.</given-names>
+</string-name>, and <string-name>
+<surname>Chang</surname>, <given-names>H. Y.</given-names>
+</string-name> (<year>2009</year>) <article-title>Genome&#x02010;wide views of chromatin structure</article-title>. <source xml:lang="en">Annu Rev Biochem</source>
+<volume>78</volume>: <fpage>245</fpage>&#x02013;<lpage>271</lpage>.<pub-id pub-id-type="pmid">19317649</pub-id></mixed-citation></ref><ref id="emi14339-bib-0050"><mixed-citation publication-type="journal" id="emi14339-cit-0050">
+<string-name>
+<surname>R&#x000f6;sler</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Finkemeier</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>) <article-title>The SAGA complex in the rice pathogen <italic>Fusarium fujikuroi</italic>: structure and functional characterization</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>102</volume>: <fpage>951</fpage>&#x02013;<lpage>974</lpage>.<pub-id pub-id-type="pmid">27642009</pub-id></mixed-citation></ref><ref id="emi14339-bib-0051"><mixed-citation publication-type="journal" id="emi14339-cit-0051">
+<string-name>
+<surname>Ruepp</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zollner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Maier</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Albermann</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hani</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mokrejs</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et al</italic> (<year>2004</year>) <article-title>The FunCat, a functional annotation scheme for systematic classification of proteins from whole genomes</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>32</volume>: <fpage>5539</fpage>&#x02013;<lpage>5545</lpage>.<pub-id pub-id-type="pmid">15486203</pub-id></mixed-citation></ref><ref id="emi14339-bib-0052"><mixed-citation publication-type="book" id="emi14339-cit-0052">
+<string-name>
+<surname>Sambrook</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fritsch</surname>, <given-names>E. F.</given-names>
+</string-name>, and <string-name>
+<surname>Maniatis</surname>, <given-names>T.</given-names>
+</string-name> (<year>1989</year>) <source xml:lang="en">Molecular Cloning: A Laboratory Manual</source>, <edition>2nd</edition> ed. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Cold Spring Harbor</publisher-name>.</mixed-citation></ref><ref id="emi14339-bib-0053"><mixed-citation publication-type="journal" id="emi14339-cit-0053">
+<string-name>
+<surname>Santos&#x02010;Rosa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bannister</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Sherriff</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name>
+<surname>Emre</surname>, <given-names>N. C. T.</given-names>
+</string-name>, <italic>et al</italic> (<year>2002</year>) <article-title>Active genes are tri&#x02010;methylated at K4 of histone H3</article-title>. <source xml:lang="en">Nature</source>
+<volume>419</volume>: <fpage>407</fpage>&#x02013;<lpage>411</lpage>.<pub-id pub-id-type="pmid">12353038</pub-id></mixed-citation></ref><ref id="emi14339-bib-0054"><mixed-citation publication-type="journal" id="emi14339-cit-0054">
+<string-name>
+<surname>Schumacher</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Tools for <italic>Botrytis cinerea</italic>: new expression vectors make the gray mold fungus more accessible to cell biology approaches</article-title>. <source xml:lang="en">Fungal Genet Biol</source>
+<volume>49</volume>: <fpage>483</fpage>&#x02013;<lpage>497</lpage>.<pub-id pub-id-type="pmid">22503771</pub-id></mixed-citation></ref><ref id="emi14339-bib-0055"><mixed-citation publication-type="journal" id="emi14339-cit-0055">
+<string-name>
+<surname>Sewall</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Mims</surname>, <given-names>C. W.</given-names>
+</string-name>, and <string-name>
+<surname>Timberlake</surname>, <given-names>W. E.</given-names>
+</string-name> (<year>1990</year>) <article-title>Conidium differentiation in <italic>Aspergillus nidulans</italic> wild&#x02010;type and wet&#x02010;white (<italic>wetA</italic>) mutant strains</article-title>. <source xml:lang="en">Dev Biol</source>
+<volume>138</volume>: <fpage>499</fpage>&#x02013;<lpage>508</lpage>.<pub-id pub-id-type="pmid">2180753</pub-id></mixed-citation></ref><ref id="emi14339-bib-0056"><mixed-citation publication-type="journal" id="emi14339-cit-0056">
+<string-name>
+<surname>Seward</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Cubberley</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schonewald</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tripet</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<surname>Bentley</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Demethylation of trimethylated histone H3 Lys4 <italic>in vivo</italic> by JARID1 JmjC proteins</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>
+<volume>14</volume>: <fpage>240</fpage>&#x02013;<lpage>242</lpage>.<pub-id pub-id-type="pmid">17310255</pub-id></mixed-citation></ref><ref id="emi14339-bib-0057"><mixed-citation publication-type="journal" id="emi14339-cit-0057">
+<string-name>
+<surname>Shi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Matson</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mulligan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Whetstine</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>, <given-names>P. A.</given-names>
+</string-name>, <italic>et al</italic> (<year>2004</year>) <article-title>Histone demethylation mediated by the nuclear amine oxidase homolog LSD1</article-title>. <source xml:lang="en">Cell</source>
+<volume>119</volume>: <fpage>941</fpage>&#x02013;<lpage>953</lpage>.<pub-id pub-id-type="pmid">15620353</pub-id></mixed-citation></ref><ref id="emi14339-bib-0058"><mixed-citation publication-type="journal" id="emi14339-cit-0058">
+<string-name>
+<surname>Son</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Min</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>G. J.</given-names>
+</string-name>, <italic>et al</italic> (<year>2013</year>) <article-title>AbaA regulates conidiogenesis in the ascomycete fungus <italic>Fusarium graminearum</italic>
+</article-title>. <source xml:lang="en">PLoS ONE</source>
+<volume>8</volume>: <fpage>e72915</fpage>.<pub-id pub-id-type="pmid">24039821</pub-id></mixed-citation></ref><ref id="emi14339-bib-0059"><mixed-citation publication-type="journal" id="emi14339-cit-0059">
+<string-name>
+<surname>Son</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chae</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Lee</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014a</year>) <article-title>FgFlbD regulates hyphal differentiation required for sexual and asexual reproduction in the ascomycete fungus <italic>Fusarium graminearum</italic>
+</article-title>. <source xml:lang="en">J Microbiol</source>
+<volume>52</volume>: <fpage>930</fpage>&#x02013;<lpage>939</lpage>.<pub-id pub-id-type="pmid">25277408</pub-id></mixed-citation></ref><ref id="emi14339-bib-0060"><mixed-citation publication-type="journal" id="emi14339-cit-0060">
+<string-name>
+<surname>Son</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Min</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et al</italic> (<year>2014b</year>) <article-title>WetA is required for conidiogenesis and conidium maturation in the ascomycete fungus <italic>Fusarium graminearum</italic>
+</article-title>. <source xml:lang="en">Eukaryot Cell</source>
+<volume>13</volume>: <fpage>87</fpage>&#x02013;<lpage>98</lpage>.<pub-id pub-id-type="pmid">24186953</pub-id></mixed-citation></ref><ref id="emi14339-bib-0061"><mixed-citation publication-type="journal" id="emi14339-cit-0061">
+<string-name>
+<surname>Southern</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>1975</year>) <article-title>Detection of specific sequences among DNA fragments separated by gel electrophoresis</article-title>. <source xml:lang="en">J Mol Biol</source>
+<volume>98</volume>: <fpage>503</fpage>&#x02013;<lpage>517</lpage>.<pub-id pub-id-type="pmid">1195397</pub-id></mixed-citation></ref><ref id="emi14339-bib-0062"><mixed-citation publication-type="book" id="emi14339-cit-0062">
+<string-name>
+<surname>Sponsel</surname>, <given-names>V. M.</given-names>
+</string-name>, and <string-name>
+<surname>Hedden</surname>, <given-names>P.</given-names>
+</string-name> (<year>2004</year>) <chapter-title>Gibberellin biosynthesis and inactivation</chapter-title> . In <source xml:lang="en">Plant Hormones. Biosynthesis, Signal Transduction, Action! P</source>, <person-group person-group-type="editor"><name><surname>Davies</surname><given-names>J.</given-names></name></person-group> (ed). <publisher-loc>Dordrecht, The Netherlands</publisher-loc>: <publisher-name>Kluwer Academic Publishers</publisher-name>, pp. <fpage>63</fpage>&#x02013;<lpage>94</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0063"><mixed-citation publication-type="journal" id="emi14339-cit-0063">
+<string-name>
+<surname>Staben</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pollock</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schechtmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kinsey</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Selker</surname>, <given-names>E.</given-names>
+</string-name> (<year>1989</year>) <article-title>Use of a bacterial hygromycin B resistance gene as a dominant selectable marker in <italic>Neurospora crassa</italic> transformation</article-title>. <source xml:lang="en">Fungal Genet Newslett</source>
+<volume>36</volume>: <fpage>79</fpage>&#x02013;<lpage>81</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0064"><mixed-citation publication-type="journal" id="emi14339-cit-0064">
+<string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wiemann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kleigrewe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2012</year>) <article-title>Biosynthesis of fusarubins accounts for pigmentation of <italic>Fusarium fujikuroi</italic> perithecia</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>78</volume>: <fpage>4468</fpage>&#x02013;<lpage>4480</lpage>.<pub-id pub-id-type="pmid">22492438</pub-id></mixed-citation></ref><ref id="emi14339-bib-0065"><mixed-citation publication-type="journal" id="emi14339-cit-0065">
+<string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Jahn</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>, <given-names>L. R.</given-names>
+</string-name>, <string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <italic>et al</italic> (<year>2013</year>) <article-title>Two histone deacetylases, FfHda1 and FfHda2, are important for <italic>Fusarium fujikuroi</italic> secondary metabolism and virulence</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>
+<volume>79</volume>: <fpage>7719</fpage>&#x02013;<lpage>7734</lpage>.<pub-id pub-id-type="pmid">24096420</pub-id></mixed-citation></ref><ref id="emi14339-bib-0066"><mixed-citation publication-type="journal" id="emi14339-cit-0066">
+<string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Burkhardt</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <italic>et al</italic> (<year>2016a</year>) <article-title>Two separate key enzymes and two pathway&#x02010;specific transcription factors are involved in fusaric acid biosynthesis in <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>18</volume>: <fpage>936</fpage>&#x02013;<lpage>956</lpage>.<pub-id pub-id-type="pmid">26662839</pub-id></mixed-citation></ref><ref id="emi14339-bib-0067"><mixed-citation publication-type="journal" id="emi14339-cit-0067">
+<string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f6;sler</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Burkhardt</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Freitag</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, <italic>et al</italic> (<year>2016b</year>) <article-title>Knock&#x02010;down of the methyltransferase Kmt6 relieves H3K27me3 and results in induction of cryptic and otherwise silent secondary metabolite gene clusters in <italic>Fusarium fujikuroi</italic>
+</article-title>. <source xml:lang="en">Environ Microbiol</source>
+<volume>18</volume>: <fpage>4037</fpage>&#x02013;<lpage>4054</lpage>.<pub-id pub-id-type="pmid">27348741</pub-id></mixed-citation></ref><ref id="emi14339-bib-0068"><mixed-citation publication-type="journal" id="emi14339-cit-0068">
+<string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janevska</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Boedi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sulyok</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, <italic>et al</italic> (<year>2017</year>) <article-title>Lack of the COMPASS component Ccl1 reduces H3K4 trimethylation levels and affects transcription of secondary metabolite genes in two plant&#x02010;pathogenic <italic>Fusarium</italic> species</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>7</volume>: <fpage>2144</fpage>.<pub-id pub-id-type="pmid">28119673</pub-id></mixed-citation></ref><ref id="emi14339-bib-0069"><mixed-citation publication-type="book" id="emi14339-cit-0069">
+<string-name>
+<surname>Sun</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Snyder</surname>, <given-names>W. C.</given-names>
+</string-name> (<year>1981</year>)<chapter-title>The <italic>bakanae</italic> disease of the rice plant</chapter-title> . In <source xml:lang="en"><italic>Fusarium</italic>: Diseases, Biology and Taxonomy</source>, <person-group person-group-type="editor"><name><surname>Nelson</surname><given-names>P. E.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Toussoun</surname><given-names>T. A.</given-names></name></person-group>, and <person-group person-group-type="editor"><name><surname>Cook</surname><given-names>R. J.</given-names></name></person-group> (eds). <publisher-loc>University Park</publisher-loc>: <publisher-name>The Pennsylvania State University Press</publisher-name>, pp. <fpage>104</fpage>&#x02013;<lpage>113</lpage>.</mixed-citation></ref><ref id="emi14339-bib-0070"><mixed-citation publication-type="journal" id="emi14339-cit-0070">
+<string-name>
+<surname>Tanaka</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Katagiri</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kawahashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kioussis</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name>
+<surname>Kitajima</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>) <article-title>Trithorax&#x02010;group protein ASH1 methylates histone H3 lysine 36</article-title>. <source xml:lang="en">Gene</source>
+<volume>397</volume>: <fpage>161</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">17544230</pub-id></mixed-citation></ref><ref id="emi14339-bib-0071"><mixed-citation publication-type="journal" id="emi14339-cit-0071">
+<string-name>
+<surname>Tao</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<surname>Yu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>AbaA and WetA govern distinct stages of <italic>Aspergillus fumigatus</italic> development</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>157</volume>: <fpage>313</fpage>&#x02013;<lpage>326</lpage>.<pub-id pub-id-type="pmid">20966095</pub-id></mixed-citation></ref><ref id="emi14339-bib-0072"><mixed-citation publication-type="journal" id="emi14339-cit-0072">
+<string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Homann</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<surname>Marzluf</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>1999</year>) <article-title>Isolation, characterization and disruption of the <italic>areA</italic> nitrogen regulatory gene of <italic>Gibberella fujikuroi</italic>
+</article-title>. <source xml:lang="en">Mol Gen Genet</source>
+<volume>261</volume>: <fpage>106</fpage>&#x02013;<lpage>114</lpage>.<pub-id pub-id-type="pmid">10071216</pub-id></mixed-citation></ref><ref id="emi14339-bib-0073"><mixed-citation publication-type="journal" id="emi14339-cit-0073">
+<string-name>
+<surname>Tyanova</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Temu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sinitcyn</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hein</surname>, <given-names>M. Y.</given-names>
+</string-name>, <string-name>
+<surname>Geiger</surname>, <given-names>T.</given-names>
+</string-name>, <italic>et al</italic> (<year>2016</year>) <article-title>The Perseus computational platform for comprehensive analysis of (prote)omics data</article-title>. <source xml:lang="en">Nat Methods</source>
+<volume>13</volume>: <fpage>731</fpage>&#x02013;<lpage>740</lpage>.<pub-id pub-id-type="pmid">27348712</pub-id></mixed-citation></ref><ref id="emi14339-bib-0074"><mixed-citation publication-type="journal" id="emi14339-cit-0074">
+<string-name>
+<surname>Wagner</surname>, <given-names>E. J.</given-names>
+</string-name>, and <string-name>
+<surname>Carpenter</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2012</year>) <article-title>Understanding the language of Lys36 methylation at histone H3</article-title>. <source xml:lang="en">Nat Rev Mol Cell Biol</source>
+<volume>13</volume>: <fpage>115</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">22266761</pub-id></mixed-citation></ref><ref id="emi14339-bib-0075"><mixed-citation publication-type="journal" id="emi14339-cit-0075">
+<string-name>
+<surname>Wiemann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Willmann</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Straeten</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kleigrewe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Beyer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>) <article-title>Biosynthesis of the red pigment bikaverin in <italic>Fusarium fujikuroi</italic>: genes, their function and regulation</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>72</volume>: <fpage>931</fpage>&#x02013;<lpage>946</lpage>.<pub-id pub-id-type="pmid">19400779</pub-id></mixed-citation></ref><ref id="emi14339-bib-0076"><mixed-citation publication-type="journal" id="emi14339-cit-0076">
+<string-name>
+<surname>Wiemann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Kleigrewe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bok</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Humpf</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<surname>Tudzynski</surname>, <given-names>B.</given-names>
+</string-name> (<year>2010</year>) <article-title>FfVel1 and FfLae1, components of a <italic>velvet</italic>&#x02010;like complex in <italic>Fusarium fujikuroi</italic>, affect differentiation, secondary metabolism and virulence</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>77</volume>: <fpage>972</fpage>&#x02013;<lpage>994</lpage>.<pub-id pub-id-type="pmid">20572938</pub-id></mixed-citation></ref><ref id="emi14339-bib-0077"><mixed-citation publication-type="journal" id="emi14339-cit-0077">
+<string-name>
+<surname>Wiemann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Albermann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>von Bargen</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Brock</surname>, <given-names>N. L.</given-names>
+</string-name>, <italic>et al</italic> (<year>2012</year>) <article-title>The Sfp&#x02010;type 4&#x02032;&#x02010;phosphopantetheinyl transferase Ppt1 of <italic>Fusarium fujikuroi</italic> controls development, secondary metabolism and pathogenicity</article-title>. <source xml:lang="en">PLoS ONE</source>
+<volume>7</volume>: <fpage>e37519</fpage>.<pub-id pub-id-type="pmid">22662164</pub-id></mixed-citation></ref><ref id="emi14339-bib-0078"><mixed-citation publication-type="journal" id="emi14339-cit-0078">
+<string-name>
+<surname>Wiemann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>, <given-names>C. M. K.</given-names>
+</string-name>, <string-name>
+<surname>von Bargen</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name>
+<surname>Studt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Niehaus</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Espino</surname>, <given-names>J. J.</given-names>
+</string-name>, <italic>et al</italic> (<year>2013</year>) <article-title>Deciphering the cryptic genome: genome&#x02010;wide analyses of the rice pathogen <italic>Fusarium fujikuroi</italic> reveal complex regulation of secondary metabolism and novel metabolites</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>9</volume>: <fpage>e1003475</fpage>.<pub-id pub-id-type="pmid">23825955</pub-id></mixed-citation></ref><ref id="emi14339-bib-0079"><mixed-citation publication-type="journal" id="emi14339-cit-0079">
+<string-name>
+<surname>Wieser</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>B. N.</given-names>
+</string-name>, <string-name>
+<surname>Fondon</surname>, <given-names>J. W.</given-names>, <suffix>III</suffix>
+</string-name>, and <string-name>
+<surname>Adams</surname>, <given-names>T. H.</given-names>
+</string-name> (<year>1994</year>) <article-title>Genetic requirements for initiating asexual development in <italic>Aspergillus nidulans</italic>
+</article-title>. <source xml:lang="en">Curr Genet</source>
+<volume>27</volume>: <fpage>62</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">7750148</pub-id></mixed-citation></ref><ref id="emi14339-bib-0080"><mixed-citation publication-type="journal" id="emi14339-cit-0080">
+<string-name>
+<surname>Wiles</surname>, <given-names>E. T.</given-names>
+</string-name>, and <string-name>
+<surname>Selker</surname>, <given-names>E. U.</given-names>
+</string-name> (<year>2017</year>) <article-title>H3K27 methylation: a promiscuous repressive chromatin mark</article-title>. <source xml:lang="en">Curr Opin Genet Dev</source>
+<volume>43</volume>: <fpage>31</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">27940208</pub-id></mixed-citation></ref><ref id="emi14339-bib-0081"><mixed-citation publication-type="journal" id="emi14339-cit-0081">
+<string-name>
+<surname>Winston</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dollard</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Ricupero&#x02010;Hovasse</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>1995</year>) <article-title>Construction of a set of convenient <italic>Saccharomyces cerevisiae</italic> strains that are isogenic to S288C</article-title>. <source xml:lang="en">Yeast</source>
+<volume>11</volume>: <fpage>53</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">7762301</pub-id></mixed-citation></ref><ref id="emi14339-bib-0082"><mixed-citation publication-type="journal" id="emi14339-cit-0082">
+<string-name>
+<surname>Yu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zavaljevski</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Desai</surname>, <given-names>V.</given-names>
+</string-name>, and <string-name>
+<surname>Reifman</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>QuartetS: a fast and accurate algorithm for large&#x02010;scale orthology detection</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>39</volume>: <fpage>e88</fpage>.<pub-id pub-id-type="pmid">21572104</pub-id></mixed-citation></ref></ref-list></back></article>

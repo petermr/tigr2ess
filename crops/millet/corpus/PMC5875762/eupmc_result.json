@@ -1,0 +1,393 @@
+{
+  "id": [
+    "29596418"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29596418"
+  ],
+  "pmcid": [
+    "PMC5875762"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0192752"
+  ],
+  "title": [
+    "Accessing microfluidics through feature-based design software for 3D printing."
+  ],
+  "authorString": [
+    "Shankles PG, Millet LJ, Aufrecht JA, Retterer ST."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shankles PG"
+          ],
+          "firstName": [
+            "Peter G"
+          ],
+          "lastName": [
+            "Shankles"
+          ],
+          "initials": [
+            "PG"
+          ],
+          "affiliation": [
+            "The Bredesen Center for Interdisciplinary Research, The University of Tennessee, Knoxville, TN, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Millet LJ"
+          ],
+          "firstName": [
+            "Larry J"
+          ],
+          "lastName": [
+            "Millet"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "The Bredesen Center for Interdisciplinary Research, The University of Tennessee, Knoxville, TN, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Aufrecht JA"
+          ],
+          "firstName": [
+            "Jayde A"
+          ],
+          "lastName": [
+            "Aufrecht"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "The Bredesen Center for Interdisciplinary Research, The University of Tennessee, Knoxville, TN, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Retterer ST"
+          ],
+          "firstName": [
+            "Scott T"
+          ],
+          "lastName": [
+            "Retterer"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8534-1979",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Bredesen Center for Interdisciplinary Research, The University of Tennessee, Knoxville, TN, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8534-1979",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2656076"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0192752"
+  ],
+  "abstractText": [
+    "Additive manufacturing has been a cornerstone of the product development pipeline for decades, playing an essential role in the creation of both functional and cosmetic prototypes. In recent years, the prospects for distributed and open source manufacturing have grown tremendously. This growth has been enabled by an expanding library of printable materials, low-cost printers, and communities dedicated to platform development. The microfluidics community has embraced this opportunity to integrate 3D printing into the suite of manufacturing strategies used to create novel fluidic architectures. The rapid turnaround time and low cost to implement these strategies in the lab makes 3D printing an attractive alternative to conventional micro- and nanofabrication techniques. In this work, the production of multiple microfluidic architectures using a hybrid 3D printing-soft lithography approach is demonstrated and shown to enable rapid device fabrication with channel dimensions that take advantage of laminar flow characteristics. The fabrication process outlined here is underpinned by the implementation of custom design software with an integrated slicer program that replaces less intuitive computer aided design and slicer software tools. Devices are designed in the program by assembling parameterized microfluidic building blocks. The fabrication process and flow control within 3D printed devices were demonstrated with a gradient generator and two droplet generator designs. Precise control over the printing process allowed 3D microfluidics to be printed in a single step by extruding bridge structures to 'jump-over' channels in the same plane. This strategy was shown to integrate with conventional nanofabrication strategies to simplify the operation of a platform that incorporates both nanoscale features and 3D printed microfluidics."
+  ],
+  "affiliation": [
+    "The Bredesen Center for Interdisciplinary Research, The University of Tennessee, Knoxville, TN, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1R01DE024463-01  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microfluidic Analytical Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Printing, Three-Dimensional"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5875762?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5875762"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0192752"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-18"
+  ],
+  "dateOfCreation": [
+    "2018-03-30"
+  ],
+  "dateOfRevision": [
+    "2018-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-29"
+  ],
+  "firstPublicationDate": [
+    "2018-03-29"
+  ]
+}

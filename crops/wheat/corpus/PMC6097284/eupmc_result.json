@@ -1,0 +1,881 @@
+{
+  "id": [
+    "30115101"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30115101"
+  ],
+  "pmcid": [
+    "PMC6097284"
+  ],
+  "doi": [
+    "10.1186/s13059-018-1491-4"
+  ],
+  "title": [
+    "Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data."
+  ],
+  "authorString": [
+    "Alaux M, Rogers J, Letellier T, Flores R, Alfama F, Pommier C, Mohellibi N, Durand S, Kimmel E, Michotey C, Guerche C, Loaec M, Lainé M, Steinbach D, Choulet F, Rimbert H, Leroy P, Guilhot N, Salse J, Feuillet C, International Wheat Genome Sequencing Consortium, Paux E, Eversole K, Adam-Blondon AF, Quesneville H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alaux M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Alaux"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9356-4072",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France. michael.alaux@inra.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Rogers J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Rogers"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "International Wheat Genome Sequencing Consortium (IWGSC), 18 High Street, Little Eversden, Cambridge, CB23 1HE, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Letellier T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Letellier"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Flores R"
+          ],
+          "firstName": [
+            "Raphaël"
+          ],
+          "lastName": [
+            "Flores"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Alfama F"
+          ],
+          "firstName": [
+            "Françoise"
+          ],
+          "lastName": [
+            "Alfama"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pommier C"
+          ],
+          "firstName": [
+            "Cyril"
+          ],
+          "lastName": [
+            "Pommier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohellibi N"
+          ],
+          "firstName": [
+            "Nacer"
+          ],
+          "lastName": [
+            "Mohellibi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Durand S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Durand"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kimmel E"
+          ],
+          "firstName": [
+            "Erik"
+          ],
+          "lastName": [
+            "Kimmel"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Michotey C"
+          ],
+          "firstName": [
+            "Célia"
+          ],
+          "lastName": [
+            "Michotey"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Guerche C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Guerche"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Loaec M"
+          ],
+          "firstName": [
+            "Mikaël"
+          ],
+          "lastName": [
+            "Loaec"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Lainé M"
+          ],
+          "firstName": [
+            "Mathilde"
+          ],
+          "lastName": [
+            "Lainé"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Steinbach D"
+          ],
+          "firstName": [
+            "Delphine"
+          ],
+          "lastName": [
+            "Steinbach"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Choulet F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Choulet"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1788-7288",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Rimbert H"
+          ],
+          "firstName": [
+            "Hélène"
+          ],
+          "lastName": [
+            "Rimbert"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Leroy P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Leroy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Guilhot N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Guilhot"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Salse J"
+          ],
+          "firstName": [
+            "Jérôme"
+          ],
+          "lastName": [
+            "Salse"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Feuillet C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Feuillet"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "collectiveName": [
+            "International Wheat Genome Sequencing Consortium"
+          ]
+        },
+        {
+          "fullName": [
+            "Paux E"
+          ],
+          "firstName": [
+            "Etienne"
+          ],
+          "lastName": [
+            "Paux"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "GDEC, INRA, Université Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Eversole K"
+          ],
+          "firstName": [
+            "Kellye"
+          ],
+          "lastName": [
+            "Eversole"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "International Wheat Genome Sequencing Consortium (IWGSC), 5207 Wyoming Road, Bethesda, Maryland, 20816, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Adam-Blondon AF"
+          ],
+          "firstName": [
+            "Anne-Françoise"
+          ],
+          "lastName": [
+            "Adam-Blondon"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Quesneville H"
+          ],
+          "firstName": [
+            "Hadi"
+          ],
+          "lastName": [
+            "Quesneville"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1788-7288",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9356-4072",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2714861"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "111"
+  ],
+  "abstractText": [
+    "The Wheat@URGI portal has been developed to provide the international community of researchers and breeders with access to the bread wheat reference genome sequence produced by the International Wheat Genome Sequencing Consortium. Genome browsers, BLAST, and InterMine tools have been established for in-depth exploration of the genome sequence together with additional linked datasets including physical maps, sequence variations, gene expression, and genetic and phenomic data from other international collaborative projects already stored in the GnpIS information system. The portal provides enhanced search and browser features that will facilitate the deployment of the latest genomics resources in wheat improvement."
+  ],
+  "affiliation": [
+    "URGI, INRA, Université Paris-Saclay, 78026, Versailles, France. michael.alaux@inra.fr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ANR-09-GENM-025"
+          ],
+          "agency": [
+            "Agence Nationale de la Recherche"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ANR-10-BTBR-03"
+          ],
+          "agency": [
+            "Agence Nationale de la Recherche"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FP7-KBBE-212019"
+          ],
+          "agency": [
+            "Seventh Framework Programme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FP7-613556"
+          ],
+          "agency": [
+            "Seventh Framework Programme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FP7-283496"
+          ],
+          "agency": [
+            "Seventh Framework Programme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reference Standards"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bread"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Data Mining"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Information system",
+        "Data integration",
+        "Big Data",
+        "Wheat Genomics, Genetics And Phenomics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097284?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097284"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-018-1491-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR7529"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-08-18"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-17"
+  ],
+  "firstPublicationDate": [
+    "2018-08-17"
+  ]
+}

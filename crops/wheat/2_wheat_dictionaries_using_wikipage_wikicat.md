@@ -2,7 +2,7 @@
 
 Let's search for 'wheat' on the web. In the search results, we get the following wikipedia page:
 
-![Wikipedia page for wheat](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/Wheat%20-%20Wikipedia.png)
+![Wikipedia page for wheat](assets/WheatWikipedia.png)
 
 
 # Dictionary creation from wikipedia page
@@ -11,7 +11,6 @@ The above wiki page contains words/terms coloured in blue. If we click on a term
 To do so, we issue the command `ami-dictionaries` with some options. The command is:
 ```
 ami-dictionaries create\
- --hreftext \
  --input https://en.wikipedia.org/wiki/wheat\
  --informat wikipage\
  --dictionary wheat_wikipage \
@@ -47,11 +46,7 @@ The first two terms are not at all relevant, so we remove the below correspondin
 
 **Another example is `wheat(film)` (id="CM.Wheat_category.54") is not belong to wheat ,cereal(grain) so we have to rmove this one.** 
 
-
-
-![wheat_weetabix_term](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/weetabix_term.png)
-
-
+![wheat_weetabix_term](assets/weetabix_term.png)
 
  **let's move to other method for dictionary creation.**  
 
@@ -64,7 +59,6 @@ The wikipedia category page for wheat is at [https://en.wikipedia.org/wiki/Categ
 We issue the following command at the terminal:
 ```
 ami-dictionaries create\
- --hreftext \
      --input  https://en.wikipedia.org/wiki/Category:Wheat \
      --informat  wikipage \`(we are giving wikipage as informat because if we use wikicategory as informat it gives an error and create only html output)`
      --dictionary wheat_category\

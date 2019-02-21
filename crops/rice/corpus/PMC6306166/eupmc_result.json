@@ -1,0 +1,375 @@
+{
+  "id": [
+    "30586438"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30586438"
+  ],
+  "pmcid": [
+    "PMC6306166"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0208959"
+  ],
+  "title": [
+    "Establishment of a conditional TALEN system using the translational enhancer dMac3 and an inducible promoter activated by glucocorticoid treatment to increase the frequency of targeted mutagenesis in plants."
+  ],
+  "authorString": [
+    "Onodera H, Shingu S, Ohnuma M, Horie T, Kihira M, Kusano H, Teramura H, Shimada H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Onodera H"
+          ],
+          "firstName": [
+            "Hitomi"
+          ],
+          "lastName": [
+            "Onodera"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shingu S"
+          ],
+          "firstName": [
+            "Saeko"
+          ],
+          "lastName": [
+            "Shingu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ohnuma M"
+          ],
+          "firstName": [
+            "Mariko"
+          ],
+          "lastName": [
+            "Ohnuma"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Horie T"
+          ],
+          "firstName": [
+            "Takaaki"
+          ],
+          "lastName": [
+            "Horie"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kihira M"
+          ],
+          "firstName": [
+            "Miho"
+          ],
+          "lastName": [
+            "Kihira"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kusano H"
+          ],
+          "firstName": [
+            "Hiroaki"
+          ],
+          "lastName": [
+            "Kusano"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Teramura H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Teramura"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimada H"
+          ],
+          "firstName": [
+            "Hiroaki"
+          ],
+          "lastName": [
+            "Shimada"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9304-3293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9304-3293",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2755928"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0208959"
+  ],
+  "abstractText": [
+    "Transcription activator-like effector nuclease (TALEN) is an artificial nuclease that causes DNA cleavage at the target site and induces few off-target reactions because of its high sequence specificity. Powerful and variable tools using TALENs can be used in practical applications and may facilitate the molecular breeding of many plant species. We have developed a convenient construction system for a plant TALEN vector named the Emerald Gateway TALEN system. In this study, we added new properties to this system, which led to an increase in the efficiency of targeted mutagenesis. Rice dMac3 is a translational enhancer that highly increases the efficiency of translation of the downstream ORF. We inserted dMac3 into the 5' untranslated region of the TALEN gene. In the cultured rice cells to which the TALEN gene was introduced, the frequency of targeted mutagenesis was highly increased compared with those altered using the conventional system. Next, the promoter for the TALEN gene was replaced with iPromoter, and its expression was stringently controlled by a GVG transcription factor that was activated in the presence of glucocorticoid. This conditional expression system worked effectively and led to a higher frequency of targeted mutagenesis than that by the constitutive expression system, while no mutagenesis was detected without glucocorticoid treatment. These results suggest that our system can be applied to genome editing to create the desired mutation."
+  ],
+  "affiliation": [
+    "Department of Biological Science and Technology, Tokyo University of Science, Katsushika, Tokyo, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6306166?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6306166"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0208959"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-26"
+  ],
+  "firstPublicationDate": [
+    "2018-12-26"
+  ]
+}

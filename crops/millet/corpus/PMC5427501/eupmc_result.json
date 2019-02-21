@@ -1,0 +1,615 @@
+{
+  "id": [
+    "28364039"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28364039"
+  ],
+  "pmcid": [
+    "PMC5427501"
+  ],
+  "doi": [
+    "10.1534/g3.117.041517"
+  ],
+  "title": [
+    "Identification of QTLs for 14 Agronomically Important Traits in Setaria italica Based on SNPs Generated from High-Throughput Sequencing."
+  ],
+  "authorString": [
+    "Zhang K, Fan G, Zhang X, Zhao F, Wei W, Du G, Feng X, Wang X, Wang F, Song G, Zou H, Zhang X, Li S, Ni X, Zhang G, Zhao Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Beijing Genomics Institute-Shenzhen, 518083, China zhanggengyun@genomics.cn zhaozhihai58@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan G"
+          ],
+          "firstName": [
+            "Guangyu"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China zhanggengyun@genomics.cn zhaozhihai58@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xinxin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Beijing Genomics Institute-Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du G"
+          ],
+          "firstName": [
+            "Guohua"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Beijing Genomics Institute-Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng X"
+          ],
+          "firstName": [
+            "Xiaolei"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaoming"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song G"
+          ],
+          "firstName": [
+            "Guoliang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zou H"
+          ],
+          "firstName": [
+            "Hongfeng"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Beijing Genomics Institute-Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaolei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shuangdong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ni X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Beijing Genomics Institute-Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Gengyun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Beijing Genomics Institute-Shenzhen, 518083, China zhanggengyun@genomics.cn zhaozhihai58@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhihai"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Millet, Zhangjiakou Academy of Agricultural Science, 075032, China zhanggengyun@genomics.cn zhaozhihai58@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2554572"
+      ],
+      "dateOfPublication": [
+        "2017 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1587-1594"
+  ],
+  "abstractText": [
+    "Foxtail millet (Setaria italica) is an important crop possessing C4 photosynthesis capability. The S. italica genome was de novo sequenced in 2012, but the sequence lacked high-density genetic maps with agronomic and yield trait linkages. In the present study, we resequenced a foxtail millet population of 439 recombinant inbred lines (RILs) and developed high-resolution bin map and high-density SNP markers, which could provide an effective approach for gene identification. A total of 59 QTL for 14 agronomic traits in plants grown under long- and short-day photoperiods were identified. The phenotypic variation explained ranged from 4.9 to 43.94%. In addition, we suggested that there may be segregation distortion on chromosome 6 that is significantly distorted toward Zhang gu. The newly identified QTL will provide a platform for sequence-based research on the S. italica genome, and for molecular marker-assisted breeding."
+  ],
+  "affiliation": [
+    "Beijing Genomics Institute-Shenzhen, 518083, China zhanggengyun@genomics.cn zhaozhihai58@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Setaria Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inbreeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait, Heritable"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait Loci"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Breeding"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Photoperiod",
+        "Foxtail millet",
+        "Agronomic traits",
+        "QTL mapping",
+        "Snp Map"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5427501?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5427501"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.117.041517"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-01"
+  ],
+  "dateOfCreation": [
+    "2017-04-02"
+  ],
+  "dateOfRevision": [
+    "2018-06-28"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-05"
+  ],
+  "firstPublicationDate": [
+    "2017-05-05"
+  ]
+}

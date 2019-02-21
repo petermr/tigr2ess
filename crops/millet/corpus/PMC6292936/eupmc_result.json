@@ -1,0 +1,380 @@
+{
+  "id": [
+    "30581450"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30581450"
+  ],
+  "pmcid": [
+    "PMC6292936"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01809"
+  ],
+  "title": [
+    "Evaluation and Recommendations for Routine Genotyping Using Skim Whole Genome Re-sequencing in Canola."
+  ],
+  "authorString": [
+    "Malmberg MM, Barbulescu DM, Drayton MC, Shinozuka M, Thakur P, Ogaji YO, Spangenberg GC, Daetwyler HD, Cogan NOI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Malmberg MM"
+          ],
+          "firstName": [
+            "M Michelle"
+          ],
+          "lastName": [
+            "Malmberg"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barbulescu DM"
+          ],
+          "firstName": [
+            "Denise M"
+          ],
+          "lastName": [
+            "Barbulescu"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, Grains Innovation Park, Horsham, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Drayton MC"
+          ],
+          "firstName": [
+            "Michelle C"
+          ],
+          "lastName": [
+            "Drayton"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Shinozuka M"
+          ],
+          "firstName": [
+            "Maiko"
+          ],
+          "lastName": [
+            "Shinozuka"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Thakur P"
+          ],
+          "firstName": [
+            "Preeti"
+          ],
+          "lastName": [
+            "Thakur"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ogaji YO"
+          ],
+          "firstName": [
+            "Yvonne O"
+          ],
+          "lastName": [
+            "Ogaji"
+          ],
+          "initials": [
+            "YO"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Spangenberg GC"
+          ],
+          "firstName": [
+            "German C"
+          ],
+          "lastName": [
+            "Spangenberg"
+          ],
+          "initials": [
+            "GC"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Daetwyler HD"
+          ],
+          "firstName": [
+            "Hans D"
+          ],
+          "lastName": [
+            "Daetwyler"
+          ],
+          "initials": [
+            "HD"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cogan NOI"
+          ],
+          "firstName": [
+            "Noel O I"
+          ],
+          "lastName": [
+            "Cogan"
+          ],
+          "initials": [
+            "NOI"
+          ],
+          "affiliation": [
+            "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1809"
+  ],
+  "abstractText": [
+    "Whole genome sequencing offers genome wide, unbiased markers, and inexpensive library preparation. With the cost of sequencing decreasing rapidly, many plant genomes of modest size are amenable to skim whole genome resequencing (skim WGR). The use of skim WGR in diverse sample sets without the use of imputation was evaluated in silico in 149 canola samples representative of global diversity. Fastq files with an average of 10x coverage of the reference genome were used to generate skim samples representing 0.25x, 0.5x, 1x, 2x, 3x, 4x, and 5x sequencing coverage. Applying a pre-defined list of SNPs versus de novo SNP discovery was evaluated. As skim WGR is expected to result in some degree of insufficient allele sampling, all skim coverage levels were filtered at a range of minimum read depths from a relaxed minimum read depth of 2 to a stringent read depth of 5, resulting in 28 list-based SNP sets. As a broad recommendation, genotyping pre-defined SNPs between 1x and 2x coverage with relatively stringent depth filtering is appropriate for a diverse sample set of canola due to a balance between marker number, sufficient accuracy, and sequencing cost, but depends on the intended application. This was experimentally examined in two sample sets with different genetic backgrounds: 1x coverage of 1,590 individuals from 84 Australian spring type four-parent crosses aimed at maximizing diversity as well as one commercial F1 hybrid, and 2x coverage of 379 doubled haploids (DHs) derived from a subset of the four-parent crosses. To determine optimal coverage in a simpler genetic background, the DH sample sequence coverage was further down sampled in silico. The flexible and cost-effective nature of the protocol makes it highly applicable across a range of species and purposes."
+  ],
+  "affiliation": [
+    "Agriculture Victoria, AgriBio, Centre for AgriBioscience, Bundoora, VIC, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brassica napus",
+        "Plant",
+        "Doubled haploid",
+        "GBS",
+        "Low Coverage"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6292936?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6292936"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01809"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-25"
+  ],
+  "dateOfRevision": [
+    "2018-12-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-07"
+  ],
+  "firstPublicationDate": [
+    "2018-12-07"
+  ]
+}

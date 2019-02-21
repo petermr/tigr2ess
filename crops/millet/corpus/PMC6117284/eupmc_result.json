@@ -1,0 +1,809 @@
+{
+  "id": [
+    "30166587"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30166587"
+  ],
+  "pmcid": [
+    "PMC6117284"
+  ],
+  "doi": [
+    "10.1038/s41598-018-30905-9"
+  ],
+  "title": [
+    "A deconvolutional Bayesian mixing model approach for river basin sediment source apportionment."
+  ],
+  "authorString": [
+    "Blake WH, Boeckx P, Stock BC, Smith HG, Bodé S, Upadhayay HR, Gaspar L, Goddard R, Lennard AT, Lizaga I, Lobb DA, Owens PN, Petticrew EL, Kuzyk ZZA, Gari BD, Munishi L, Mtei K, Nebiyu A, Mabit L, Navas A, Semmens BX."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blake WH"
+          ],
+          "firstName": [
+            "William H"
+          ],
+          "lastName": [
+            "Blake"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9447-1361",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Geography, Earth and Environmental Sciences, University of Plymouth, Plymouth, UK. william.blake@plymouth.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Boeckx P"
+          ],
+          "firstName": [
+            "Pascal"
+          ],
+          "lastName": [
+            "Boeckx"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3998-0010",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Isotope Bioscience Laboratory - ISOFYS, Ghent University, Gent, Belgium. pascal.boeckx@UGent.be."
+          ]
+        },
+        {
+          "fullName": [
+            "Stock BC"
+          ],
+          "firstName": [
+            "Brian C"
+          ],
+          "lastName": [
+            "Stock"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2393-6747",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Scripps Institution of Oceanography, UC San Diego, La Jolla, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith HG"
+          ],
+          "firstName": [
+            "Hugh G"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "HG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0292-0284",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Landcare Research, Palmerston North, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Bodé S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Bodé"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0258-6450",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Isotope Bioscience Laboratory - ISOFYS, Ghent University, Gent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Upadhayay HR"
+          ],
+          "firstName": [
+            "Hari R"
+          ],
+          "lastName": [
+            "Upadhayay"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4851-4268",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Isotope Bioscience Laboratory - ISOFYS, Ghent University, Gent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaspar L"
+          ],
+          "firstName": [
+            "Leticia"
+          ],
+          "lastName": [
+            "Gaspar"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3473-7110",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Soil and Water Department, Estación Experimental de Aula Dei (EEAD-CSIC), Zaragoza, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Goddard R"
+          ],
+          "firstName": [
+            "Rupert"
+          ],
+          "lastName": [
+            "Goddard"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6834-3235",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Geography, Earth and Environmental Sciences, University of Plymouth, Plymouth, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lennard AT"
+          ],
+          "firstName": [
+            "Amy T"
+          ],
+          "lastName": [
+            "Lennard"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0937-3877",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Environmental Sciences, University of Liverpool, Liverpool, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lizaga I"
+          ],
+          "firstName": [
+            "Ivan"
+          ],
+          "lastName": [
+            "Lizaga"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4372-5901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Soil and Water Department, Estación Experimental de Aula Dei (EEAD-CSIC), Zaragoza, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Lobb DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Lobb"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1059-8715",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Soil Science, University of Manitoba, Winnipeg, Manitoba, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Owens PN"
+          ],
+          "firstName": [
+            "Philip N"
+          ],
+          "lastName": [
+            "Owens"
+          ],
+          "initials": [
+            "PN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8924-7437",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Quesnel River Research Centre, University of Northern British Columbia, Prince George, British Columbia, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Petticrew EL"
+          ],
+          "firstName": [
+            "Ellen L"
+          ],
+          "lastName": [
+            "Petticrew"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Quesnel River Research Centre, University of Northern British Columbia, Prince George, British Columbia, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuzyk ZZA"
+          ],
+          "firstName": [
+            "Zou Zou A"
+          ],
+          "lastName": [
+            "Kuzyk"
+          ],
+          "initials": [
+            "ZZA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6891-6125",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Geological Sciences, University of Manitoba, Winnipeg, Manitoba, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gari BD"
+          ],
+          "firstName": [
+            "Bayu D"
+          ],
+          "lastName": [
+            "Gari"
+          ],
+          "initials": [
+            "BD"
+          ],
+          "affiliation": [
+            "College of Agriculture and Veterinary Medicine, Jimma University, Jimma, Ethiopia."
+          ]
+        },
+        {
+          "fullName": [
+            "Munishi L"
+          ],
+          "firstName": [
+            "Linus"
+          ],
+          "lastName": [
+            "Munishi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institute of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Mtei K"
+          ],
+          "firstName": [
+            "Kelvin"
+          ],
+          "lastName": [
+            "Mtei"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institute of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Nebiyu A"
+          ],
+          "firstName": [
+            "Amsalu"
+          ],
+          "lastName": [
+            "Nebiyu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "College of Agriculture and Veterinary Medicine, Jimma University, Jimma, Ethiopia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mabit L"
+          ],
+          "firstName": [
+            "Lionel"
+          ],
+          "lastName": [
+            "Mabit"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9346-3845",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Soil and Water Management and Crop Nutrition Laboratory, Joint UN Food and Agricultural Organisation and International Atomic Energy Agency Division of Nuclear Techniques in Agriculture, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Navas A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Navas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4724-7532",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Soil and Water Department, Estación Experimental de Aula Dei (EEAD-CSIC), Zaragoza, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Semmens BX"
+          ],
+          "firstName": [
+            "Brice X"
+          ],
+          "lastName": [
+            "Semmens"
+          ],
+          "initials": [
+            "BX"
+          ],
+          "affiliation": [
+            "Scripps Institution of Oceanography, UC San Diego, La Jolla, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9447-1361",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1059-8715",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6891-6125",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4851-4268",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6834-3235",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0937-3877",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4724-7532",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2393-6747",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0258-6450",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3473-7110",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4372-5901",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3998-0010",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9346-3845",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0292-0284",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8924-7437",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2711288"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "13073"
+  ],
+  "abstractText": [
+    "Increasing complexity in human-environment interactions at multiple watershed scales presents major challenges to sediment source apportionment data acquisition and analysis. Herein, we present a step-change in the application of Bayesian mixing models: Deconvolutional-MixSIAR (D-MIXSIAR) to underpin sustainable management of soil and sediment. This new mixing model approach allows users to directly account for the 'structural hierarchy' of a river basin in terms of sub-watershed distribution. It works by deconvoluting apportionment data derived for multiple nodes along the stream-river network where sources are stratified by sub-watershed. Source and mixture samples were collected from two watersheds that represented (i) a longitudinal mixed agricultural watershed in the south west of England which had a distinct upper and lower zone related to topography and (ii) a distributed mixed agricultural and forested watershed in the mid-hills of Nepal with two distinct sub-watersheds. In the former, geochemical fingerprints were based upon weathering profiles and anthropogenic soil amendments. In the latter compound-specific stable isotope markers based on soil vegetation cover were applied. Mixing model posterior distributions of proportional sediment source contributions differed when sources were pooled across the watersheds (pooled-MixSIAR) compared to those where source terms were stratified by sub-watershed and the outputs deconvoluted (D-MixSIAR). In the first example, the stratified source data and the deconvolutional approach provided greater distinction between pasture and cultivated topsoil source signatures resulting in a different posterior distribution to non-deconvolutional model (conventional approaches over-estimated the contribution of cultivated land to downstream sediment by 2 to 5 times). In the second example, the deconvolutional model elucidated a large input of sediment delivered from a small tributary resulting in differences in the reported contribution of a discrete mixed forest source. Overall D-MixSIAR model posterior distributions had lower (by ca 25-50%) uncertainty and quicker model run times. In both cases, the structured, deconvoluted output cohered more closely with field observations and local knowledge underpinning the need for closer attention to hierarchy in source and mixture terms in river basin source apportionment. Soil erosion and siltation challenge the energy-food-water-environment nexus. This new tool for source apportionment offers wider application across complex environmental systems affected by natural and human-induced change and the lessons learned are relevant to source apportionment applications in other disciplines."
+  ],
+  "affiliation": [
+    "School of Geography, Earth and Environmental Sciences, University of Plymouth, Plymouth, UK. william.blake@plymouth.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Project ID 644320"
+          ],
+          "agency": [
+            "European Commission (EC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6117284?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6117284"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-30905-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-01"
+  ],
+  "dateOfRevision": [
+    "2018-09-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-30"
+  ],
+  "firstPublicationDate": [
+    "2018-08-30"
+  ]
+}

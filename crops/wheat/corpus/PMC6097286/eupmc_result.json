@@ -1,0 +1,839 @@
+{
+  "id": [
+    "30115097"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30115097"
+  ],
+  "pmcid": [
+    "PMC6097286"
+  ],
+  "doi": [
+    "10.1186/s13059-018-1477-2"
+  ],
+  "title": [
+    "Chromosome-scale comparative sequence analysis unravels molecular mechanisms of genome dynamics between two wheat cultivars."
+  ],
+  "authorString": [
+    "Thind AK, Wicker T, Müller T, Ackermann PM, Steuernagel B, Wulff BBH, Spannagl M, Twardziok SO, Felder M, Lux T, Mayer KFX, International Wheat Genome Sequencing Consortium, Keller B, Krattinger SG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thind AK"
+          ],
+          "firstName": [
+            "Anupriya Kaur"
+          ],
+          "lastName": [
+            "Thind"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5426-0500",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Wicker T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Wicker"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Müller T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Müller"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ackermann PM"
+          ],
+          "firstName": [
+            "Patrick M"
+          ],
+          "lastName": [
+            "Ackermann"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Steuernagel B"
+          ],
+          "firstName": [
+            "Burkhard"
+          ],
+          "lastName": [
+            "Steuernagel"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich Research Park, Norwich, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wulff BBH"
+          ],
+          "firstName": [
+            "Brande B H"
+          ],
+          "lastName": [
+            "Wulff"
+          ],
+          "initials": [
+            "BBH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4044-4346",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "John Innes Centre, Norwich Research Park, Norwich, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Spannagl M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Spannagl"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Twardziok SO"
+          ],
+          "firstName": [
+            "Sven O"
+          ],
+          "lastName": [
+            "Twardziok"
+          ],
+          "initials": [
+            "SO"
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Felder M"
+          ],
+          "firstName": [
+            "Marius"
+          ],
+          "lastName": [
+            "Felder"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lux T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Lux"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5543-1911",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Mayer KFX"
+          ],
+          "firstName": [
+            "Klaus F X"
+          ],
+          "lastName": [
+            "Mayer"
+          ],
+          "initials": [
+            "KFX"
+          ],
+          "affiliation": [
+            "Helmholtz Zentrum Munich, Munich, Germany."
+          ]
+        },
+        {
+          "collectiveName": [
+            "International Wheat Genome Sequencing Consortium"
+          ]
+        },
+        {
+          "fullName": [
+            "Keller B"
+          ],
+          "firstName": [
+            "Beat"
+          ],
+          "lastName": [
+            "Keller"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Krattinger SG"
+          ],
+          "firstName": [
+            "Simon G"
+          ],
+          "lastName": [
+            "Krattinger"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland. simon.krattinger@kaust.edu.sa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5426-0500",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4044-4346",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5543-1911",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2714861"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "104"
+  ],
+  "abstractText": [
+    "BACKGROUND:Recent improvements in DNA sequencing and genome scaffolding have paved the way to generate high-quality de novo assemblies of pseudomolecules representing complete chromosomes of wheat and its wild relatives. These assemblies form the basis to compare the dynamics of wheat genomes on a megabase scale. RESULTS:Here, we provide a comparative sequence analysis of the 700-megabase chromosome 2D between two bread wheat genotypes-the old landrace Chinese Spring and the elite Swiss spring wheat line 'CH Campala Lr22a'. Both chromosomes were assembled into megabase-sized scaffolds. There is a high degree of sequence conservation between the two chromosomes. Analysis of large structural variations reveals four large indels of more than 100 kb. Based on the molecular signatures at the breakpoints, unequal crossing over and double-strand break repair were identified as the molecular mechanisms that caused these indels. Three of the large indels affect copy number of NLRs, a gene family involved in plant immunity. Analysis of SNP density reveals four haploblocks of 4, 8, 9 and 48 Mb with a 35-fold increased SNP density compared to the rest of the chromosome. Gene content across the two chromosomes was highly conserved. Ninety-nine percent of the genic sequences were present in both genotypes and the fraction of unique genes ranged from 0.4 to 0.7%. CONCLUSIONS:This comparative analysis of two high-quality chromosome assemblies enabled a comprehensive assessment of large structural variations and gene content. The insight obtained from this analysis will form the basis of future wheat pan-genome studies."
+  ],
+  "affiliation": [
+    "Department of Plant and Microbial Biology, University of Zurich, Zollikerstrasse 107, Zurich, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Repair"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Deletion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crossing Over, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Pairing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synteny"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multigene Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Flow"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Breaks, Double-Stranded"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Copy Number Variations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wheat",
+        "Structural Variation",
+        "Genome Diversity",
+        "High-quality Assembly"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097286?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097286"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-018-1477-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR18976"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-08-18"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-17"
+  ],
+  "firstPublicationDate": [
+    "2018-08-17"
+  ]
+}

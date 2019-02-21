@@ -1,0 +1,335 @@
+{
+  "id": [
+    "29543736"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29543736"
+  ],
+  "pmcid": [
+    "PMC5877331"
+  ],
+  "doi": [
+    "10.3390/s18030868"
+  ],
+  "title": [
+    "New Spectral Index for Detecting Wheat Yellow Rust Using Sentinel-2 Multispectral Imagery."
+  ],
+  "authorString": [
+    "Zheng Q, Huang W, Cui X, Shi Y, Liu L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "College of Geoscience and Surveying Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China. zhengqiong@student.cumtb.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Wenjiang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100094, China. huangwj@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui X"
+          ],
+          "firstName": [
+            "Ximin"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Geoscience and Surveying Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China. cxm@cumtb.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8424-6996",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100094, China. shiyue@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu L"
+          ],
+          "firstName": [
+            "Linyi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Digital Earth Science, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100094, China. liuly35@radi.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8424-6996",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2656049"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Yellow rust is one of the most destructive diseases for winter wheat and has led to a significant decrease in winter wheat quality and yield. Identifying and monitoring yellow rust is of great importance for guiding agricultural production over large areas. Compared with traditional crop disease discrimination methods, remote sensing technology has proven to be a useful tool for accomplishing such a task at large scale. This study explores the potential of the Sentinel-2 Multispectral Instrument (MSI), a newly launched satellite with refined spatial resolution and three red-edge bands, for discriminating between yellow rust infection severities (i.e., healthy, slight, and severe) in winter wheat. The corresponding simulative multispectral bands for the Sentinel-2 sensor were calculated by the sensor's relative spectral response (RSR) function based on the in situ hyperspectral data acquired at the canopy level. Three Sentinel-2 spectral bands, including B4 (Red), B5 (Re1), and B7 (Re3), were found to be sensitive bands using the random forest (RF) method. A new multispectral index, the Red Edge Disease Stress Index (REDSI), which consists of these sensitive bands, was proposed to detect yellow rust infection at different severity levels. The overall identification accuracy for REDSI was 84.1% and the kappa coefficient was 0.76. Moreover, REDSI performed better than other commonly used disease spectral indexes for yellow rust discrimination at the canopy scale. The optimal threshold method was adopted for mapping yellow rust infection at regional scales based on realistic Sentinel-2 multispectral image data to further assess REDSI's ability for yellow rust detection. The overall accuracy was 85.2% and kappa coefficient was 0.67, which was found through validation against a set of field survey data. This study suggests that the Sentinel-2 MSI has the potential for yellow rust discrimination, and the newly proposed REDSI has great robustness and generalized ability for yellow rust detection at canopy and regional scales. Furthermore, our results suggest that the above remote sensing technology can be used to provide scientific guidance for monitoring and precise management of crop diseases and pests."
+  ],
+  "affiliation": [
+    "College of Geoscience and Surveying Engineering, China University of Mining and Technology (Beijing), Beijing 100083, China. zhengqiong@student.cumtb.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Winter wheat",
+        "Detection",
+        "Yellow rust",
+        "Sentinel-2 Msi",
+        "Red Edge Disease Stress Index (Redsi)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5877331?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5877331"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18030868"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-03-16"
+  ],
+  "dateOfCreation": [
+    "2018-03-16"
+  ],
+  "dateOfRevision": [
+    "2018-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-15"
+  ],
+  "firstPublicationDate": [
+    "2018-03-15"
+  ]
+}

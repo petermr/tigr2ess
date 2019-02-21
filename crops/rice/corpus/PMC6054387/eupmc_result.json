@@ -1,0 +1,436 @@
+{
+  "id": [
+    "30028886"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30028886"
+  ],
+  "pmcid": [
+    "PMC6054387"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0201181"
+  ],
+  "title": [
+    "Impact of residual covariance structures on genomic prediction ability in multi-environment trials."
+  ],
+  "authorString": [
+    "Mathew B, Léon J, Sillanpää MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mathew B"
+          ],
+          "firstName": [
+            "Boby"
+          ],
+          "lastName": [
+            "Mathew"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8841-6446",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Crop Science and Resource Conservation, University of Bonn, 53115 Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Léon J"
+          ],
+          "firstName": [
+            "Jens"
+          ],
+          "lastName": [
+            "Léon"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Crop Science and Resource Conservation, University of Bonn, 53115 Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sillanpää MJ"
+          ],
+          "firstName": [
+            "Mikko J"
+          ],
+          "lastName": [
+            "Sillanpää"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Mathematical Sciences and Biocenter Oulu, FIN-90014 Oulu, Finland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8841-6446",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2701609"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0201181"
+  ],
+  "abstractText": [
+    "In plant breeding, one of the main purpose of multi-environment trial (MET) is to assess the intensity of genotype-by-environment (G×E) interactions in order to select high-performing lines of each environment. Most models to analyze such MET data consider only the additive genetic effects and the part of the non-additive genetic effects are confounded with the residual terms and this may lead to the non-negligible residual covariances between the same trait measured at multiple environments. In breeding programs it is also common to have the phenotype information from some environments available and values are missing in some other environments. In this study we focused on two problems: (1) to study the impact of different residual covariance structures on genomic prediction ability using different models to analyze MET data; (2) to compare the ability of different MET analysis models to predict the missing values in a single environment. Our results suggests that, it is important to consider the heterogeneous residual covariance structure for the MET analysis and multivariate mixed model seems to be especially suitable to predict the missing values in a single environment. We also present the prediction abilities based on Bayesian and frequentist approaches with different models using field data sets (maize and rice) having different levels of G×E interactions."
+  ],
+  "affiliation": [
+    "Institute of Crop Science and Resource Conservation, University of Bonn, 53115 Bonn, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multivariate Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bayes Theorem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene-Environment Interaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Breeding"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6054387?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6054387"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0201181"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-22"
+  ],
+  "dateOfCreation": [
+    "2018-07-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-20"
+  ],
+  "firstPublicationDate": [
+    "2018-07-20"
+  ]
+}

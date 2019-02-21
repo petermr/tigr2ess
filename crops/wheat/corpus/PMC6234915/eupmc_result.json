@@ -1,0 +1,313 @@
+{
+  "id": [
+    "30464765"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30464765"
+  ],
+  "pmcid": [
+    "PMC6234915"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01519"
+  ],
+  "title": [
+    "Automated Alignment of Multi-Modal Plant Images Using Integrative Phase Correlation Approach."
+  ],
+  "authorString": [
+    "Henke M, Junker A, Neumann K, Altmann T, Gladilin E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Henke M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Henke"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Molecular Genetics, Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Junker A"
+          ],
+          "firstName": [
+            "Astrid"
+          ],
+          "lastName": [
+            "Junker"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Genetics, Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Neumann K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Neumann"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Molecular Genetics, Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Altmann T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Altmann"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Molecular Genetics, Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gladilin E"
+          ],
+          "firstName": [
+            "Evgeny"
+          ],
+          "lastName": [
+            "Gladilin"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Molecular Genetics, Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Plant Science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1519"
+  ],
+  "abstractText": [
+    "Modern facilities for high-throughput phenotyping provide plant scientists with a large amount of multi-modal image data. Combination of different image modalities is advantageous for image segmentation, quantitative trait derivation, and assessment of a more accurate and extended plant phenotype. However, visible light (VIS), fluorescence (FLU), and near-infrared (NIR) images taken with different cameras from different view points in different spatial resolutions exhibit not only relative geometrical transformations but also considerable structural differences that hamper a straightforward alignment and combined analysis of multi-modal image data. Conventional techniques of image registration are predominantly tailored to detection of relative geometrical transformations between two otherwise identical images, and become less accurate when applied to partially similar optical scenes. Here, we focus on a relatively new technical problem of FLU/VIS plant image registration. We present a framework for automated alignment of FLU/VIS plant images which is based on extension of the phase correlation (PC) approach - a frequency domain technique for image alignment, which relies on detection of a phase shift between two Fourier-space transforms. Primarily tailored to detection of affine image transformations between two structurally identical images, PC is known to be sensitive to structural image distortions. We investigate effects of image preprocessing and scaling on accuracy of image registration and suggest an integrative algorithmic scheme which allows to overcome shortcomings of conventional single-step PC by application to non-identical multi-modal images. Our experimental tests with FLU/VIS images of different plant species taken on different phenotyping facilities at different developmental stages, including difficult cases such as small plant shoots of non-specific shape and non-uniformly moving leaves, demonstrate improved performance of our extended PC approach within the scope of high-throughput plant phenotyping."
+  ],
+  "affiliation": [
+    "Molecular Genetics, Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Automated Image Analysis",
+        "Non-uniform Motion",
+        "Multi-modal Image Registration",
+        "High-throughput Plant Phenotyping",
+        "Fourier-mellin Phase Correlation",
+        "Affine Transformations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6234915?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6234915"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01519"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-23"
+  ],
+  "dateOfRevision": [
+    "2018-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-16"
+  ],
+  "firstPublicationDate": [
+    "2018-10-16"
+  ]
+}

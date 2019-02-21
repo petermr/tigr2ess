@@ -1,0 +1,382 @@
+{
+  "id": [
+    "30110979"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30110979"
+  ],
+  "pmcid": [
+    "PMC6112045"
+  ],
+  "doi": [
+    "10.3390/s18082675"
+  ],
+  "title": [
+    "Soil Moisture Retrieval from the Chinese GF-3 Satellite and Optical Data over Agricultural Fields."
+  ],
+  "authorString": [
+    "Zhang L, Meng Q, Yao S, Wang Q, Zeng J, Zhao S, Ma J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Linlin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5073-1694",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100101, China. zhangll@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Meng Q"
+          ],
+          "firstName": [
+            "Qingyan"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100101, China. mengqy@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao S"
+          ],
+          "firstName": [
+            "Shun"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "DFH Satellite Co., Ltd., Beijing 100094, China. sugeryao@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Q"
+          ],
+          "firstName": [
+            "Qiao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Satellite Environment Center, Ministry of Environmental Protection, Beijing 100094, China. wangqiao@mep.gov.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng J"
+          ],
+          "firstName": [
+            "Jiangyuan"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5039-6774",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100101, China. zengjy@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao S"
+          ],
+          "firstName": [
+            "Shaohua"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Satellite Environment Center, Ministry of Environmental Protection, Beijing 100094, China. zshyytt@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma J"
+          ],
+          "firstName": [
+            "Jianwei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "China Institute of Water Resources and Hydropower Research, Beijing 100038, China. majw@iwhr.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5073-1694",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5039-6774",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2712374"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Timely and accurate soil moisture information is of great importance in agricultural monitoring. The Gaofen-3 (GF-3) satellite, the first C-band multi-polarization synthetic-aperture radar (SAR) satellite in China, provides valuable data sources for soil moisture monitoring. In this study, a soil moisture retrieval algorithm was developed for the GF-3 satellite based on a backscattering coefficient simulation database. We adopted eight optical vegetation indices to determine the relationships between these indices and vegetation water content (VWC) by combining Landsat-8 data and field measurements. A backscattering coefficient database was built using an advanced integral equation model (AIEM). The effects of vegetation on backscattering coefficients were corrected using the water cloud model (WCM) to obtain the bare soil backscattering coefficient ( σ s o i l ° ). Then, soil moisture retrievals were obtained at HH, VV and HH+VV combination respectively by minimizing the observed bare soil backscattering coefficient ( σ s o i l ° ) and the AIEM-simulated backscattering coefficient ( σ soil-simu ° ). Finally, the proposed algorithm was validated in agriculture region of wheat and corn in China using ground soil moisture measurements. The results showed that the normalized difference infrared index (NDII) had the best fit with measured VWC values (R = 0.885) among the eight vegetation water indices; thus, it was adopted to correct the effects of vegetation. The proposed algorithm using GF-3 satellite data performed well in soil moisture retrieval, and the scheme combining HH and VV polarization exhibited the highest accuracy, with a root mean square error (RMSE) of 0.044 m³m-3, followed by HH polarization (RMSE = 0.049 m³m-3) and VV polarization (RMSE = 0.053 m³m-3). Therefore, the proposed algorithm has good potential to operationally estimate soil moisture from the new GF-3 satellite data."
+  ],
+  "affiliation": [
+    "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100101, China. zhangll@radi.ac.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Soil moisture",
+        "Gf-3 Satellite",
+        "Water Cloud Model",
+        "Simulation Database"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6112045?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6112045"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18082675"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-31"
+  ],
+  "dateOfCreation": [
+    "2018-08-17"
+  ],
+  "dateOfRevision": [
+    "2018-08-31"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-14"
+  ],
+  "firstPublicationDate": [
+    "2018-08-14"
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "id": [
+    "30532211"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30532211"
+  ],
+  "pmcid": [
+    "PMC6287833"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0208499"
+  ],
+  "title": [
+    "A data augmentation approach for a class of statistical inference problems."
+  ],
+  "authorString": [
+    "Carvajal R, Orellana R, Katselis D, Escárate P, Agüero JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carvajal R"
+          ],
+          "firstName": [
+            "Rodrigo"
+          ],
+          "lastName": [
+            "Carvajal"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3336-8683",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Electronics Engineering Department, Universidad Técnica Federico Santa María, Valparaíso, Chile."
+          ]
+        },
+        {
+          "fullName": [
+            "Orellana R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Orellana"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8632-5126",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Electronics Engineering Department, Universidad Técnica Federico Santa María, Valparaíso, Chile."
+          ]
+        },
+        {
+          "fullName": [
+            "Katselis D"
+          ],
+          "firstName": [
+            "Dimitrios"
+          ],
+          "lastName": [
+            "Katselis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Coordinated Science Laboratory and Information Trust Institute, University of Illinois, Urbana-Champaign, Illinois, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Escárate P"
+          ],
+          "firstName": [
+            "Pedro"
+          ],
+          "lastName": [
+            "Escárate"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6751-3842",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Large Binocular Telescope Observatory, Steward Observatory, University of Arizona, Tucson, AZ, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Agüero JC"
+          ],
+          "firstName": [
+            "Juan Carlos"
+          ],
+          "lastName": [
+            "Agüero"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Electronics Engineering Department, Universidad Técnica Federico Santa María, Valparaíso, Chile."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8632-5126",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3336-8683",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6751-3842",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2755928"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0208499"
+  ],
+  "abstractText": [
+    "We present an algorithm for a class of statistical inference problems. The main idea is to reformulate the inference problem as an optimization procedure, based on the generation of surrogate (auxiliary) functions. This approach is motivated by the MM algorithm, combined with the systematic and iterative structure of the Expectation-Maximization algorithm. The resulting algorithm can deal with hidden variables in Maximum Likelihood and Maximum a Posteriori estimation problems, Instrumental Variables, Regularized Optimization and Constrained Optimization problems. The advantage of the proposed algorithm is to provide a systematic procedure to build surrogate functions for a class of problems where hidden variables are usually involved. Numerical examples show the benefits of the proposed approach."
+  ],
+  "affiliation": [
+    "Electronics Engineering Department, Universidad Técnica Federico Santa María, Valparaíso, Chile."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6287833?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6287833"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0208499"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-10"
+  ]
+}

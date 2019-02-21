@@ -1,0 +1,315 @@
+{
+  "id": [
+    "30459822"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30459822"
+  ],
+  "pmcid": [
+    "PMC6236889"
+  ],
+  "doi": [
+    "10.1186/s13007-018-0366-8"
+  ],
+  "title": [
+    "Detection and analysis of wheat spikes using Convolutional Neural Networks."
+  ],
+  "authorString": [
+    "Hasan MM, Chopin JP, Laga H, Miklavcic SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hasan MM"
+          ],
+          "firstName": [
+            "Md Mehedi"
+          ],
+          "lastName": [
+            "Hasan"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4326-4332",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Phenomics and Bioinformatics Research Centre, University of South Australia, Mawson Lakes, Adelaide, 5095 Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chopin JP"
+          ],
+          "firstName": [
+            "Joshua P"
+          ],
+          "lastName": [
+            "Chopin"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "1Phenomics and Bioinformatics Research Centre, University of South Australia, Mawson Lakes, Adelaide, 5095 Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Laga H"
+          ],
+          "firstName": [
+            "Hamid"
+          ],
+          "lastName": [
+            "Laga"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "2School of Engineering and Information Technology, Murdoch University, Perth, Western Australia 6150 Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Miklavcic SJ"
+          ],
+          "firstName": [
+            "Stanley J"
+          ],
+          "lastName": [
+            "Miklavcic"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "1Phenomics and Bioinformatics Research Centre, University of South Australia, Mawson Lakes, Adelaide, 5095 Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4326-4332",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2639732"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant methods"
+          ],
+          "ISOAbbreviation": [
+            "Plant Methods"
+          ],
+          "medlineAbbreviation": [
+            "Plant Methods"
+          ],
+          "NLMid": [
+            "101245798"
+          ],
+          "ISSN": [
+            "1746-4811"
+          ],
+          "ESSN": [
+            "1746-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "100"
+  ],
+  "abstractText": [
+    "Background:Field phenotyping by remote sensing has received increased interest in recent years with the possibility of achieving high-throughput analysis of crop fields. Along with the various technological developments, the application of machine learning methods for image analysis has enhanced the potential for quantitative assessment of a multitude of crop traits. For wheat breeding purposes, assessing the production of wheat spikes, as the grain-bearing organ, is a useful proxy measure of grain production. Thus, being able to detect and characterize spikes from images of wheat fields is an essential component in a wheat breeding pipeline for the selection of high yielding varieties. Results:We have applied a deep learning approach to accurately detect, count and analyze wheat spikes for yield estimation. We have tested the approach on a set of images of wheat field trial comprising 10 varieties subjected to three fertilizer treatments. The images have been captured over one season, using high definition RGB cameras mounted on a land-based imaging platform, and viewing the wheat plots from an oblique angle. A subset of in-field images has been accurately labeled by manually annotating all the spike regions. This annotated dataset, called SPIKE, is then used to train four region-based Convolutional Neural Networks (R-CNN) which take, as input, images of wheat plots, and accurately detect and count spike regions in each plot. The CNNs also output the spike density and a classification probability for each plot. Using the same R-CNN architecture, four different models were generated based on four different datasets of training and testing images captured at various growth stages. Despite the challenging field imaging conditions, e.g., variable illumination conditions, high spike occlusion, and complex background, the four R-CNN models achieve an average detection accuracy ranging from 88 to 94% across different sets of test images. The most robust R-CNN model, which achieved the highest accuracy, is then selected to study the variation in spike production over 10 wheat varieties and three treatments. The SPIKE dataset and the trained CNN are the main contributions of this paper. Conclusion:With the availability of good training datasets such us the SPIKE dataset proposed in this article, deep learning techniques can achieve high accuracy in detecting and counting spikes from complex wheat field images. The proposed robust R-CNN model, which has been trained on spike images captured during different growth stages, is optimized for application to a wider variety of field scenarios. It accurately quantifies the differences in yield produced by the 10 varieties we have studied, and their respective responses to fertilizer treatment. We have also observed that the other R-CNN models exhibit more specialized performances. The data set and the R-CNN model, which we make publicly available, have the potential to greatly benefit plant breeders by facilitating the high throughput selection of high yielding varieties."
+  ],
+  "affiliation": [
+    "1Phenomics and Bioinformatics Research Centre, University of South Australia, Mawson Lakes, Adelaide, 5095 Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Statistical analysis",
+        "Spike Detection",
+        "Deep Learning",
+        "Plant Phenotyping",
+        "Field Imaging"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6236889?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6236889"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13007-018-0366-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2018-11-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-15"
+  ],
+  "firstPublicationDate": [
+    "2018-11-15"
+  ]
+}

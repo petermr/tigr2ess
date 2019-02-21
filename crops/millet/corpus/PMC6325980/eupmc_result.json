@@ -1,0 +1,332 @@
+{
+  "id": [
+    "30219957"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30219957"
+  ],
+  "pmcid": [
+    "PMC6325980"
+  ],
+  "doi": [
+    "10.1007/s10654-018-0442-4"
+  ],
+  "title": [
+    "Approach to record linkage of primary care data from Clinical Practice Research Datalink to other health-related patient data: overview and implications."
+  ],
+  "authorString": [
+    "Padmanabhan S, Carty L, Cameron E, Ghosh RE, Williams R, Strongman H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Padmanabhan S"
+          ],
+          "firstName": [
+            "Shivani"
+          ],
+          "lastName": [
+            "Padmanabhan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Clinical Practice Research Datalink (CPRD), MHRA, 10 South Colonnade, Canary Wharf, London, E14 4PU, UK. Shivani.padmanabhan@mhra.gov.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Carty L"
+          ],
+          "firstName": [
+            "Lucy"
+          ],
+          "lastName": [
+            "Carty"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Clinical Practice Research Datalink (CPRD), MHRA, 10 South Colonnade, Canary Wharf, London, E14 4PU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Cameron E"
+          ],
+          "firstName": [
+            "Ellen"
+          ],
+          "lastName": [
+            "Cameron"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "NHS Digital, 1 Trevelyan Square, Boar Lane, Leeds, LS1 6AE, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghosh RE"
+          ],
+          "firstName": [
+            "Rebecca E"
+          ],
+          "lastName": [
+            "Ghosh"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Clinical Practice Research Datalink (CPRD), MHRA, 10 South Colonnade, Canary Wharf, London, E14 4PU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams R"
+          ],
+          "firstName": [
+            "Rachael"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Clinical Practice Research Datalink (CPRD), MHRA, 10 South Colonnade, Canary Wharf, London, E14 4PU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Strongman H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "Strongman"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Clinical Practice Research Datalink (CPRD), MHRA, 10 South Colonnade, Canary Wharf, London, E14 4PU, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "34"
+      ],
+      "journalIssueId": [
+        "2769560"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of epidemiology"
+          ],
+          "ISOAbbreviation": [
+            "Eur. J. Epidemiol."
+          ],
+          "medlineAbbreviation": [
+            "Eur J Epidemiol"
+          ],
+          "NLMid": [
+            "8508062"
+          ],
+          "ISSN": [
+            "0393-2990"
+          ],
+          "ESSN": [
+            "1573-7284"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "91-99"
+  ],
+  "abstractText": [
+    "Record linkage is increasingly used to expand the information available for public health research. An understanding of record linkage methods and the relevant strengths and limitations is important for robust analysis and interpretation of linked data. Here, we describe the approach used by Clinical Practice Research Datalink (CPRD) to link primary care data to other patient level datasets, and the potential implications of this approach for CPRD data analysis. General practice electronic health record software providers separately submit de-identified data to CPRD and patient identifiers to NHS Digital, excluding patients who have opted-out from contributing data. Data custodians for external datasets also send patient identifiers to NHS Digital. NHS Digital uses identifiers to link the datasets using an 8-stage deterministic methodology. CPRD subsequently receives a de-identified linked cohort file and provides researchers with anonymised linked data and metadata detailing the linkage process. This methodology has been used to generate routine primary care linked datasets, including data from Hospital Episode Statistics, Office for National Statistics and National Cancer Registration and Analysis Service. 10.6 million (M) patients from 411 English general practices were included in record linkage in June 2018. 9.1M (86%) patients were of research quality, of which 8.0M (88%) had a valid NHS number and were eligible for linkage in the CPRD standard linked dataset release. Linking CPRD data to other sources improves the range and validity of research studies. This manuscript, together with metadata generated on match strength and linkage eligibility, can be used to inform study design and explore potential linkage-related selection and misclassification biases."
+  ],
+  "affiliation": [
+    "Clinical Practice Research Datalink (CPRD), MHRA, 10 South Colonnade, Canary Wharf, London, E14 4PU, UK. Shivani.padmanabhan@mhra.gov.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electronic Health Records",
+        "Record Linkage",
+        "Primary Care Data",
+        "Clinical Practice Research Datalink",
+        "Deterministic Linkage"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325980?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325980"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10654-018-0442-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-17"
+  ],
+  "dateOfRevision": [
+    "2019-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-15"
+  ],
+  "firstPublicationDate": [
+    "2018-09-15"
+  ]
+}

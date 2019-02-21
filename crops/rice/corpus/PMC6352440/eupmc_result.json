@@ -1,0 +1,364 @@
+{
+  "id": [
+    "30728857"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30728857"
+  ],
+  "pmcid": [
+    "PMC6352440"
+  ],
+  "doi": [
+    "10.1186/s13040-019-0193-0"
+  ],
+  "title": [
+    "Predicting opioid dependence from electronic health records with machine learning."
+  ],
+  "authorString": [
+    "Ellis RJ, Wang Z, Genes N, Ma'ayan A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ellis RJ"
+          ],
+          "firstName": [
+            "Randall J"
+          ],
+          "lastName": [
+            "Ellis"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "1Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai, New York, NY 10029 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zichen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "1Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai, New York, NY 10029 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Genes N"
+          ],
+          "firstName": [
+            "Nicholas"
+          ],
+          "lastName": [
+            "Genes"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "2Department of Emergency Medicine, Mount Sinai Hospital, New York, NY 10029 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma'ayan A"
+          ],
+          "firstName": [
+            "Avi"
+          ],
+          "lastName": [
+            "Ma'ayan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6904-1017",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai, New York, NY 10029 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6904-1017",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2769879"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioData mining"
+          ],
+          "ISOAbbreviation": [
+            "BioData Min"
+          ],
+          "medlineAbbreviation": [
+            "BioData Min"
+          ],
+          "NLMid": [
+            "101319161"
+          ],
+          "ISSN": [
+            "1756-0381"
+          ],
+          "ESSN": [
+            "1756-0381"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "Background:The opioid epidemic in the United States is averaging over 100 deaths per day due to overdose. The effectiveness of opioids as pain treatments, and the drug-seeking behavior of opioid addicts, leads physicians in the United States to issue over 200 million opioid prescriptions every year. To better understand the biomedical profile of opioid-dependent patients, we analyzed information from electronic health records (EHR) including lab tests, vital signs, medical procedures, prescriptions, and other data from millions of patients to predict opioid substance dependence. Results:We trained a machine learning model to classify patients by likelihood of having a diagnosis of substance dependence using EHR data from patients diagnosed with substance dependence, along with control patients with no history of substance-related conditions, matched by age, gender, and status of HIV, hepatitis C, and sickle cell disease. The top machine learning classifier using all features achieved a mean area under the receiver operating characteristic (AUROC) curve of ~ 92%, and analysis of the model uncovered associations between basic clinical factors and substance dependence. Additionally, diagnoses, prescriptions, and procedures prior to the diagnoses of substance dependence were analyzed to elucidate the clinical profile of substance-dependent patients, relative to controls. Conclusions:The predictive model may hold utility for identifying patients at risk of developing dependence, risk of overdose, and opioid-seeking patients that report other symptoms in their visits to the emergency room."
+  ],
+  "affiliation": [
+    "1Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, Icahn School of Medicine at Mount Sinai, New York, NY 10029 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "OT3 OD025467"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HL127624"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 CA224260"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Artificial intelligence",
+        "Machine Learning",
+        "Electronic Health Records",
+        "Electronic Medical Records",
+        "Opioid Dependence",
+        "Opioid Epidemic"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6352440?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6352440"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13040-019-0193-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-08"
+  ],
+  "dateOfRevision": [
+    "2019-02-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

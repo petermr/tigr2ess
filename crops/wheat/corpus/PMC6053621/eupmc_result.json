@@ -1,0 +1,329 @@
+{
+  "id": [
+    "30057587"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30057587"
+  ],
+  "pmcid": [
+    "PMC6053621"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01024"
+  ],
+  "title": [
+    "Wheat Ears Counting in Field Conditions Based on Multi-Feature Optimization and TWSVM."
+  ],
+  "authorString": [
+    "Zhou C, Liang D, Yang X, Yang H, Yue J, Yang G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou C"
+          ],
+          "firstName": [
+            "Chengquan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Electronics and Information Engineering, Anhui University, Hefei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "School of Electronics and Information Engineering, Anhui University, Hefei, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiaodong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Quantitative Remote Sensing in Agriculture of Ministry of Agriculture P. R. China, Beijing Research Center for Information Technology in Agriculture, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Quantitative Remote Sensing in Agriculture of Ministry of Agriculture P. R. China, Beijing Research Center for Information Technology in Agriculture, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yue J"
+          ],
+          "firstName": [
+            "Jibo"
+          ],
+          "lastName": [
+            "Yue"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Quantitative Remote Sensing in Agriculture of Ministry of Agriculture P. R. China, Beijing Research Center for Information Technology in Agriculture, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang G"
+          ],
+          "firstName": [
+            "Guijun"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Key Laboratory of Quantitative Remote Sensing in Agriculture of Ministry of Agriculture P. R. China, Beijing Research Center for Information Technology in Agriculture, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1024"
+  ],
+  "abstractText": [
+    "The number of wheat ears in the field is very important data for predicting crop growth and estimating crop yield and as such is receiving ever-increasing research attention. To obtain such data, we propose a novel algorithm that uses computer vision to accurately recognize wheat ears in a digital image. First, red-green-blue images acquired by a manned ground vehicle are selected based on light intensity to ensure that this method is robust with respect to light intensity. Next, the selected images are cut to ensure that the target can be identified in the remaining parts. The simple linear iterative clustering method, which is based on superpixel theory, is then used to generate a patch from the selected images. After manually labeling each patch, they are divided into two categories: wheat ears and background. The color feature \"Color Coherence Vectors,\" the texture feature \"Gray Level Co-Occurrence Matrix,\" and a special image feature \"Edge Histogram Descriptor\" are then exacted from these patches to generate a high-dimensional matrix called the \"feature matrix.\" Because each feature plays a different role in the classification process, a feature-weighting fusion based on kernel principal component analysis is used to redistribute the feature weights. Finally, a twin-support-vector-machine segmentation (TWSVM-Seg) model is trained to understand the differences between the two types of patches through the features, and the TWSVM-Seg model finally achieves the correct classification of each pixel from the testing sample and outputs the results in the form of binary image. This process thus segments the image. Next, we use a statistical function in Matlab to get the exact a precise number of ears. To verify these statistical numerical results, we compare them with field measurements of the wheat plots. The result of applying the proposed algorithm to ground-shooting image data sets correlates strongly (with a precision of 0.79-0.82) with the data obtained by manual counting. An average running time of 0.1 s is required to successfully extract the correct number of ears from the background, which shows that the proposed algorithm is computationally efficient. These results indicate that the proposed method provides accurate phenotypic data on wheat seedlings."
+  ],
+  "affiliation": [
+    "School of Electronics and Information Engineering, Anhui University, Hefei, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yield estimation",
+        "Superpixel Theory",
+        "Multi-feature Optimization",
+        "Support-vector-machine Segmentation",
+        "Wheat Ear Counting"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6053621?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6053621"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01024"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-31"
+  ],
+  "dateOfRevision": [
+    "2018-08-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-13"
+  ],
+  "firstPublicationDate": [
+    "2018-07-13"
+  ]
+}

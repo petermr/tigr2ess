@@ -1,0 +1,540 @@
+{
+  "id": [
+    "29738543"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29738543"
+  ],
+  "pmcid": [
+    "PMC5940215"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0196629"
+  ],
+  "title": [
+    "Analysis of air pollution over Hanoi, Vietnam using multi-satellite and MERRA reanalysis datasets."
+  ],
+  "authorString": [
+    "Lasko K, Vadrevu KP, Nguyen TTN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lasko K"
+          ],
+          "firstName": [
+            "Kristofer"
+          ],
+          "lastName": [
+            "Lasko"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8980-8943",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Geographical Sciences, University of Maryland, College Park, Maryland, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Vadrevu KP"
+          ],
+          "firstName": [
+            "Krishna Prasad"
+          ],
+          "lastName": [
+            "Vadrevu"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "affiliation": [
+            "Earth Science Office, NASA Marshall Space Flight Center, Huntsville, Alabama, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Nguyen TTN"
+          ],
+          "firstName": [
+            "Thanh Thi Nhat"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "TTN"
+          ],
+          "affiliation": [
+            "University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8980-8943",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2678126"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0196629"
+  ],
+  "abstractText": [
+    "Air pollution is one of the major environmental concerns in Vietnam. In this study, we assess the current status of air pollution over Hanoi, Vietnam using multiple different satellite datasets and weather information, and assess the potential to capture rice residue burning emissions with satellite data in a cloud-covered region. We used a timeseries of Ozone Monitoring Instrument (OMI) Ultraviolet Aerosol Index (UVAI) satellite data to characterize absorbing aerosols related to biomass burning. We also tested a timeseries of 3-hourly MERRA-2 reanalysis Black Carbon (BC) concentration data for 5 years from 2012-2016 and explored pollution trends over time. We then used MODIS active fires, and synoptic wind patterns to attribute variability in Hanoi pollution to different sources. Because Hanoi is within the Red River Delta where rice residue burning is prominent, we explored trends to see if the residue burning signal is evident in the UVAI or BC data. Further, as the region experiences monsoon-influenced rainfall patterns, we adjusted the BC data based on daily rainfall amounts. Results indicated forest biomass burning from Northwest Vietnam and Laos impacts Hanoi air quality during the peak UVAI months of March and April. Whereas, during local rice residue burning months of June and October, no increase in UVAI is observed, with slight BC increase in October only. During the peak BC months of December and January, wind patterns indicated pollutant transport from southern China megacity areas. Results also indicated severe pollution episodes during December 2013 and January 2014. We observed significantly higher BC concentrations during nighttime than daytime with peaks generally between 2130 and 0030 local time. Our results highlight the need for better air pollution monitoring systems to capture episodic pollution events and their surface-level impacts, such as rice residue burning in cloud-prone regions in general and Hanoi, Vietnam in particular."
+  ],
+  "affiliation": [
+    "Department of Geographical Sciences, University of Maryland, College Park, Maryland, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbon"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ozone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aerosols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cities"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomass"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rain"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ultraviolet Rays"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seasons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Air Pollution"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Spacecraft"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vietnam"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Forests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Datasets as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Carbon"
+          ],
+          "registryNumber": [
+            "7440-44-0"
+          ]
+        },
+        {
+          "name": [
+            "Aerosols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ozone"
+          ],
+          "registryNumber": [
+            "66H7ZZK23N"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5940215?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5940215"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0196629"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-06"
+  ],
+  "dateOfCreation": [
+    "2018-05-09"
+  ],
+  "dateOfRevision": [
+    "2018-08-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-08"
+  ],
+  "firstPublicationDate": [
+    "2018-05-08"
+  ]
+}

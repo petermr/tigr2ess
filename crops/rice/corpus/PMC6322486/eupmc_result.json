@@ -1,0 +1,390 @@
+{
+  "id": [
+    "30631651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30631651"
+  ],
+  "pmcid": [
+    "PMC6322486"
+  ],
+  "doi": [
+    "10.7717/peerj.6160"
+  ],
+  "title": [
+    "Identifying accurate metagenome and amplicon software via a meta-analysis of sequence to taxonomy benchmarking studies."
+  ],
+  "authorString": [
+    "Gardner PP, Watson RJ, Morgan XC, Draper JL, Finn RD, Morales SE, Stott MB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gardner PP"
+          ],
+          "firstName": [
+            "Paul P"
+          ],
+          "lastName": [
+            "Gardner"
+          ],
+          "initials": [
+            "PP"
+          ],
+          "affiliation": [
+            "Biomolecular Interactions Centre, School of Biological Sciences, University of Canterbury, Christchurch, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Watson RJ"
+          ],
+          "firstName": [
+            "Renee J"
+          ],
+          "lastName": [
+            "Watson"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Biomolecular Interactions Centre, School of Biological Sciences, University of Canterbury, Christchurch, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Morgan XC"
+          ],
+          "firstName": [
+            "Xochitl C"
+          ],
+          "lastName": [
+            "Morgan"
+          ],
+          "initials": [
+            "XC"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Draper JL"
+          ],
+          "firstName": [
+            "Jenny L"
+          ],
+          "lastName": [
+            "Draper"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Institute of Environmental Science and Research, Porirua, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Finn RD"
+          ],
+          "firstName": [
+            "Robert D"
+          ],
+          "lastName": [
+            "Finn"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8626-2148",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Morales SE"
+          ],
+          "firstName": [
+            "Sergio E"
+          ],
+          "lastName": [
+            "Morales"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology, University of Otago, Dunedin, New Zealand."
+          ]
+        },
+        {
+          "fullName": [
+            "Stott MB"
+          ],
+          "firstName": [
+            "Matthew B"
+          ],
+          "lastName": [
+            "Stott"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "Biomolecular Interactions Centre, School of Biological Sciences, University of Canterbury, Christchurch, New Zealand."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8626-2148",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2769901"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e6160"
+  ],
+  "abstractText": [
+    "Metagenomic and meta-barcode DNA sequencing has rapidly become a widely-used technique for investigating a range of questions, particularly related to health and environmental monitoring. There has also been a proliferation of bioinformatic tools for analysing metagenomic and amplicon datasets, which makes selecting adequate tools a significant challenge. A number of benchmark studies have been undertaken; however, these can present conflicting results. In order to address this issue we have applied a robust Z-score ranking procedure and a network meta-analysis method to identify software tools that are consistently accurate for mapping DNA sequences to taxonomic hierarchies. Based upon these results we have identified some tools and computational strategies that produce robust predictions."
+  ],
+  "affiliation": [
+    "Biomolecular Interactions Centre, School of Biological Sciences, University of Canterbury, Christchurch, New Zealand."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioinformatics",
+        "Metagenomics",
+        "Benchmark",
+        "Edna",
+        "Metabarcoding",
+        "Metabenchmark"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6322486?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6322486"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.6160"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR24549"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-12"
+  ],
+  "dateOfRevision": [
+    "2019-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-04"
+  ],
+  "firstPublicationDate": [
+    "2019-01-04"
+  ]
+}

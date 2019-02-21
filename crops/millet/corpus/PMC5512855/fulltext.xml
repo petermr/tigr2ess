@@ -1,0 +1,180 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20050630//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bioinformation</journal-id><journal-id journal-id-type="iso-abbrev">Bioinformation</journal-id><journal-id journal-id-type="publisher-id">Bioinformation</journal-id><journal-title-group><journal-title>Bioinformation</journal-title></journal-title-group><issn pub-type="epub">0973-2063</issn><publisher><publisher-name>Biomedical Informatics</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5512855</article-id><article-id pub-id-type="publisher-id">97320630013179</article-id><article-id pub-id-type="doi">10.6026/97320630013179</article-id><article-categories><subj-group subj-group-type="heading"><subject>Hypothesis</subject></subj-group></article-categories><title-group><article-title>Transcriptome wide identification and characterization of starch branching enzyme in finger millet</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Tyagi</surname><given-names>Rajhans</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="COR1">*</xref></contrib><contrib contrib-type="author"><name><surname>Tiwari</surname><given-names>Apoorv</given-names></name><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name><surname>Garg</surname><given-names>Vijay Kumar</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Gupta</surname><given-names>Sanjay</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><aff id="A1"><label>1</label>Uttarakhand Technical University, Dehradun, Uttarakhand, 248007, India</aff><aff id="A2"><label>2</label>Sam Higginbottom University of Agriculture, Technology And Sciences (SHUATS), Allahabad, 211007, India</aff><aff id="A3"><label>3</label>Dept of Molecular Biology and Genetic Engineering, G.B. Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India</aff></contrib-group><author-notes><corresp id="COR1"><label>*</label>Rajhans Tyagi<email>rajhans.gaheli@gmail.com</email></corresp></author-notes><pub-date pub-type="collection"><year>2017</year></pub-date><pub-date pub-type="epub"><day>30</day><month>6</month><year>2017</year></pub-date><volume>13</volume><issue>6</issue><fpage>179</fpage><lpage>184</lpage><history><date date-type="received"><day>10</day><month>4</month><year>2017</year></date><date date-type="accepted"><day>2</day><month>6</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 Biomedical Informatics</copyright-statement><copyright-year>2017</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>This is an Open Access article which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the original work is properly credited. This is distributed under the terms of the Creative Commons Attribution License.</license-p></license></permissions><abstract><p>Starch-branching enzymes (SBEs) are one of the four major enzyme classes involved in starch biosynthesis in plants and play an
+important role in determining the structure and physical properties of starch granules. Multiple SBEs are involved in starch
+biosynthesis in plants. Finger millet is calcium rich important serial crop belongs to grass family and the transcriptome data of
+developing spikes is available on NCBI. In this study it was try to find out the gene sequence of starch branching enzyme and annotate
+the sequence and submit the sequence for further use. Rice SBE sequence was taken as reference and for characterization of the
+sequence different in silico tools were used. Four domains were found in the finger millet Starch branching enzyme like alpha amylase
+catalytic domain from 925 to2172 with E value 0, N-terminal Early set domain from 634 to 915 with E value 1.62 e-42, Alpha amylase,
+C-terminal all-beta domain from 2224 to 2511 with E value 5.80e-24 and 1,4-alpha-glucan-branching enzyme from 421 to 2517 with E
+value 0. Major binding interactions with the GLC (alpha-d-glucose), CA (calcium ion), GOL (glycerol), TRS (2-amino-2-hydroxymethylpropane-
+1, 3-diol), MG (magnesium ion) and FLC (citrate anion) are fond with different residues. It was found in the phylogenetic
+study of the finger millet SBE with the 6 species of grass family that two clusters were form A and B. In cluster A, finger millet showed
+closeness with Oryzasativa and Setariaitalica, Sorghum bicolour and Zea mays while cluster B was formed with Triticumaestivum and
+Brachypodium distachyon. The nucleotide sequence of Finger millet SBE was submitted to NCBI with the accession no KY648913 and
+protein structure of SBE of finger millet was also submitted in PMDB with the PMDB id - PM0080938. This research presents a
+comparative overview of Finger millet SBE and includes their properties, structural and functional characteristics, and recent
+developments on their post-translational regulation.</p></abstract><kwd-group><kwd>Finger millet</kwd><kwd>CDS</kwd><kwd>SBE</kwd><kwd>Domain</kwd><kwd>PMDB</kwd><kwd>NCBI</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>Background</title><p>A cereal is a grass, a member of the monocot family poaceae also
+known as gramineae, which usually have long, thin stalks, such
+as wheat, rice, maize, sorghum, millet, barley and rye, whose
+starchy grains are used as food. The term cereal is not limited to
+these grains, but, also refers to foodstuff prepared from the
+starchy grains of cereal like flours, breads and pasta [<xref rid="R09" ref-type="bibr">9</xref>]. All
+cereals are annual plants and consequently, one planting yields
+one harvest. The demands on climate, however, are different.
+Warm-season cereals (corn, rice, sorghum, millet) are grown in
+tropical lowlands throughout the year and in temperate climates
+during the frost- free season. Rice is mainly grown in flooded
+fields, and sorghum and millet are adapted to arid conditions.
+Cool-season cereals (wheat, rye, barley, and oats) grow best in a
+moderate climate. Finger millet is considered to be a boon for
+diabetes patients and obese people, as the digestion of finger
+Millet takes place at a slow pace and hence, glucose is released
+slowly into the blood [<xref rid="R02" ref-type="bibr">2</xref>]. Starch-branching enzymes (SBEs) are
+one of the four major enzyme classes involved in starch
+biosynthesis in plants [<xref rid="R04" ref-type="bibr">4</xref>]. Starch is the important molecule for
+plant development and reproduction. Re-structuring of starch
+granules in-planta can affect plant metabolism and by the
+research it was proved that the starch branching enzymes play an
+important role in the Re-structuring of starch granules [<xref rid="R10" ref-type="bibr">10</xref>].
+Starch can define as a complex branched glucose polymer and the
+branch molecular weight distribution powerup the nutritionally 
+important properties such as digestion rate, etc [<xref rid="R06" ref-type="bibr">6</xref>]. By different
+studies it was also found that different branching enzyme
+isoforms contribute separately to the synthesis and final structure
+of amylopectin [<xref rid="R12" ref-type="bibr">12</xref>]. One research describe that the
+comprehensive in vitro studie revealed different enzymatic
+characteristics of the BE isozymes and observed the important
+roles of BE isozymes in amylopectin biosynthesis in the
+endosperm [<xref rid="R08" ref-type="bibr">8</xref>]. In rice and other related plants of grass family
+like Oryzasativa and Setariaitalica, Sorghum bicolour and Zea mays
+while cluster B was formed with Triticumaestivum and
+Brachypodiumdistachyon the sequence of starch branching enzyme
+is known but in finger millet the nucleotide sequence of the
+Starch branching enzyme is not yet known. Availability of the
+transcriptome data of developing spikes of finger millet provide
+an opportunity to predict the gene sequence of important traits of
+nutritional point view. Hence an effort is made for the prediction
+of an important enzyme i.e. starch branching enzyme in the
+finger millet and submit the genomic as well as proteomic
+information for further scientific and research interventions.</p></sec><sec sec-type="methods" id="s2"><title>Methodology</title><sec id="s2a"><title>Sequence Retrieval</title><p>The sequence of Starch branching enzyme of finger millet was
+retrieved by the blast analysis of homologous sequence of rice
+obtained from NCBI. Local BLAST [<xref rid="R01" ref-type="bibr">1</xref>] was used to retrieve the
+sequence of Starch branching enzyme of finger millet from the
+transcriptome data of finger millet of developing spikes.</p></sec><sec id="s2b"><title>ORF Prediction</title><p>The open reading frame analysis of starch branching enzyme was
+completed using ORF prediction tool at NCBI
+(https://www.ncbi. nlm.nih.gov/orffinder) [<xref rid="R13" ref-type="bibr">13</xref>]. The minimal
+ORF length in nucleotide was set to 75 and ATG codon was used
+as start codon for the ORF translation.</p></sec><sec id="s2c"><title>Domain Analysis</title><p>After prediction of ORF we had gone prediction of domain in the
+coding region of starch branching enzyme (homologous to rice).
+CD-Search tool of NCBI [<xref rid="R07" ref-type="bibr">7</xref>] was used for the prediction of
+domain in the cds sequence of finger millet. The search database
+CDD V3.15-48963 PSSMs was used at the expect value
+0.010000(https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.
+cgi).</p></sec><sec id="s2d"><title>Phylogenetic analysis</title><p>Phylogenetic analysis of the starch branching enzyme of finger
+millet was done by the two ways. In the first way the
+phylogenetic study was done on the basis of blast result of NCBI,
+total hit sequences were taken for the multiple sequence
+alignment and then gone for phylogenetic analysis by the
+neighbour joining method using MEGA6 tool [<xref rid="R13" ref-type="bibr">13</xref>]. In other hand
+the phylogenetic was done only the species of grass family
+including Setariaitalica, Triticumaestivum, Sorghum bicolour,
+Brachypodiumdistachyon, Zea mays, Oryzasativa and finger
+millet.</p></sec><sec id="s2e"><title>Structure Analysis</title><p>The protein sequence of the coding sequence of starch branching
+was used for the tertiary structure prediction. RaptorX structure
+prediction server [<xref rid="R05" ref-type="bibr">5</xref>] was used for prediction of tertiary structure
+of the finger millet starch branching
+enzyme.(http://raptorx.uchicago.edu/StructurePrediction/predi
+ct/).</p></sec><sec id="s2f"><title>Model-assisted Protein Binding Site Prediction</title><p>RaptorX server was used for prediction of binding site in the
+protein structure of the starch synthase enzyme of finger millet.
+(http://raptorx.uchicago.edu/BindingSite/) [<xref rid="R13" ref-type="bibr">13</xref>].</p></sec><sec id="s2g"><title>Sequence and structure submission</title><p>NCBI Bankit server was used for submission of nucleotide
+sequence as protein sequence of starch branching enzyme of
+finger millet. While in other hand for submission of protein
+structure of the starch branching enzyme the PMID Protein
+Model DataBase, which collects three dimensional protein
+models obtained by structure prediction methods.</p></sec></sec><sec id="s3"><title>Results and Discussion</title><sec id="s3a"><title>ORF Prediction</title><p>The ORF prediction tool in the SBE of finger millet found total 32
+ORFs and ORF 3 was selected because it is the longest orf with
+the 2530 nucleotide long and 839 amino acid residues in protein
+sequence (<xref ref-type="fig" rid="F1">Figure 1</xref>).</p></sec><sec id="s3b"><title>Domain Analysis</title><p>Total four domains were found in the coding sequence of starch
+branching enzyme of finger millet. AmyAc_baceuk_BE (Alpha
+amylase catalytic domain) from 925 to2172 with E value 0,
+E_set_GBE_EUK_N (N-terminal Early set domain) from 634 to
+915 with E value 1.62e-42, Alpha-amylase_C (Alpha amylase, Cterminal
+all-beta domain) from 2224 to 2511 with E value 5.80e-24
+and PLN02447 (1,4-alpha-glucan-branching enzyme) from 421 to
+2517 with E value 0. (<xref ref-type="fig" rid="F2">Figure 2</xref>)</p><p>Alpha amylase catalytic domain [which have specific hit (evalue
+= 0e+00)] found in eukaryotic branching enzymes which catalyze
+the formation of alpha-1, 6 branch points in either glycogen or
+starch by cleavage of the alpha-1, 4 glucosidic linkage yielding a
+non-reducing end oligosaccharide chain, and subsequent
+attachment to the alpha-1, 6 position.</p><p>N-terminal Early set domain associated with the catalytic domain
+of eukaryotic glycogen branching enzyme (also called 1,4 alpha
+glucan branching enzyme); This subfamily is composed of
+predominantly eukaryotic 1,4 alpha glucan branching enzymes,
+also called glycogen branching enzymes or starch binding
+enzymes in plants. E or "early" set domains are associated with
+the catalytic domain of the 1,4 alpha glucan branching enzymes
+at the N-terminal end. These enzymes catalyze the formation of
+alpha-1, 6 branch points in either glycogen or starch by cleavage
+of the alpha-1,4 glucosidic linkage, yielding a non-reducing end
+oligosaccharide chain, as well as the subsequent attachment of
+short glucosyl chains to the alpha-1,6 position. Starch is 
+composed of two types of glucan polymer: amylose and amylopectin.</p><p>Alpha amylase, C-terminal all-beta domain; Alpha amylase is
+classified as family 13 of the glycosyl hydrolases. The structure is
+an 8 stranded alpha/beta barrel containing the active site,
+interrupted by a &#x0223c;70 a.a. calcium-binding domain protruding
+between beta strand 3 and alpha helix 3, and a carboxyl-terminal
+Greek key beta-barrel domain.</p></sec><sec id="s3c"><title>Phylogenetic analysis</title><p>The evolutionary history was inferred using the Neighbor-
+Joining method. The percentage of replicate trees in which the
+associated taxa clustered together in the bootstrap test (1000
+replicates). The tree is drawn to scale, with branch lengths in the
+same units as those of the evolutionary distances used to infer the
+phylogenetic tree. The evolutionary distances were computed
+using the Maximum Composite Likelihood method and are in the
+units of the number of base substitutions per site. The analysis
+involved 99 nucleotide sequences, codon positions included were
+1st+2nd+3rd+Noncoding. All ambiguous positions were
+removed for each sequence pair. There were a total of 2544
+positions in the final dataset. Evolutionary analyses were
+conducted in MEGA6. (<xref ref-type="fig" rid="F3">Figure 3</xref>) when we use the 99 nucleotide
+sequences then we found that different clusters were formed
+according to their sequence level similarity and a big tree was
+generated but we collapse the branches which were far away
+from the finger millet as shown in the below figure in one cluster
+57 and in other 7 sequences were collapsed. To understand the
+clear phylogenetic relationship with the species of grass family,
+another tree was constructed as shown in <xref ref-type="fig" rid="F4">Figure 4</xref>.</p><p>It was found in the phylogenetic study of the finger millet SBE
+with the 6 species of grass family that two clusters were form A
+and B. In cluster A, finger millet showed closeness with
+Oryzasativa and Setariaitalica, Sorghum bicolour and Zea mays
+while cluster B was formed with Triticumaestivum and
+Brachypodiumdistachyon (<xref ref-type="fig" rid="F3">Figure 3</xref> and <xref ref-type="fig" rid="F4">4</xref>).</p></sec><sec id="s3d"><title>Protein Structure Prediction</title><p>The input predicted as 2 domain(s) and best template for finger
+millet SBE was found is 3amlA with p-value 1.11e-27. Overall
+uGDT (GDT) is 609 (72), 756(90%) residues are modelled,
+152(18%) positions predicted as disordered. If we talk about the
+secondary structure of the enzyme then 19%H, 15%E, and 65%C
+were found. The solvent access were found in the enzyme
+sequence is 27%E, 36%M, and 36%B. The protein 3D structure
+was submitted in PMDB database as in the form of pdb. The
+PMDB id of the protein sequence is PM0080938 (<xref ref-type="fig" rid="F5">Figure 5</xref>).</p></sec><sec id="s3e"><title>Model-assisted Protein Binding Site Prediction</title><p>The RaperX server in the finger millet SBE but in this result
+predicted total 10 binding sites we select one for each ligand.
+Major binding interactions with the GLC (alpha-d-glucose), CA
+(calcium ion), GOL (glycerol), TRS (2-amino-2-hydroxymethylpropane-
+1, 3-diol), MG (magnesium ion) and FLC (citrate anion).
+The corresponding residues with the position are also given in
+detail in the <xref ref-type="table" rid="T1">Table 1</xref>.</p></sec></sec><sec id="s4"><title>Conclusion</title><p>Finger millet is a nutritionally rich cereal crop and grown in
+different regions of worlds and even in adverse weather
+conditions. It has the abundant amount of calcium comparatively
+all the cereal crops. The transcriptome data of finger millet is also
+available on NCBI but the genome of this important crop is not
+yet available. Different pathways are involved in the starch
+biosynthesis with the presence of different enzymes. In finger
+millet Starch branching enzyme nucleotide and protein sequence
+is not yet known but in this research it was an attempt to predict
+the genomic and proteomic information of SBE of finger millet,
+which plays an important role in the synthesis of carbohydrates.
+The predicted nucleotide sequence and protein structure is
+available in NCBI and PMDB respectively for further scientific
+use. This is a first novel attempt for the characterization of
+enzyme involved in starch biosynthesis in finger millet.</p></sec></body><back><fn-group><fn id="FN" fn-type="other"><p><bold>Edited by P Kangueane</bold></p></fn></fn-group><fn-group><fn id="FN1" fn-type="other"><p><bold>Citation: </bold>Tyagi et al. Bioinformation 13(6): 179-184 (2017)</p></fn></fn-group><ref-list><title>References</title><ref id="R01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Altschul</surname><given-names>SF</given-names></name><etal/></person-group><source>J. Mol. Biol.</source><year>1990</year><volume>215</volume><fpage>403</fpage><?supplied-pmid 2231712?><pub-id pub-id-type="pmid">2231712</pub-id></element-citation></ref><ref id="R02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Begum</surname><given-names>J</given-names></name><etal/></person-group><source>International Journal of Science, Environment and Technology.</source><year>2016</year><volume>5(6)</volume><fpage>4086</fpage></element-citation></ref><ref id="R03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carciofi</surname><given-names>M</given-names></name><etal/></person-group><source>BMC Plant Biol.</source><year>2012</year><volume>12</volume><fpage>223</fpage><?supplied-pmid 23171412?><pub-id pub-id-type="pmid">23171412</pub-id></element-citation></ref><ref id="R04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ian</surname><given-names>J</given-names></name><etal/></person-group><source>International Union of Biochemistry and Molecular Biology</source><year>2014</year><volume>66(8)</volume><fpage>546</fpage><?supplied-pmid 25196474?><pub-id pub-id-type="pmid">25196474</pub-id></element-citation></ref><ref id="R05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kallberg</surname><given-names>M</given-names></name><etal/></person-group><source>Methods Mol Biol.</source><year>2014</year><volume>1137</volume><fpage>17</fpage><?supplied-pmid 24573471?><pub-id pub-id-type="pmid">24573471</pub-id></element-citation></ref><ref id="R06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>C</given-names></name><etal/></person-group><source>PLOS ONE</source><year>2015</year><volume>10(4)</volume><fpage>e0125507</fpage><?supplied-pmid 25874689?><pub-id pub-id-type="pmid">25874689</pub-id></element-citation></ref><ref id="R07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marchler-Bauer</surname><given-names>A</given-names></name><etal/></person-group><source>Nucleic Acids Res.</source><year>2015</year><volume>43(D)</volume><fpage>222</fpage><?supplied-pmid 25414356?><pub-id pub-id-type="pmid">25414356</pub-id></element-citation></ref><ref id="R08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>Y</given-names></name><etal/></person-group><source>Plant and Cell Physiology.</source><year>2010</year><volume>51(5)</volume><fpage>776</fpage><?supplied-pmid 20305271?><pub-id pub-id-type="pmid">20305271</pub-id></element-citation></ref><ref id="R09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarwar</surname><given-names>MH</given-names></name><etal/></person-group><source>Journal of cereals and oilseeds.</source><year>2013</year><volume>4(3)</volume><fpage>32</fpage></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shaik</surname><given-names>SS</given-names></name><etal/></person-group><source>PLOS ONE.</source><year>2016</year><volume>11(2)</volume><fpage>e0149613</fpage><?supplied-pmid 26891365?><pub-id pub-id-type="pmid">26891365</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheng</surname><given-names>Wang</given-names></name><etal/></person-group><source>Nucleic Acids Research.</source><year>2016</year><?supplied-pmid 27112573?><pub-id pub-id-type="pmid">27112573</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sidebottom</surname><given-names>C</given-names></name><etal/></person-group><source>Journal of Cereal Science</source><year>1998</year><volume>27(3)</volume><fpage>279</fpage></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tamura</surname><given-names>K</given-names></name><etal/></person-group><source>MEGA6 Version 6.0.</source><year>2013</year><volume>30</volume><fpage>2725</fpage><?supplied-pmid 24132122?><pub-id pub-id-type="pmid">24132122</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wheeler</surname><given-names>DL</given-names></name><etal/></person-group><source>Nucleic Acids Research.</source><year>2003</year><volume>31(1)</volume><fpage>28</fpage><?supplied-pmid 12519941?><pub-id pub-id-type="pmid">12519941</pub-id></element-citation></ref></ref-list></back><floats-group><table-wrap id="T1" position="float"><label>Table 1</label><caption><title>Model-assisted Protein Binding Site Prediction in the protein sequence of Finger millet starch branching enzyme.</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">Pocket</td><td rowspan="1" colspan="1">Multiplicity</td><td rowspan="1" colspan="1">Ligand</td><td rowspan="1" colspan="1">Binding residues</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">46</td><td rowspan="1" colspan="1">GLC (ALPHA-D-GLUCOSE)</td><td rowspan="1" colspan="1">Y374 S377 F378 Y380 H381 W451 D452 Q610 A611 L612 F679</td></tr><tr><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">CA (CALCIUM ION)</td><td rowspan="1" colspan="1">I298 Y300 E371 H372 S373 S389</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">GOL (GLYCEROL)</td><td rowspan="1" colspan="1">C550 P552 G559 F560 D561 K600</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">TRS (2-AMINO-2-HYDROXYMETHYL-PROPANE-1,3-DIOL)</td><td rowspan="1" colspan="1">L575 S579 D580 R643 L647 W768 R829</td></tr><tr><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">MG (MAGNESIUM ION)</td><td rowspan="1" colspan="1">H747 Y775 R776</td></tr><tr><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">FLC (CITRATE ANION)</td><td rowspan="1" colspan="1">K577 L612 V613 G614 D615 W621</td></tr></tbody></table></table-wrap><fig id="F1" position="float"><label>Figure 1</label><caption><p>ORF prediction in the finger millet Starch branching enzyme</p></caption><graphic xlink:href="97320630013179F1"/></fig><fig id="F2" position="float"><label>Figure 2</label><caption><p>Domain analysis of finger millet starch branching enzyme.</p></caption><graphic xlink:href="97320630013179F2"/></fig><fig id="F3" position="float"><label>Figure 3</label><caption><p>Phylogenetic analysis of finger millet SBE with the total blast hit sequences.</p></caption><graphic xlink:href="97320630013179F3"/></fig><fig id="F4" position="float"><label>Figure 4</label><caption><p>Phylogenetic analysis within grass family.</p></caption><graphic xlink:href="97320630013179F4"/></fig><fig id="F5" position="float"><label>Figure 5</label><caption><p>3D Structure of finger millet Starch Branching Enzyme</p></caption><graphic xlink:href="97320630013179F5"/></fig></floats-group></article>

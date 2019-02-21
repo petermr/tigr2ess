@@ -1,0 +1,810 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6131412</article-id><article-id pub-id-type="doi">10.1111/pbi.12913</article-id><article-id pub-id-type="publisher-id">PBI12913</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Transcriptome reprogramming due to the introduction of a barley telosome into bread wheat affects more barley genes than wheat</article-title><alt-title alt-title-type="left-running-head"><italic>Elodie Rey</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12913-cr-0001" contrib-type="author"><name><surname>Rey</surname><given-names>Elodie</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12913-cr-0002" contrib-type="author"><name><surname>Abrouk</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12913-cr-0003" contrib-type="author"><name><surname>Keeble&#x02010;Gagn&#x000e8;re</surname><given-names>Gabriel</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12913-cr-0004" contrib-type="author"><name><surname>Karafi&#x000e1;tov&#x000e1;</surname><given-names>Miroslava</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12913-cr-0005" contrib-type="author"><name><surname>Vr&#x000e1;na</surname><given-names>Jan</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12913-cr-0006" contrib-type="author"><name><surname>Balzergue</surname><given-names>Sandrine</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="pbi12913-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="pbi12913-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="pbi12913-cr-0007" contrib-type="author"><name><surname>Soubigou&#x02010;Taconnat</surname><given-names>Ludivine</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="pbi12913-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12913-cr-0008" contrib-type="author"><name><surname>Brunaud</surname><given-names>V&#x000e9;ronique</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="pbi12913-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12913-cr-0009" contrib-type="author"><name><surname>Martin&#x02010;Magniette</surname><given-names>Marie&#x02010;Laure</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="pbi12913-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="pbi12913-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="pbi12913-cr-0010" contrib-type="author"><name><surname>Endo</surname><given-names>Takashi R.</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="pbi12913-cr-0011" contrib-type="author"><name><surname>Barto&#x00161;</surname><given-names>Jan</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12913-cr-0012" contrib-type="author"><collab collab-type="authors">International Wheat Genome Sequencing Consortium (IWGSC)</collab></contrib><contrib id="pbi12913-cr-0013" contrib-type="author"><name><surname>Appels</surname><given-names>Rudi</given-names></name><xref ref-type="aff" rid="pbi12913-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="pbi12913-cr-0014" contrib-type="author" corresp="yes"><name><surname>Dole&#x0017e;el</surname><given-names>Jaroslav</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6263-0492</contrib-id><address><email>dolezel@ueb.cas.cz</email></address><xref ref-type="aff" rid="pbi12913-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12913-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Experimental Botany</named-content>
+<institution>Centre of the Region Han&#x000e1; for Biotechnological and Agricultural Research</institution>
+<named-content content-type="city">Olomouc</named-content>
+<country country="CZ">Czech Republic</country>
+</aff><aff id="pbi12913-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Agriculture Research Victoria</named-content>
+<named-content content-type="organisation-division">Department of Economic Development</named-content>
+<named-content content-type="organisation-division">Jobs</named-content>
+<institution>Transport and Resources</institution>
+<named-content content-type="city">AgriBio</named-content>
+<named-content content-type="city">Bundoora</named-content>
+<named-content content-type="country-part">VIC 3083</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="pbi12913-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Institute of Plant Sciences Paris Saclay IPS2</named-content>
+<institution>CNRS</institution>
+<institution>INRA</institution>
+<institution>Universit&#x000e9; Paris&#x02010;Sud</institution>
+<institution>Universit&#x000e9; Evry</institution>
+<institution>Universit&#x000e9; Paris&#x02010;Saclay</institution>
+<named-content content-type="city">Orsay</named-content>
+<country country="FR">France</country>
+</aff><aff id="pbi12913-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Institute of Plant Sciences Paris&#x02010;Saclay IPS2</named-content>
+<institution>Paris Diderot</institution>
+<institution>Sorbonne Paris&#x02010;Cit&#x000e9;</institution>
+<named-content content-type="city">Orsay</named-content>
+<country country="FR">France</country>
+</aff><aff id="pbi12913-aff-0005">
+<label><sup>5</sup></label>
+<institution>IRHS</institution>
+<institution>Universit&#x000e9; d'Angers</institution>
+<institution>INRA</institution>
+<institution>AGROCAMPUS&#x02010;Ouest</institution>
+<institution>SFR4207 QUASAV</institution>
+<institution>Universit&#x000e9; Bretagne Loire</institution>
+<named-content content-type="city">Beaucouz&#x000e9;</named-content>
+<country country="FR">France</country>
+</aff><aff id="pbi12913-aff-0006">
+<label><sup>6</sup></label>
+<institution>UMR MIA&#x02010;Paris</institution>
+<institution>AgroParisTech</institution>
+<institution>INRA</institution>
+<institution>Universit&#x000e9; Paris&#x02010;Saclay</institution>
+<named-content content-type="city">Paris</named-content>
+<country country="FR">France</country>
+</aff><aff id="pbi12913-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Plant Life Science</named-content>
+<named-content content-type="organisation-division">Faculty of Agriculture</named-content>
+<institution>Ryukoku University</institution>
+<named-content content-type="city">Shiga</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="pbi12913-aff-0008">
+<label><sup>8</sup></label>
+<institution>Murdoch University</institution>
+<named-content content-type="city">Perth</named-content>
+<named-content content-type="country-part">WA</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +420 585 238 703; fax +420 585 238 704; email <email>dolezel@ueb.cas.cz</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2018</year></pub-date><volume>16</volume><issue>10</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-10</issue-id><fpage>1767</fpage><lpage>1777</lpage><history><date date-type="received"><day>05</day><month>12</month><year>2017</year></date><date date-type="rev-recd"><day>17</day><month>2</month><year>2018</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-1767.pdf"/><abstract id="pbi12913-abs-0001"><title>Summary</title><p>Despite a long history, the production of useful alien introgression lines in wheat remains difficult mainly due to linkage drag and incomplete genetic compensation. In addition, little is known about the molecular mechanisms underlying the impact of foreign chromatin on plant phenotype. Here, a comparison of the transcriptomes of barley, wheat and a wheat&#x02013;barley 7<styled-content style="fixed-case">HL</styled-content> addition line allowed the transcriptional impact both on 7<styled-content style="fixed-case">HL</styled-content> genes of a non&#x02010;native genetic background and on the wheat gene complement as a result of the presence of 7<styled-content style="fixed-case">HL</styled-content> to be assessed. Some 42% (389/923) of the 7<styled-content style="fixed-case">HL</styled-content> genes assayed were differentially transcribed, which was the case for only 3% (960/35&#x000a0;301) of the wheat gene complement. The absence of any transcript in the addition line of a suite of chromosome 7A genes implied the presence of a 36 Mbp deletion at the distal end of the 7<styled-content style="fixed-case">AL</styled-content> arm; this deletion was found to be in common across the full set of Chinese Spring/Betzes barley addition lines. The remaining differentially transcribed wheat genes were distributed across the whole genome. The up&#x02010;regulated barley genes were mostly located in the proximal part of the 7<styled-content style="fixed-case">HL</styled-content> arm, while the down&#x02010;regulated ones were concentrated in the distal part; as a result, genes encoding basal cellular functions tended to be transcribed, while those encoding specific functions were suppressed. An insight has been gained into gene transcription in an alien introgression line, thereby providing a basis for understanding the interactions between wheat and exotic genes in introgression materials.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12913-kwd-0001">alien introgression</kwd><kwd id="pbi12913-kwd-0002"><styled-content style="fixed-case">RNA</styled-content>&#x02010;seq</kwd><kwd id="pbi12913-kwd-0003">gene transcription</kwd><kwd id="pbi12913-kwd-0004">transcriptome modification</kwd><kwd id="pbi12913-kwd-0005">chromosomal rearrangement</kwd><kwd id="pbi12913-kwd-0006">deletion</kwd></kwd-group><funding-group><award-group><funding-source>National Grid Infrastructure MetaCentrum</funding-source><award-id>LM2010005</award-id></award-group><award-group><funding-source>Ministry of Education, Youth and Sports of the Czech Republic</funding-source><award-id>LO1204</award-id></award-group><award-group><funding-source>Czech Science Foundation</funding-source><award-id>P501/12/G090</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="11"/><word-count count="8675"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12913</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:11.09.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12913-sec-0001"><title>Introduction</title><p>Bread wheat (<italic>Triticum aestivum</italic>) and barley (<italic>Hordeum vulgare</italic>) are the two leading temperate small&#x02010;grained cereals, and together supply, directly or indirectly, a major proportion of our calorific requirements. The major breeding priority over many decades has been to increase their productivity, and this goal was growing in importance in the face of a continuing expansion in the size of the human population, changes in the dietary habits and the threat of impending climate change (Curtis and Halford, <xref rid="pbi12913-bib-0018" ref-type="ref">2014</xref>). A key means to meet this challenge is to extend the genetic diversity available for breeding, and one of the best ways to achieve this is likely to be to unlock the largely untapped diversity harboured by the crops&#x02019; wild and cultivated relatives (Brozynska <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0011" ref-type="ref">2016</xref>; Feuillet <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0029" ref-type="ref">2008</xref>; Mondal <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0058" ref-type="ref">2016</xref>). In wheat, continuing technological advances have, over many years, improved the success rate of wide hybridization (Blakeslee, <xref rid="pbi12913-bib-0007" ref-type="ref">1937</xref>; Kruse, <xref rid="pbi12913-bib-0050" ref-type="ref">1973</xref>; Mujeeb&#x02010;Kazi, <xref rid="pbi12913-bib-0060" ref-type="ref">1995</xref>; Murashige and Skoog, <xref rid="pbi12913-bib-0062" ref-type="ref">1962</xref>), while progress in inducing introgression has succeeded in introducing subchromosomal segments of exotic origin (Endo, <xref rid="pbi12913-bib-0020" ref-type="ref">1988</xref>, <xref rid="pbi12913-bib-0021" ref-type="ref">2007</xref>; Griffiths <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0033" ref-type="ref">2006</xref>; Jiang <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0041" ref-type="ref">1993</xref>; Riley and Chapman, <xref rid="pbi12913-bib-0067" ref-type="ref">1958</xref>). Many of these can be readily visualized at both the cytogenetic and the genetic levels (Fedak, <xref rid="pbi12913-bib-0025" ref-type="ref">1999</xref>; Gupta <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0036" ref-type="ref">1999</xref>; Rayburn and Gill, <xref rid="pbi12913-bib-0064" ref-type="ref">1985</xref>; Rey <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0065" ref-type="ref">2015</xref>; Yamamoto and Mukai, <xref rid="pbi12913-bib-0079" ref-type="ref">1989</xref>). A few introgression products have made positive contributions to grain yield, resistance to disease and tolerance of abiotic stress (B&#x000f6;rner <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0009" ref-type="ref">2015</xref>; Fatih, <xref rid="pbi12913-bib-0024" ref-type="ref">1983</xref>; Friebe <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0030" ref-type="ref">1996</xref>; Mondal <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0058" ref-type="ref">2016</xref>; Reynolds <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0066" ref-type="ref">2001</xref>; Wulff and Moscou, <xref rid="pbi12913-bib-0077" ref-type="ref">2014</xref>), but the majority have had little impact on wheat improvement, as their presence has been associated with either a yield penalty and/or an end product defect.</p><p>While the long&#x02010;standing assumption has been that the poor performance of introgression lines is due to linkage drag, together with&#x02014;in the case where an exotic chromatin segment replaces its wheat homeolog&#x02014;a less than perfect compensation for the loss of wheat genes, there is some evidence that gene interactions between the recipient and the donor genes are also implicated. For example, the suppression of a gene determining resistance to a pathogen has been shown to be caused by its interaction with the recipient genome (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0014" ref-type="ref">2005</xref>; Kerber and Aung, <xref rid="pbi12913-bib-0044" ref-type="ref">1999</xref>; Kerber and Dyck, <xref rid="pbi12913-bib-0045" ref-type="ref">1973</xref>), in some cases shown to be the result of post&#x02010;translational modifications being imposed on the donor gene product (Stirnweis <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0072" ref-type="ref">2014</xref>). According to Hurni <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0037" ref-type="ref">2014</xref>), deleterious effects can also result from the formation of a heteromeric complex involving donor and recipient gene products.</p><p>The set of wheat&#x02013;barley disomic (Islam <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0039" ref-type="ref">1981</xref>) and ditelosomic (Islam, <xref rid="pbi12913-bib-0038" ref-type="ref">1983</xref>) addition lines was bred from a cross between the wheat cultivar Chinese Spring (CS) and the barley cultivar Betzes (B). A transcriptomic analysis of the six available CS/B disomic chromosome addition lines (the one involving 1H is nonviable) (Cho <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0015" ref-type="ref">2006</xref>) has succeeded in allocating the chromosomal origin of 1787 barley transcripts, but this represents only a limited proportion of the full complement of transcripts, estimated to number than 39&#x000a0;000 (Mascher <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0056" ref-type="ref">2017</xref>). Here, a line in which the barley 7HL telosome is maintained in a wheat genetic background has been used as a model to characterize interactions between the gene content of the host wheat genome and that of the barley telosome, based on the use of a high capacity transcriptome sequencing platform.</p></sec><sec id="pbi12913-sec-0002"><title>Results</title><sec id="pbi12913-sec-0003"><title>Gene transcription analysis</title><p>The RNA&#x02010;seq procedure yielded on average 14.6&#x000a0;million paired&#x02010;end mapped reads per sample, of which 98.78&#x000a0;&#x000b1;&#x000a0;0.81% proved to be assignable to a genomic site (Table&#x000a0;<xref rid="pbi12913-sup-0002" ref-type="supplementary-material">S1</xref>). Only a small proportion of the reads (2.41% in B, &#x0003c;1% in CS and CS&#x000a0;+&#x000a0;7HL) mapped to an unexpected location. The RSEM analysis revealed that 35&#x000a0;301 wheat genes were transcribed by either CS or CS&#x000a0;+&#x000a0;7HL at &#x0003e;1 count per million mapped reads, while the equivalent number of 7HL genes located in the genomic window 339&#x02013;656&#x000a0;Mbp was 923. Of the 35&#x000a0;301 wheat genes, the vast majority (34&#x000a0;341, 97.3%) were not transcribed differentially between CS and CS&#x000a0;+&#x000a0;7HL, still leaving 960 which were differentially transcribed. Of these latter genes, 509 were down&#x02010;regulated (transcript abundance lower in CS&#x000a0;+&#x000a0;7HL than in CS) and 451 were up&#x02010;regulated. The parallel comparison of B <italic>vs</italic> CS&#x000a0;+&#x000a0;7HL revealed that of the 923 7HL genes, 389 (42.1%) were differentially transcribed, comprising 233 down&#x02010;regulated (transcript abundance lower in CS&#x000a0;+&#x000a0;7HL than in B) and 156 up&#x02010;regulated (Table&#x000a0;<xref rid="pbi12913-tbl-0001" ref-type="table">1</xref>). These greatly differing proportions of differential transcription (DT) implied that the effect of a non&#x02010;native genetic background was much greater than the effect of the presence of an exotic telosome.</p><table-wrap id="pbi12913-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>The differential transcription (DT) in CS&#x000a0;+&#x000a0;7HL of both wheat and barley (7HL) genes</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Genes</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Barley 7HL</th><th align="char" valign="top" rowspan="1" colspan="1">Wheat</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Transcribed (&#x0003e;1 Counts per million (CPM))</td><td align="char" char=" " rowspan="1" colspan="1">923</td><td align="char" char=" " rowspan="1" colspan="1">35&#x000a0;301</td></tr><tr><td align="left" rowspan="1" colspan="1">Not&#x02010;DT</td><td align="char" char=" " rowspan="1" colspan="1">534 (57.85%)</td><td align="char" char=" " rowspan="1" colspan="1">34&#x000a0;341 (97.28%)</td></tr><tr><td align="left" rowspan="1" colspan="1">DT</td><td align="char" char=" " rowspan="1" colspan="1">389 (42.14%)</td><td align="char" char=" " rowspan="1" colspan="1">960 (2.72%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Up&#x02010;regulated</td><td align="char" char=" " rowspan="1" colspan="1">156 (16.90%)</td><td align="char" char=" " rowspan="1" colspan="1">451 (1.28%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Down&#x02010;regulated</td><td align="char" char=" " rowspan="1" colspan="1">233 (25.24%)</td><td align="char" char=" " rowspan="1" colspan="1">509 (1.44%)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="pbi12913-sec-0004"><title>Distribution and impact of DT</title><p>Four measures were used to quantify the distribution of DT in the wheat genome and along the 7HL chromosome arm; these were the ratio between the number of nondifferentially transcribed (&#x02018;not&#x02010;DT&#x02019;) and the total number of transcribed genes [R(not&#x02010;DT/Trans)], the ratios between the number of up&#x02010; or down&#x02010;regulated and the total number of transcribed genes [R(Up/Trans) and R(Down/Trans)] and the mean log fold change (mean log FC). For the 7HL arm, the R(not&#x02010;DT/Trans) measure indicated that the central segment of the arm was enriched for not&#x02010;DT genes (Figure&#x000a0;<xref rid="pbi12913-fig-0001" ref-type="fig">1</xref>). The R(Up/Trans) measure was highest at the centromere (0.38) and lowest at the telomere (0.12), while the R(Down/Trans) measure behaved in the opposite fashion (0.15 at the centromere and 0.33 at the telomere). As a result, the mean log FC parameter was at its most positive at the centromere (+0.56) and at its most negative at the telomere (&#x02212;0.78). Overall, the proximal region of the arm was enriched for up&#x02010;regulated genes and the distal region for down&#x02010;regulated ones, leaving the interstitial region neutral. A similar analysis was conducted for the wheat gene complement. On average, a similar number of genes per chromosome were down&#x02010;regulated (24) as were up&#x02010;regulated (20), but the numbers were particularly high on chromosome 7A (117 down&#x02010; and 29 up&#x02010;regulated genes) (Figure&#x000a0;<xref rid="pbi12913-fig-0002" ref-type="fig">2</xref>). The distribution of DT genes along chromosome 7A is shown in Figure&#x000a0;<xref rid="pbi12913-fig-0003" ref-type="fig">3</xref>. A major feature was the behaviour of all four parameters in two contiguous regions in the distal part of the chromosome's long arm. The first region, a ~10&#x000a0;Mb stretch from 690 to 699&#x000a0;Mbp, harboured 27 transcribed genes, of which 12 were DT (all up&#x02010;regulated). Along the segment, R(Up/Trans) increased from 0.01 to 0.33, and the mean log FC was +0.52, reflecting a higher average transcript abundance [mean fragments per kilobase of transcript per million mapped read (FPKM): 14.59]. The second region represented the most distal 36&#x000a0;Mbp of the arm (700&#x02013;736&#x000a0;Mbp), in which there was a set of down&#x02010;regulated genes, resulting in a R(Down/Trans) value of 0.98, a R(not&#x02010;DT/Trans) value of just 0.03 and a R(Up/Trans) value of zero. Of the 101 genes present in this region and transcribed in CS, 99 were down&#x02010;regulated in CS&#x000a0;+&#x000a0;7HL and the other two were not&#x02010;DT genes. The associated mean log FC value was &#x02212;8.21, and the average transcript abundance in CS&#x000a0;+&#x000a0;7HL was extremely low (mean FPKM: 0.25); 25 of the genes recorded an FPKM of zero in every replicate.</p><fig fig-type="Figure" xml:lang="en" id="pbi12913-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The chromosomal spread of 7<styled-content style="fixed-case">HL</styled-content> genes showing altered transcription in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content>. (a) The ratio of not&#x02010;<styled-content style="fixed-case">DT</styled-content> to transcribed genes [R(not&#x02010;<styled-content style="fixed-case">DT</styled-content>/Trans)], the ratio of up&#x02010;regulated to transcribed genes [R(Up/Trans)], the ratio of down&#x02010;regulated to transcribed genes [R(Down/Trans)]. (b) The mean log <styled-content style="fixed-case">FC</styled-content> in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> and B along the 7<styled-content style="fixed-case">HL</styled-content> chromosome. Each segment is represented by a horizontal bar along each measure (change point positions given in Mbp as positions on the 7H pseudomolecule.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-1767-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12913-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The distribution of not&#x02010;<styled-content style="fixed-case">DT</styled-content>, down&#x02010; and up&#x02010;regulated genes across the 21 chromosomes of wheat in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content>. The number of not&#x02010;<styled-content style="fixed-case">DT</styled-content> genes (grey) is given on the left scale, while down&#x02010; (red) and up&#x02010;regulated genes (green) ones are represented on the right scale. Not&#x02010;<styled-content style="fixed-case">DT</styled-content>, up&#x02010; and down&#x02010;regulated genes belonging to unanchored scaffolds in the genome assembly have also been represented under the <italic>x</italic>&#x02010;axis label <styled-content style="fixed-case">UO</styled-content>.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-1767-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12913-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The chromosomal spread of 7A genes showing altered transcription in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content>. (a) The ratio of not&#x02010;<styled-content style="fixed-case">DT</styled-content> to transcribed genes [R(not&#x02010;<styled-content style="fixed-case">DT</styled-content>/Trans)], the ratio of up&#x02010;regulated to transcribed genes [R(Up/Trans), the ratio of down&#x02010;regulated to transcribed genes [R(Down/Trans)]. (b) The mean log <styled-content style="fixed-case">FC</styled-content> in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> and <styled-content style="fixed-case">CS</styled-content> along the 7A chromosome. Each segment is represented by a horizontal bar along each measure (change point positions given in Mbp as positions on the 7A pseudomolecule.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-1767-g003"/></fig></sec><sec id="pbi12913-sec-0005"><title>The terminal region of 7AL in CS&#x000a0;+&#x000a0;7HL harbours a 36&#x000a0;Mbp deletion</title><p>A comparison of the physical length of flow karyotyped mitotic copies of chromosome 7A suggested that the version harboured by CS&#x000a0;+&#x000a0;7HL was approximately 3.0% shorter than the one harboured by CS (Figure&#x000a0;<xref rid="pbi12913-fig-0004" ref-type="fig">4</xref>a). When GAA satellite&#x02010;based FISHIS patterns of the two versions of chromosome 7A were compared, it was apparent that the most terminal GAA signal on CS 7AL was not present on CS&#x000a0;+&#x000a0;7HL 7AL (Figure&#x000a0;<xref rid="pbi12913-fig-0004" ref-type="fig">4</xref>b). The estimated centromeric index (ratios of the long arm to the short arm) of the two versions of 7A revealed that while CS copy is metacentric, CS&#x000a0;+&#x000a0;7HL copy was submetacentric. To support the strong indication that the two copies differed as a result of a large deletion event, a set of chromosome 7A molecular markers was developed spanning the 685&#x02013;736&#x000a0;Mbp region of 7AL (Table&#x000a0;<xref rid="pbi12913-sup-0002" ref-type="supplementary-material">S2</xref>). When these were used to genotype CS and CS&#x000a0;+&#x000a0;7HL, the results confirmed the loss in the latter line of a region between 700 and 736&#x000a0;Mbp of 7A (Figure&#x000a0;<xref rid="pbi12913-fig-0004" ref-type="fig">4</xref>c). The same deletion was also found to be present in each of the six CS/B whole chromosome addition lines, as confirmed by C&#x02010;banding (Figure&#x000a0;<xref rid="pbi12913-sup-0001" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12913-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The 7<styled-content style="fixed-case">AL</styled-content> arm in the <styled-content style="fixed-case">CS</styled-content>/B addition lines carries a major deletion. The deletion is apparent given (a) a size difference in the 7A copies flow&#x02010;sorted from <styled-content style="fixed-case">CS</styled-content> and <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content>, (b) the loss of a <styled-content style="fixed-case">GAA FISH</styled-content> site (green) at the distal end of the chromosome and (c) the <styled-content style="fixed-case">PCR</styled-content>&#x02010;based genotyping of 7A deleted region on genomic <styled-content style="fixed-case">DNA</styled-content> from <styled-content style="fixed-case">CS</styled-content> and <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content>.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-16-1767-g004"/></fig></sec><sec id="pbi12913-sec-0006"><title>The distal deletion on 7AL does not induce DT of homeologous genes</title><p>The regions on chromosome arms 7BL (699&#x02013;750&#x000a0;Mbp) and 7DL (610&#x02013;636&#x000a0;Mbp) are homeologous to the 7AL deletion harbour, respectively, 143 and 122 genes. Of these, just six of the 7B genes and two of the 7D ones were transcribed at a higher level in CS&#x000a0;+&#x000a0;7HL than in CS (Figure&#x000a0;<xref rid="pbi12913-fig-0005" ref-type="fig">5</xref>a). The R(DT/Trans) values are consistent with the value of ca.&#x000a0;3% which pertains elsewhere in the genome. There was, therefore, no apparent effect of the deletion on the transcription of the 7B and 7D homeologs. The homeologous segment of 7HL (640&#x02013;656&#x000a0;Mbp) harbours 130 transcribed genes, of which 55 were classified as DT genes in the contrast B <italic>vs</italic> CS&#x000a0;+&#x000a0;7HL. As described above (Figure&#x000a0;<xref rid="pbi12913-fig-0001" ref-type="fig">1</xref>), the proportions of DT and not&#x02010;DT genes in this region did not differ significantly from those obtained in its proximally adjacent segment (600&#x02013;639&#x000a0;Mbp), which harbours a similar gene density (167 genes, of which 79 were classified as DT genes). Using stringent sequence comparison parameters and collinearity guided strategy, we defined a set of 7HL genes homeologous to 7AL and selected 1&#x000a0;:&#x000a0;1 relationships to investigate whether the loss of 7AL genes induced DT of 7HL syntenic genes in CS&#x000a0;+&#x000a0;7HL. The transcription of the homeologous (40%) and nonhomeologous (60%) genes in both the deleted and the nondeleted regions showed similar distributions of homeologs/nonhomeologs of not&#x02010;DT (50/50, &#x000b1;0.47), up&#x02010;regulated (55/45&#x000a0;&#x000b1;&#x000a0;7.07) or down&#x02010;regulated (17/83, &#x000b1;0.7) genes (Figure&#x000a0;<xref rid="pbi12913-fig-0005" ref-type="fig">5</xref>b). The abundance of transcript from the homeologous genes was greater than that from the nonconserved ones, which was the case for both the deleted and the nondeleted regions: the median FPKM for homeologous genes in the deleted region was 10.53 in B and 4.89 in CS&#x000a0;+&#x000a0;7HL; for the nonhomeologous genes, the median FPKMs were, respectively, 5.80 and 1.11 (Figure&#x000a0;<xref rid="pbi12913-fig-0005" ref-type="fig">5</xref>c). Overall, therefore, there was no effect of the deletion on the level of transcription of the 7HL gene complement, although a large proportion of the 7HL segment harboured homeologs of the genes lost as a result of the deletion.</p><fig fig-type="Figure" xml:lang="en" id="pbi12913-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Compensation for genes deleted in the 7A copy present in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> by their homeologs in 7B, 7D and 7<styled-content style="fixed-case">HL</styled-content>. (a) (Non)&#x02010;compensation at the level of transcription, (b) the distribution of not&#x02010;<styled-content style="fixed-case">DT</styled-content>, up&#x02010; and down&#x02010;regulated genes in the whole (All), homeologous and nonhomeologous portions of 7<styled-content style="fixed-case">HL</styled-content> chromosome arm homeologous to the nondeleted (7<styled-content style="fixed-case">HL</styled-content> positions 600&#x02013;639&#x000a0;Mbp) or deleted 7<styled-content style="fixed-case">AL</styled-content> region (7<styled-content style="fixed-case">HL</styled-content> positions 640&#x02013;656&#x000a0;Mbp), (c) Boxplot representation of transcript abundance (<styled-content style="fixed-case">FPKM</styled-content>) of All, homeologous and nonhomeologous 7<styled-content style="fixed-case">HL</styled-content> genes present in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> and in B mapping to the regions homeologous to either the nondeleted or deleted regions of 7<styled-content style="fixed-case">AL</styled-content>.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-16-1767-g005"/></fig></sec><sec id="pbi12913-sec-0007"><title>The distal deletion on 7AL is partially compensated for by orthologs on 7HL</title><p>Of the 923 7HL genes transcribed in B, 702 (76%) were transcribed at a detectable level in CS&#x000a0;+&#x000a0;7HL: 375 transcripts were represented by a count of 1&#x02013;5 FPKM and 327 by &#x0003e;5 FPKM; of the latter, 92 were strongly transcribed (20&#x02013;1360 FPKM). Around 60% of these genes had at least one transcriptionally active wheat homeolog, so are likely to contribute to the transcript pool. Among the set of highly transcribed 7HL genes, 47 were homeologs of a 7AL gene deleted in CS&#x000a0;+&#x000a0;7HL; of these, 26 were at least half as abundantly transcribed in CS&#x000a0;+&#x000a0;7HL as was their 7AL homeolog in CS (Figure&#x000a0;<xref rid="pbi12913-fig-0006" ref-type="fig">6</xref>). The indication was, therefore, that the presence of 7HL partially compensated for the loss of transcripts due to the deletion event on 7AL.</p><fig fig-type="Figure" xml:lang="en" id="pbi12913-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Partial compensation at the level of transcription for genes deleted in the 7<styled-content style="fixed-case">AL</styled-content> copy present in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> by their orthologs in 7<styled-content style="fixed-case">HL</styled-content>. The partial compensation (at least 50%) of 26 genes deleted in the 7<styled-content style="fixed-case">AL</styled-content> chromosome present in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> is represented by the abundance given as mean <styled-content style="fixed-case">FPKM</styled-content> across all bio&#x02010;replicated of the 7<styled-content style="fixed-case">AL</styled-content> gene copy in <styled-content style="fixed-case">CS</styled-content> (dark blue) and the 7<styled-content style="fixed-case">HL</styled-content> ortholog in <styled-content style="fixed-case">CS</styled-content>&#x000a0;+&#x000a0;7<styled-content style="fixed-case">HL</styled-content> (clear blue). On <italic>y</italic>&#x02010;axis is given the functional annotation of the barley 7<styled-content style="fixed-case">HL</styled-content> genes according Mascher <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0056" ref-type="ref">2017</xref>).</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-16-1767-g006"/></fig></sec><sec id="pbi12913-sec-0008"><title>Biological relevance of alterations in the pattern of wheat and barley gene transcription</title><p>A gene ontology (GO) analysis of the set of wheat DT genes showed that among the 451 up&#x02010;regulated genes, there was an enrichment for 174 terms for biological processes and molecular functions, relating mostly to the response to biotic, abiotic and oxidative stresses. In particular, the GO terms &#x02018;immune system process&#x02019;, &#x02018;response to biotic stimulus&#x02019;, &#x02018;immune response&#x02019; and &#x02018;ubiquitin&#x02010;like protein ligase binding&#x02019; were prominent, as were terms relating to secondary metabolism synthesis such as &#x02018;phenylpropanoid metabolic process&#x02019; and &#x02018;secondary metabolite biosynthetic process&#x02019; (Table&#x000a0;<xref rid="pbi12913-sup-0002" ref-type="supplementary-material">S3</xref>). Meanwhile, the 410 down&#x02010;regulated genes strongly featured those relating to energy production, such as &#x02018;cellular response to starvation&#x02019;, &#x02018;glycolipid biosynthetic process&#x02019; and &#x02018;liposaccharide metabolic process&#x02019; (Table&#x000a0;<xref rid="pbi12913-sup-0002" ref-type="supplementary-material">S4</xref>). The implication was that the alterations to the wheat transcriptome induced by the presence of the barley telosome are nonrandom, perhaps reflecting a response to a loss in homoeostasis at the protein and metabolite level. A similar analysis was also applied to the set of genes present in the 7AL deletion, but no significant GO term enrichment was revealed. When the up&#x02010;regulated set of 156 7HL genes was analysed, there was a significant enrichment for 26 GO terms, notably &#x02018;protein synthesis&#x02019;, &#x02018;peptide metabolic process&#x02019;, &#x02018;translation and amide biosynthetic process&#x02019; (Table&#x000a0;<xref rid="pbi12913-sup-0002" ref-type="supplementary-material">S5</xref>). The set of 233 down&#x02010;regulated 7HL genes were enriched for 14 GO terms, potentially associated in some way with sexual incompatibility: the predominant terms were &#x02018;cell recognition&#x02019;, &#x02018;single organism reproductive process&#x02019;, &#x02018;reproduction&#x02019;, &#x02018;multiorganism process&#x02019; and &#x02018;multicellular organismal process&#x02019; (Table&#x000a0;<xref rid="pbi12913-sup-0002" ref-type="supplementary-material">S6</xref>). Overall, the GO term enrichment analysis of the DT genes indicated that the altered transcription of recipient and donor genes in CS&#x000a0;+&#x000a0;7HL affected a subset of biological functions.</p></sec></sec><sec id="pbi12913-sec-0009"><title>Discussion</title><p>The RNA&#x02010;seq platform was used here to capture the transcriptomes of CS, CS&#x000a0;+&#x000a0;7HL and B, and applied a more stringent set of criteria that is normally used for mapping reads to a genomic sequence. This was thought necessary to ensure discrimination between homeologs. Rather than aiming to maximize sequencing depth, it was considered a better use of resources to increase the level of biological replication. The approach allowed the transcript abundance of over 35&#x000a0;000 wheat and nearly 1000 barley (7HL) genes to be estimated in the CS&#x000a0;+&#x000a0;7HL line, representing, respectively, 31.8% and 34.5% of the annotated gene content. The replication also provided a high measure of confidence to the identification of the 960 wheat and 389 barley genes classified as DT genes in two contrasts CS <italic>vs</italic> CS&#x000a0;+&#x000a0;7HL and B <italic>vs</italic> CS&#x000a0;+&#x000a0;7HL.</p><sec id="pbi12913-sec-0010"><title>The introgression of 7HL into wheat altered the recipient's and donor's transcriptomes to a varying extent</title><p>Wide hybridization is often associated with profound rearrangements of the host and exotic species chromosomal structure, along with alterations to both the DNA sequence and the epigenome; ultimately, these have a profound effect on the transcriptome of the wide hybrid (Buggs <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0012" ref-type="ref">2011</xref>; Chen and Ni, <xref rid="pbi12913-bib-0013" ref-type="ref">2006</xref>; Comai, <xref rid="pbi12913-bib-0016" ref-type="ref">2000</xref>; Comai <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0017" ref-type="ref">2003</xref>; Feldman and Levy, <xref rid="pbi12913-bib-0026" ref-type="ref">2005</xref>, <xref rid="pbi12913-bib-0027" ref-type="ref">2012</xref>; Feldman <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0028" ref-type="ref">1997</xref>; Gernand <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0032" ref-type="ref">2005</xref>; Kashkush <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0042" ref-type="ref">2002</xref>; Levy and Feldman, <xref rid="pbi12913-bib-0053" ref-type="ref">2004</xref>; Pumphrey <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0063" ref-type="ref">2009</xref>; Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0078" ref-type="ref">2014</xref>). With respect to the CS/B cross, it was not possible to stabilize the initial allohaploid by chromosome doubling, as has been achieved for a range of other wheat&#x02010;based wide crosses, most notably in the wheat/rye combination triticale. At the time the CS&#x02010;B hybrid was made (Islam <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0039" ref-type="ref">1981</xref>), large&#x02010;scale transcriptomic analyses were not feasible, and as a result, the impact of genomic shock could not be investigated at this level, although it is known that the early back&#x02010;cross generations following the production of the CS/B allohaploid were highly abnormal phenotypically (Islam <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0039" ref-type="ref">1981</xref>). Based on the experience with stabilizable wide hybrids, it is more than probable that combining two such distantly related species as wheat and barley would have induced major disruptions to the transcriptome, affecting both the barley and wheat components. The present study has revealed, however, that only 3% of wheat genes showed any evidence of altered transcription in the CS&#x000a0;+&#x000a0;7HL line, while ~42% of the barley genes on 7HL were affected in this way. The relatively mild effect of the presence of 7HL on the wheat transcriptome probably reflects the stabilizing effect of the two generations of back&#x02010;crossing imposed to reduce the barley complement present in the founding CS/B allohaploid to a single chromosome and to restore that of wheat to its euploid state (Islam, <xref rid="pbi12913-bib-0038" ref-type="ref">1983</xref>; Islam <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0039" ref-type="ref">1981</xref>). In contrast, a large proportion of the genes on 7HL appear to have experienced DT, much of which was likely induced by the genomic shock occurring within the founder allohaploid and its immediate progeny. Although the barley genes affected are distributed along the entire length of the 7HL arm, the ratio of genes experiencing DT proved to be higher at the arm ends: at the proximal end, a majority of the genes affected were up&#x02010;regulated, while at the distal end, the majority was down&#x02010;regulated. A small number (13) of the barley genes have been fully silenced, suggesting a lack of the necessary regulatory sequences; for the rest, their altered transcription intensity implies either the absence of a fully functional regulatory environment and/or an effect of gene dosage due to the presence of their wheat homeologs. Many (~76%) of the barley genes were highly transcribed in the CS&#x000a0;+&#x000a0;7HL line, although the comparison with their transcription in B reveals various degrees of regulation in the wheat recipient background. The evidence suggests that most of the genes present on 7HL are regulated by wheat sequences, although for some, this heterologous regulation appears unable to exert the same level of control as managed by native sequences within a barley context. There is no evidence supporting dominance over their transcription exerted by any of the three wheat subgenomes.</p></sec><sec id="pbi12913-sec-0011"><title>The biological relevance and regulation DT genes</title><p>The genes which were differentially transcribed were distributed throughout the wheat genome and along the entire length of chromosome 7HL, implying a level of stochasticism. However, when subjected to a GO analysis, there was evidence for nonrandomness, as only a subset of biological functions was affected. Many of the up&#x02010;regulated genes on barley 7HL were associated with protein translation, synthesis and modification, while on the other hand, the down&#x02010;regulated ones were related to reproduction and sexual compatibility, encoding a range of transcription factors, hormone receptors, receptor&#x02010;like protein kinases and certain stress&#x02010;related proteins. Notably, many of the barley 7HL genes which were up&#x02010;regulated in the CS&#x000a0;+&#x000a0;7HL line encoded products controlling cellular basal functions such as protein synthesis, whereas the down&#x02010;regulated genes encoded products involved in reproduction and adaptation; the latter genes may contribute to the reduced fertility of the CS&#x000a0;+&#x000a0;7HL line in comparison with the other CS&#x02010;B ditelosomic addition lines described by Islam (<xref rid="pbi12913-bib-0038" ref-type="ref">1983</xref>). The data indicate that regulatory elements within the wheat genome exert at best partial control over the transcription of the 7HL genes, possibly reflecting the length of the time which has passed since the evolutionary divergence of barley from wheat. The polarized regulation of barley gene transcription (with the transcription of genes at the 7HL telosome's proximal end tending to be favoured) observed in CS&#x000a0;+&#x000a0;7HL could arise from the status of telosome's chromatin being unusual or may be a consequence of topology of the telosome within the interphase nucleus (Branco and Pombo, <xref rid="pbi12913-bib-0010" ref-type="ref">2007</xref>; Elcock and Bridger, <xref rid="pbi12913-bib-0019" ref-type="ref">2010</xref>; Schubert <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0070" ref-type="ref">2014</xref>). The present data set is inadequate to address this issue, as it is limited to a single tissue and developmental stage, while the topology of 7HL in the addition line nucleus is hard to ascertain (Grob <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0034" ref-type="ref">2014</xref>; Mukhopadhyay <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0061" ref-type="ref">2013</xref>; Schubert <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0070" ref-type="ref">2014</xref>). Further transcriptomic, epigenetic and spatial analyses of the host and alien chromosomes in other tissues and developmental stages would be needed to reveal the mechanisms impacting the donor and recipient gene transcription in the CS&#x000a0;+&#x000a0;7HL line.</p></sec><sec id="pbi12913-sec-0012"><title>The CS&#x000a0;+&#x000a0;7HL addition line harbours a large deletion in 7AL</title><p>The CS/B addition lines have been used to identify the genetic basis of a number of traits (Ashida <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0002" ref-type="ref">2007</xref>; Bilgic <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0006" ref-type="ref">2007</xref>; Kato <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0043" ref-type="ref">2008</xref>; McCallum <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0057" ref-type="ref">2004</xref>; Sakai <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0069" ref-type="ref">2009</xref>; Shi and Endo, <xref rid="pbi12913-bib-0071" ref-type="ref">1997</xref>; Tang <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0073" ref-type="ref">2011</xref>; Yuan <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0080" ref-type="ref">2002</xref>). Here, it has been demonstrated that they all share a large (36&#x000a0;Mbp) deletion at the distal end of 7AL. According to the annotation of the 700&#x02013;736&#x000a0;Mbp region of the 7A pseudomolecule (IWGSC, <xref rid="pbi12913-bib-0040" ref-type="ref">2018</xref>), the deletion has resulted in a loss of &#x0003e;500 genes. A similarly sized deletion in this region has also been identified among the products induced by the action of a gametocidal chromosome (Endo and Gill, <xref rid="pbi12913-bib-0023" ref-type="ref">1996</xref>). The fact that the deletion is also present in all six of the CS/B disomic addition lines implies that it could not have arisen at the same time as the formation of the 7HL telosome. Rather, it must have already been present during the development of the addition lines. Islam <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0039" ref-type="ref">1981</xref>) state that, although 19 independent CS/B allohaploids were produced, only one (which harboured the expected chromosome number of 28) was used for back&#x02010;crossing to CS to produce the disomic (and later the ditelosomic) addition lines. The most plausible scenario is therefore that the deletion was fixed in the CS stock used as the recurrent back&#x02010;cross parent to develop the addition lines. At the level of karyotype, the size difference between the wild&#x02010;type and the deletion&#x02010;harbouring copy of chromosome 7A is not easy to identify. At the time when the addition lines were created, there was neither any understanding of the ubiquity of deletions in wheat nor had marker technology developed to a sufficient level to allow for such a deletion to have been identified via genotyping. In the meantime, it has been recognized that CS is not a homogeneous genotype (Mott and Wang, <xref rid="pbi12913-bib-0059" ref-type="ref">2012</xref>). As demonstrated by Kubal&#x000e1;kov&#x000e1; <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0051" ref-type="ref">2002</xref>), the bread wheat genome is known to harbour a variety of translocations, deletions and duplications, some of which arise as a result of the genomic shock caused by interspecific hybridization (Bento <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0005" ref-type="ref">2008</xref>; Feldman <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0028" ref-type="ref">1997</xref>; Fu <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0031" ref-type="ref">2013</xref>; Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0055" ref-type="ref">1998</xref>). Thus, the performance of individual addition and other introgression lines may be affected not just by the presence of the donor chromosome(s) or chromosome segment(s), but also by hidden variation in the karyotype of the recipient species.</p></sec></sec><sec id="pbi12913-sec-0013"><title>Conclusions</title><p>This comparative analysis of transcription in bread wheat, barley and the wheat&#x02013;barley 7HL addition line has identified that the addition line transcriptome had some unexpected features. The cluster of down&#x02010;regulated wheat genes on chromosome 7A was shown to be due not to an interaction with the barley telosome, but instead was revealed to be due to a 36&#x000a0;Mbp deletion lying at the distal end of the long arm, likely present in the stock of CS used to generate the disomic addition line set. The genes experiencing DT in the CS&#x000a0;+&#x000a0;7HL line were randomly distributed in terms of their genomic location, but appeared to be nonstochastic in relation to their function. This set of genes provides a resource for investigating the molecular basis of DT, which may involve regulatory sequences, epigenetic changes or the organization of chromosome domains in the interphase nucleus. These analyses will be facilitated by the availability of high&#x02010;quality wheat and barley genome sequence and its associated annotation. The present study has provided a set of genes of potential relevance for determining the gene networks responsible for interspecific incompatibility between wheat and its related species.</p></sec><sec id="pbi12913-sec-0014"><title>Materials and methods</title><sec id="pbi12913-sec-0015"><title>Sample preparation and sequencing</title><p>The plant material used in this study comprised CS wheat (2n&#x000a0;=&#x000a0;6x&#x000a0;=&#x000a0;42, AABBDD), Betzes barley (B; 2n&#x000a0;=&#x000a0;2x&#x000a0;=&#x000a0;14, HH) and the CS/B addition line harbouring a pair of 7HL telosomes (CS&#x000a0;+&#x000a0;7HL; AABBDD&#x000a0;+&#x000a0;7HL&#x02032;&#x02032;). Grain of CS&#x000a0;+&#x000a0;7HL and of the six viable whole chromosome CS/B addition lines (+2H through +7H) were obtained from the National BioResource Project, Komugi (shigen.nig.ac.jp/wheat/komugi/strains/nbrpDetailAction.do?strainId=LPGKU2105). The mitotic chromosome number of each aneuploid line was checked to confirm the presence of the expected chromosome complement, following the Kopeck&#x000fd; <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0048" ref-type="ref">2007</xref>) procedure. Plants were raised under a 16&#x000a0;h photoperiod and a day/night temperature regime of 20&#x000a0;&#x000b0;C/16&#x000a0;&#x000b0;C. When they had reached Zadoks stage 11 (first leaf emerged), the oldest leaf from each of three plants of each line was pooled into a single sample (~25&#x000a0;mg), snap&#x02010;frozen in liquid nitrogen and held at &#x02212;80&#x000a0;&#x000b0;C. Six biological replicates were collected for each line. RNA was extracted using an RNeasy Plant Mini Kit (Qiagen, Hilden, Germany) and treated with RNase&#x02010;free DNase I (Qiagen) to remove contaminating genomic DNA. The integrity of the RNA was assessed using a 2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA), and an RNA integrity number (RIN) was calculated. Only samples with a RIN &#x0003e;7 were retained for library construction and sequencing, carried out at POPS&#x02010;IPS2 platform (<ext-link ext-link-type="uri" xlink:href="http://www.ips2.u-psud.fr/spip.php?article213">http://www.ips2.u-psud.fr/spip.php?article213</ext-link>). cDNA libraries were generated for each sample using a TruSeq RNA Sample Preparation Kit (Illumina, San Diego, CA). The samples were randomly pooled by six and sequenced on 2&#x000a0;&#x000d7;&#x000a0;100&#x000a0;bp paired&#x02010;end flow cells using HiSeq2000 device (Illumina), generating ~30&#x000a0;million reads per sample. Ribosomal RNA sequences were removed with the help of sortMeRNA program (Kopylova <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0049" ref-type="ref">2012</xref>), reads were cut after the first uncalled base (&#x02018;N&#x02019;) and low&#x02010;quality reads (Phred score &#x0003c;Q30) were discarded using Trimmomatic software (Bolger <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0008" ref-type="ref">2014</xref>).</p><p>RNA&#x02010;seq data have been deposited in the sequence read archive under the BioProject accession number PRJNA412872.</p></sec><sec id="pbi12913-sec-0016"><title>Transcript analysis</title><p>Each of the reads for each of the 18 samples (six replicates of each of CS, B and CS&#x000a0;+&#x000a0;7HL) was mapped against the &#x02018;High Confidence&#x02019; coding sequences of both wheat (IWGSC RefSeq v1.0, see IWGSC, <xref rid="pbi12913-bib-0040" ref-type="ref">2018</xref>) and barley (IBSC RefSeq, see Mascher <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0056" ref-type="ref">2017</xref>) using Bowtie v1.0.0 software (Langmead <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0052" ref-type="ref">2009</xref>) with no mismatches allowed. The quantification of transcripts abundance was performed using RSEM v1.2.8 software (Li and Dewey, <xref rid="pbi12913-bib-0054" ref-type="ref">2011</xref>). The assignment of DT was based on two comparisons: one between CS and CS&#x000a0;+&#x000a0;7HL, and the other between B and CS&#x000a0;+&#x000a0;7HL. Transcripts recording a count of less than one per million mapped reads were ignored, and the counts were then normalized by the effective library size using the trimmed mean of the logarithm of the transcript abundance ratios (TMM); DT was identified using edgeR package version 3.18.1 (Robinson <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0068" ref-type="ref">2010</xref>) of the R software version 3.4.1, based on a generalized linear model where the log of the mean expression is a linear function of the factor &#x02018;group&#x02019; defining all biological replicates of either CS, B or CS&#x000a0;+&#x000a0;7HL. The false discovery rate for calling DT was set as 5%. Up&#x02010;/down&#x02010;regulation refers to genes for which the transcript abundance was significantly higher/lower in CS&#x000a0;+&#x000a0;7HL than in either CS or B, without applying fold change threshold to see all changes. Finally, the TMM&#x02010;normalized counts were converted into FPKMs to enable comparisons between different genes within or between samples.</p></sec><sec id="pbi12913-sec-0017"><title>Genomic distribution of the genes responsible for the transcripts</title><p>The density of the transcribed genes was calculated on the basis of a sliding 10&#x000a0;Mbp window, with a step of 1&#x000a0;Mbp along each chromosome. Similarly, the ratios of down&#x02010; and up&#x02010;regulated to transcribed transcripts [R(Down/Trans), R(Up/Trans)] were calculated. The mean logarithm of the fold change in transcript abundance (logFC) in the comparisons CS <italic>vs</italic> CS&#x000a0;+&#x000a0;7HL and B <italic>vs</italic> CS&#x000a0;+&#x000a0;7HL was determined for the same genomic windows. Each of these measures was processed using the R package changepoint v2.2.2 program (Killick and Eckley, <xref rid="pbi12913-bib-0046" ref-type="ref">2014</xref>) employing the &#x02018;Pruned Exact Linear Time&#x02019; method (Killick <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0047" ref-type="ref">2012</xref>).</p></sec><sec id="pbi12913-sec-0018"><title>Flow cytometry</title><p>The procedure used for preparing metaphase chromosome suspensions and subsequent FISHIS labelling has been described by Vr&#x000e1;na <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0074" ref-type="ref">2016</xref>). A crude suspension of tomato nuclei obtained from chopped leaf was added to the chromosome suspensions to serve as an internal reference for the estimation of the DNA content of chromosome 7A in both CS and CS&#x000a0;+&#x000a0;7HL. Flow cytometry and sorting were conducted using a FACSAria flow cytometer (BD Biosciences, San Jos&#x000e9;, CA) equipped with blue laser (488&#x000a0;nm, 100&#x000a0;mW) for FITC fluorescence excitation and a UV laser (355&#x000a0;nm, 100&#x000a0;mW) for DAPI fluorescence excitation.</p></sec><sec id="pbi12913-sec-0019"><title>Cytogenetic analysis</title><p>Chromosomes 7A sorted from CS and CS&#x000a0;+&#x000a0;7HL were subjected to FISH, using as probes either a GAA microsatellite or an Afa family repeat, to identify individual chromosomes. The FISH protocol followed that of Vr&#x000e1;na <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0074" ref-type="ref">2016</xref>), except that in case of metaphase spreads, the denaturation period was extended to 2&#x000a0;min at 80&#x000a0;&#x000b0;C. C&#x02010;banding analysis was performed following the protocol previously described by (Endo, <xref rid="pbi12913-bib-0022" ref-type="ref">2011</xref>).</p></sec><sec id="pbi12913-sec-0020"><title>Genotypic analysis</title><p>Genes present on the group 7 chromosomes for which there were known to be a full set of three homeologs were identified using the homeologs data set provided with the IWGSC RefSeq_v1.0 (IWGSC, <xref rid="pbi12913-bib-0040" ref-type="ref">2018</xref>). The genomic sequence of each homeolog was processed using GSP software (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0076" ref-type="ref">2016</xref>) to allow PCR primers to be designed with a Tm of 50&#x02013;65&#x000a0;&#x000b0;C and a GC content of 50%&#x02013;60%; the predicted amplicon size range was limited to the range 150&#x02013;250&#x000a0;bp. The selected primer sequences were scanned against both the IWGSC RefSeq (IWGSC, <xref rid="pbi12913-bib-0040" ref-type="ref">2018</xref>) and IBSC RefSeq (Mascher <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0056" ref-type="ref">2017</xref>) sequences to remove any which were likely nonspecific for the 7A homeolog. Finally, PCRs were run on a set of templates (genomic DNA from CS and CS&#x000a0;+&#x000a0;7HL.</p></sec><sec id="pbi12913-sec-0021"><title>Definition of homeologous and nonhomeologous gene sets</title><p>Sets of homeologous and nonhomeologous genes between 7HL and wheat subgenomes were determined by whole genome comparison of protein sequences using BLASTp (Altschul <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0001" ref-type="ref">1990</xref>) leveraged by MCScanX software (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0075" ref-type="ref">2012</xref>) with <italic>E</italic>&#x02010;value threshold of 10e&#x02010;5 and a size of synteny block of 10 genes. Finally, only 1&#x000a0;:&#x000a0;1 relationships were retained for each subgenome comparison.</p></sec><sec id="pbi12913-sec-0022"><title>Gene ontology term enrichment analysis</title><p>Gene ontology terms were associated with each of the wheat and barley genes according to functional annotations provided by, respectively, IWGSC (<xref rid="pbi12913-bib-0040" ref-type="ref">2018</xref>) and Mascher <italic>et&#x000a0;al</italic>. (<xref rid="pbi12913-bib-0056" ref-type="ref">2017</xref>). Ontologizer2.0 software (Bauer <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0003" ref-type="ref">2008</xref>) was applied to identify GO term enrichment. The full set of transcribed genes for wheat and 7HL genes was used as reference comparison set for the enrichment analysis of the genes deleted in 7AL and for the up&#x02010; and down&#x02010;regulated genes in CS&#x000a0;+&#x000a0;7HL. <italic>P</italic>&#x02010;values were evaluated using the Parent&#x02013;Child&#x02013;Union method (Grossmann <italic>et&#x000a0;al</italic>., <xref rid="pbi12913-bib-0035" ref-type="ref">2007</xref>) and then adjusted by applying the Benjamini&#x02013;Hochberg correction (Benjamini and Hochberg, <xref rid="pbi12913-bib-0004" ref-type="ref">1995</xref>). GO terms considered as enriched were retained on the basis of adjusted <italic>P</italic>&#x02010;value thresholds of 0.01 (wheat) and 0.05 (7HL).</p></sec></sec><sec id="pbi12913-sec-0024"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12913-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> All CS/B addition lines carry a major deletion in the 7AL chromosome arm. The same deletion as detected in the CS&#x000a0;+&#x000a0;7HL ditelosomic addition line is present in the six CS/B whole chromosome addition lines, as shown by C&#x02010;banding. Chromosomes 7A are indicated on the pictures by red arrows.</p></caption><media xlink:href="PBI-16-1767-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12913-sup-0002"><caption><p>
+<bold>Table&#x000a0;S1</bold> The RNA&#x02010;seq mapping fitness.</p><p>
+<bold>Table&#x000a0;S2</bold> Molecular markers used to genotype 7AL deletion in CS and CS&#x000a0;+&#x000a0;7HL.</p><p>
+<bold>Table&#x000a0;S3</bold> The gene ontology terms enriched in the set of wheat up&#x02010;regulated genes in CS&#x000a0;+&#x000a0;7HL.</p><p>
+<bold>Table&#x000a0;S4</bold> The gene ontology terms enriched in the set of wheat down&#x02010;regulated genes in CS&#x000a0;+&#x000a0;7HL.</p><p>
+<bold>Table&#x000a0;S5</bold> The gene ontology terms enriched in the set of barley 7HL genes up&#x02010;regulated genes in CS&#x000a0;+&#x000a0;7HL.</p><p>
+<bold>Table&#x000a0;S6</bold> The gene ontology terms enriched in the set of barley down&#x02010;regulated genes in CS&#x000a0;+&#x000a0;7HL.</p></caption><media xlink:href="PBI-16-1767-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12913-sec-0023"><title>Acknowledgements</title><p>The authors thank Dr. Etienne Paux for fruitful scientific discussions; Petr Navr&#x000e1;til for outstanding informatics support; Radim Sva&#x0010d;ina, Helena Tvard&#x000ed;kov&#x000e1;, Marie Vyhl&#x000ed;dalov&#x000e1; for excellent technical support. &#x02018;National BioResource Project, Komugi&#x02019; is acknowledged for maintaining and providing the plant material. This research was financially backed by the Czech Science Foundation (award P501/12/G090) and by the Ministry of Education, Youth and Sports of the Czech Republic (award LO1204 from the National Program of Sustainability I). The computing infrastructure required was provided by the National Grid Infrastructure MetaCentrum (grant No. LM2010005 under the program &#x02018;Projects of Large Infrastructure for Research, Development, and Innovations&#x02019;).</p></ack><ref-list content-type="cited-references" id="pbi12913-bibl-0001"><title>References</title><ref id="pbi12913-bib-0001"><mixed-citation publication-type="journal" id="pbi12913-cit-0001">
+<string-name>
+<surname>Altschul</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Gish</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>E.W.</given-names>
+</string-name> and <string-name>
+<surname>Lipman</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>1990</year>) <article-title>Basic local alignment search tool</article-title>. <source xml:lang="en">J. Mol. Biol.</source>
+<volume>215</volume>, <fpage>403</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">2231712</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0002"><mixed-citation publication-type="journal" id="pbi12913-cit-0002">
+<string-name>
+<surname>Ashida</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nasuda</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Endo</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>2007</year>) <article-title>Dissection of barley chromosome 5H in common wheat</article-title>. <source xml:lang="en">Genes Genet. Syst.</source>
+<volume>82</volume>, <fpage>123</fpage>&#x02013;<lpage>133</lpage>.<pub-id pub-id-type="pmid">17507778</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0003"><mixed-citation publication-type="journal" id="pbi12913-cit-0003">
+<string-name>
+<surname>Bauer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Grossmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vingron</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Robinson</surname>, <given-names>P.N.</given-names>
+</string-name> (<year>2008</year>) <article-title>Ontologizer 2.0 &#x02013; a multifunctional tool for GO term enrichment analysis and data exploration</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>24</volume>, <fpage>1650</fpage>&#x02013;<lpage>1651</lpage>.<pub-id pub-id-type="pmid">18511468</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0004"><mixed-citation publication-type="journal" id="pbi12913-cit-0004">
+<string-name>
+<surname>Benjamini</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Hochberg</surname>, <given-names>Y.</given-names>
+</string-name> (<year>1995</year>) <article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. <source xml:lang="en">J. R. Statist. Soc. B</source>, <volume>57</volume>, <fpage>289</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0005"><mixed-citation publication-type="journal" id="pbi12913-cit-0005">
+<string-name>
+<surname>Bento</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Rocheta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gustafson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Viegas</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Silva</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Polyploidization as a retraction force in plant genome evolution: sequence rearrangements in triticale</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>3</volume>, <fpage>e1402</fpage>.<pub-id pub-id-type="pmid">18167561</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0006"><mixed-citation publication-type="journal" id="pbi12913-cit-0006">
+<string-name>
+<surname>Bilgic</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Garvin</surname>, <given-names>D.F.</given-names>
+</string-name> and <string-name>
+<surname>Muehlbauer</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Mapping barley genes to chromosome arms by transcript profiling of wheat&#x02013;barley ditelosomic chromosome addition lines</article-title>. <source xml:lang="en">Genome</source>, <volume>50</volume>, <fpage>898</fpage>&#x02013;<lpage>906</lpage>.<pub-id pub-id-type="pmid">18059553</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0007"><mixed-citation publication-type="journal" id="pbi12913-cit-0007">
+<string-name>
+<surname>Blakeslee</surname>, <given-names>A.</given-names>
+</string-name> (<year>1937</year>) <article-title>D&#x000e9;doublement du nombre de chromosomes chez les plantes par traitement chimique</article-title>. <source xml:lang="en">C. R. Acad. Sci. Paris</source>, <volume>205</volume>, <fpage>476</fpage>&#x02013;<lpage>479</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0008"><mixed-citation publication-type="journal" id="pbi12913-cit-0008">
+<string-name>
+<surname>Bolger</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Lohse</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Usadel</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>) <article-title>Trimmomatic: a flexible trimmer for Illumina sequence data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>30</volume>, <fpage>2114</fpage>&#x02013;<lpage>2120</lpage>.<pub-id pub-id-type="pmid">24695404</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0009"><mixed-citation publication-type="book" id="pbi12913-cit-0009">
+<string-name>
+<surname>B&#x000f6;rner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ogbonnaya</surname>, <given-names>F.C.</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f6;der</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Rasheed</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Periyannan</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Lagudah</surname>, <given-names>E.S.</given-names>
+</string-name> (<year>2015</year>) <chapter-title><italic>Aegilops tauschii</italic> introgressions in wheat</chapter-title> In <source xml:lang="en">Alien Introgression in Wheat: Cytogenetics, Molecular Biology, and Genomics</source> (<person-group person-group-type="editor"><name><surname>Moln&#x000e1;r&#x02010;L&#x000e1;ng</surname><given-names>M.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Ceoloni</surname><given-names>C.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Dole&#x0017e;el</surname><given-names>J.</given-names></name></person-group>, eds), pp. <fpage>245</fpage>&#x02013;<lpage>271</lpage>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation></ref><ref id="pbi12913-bib-0010"><mixed-citation publication-type="journal" id="pbi12913-cit-0010">
+<string-name>
+<surname>Branco</surname>, <given-names>M.R.</given-names>
+</string-name> and <string-name>
+<surname>Pombo</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>) <article-title>Chromosome organization: new facts, new models</article-title>. <source xml:lang="en">Trends Cell Biol.</source>
+<volume>17</volume>, <fpage>127</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">17197184</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0011"><mixed-citation publication-type="journal" id="pbi12913-cit-0011">
+<string-name>
+<surname>Brozynska</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Furtado</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Henry</surname>, <given-names>R.J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Genomics of crop wild relatives: expanding the gene pool for crop improvement</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>14</volume>, <fpage>1070</fpage>&#x02013;<lpage>1085</lpage>.<pub-id pub-id-type="pmid">26311018</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0012"><mixed-citation publication-type="journal" id="pbi12913-cit-0012">
+<string-name>
+<surname>Buggs</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Miles</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tate</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Schnable</surname>, <given-names>P.S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Transcriptomic shock generates evolutionary novelty in a newly formed, natural allopolyploid plant</article-title>. <source xml:lang="en">Curr. Biol.</source>
+<volume>21</volume>, <fpage>551</fpage>&#x02013;<lpage>556</lpage>.<pub-id pub-id-type="pmid">21419627</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0013"><mixed-citation publication-type="journal" id="pbi12913-cit-0013">
+<string-name>
+<surname>Chen</surname>, <given-names>Z.J.</given-names>
+</string-name> and <string-name>
+<surname>Ni</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2006</year>) <article-title>Mechanisms of genomic rearrangements and gene expression changes in plant polyploids</article-title>. <source xml:lang="en">BioEssays</source>, <volume>28</volume>, <fpage>240</fpage>&#x02013;<lpage>252</lpage>.<pub-id pub-id-type="pmid">16479580</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0014"><mixed-citation publication-type="journal" id="pbi12913-cit-0014">
+<string-name>
+<surname>Chen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Development and characterization of wheat&#x02010; <italic>Leymus racemosus</italic> translocation lines with resistance to Fusarium Head Blight</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>111</volume>, <fpage>941</fpage>&#x02013;<lpage>948</lpage>.<pub-id pub-id-type="pmid">16044268</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0015"><mixed-citation publication-type="journal" id="pbi12913-cit-0015">
+<string-name>
+<surname>Cho</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Garvin</surname>, <given-names>D.F.</given-names>
+</string-name> and <string-name>
+<surname>Muehlbauer</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2006</year>) <article-title>Transcriptome analysis and physical mapping of barley genes in wheat&#x02013;barley chromosome addition lines</article-title>. <source xml:lang="en">Genetics</source>, <volume>172</volume>, <fpage>1277</fpage>&#x02013;<lpage>1285</lpage>.<pub-id pub-id-type="pmid">16322516</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0016"><mixed-citation publication-type="journal" id="pbi12913-cit-0016">
+<string-name>
+<surname>Comai</surname>, <given-names>L.</given-names>
+</string-name> (<year>2000</year>) <article-title>Genetic and epigenetic interactions in allopolyploid plants</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>43</volume>, <fpage>387</fpage>&#x02013;<lpage>399</lpage>.<pub-id pub-id-type="pmid">10999418</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0017"><mixed-citation publication-type="journal" id="pbi12913-cit-0017">
+<string-name>
+<surname>Comai</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Madlung</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Josefsson</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Tyagi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Do the different parental &#x02018;heteromes&#x02019; cause genomic shock in newly formed allopolyploids?</article-title>. <source xml:lang="en">Philos. Trans. R. Soc. Lond. B Biol. Sci.</source>
+<volume>358</volume>, <fpage>1149</fpage>&#x02013;<lpage>1155</lpage>.<pub-id pub-id-type="pmid">12831481</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0018"><mixed-citation publication-type="journal" id="pbi12913-cit-0018">
+<string-name>
+<surname>Curtis</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Halford</surname>, <given-names>N.G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Food security: the challenge of increasing wheat yield and the importance of not compromising food safety</article-title>. <source xml:lang="en">Ann. Appl. Biol.</source>
+<volume>164</volume>, <fpage>354</fpage>&#x02013;<lpage>372</lpage>.<pub-id pub-id-type="pmid">25540461</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0019"><mixed-citation publication-type="journal" id="pbi12913-cit-0019">
+<string-name>
+<surname>Elcock</surname>, <given-names>L.S.</given-names>
+</string-name> and <string-name>
+<surname>Bridger</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Exploring the relationship between interphase gene positioning, transcriptional regulation and the nuclear matrix</article-title>. <source xml:lang="en">Biochem. Soc. Trans.</source>
+<volume>38</volume>, <fpage>263</fpage>&#x02013;<lpage>267</lpage>.<pub-id pub-id-type="pmid">20074071</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0020"><mixed-citation publication-type="journal" id="pbi12913-cit-0020">
+<string-name>
+<surname>Endo</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>1988</year>) <article-title>Induction of chromosomal structural changes by a chromosome of <italic>Aegilops cylindrica</italic> L. in common wheat</article-title>. <source xml:lang="en">J. Hered.</source>
+<volume>79</volume>, <fpage>366</fpage>&#x02013;<lpage>370</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0021"><mixed-citation publication-type="journal" id="pbi12913-cit-0021">
+<string-name>
+<surname>Endo</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>2007</year>) <article-title>The gametocidal chromosome as a tool for chromosome manipulation in wheat</article-title>. <source xml:lang="en">Chromosome Res.</source>
+<volume>15</volume>, <fpage>67</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">17295127</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0022"><mixed-citation publication-type="journal" id="pbi12913-cit-0022">
+<string-name>
+<surname>Endo</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>2011</year>) <article-title>Cytological dissection of the triticeae chromosomes by the gametocidal system</article-title>. <source xml:lang="en">Methods Mol. Biol.</source>
+<volume>701</volume>, <fpage>247</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">21181535</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0023"><mixed-citation publication-type="journal" id="pbi12913-cit-0023">
+<string-name>
+<surname>Endo</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Gill</surname>, <given-names>B.</given-names>
+</string-name> (<year>1996</year>) <article-title>The deletion stocks of common wheat</article-title>. <source xml:lang="en">J. Hered.</source>
+<volume>87</volume>, <fpage>295</fpage>&#x02013;<lpage>307</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0024"><mixed-citation publication-type="journal" id="pbi12913-cit-0024">
+<string-name>
+<surname>Fatih</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>1983</year>) <article-title>Analysis of the breeding potential of wheat&#x02010;Agropyron and wheat&#x02010;Elymus derivatives. I. Agronomic and quality characteristics</article-title>. <source xml:lang="en">Hereditas</source>, <volume>98</volume>, <fpage>287</fpage>&#x02013;<lpage>295</lpage>.<pub-id pub-id-type="pmid">6874401</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0025"><mixed-citation publication-type="journal" id="pbi12913-cit-0025">
+<string-name>
+<surname>Fedak</surname>, <given-names>G.</given-names>
+</string-name> (<year>1999</year>) <article-title>Molecular aids for integration of alien chromatin through wide crosses</article-title>. <source xml:lang="en">Genome</source>, <volume>42</volume>, <fpage>584</fpage>&#x02013;<lpage>591</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0026"><mixed-citation publication-type="journal" id="pbi12913-cit-0026">
+<string-name>
+<surname>Feldman</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Levy</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2005</year>) <article-title>Allopolyploidy &#x02013; a shaping force in the evolution of wheat genomes</article-title>. <source xml:lang="en">Cytogenet. Genome Res.</source>
+<volume>109</volume>, <fpage>250</fpage>&#x02013;<lpage>258</lpage>.<pub-id pub-id-type="pmid">15753584</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0027"><mixed-citation publication-type="journal" id="pbi12913-cit-0027">
+<string-name>
+<surname>Feldman</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Levy</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Genome evolution due to allopolyploidization in wheat</article-title>. <source xml:lang="en">Genetics</source>, <volume>192</volume>, <fpage>763</fpage>&#x02013;<lpage>774</lpage>.<pub-id pub-id-type="pmid">23135324</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0028"><mixed-citation publication-type="journal" id="pbi12913-cit-0028">
+<string-name>
+<surname>Feldman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Segal</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Abbo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>, <given-names>A.A.</given-names>
+</string-name> and <string-name>
+<surname>Vega</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>1997</year>) <article-title>Rapid elimination of low&#x02010;copy DNA sequences in polyploid wheat: a possible mechanism for differentiation of homoeologous chromosomes</article-title>. <source xml:lang="en">Genetics</source>, <volume>147</volume>, <fpage>1381</fpage>&#x02013;<lpage>1387</lpage>.<pub-id pub-id-type="pmid">9383078</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0029"><mixed-citation publication-type="journal" id="pbi12913-cit-0029">
+<string-name>
+<surname>Feuillet</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Langridge</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Waugh</surname>, <given-names>R.</given-names>
+</string-name> (<year>2008</year>) <article-title>Cereal breeding takes a walk on the wild side</article-title>. <source xml:lang="en">Trends Genet.</source>
+<volume>24</volume>, <fpage>24</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">18054117</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0030"><mixed-citation publication-type="journal" id="pbi12913-cit-0030">
+<string-name>
+<surname>Friebe</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Raupp</surname>, <given-names>W.J.</given-names>
+</string-name>, <string-name>
+<surname>McIntosh</surname>, <given-names>R.A.</given-names>
+</string-name> and <string-name>
+<surname>Gill</surname>, <given-names>B.S.</given-names>
+</string-name> (<year>1996</year>) <article-title>Characterization of wheat&#x02010;alien translocations conferring resistance to diseases and pests: current status</article-title>. <source xml:lang="en">Euphytica</source>, <volume>91</volume>, <fpage>59</fpage>&#x02013;<lpage>87</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0031"><mixed-citation publication-type="journal" id="pbi12913-cit-0031">
+<string-name>
+<surname>Fu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Alterations and abnormal mitosis of wheat chromosomes induced by wheat&#x02010;rye monosomic addition lines</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <fpage>e70483</fpage>.<pub-id pub-id-type="pmid">23936213</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0032"><mixed-citation publication-type="journal" id="pbi12913-cit-0032">
+<string-name>
+<surname>Gernand</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rutten</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Varshney</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rubtsova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Prodanovic</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bruss</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kumlehn</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Uniparental chromosome elimination at mitosis and interphase in wheat and pearl millet crosses involves micronucleus formation, progressive heterochromatinization, and DNA fragmentation</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>17</volume>, <fpage>2431</fpage>&#x02013;<lpage>2438</lpage>.<pub-id pub-id-type="pmid">16055632</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0033"><mixed-citation publication-type="journal" id="pbi12913-cit-0033">
+<string-name>
+<surname>Griffiths</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sharp</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Foote</surname>, <given-names>T.N.</given-names>
+</string-name>, <string-name>
+<surname>Bertin</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Wanous</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reader</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Colas</surname>, <given-names>I.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>Molecular characterization of Ph1 as a major chromosome pairing locus in polyploid wheat</article-title>. <source xml:lang="en">Nature</source>, <volume>439</volume>, <fpage>749</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">16467840</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0034"><mixed-citation publication-type="journal" id="pbi12913-cit-0034">
+<string-name>
+<surname>Grob</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schmid</surname>, <given-names>M.W.</given-names>
+</string-name> and <string-name>
+<surname>Grossniklaus</surname>, <given-names>U.</given-names>
+</string-name> (<year>2014</year>) <article-title>Hi&#x02010;C analysis in Arabidopsis identifies the KNOT, a structure with similarities to the flamenco locus of <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Mol. Cell</source>, <volume>55</volume>, <fpage>678</fpage>&#x02013;<lpage>693</lpage>.<pub-id pub-id-type="pmid">25132176</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0035"><mixed-citation publication-type="journal" id="pbi12913-cit-0035">
+<string-name>
+<surname>Grossmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>P.N.</given-names>
+</string-name> and <string-name>
+<surname>Vingron</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>Improved detection of overrepresentation of Gene&#x02010;Ontology annotations with parent&#x02013;child analysis</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>23</volume>, <fpage>3024</fpage>&#x02013;<lpage>3031</lpage>.<pub-id pub-id-type="pmid">17848398</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0036"><mixed-citation publication-type="journal" id="pbi12913-cit-0036">
+<string-name>
+<surname>Gupta</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Varshney</surname>, <given-names>R.K.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Ramesh</surname>, <given-names>B.</given-names>
+</string-name> (<year>1999</year>) <article-title>Molecular markers and their applications in wheat breeding</article-title>. <source xml:lang="en">Plant Breeding</source>, <volume>118</volume>, <fpage>369</fpage>&#x02013;<lpage>390</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0037"><mixed-citation publication-type="journal" id="pbi12913-cit-0037">
+<string-name>
+<surname>Hurni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brunner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Stirnweis</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Herren</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Peditto</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>McIntosh</surname>, <given-names>R.A.</given-names>
+</string-name> and <string-name>
+<surname>Keller</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>) <article-title>The powdery mildew resistance gene Pm8 derived from rye is suppressed by its wheat ortholog Pm3</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>79</volume>, <fpage>904</fpage>&#x02013;<lpage>913</lpage>.<pub-id pub-id-type="pmid">24942074</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0038"><mixed-citation publication-type="book" id="pbi12913-cit-0038">
+<string-name>
+<surname>Islam</surname>, <given-names>A.K.M.R.</given-names>
+</string-name> (<year>1983</year>) <chapter-title>Ditelosomic additions of barley chromosomes to wheat</chapter-title> In <source xml:lang="en">Proceedings of the Sixth International Wheat Genetics Symposium</source> (<person-group person-group-type="editor"><name><surname>Sakamoto</surname><given-names>S.</given-names></name></person-group>, ed.), pp. <fpage>233</fpage>&#x02013;<lpage>238</lpage>. <publisher-loc>Kyoto</publisher-loc>: <publisher-name>Maruzen</publisher-name>.</mixed-citation></ref><ref id="pbi12913-bib-0039"><mixed-citation publication-type="journal" id="pbi12913-cit-0039">
+<string-name>
+<surname>Islam</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shepherd</surname>, <given-names>K.W.</given-names>
+</string-name> and <string-name>
+<surname>Sparrow</surname>, <given-names>D.H.B.</given-names>
+</string-name> (<year>1981</year>) <article-title>Isolation and characterization of euplasmic wheat&#x02013;barley chromosome addition lines</article-title>. <source xml:lang="en">Heredity</source>, <volume>46</volume>, <fpage>161</fpage>&#x02013;<lpage>174</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0040"><mixed-citation publication-type="journal" id="pbi12913-cit-0040">
+<collab collab-type="authors">IWGSC</collab>
+(<year>2018</year>) <article-title>Shifting the limits in wheat research and breeding through a fully annotated and anchored reference genome sequence</article-title>. <source xml:lang="en">Science</source>, in press.</mixed-citation></ref><ref id="pbi12913-bib-0041"><mixed-citation publication-type="journal" id="pbi12913-cit-0041">
+<string-name>
+<surname>Jiang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Friebe</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Gill</surname>, <given-names>B.</given-names>
+</string-name> (<year>1993</year>) <article-title>Recent advances in alien gene transfer in wheat</article-title>. <source xml:lang="en">Euphytica</source>, <volume>73</volume>, <fpage>199</fpage>&#x02013;<lpage>212</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0042"><mixed-citation publication-type="journal" id="pbi12913-cit-0042">
+<string-name>
+<surname>Kashkush</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Levy</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2002</year>) <article-title>Gene loss, silencing and activation in a newly synthesized wheat allotetraploid</article-title>. <source xml:lang="en">Genetics</source>, <volume>160</volume>, <fpage>1651</fpage>&#x02013;<lpage>1659</lpage>.<pub-id pub-id-type="pmid">11973318</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0043"><mixed-citation publication-type="journal" id="pbi12913-cit-0043">
+<string-name>
+<surname>Kato</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kidou</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Miura</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>) <article-title>Molecular cloning and mapping of casein kinase 2 alpha and beta subunit genes in barley</article-title>. <source xml:lang="en">Genome</source>, <volume>51</volume>, <fpage>208</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">18356956</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0044"><mixed-citation publication-type="journal" id="pbi12913-cit-0044">
+<string-name>
+<surname>Kerber</surname>, <given-names>E.R.</given-names>
+</string-name> and <string-name>
+<surname>Aung</surname>, <given-names>T.</given-names>
+</string-name> (<year>1999</year>) <article-title>Leaf rust resistance gene lr34 associated with nonsuppression of stem rust resistance in the wheat cultivar canthatch</article-title>. <source xml:lang="en">Phytopathology</source>, <volume>89</volume>, <fpage>518</fpage>&#x02013;<lpage>521</lpage>.<pub-id pub-id-type="pmid">18944724</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0045"><mixed-citation publication-type="journal" id="pbi12913-cit-0045">
+<string-name>
+<surname>Kerber</surname>, <given-names>E.R.</given-names>
+</string-name> and <string-name>
+<surname>Dyck</surname>, <given-names>P.L.</given-names>
+</string-name> (<year>1973</year>) <article-title>Inheritance of stem rust resistance transferred from diploid wheat (<italic>Triticum monococcum</italic>) to tetraploid and hexaploid wheat and chromosome location of the gene involved</article-title>. <source xml:lang="en">Can. J. Genet. Cytol.</source>
+<volume>15</volume>, <fpage>397</fpage>&#x02013;<lpage>409</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0046"><mixed-citation publication-type="journal" id="pbi12913-cit-0046">
+<string-name>
+<surname>Killick</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Eckley</surname>, <given-names>I.A.</given-names>
+</string-name> (<year>2014</year>) <article-title>changepoint: an R package for changepoint analysis</article-title>. <source xml:lang="en">J. Stat. Softw.</source>
+<volume>58</volume>, <fpage>1</fpage>&#x02013;<lpage>19</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0047"><mixed-citation publication-type="journal" id="pbi12913-cit-0047">
+<string-name>
+<surname>Killick</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fearnhead</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Eckley</surname>, <given-names>I.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Optimal detection of changepoints with a linear computational cost</article-title>. <source xml:lang="en">J. Am. Stat. Assoc.</source>
+<volume>107</volume>, <fpage>1590</fpage>&#x02013;<lpage>1598</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0048"><mixed-citation publication-type="journal" id="pbi12913-cit-0048">
+<string-name>
+<surname>Kopeck&#x000fd;</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Duchoslav</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Lukaszewski</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Condensation of rye chromatin in somatic interphase nuclei of Ph1 and ph1b wheat</article-title>. <source xml:lang="en">Cytogenet. Genome Res.</source>
+<volume>119</volume>, <fpage>263</fpage>&#x02013;<lpage>267</lpage>.<pub-id pub-id-type="pmid">18253040</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0049"><mixed-citation publication-type="journal" id="pbi12913-cit-0049">
+<string-name>
+<surname>Kopylova</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Noe</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Touzet</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>) <article-title>SortMeRNA: fast and accurate filtering of ribosomal RNAs in metatranscriptomic data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>28</volume>, <fpage>3211</fpage>&#x02013;<lpage>3217</lpage>.<pub-id pub-id-type="pmid">23071270</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0050"><mixed-citation publication-type="journal" id="pbi12913-cit-0050">
+<string-name>
+<surname>Kruse</surname>, <given-names>A.</given-names>
+</string-name> (<year>1973</year>) <article-title>
+<italic>Hordeum</italic>&#x000a0;&#x000d7;&#x000a0;<italic>Triticum</italic> hybrids</article-title>. <source xml:lang="en">Hereditas</source>, <volume>73</volume>, <fpage>157</fpage>&#x02013;<lpage>161</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0051"><mixed-citation publication-type="journal" id="pbi12913-cit-0051">
+<string-name>
+<surname>Kubal&#x000e1;kov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vr&#x000e1;na</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>&#x0010c;&#x000ed;halikov&#x000e1;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;imkov&#x000e1;</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>) <article-title>Flow karyotyping and chromosome sorting in bread wheat (<italic>Triticum aestivum</italic> L.)</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>104</volume>, <fpage>1362</fpage>&#x02013;<lpage>1372</lpage>.<pub-id pub-id-type="pmid">12582592</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0052"><mixed-citation publication-type="journal" id="pbi12913-cit-0052">
+<string-name>
+<surname>Langmead</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pop</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2009</year>) <article-title>Ultrafast and memory&#x02010;efficient alignment of short DNA sequences to the human genome</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>10</volume>, <fpage>R25</fpage>.<pub-id pub-id-type="pmid">19261174</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0053"><mixed-citation publication-type="journal" id="pbi12913-cit-0053">
+<string-name>
+<surname>Levy</surname>, <given-names>A.A.</given-names>
+</string-name> and <string-name>
+<surname>Feldman</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>) <article-title>Genetic and epigenetic reprogramming of the wheat genome upon allopolyploidization</article-title>. <source xml:lang="en">Biol. J. Lin. Soc.</source>
+<volume>82</volume>, <fpage>607</fpage>&#x02013;<lpage>613</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0054"><mixed-citation publication-type="journal" id="pbi12913-cit-0054">
+<string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Dewey</surname>, <given-names>C.N.</given-names>
+</string-name> (<year>2011</year>) <article-title>RSEM: accurate transcript quantification from RNA&#x02010;Seq data with or without a reference genome</article-title>. <source xml:lang="en">BMC Bioinformatics</source>, <volume>12</volume>, <fpage>323</fpage>.<pub-id pub-id-type="pmid">21816040</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0055"><mixed-citation publication-type="journal" id="pbi12913-cit-0055">
+<string-name>
+<surname>Liu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Vega</surname>, <given-names>J.M.</given-names>
+</string-name> and <string-name>
+<surname>Feldman</surname>, <given-names>M.</given-names>
+</string-name> (<year>1998</year>) <article-title>Rapid genomic changes in newly synthesized amphiploids of Triticum and Aegilops. II. Changes in low&#x02010;copy coding DNA sequences</article-title>. <source xml:lang="en">Genome</source>, <volume>41</volume>, <fpage>535</fpage>&#x02013;<lpage>542</lpage>.<pub-id pub-id-type="pmid">9796102</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0056"><mixed-citation publication-type="journal" id="pbi12913-cit-0056">
+<string-name>
+<surname>Mascher</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gundlach</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Himmelbach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Beier</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Twardziok</surname>, <given-names>S.O.</given-names>
+</string-name>, <string-name>
+<surname>Wicker</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Radchuk</surname>, <given-names>V.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>A chromosome conformation capture ordered sequence of the barley genome</article-title>. <source xml:lang="en">Nature</source>, <volume>544</volume>, <fpage>427</fpage>&#x02013;<lpage>433</lpage>.<pub-id pub-id-type="pmid">28447635</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0057"><mixed-citation publication-type="journal" id="pbi12913-cit-0057">
+<string-name>
+<surname>McCallum</surname>, <given-names>B.D.</given-names>
+</string-name>, <string-name>
+<surname>Tekauz</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Gilbert</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>) <article-title>Reaction of a diverse collection of barley lines to Fusarium head blight</article-title>. <source xml:lang="en">Plant Dis.</source>
+<volume>88</volume>, <fpage>167</fpage>&#x02013;<lpage>174</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0058"><mixed-citation publication-type="journal" id="pbi12913-cit-0058">
+<string-name>
+<surname>Mondal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rutkoski</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Velu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>P.K.</given-names>
+</string-name>, <string-name>
+<surname>Crespo&#x02010;Herrera</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Guzman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bhavani</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Harnessing diversity in wheat to enhance grain yield, climate resilience, disease and insect pest resistance and nutrition through conventional and modern breeding approaches</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>991</fpage>.<pub-id pub-id-type="pmid">27458472</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0059"><mixed-citation publication-type="journal" id="pbi12913-cit-0059">
+<string-name>
+<surname>Mott</surname>, <given-names>I.W.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>R.R.C.</given-names>
+</string-name> (<year>2012</year>) <article-title>Genetic variation among laboratory accessions of Chinese Spring wheat (<italic>Triticum aestivum</italic> L.)</article-title>. <source xml:lang="en">Plant Genet. Resour.</source>
+<volume>10</volume>, <fpage>97</fpage>&#x02013;<lpage>100</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0060"><mixed-citation publication-type="miscellaneous" id="pbi12913-cit-0060">
+<string-name>
+<surname>Mujeeb&#x02010;Kazi</surname>, <given-names>A.</given-names>
+</string-name> (<year>1995</year>) <chapter-title>Intergeneric crosses: hybrid production and utilization</chapter-title> In <source xml:lang="en">Utilizing Wild Grass Biodiversity in Wheat Improvement: 15 Years of Wide Cross Research at CIMMYT</source> (<person-group person-group-type="editor"><name><surname>Mujeeb&#x02010;Kazi</surname><given-names>A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Hettel</surname><given-names>G.P.</given-names></name></person-group>, eds), CIMMYT Research Report No. 2., pp. 22&#x02010;46. Mexico: CIMMYT.</mixed-citation></ref><ref id="pbi12913-bib-0061"><mixed-citation publication-type="journal" id="pbi12913-cit-0061">
+<string-name>
+<surname>Mukhopadhyay</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Singla&#x02010;Pareek</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>, <given-names>M.K.</given-names>
+</string-name> and <string-name>
+<surname>Sopory</surname>, <given-names>S.K.</given-names>
+</string-name> (<year>2013</year>) <article-title>Stress&#x02010;mediated alterations in chromatin architecture correlate with down&#x02010;regulation of a gene encoding 60S rpL32 in rice</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>54</volume>, <fpage>528</fpage>&#x02013;<lpage>540</lpage>.<pub-id pub-id-type="pmid">23359423</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0062"><mixed-citation publication-type="journal" id="pbi12913-cit-0062">
+<string-name>
+<surname>Murashige</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Skoog</surname>, <given-names>F.</given-names>
+</string-name> (<year>1962</year>) <article-title>A revised medium for rapid growth and bio assays with tobacco tissue cultures</article-title>. <source xml:lang="en">Physiol. Plant.</source>
+<volume>15</volume>, <fpage>473</fpage>&#x02013;<lpage>497</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0063"><mixed-citation publication-type="journal" id="pbi12913-cit-0063">
+<string-name>
+<surname>Pumphrey</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Laudencia&#x02010;Chingcuanco</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>O.</given-names>
+</string-name> and <string-name>
+<surname>Gill</surname>, <given-names>B.S.</given-names>
+</string-name> (<year>2009</year>) <article-title>Nonadditive expression of homoeologous genes is established upon polyploidization in hexaploid wheat</article-title>. <source xml:lang="en">Genetics</source>, <volume>181</volume>, <fpage>1147</fpage>&#x02013;<lpage>1157</lpage>.<pub-id pub-id-type="pmid">19104075</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0064"><mixed-citation publication-type="journal" id="pbi12913-cit-0064">
+<string-name>
+<surname>Rayburn</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Gill</surname>, <given-names>B.</given-names>
+</string-name> (<year>1985</year>) <article-title>Use of biotin&#x02010;labeled probes to map specific DNA sequences on wheat chromosomes</article-title>. <source xml:lang="en">J. Hered.</source>
+<volume>76</volume>, <fpage>78</fpage>&#x02013;<lpage>81</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0065"><mixed-citation publication-type="book" id="pbi12913-cit-0065">
+<string-name>
+<surname>Rey</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Moln&#x000e1;r</surname>, <given-names>I.</given-names>
+</string-name> and <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Genomics of wild relatives and alien introgressions</chapter-title> In <source xml:lang="en">Alien Introgression in Wheat: Cytogenetics, Molecular Biology, and Genomics</source> (<person-group person-group-type="editor"><name><surname>Moln&#x000e1;r&#x02010;L&#x000e1;ng</surname><given-names>M.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Ceoloni</surname><given-names>C.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Dole&#x0017e;el</surname><given-names>J.</given-names></name></person-group>, eds), pp. <fpage>347</fpage>&#x02013;<lpage>381</lpage>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation></ref><ref id="pbi12913-bib-0066"><mixed-citation publication-type="journal" id="pbi12913-cit-0066">
+<string-name>
+<surname>Reynolds</surname>, <given-names>M.P.</given-names>
+</string-name>, <string-name>
+<surname>Calderini</surname>, <given-names>D.F.</given-names>
+</string-name>, <string-name>
+<surname>Condon</surname>, <given-names>A.G.</given-names>
+</string-name> and <string-name>
+<surname>Rajaram</surname>, <given-names>S.</given-names>
+</string-name> (<year>2001</year>) <article-title>Physiological basis of yield gains in wheat associated with the LR19 translocation from <italic>Agropyron elongatum</italic>
+</article-title>. <source xml:lang="en">Euphytica</source>, <volume>119</volume>, <fpage>139</fpage>&#x02013;<lpage>144</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0067"><mixed-citation publication-type="journal" id="pbi12913-cit-0067">
+<string-name>
+<surname>Riley</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Chapman</surname>, <given-names>V.</given-names>
+</string-name> (<year>1958</year>) <article-title>Genetic control of the cytologically diploid behaviour of hexaploid wheat</article-title>. <source xml:lang="en">Nature</source>, <volume>182</volume>, <fpage>713</fpage>&#x02013;<lpage>715</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0068"><mixed-citation publication-type="journal" id="pbi12913-cit-0068">
+<string-name>
+<surname>Robinson</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>McCarthy</surname>, <given-names>D.J.</given-names>
+</string-name> and <string-name>
+<surname>Smyth</surname>, <given-names>G.K.</given-names>
+</string-name> (<year>2010</year>) <article-title>edgeR: a Bioconductor package for differential expression analysis of digital gene expression data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>26</volume>, <fpage>139</fpage>&#x02013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">19910308</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0069"><mixed-citation publication-type="journal" id="pbi12913-cit-0069">
+<string-name>
+<surname>Sakai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nasuda</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Endo</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Dissection of barley chromosome 3H in common wheat and a comparison of 3H physical and genetic maps</article-title>. <source xml:lang="en">Genes Genet. Syst.</source>
+<volume>84</volume>, <fpage>25</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">19420798</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0070"><mixed-citation publication-type="journal" id="pbi12913-cit-0070">
+<string-name>
+<surname>Schubert</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Rudnik</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Schubert</surname>, <given-names>I.</given-names>
+</string-name> (<year>2014</year>) <article-title>Chromatin associations in Arabidopsis interphase nuclei</article-title>. <source xml:lang="en">Front. Genet.</source>
+<volume>5</volume>, <fpage>389</fpage>.<pub-id pub-id-type="pmid">25431580</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0071"><mixed-citation publication-type="journal" id="pbi12913-cit-0071">
+<string-name>
+<surname>Shi</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Endo</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>1997</year>) <article-title>Production of wheat&#x02013;barley disomic addition lines possessing an <italic>Aegilops cylindrica</italic> gametocidal chromosome</article-title>. <source xml:lang="en">Genes Genet. Syst.</source>
+<volume>72</volume>, <fpage>243</fpage>&#x02013;<lpage>248</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0072"><mixed-citation publication-type="journal" id="pbi12913-cit-0072">
+<string-name>
+<surname>Stirnweis</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Milani</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>Brunner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Herren</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Buchmann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Peditto</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jordan</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Suppression among alleles encoding nucleotide&#x02010;binding&#x02010;leucine&#x02010;rich repeat resistance proteins interferes with resistance in F1 hybrid and allele&#x02010;pyramided wheat plants</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>79</volume>, <fpage>893</fpage>&#x02013;<lpage>903</lpage>.<pub-id pub-id-type="pmid">24942051</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0073"><mixed-citation publication-type="journal" id="pbi12913-cit-0073">
+<string-name>
+<surname>Tang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ohyama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kawaura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hashinokuchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kamiya</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Muranaka</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>A new insight into application for barley chromosome addition lines of common wheat: achievement of stigmasterol accumulation</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>157</volume>, <fpage>1555</fpage>&#x02013;<lpage>1567</lpage>.<pub-id pub-id-type="pmid">21951468</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0074"><mixed-citation publication-type="journal" id="pbi12913-cit-0074">
+<string-name>
+<surname>Vr&#x000e1;na</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>C&#x000e1;pal</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>&#x0010c;&#x000ed;halikov&#x000e1;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kubal&#x000e1;kov&#x000e1;</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Dole&#x0017e;el</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Flow sorting plant chromosomes</article-title>. <source xml:lang="en">Methods Mol. Biol.</source>
+<volume>1429</volume>, <fpage>119</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">27511171</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0075"><mixed-citation publication-type="journal" id="pbi12913-cit-0075">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Debarry</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>T.H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>MCScanX: a toolkit for detection and evolutionary analysis of gene synteny and collinearity</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>40</volume>, <fpage>e49</fpage>.<pub-id pub-id-type="pmid">22217600</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0076"><mixed-citation publication-type="journal" id="pbi12913-cit-0076">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tiwari</surname>, <given-names>V.K.</given-names>
+</string-name>, <string-name>
+<surname>Rawat</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>, <given-names>B.S.</given-names>
+</string-name>, <string-name>
+<surname>Huo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>You</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Coleman&#x02010;Derr</surname>, <given-names>D.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>GSP: a web&#x02010;based platform for designing genome&#x02010;specific primers in polyploids</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>32</volume>, <fpage>2382</fpage>&#x02013;<lpage>2383</lpage>.<pub-id pub-id-type="pmid">27153733</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0077"><mixed-citation publication-type="journal" id="pbi12913-cit-0077">
+<string-name>
+<surname>Wulff</surname>, <given-names>B.B.H.</given-names>
+</string-name> and <string-name>
+<surname>Moscou</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>2014</year>) <article-title>Strategies for transferring resistance into wheat: from wide crosses to GM cassettes</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>5</volume>, <fpage>692</fpage>.<pub-id pub-id-type="pmid">25538723</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0078"><mixed-citation publication-type="journal" id="pbi12913-cit-0078">
+<string-name>
+<surname>Xu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wendel</surname>, <given-names>J.F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Genome&#x02010;wide disruption of gene expression in allopolyploids but not hybrids of rice subspecies</article-title>. <source xml:lang="en">Mol. Biol. Evol.</source>
+<volume>31</volume>, <fpage>1066</fpage>&#x02013;<lpage>1076</lpage>.<pub-id pub-id-type="pmid">24577842</pub-id></mixed-citation></ref><ref id="pbi12913-bib-0079"><mixed-citation publication-type="journal" id="pbi12913-cit-0079">
+<string-name>
+<surname>Yamamoto</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Mukai</surname>, <given-names>Y.</given-names>
+</string-name> (<year>1989</year>) <article-title>Application of fluorescence in&#x000a0;situ hybridization to molecular cytogenetics of wheat</article-title>. <source xml:lang="en">Wheat Information Service</source>, <volume>69</volume>, <fpage>30</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="pbi12913-bib-0080"><mixed-citation publication-type="journal" id="pbi12913-cit-0080">
+<string-name>
+<surname>Yuan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Islam</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Xin</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2002</year>) <article-title>Identification of wheat&#x02013;barley 2H alien substitution lines</article-title>. <source xml:lang="en">Acta Botanica Sinica</source>, <volume>45</volume>, <fpage>1096</fpage>&#x02013;<lpage>1102</lpage>.</mixed-citation></ref></ref-list></back></article>

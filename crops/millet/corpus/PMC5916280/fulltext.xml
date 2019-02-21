@@ -1,0 +1,587 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5916280</article-id><article-id pub-id-type="doi">10.1002/ece3.3961</article-id><article-id pub-id-type="publisher-id">ECE33961</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Effects of a zoonotic pathogen, <italic>Borrelia burgdorferi</italic>, on the behavior of a key reservoir host</article-title><alt-title alt-title-type="left-running-head">OSTFELD et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="ece33961-cr-0001" contrib-type="author" corresp="yes"><name><surname>Ostfeld</surname><given-names>Richard S.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3707-9301</contrib-id><address><email>ostfeldr@caryinstitute.org</email></address><xref ref-type="aff" rid="ece33961-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece33961-cr-0002" contrib-type="author"><name><surname>Brisson</surname><given-names>Dustin</given-names></name><xref ref-type="aff" rid="ece33961-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece33961-cr-0003" contrib-type="author"><name><surname>Oggenfuss</surname><given-names>Kelly</given-names></name><xref ref-type="aff" rid="ece33961-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece33961-cr-0004" contrib-type="author"><name><surname>Devine</surname><given-names>Jill</given-names></name><xref ref-type="aff" rid="ece33961-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece33961-cr-0005" contrib-type="author"><name><surname>Levy</surname><given-names>Michael Z.</given-names></name><xref ref-type="aff" rid="ece33961-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece33961-cr-0006" contrib-type="author"><name><surname>Keesing</surname><given-names>Felicia</given-names></name><xref ref-type="aff" rid="ece33961-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="ece33961-aff-0001">
+<label><sup>1</sup></label>
+<institution>Cary Institute of Ecosystem Studies</institution>
+<named-content content-type="city">Millbrook</named-content>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece33961-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of Pennsylvania</institution>
+<named-content content-type="city">Philadelphia</named-content>
+<named-content content-type="country-part">PA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece33961-aff-0003">
+<label><sup>3</sup></label>
+<institution>Bard College</institution>
+<named-content content-type="city">Annandale&#x02010;on&#x02010;Hudson</named-content>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Richard S. Ostfeld, Cary Institute of Ecosystem Studies, Millbrook, NY, USA.<break/>
+Email: <email>ostfeldr@caryinstitute.org</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2018</year></pub-date><volume>8</volume><issue>8</issue><issue-id pub-id-type="doi">10.1002/ece3.2018.8.issue-8</issue-id><fpage>4074</fpage><lpage>4083</lpage><history><date date-type="received"><day>16</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>31</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>09</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-8-4074.pdf"/><abstract id="ece33961-abs-0001"><title>Abstract</title><p>Most emerging infectious diseases of humans are transmitted to humans from other animals. The transmission of these &#x0201c;zoonotic&#x0201d; pathogens is affected by the abundance and behavior of their wildlife hosts. However, the effects of infection with zoonotic pathogens on behavior of wildlife hosts, particularly those that might propagate through ecological communities, are not well understood. <italic>Borrelia burgdorferi</italic> is a bacterium that causes Lyme disease, the most common vector&#x02010;borne disease in the <styled-content style="fixed-case">USA</styled-content> and Europe. In its North American range, the pathogen is most frequently transmitted among hosts through the bite of infected blacklegged ticks (<italic>Ixodes scapularis</italic>). Using sham and true vaccines, we experimentally manipulated infection load with this zoonotic pathogen in its most competent wildlife reservoir host, the white&#x02010;footed mouse, <italic>Peromyscus leucopus</italic>, and quantified the effects of infection on mouse foraging behavior, as well as levels of mouse infestation with ticks. Mice treated with the true vaccine had 20% fewer larval blacklegged ticks infesting them compared to mice treated with the sham vaccine, a significant difference. We observed a nonsignificant trend for mice treated with the true vaccine to be more likely to visit experimental foraging trays (20%&#x02013;30% effect size) and to prey on gypsy moth pupae (5%&#x02013;20% effect size) compared to mice treated with the sham vaccine. We observed no difference between mice on true&#x02010; versus sham&#x02010;vaccinated grids in risk&#x02010;averse foraging. Infection with this zoonotic pathogen appears to elicit behavioral changes that might reduce self&#x02010;grooming, but other behaviors were affected subtly or not at all. High titers of <italic>B.&#x000a0;burgdorferi</italic> in mice could elicit a self&#x02010;reinforcing feedback loop in which reduced grooming increases tick burdens and hence exposure to tick&#x02010;borne pathogens.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece33961-kwd-0001">Lyme disease</kwd><kwd id="ece33961-kwd-0002">reservoir host</kwd><kwd id="ece33961-kwd-0003">tick&#x02010;borne disease</kwd><kwd id="ece33961-kwd-0004">vaccination</kwd><kwd id="ece33961-kwd-0005">wildlife reservoir</kwd><kwd id="ece33961-kwd-0006">zoonosis</kwd><kwd id="ece33961-kwd-0007">zoonotic disease</kwd></kwd-group><funding-group><award-group><funding-source>National Science Foundation</funding-source><award-id>DEB 1354332</award-id><award-id>DEB 1456527</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="10"/><word-count count="7783"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece33961</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.7 mode:remove_FC converted:25.04.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece33961-cit-1001">
+<string-name>
+<surname>Ostfeld</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Brisson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Oggenfuss</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Devine</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>MZ</given-names>
+</string-name>, <string-name>
+<surname>Keesing</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Effects of a zoonotic pathogen, <italic>Borrelia burgdorferi</italic>, on the behavior of a key reservoir host</article-title>. <source>Ecol Evol</source>. <year>2018</year>;<volume>8</volume>:<fpage>4074</fpage>&#x02013;<lpage>4083</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/ece3.3961">https://doi.org/10.1002/ece3.3961</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="ece33961-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The majority of emerging infectious diseases of humans are transmitted to humans from other vertebrates; that is, they are &#x0201c;zoonotic&#x0201d; (Taylor, Latham, &#x00026; Woolhouse, <xref rid="ece33961-bib-0052" ref-type="ref">2001</xref>; Woolhouse &#x00026; Gowtage&#x02010;Sequeria, <xref rid="ece33961-bib-0059" ref-type="ref">2005</xref>). Zoonotic pathogens typically infect one or more wildlife host species in addition to humans. Rarely, however, have the effects of zoonotic pathogens on their wildlife hosts, including behaviors, been considered (Gage and Kosoy <xref rid="ece33961-bib-0018" ref-type="ref">2005</xref>, Luis et al. <xref rid="ece33961-bib-0029" ref-type="ref">2012</xref>, George et al. <xref rid="ece33961-bib-0019" ref-type="ref">2013</xref>, Worth et al. <xref rid="ece33961-bib-0060" ref-type="ref">2014</xref>), and we know of no studies examining the impacts of zoonotic pathogens on interactions between reservoir hosts and other members of the ecological communities of which they are a part. The effects of a zoonotic pathogen on host behavior, population dynamics, or competitive interactions could have significant ecological consequences that radiate through an ecosystem. For instance, zoonotic pathogens typically infect multiple host species, but some hosts amplify pathogen populations and others do not (Ostfeld &#x00026; Keesing, <xref rid="ece33961-bib-0037" ref-type="ref">2012</xref>). Transmission of the pathogen from infected hosts to new hosts depends critically on the population density and behavior of the infected hosts. Both of these factors could be affected by the pathogen. Some host species also play other important roles in ecosystems&#x02014;for example as keystone or hub species&#x02014;and their roles in communities could be affected by changes in behavior or abundance caused by the pathogen (Collinge &#x00026; Ray, <xref rid="ece33961-bib-0012" ref-type="ref">2007</xref>; Dobson &#x00026; Hudson, <xref rid="ece33961-bib-0015" ref-type="ref">1986</xref>).</p><p>We examined the effects of a widespread zoonotic pathogen, the Lyme disease bacterium <italic>Borrelia burgdorferi</italic> (hereafter <italic>Bb</italic>), on a key reservoir host, the white&#x02010;footed mouse (<italic>Peromyscus leucopus</italic>) (Brisson, Dykhuizen, &#x00026; Ostfeld, <xref rid="ece33961-bib-0005" ref-type="ref">2008</xref>; LoGiudice, Ostfeld, Schmidt, &#x00026; Keesing, <xref rid="ece33961-bib-0028" ref-type="ref">2003</xref>). Lyme disease is the most prevalent vector&#x02010;borne disease in the temperate zone worldwide, and its incidence rates and geographic extent are both expanding rapidly (Kugeler, Farley, Forrester, &#x00026; Mead, <xref rid="ece33961-bib-0025" ref-type="ref">2015</xref>; Ostfeld, <xref rid="ece33961-bib-0034" ref-type="ref">2011</xref>). The pathogen is transmitted to vertebrate hosts through bites by ixodid ticks, which serve as its vectors (Ostfeld, <xref rid="ece33961-bib-0034" ref-type="ref">2011</xref>). In eastern North America, the vector species is the blacklegged tick (<italic>Ixodes scapularis</italic>). Larvae of these ticks hatch uninfected with the Lyme disease bacterium, but they can acquire the bacterium from a host during their larval blood meal. If the ticks acquire <italic>Bb</italic> infection during their larval meal, they can then transmit the infection to various hosts, including humans, during the nymphal or adult blood meal (Brisson, Drecktrah, Eggers, &#x00026; Samuels, <xref rid="ece33961-bib-0003" ref-type="ref">2012</xref>; LoGiudice et&#x000a0;al., <xref rid="ece33961-bib-0028" ref-type="ref">2003</xref>).</p><p>The consequences for the host of becoming infected with <italic>Bb</italic> vary from species to species. In humans, <italic>Bb</italic> infections can produce arthritis, carditis, facial palsy, chronic fatigue, and other symptoms (Cairns &#x00026; Godwin, <xref rid="ece33961-bib-0011" ref-type="ref">2005</xref>; Massarotti, <xref rid="ece33961-bib-0031" ref-type="ref">2002</xref>; Pinto, <xref rid="ece33961-bib-0038" ref-type="ref">2002</xref>; Rahn, <xref rid="ece33961-bib-0041" ref-type="ref">1991</xref>). <italic>Bb</italic> also causes serious disease in dogs as a result of kidney, synovial, and nervous system lesions (Day, <xref rid="ece33961-bib-0014" ref-type="ref">2011</xref>) and meningitis and neuritis in horses (James, Engiles, &#x00026; Beech, <xref rid="ece33961-bib-0022" ref-type="ref">2010</xref>). Some strains of laboratory mice (<italic>Mus musculus</italic>) also experience damaged skeletomuscular and neurological tissues from <italic>Bb</italic> infection (Barthold, <xref rid="ece33961-bib-0001" ref-type="ref">1991</xref>; Burgess, French, &#x00026; Gendron&#x02010;Fitzpatrick, <xref rid="ece33961-bib-0010" ref-type="ref">1990</xref>; Moro et&#x000a0;al., <xref rid="ece33961-bib-0033" ref-type="ref">2002</xref>).</p><p>
+<italic>Peromyscus leucopus</italic> is the most competent reservoir host for <italic>Bb</italic>, with some studies demonstrating that mice transmit infection to &#x02265;80% of feeding larval ticks (Brisson &#x00026; Dykhuizen, <xref rid="ece33961-bib-0004" ref-type="ref">2004</xref>; LoGiudice et&#x000a0;al., <xref rid="ece33961-bib-0028" ref-type="ref">2003</xref>). The effects of <italic>Bb</italic> infection on white&#x02010;footed mice have not been clearly determined. Burgess et&#x000a0;al. (<xref rid="ece33961-bib-0010" ref-type="ref">1990</xref>) described neurological disease and lesions in brain, kidney, and liver of spirochete&#x02010;infected mice, but the study was correlative and thus did not establish <italic>Bb</italic> infection as the cause of these symptoms. In contrast, others (Schwanz, Voordouw, Brisson, &#x00026; Ostfeld, <xref rid="ece33961-bib-0050" ref-type="ref">2011</xref>) found no difference between <italic>Bb</italic>&#x02010;infected and uninfected mice in either innate immune response or wheel&#x02010;running activity in the laboratory. Further, Hofmeister, Ellis, Glass, and Childs (<xref rid="ece33961-bib-0021" ref-type="ref">1999</xref>) compared survival times of mice that became infected during their study (<italic>N</italic>&#x000a0;=&#x000a0;28, median survival&#x000a0;=&#x000a0;123&#x000a0;days) and those that did not (<italic>N</italic>&#x000a0;=&#x000a0;19, median survival&#x000a0;=&#x000a0;97&#x000a0;days). Despite the apparently longer survival of infected mice, a comparison of medians with a Wilcoxon test showed this difference to be nonsignificant (Hofmeister et&#x000a0;al., <xref rid="ece33961-bib-0021" ref-type="ref">1999</xref>), although sample sizes were small and the tests were conservative.</p><p>The effects of <italic>Bb</italic> infection on <italic>P.&#x000a0;leucopus</italic> are particularly important ecologically. These mice are a critical hub species in eastern forests. Mice serve as prey for raptors and carnivores (Levi, Kilpatrick, Mangel, &#x00026; Wilmers, <xref rid="ece33961-bib-0027" ref-type="ref">2012</xref>; Schmidt &#x00026; Ostfeld, <xref rid="ece33961-bib-0046" ref-type="ref">2008</xref>) and eat the seeds of forest trees (Manson, Ostfeld, &#x00026; Canham, <xref rid="ece33961-bib-0030" ref-type="ref">2001</xref>; Schnurr, Ostfeld, &#x00026; Canham, <xref rid="ece33961-bib-0047" ref-type="ref">2002</xref>), the eggs of ground&#x02010;nesting songbirds (Schmidt et&#x000a0;al., <xref rid="ece33961-bib-0045" ref-type="ref">2001</xref>), and the pupae of gypsy moths (Elkinton et&#x000a0;al., <xref rid="ece33961-bib-0017" ref-type="ref">1996</xref>; Jones, Ostfeld, Richard, Schauber, &#x00026; Wolff, <xref rid="ece33961-bib-0023" ref-type="ref">1998</xref>). For example, mice attack eggs in the nests of veeries (<italic>Catharus fuscescens</italic>), causing nest failure when mice are at high density (Schmidt &#x00026; Ostfeld, <xref rid="ece33961-bib-0046" ref-type="ref">2008</xref>). The effects of this predation are pronounced enough that regional declines in veery abundance can be detected in Breeding Bird Survey data when mouse populations have been high (Schmidt, <xref rid="ece33961-bib-0043" ref-type="ref">2003</xref>). Mice are also important predators on the pupal stage of gypsy moths, an invasive forest pest that can defoliate forests when at peak density (Elkinton et&#x000a0;al., <xref rid="ece33961-bib-0017" ref-type="ref">1996</xref>; Ostfeld, Jones, &#x00026; Wolff, <xref rid="ece33961-bib-0036" ref-type="ref">1996</xref>). The moths pupate on the trunks of trees, which leaves them vulnerable to predation by mice during a several&#x02010;week window in midsummer. When mice are at high densities, virtually all of the pupae can be killed; when mice are at low densities, large numbers of pupae survive, setting the stage for a moth outbreak (Jones et&#x000a0;al., <xref rid="ece33961-bib-0023" ref-type="ref">1998</xref>).</p><p>To determine the effects of <italic>Bb</italic> on ecological interactions in forests, we experimentally manipulated <italic>Bb</italic> infection loads in mice using an injectable anti&#x02010;<italic>Bb</italic> vaccine patterned after Tsao et&#x000a0;al. (<xref rid="ece33961-bib-0056" ref-type="ref">2004</xref>) as well as a control vaccine. Using these vaccines, we assessed the effects of <italic>Bb</italic> infection load on movement and foraging behavior by mice. We assessed foraging behavior directly by quantifying the impact of the vaccination status of mice (vaccinated or sham&#x02010;vaccinated) on experimentally deployed pupae of gypsy moths. We also measured foraging behavior indirectly by focusing on whether <italic>Bb</italic> infection load affected risk aversion by mice. This is a key behavior affecting interactions between mice and their prey&#x02014;gypsy moths, ground&#x02010;nesting songbirds, and tree seeds (Schmidt &#x00026; Ostfeld, <xref rid="ece33961-bib-0046" ref-type="ref">2008</xref>; Schwanz, Previtali, Gomes&#x02010;Solecki, Brisson, &#x00026; Ostfeld, <xref rid="ece33961-bib-0049" ref-type="ref">2012</xref>). We also assessed whether <italic>Bb</italic> infection load affected numbers of larval blacklegged ticks infesting mouse hosts. If high <italic>Bb</italic> infection load reduces the total amount of space used by individual mice, we expected mice on the anti&#x02010;<italic>Bb&#x02010;</italic>vaccinated plots to have greater tick burdens, owing to higher encounter rates. If high <italic>Bb</italic> infection load reduces the intensity of self&#x02010;grooming behavior, we expected mice on the anti&#x02010;<italic>Bb</italic>&#x02010;vaccinated plots to have lower tick burdens.</p></sec><sec id="ece33961-sec-0002"><label>2</label><title>METHODS</title><sec id="ece33961-sec-0003"><label>2.1</label><title>Development of true and sham vaccines</title><p>We developed an anti&#x02010;<italic>Bb</italic> &#x0201c;true&#x0201d; vaccine patterned after the <italic>Bb</italic> OspA vaccine used by Tsao et&#x000a0;al. (<xref rid="ece33961-bib-0056" ref-type="ref">2004</xref>). We also developed a sham vaccine based on the OspA protein of the congener <italic>B.&#x000a0;garinii</italic> (hereafter <italic>Bg</italic>) to administer to mice as a control for the immunochallenge of receiving a vaccine (Schwanz et&#x000a0;al., <xref rid="ece33961-bib-0049" ref-type="ref">2012</xref>). For the true vaccine, we cloned OspA from <italic>Bb</italic> strain B31 into the protein expression vector pET45b creating an OspA&#x02010;6XHis fusion that was transformed into <italic>Escherichia coli</italic> BL21. For the sham vaccine, we cloned and transformed the full&#x02010;length OspA from <italic>Bg</italic> strain LV4. Production and purification were as previously described (Voordouw et&#x000a0;al., <xref rid="ece33961-bib-0057" ref-type="ref">2013</xref>), and purity was assessed by SDS&#x02010;PAGE and mass spectrometry.</p></sec><sec id="ece33961-sec-0004"><label>2.2</label><title>Capturing and immunizing animals</title><p>We conducted our field studies on six 2.25&#x02010;ha forested plots at the Cary Institute of Ecosystem Studies in Millbrook, NY, USA. These plots, which have been trapped continuously since 1995, are in oak&#x02010;dominated mixed deciduous forest. The six plots are arranged as three sets of pairs based on physical proximity, with the plots within each pair separated by 150 to 200&#x000a0;m, and the pairs separated by 500 to 2,500&#x000a0;m. Five of the six plots contain an 11&#x000a0;&#x000d7;&#x000a0;11 point grid, and the sixth plot has a 10&#x000a0;&#x000d7;&#x000a0;12 point grid, of Sherman live traps, with two traps at each grid point and 15&#x000a0;m between trap stations. Between April and November 2015, we conducted trapping every 2&#x02013;3&#x000a0;weeks for two consecutive nights on each grid. Traps were baited with crimped oats, with sunflower seeds added when temperatures were below 10&#x000b0;C. We set traps at 16:00 each afternoon and checked them the following morning between 08:00 and 11:00. Capture probabilities for mice per two&#x02010;day trap session typically exceed 0.85. Captured small mammals were marked with individually numbered ear tags if not previously marked and were then characterized for sex, age, mass, and reproductive maturity. We also counted the number of ticks on the head and ears so that we could compare the tick burdens of mice on sham&#x02010;vaccinated versus true&#x02010;vaccinated grids. We estimated population density on each plot using the minimum number alive (MNA) method (Slade &#x00026; Blair, <xref rid="ece33961-bib-0051" ref-type="ref">2000</xref>), which sums for each two&#x02010;day trapping session, the number of individuals caught in a trapping session plus those caught both before and after (but not during) that specific trapping session.</p><p>Each grid also contained 40 evenly spaced wooden nest boxes attached to tree trunks at chest height. We supplied these boxes, which are often used by adult females for raising litters from birth to weaning, with cotton nesting materials and checked them every 2&#x02013;4&#x000a0;weeks. Because gestation in white&#x02010;footed mice is ~28&#x000a0;days, this schedule allowed us to detect a high proportion of litters born on each grid.</p><p>From April through September 2015, we immunized mice weighing more than 10&#x000a0;g and captured either in the nest boxes or in traps with either the true or the sham vaccine. Mice living on three of the grids, hereafter &#x0201c;experimental&#x0201d; grids, were given the true vaccine, which protects against <italic>B.&#x000a0;burgdorferi</italic>. Mice living on the remaining three grids, hereafter &#x0201c;control&#x0201d; grids, were given the sham vaccine against <italic>B.&#x000a0;garinii</italic>, which served as a control for the immunochallenge. Following Tsao et&#x000a0;al. (<xref rid="ece33961-bib-0056" ref-type="ref">2004</xref>), we subcutaneously inoculated mice with 10&#x000a0;&#x003bc;g of either true vaccine (<italic>Bb</italic> OspA) or sham vaccine (<italic>Bg</italic> OspA) suspended in a 1:1 ratio of Freund's adjuvant (Sigma&#x02010;Aldrich) upon first capture, with that suspension made fresh each day. We gave recaptured mice up to two 10&#x000a0;&#x003bc;g boosters during subsequent trapping sessions, with each shot occurring at least 12&#x000a0;days after the previous one. To assess the anti&#x02010;OspA response by ELISA, we took blood from the submandibular vein of each animal before the administration of the first vaccine and then after the administration of the second booster, which was a minimum of 24&#x000a0;days later. At the time of blood sampling, we also took 2&#x000a0;mm ear&#x02010;punch biopsies of each animal. Tissue was taken on the same schedule as the blood sample, immediately before the first dose and immediately following the second booster. After handling, animals were released at the point of capture.</p></sec><sec id="ece33961-sec-0005"><label>2.3</label><title>Determining infection status of mice</title><p>Infection status and reservoir competence of mice were determined using xenodiagnosis. We retrieved a sample of 10&#x02013;15 true&#x02010;vaccinated and 10&#x02013;15 sham&#x02010;vaccinated mice per plot to the Animal Rearing Facility at the Cary Institute of Ecosystem Studies in August 2015, which is the period of peak larval tick activity (Levi, Keesing, Oggenfuss, &#x00026; Ostfeld, <xref rid="ece33961-bib-0026" ref-type="ref">2015</xref>). For 3&#x02013;5&#x000a0;days, which is the duration of feeding for larval ticks, we housed the mice in wire&#x02010;mesh cages suspended over pans lined with moistened paper towels and edged with a barrier of petroleum jelly. Approximately 30 larval ticks were added to the head and ears of any mouse that had fewer than 10 ticks from the field following methods described in Keesing et&#x000a0;al. (<xref rid="ece33961-bib-0024" ref-type="ref">2009</xref>). Briefly, we collected larval ticks at locations off of our grids, and then added them to the skin of each mouse with a paintbrush. We held mice immobile for 2&#x000a0;hr in an aerated PVC tube, and then returned them to their cages and gave them food and water ad libitum. Mice with added ticks were kept for 5&#x000a0;days, while those with naturally acquired tick burdens were kept for 3&#x000a0;days. We collected all replete larval ticks that fell into the pans, allowed them to molt to the nymphal stage (approximately 1&#x000a0;month) following procedures described in detail in (Hersh et&#x000a0;al., <xref rid="ece33961-bib-0020" ref-type="ref">2014</xref>), and tested the resulting nymphs by PCR for infection with <italic>Bb</italic> (Brisson &#x00026; Dykhuizen, <xref rid="ece33961-bib-0004" ref-type="ref">2004</xref>; Brisson et&#x000a0;al., <xref rid="ece33961-bib-0005" ref-type="ref">2008</xref>). <italic>Bb</italic> DNA was amplified by nested PCR of the <italic>ospC</italic> locus as previously described (Brisson &#x00026; Dykhuizen, <xref rid="ece33961-bib-0004" ref-type="ref">2004</xref>) and the <italic>rrs&#x02010;rrlA</italic> intergenic spacer (IGS) locus (Bunikis et&#x000a0;al., <xref rid="ece33961-bib-0009" ref-type="ref">2004</xref>).</p></sec><sec id="ece33961-sec-0006"><label>2.4</label><title>Measuring foraging behavior</title><p>To measure risk aversion, we determined the quitting harvest rate (QHR) of mice on the field plots, defined as the rate of food acquisition at which a forager leaves a patch. The QHR can be estimated and compared among patches by measuring the time a forager spends in a patch, or the giving&#x02010;up density (GUD) of a food patch, which is the amount of food (e.g., seed) left behind when a forager leaves a food patch (Brown, <xref rid="ece33961-bib-0006" ref-type="ref">1988</xref>, <xref rid="ece33961-bib-0007" ref-type="ref">1992</xref>). Food patches with higher costs of predation (i.e., riskier habitats) have been shown to have higher GUDs, indicating that foragers have a higher QHR in these patches and thus require greater food intake rates to remain foraging in a risky habitat (Brown, <xref rid="ece33961-bib-0006" ref-type="ref">1988</xref>; Brown &#x00026; Kotler, <xref rid="ece33961-bib-0008" ref-type="ref">2004</xref>). In previous research, we measured foraging behavior of mice on our trapping grids using giving&#x02010;up densities of seeds at experimental seed trays that were either risky (uncovered) or safe (covered) patches (Schwanz, Brisson, Gomes&#x02010;Solecki, &#x00026; Ostfeld, <xref rid="ece33961-bib-0048" ref-type="ref">2011</xref>). The difference in the amount of seed removed from uncovered trays versus covered trays provides an index of risk sensitivity. When mice show much greater preference for foraging in covered trays, they are highly sensitive to risks; when they show a smaller difference, they show lower risk sensitivity. Mice with lower risk sensitivity are more likely to forage across a wide range of microhabitats, decreasing &#x0201c;mouse&#x02010;free space&#x0201d; (Schauber, Goodwin, Jones, &#x00026; Ostfeld, <xref rid="ece33961-bib-0042" ref-type="ref">2007</xref>; Schmidt, <xref rid="ece33961-bib-0044" ref-type="ref">2004</xref>). To measure the GUD of individual mice that varied in infection status, we deployed foraging arenas on nontrapping nights in June and July 2015, after an average of ~70% of mice had been either true&#x02010;vaccinated or sham&#x02010;vaccinated (Figure&#x000a0;<xref rid="ece33961-fig-0001" ref-type="fig">1</xref>b). Following the methods of Schwanz, Voordouw, et&#x000a0;al. (<xref rid="ece33961-bib-0050" ref-type="ref">2011</xref>), Schwanz, Brisson, et&#x000a0;al. (<xref rid="ece33961-bib-0048" ref-type="ref">2011</xref>) and Schwanz et&#x000a0;al. (<xref rid="ece33961-bib-0049" ref-type="ref">2012</xref>), we placed two arenas within 2&#x000a0;m of a trap site. The arenas were made of two seed trays (20&#x000a0;&#x000d7;&#x000a0;28&#x000a0;cm; Perma&#x02010;nest Plant Tray, Growers Supply Co., Inc.) placed 1&#x000a0;m apart. Each pair of arenas included two randomly assigned treatments: covered and uncovered. Covered arenas had an opaque shade cloth suspended 5&#x02013;10&#x000a0;cm above the top edge of the tray, whereas uncovered arenas had no shade. Each arena contained 1.5&#x000a0;L of play sand with millet seed mixed into the sand. Each arena was prebaited with 6&#x000a0;g of millet (sand and seed accessible to foragers) for one night prior to the experimental run. At dusk (~20:00) of the night of the experimental run, we filtered out any remaining seeds and thoroughly mixed 4&#x000a0;g of fresh seeds into the sand in each arena. Because the only other major small mammal granivore at our field site, the eastern chipmunk (<italic>Tamias striatus</italic>), is strictly diurnal, having the arenas open only at night guaranteed that only white&#x02010;footed mice were foraging in the arenas.</p><fig fig-type="Figure" xml:lang="en" id="ece33961-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) Efficacy of the vaccine. Mice vaccinated with the sham vaccine were twice as likely to infect feeding larval ticks as were mice vaccinated with the true vaccine (Poisson model with an offset of the total ticks tested; <italic>p</italic>&#x000a0;=&#x000a0;.00026). (b) The proportion of mice on the grids that had been vaccinated with at least one dose of either the sham or the true vaccine at the start of experiments with seed trays and gypsy moth pupae were not different. &#x000d7; denotes the mean value. **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01; ns, not significant</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-8-4074-g001"/></fig><p>We used general linear models to assess whether differences in GUDs between covered and uncovered seed trays can be explained by <italic>Bb</italic> infection of the mouse foragers. Models included trapping grid as covariate to better estimate the proportion of the variance that can be explained by <italic>Bb</italic> infection status alone.</p></sec><sec id="ece33961-sec-0007"><label>2.5</label><title>Measuring predation on gypsy moths</title><p>In July 2015, after completion of the foraging assays described above, we affixed live gypsy moth pupae to burlap panels using beeswax. We deployed these on 80 evenly spaced trees per grid, with one pupa per tree at a height of 1.5&#x000a0;m. We obtained sterile, female, gypsy moth pupae from the USDA&#x02010;APHIS Otis Plant Protection Laboratory. Following Schauber et&#x000a0;al. (<xref rid="ece33961-bib-0042" ref-type="ref">2007</xref>), we checked the pupae daily for predation and signs of rodent visitation, including incisor marks in the beeswax, for a period of 7&#x000a0;days. To avoid affecting the native populations of gypsy moths, we destroyed all uneclosed pupae and any moths that eclosed after 1&#x000a0;week.</p><p>Rates of visitation and predation by infected and uninfected mice were compared by simple parametric tests. We compared the proportion of pupae that had been removed by the seventh day between grids receiving either true vaccine or sham vaccine. This seven&#x02010;day period reflects the typical duration of pupation of gypsy moths at our field sites (Jones et&#x000a0;al., <xref rid="ece33961-bib-0023" ref-type="ref">1998</xref>).</p></sec><sec id="ece33961-sec-0008"><label>2.6</label><title>Analytical methods</title><p>We used Kruskal&#x02013;Wallis nonparametric tests to detect differences in continuous outcomes between the treatment and control groups. For multivariate analyses, we used generalized linear regressions with either a logit (for binary data) or Poisson (for count data) link. For counts of ticks on mice, which were overdispersed, we used a negative binomial regression.</p><p>All analyses were performed under the intention&#x02010;to&#x02010;treat scenario; that is, mice on grids assigned to a treatment category were considered treated whether or not they received the vaccination. All analyses were performed in the R statistical environment (R Core Team <xref rid="ece33961-bib-0040" ref-type="ref">2017</xref>). We present effect sizes (mean differences in the magnitude of response variables between treatment and control groups) along with the associated probabilities that the differences occurred by chance (<italic>p</italic>&#x02010;values).</p></sec></sec><sec id="ece33961-sec-0009"><label>3</label><title>RESULTS</title><p>In 2015, we vaccinated a total of 1,673 white&#x02010;footed mice, with 878 animals receiving the true vaccine and 795 receiving the sham vaccine. Of the mice temporarily transported to the laboratory to collect naturally feeding larval ticks, 53% produced at least one infected tick, regardless of vaccine treatment. Of those mice that received the sham vaccine, 62% produced at least one infected tick, while only 44% of mice that received the true vaccine did. Treatment with the true vaccine significantly reduced mouse reservoir competence; mice treated with the sham vaccine infected an average of 44% of feeding ticks, while mice treated with the true vaccine infected only 23% (Figure&#x000a0;<xref rid="ece33961-fig-0001" ref-type="fig">1</xref>a; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001 from a Poisson regression with total number positive as the outcome variable and total number of ticks processed as an offset). By the time we began our experiments testing the effects of mice on predation of seeds and gypsy moth pupae, ~70% of mice on the grids had been treated with either the real or the sham vaccine (Figure&#x000a0;<xref rid="ece33961-fig-0001" ref-type="fig">1</xref>b). Mice that had not been treated were young animals that weighed &#x0003c;10&#x000a0;g and were too small to receive vaccinations. There was no significant difference in mouse density on grids on which mice were treated with the true vaccine compared to those on which mice were treated with the sham vaccine (Figure&#x000a0;<xref rid="ece33961-fig-0002" ref-type="fig">2</xref>; mean 63.33 vs. 62.33 [minimum number alive] Kruskal&#x02013;Wallis <italic>p</italic>&#x000a0;=&#x000a0;.37).</p><fig fig-type="Figure" xml:lang="en" id="ece33961-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Density (measured as minimum number alive) of white&#x02010;footed mice (<italic>Peromyscus leucopus</italic>) did not differ between grids on which mice were treated with sham versus true vaccine. Kruskal&#x02013;Wallis <italic>p</italic>&#x000a0;=&#x000a0;.37; &#x000d7; indicates the mean of the values. ns, not significant</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-8-4074-g002"/></fig><p>Mice on all grids preferred covered foraging trays, which they apparently perceive as less risky. Overall, seed trays that were covered had ~15% less seed remaining than seed trays that were uncovered (covered: 1.8&#x000a0;g, uncovered: 2.1&#x000a0;g). The difference in seed remaining between the covered and uncovered tray in each pair was not significantly affected by vaccination treatment (Figure&#x000a0;<xref rid="ece33961-fig-0003" ref-type="fig">3</xref>a; Kruskal&#x02013;Wallis <italic>p</italic>&#x000a0;=&#x000a0;.251), indicating that vaccination type (true versus sham) did not affect the sensitivity of mice to predation risk. Seed trays on grids where mice received the true vaccine were 20% more likely to have been visited by foraging mice compared to seed trays on grids receiving the sham vaccine, although this difference was not statistically significant (Kruskal&#x02013;Wallis <italic>p</italic>&#x000a0;=&#x000a0;.061). After controlling for site in a Poisson regression, we estimate there were 1.3 times as many visitations of seed trays on the true&#x02010;vaccinated grids, although the difference was also not statistically significant (<italic>p</italic>&#x000a0;=&#x000a0;.155).</p><fig fig-type="Figure" xml:lang="en" id="ece33961-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(a) Difference in weight of seeds remaining in uncovered versus covered trays when mice were treated with either sham or true vaccine. A bigger positive difference indicates greater sensitivity to predation risk. Horizontal lines within bars represent means of the differences between the covered and uncovered tray pairs on in each treatment. Only tray pairs for which at least one of the trays was visited by a mouse were included in this analysis. (b) Number of nights on which a tray station was visited on grids where mice were treated with either sham or true vaccine. &#x000d7; denotes the mean value. ns&#x000a0;=&#x000a0;not significant</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-8-4074-g003"/></fig><p>The percentage of gypsy moth pupae eaten over 7&#x000a0;days ranged from a low of 42% to a high of 82% and was not a function of mouse density on the grids (Figure&#x000a0;<xref rid="ece33961-fig-0004" ref-type="fig">4</xref>b). For all three grid pairs, the number of pupae eaten by mice (of a total of 81) was greater on grids receiving the true vaccine versus the paired grid on which mice were treated with the sham vaccine, but the difference between means was not statistically significant (Figure&#x000a0;<xref rid="ece33961-fig-0004" ref-type="fig">4</xref>a; paired <italic>t</italic>&#x000a0;=&#x000a0;2.82; <italic>p</italic>&#x000a0;=&#x000a0;.106).</p><fig fig-type="Figure" xml:lang="en" id="ece33961-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(a) Proportion of gypsy moth pupae eaten was consistently greater on grids occupied by mice treated with the true (dark blue) vaccine than on paired grids treated with the sham (light blue) vaccine, although the effect of vaccination treatment on the proportion of pupae eaten was not statistically significant (paired <italic>t</italic>&#x000a0;=&#x000a0;2.82; <italic>p</italic>&#x000a0;=&#x000a0;.106). (b) Proportion of pupae eaten on each grid versus the minimum number of white&#x02010;footed mice known alive (<styled-content style="fixed-case">MNA</styled-content>) on the grid at the time, with grids on which mice were treated with either sham (light blue) or true (dark blue) vaccine (Spearman rank correlation &#x003c1;&#x000a0;=&#x000a0;&#x02212;0.69, <italic>p</italic>&#x000a0;=&#x000a0;.124)</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-8-4074-g004"/></fig><p>The average mouse was infested with 7.4&#x000a0;&#x000b1;&#x000a0;0.38 larval ticks on its head and ears. Male mice had almost twice as many ticks as female mice (males: 9.4&#x000a0;&#x000b1;&#x000a0;0.6 standard error of the mean, females: 5.1&#x000a0;&#x000b1;&#x000a0;0.4), a difference that was statistically significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001; Figure&#x000a0;<xref rid="ece33961-fig-0005" ref-type="fig">5</xref>). Vaccinated mice had an average of 6.57 larval ticks, significantly fewer than the 8.23 larval ticks on control mice (<italic>p</italic>&#x000a0;=&#x000a0;.017, negative binomial regression). The difference was also significant after controlling for sex (<italic>p</italic>&#x000a0;=&#x000a0;.025); we found no evidence of an interaction between treatment and sex (<italic>p</italic>&#x000a0;=&#x000a0;.46).</p><fig fig-type="Figure" xml:lang="en" id="ece33961-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Both male and female mice on true&#x02010;vaccinated grids (dark blue) had lower larval tick burdens than mice on sham&#x02010;vaccinated grids (light blue) (<italic>p</italic>&#x000a0;=&#x000a0;.017, negative binomial regression). Horizontal lines within bars represent the mean larval burden for all mice of a given sex within that treatment category</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-8-4074-g005"/></fig></sec><sec id="ece33961-sec-0010"><label>4</label><title>DISCUSSION</title><p>The true anti&#x02010;<italic>Bb</italic> vaccine reduced the reservoir competence of mice, measured by their transmission of bacteria to ticks, by half. By vaccinating mice on large field plots (trapping grids), we created populations with lower (true vaccine) and higher (sham vaccine) average bacterial titers. We assessed whether mice on grids treated with the true vaccine differed from those treated with the sham vaccine in several direct and indirect measures of behavior relevant to forest interaction webs. The behavioral indicators we chose included: (1) risk aversion, measured by the tendency to forage more under covered than uncovered seed trays; (2) foraging activity on seeds, measured by the tendency to visit any seed tray; (3) foraging activity on gypsy moths, measured by attack rates on experimentally deployed moth pupae; and (4) regulation of tick burden, as measured by numbers of larval ticks parasitizing mice. If <italic>Bb</italic> is pathogenic to mice, a lower <italic>Bb</italic> titer should increase their overall health. Therefore, we expected true&#x02010;vaccinated mice to show indications of greater foraging and grooming activities compared to sham&#x02010;vaccinated mice. These behavioral parameters were estimated at the level of the population (i.e., trapping grid), resulting in a sample size of three pairs of true&#x02010;vaccinated and sham&#x02010;vaccinated grids, with each of the six grids maintaining a population of roughly 50&#x02013;80 mice. Recognizing that our small sample of populations constrains statistical sensitivity, we report on effect sizes and consistency among grid pairs, as well as whether effects approached statistical significance at the traditional level of alpha&#x000a0;=&#x000a0;0.05.</p><p>Mice treated with the true vaccine showed no increase in their sensitivity to predation risk, as would be indicated by differences in their preference for covered versus uncovered seed trays. Mice treated with the true vaccine were 25% more likely to visit seed trays than mice treated with the sham vaccine, although this difference was not statistically significant. Greater visitation rates would suggest that mice with lower bacterial titers ranged more widely or foraged more actively than their more heavily infected counterparts. Mice treated with the true vaccine appeared to be more likely to eat gypsy moth pupae than were mice treated with the sham vaccine, which also suggests greater foraging activity. Although this difference was observed across all the three grid pairs, it was not statistically significant. Finally, mice treated with the true vaccine hosted 20% fewer larval blacklegged ticks compared to mice treated with the sham vaccine, a statistically significant difference. This reduced tick burden suggests that mice with lower <italic>B.&#x000a0;burgdorferi</italic> titers were more efficient at grooming ectoparasites, which can regulate larval tick burdens (Keesing et&#x000a0;al., <xref rid="ece33961-bib-0024" ref-type="ref">2009</xref>). Together, the data suggest that true vaccination, and consequent reduction in <italic>Bb</italic> infection, appears to have at least subtle, but potentially important, effects on mouse behavior.</p><p>The true vaccine reduced the probability that mice would transmit <italic>B.&#x000a0;burgdorferi</italic> to feeding ticks by half. However, it does not eliminate infection completely, in agreement with Tsao, Barbour, Luke, Fikrig, &#x00026; Fish, 2001 and Richer, Brisson, Melo, Ostfeld, Zeidner, &#x00026; Gomes&#x02010;Solecki, 2014. Consequently, our results should be interpreted as assessing the impact of reducing, rather than eliminating, infection of mice with this zoonotic pathogen. Moreover, the occurrence of uninfected mice in both vaccinated and sham&#x02010;vaccinated treatment plots would reduce the magnitude of differences between experimental and control treatments.</p><p>Prior studies of the effects of <italic>B.&#x000a0;burgdorferi</italic> on mouse physiology and behavior have been mixed. For example, Moody, Terwilliger, Hansen, and Barthold (<xref rid="ece33961-bib-0032" ref-type="ref">1994</xref>) found that young mice exhibited carditis and arthritis as a result of infection, while adult mice did not. Neither Hofmeister et&#x000a0;al. (<xref rid="ece33961-bib-0021" ref-type="ref">1999</xref>) nor Schwanz, Voordouw, et&#x000a0;al. (<xref rid="ece33961-bib-0050" ref-type="ref">2011</xref>) and Schwanz, Brisson, et&#x000a0;al. (<xref rid="ece33961-bib-0048" ref-type="ref">2011</xref>) detected changes in mouse activity as a result of infection with <italic>B.&#x000a0;burgdorferi</italic>, but Burgess et&#x000a0;al. (<xref rid="ece33961-bib-0010" ref-type="ref">1990</xref>) found evidence of motor dysfunction in wild&#x02010;caught mice that seemed to be attributable to infection with <italic>B.&#x000a0;burgdorferi</italic>.</p><p>The effects of infection with a zoonotic pathogen on a reservoir host can range from lethal to undetectable. For instance, infection with the plague bacterium <italic>Yersinia pestis</italic> is typically lethal to prairie dogs (genus <italic>Cynomys</italic>) (Eads &#x00026; Biggins, <xref rid="ece33961-bib-0016" ref-type="ref">2015</xref>), causing local extinction of host populations (Cully, Johnson, Collinge, &#x00026; Ray, <xref rid="ece33961-bib-0013" ref-type="ref">2010</xref>). On the other hand, <italic>Y.&#x000a0;pestis</italic> only modestly reduces survival probability in some gerbillid hosts (Begon, <xref rid="ece33961-bib-0002" ref-type="ref">2006</xref>) and has variable impacts on survival of infected <italic>Rattus rattus</italic> (Tollenaere et&#x000a0;al., <xref rid="ece33961-bib-0054" ref-type="ref">2010</xref>). Infection with hantaviruses rarely has detectable effects on health or survival of rodent hosts (Previtali et&#x000a0;al., <xref rid="ece33961-bib-0039" ref-type="ref">2010</xref>; Tersago et&#x000a0;al., <xref rid="ece33961-bib-0053" ref-type="ref">2008</xref>). Even when a zoonotic pathogen has only modest effects on host survival, it could potentially affect community dynamics if it influences host behavior in ways that might change trophic interactions.</p><p>The significant effect of vaccination in reducing tick burdens (Figure&#x000a0;<xref rid="ece33961-fig-0005" ref-type="fig">5</xref>) suggests a potentially important effect of the pathogen on mouse behavior that could affect <italic>Bb</italic> transmission dynamics. We expected that a lower <italic>Bb</italic> titer could affect tick burdens if it either increased total ranging behavior (which would increase tick burdens) or increased grooming behavior (which would decrease tick burdens). Our results reject the former and support the latter hypothesis. Consequently, the potential exists for a positive feedback loop, whereby high <italic>Bb</italic> titers increase mouse encounters with ticks, which in turn should increase mouse infection with <italic>Bb</italic>. Whether the effect of <italic>Bb</italic> on tick burden was caused by sickness behavior of the host or by pathogen manipulation of host behavior is not apparent. Whether reduced <italic>Bb</italic> titer affects the other behaviors we assessed is more difficult to interpret. Although the magnitude of the increased visitation of seed trays seemed considerable (20%&#x02013;30%), the differences were not statistically significant. Similarly, the increase in attack rates on gypsy moths on grids on which <italic>Bb</italic> titers were reduced, although observed across all three grid pairs, was not significant, challenging our ability to interpret these results.</p><p>Scientists have begun discussing editing the genome of <italic>P.&#x000a0;leucopus</italic> to make them unable to serve as reservoirs for <italic>Bb</italic> (Pennisi, Elizabeth. &#x0201c;U.S. researchers call for greater oversight of powerful genetic technology.&#x0201d; Science. July 17, 2014.) This proposal, while still in planning stages, raises important questions about potential ramifications of such a manipulation. Because of the status of white&#x02010;footed mice as ecological hubs, investigating the ecological consequences of <italic>Bb</italic>&#x02010;free mice is even more pressing. Current explorations of the use of genetic technology to create populations of white&#x02010;footed mice that are refractory to <italic>Bb</italic> infection must include information on the potential for unintended consequences of reduced infection. We have explored a small set of these potential consequences and found evidence of only minor impacts on foraging behavior but potentially important effects on tick burdens that we interpret as a consequence of altered host grooming behavior. Prior research has indicated that many of the effects of white&#x02010;footed mice on prey, such as gypsy moths and songbird nests, are a consequence of incidental encounters with these highly generalist foragers (Schauber et&#x000a0;al., <xref rid="ece33961-bib-0042" ref-type="ref">2007</xref>; Schmidt et&#x000a0;al., <xref rid="ece33961-bib-0045" ref-type="ref">2001</xref>). Further studies will be necessary to ask whether reduced or eliminated <italic>Bb</italic> infection affects infection with other zoonotic pathogens and other parasites, interactions with predators on reservoir hosts, and additional behavioral features, including long&#x02010;distance dispersal and habitat selection.</p><p>We chose to conduct an experimental test of the effects of <italic>Bb</italic> infection on host behavior because of severe shortcomings inherent in correlational studies. Causality can be difficult or impossible to establish in studies using nonexperimental comparisons of the behavior of infected versus uninfected hosts. For instance, behavioral differences between hosts that vary naturally in their infection status could be the cause of their varying infection status rather than a consequence. Our use of a sham vaccine was important in accounting for the potential for immunochallenge itself to affect host behavior (Schwanz et&#x000a0;al., <xref rid="ece33961-bib-0049" ref-type="ref">2012</xref>). Nevertheless, our experimental manipulation of <italic>Bb</italic> infection with a real and sham vaccine did not create uninfected and infected categories, as we had intended, instead only reducing pathogen titers, as measured by reservoir competence. Further studies in which infection is eliminated in reservoir populations are warranted.</p></sec><sec id="ece33961-sec-0012"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece33961-sec-0013"><title>AUTHOR CONTRIBUTIONS</title><p>RSO, DB, and FK conceived of the project; RSO, DB, MZL, and FK designed the experiments; KO led the field efforts; JD and DB led the laboratory efforts; FK, MZL, and DB analyzed the results; RSO and FK wrote the first draft of the manuscript; and all authors edited the manuscript.</p></sec></body><back><ack id="ece33961-sec-0011"><title>ACKNOWLEDGMENTS</title><p>We thank Dr. Steven Callister and Dr. Steven Lovrich, both from the Gundersen Lutheran Medical Center, La Crosse, Wisconsin, for providing us with the <italic>Borrelia garinii</italic> strain LV4 that we used to produce the sham vaccine. We also thank the following project assistants from the Cary Institute for their hard work and dedication to the project: Nick Jakubek, Arielle Crews, Chris Woolridge, Kelsey Schumacher, Alicia Pomeroy, and Samantha Calkins.</p></ack><ref-list content-type="cited-references" id="ece33961-bibl-0001"><title>REFERENCES</title><ref id="ece33961-bib-0001"><mixed-citation publication-type="journal" id="ece33961-cit-0001">
+<string-name>
+<surname>Barthold</surname>, <given-names>S. W.</given-names>
+</string-name> (<year>1991</year>). <article-title>Infectivity of borrelia burgdorferi relative to route of inoculation and genotype in laboratory mice</article-title>. <source>The Journal of Infectious Diseases</source>, <volume>163</volume>, <fpage>419</fpage>&#x02013;<lpage>420</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/infdis/163.2.419">https://doi.org/10.1093/infdis/163.2.419</ext-link>
+<pub-id pub-id-type="pmid">1988530</pub-id></mixed-citation></ref><ref id="ece33961-bib-0002"><mixed-citation publication-type="journal" id="ece33961-cit-0002">
+<string-name>
+<surname>Begon</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Epizootic parameters for plague in Kazakhstan</article-title>. <source>Emerging Infectious Diseases</source>, <volume>12</volume>, <fpage>268</fpage>&#x02013;<lpage>273</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3201/eid1202.050651">https://doi.org/10.3201/eid1202.050651</ext-link>
+<pub-id pub-id-type="pmid">16494753</pub-id></mixed-citation></ref><ref id="ece33961-bib-0003"><mixed-citation publication-type="journal" id="ece33961-cit-0003">
+<string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Drecktrah</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Eggers</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Samuels</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Genetics of <italic>Borrelia burgdorferi</italic>
+</article-title>. <source>Annual Review of Genetics</source>, <volume>46</volume>, <fpage>515</fpage>&#x02013;<lpage>536</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev-genet-011112-112140">https://doi.org/10.1146/annurev-genet-011112-112140</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0004"><mixed-citation publication-type="journal" id="ece33961-cit-0004">
+<string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dykhuizen</surname>, <given-names>D. E.</given-names>
+</string-name> (<year>2004</year>). <article-title>ospC diversity in <italic>Borrelia burgdorferi</italic>: Different hosts are different niches</article-title>. <source>Genetics</source>, <volume>168</volume>, <fpage>713</fpage>&#x02013;<lpage>722</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1534/genetics.104.028738">https://doi.org/10.1534/genetics.104.028738</ext-link>
+<pub-id pub-id-type="pmid">15514047</pub-id></mixed-citation></ref><ref id="ece33961-bib-0005"><mixed-citation publication-type="journal" id="ece33961-cit-0005">
+<string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dykhuizen</surname>, <given-names>D. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Conspicuous impacts of inconspicuous hosts on the Lyme disease epidemic</article-title>. <source>Proceedings of the Royal Society B: Biological Sciences</source>, <volume>275</volume>, <fpage>227</fpage>&#x02013;<lpage>235</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rspb.2007.1208">https://doi.org/10.1098/rspb.2007.1208</ext-link>
+<pub-id pub-id-type="pmid">18029304</pub-id></mixed-citation></ref><ref id="ece33961-bib-0006"><mixed-citation publication-type="journal" id="ece33961-cit-0006">
+<string-name>
+<surname>Brown</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>1988</year>). <article-title>Patch use as an indicator of habitat preference, predation risk, and competition</article-title>. <source>Behavioral Ecology and Sociobiology</source>, <volume>22</volume>, <fpage>37</fpage>&#x02013;<lpage>47</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/BF00395696">https://doi.org/10.1007/BF00395696</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0007"><mixed-citation publication-type="journal" id="ece33961-cit-0007">
+<string-name>
+<surname>Brown</surname>, <given-names>J.</given-names>
+</string-name> (<year>1992</year>). <article-title>Patch use under predation risk: I. Models and predictions</article-title>. <source>Annales Zoologici Fennici</source>, <volume>29</volume>, <fpage>301</fpage>&#x02013;<lpage>309</lpage>.</mixed-citation></ref><ref id="ece33961-bib-0008"><mixed-citation publication-type="journal" id="ece33961-cit-0008">
+<string-name>
+<surname>Brown</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kotler</surname>, <given-names>B. P.</given-names>
+</string-name> (<year>2004</year>). <article-title>Hazardous duty pay and the foraging cost of predation</article-title>. <source>Ecology Letters</source>, <volume>7</volume>, <fpage>999</fpage>&#x02013;<lpage>1014</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1461-0248.2004.00661.x">https://doi.org/10.1111/j.1461-0248.2004.00661.x</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0009"><mixed-citation publication-type="journal" id="ece33961-cit-0009">
+<string-name>
+<surname>Bunikis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Garpmo</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Tsao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Berglund</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fish</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barbour</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2004</year>). <article-title>Sequence typing reveals extensive strain diversity of the Lyme borreliosis agents <italic>Borrelia burgdorferi</italic> in North America and <italic>Borrelia afzelii</italic> in Europe</article-title>. <source>Microbiology</source>, <volume>150</volume>, <fpage>1741</fpage>&#x02013;<lpage>1755</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1099/mic.0.26944-0">https://doi.org/10.1099/mic.0.26944-0</ext-link>
+<pub-id pub-id-type="pmid">15184561</pub-id></mixed-citation></ref><ref id="ece33961-bib-0010"><mixed-citation publication-type="journal" id="ece33961-cit-0010">
+<string-name>
+<surname>Burgess</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name>
+<surname>French</surname>, <given-names>J. B. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gendron&#x02010;Fitzpatrick</surname>, <given-names>A.</given-names>
+</string-name> (<year>1990</year>). <article-title>Systemic disease in <italic>Peromyscus leucopus</italic> associated with <italic>Borrelia burgdorferi</italic> infection</article-title>. <source>The American Journal of Tropical Medicine and Hygiene</source>, <volume>42</volume>, <fpage>254</fpage>&#x02013;<lpage>259</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4269/ajtmh.1990.42.254">https://doi.org/10.4269/ajtmh.1990.42.254</ext-link>
+<pub-id pub-id-type="pmid">2316794</pub-id></mixed-citation></ref><ref id="ece33961-bib-0011"><mixed-citation publication-type="journal" id="ece33961-cit-0011">
+<string-name>
+<surname>Cairns</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Godwin</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>Post&#x02010;Lyme borreliosis syndrome: A meta&#x02010;analysis of reported symptoms</article-title>. <source>International Journal of Epidemiology</source>, <volume>34</volume>, <fpage>1340</fpage>&#x02013;<lpage>1345</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/ije/dyi129">https://doi.org/10.1093/ije/dyi129</ext-link>
+<pub-id pub-id-type="pmid">16040645</pub-id></mixed-citation></ref><ref id="ece33961-bib-0012"><mixed-citation publication-type="book" id="ece33961-cit-0012">
+<string-name>
+<surname>Collinge</surname>, <given-names>S. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ray</surname>, <given-names>C.</given-names>
+</string-name> (<year>2007</year>). <source>Disease ecology: Community structure and pathogen dynamics</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece33961-bib-0013"><mixed-citation publication-type="journal" id="ece33961-cit-0013">
+<string-name>
+<surname>Cully</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Collinge</surname>, <given-names>S. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ray</surname>, <given-names>C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Disease limits populations: Plague and black&#x02010;tailed prairie dogs</article-title>. <source>Vector&#x02010;Borne and Zoonotic Diseases</source>, <volume>10</volume>, <fpage>7</fpage>&#x02013;<lpage>15</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1089/vbz.2009.0045">https://doi.org/10.1089/vbz.2009.0045</ext-link>
+<pub-id pub-id-type="pmid">20158327</pub-id></mixed-citation></ref><ref id="ece33961-bib-0014"><mixed-citation publication-type="journal" id="ece33961-cit-0014">
+<string-name>
+<surname>Day</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>The immunopathology of canine vector&#x02010;borne diseases</article-title>. <source>Parasites and Vectors</source>, <volume>4</volume>, <fpage>48</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/1756-3305-4-48">https://doi.org/10.1186/1756-3305-4-48</ext-link>
+<pub-id pub-id-type="pmid">21489234</pub-id></mixed-citation></ref><ref id="ece33961-bib-0015"><mixed-citation publication-type="journal" id="ece33961-cit-0015">
+<string-name>
+<surname>Dobson</surname>, <given-names>A. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hudson</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>1986</year>). <article-title>Parasites, disease and the structure of ecological communities</article-title>. <source>Trends in Ecology and Evolution</source>, <volume>1</volume>, <fpage>11</fpage>&#x02013;<lpage>15</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/0169-5347(86)90060-1">https://doi.org/10.1016/0169-5347(86)90060-1</ext-link>
+<pub-id pub-id-type="pmid">21227771</pub-id></mixed-citation></ref><ref id="ece33961-bib-0016"><mixed-citation publication-type="journal" id="ece33961-cit-0016">
+<string-name>
+<surname>Eads</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Biggins</surname>, <given-names>D. E.</given-names>
+</string-name> (<year>2015</year>). <article-title>Plague bacterium as a transformer species in prairie dogs and the grasslands of western North America</article-title>. <source>Conservation Biology</source>, <volume>29</volume>, <fpage>1086</fpage>&#x02013;<lpage>1093</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/cobi.12498">https://doi.org/10.1111/cobi.12498</ext-link>
+<pub-id pub-id-type="pmid">25817984</pub-id></mixed-citation></ref><ref id="ece33961-bib-0017"><mixed-citation publication-type="journal" id="ece33961-cit-0017">
+<string-name>
+<surname>Elkinton</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Healy</surname>, <given-names>W. M.</given-names>
+</string-name>, <string-name>
+<surname>Buonaccorsi</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Hazzard</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>H. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liebhold</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>1996</year>). <article-title>Interactions among gypsy moths, white&#x02010;footed mice, and acorns</article-title>. <source>Ecology</source>, <volume>77</volume>, <fpage>2332</fpage>&#x02013;<lpage>2342</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/2265735">https://doi.org/10.2307/2265735</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0018"><mixed-citation publication-type="journal" id="ece33961-cit-0018">
+<string-name>
+<surname>Gage</surname>, <given-names>K. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kosoy</surname>, <given-names>M. Y.</given-names>
+</string-name> (<year>2005</year>). <article-title>Natural history of plague: Perspectives from more than a century of research</article-title>. <source>Annual Review of Entomology</source>, <volume>50</volume>, <fpage>505</fpage>&#x02013;<lpage>28</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.ento.50.071803.130337">https://doi.org/10.1146/annurev.ento.50.071803.130337</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0019"><mixed-citation publication-type="journal" id="ece33961-cit-0019">
+<string-name>
+<surname>George</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Pepin</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Savage</surname>, <given-names>L. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antolini</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2013</year>). <article-title>Persistence of black&#x02010;tailed prairie&#x02010;dog populations affected by plague in northern Colorado, USA</article-title>. <source>Ecology</source>, <volume>94</volume>, <fpage>1572</fpage>&#x02013;<lpage>1583</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/12-0719.1">https://doi.org/10.1890/12-0719.1</ext-link>
+<pub-id pub-id-type="pmid">23951717</pub-id></mixed-citation></ref><ref id="ece33961-bib-0020"><mixed-citation publication-type="journal" id="ece33961-cit-0020">
+<string-name>
+<surname>Hersh</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>McHenry</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Tibbetts</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brunner</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Killilea</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Keesing</surname>, <given-names>F.</given-names>
+</string-name> (<year>2014</year>). <article-title>Co&#x02010;infection of blacklegged ticks with <italic>Babesia microti</italic> and <italic>Borrelia burgdorferi</italic> is higher than expected and acquired from small mammal hosts</article-title>. <source>PLoS ONE</source>, <volume>9</volume>, <fpage>e99348</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0099348">https://doi.org/10.1371/journal.pone.0099348</ext-link>
+<pub-id pub-id-type="pmid">24940999</pub-id></mixed-citation></ref><ref id="ece33961-bib-0021"><mixed-citation publication-type="journal" id="ece33961-cit-0021">
+<string-name>
+<surname>Hofmeister</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name>
+<surname>Glass</surname>, <given-names>G. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Childs</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>1999</year>). <article-title>Longitudinal study of infection with <italic>Borrelia burgdorferi</italic> in a population of <italic>Peromyscus leucopus</italic> at a lyme disease&#x02010;enzootic site in Maryland</article-title>. <source>The American Journal of Tropical Medicine and Hygiene</source>, <volume>60</volume>, <fpage>598</fpage>&#x02013;<lpage>609</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4269/ajtmh.1999.60.598">https://doi.org/10.4269/ajtmh.1999.60.598</ext-link>
+<pub-id pub-id-type="pmid">10348235</pub-id></mixed-citation></ref><ref id="ece33961-bib-0022"><mixed-citation publication-type="journal" id="ece33961-cit-0022">
+<string-name>
+<surname>James</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name>
+<surname>Engiles</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beech</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Meningitis, cranial neuritis, and radiculoneuritis associated with <italic>Borrelia burgdorferi</italic> infection in a horse</article-title>. <source>Journal of the American Veterinary Medical Association</source>, <volume>237</volume>, <fpage>1180</fpage>&#x02013;<lpage>1185</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2460/javma.237.10.1180">https://doi.org/10.2460/javma.237.10.1180</ext-link>
+<pub-id pub-id-type="pmid">21073390</pub-id></mixed-citation></ref><ref id="ece33961-bib-0023"><mixed-citation publication-type="journal" id="ece33961-cit-0023">
+<string-name>
+<surname>Jones</surname>, <given-names>C. G.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Richard</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Schauber</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolff</surname>, <given-names>J. O.</given-names>
+</string-name> (<year>1998</year>). <article-title>Chain reactions linking acorns to gypsy moth outbreaks and Lyme disease risk</article-title>. <source>Science</source>, <volume>279</volume>, <fpage>1023</fpage>&#x02013;<lpage>1026</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.279.5353.1023">https://doi.org/10.1126/science.279.5353.1023</ext-link>
+<pub-id pub-id-type="pmid">9461433</pub-id></mixed-citation></ref><ref id="ece33961-bib-0024"><mixed-citation publication-type="journal" id="ece33961-cit-0024">
+<string-name>
+<surname>Keesing</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Brunner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Duerr</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Killilea</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>LoGiudice</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Hosts as ecological traps for the vector of Lyme disease</article-title>. <source>Proceedings of the Royal Society B&#x02010;Biological Sciences</source>, <volume>276</volume>, <fpage>3911</fpage>&#x02013;<lpage>3919</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rspb.2009.1159">https://doi.org/10.1098/rspb.2009.1159</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0025"><mixed-citation publication-type="journal" id="ece33961-cit-0025">
+<string-name>
+<surname>Kugeler</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Farley</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mead</surname>, <given-names>P. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Geographic distribution and expansion of human Lyme disease, United States</article-title>. <source>Emerging Infectious Diseases</source>, <volume>21</volume>, <fpage>1455</fpage>&#x02013;<lpage>1457</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3201/eid2108.141878">https://doi.org/10.3201/eid2108.141878</ext-link>
+<pub-id pub-id-type="pmid">26196670</pub-id></mixed-citation></ref><ref id="ece33961-bib-0026"><mixed-citation publication-type="journal" id="ece33961-cit-0026">
+<string-name>
+<surname>Levi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Keesing</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Oggenfuss</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Accelerated phenology of blacklegged ticks under climate warming</article-title>. <source>Philosophical Transactions of the Royal Society B</source>, <volume>370</volume>, <fpage>20130556</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rstb.2013.0556">https://doi.org/10.1098/rstb.2013.0556</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0027"><mixed-citation publication-type="journal" id="ece33961-cit-0027">
+<string-name>
+<surname>Levi</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Kilpatrick</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mangel</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilmers</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Deer, predators, and the emergence of Lyme disease</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>109</volume>, <fpage>10942</fpage>&#x02013;<lpage>10947</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1204536109">https://doi.org/10.1073/pnas.1204536109</ext-link>
+<pub-id pub-id-type="pmid">22711825</pub-id></mixed-citation></ref><ref id="ece33961-bib-0028"><mixed-citation publication-type="journal" id="ece33961-cit-0028">
+<string-name>
+<surname>LoGiudice</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>K. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Keesing</surname>, <given-names>F.</given-names>
+</string-name> (<year>2003</year>). <article-title>The ecology of infectious disease: Effects of host diversity and community composition on Lyme disease risk</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>100</volume>, <fpage>567</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.0233733100">https://doi.org/10.1073/pnas.0233733100</ext-link>
+<pub-id pub-id-type="pmid">12525705</pub-id></mixed-citation></ref><ref id="ece33961-bib-0029"><mixed-citation publication-type="journal" id="ece33961-cit-0029">
+<string-name>
+<surname>Luis</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Douglass</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Hudson</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>, <given-names>J. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bj&#x000f8;rnstad</surname>, <given-names>O. N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Sin Nombre hantavirus decreases survival of male deer mice</article-title>. <source>Oecologia</source>, <volume>169</volume>, <fpage>431</fpage>&#x02013;<lpage>439</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s00442-011-2219-2">https://doi.org/10.1007/s00442-011-2219-2</ext-link>
+<pub-id pub-id-type="pmid">22218940</pub-id></mixed-citation></ref><ref id="ece33961-bib-0030"><mixed-citation publication-type="journal" id="ece33961-cit-0030">
+<string-name>
+<surname>Manson</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Canham</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>2001</year>). <article-title>Long&#x02010;term effects of rodent herbivores on tree invasion dynamics along forest&#x02010;field edges</article-title>. <source>Ecology</source>, <volume>82</volume>, <fpage>3320</fpage>&#x02013;<lpage>3329</lpage>.</mixed-citation></ref><ref id="ece33961-bib-0031"><mixed-citation publication-type="journal" id="ece33961-cit-0031">
+<string-name>
+<surname>Massarotti</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Lyme arthritis</article-title>. <source>Medical Clinics of North America</source>, <volume>86</volume>, <fpage>297</fpage>&#x02013;<lpage>309</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0025-7125(03)00088-9">https://doi.org/10.1016/S0025-7125(03)00088-9</ext-link>
+<pub-id pub-id-type="pmid">11982303</pub-id></mixed-citation></ref><ref id="ece33961-bib-0032"><mixed-citation publication-type="journal" id="ece33961-cit-0032">
+<string-name>
+<surname>Moody</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Terwilliger</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barthold</surname>, <given-names>S. W.</given-names>
+</string-name> (<year>1994</year>). <article-title>Experimental <italic>Borrelia burgdorferi</italic> infection in <italic>Peromyscus leucopus</italic>
+</article-title>. <source>Journal of Wildlife Diseases</source>, <volume>30</volume>, <fpage>155</fpage>&#x02013;<lpage>61</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7589/0090-3558-30.2.155">https://doi.org/10.7589/0090-3558-30.2.155</ext-link>
+<pub-id pub-id-type="pmid">8028098</pub-id></mixed-citation></ref><ref id="ece33961-bib-0033"><mixed-citation publication-type="journal" id="ece33961-cit-0033">
+<string-name>
+<surname>Moro</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Zegarra&#x02010;Moro</surname>, <given-names>O. L.</given-names>
+</string-name>, <string-name>
+<surname>Bjornsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hofmeister</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Bruinsma</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Germer</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Persing</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2002</year>). <article-title>Increased arthritis severity in mice coinfected with <italic>Borrelia burgdorferi</italic> and <italic>Babesia microti</italic>
+</article-title>. <source>Journal of Infectious Diseases</source>, <volume>186</volume>, <fpage>428</fpage>&#x02013;<lpage>431</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/341452">https://doi.org/10.1086/341452</ext-link>
+<pub-id pub-id-type="pmid">12134242</pub-id></mixed-citation></ref><ref id="ece33961-bib-0034"><mixed-citation publication-type="book" id="ece33961-cit-0034">
+<string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2011</year>). <source>Lyme disease: The ecology of a complex system</source>. <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece33961-bib-0036"><mixed-citation publication-type="journal" id="ece33961-cit-0036">
+<string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>C. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wolff</surname>, <given-names>J. O.</given-names>
+</string-name> (<year>1996</year>). <article-title>Of mice and mast</article-title>. <source>BioScience</source>, <volume>46</volume>, <fpage>323</fpage>&#x02013;<lpage>330</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/1312946">https://doi.org/10.2307/1312946</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0037"><mixed-citation publication-type="journal" id="ece33961-cit-0037">
+<string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Keesing</surname>, <given-names>F.</given-names>
+</string-name> (<year>2012</year>). <article-title>Effects of host diversity on infectious disease</article-title>. <source>Annual Review of Ecology, Evolution, and Systematics</source>, <volume>43</volume>, <fpage>120830113150004</fpage>.</mixed-citation></ref><ref id="ece33961-bib-0038"><mixed-citation publication-type="journal" id="ece33961-cit-0038">
+<string-name>
+<surname>Pinto</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2002</year>). <article-title>Cardiac manifestations of Lyme disease</article-title>. <source>Medical Clinics of North America</source>, <volume>86</volume>, <fpage>285</fpage>&#x02013;<lpage>296</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0025-7125(03)00087-7">https://doi.org/10.1016/S0025-7125(03)00087-7</ext-link>
+<pub-id pub-id-type="pmid">11982302</pub-id></mixed-citation></ref><ref id="ece33961-bib-0039"><mixed-citation publication-type="journal" id="ece33961-cit-0039">
+<string-name>
+<surname>Previtali</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Lehmer</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Pearce&#x02010;Duvet</surname>, <given-names>J. M. C.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Clay</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>B. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dearing</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2010</year>). <article-title>Roles of human disturbance, precipitation, and a pathogen on the survival and reproductive probabilities of deer mice</article-title>. <source>Ecology</source>, <volume>91</volume>, <fpage>582</fpage>&#x02013;<lpage>592</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/08-2308.1">https://doi.org/10.1890/08-2308.1</ext-link>
+<pub-id pub-id-type="pmid">20392022</pub-id></mixed-citation></ref><ref id="ece33961-bib-0040"><mixed-citation publication-type="book" id="ece33961-cit-0040">
+<collab collab-type="authors">R Core Team</collab>
+(<year>2017</year>). <source>R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.R-project.org/">https://www.R-project.org/</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0041"><mixed-citation publication-type="journal" id="ece33961-cit-0041">
+<string-name>
+<surname>Rahn</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>1991</year>). <article-title>Lyme disease: Clinical manifestations, diagnosis, and treatment</article-title>. <source>Seminars in Arthritis and Rheumatism</source>, <volume>20</volume>, <fpage>201</fpage>&#x02013;<lpage>218</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/0049-0172(91)90017-T">https://doi.org/10.1016/0049-0172(91)90017-T</ext-link>
+<pub-id pub-id-type="pmid">2042054</pub-id></mixed-citation></ref><ref id="ece33961-bib-0400"><mixed-citation publication-type="journal" id="ece33961-cit-0400">
+<string-name>
+<surname>Richer</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Melo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>,<string-name>
+<surname>Zeidner</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gomes&#x02010;Solecki</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Reservoir targeted vaccine against Borrelia burgdorferi: A new strategy to prevent Lyme disease transmission</article-title>. <source>Journal of Infectious Diseases</source>, <volume>209</volume>, <fpage>1972</fpage>&#x02013;<lpage>1980</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/infdis/jiu005">https://doi.org/10.1093/infdis/jiu005</ext-link>
+<pub-id pub-id-type="pmid">24523510</pub-id></mixed-citation></ref><ref id="ece33961-bib-0042"><mixed-citation publication-type="journal" id="ece33961-cit-0042">
+<string-name>
+<surname>Schauber</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Goodwin</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>C. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Spatial selection and inheritance: Applying evolutionary concepts to population dynamics in heterogeneous space</article-title>. <source>Ecology</source>, <volume>88</volume>, <fpage>1112</fpage>&#x02013;<lpage>1118</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/06-1578">https://doi.org/10.1890/06-1578</ext-link>
+<pub-id pub-id-type="pmid">17536397</pub-id></mixed-citation></ref><ref id="ece33961-bib-0043"><mixed-citation publication-type="journal" id="ece33961-cit-0043">
+<string-name>
+<surname>Schmidt</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Linking frequencies of acorn masting in temperate forests to long&#x02010;term population growth rates in a songbird: The veery (<italic>Catharus fuscescens</italic>)</article-title>. <source>Oikos</source>, <volume>103</volume>, <fpage>548</fpage>&#x02013;<lpage>558</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1034/j.1600-0706.2003.12462.x">https://doi.org/10.1034/j.1600-0706.2003.12462.x</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0044"><mixed-citation publication-type="journal" id="ece33961-cit-0044">
+<string-name>
+<surname>Schmidt</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Incidental predation, enemy&#x02010;free space and the coexistence of incidental prey</article-title>. <source>Oikos</source>, <volume>106</volume>, <fpage>335</fpage>&#x02013;<lpage>343</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.0030-1299.2004.13093.x">https://doi.org/10.1111/j.0030-1299.2004.13093.x</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0045"><mixed-citation publication-type="journal" id="ece33961-cit-0045">
+<string-name>
+<surname>Schmidt</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Goheen</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Naumann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Schauber</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berkowitz</surname>, <given-names>A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Experimental removal of strong and weak predators: Mice and chipmunks preying on songbird nests</article-title>. <source>Ecology</source>, <volume>82</volume>, <fpage>2927</fpage>&#x02013;<lpage>2936</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/0012-9658(2001)082[2927:EROSAW]2.0.CO;2">https://doi.org/10.1890/0012-9658(2001)082[2927:EROSAW]2.0.CO;2</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0046"><mixed-citation publication-type="journal" id="ece33961-cit-0046">
+<string-name>
+<surname>Schmidt</surname>, <given-names>K. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Numerical and behavioral effects within a pulse&#x02010;driven system: Consequences for shared prey</article-title>. <source>Ecology</source>, <volume>89</volume>, <fpage>635</fpage>&#x02013;<lpage>646</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1890/07-0199.1">https://doi.org/10.1890/07-0199.1</ext-link>
+<pub-id pub-id-type="pmid">18459328</pub-id></mixed-citation></ref><ref id="ece33961-bib-0047"><mixed-citation publication-type="journal" id="ece33961-cit-0047">
+<string-name>
+<surname>Schnurr</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Canham</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>2002</year>). <article-title>Direct and indirect effects of masting on rodent populations and tree seed survival</article-title>. <source>Oikos</source>, <volume>96</volume>, <fpage>402</fpage>&#x02013;<lpage>410</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1034/j.1600-0706.2002.960302.x">https://doi.org/10.1034/j.1600-0706.2002.960302.x</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0048"><mixed-citation publication-type="journal" id="ece33961-cit-0048">
+<string-name>
+<surname>Schwanz</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gomes&#x02010;Solecki</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Linking disease and community ecology through behavioural indicators: Immunochallenge of white&#x02010;footed mice and its ecological impacts</article-title>. <source>Journal of Animal Ecology</source>, <volume>80</volume>, <fpage>204</fpage>&#x02013;<lpage>214</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2656.2010.01745.x">https://doi.org/10.1111/j.1365-2656.2010.01745.x</ext-link>
+<pub-id pub-id-type="pmid">20796206</pub-id></mixed-citation></ref><ref id="ece33961-bib-0049"><mixed-citation publication-type="journal" id="ece33961-cit-0049">
+<string-name>
+<surname>Schwanz</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Previtali</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Gomes&#x02010;Solecki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Immunochallenge reduces risk sensitivity during foraging in white&#x02010;footed mice</article-title>. <source>Animal Behavior</source>, <volume>83</volume>, <fpage>155</fpage>&#x02013;<lpage>161</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.anbehav.2011.10.020">https://doi.org/10.1016/j.anbehav.2011.10.020</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0050"><mixed-citation publication-type="journal" id="ece33961-cit-0050">
+<string-name>
+<surname>Schwanz</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Voordouw</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ostfeld</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+<italic>Borrelia burgdorferi</italic> has minimal impact on the Lyme disease reservoir host <italic>Peromyscus leucopus</italic>
+</article-title>. <source>Vector&#x02010;Borne and Zoonotic Diseases</source>, <volume>11</volume>, <fpage>117</fpage>&#x02013;<lpage>124</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1089/vbz.2009.0215">https://doi.org/10.1089/vbz.2009.0215</ext-link>
+<pub-id pub-id-type="pmid">20569016</pub-id></mixed-citation></ref><ref id="ece33961-bib-0051"><mixed-citation publication-type="journal" id="ece33961-cit-0051">
+<string-name>
+<surname>Slade</surname>, <given-names>N. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blair</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2000</year>). <article-title>An empirical test of using counts of individuals captured as indices of population size</article-title>. <source>Journal of Mammalogy</source>, <volume>81</volume>, <fpage>1035</fpage>&#x02013;<lpage>1045</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1644/1545-1542(2000)081&#x0003c;1035:AETOUC&#x0003e;2.0.CO;2">https://doi.org/10.1644/1545-1542(2000)081&#x0003c;1035:AETOUC&#x0003e;2.0.CO;2</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0052"><mixed-citation publication-type="journal" id="ece33961-cit-0052">
+<string-name>
+<surname>Taylor</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Latham</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Woolhouse</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2001</year>). <article-title>Risk factors for human disease emergence</article-title>. <source>Philosophical Transactions of the Royal Society B</source>, <volume>356</volume>, <fpage>983</fpage>&#x02013;<lpage>989</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rstb.2001.0888">https://doi.org/10.1098/rstb.2001.0888</ext-link>
+</mixed-citation></ref><ref id="ece33961-bib-0053"><mixed-citation publication-type="journal" id="ece33961-cit-0053">
+<string-name>
+<surname>Tersago</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Schreurs</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Linard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Verhagen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Van Dongen</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Leirs</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>). <article-title>Population, environmental, and community effects on local bank vole (<italic>Myodes glareolus</italic>) Puumala virus infection in an area with low human incidence</article-title>. <source>Vector&#x02010;Borne and Zoonotic Diseases</source>, <volume>8</volume>, <fpage>235</fpage>&#x02013;<lpage>244</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1089/vbz.2007.0160">https://doi.org/10.1089/vbz.2007.0160</ext-link>
+<pub-id pub-id-type="pmid">18370592</pub-id></mixed-citation></ref><ref id="ece33961-bib-0054"><mixed-citation publication-type="journal" id="ece33961-cit-0054">
+<string-name>
+<surname>Tollenaere</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rahalison</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ranjalahy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Duplantier</surname>, <given-names>J.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Rahelinirina</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Telfer</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brouat</surname>, <given-names>C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Susceptibility to <italic>Yersinia pestis</italic> experimental infection in wild rattus rattus, reservoir of plague in Madagascar</article-title>. <source>EcoHealth</source>, <volume>7</volume>, <fpage>242</fpage>&#x02013;<lpage>247</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10393-010-0312-3">https://doi.org/10.1007/s10393-010-0312-3</ext-link>
+<pub-id pub-id-type="pmid">20443044</pub-id></mixed-citation></ref><ref id="ece33961-bib-0055"><mixed-citation publication-type="journal" id="ece33961-cit-0055">
+<string-name>
+<surname>Tsao</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Barbour</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Luke</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Fikrig</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fish</surname>, <given-names>D.</given-names>
+</string-name> (<year>2001</year>). <article-title>OspA immunization decreases transmission of <italic>Borrelia burgdorferi</italic> spirochetes from infected <italic>Peromyscus leucopus</italic> mice to larval <italic>Ixodes scapularis</italic> ticks</article-title>. <source>Vector&#x02010;Borne and Zoonotic Diseases</source>, <volume>1</volume>, <fpage>65</fpage>&#x02013;<lpage>74</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1089/153036601750137705">https://doi.org/10.1089/153036601750137705</ext-link>
+<pub-id pub-id-type="pmid">12653137</pub-id></mixed-citation></ref><ref id="ece33961-bib-0056"><mixed-citation publication-type="journal" id="ece33961-cit-0056">
+<string-name>
+<surname>Tsao</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Wootton</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Bunikis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Luna</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name>
+<surname>Fish</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Barbour</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2004</year>). <article-title>An ecological approach to preventing human infection: Vaccinating wild mouse reservoirs intervenes in the Lyme disease cycle</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>101</volume>, <fpage>18159</fpage>&#x02013;<lpage>18164</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.0405763102">https://doi.org/10.1073/pnas.0405763102</ext-link>
+<pub-id pub-id-type="pmid">15608069</pub-id></mixed-citation></ref><ref id="ece33961-bib-0057"><mixed-citation publication-type="journal" id="ece33961-cit-0057">
+<string-name>
+<surname>Voordouw</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Tupper</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>&#x000d6;nder</surname>, <given-names>&#x000d6;.</given-names>
+</string-name>, <string-name>
+<surname>Devevey</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Graves</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Kemps</surname>, <given-names>B. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brisson</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Reductions in human Lyme disease risk due to the effects of oral vaccination on tick&#x02010;to&#x02010;mouse and mouse&#x02010;to&#x02010;tick transmission</article-title>. <source>Vector&#x02010;Borne and Zoonotic Diseases</source>, <volume>13</volume>, <fpage>203</fpage>&#x02013;<lpage>214</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1089/vbz.2012.1003">https://doi.org/10.1089/vbz.2012.1003</ext-link>
+<pub-id pub-id-type="pmid">23428088</pub-id></mixed-citation></ref><ref id="ece33961-bib-0059"><mixed-citation publication-type="journal" id="ece33961-cit-0059">
+<string-name>
+<surname>Woolhouse</surname>, <given-names>M. E. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gowtage&#x02010;Sequeria</surname>, <given-names>S.</given-names>
+</string-name> (<year>2005</year>). <article-title>Host range and emerging and reemerging pathogens</article-title>. <source>Emerging Infectious Diseases</source>, <volume>11</volume>, <fpage>1842</fpage>&#x02013;<lpage>1847</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3201/eid1112.050997">https://doi.org/10.3201/eid1112.050997</ext-link>
+<pub-id pub-id-type="pmid">16485468</pub-id></mixed-citation></ref><ref id="ece33961-bib-0060"><mixed-citation publication-type="book" id="ece33961-cit-0060">
+<string-name>
+<surname>Worth</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>R. C. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lymbery</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2014</year>). <chapter-title>Reevaluating the evidence for <italic>Toxoplasma gondii</italic>&#x02010;induced behavioural changes in rodents</chapter-title> In <person-group person-group-type="editor"><name><surname>Rollinson</surname><given-names>D.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Stothard</surname><given-names>J. R.</given-names></name></person-group> (Eds.), <source>Advances in parasitology</source>, Vol. <volume>85</volume> (pp. <fpage>109</fpage>&#x02013;<lpage>142</lpage>). <publisher-loc>San Diego, CA</publisher-loc>: <publisher-name>Elsevier Academic Press Inc</publisher-name>.</mixed-citation></ref></ref-list></back></article>

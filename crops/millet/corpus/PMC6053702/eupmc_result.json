@@ -1,0 +1,655 @@
+{
+  "id": [
+    "30079380"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30079380"
+  ],
+  "pmcid": [
+    "PMC6053702"
+  ],
+  "doi": [
+    "10.12688/wellcomeopenres.14641.1"
+  ],
+  "title": [
+    "Distinct transcriptional responses of mouse sensory neurons in models of human chronic pain conditions."
+  ],
+  "authorString": [
+    "Bangash MA, Alles SRA, Santana-Varela S, Millet Q, Sikandar S, de Clauser L, Ter Heegde F, Habib AM, Pereira V, Sexton JE, Emery EC, Li S, Luiz AP, Erdos J, Gossage SJ, Zhao J, Cox JJ, Wood JN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bangash MA"
+          ],
+          "firstName": [
+            "M A"
+          ],
+          "lastName": [
+            "Bangash"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1696-2792",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Alles SRA"
+          ],
+          "firstName": [
+            "Sascha R A"
+          ],
+          "lastName": [
+            "Alles"
+          ],
+          "initials": [
+            "SRA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8532-8950",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Santana-Varela S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Santana-Varela"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Millet Q"
+          ],
+          "firstName": [
+            "Queensta"
+          ],
+          "lastName": [
+            "Millet"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sikandar S"
+          ],
+          "firstName": [
+            "Shafaq"
+          ],
+          "lastName": [
+            "Sikandar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "de Clauser L"
+          ],
+          "firstName": [
+            "Larissa"
+          ],
+          "lastName": [
+            "de Clauser"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ter Heegde F"
+          ],
+          "firstName": [
+            "Freija"
+          ],
+          "lastName": [
+            "Ter Heegde"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Habib AM"
+          ],
+          "firstName": [
+            "Abdella M"
+          ],
+          "lastName": [
+            "Habib"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Pereira V"
+          ],
+          "firstName": [
+            "Vanessa"
+          ],
+          "lastName": [
+            "Pereira"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sexton JE"
+          ],
+          "firstName": [
+            "Jane E"
+          ],
+          "lastName": [
+            "Sexton"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Emery EC"
+          ],
+          "firstName": [
+            "Edward C"
+          ],
+          "lastName": [
+            "Emery"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9723-8661",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shengnan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Luiz AP"
+          ],
+          "firstName": [
+            "Ana P"
+          ],
+          "lastName": [
+            "Luiz"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Erdos J"
+          ],
+          "firstName": [
+            "Janka"
+          ],
+          "lastName": [
+            "Erdos"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gossage SJ"
+          ],
+          "firstName": [
+            "Samuel J"
+          ],
+          "lastName": [
+            "Gossage"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2587-1198",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Cox JJ"
+          ],
+          "firstName": [
+            "James J"
+          ],
+          "lastName": [
+            "Cox"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9129-8011",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wood JN"
+          ],
+          "firstName": [
+            "John N"
+          ],
+          "lastName": [
+            "Wood"
+          ],
+          "initials": [
+            "JN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9166-8158",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1696-2792",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2587-1198",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9166-8158",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9723-8661",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9129-8011",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8532-8950",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2655070"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Wellcome open research"
+          ],
+          "ISOAbbreviation": [
+            "Wellcome Open Res"
+          ],
+          "medlineAbbreviation": [
+            "Wellcome Open Res"
+          ],
+          "NLMid": [
+            "101696457"
+          ],
+          "ISSN": [
+            "2398-502X"
+          ],
+          "ESSN": [
+            "2398-502X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "78"
+  ],
+  "abstractText": [
+    "Background: Sensory neurons play an essential role in almost all pain conditions, and have recently been classified into distinct subsets on the basis of their transcriptomes. Here we have analysed alterations in dorsal root ganglia (DRG) gene expression using microarrays in mouse models related to human chronic pain. Methods: Six different pain models were studied in male C57BL/6J mice: (1) bone cancer pain using cancer cell injection in the intramedullary space of the femur; (2) neuropathic pain using partial sciatic nerve ligation; (3) osteoarthritis pain using mechanical joint loading; (4) chemotherapy-induced pain with oxaliplatin; (5) chronic muscle pain using hyperalgesic priming; and (6) inflammatory pain using intraplantar complete Freund's adjuvant. Microarray analyses were performed using RNA isolated from dorsal root ganglia and compared to sham/vehicle treated controls. Results: Differentially expressed genes (DEGs) were identified. Known and previously unreported genes were found to be dysregulated in each pain model. The transcriptomic profiles for each model were compared and expression profiles of DEGs within subsets of DRG neuronal populations were analysed to determine whether specific neuronal subsets could be linked to each of the pain models.  Conclusions: Each pain model exhibits a unique set of altered transcripts implying distinct cellular responses to different painful stimuli. No simple direct link between genetically distinct sets of neurons and particular pain models could be discerned."
+  ],
+  "affiliation": [
+    "Molecular Nociception Group, Wolfson Institute for Biomedical Research, University College London, London, WC1E 6BT, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dorsal root ganglia",
+        "Chronic pain",
+        "Microarrays",
+        "Gene Expression",
+        "Mouse Models",
+        "Sensory Neurons"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6053702?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6053702"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/wellcomeopenres.14641.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR44826"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "arrayexpress",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-08-07"
+  ],
+  "dateOfRevision": [
+    "2018-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-25"
+  ],
+  "firstPublicationDate": [
+    "2018-06-25"
+  ]
+}

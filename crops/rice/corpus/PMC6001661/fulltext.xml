@@ -1,0 +1,1540 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">New Phytol</journal-id><journal-id journal-id-type="iso-abbrev">New Phytol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1469-8137</journal-id><journal-id journal-id-type="publisher-id">NPH</journal-id><journal-title-group><journal-title>The New Phytologist</journal-title></journal-title-group><issn pub-type="ppub">0028-646X</issn><issn pub-type="epub">1469-8137</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6001661</article-id><article-id pub-id-type="doi">10.1111/nph.15122</article-id><article-id pub-id-type="publisher-id">NPH15122</article-id><article-id pub-id-type="other">2018-26300</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></subj-group></article-categories><title-group><article-title>
+<styled-content style="fixed-case">SIP</styled-content>1 participates in regulation of flowering time in rice by recruiting OsTrx1 to <italic>Ehd1</italic>
+</article-title></title-group><contrib-group><contrib id="nph15122-cr-0001" contrib-type="author"><name><surname>Jiang</surname><given-names>Pengfei</given-names></name><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="nph15122-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="nph15122-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="nph15122-cr-0002" contrib-type="author"><name><surname>Wang</surname><given-names>Shiliang</given-names></name><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="nph15122-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="nph15122-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="nph15122-cr-0003" contrib-type="author"><name><surname>Zheng</surname><given-names>Han</given-names></name><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15122-cr-0004" contrib-type="author"><name><surname>Li</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="nph15122-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="nph15122-cr-0005" contrib-type="author"><name><surname>Zhang</surname><given-names>Fei</given-names></name><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15122-cr-0006" contrib-type="author"><name><surname>Su</surname><given-names>Yanhua</given-names></name><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15122-cr-0007" contrib-type="author"><name><surname>Xu</surname><given-names>Zuntao</given-names></name><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15122-cr-0008" contrib-type="author"><name><surname>Lin</surname><given-names>Haiyan</given-names></name><xref ref-type="aff" rid="nph15122-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="nph15122-cr-0009" contrib-type="author"><name><surname>Qian</surname><given-names>Qian</given-names></name><xref ref-type="aff" rid="nph15122-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="nph15122-cr-0010" contrib-type="author" corresp="yes"><name><surname>Ding</surname><given-names>Yong</given-names></name><address><email>dingyong@ustc.edu.cn</email></address><xref ref-type="aff" rid="nph15122-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="nph15122-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">CAS Center for Excellence in Molecular Plant Sciences</named-content>
+<named-content content-type="organisation-division">School of Life Sciences</named-content>
+<institution>University of Science &#x00026; Technology of China</institution>
+<named-content content-type="city">Hefei</named-content>
+<named-content content-type="country-part">Anhui</named-content>
+<named-content content-type="post-code">230027</named-content>
+<country country="CN">China</country>
+</aff><aff id="nph15122-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">School of Life Sciences</named-content>
+<institution>Anhui Agricultural University</institution>
+<named-content content-type="city">Hefei</named-content>
+<named-content content-type="country-part">Anhui</named-content>
+<named-content content-type="post-code">230036</named-content>
+<country country="CN">China</country>
+</aff><aff id="nph15122-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Rice Genetic Breeding of Anhui Province</named-content>
+<institution>Rice Research Institute</institution>
+<institution>Anhui Academy of Agricultural Sciences</institution>
+<named-content content-type="city">Hefei</named-content>
+<named-content content-type="post-code">230031</named-content>
+<country country="CN">China</country>
+</aff><aff id="nph15122-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Rice Biology</named-content>
+<named-content content-type="organisation-division">China National Rice Research Institute</named-content>
+<institution>Chinese Academy of Agricultural Sciences</institution>
+<named-content content-type="city">Hangzhou</named-content>
+<named-content content-type="post-code">310006</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Author for correspondence:<break/><italic>Yong Ding</italic><break/><italic>Tel: +86 551 63601317</italic><break/><italic>Email: </italic><email>dingyong@ustc.edu.cn</email><break/></corresp><fn fn-type="equal" id="nph15122-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>03</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2018</year></pub-date><volume>219</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/nph.2018.219.issue-1</issue-id><fpage>422</fpage><lpage>435</lpage><history><date date-type="received"><day>25</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>20</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 New Phytologist Trust <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. New Phytologist &#x000a9; 2018 New Phytologist Trust</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:NPH-219-422.pdf"/><abstract id="nph15122-abs-0001"><title>Summary</title><p>
+<list list-type="bullet" id="nph15122-list-0001"><list-item><p>Flowering time (heading date) in rice (<italic>Oryza sativa</italic>) is an important agronomic trait that determines yield. The levels of histone H3 lysine 4 trimethylation (H3K4me3) modulated by <styled-content style="fixed-case">TRITHORAX</styled-content>&#x02010;like proteins regulate gene transcription, flowering time and environmental stress responses. However, plant <styled-content style="fixed-case">TRITHORAX</styled-content>&#x02010;like proteins have no known <styled-content style="fixed-case">DNA</styled-content>&#x02010;binding domain, and therefore the mechanism that gives sequence specificity to these proteins remains unclear.</p></list-item><list-item><p>Here, we show that the rice <styled-content style="fixed-case">TRITHORAX</styled-content>&#x02010;like protein OsTrx1 is recruited to its target, <italic>Early heading date 1</italic> (<italic>Ehd1</italic>), by the C2H2 zinc finger protein <styled-content style="fixed-case">SDG</styled-content>723/OsTrx1/Os<styled-content style="fixed-case">SET</styled-content>33 Interaction Protein 1 (<styled-content style="fixed-case">SIP</styled-content>1).</p></list-item><list-item><p>
+<styled-content style="fixed-case">SIP</styled-content>1 binds to the promoter of <italic>Ehd1</italic> and interacts with OsTrx1. Mutations in <italic><styled-content style="fixed-case">SIP</styled-content>1</italic> led to a late heading date under long&#x02010;day and short&#x02010;day conditions. Defects in OsTrx1 or <styled-content style="fixed-case">SIP</styled-content>1 led to reduced H3K4me3 levels at <italic>Ehd1</italic>, thus reducing <italic>Ehd1</italic> expression.</p></list-item><list-item><p>Together, our results show that the transcription factor <styled-content style="fixed-case">SIP</styled-content>1 interacts with OxTrx1, allowing OsTrx1 to specifically target <italic>Ehd1</italic>, altering H3K4me3 levels, increasing <italic>Ehd1</italic> expression and thereby promoting flowering.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nph15122-kwd-0001">C2H2 zinc finger protein <styled-content style="fixed-case">SIP</styled-content>1</kwd><kwd id="nph15122-kwd-0002">flowering time</kwd><kwd id="nph15122-kwd-0003">H3K4me3</kwd><kwd id="nph15122-kwd-0004">OsTrx1</kwd><kwd id="nph15122-kwd-0005">rice</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>9143510</award-id><award-id>31571315</award-id><award-id>31371306</award-id></award-group><award-group><funding-source>Strategic Priority Research Program &#x02018;Molecular Mechanism of Plant Growth and Development&#x02019; of CAS</funding-source><award-id>XDPB04</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="14"/><word-count count="9660"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>nph15122</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.1.1 mode:remove_FC converted:14.06.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="nph15122-sec-0001"><title>Introduction</title><p>The timing of flowering, the transition from vegetative to reproductive development in plants, is determined by genetic pathways that integrate endogenous and environmental signals (Simpson &#x00026; Dean, <xref rid="nph15122-bib-0047" ref-type="ref">2002</xref>; Izawa, <xref rid="nph15122-bib-0022" ref-type="ref">2007</xref>; Lee &#x00026; An, <xref rid="nph15122-bib-0031" ref-type="ref">2015</xref>). Rice (<italic>Oryza sativa</italic>) flowering time (termed heading date) is an important agronomic trait for regional and seasonal adaptation, and heading at the proper time is a critical step for successful grain production (Izawa, <xref rid="nph15122-bib-0022" ref-type="ref">2007</xref>; Yeang, <xref rid="nph15122-bib-0062" ref-type="ref">2013</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0050" ref-type="ref">2014</xref>). Rice has two homologs of <italic>Arabidopsis thaliana FLOWERING TIME LOCUS T</italic> (<italic>FT</italic>): <italic>Heading date 3a</italic> (<italic>Hd3a</italic>) and <italic>RICE FLOWERING TIME LOCUS T1</italic> (<italic>RFT1</italic>). <italic>Hd3a</italic> and <italic>RFT1</italic> encode proteins that function as florigens under short&#x02010;day (SD) and long&#x02010;day (LD) conditions, respectively (Yano <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0061" ref-type="ref">2001</xref>; Kojima <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0027" ref-type="ref">2002</xref>; Tamaki <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0054" ref-type="ref">2007</xref>; Komiya <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0028" ref-type="ref">2008</xref>, <xref rid="nph15122-bib-0029" ref-type="ref">2009</xref>). Hd3a and RFT1 are generated in the leaf phloem and transferred to the shoot apical meristem (SAM), where they induce reproductive development (Komiya <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0028" ref-type="ref">2008</xref>; Hagiwara <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0019" ref-type="ref">2009</xref>; Lee &#x00026; An, <xref rid="nph15122-bib-0031" ref-type="ref">2015</xref>).</p><p>The positive and negative regulators of the florigen genes <italic>Hd3a</italic> and <italic>RFT1</italic> form a network that regulates flowering in rice (Komiya <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0029" ref-type="ref">2009</xref>). Upstream of <italic>Hd3a</italic> and <italic>RFT1</italic>, rice has a conserved flowering pathway, the <italic>Heading date1</italic> (<italic>Hd1</italic>) pathway, which is controlled by photoperiod (Komiya <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0028" ref-type="ref">2008</xref>; Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0052" ref-type="ref">2009</xref>). <italic>Hd1</italic>, a homolog of <italic>CONSTANS</italic> (<italic>CO</italic>), promotes flowering under SD by the activation of <italic>Hd3a</italic> and represses flowering under LD by the suppression of <italic>Hd3a</italic> (Yano <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0060" ref-type="ref">2000</xref>; Ishikawa <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0021" ref-type="ref">2005</xref>, <xref rid="nph15122-bib-0020" ref-type="ref">2011</xref>), respectively.</p><p>In addition to the <italic>Hd1</italic> pathway, rice has a unique, independent flowering time pathway mediated by <italic>Early heading date 1</italic> (<italic>Ehd1</italic>). <italic>Ehd1</italic> encodes a B&#x02010;type response regulator that promotes flowering by controlling the expression of <italic>FT&#x02010;</italic>like genes under SD and LD (Doi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0016" ref-type="ref">2004</xref>). <italic>Ehd1</italic>, a central integrator involved in flowering time, is activated by <italic>Ehd2/OsID1</italic> (<italic>OsINDETERMINATE 1</italic>)<italic>/RID1</italic> (<italic>Rice INDETERMINATE 1</italic>) and <italic>Ehd4</italic> under LD and SD conditions (Matsubara <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0038" ref-type="ref">2008</xref>; Park <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0039" ref-type="ref">2008</xref>; Gao <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0018" ref-type="ref">2013</xref>). <italic>OsMADS50</italic> promotes <italic>Ehd1</italic> by suppressing the expression of (<italic>LEAFY COTYLEDON 2 and FUSCA 3&#x02010;LIKE 1</italic>) <italic>OsLFL1</italic>, which encodes an inhibitor of <italic>Ehd1</italic> under LD conditions (Lee <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0030" ref-type="ref">2004</xref>; Ryu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0042" ref-type="ref">2009</xref>). OsMADS56 interacts with OsMADS50 <italic>in&#x000a0;vitro</italic>; these two MADS&#x02010;box proteins form a heterodimer and function antagonistically through the <italic>OsLFL1</italic>&#x02013;<italic>Ehd1</italic> pathway under LD (Ryu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0042" ref-type="ref">2009</xref>). OsMADS51, another MADS&#x02010;box gene, promotes <italic>Ehd1</italic> expression under SD (Kim <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0026" ref-type="ref">2007</xref>). In addition to being activated by MADs&#x02010;box proteins, <italic>Ehd1</italic> is suppressed by <italic>Grain Number Plant Height and Heading date7</italic> (<italic>Ghd7</italic>), which encodes a CCT domain protein (Xue <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0058" ref-type="ref">2008</xref>). <italic>Ghd7</italic> is activated by <italic>EL1</italic> (<italic>Early flowering 1</italic>)/<italic>Hd16</italic>, which encodes a casein kinase I protein (Dai &#x00026; Xue, <xref rid="nph15122-bib-0009" ref-type="ref">2010</xref>), and is suppressed by <italic>Ehd3</italic> (Matsubara <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0037" ref-type="ref">2011</xref>).</p><p>In eukaryotic cells, dynamic changes in chromatin structure mediated by covalent modifications of DNA or histones frequently correlate with changes in transcription. The methylation of histone lysines, including histone H3 lysine 4 (H3K4), H3K9, H3K27, H3K36, H3K79 and H4K20, plays a crucial role in the regulation of key biological processes, such as cell cycle progression, transcription and DNA repair (Zhang &#x00026; Reinberg, <xref rid="nph15122-bib-0064" ref-type="ref">2001</xref>; Liu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0034" ref-type="ref">2010</xref>). Except for H3K79 methylation, which is catalyzed by Dot1 family proteins, all other histone lysine methylations are carried out by SET (Su (var), Enhancer of Zeste and Trithorax) domain&#x02010;containing enzymes (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0053" ref-type="ref">2011</xref>). The SET domain family contains yeast Set1 and its orthologs in other species (Avramova, <xref rid="nph15122-bib-0003" ref-type="ref">2009</xref>). The TRITHORAX (TRX) family of proteins, including Drosophila Trithorax (Trx), mammalian Mixed lineage leukemia protein 1&#x02010;4 (MLL1&#x02010;4) and ARABIDOPSIS HOMOLOG of TRITHORAX 1&#x02010;2 (ATX1&#x02010;2), form a phylogenetic subgroup distinct from yeast Set1. Yeast SET1 is the sole methyltransferase acting on lysine 4 of histone H3, and is responsible for the mono, di&#x02010; and tri&#x02010;methylation of H3K4 (Bernstein <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0006" ref-type="ref">2002</xref>; Santos&#x02010;Rosa <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0045" ref-type="ref">2002</xref>). Arabidopsis ATX1 tri&#x02010;methylates H3K4 at specific genes involved in multiple biological processes, such as flowering time regulation, dehydration stress responses and flower organ development (Alvarez&#x02010;Venegas <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0001" ref-type="ref">2003</xref>; Saleh <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0043" ref-type="ref">2007</xref>; Pien <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0040" ref-type="ref">2008</xref>; Ding <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0010" ref-type="ref">2011a</xref>,<xref rid="nph15122-bib-0011" ref-type="ref">b</xref>, <xref rid="nph15122-bib-0012" ref-type="ref">2012a</xref>,<xref rid="nph15122-bib-0014" ref-type="ref">b</xref>). In addition to development, ATX1 and WDR5a are also associated with RNA polymerase II enrichment, which promotes the transcription initiation at the promoter region and transcription elongation at the gene body (Ding <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0011" ref-type="ref">2011b</xref>, <xref rid="nph15122-bib-0014" ref-type="ref">2012b</xref>). However, ATX2, a homolog of ATX1, has di&#x02010;methyltransferase activity (Saleh <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0044" ref-type="ref">2008</xref>).</p><p>The promotion of flowering time also requires the methylation of lysine 4 of H3 and lysine 36 of H3, which is mediated by SET&#x02010;domain group (SDG) proteins (Sun <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0050" ref-type="ref">2014</xref>; Jeong <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0023" ref-type="ref">2015</xref>; Lee &#x00026; An, <xref rid="nph15122-bib-0031" ref-type="ref">2015</xref>; Shi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0046" ref-type="ref">2015</xref>). OsTrx1/SDG723/OsSET33, a rice TRITHORAX&#x02010;like protein, interacts with Ehd3 to boost flowering by negatively regulating the expression of <italic>Ghd7</italic> (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>). Flowering promoted by OsTrx1 requires OsWDR5a under LD and SD conditions (Jiang <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0025" ref-type="ref">2018</xref>). SDG701, related to Arabidopsis SDG2/ATRX3, regulates the tri&#x02010;methylation of H3K4 at <italic>Hd3a</italic> and <italic>RFT1</italic> (Liu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0035" ref-type="ref">2017</xref>). <italic>SDG724</italic>,<italic> SDG725</italic> and <italic>SDG708</italic> encode proteins belong to SET domain family II; members of this family function in H3K36me2/3 modifications (Sun <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0051" ref-type="ref">2012</xref>; Sui <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0049" ref-type="ref">2013</xref>; Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>; Liu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0033" ref-type="ref">2016</xref>). Loss of function of any of these proteins results in late flowering in both LD and SD conditions. SDG724 is required for the deposition of H3K36me2/3 at more flowering gene loci, such as <italic>Ehd3</italic>,<italic> Ehd2</italic>,<italic> OsMADS50</italic>,<italic> Hd3a</italic> and <italic>RFT1</italic>, whereas SDG725 is only required for H3K36me2/3 deposition at <italic>RFT1</italic> (Sui <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0049" ref-type="ref">2013</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0050" ref-type="ref">2014</xref>). SDG708 is indispensible for H3K36me2/3 at <italic>Hd3a</italic>,<italic> RFT1</italic> and <italic>Ehd1</italic> (Liu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0033" ref-type="ref">2016</xref>).</p><p>Histone modifications play critical roles at specific developmental stages, and the functions of H3K4 methylation in developmental regulation, transcription and flowering time in Arabidopsis are well known, but less is known about its functions in the monocot plant rice. In rice, over 50% of genes show H3K4 methylation (Zong <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0068" ref-type="ref">2013</xref>), suggesting that H3K4 methylation has widespread functions in many biological processes. Although these findings hint at the importance of histone modifying proteins in rice, the fundamental question of how these proteins target specific genes to carry out their functions remains to be understood, particularly in plants. In mammalian cells, MLL1 contains a CXXC motif, which helps it to bind directly to DNA (Ayton <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0004" ref-type="ref">2004</xref>). By contrast, plant TRITHORAX&#x02010;like proteins, including ATX1, ATX2 and OsTrx1/SDG723/OsSET33, lack the CXXC motif. The recruitment of plant TRITHORAX&#x02010;like proteins to target genes might depend on their interaction with specific transcription factors; however, the mechanisms that provide specificity to plant TRITHORAX&#x02010;like proteins remain to be identified.</p><p>OsTrx1/SDG723/OsSET33, encoded by LOC_Os09g04890, interacts with Ehd3 to repress the transcription of <italic>Ghd7</italic> (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>). The PHD motif of OsTrx1 binds the histone H3, allowing OsTrx1 to modify chromatin (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>). However, the molecular mechanism of how OsTrx1 targets the flowering time gene and establishes H3K4me3 remains unclear. Here, we report that OsTrx1 interacts with the transcription factor SIP1, which allows OsTrx1 to bind to <italic>Ehd1</italic>. Defects in OsTrx1 and SIP1 result in late heading under LD and SD conditions and both act in the same flowering pathway in rice.</p></sec><sec id="nph15122-sec-0002"><title>Materials and Methods</title><sec id="nph15122-sec-0003"><title>Materials</title><p>The authorities for all of the species under investigation include: University of Science &#x00026; Technology of China and Anhui Agricultural University. The plants used in the study are in the <italic>Oryza sativa</italic> ssp. <italic>japonica</italic> cv Nipponbare background. All plants were regenerated from callus as described previously (Xu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0056" ref-type="ref">2015</xref>, <xref rid="nph15122-bib-0057" ref-type="ref">2016</xref>). T<sub>1</sub> plants were generated from the seeds of self&#x02010;pollinated T<sub>0</sub> plants. For mutants generated by CRISPR/Cas9, the CRISPR/Cas9 constructs were segregated out in self&#x02010;pollinated lines. All rice plants were grown in fields from 20 April to the beginning of October at Hefei (Anhui) in 2016 and 2017, and from 20 November to the beginning of February at Lingshui (Hainan), China in 2016 and 2017. The details of day length for rice growth in Hefei and Lingshui are described in Supporting Information Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S1</xref>. All plants were re&#x02010;grown in a growth room at 26&#x000b0;C under a restricted LD photoperiod (14&#x000a0;h&#x000a0;:&#x000a0;10&#x000a0;h, light&#x000a0;:&#x000a0;dark cycle) or a restricted SD photoperiod (10&#x000a0;h&#x000a0;:&#x000a0;14&#x000a0;h, light&#x000a0;:&#x000a0;dark cycle). <italic>Arabidopsis thaliana</italic> ecotype WS plants were grown at 22&#x000b0;C under an LD photoperiod (16&#x000a0;h&#x000a0;:&#x000a0;8&#x000a0;h, light&#x000a0;:&#x000a0;dark cycle). Seeds from the <italic>atx1&#x02010;1</italic> mutant have been described previously (Alvarez&#x02010;Venegas <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0001" ref-type="ref">2003</xref>; Ding <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0010" ref-type="ref">2011a</xref>,<xref rid="nph15122-bib-0011" ref-type="ref">b</xref>).</p></sec><sec id="nph15122-sec-0004"><title>Plasmid constructs</title><p>The plasmids were constructed using the DNA primers and protocols described in Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>. All cloned DNA was confirmed by DNA sequencing.</p></sec><sec id="nph15122-sec-0005"><title>Yeast one&#x02010;hybrid assay</title><p>Yeast one&#x02010;hybrid assay was performed following the &#x02018;Matchmaker Gold Yeast One&#x02010;Hybrid Library Screening System User Manual&#x02019; (Clontech, Mountain View, CA, USA). Briefly, the different parts of the <italic>Ehd1</italic> promoter were cloned into the pAbAi vector and SIP1 was fused with pGADT7 (AD&#x02010;SIP1). Then, the proEhd1&#x02010;pAbAi vectors were transferred into the yeast strain and grown on synthetic defined medium lacking uracil (Ura). The minimal inhibitory concentration of Aureobasidin A (AbA) for the bait strain was tested on medium lacking Ura. Then, AD&#x02010;SIP was transferred into bait strains containing different proEhd1&#x02010;pAbAi vectors. The protein&#x02013;DNA interactions were examined on medium lacking leucine (Leu) and Ura with 250&#x000a0;ng&#x000a0;ml<sup>&#x02212;1</sup> AbA.</p></sec><sec id="nph15122-sec-0006"><title>Yeast two&#x02010;hybrid assay</title><p>The yeast two&#x02010;hybrid assay was performed according to the manufacturer's protocol (Clontech, user's manual 630489). Briefly, the <italic>Saccharomyces cerevisiae</italic> strain AH109 was transformed with the bait construct pGBKT7&#x02010;OsTrx1, and then transformed with the cDNA library generated from rice leaves by Clontech. pGBKT7&#x02010;OsTrx1, pGBKT7&#x02010;OsTrx1N or pGBKT7&#x02010;OsTrx1C was then co&#x02010;transformed with pGADT7&#x02010;SIP1. Vectors lacking coding region insertions were used as negative controls. The yeast was scored for protein interaction based on its ability to grow on synthetic defined medium lacking tryptophan (Trp), Leu, histidine (His) and adenine. The primers used to generate the constructs are shown in Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="nph15122-sec-0007"><title>Protein pull&#x02010;down assays, co&#x02010;immunoprecipitation (Co&#x02010;IP) and immunoblot assays</title><p>For the pull&#x02010;down assays, beads were incubated with 3&#x000a0;&#x003bc;g of fusion protein, washed and incubated with 3&#x000a0;&#x003bc;g of soluble protein overnight at 4&#x000b0;C. Mock controls included extracts prepared from either the His&#x02010;Tag or glutathione transferase (GST) vectors. The beads were washed five times with a solution containing 20&#x000a0;mM Tris (pH&#x000a0;7.4), 150&#x000a0;mM NaCl and 0.05% Tween 20, separated on a sodium dodecylsulfate&#x02010;polyacrylamide gel electrophoresis (SDS&#x02010;PAGE) gel and analyzed by immunoblotting using an anti&#x02010;GST antibody (GenScript, Nanjing, China; A00866&#x02010;100, lot: 13D000626) or an anti&#x02010;His antibody (Abmart, Shanghai, China; M30111M, lot: 273884).</p><p>For Co&#x02010;IP, SIP1 was fused with FLAG tag and OsTrx1 was fused with HA tag, and cloned into the pUC19 vector. Co&#x02010;IP was performed as described previously (Lu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0036" ref-type="ref">2017</xref>). Briefly, 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> rice protoplasts were lysed with PEN&#x02010;140 buffer (140&#x000a0;mM NaCl, 2.7&#x000a0;mM KCl, 25&#x000a0;mM Na<sub>2</sub>HPO<sub>4</sub>, 1.5&#x000a0;mM KH<sub>2</sub>PO<sub>4</sub>, 0.01&#x000a0;mM EDTA and 0.05% CA&#x02010;630). The supernatant was pre&#x02010;cleared with Protein G and precipitated with anti&#x02010;HA (Sigma&#x02010;Aldrich; H9658, lot: 095M4778V) antibodies. The protein complexes were isolated by binding to Protein G beads, followed by five washes with PEN&#x02010;400 buffer (400&#x000a0;mM NaCl, 2.7&#x000a0;mM KCl, 25&#x000a0;mM Na<sub>2</sub>HPO<sub>4</sub>, 1.5&#x000a0;mM KH<sub>2</sub>PO<sub>4</sub>, 0.01&#x000a0;mM EDTA and 0.05% CA&#x02010;630). The samples were analyzed by immunoblotting using anti&#x02010;FLAG (Sigma&#x02010;Aldrich; H6908, lot: SLBQ7119V) and anti&#x02010;HA antibodies.</p></sec><sec id="nph15122-sec-0008"><title>Complementation of the <italic>ostrx&#x02010;2</italic> and <italic>atx1</italic> mutants</title><p>For <italic>ostrx1&#x02010;2</italic> complementation, the <italic>Pro</italic>
+<sub><italic>OsTrx1</italic></sub>
+<italic>:FLAG&#x02010;OsTrx1</italic> construct was generated by fusing the full&#x02010;length cDNA of <italic>OsTrx1</italic> to <italic>FLAG</italic>, and then inserting the fusion into a pCambia1300 vector harboring the 3100&#x02010;bp <italic>OsTrx1</italic> promoter. The construct was introduced into the <italic>Agrobacterium tumefaciens</italic> strain <italic>EHA105</italic> and plants were regenerated from callus as described previously (Xu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0056" ref-type="ref">2015</xref>).</p><p>For <italic>atx1</italic> complementation, the <italic>Pro</italic>
+<sub><italic>35S</italic></sub>
+<italic>:RFP&#x02010;OsTrx1</italic> construct was generated by fusing the full&#x02010;length cDNA of <italic>OsTrx1</italic> to <italic>RFP</italic>, and then inserting the fusion into a pCambia1301 vector. The construct was introduced into the <italic>Agrobacterium tumefaciens</italic> strain <italic>EHA105</italic> and transformed the <italic>atx1</italic> mutant.</p></sec><sec id="nph15122-sec-0009"><title>Generation of <italic>ostrx1</italic>,<italic> edh1</italic> and <italic>sip1</italic> mutants using CRISPR/Cas9</title><p>The CRISPR/Cas9 mutagenesis was performed as described previously (Xu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0056" ref-type="ref">2015</xref>, <xref rid="nph15122-bib-0057" ref-type="ref">2016</xref>). Briefly, the oligonucleotides used for <italic>OsTrx1</italic>,<italic> Ehd1</italic> and <italic>SIP1</italic> mutagenesis were designed with the help of CRISPR&#x02010;PLANT tools (Yan <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0059" ref-type="ref">2015</xref>). The oligonucleotides were inserted into the CRISPR/Cas9 vector pHUN4c12 with <italic>Bsa</italic>I. The binary constructs were then introduced into the <italic>Agrobacterium tumefaciens</italic> strain <italic>EHA105</italic> and plants were regenerated from callus. The mutants were further confirmed by sequencing. The oligonucleotides are listed in Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="nph15122-sec-0010"><title>Electrophoretic mobility shift assay</title><p>The electrophoretic mobility shift assay (EMSA) was performed as described previously (Su <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0048" ref-type="ref">2017</xref>). Briefly, 1&#x02013;2&#x000a0;&#x003bc;g of purified protein in binding buffer (10&#x000a0;mM Tris&#x02010;HCl, pH&#x000a0;7.5, 100&#x000a0;&#x003bc;M KCl, 1&#x000a0;mM EDTA, 100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> bovine serum albumin (BSA), 100&#x000a0;&#x003bc;M ZnCl<sub>2</sub>, 6% glycerol, 1&#x000a0;mM dithiothreitol (DTT)) was mixed with 4&#x000a0;pmol &#x003b3;&#x02010;<sup>32</sup>P ATP&#x02010;labeled probe with or without various dosages of unlabeled probe at 4&#x000b0;C for 1&#x000a0;h. After separation in a 4.5% native non&#x02010;denaturing acrylamide gel, the gel was exposed to X&#x02010;ray film overnight. The sequence of the probe is shown in Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="nph15122-sec-0011"><title>Transient expression in rice protoplasts and bimolecular fluorescence complementation</title><p>For bimolecular fluorescence complementation (BiFC), <italic>SIP1</italic> and <italic>OsTrx1</italic> were cloned into pUC&#x02010;SPYCE (amino acids 156&#x02013;239) or pUC&#x02010;SPYNE (amino acids 1&#x02013;155). Rice protoplast isolation and transformation were performed as described previously (Zhang <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0065" ref-type="ref">2011</xref>). Briefly, 7&#x02013;10&#x02010;d&#x02010;old rice seedlings were cultured at 26&#x000b0;C on half&#x02010;strength Murashige and Skoog (MS) medium under a 12&#x000a0;h&#x000a0;:&#x000a0;12&#x000a0;h, light&#x000a0;:&#x000a0;dark cycle. Stem and sheath tissues were cut into 0.5&#x02010;mm strips and immediately transferred into 0.6&#x000a0;M mannitol. After enzymatic digestion, W5 solution (154&#x000a0;mM NaCl, 125&#x000a0;mM CaCl<sub>2</sub>, 5&#x000a0;mM KCl and 2&#x000a0;mM MES at pH&#x000a0;5.7) was added to the sample, followed by resuspension in MMG solution (0.4&#x000a0;M mannitol, 15&#x000a0;mM MgCl<sub>2</sub> and 4&#x000a0;mM MES, pH&#x000a0;5.7). The protoplasts were co&#x02010;transformed with the corresponding constructs and examined under a confocal laser scanning microscope (Zeiss, LSM710) or immunoprecipitated with specific antibodies.</p></sec><sec id="nph15122-sec-0012"><title>Promoter &#x003b2;&#x02010;glucuronidase (GUS) assay</title><p>The vectors containing <italic>GUS</italic> driven by different promoters were transformed into rice protoplasts with or without SIP1. After incubation at 25&#x000b0;C for 12&#x000a0;h, the protoplasts were lysed with lysis buffer (25&#x000a0;mM Tris&#x02010;HCl, pH&#x000a0;7.8, 1&#x000a0;mM DTT, 10% glycerol and 1% Triton X&#x02010;100). After centrifugation, 100&#x000a0;&#x003bc;l of supernatant was mixed with 900&#x000a0;&#x003bc;l of fluorescent &#x003b2;&#x02010;galactosidase (MUG) substrate mix (10&#x000a0;mM Tris&#x02010;HCl, pH&#x000a0;8.0, containing 1&#x000a0;mM MUG and 2&#x000a0;mM MgCl<sub>2</sub>). After incubation at 37&#x000b0;C for 30&#x000a0;min, the reaction was stopped with 40&#x000a0;mM Na<sub>2</sub>CO<sub>3</sub>. GUS activity was measured using a fluorometer (HITACHI, U&#x02010;281; Thermo Fisher, Fluoroskan Ascent FL, Waltham, MA, USA) with 365&#x000a0;nm excitation wavelength and 456&#x000a0;nm emission wavelength. The luciferase (LUC) activity was measured using the GloMax 96 Luminometer system (Promega, E6501) with LUC mix (Promega, E1980).</p></sec><sec id="nph15122-sec-0013"><title>Antibody generation</title><p>To generate Anti&#x02010;OsTrx1, the N&#x02010;terminus of OsTrx1 (amino acids 1&#x02013;300) was expressed and purified. The antibody was generated by injection of a rat and conducted by Abmart.</p><p>To generate anti&#x02010;SIP1, the N&#x02010;terminus of SIP1 (amino acids 1&#x02013;100) was expressed and purified. The antibody was generated by injection of rabbits and conducted by GenScript.</p></sec><sec id="nph15122-sec-0014"><title>Reverse transcription and qPCR (quantitative real&#x02010;time PCR)</title><p>Total RNA was isolated from the leaves of 80&#x02010;d&#x02010;old plants under LD conditions or from those of 45&#x02010;d&#x02010;old plants under SD conditions, and reverse transcribed with oligo(dT) primers (Promega); the amounts of individual gene transcripts were measured with gene&#x02010;specific primers. RT&#x02010;PCR analysis was performed with a CFX real&#x02010;time PCR instrument (Bio&#x02010;Rad) and SYBR Green mixture (Roche). The relative expression of the genes was quantified with the 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> calculation, using <italic>UBIQUITIN</italic> as the reference housekeeping gene for the expression analyses. The enrichment of DNA at specific genes was quantified with the 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> calculation, using <italic>UBIQUITIN</italic> as the reference housekeeping gene for chromatin immunoprecipitation (ChIP) assays (see Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="nph15122-sec-0015"><title>ChIP assay</title><p>ChIP assay was performed as described previously (Lu <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0036" ref-type="ref">2017</xref>; Su <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0048" ref-type="ref">2017</xref>). Briefly, 3&#x000a0;g of 80&#x02010;d&#x02010;old plants was ground and fixed with 1% formaldehyde for 10&#x000a0;min and quenched in 0.125&#x000a0;M glycine. The grounds were extracted in buffer I (0.4&#x000a0;M sucrose, 10&#x000a0;mM Tris (pH&#x000a0;8.0), 5&#x000a0;mM &#x003b2;&#x02010;mercaptoethanol, 0.1&#x000a0;mM phenylmethylsulfonylfluoride (PMSF) and protease inhibitor cocktail) and filtered through Miracloth. After centrifugation, the pellet was extracted with buffer II (0.25&#x000a0;M sucrose, 10&#x000a0;mM Tris (pH&#x000a0;8.0), 10&#x000a0;mM MgCl<sub>2</sub>, 1% Triton X&#x02010;100, 5&#x000a0;mM &#x003b2;&#x02010;mercaptoethanol, 0.1&#x000a0;mM PMSF and protease inhibitor cocktail) and then with buffer III (1.7&#x000a0;M sucrose, 10&#x000a0;mM Tris (pH&#x000a0;8.0), 10&#x000a0;mM MgCl<sub>2</sub>, 1% Triton X&#x02010;100, 5&#x000a0;mM &#x003b2;&#x02010;mercaptoethanol, 0.1&#x000a0;mM PMSF and protease inhibitor cocktail). The nuclei were then lysed in lysis buffer (50&#x000a0;mM Tris, pH&#x000a0;8.0, 10&#x000a0;mM EDTA, 1% SDS, 5&#x000a0;mM &#x003b2;&#x02010;mercaptoethanol, 0.1&#x000a0;mM PMSF and protease inhibitor cocktail) and the extract was sonicated to fragment the DNA to a size range of 300&#x02013;500&#x000a0;bp. After centrifugation, the supernatant was diluted using dilution buffer (1.1% Triton X&#x02010;100, 1.2&#x000a0;mM EDTA, 16.7&#x000a0;mM Tris (pH&#x000a0;8.0), 167&#x000a0;mM NaCl, 0.1&#x000a0;mM PMSF and protease inhibitor cocktail) and pre&#x02010;cleared with protein A or protein G magnetic beads. The specific antibodies anti&#x02010;H3K4me3 (Abcam, Cambridge, UK; ab8580, lot: GR273043&#x02010;6) and anti&#x02010;FLAG (Sigma&#x02010;Aldrich; F3165, lot: SLBQ7119V), or control IgG serum, were added to the pre&#x02010;cleared supernatants for an overnight incubation at 4&#x000b0;C. The antibody&#x02013;protein complexes were isolated by binding to protein A or protein G beads. The washed beads were heated at 65&#x000b0;C for 8&#x000a0;h with proteinase K to reverse the formaldehyde cross&#x02010;linking and digest the proteins. The sample was then extracted with phenol/chloroform and the DNA was precipitated in ethanol and resuspended in water. The purified DNA was analyzed by RT&#x02010;PCR with the gene&#x02010;specific primers shown in Table&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="nph15122-sec-0016"><title>Accession numbers</title><p>Sequence data from this article can be found in the GenBank/EMBL data libraries under the following accession numbers: <italic>OsTrx1/SDG723</italic> (Os09g0134500) and <italic>SIP1</italic> (NC_029264).</p></sec></sec><sec id="nph15122-sec-0017"><title>Results</title><sec id="nph15122-sec-0018"><title>
+<italic>OsTrx1</italic> rescues the developmental defects caused by the <italic>atx1</italic> mutation</title><p>As rice OsTrx1 is closely related to Arabidopsis ATX1, with 56% sequence identity and 70% similarity, we investigated whether OsTrx1 and ATX1 have similar functions. We generated a vector harboring a full&#x02010;length cDNA from <italic>OsTrx1</italic> fused with <italic>RFP</italic> driven by the <italic>Cauliflower mosaic virus</italic> (CaMV) <italic>35S</italic> promoter (<italic>Pro</italic>
+<sub><italic>35S</italic></sub>
+<italic>:RFP&#x02010;OsTrx1</italic>), which we transformed into the Arabidopsis <italic>atx1&#x02010;1</italic> mutant. The early flowering and dwarf phenotypes caused by the <italic>atx1</italic> mutation were rescued by <italic>OsTrx1</italic> (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S1</xref>), indicating that OsTrx1 might function as an H3K4 methyltransferase during rice development.</p></sec><sec id="nph15122-sec-0019"><title>
+<italic>OsTrx1</italic> is involved in the <italic>Ehd1&#x02013;RFT1</italic> pathway</title><p>To investigate the roles of OsTrx1 in the flowering time network, we used CRISPR/Cas9 genome editing to generate new alleles, which we termed <italic>ostrx1&#x02010;2</italic> and <italic>ostrx1&#x02010;3</italic>. In these alleles, an adenine and thymine were inserted in exon 1 and exon 3, respectively (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>a,b), resulting in premature stop codons (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>b). As described in Choi <italic>et&#x000a0;al</italic>. (<xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>), the <italic>ostrx1</italic> mutants displayed a strong late&#x02010;flowering phenotype in Hefei (LDs). The late&#x02010;flowering phenotype existed in Lingshui (SD) and restricted SD conditions (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>c,d), suggesting that <italic>OsTrx1</italic> might be involved in a photoperiod&#x02010;independent pathway.</p><p>To determine the effect of these mutations, we first examined the transcript levels of the florigen genes <italic>RFT1</italic> and <italic>Hd3a</italic>. We isolated total RNA from leaves of 80&#x02010;d&#x02010;old plants and subjected it to quantitative RT&#x02010;PCR analysis. <italic>RFT1</italic> and <italic>Hd3a</italic> transcript levels exhibited a strong diurnal rhythm in wild&#x02010;type plants, whereas they were markedly reduced in <italic>ostrx1&#x02010;2</italic> and <italic>ostrx1&#x02010;3</italic> plants throughout the day (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>e).</p><p>
+<italic>RFT1</italic> and <italic>Hd3a</italic> are regulated by <italic>Ehd1</italic> and <italic>Hd1</italic> (Yano <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0060" ref-type="ref">2000</xref>; Doi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0016" ref-type="ref">2004</xref>; Ishikawa <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0021" ref-type="ref">2005</xref>, <xref rid="nph15122-bib-0020" ref-type="ref">2011</xref>; Komiya <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0028" ref-type="ref">2008</xref>, <xref rid="nph15122-bib-0029" ref-type="ref">2009</xref>), respectively. We therefore measured the mRNA levels of <italic>Ehd1</italic> and <italic>Hd1</italic>, finding that the expression of <italic>Ehd1</italic>, but not <italic>Hd1</italic>, was abolished in <italic>ostrx1</italic> plants. <italic>Ghd7</italic>, which acts as a negative regulator of <italic>Ehd1</italic>, was highly induced in <italic>ostrx1</italic> plants. These results were consistent with the results of a previous study (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>).</p><p>Next, we examined the expression of <italic>Ehd2</italic>,<italic> Ehd3</italic>,<italic> Ehd4</italic> and <italic>EL1</italic>, finding that these genes were not affected in the <italic>ostrx1</italic> mutants compared with the wild&#x02010;type. The SD flowering activator <italic>OsMADS51</italic>, but not <italic>OsMADS50</italic> or <italic>OsMADS56</italic>, was downregulated in <italic>ostrx1</italic> mutants (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>e). We then examined the transcripts of <italic>Ehd1</italic>,<italic> RFT1</italic>,<italic> Hd3a</italic>,<italic> Hd1</italic> and <italic>Ghd7</italic> in SDs, and found that <italic>Ehd1</italic>,<italic> RFT1</italic> and <italic>Ehd3a</italic>, but not <italic>Hd1</italic> or <italic>Ghd7</italic>, were downregulated in <italic>ostrx1</italic> mutants (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S2</xref>f). These results suggest that <italic>OsTrx1</italic> might be involved in regulating the heading date in rice through the <italic>Ehd1</italic>&#x02013;<italic>RFT1</italic> pathway under LD conditions.</p></sec><sec id="nph15122-sec-0020"><title>
+<italic>OsTrx1</italic> is required for H3K4me3 deposition at <italic>Ehd1</italic>
+</title><p>As OsTrx1 rescued the phenotype caused by the <italic>atx1</italic> mutation, we investigated whether the reduction in transcript levels of the genes described above was caused by attenuated H3K4me3 in the <italic>ostrx1</italic> mutants. We investigated the distribution of H3K4me3 by ChIP, followed by quantitative PCR measurement of DNA enrichment. Indeed, H3K4me3 levels were reduced at <italic>Ehd1</italic>,<italic> RFT1</italic> and <italic>Hd3a</italic> in <italic>ostrx1</italic> plants, indicating that OsTrx1 is required for H3K4me3 at these loci (Figs&#x000a0;<xref rid="nph15122-fig-0001" ref-type="fig">1</xref>a,b, <xref rid="nph15122-sup-0001" ref-type="supplementary-material">S3</xref>a,b). In contrast with <italic>Ehd1</italic>,<italic> RFT1</italic> and <italic>Hd3a</italic>, the transcript levels of <italic>Ghd7</italic> were induced in <italic>ostrx1</italic> mutants (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>) and it was found that the H3K4me3 level of <italic>Ghd7</italic> was upregulated in <italic>ostrx1</italic> plants (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S3</xref>c,d).</p><fig fig-type="Figure" xml:lang="en" id="nph15122-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>OsTrx1 is required for H3K4me3 at <italic>Ehd1</italic>. (a) Gene structure of <italic>Ehd1</italic>. Exons are indicated by boxes and introns are indicated by lines. The locations of the gene regions analyzed by chromatin immunoprecipitation (Ch<styled-content style="fixed-case">IP</styled-content>)&#x02010;<styled-content style="fixed-case">PCR</styled-content> are shown below the diagram. P1&#x02013;P4 indicate regions in the promoter and E1&#x02013;E4 indicate regions in the coding region. (b) Relative H3K4me3 levels at different regions of the genes in wild&#x02010;type (WT) and <italic>ostrx1</italic> plants. Experiments were repeated at least three times, and the data from the representative experiments shown are presented as means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n&#x000a0;</italic>=<italic>&#x000a0;</italic>3 replicates. (c) Relative OsTrx1 levels in complemented <italic>Pro</italic>
+<sub><italic>OsTrx1</italic></sub>
+<italic>:<styled-content style="fixed-case">FLAG</styled-content>&#x02010;OsTrx1 ostrx1&#x02010;2</italic> and <italic>ostrx1&#x02010;2</italic> plants. <italic>T1</italic> and <italic>T6</italic> are indicated in Supporting Information Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S3</xref>(e). Experiments were repeated at least three times, and the data from the representative experiment shown are presented as means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n&#x000a0;</italic>=<italic>&#x000a0;</italic>3 replicates. (d) Representative image of 130&#x02010;d&#x02010;old WT, <italic>ostrx1&#x02010;2</italic>,<italic> ehd1&#x02010;11</italic> and <italic>ostrx1 ehd1&#x02010;11</italic> plants grown under <styled-content style="fixed-case">LD</styled-content> (Hefei). Heading is indicated by an arrow. (e) Days to heading in WT, <italic>ostrx1&#x02010;2</italic>,<italic> ehd1&#x02010;11</italic> and <italic>ostrx1&#x02010;2 ehd1&#x02010;11</italic> under long&#x02010;day (<styled-content style="fixed-case">LD</styled-content>) (Hefei) and short&#x02010;day (<styled-content style="fixed-case">SD</styled-content>) (Lingshui). Values shown are mean&#x000a0;&#x000b1;&#x000a0;standard deviation of heading days; 20 plants were scored per line.</p></caption><graphic id="nlm-graphic-1" xlink:href="NPH-219-422-g001"/></fig><p>To examine whether OsTrx1 binds to these loci, we conducted ChIP with OsTrx1. To this end, we generated a construct harboring the full&#x02010;length <italic>OsTrx1</italic> sequence fused to a FLAG tag driven by the native <italic>OsTrx1</italic> promoter (<italic>Pro</italic>
+<sub><italic>OsTrx1</italic></sub>
+<italic>:FLAG&#x02010;OsTrx1</italic>). Transformation with this construct rescued the <italic>ostrx1</italic> late&#x02010;flowering phenotype, indicating that FLAG&#x02010;OsTrx1 retains OsTrx1 function (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S3</xref>e,f). We measured the occupancy of OsTrx1 via ChIP analysis with a specific anti&#x02010;FLAG antibody, followed by quantitative PCR. OsTrx1 was enriched along the promoter and coding region of <italic>Ehd1</italic>, but not <italic>RFT1</italic>,<italic> Hd3a or Ghd7</italic> (Figs&#x000a0;<xref rid="nph15122-fig-0001" ref-type="fig">1</xref>c, <xref rid="nph15122-sup-0001" ref-type="supplementary-material">S3</xref>g,h). These results indicate that OsTrx1 directly targets <italic>Ehd1</italic> and increases the H3K4me3 levels of the <italic>Ehd1</italic> locus.</p><p>To elucidate the relationship between <italic>OsTrx1</italic> and <italic>Ehd1</italic>, we generated an <italic>ehd1</italic> mutant using CRISPR/Cas9. In the <italic>ehd1&#x02010;11</italic> allele, an adenine was deleted in exon 3 of <italic>Ehd1</italic>, leading to an early stop codon in this mutant (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S4</xref>a,b). The <italic>ehd1&#x02010;11</italic> plants exhibited a severe late&#x02010;heading phenotype (Fig.&#x000a0;<xref rid="nph15122-fig-0001" ref-type="fig">1</xref>d,e). We then examined the genetic relationship between <italic>OsTrx1</italic> and <italic>Ehd1</italic> by generating the <italic>ostrx1&#x02010;2 ehd1&#x02010;11</italic> double mutant. The <italic>ostrx1&#x02010;2 ehd1&#x02010;11</italic> mutant displayed a late&#x02010;heading phenotype when grown in Hefei (LD) and Lingshui (SD), similar to the <italic>ehd1&#x02010;11</italic> single mutant (Fig.&#x000a0;<xref rid="nph15122-fig-0001" ref-type="fig">1</xref>d,e), indicating that OsTrx1 is involved in an <italic>Ehd1</italic>&#x02010;dependent pathway.</p></sec><sec id="nph15122-sec-0021"><title>OsTrx1 interacts with SIP1 <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>
+</title><p>Given that OsTrx1 has no known DNA&#x02010;binding domain, we therefore asked how OsTrx1 could target <italic>Ehd1</italic>. We investigated whether any transcription factors physically interact with OsTrx1 to allow it to target <italic>Ehd1</italic>. We fused OsTrx1 with a binding domain (BD) and screened its potential interactors using a cDNA library with the yeast two&#x02010;hybrid system. Sequencing 10 positive colonies from screening revealed that two insertions were in the correct frame and able to encode proteins. One encoded a WD40&#x02010;domain protein, and another encoded a protein containing a C2H2&#x02010;type zinc finger domain (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S5</xref>a), which we named SIP1 (SDG723/OsTrx1 Interaction Protein 1). SIP1 is encoded by LOC_Os09g38790. Phylogenetic analysis revealed that SIP1 is conserved in multiple plant species, including rice, <italic>Setaria italica</italic>,<italic> Brachypodium distachyon</italic>,<italic> Sorghum bicolor</italic>, maize (<italic>Zea mays</italic>) and <italic>A.&#x000a0;thaliana</italic>, but not in mammalian cells (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S5</xref>b).</p><p>We further confirmed the OxTrx1&#x02013;SIP1 interaction by reciprocal yeast two&#x02010;hybrid tests, BiFC and Co&#x02010;IP experiments. First, we generated a vector harboring full&#x02010;length SIP1 fused with AD, and found that OsTrx1 directly bound to SIP1 in yeast (Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>a). For BiFC, functional YFP was observed in the nucleus in cells co&#x02010;transformed with OsTrx1&#x02010;YFP<sup>N</sup> (fused with the N&#x02010;terminal half of yellow fluorescent protein) and full&#x02010;length SIP1&#x02010;YFP<sup>C</sup> (fused with the C&#x02010;terminal half of YFP) (Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>b). Immunoprecipitation using HA antibody revealed that OsTrx1 bound to SIP1 in rice protoplasts co&#x02010;transformed with <italic>HA&#x02010;OsTrx1</italic> and <italic>FLAG&#x02010;SIP1</italic> (Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="nph15122-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>OsTrx1 interacts with <styled-content style="fixed-case">SIP</styled-content>1. (a) Yeast two&#x02010;hybrid assay revealing an interaction between <styled-content style="fixed-case">SIP</styled-content>1 and OsTrx1. The growth of two dilutions (2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;2</sup> and 2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>) of yeast culture on synthetic defined (SD) medium lacking Trp, Leu, His and adenine is shown. (b) OsTrx1 fused to the N&#x02010;terminus of yellow fluorescent protein (<styled-content style="fixed-case">YFP</styled-content>) or the N&#x02010;terminus of <styled-content style="fixed-case">YFP</styled-content> alone was tested for its ability to bind to the C&#x02010;terminus of <styled-content style="fixed-case">YFP</styled-content> alone or the C&#x02010;terminus of <styled-content style="fixed-case">YFP</styled-content> fused to <styled-content style="fixed-case">SIP</styled-content>1. Yellow fluorescence and bright field images were recorded and the resulting images were merged. The nucleus was stained by 4&#x02032;,6&#x02010;diamidino&#x02010;2&#x02010;phenylindole , and appears as a blue dot. Bar, 10&#x000a0;&#x003bc;m. (c) Co&#x02010;immunoprecipitation of <styled-content style="fixed-case">SIP</styled-content>1 and OsTrx1. <italic><styled-content style="fixed-case">FLAG</styled-content>&#x02010;OsTrx1</italic> and <italic><styled-content style="fixed-case">HA</styled-content>&#x02010;<styled-content style="fixed-case">SIP</styled-content>1</italic> were co&#x02010;transformed into rice protoplasts, and the expressed proteins were immunoprecipitated using an anti&#x02010;<styled-content style="fixed-case">HA</styled-content> antibody and detected with anti&#x02010;<styled-content style="fixed-case">HA</styled-content> and anti&#x02010;<styled-content style="fixed-case">FLAG</styled-content> antibodies. IgG was used as a negative control. (d) Diagram&#x000a0;of OsTrx1 showing its different domains. (e) The N&#x02010;terminus of OsTrx1 and the C&#x02010;terminus of OsTrx1 fused to binding domain (<styled-content style="fixed-case">BD</styled-content>) were tested for their ability to bind to <styled-content style="fixed-case">AD</styled-content>&#x02010;<styled-content style="fixed-case">SIP</styled-content>1. The growth of two dilutions (2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;2</sup> and 2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>) of yeast culture on synthetic defined medium lacking Trp, Leu, His and adenine is shown. (f) Beads containing His&#x02010;fused <styled-content style="fixed-case">SIP</styled-content>1 were assayed for their ability to bind soluble protein composed of glutathione transferase (<styled-content style="fixed-case">GST</styled-content>) fused to the N&#x02010;terminus or C&#x02010;terminus of OsTrx1. The input and bound proteins were detected with an antibody to <styled-content style="fixed-case">GST</styled-content> (anti&#x02010;<styled-content style="fixed-case">GST</styled-content>). (g) Beads containing the <styled-content style="fixed-case">GST</styled-content>&#x02010;fused N&#x02010;terminus of OsTrx1 or C&#x02010;terminus of OsTrx1 were assessed for their ability to bind soluble His&#x02010;fused <styled-content style="fixed-case">SIP</styled-content>1 and detected with antibody to His (anti&#x02010;His).</p></caption><graphic id="nlm-graphic-3" xlink:href="NPH-219-422-g002"/></fig><p>We then investigated which domain of OsTrx1 is essential for the OxTrx1&#x02013;SIP1 interaction. Yeast two&#x02010;hybrid tests of different fragments of OsTrx1 showed that the C&#x02010;terminus of OsTrx1, but not its N&#x02010;terminus, bound to SIP1 (Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>d,e). This yeast two&#x02010;hybrid interaction was confirmed by a pull&#x02010;down assay. Beads attached to SIP1 fused with His successfully bound to the C&#x02010;terminus of OsTrx1 fused with GST, but not to the N&#x02010;terminus of OsTrx1 fused with GST (Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>f). In the complementary pull&#x02010;down assay, the C&#x02010;terminus of OsTrx1 fused with GST bound to His&#x02010;fused SIP1 (Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>g). These results indicate that OsTrx1 interacts with SIP1 <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>.</p></sec><sec id="nph15122-sec-0022"><title>Loss of <italic>SIP1</italic> function leads to a late heading date</title><p>To investigate the genetic function of <italic>SIP1</italic> in regulating the heading date, we generated <italic>sip1</italic> mutants using CRISPR/Cas9. Sequencing revealed that the <italic>sip1&#x02010;1</italic>,<italic> sip1&#x02010;2</italic> and <italic>sip1&#x02010;3</italic> alleles have a cytosine insertion in exon 1, a thymine deletion in exon 1 and a guanine deletion in exon 2, respectively, which result in early stop codons (Fig.&#x000a0;<xref rid="nph15122-fig-0003" ref-type="fig">3</xref>a,b). All three <italic>sip1</italic> mutants showed a late&#x02010;flowering phenotype when grown in Hefei (LD), Lingshui (SD) and restricted SD conditions (Fig.&#x000a0;<xref rid="nph15122-fig-0003" ref-type="fig">3</xref>c,d), suggesting that <italic>SIP1</italic> might also be involved in a photoperiod&#x02010;independent pathway.</p><fig fig-type="Figure" xml:lang="en" id="nph15122-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mutations in <italic><styled-content style="fixed-case">SIP</styled-content>1</italic> result in a late heading date. (a) Gene structure of <italic><styled-content style="fixed-case">SIP</styled-content>1</italic>, indicating exons (boxes), introns (lines) and nucleotide insertions or deletions (triangles). (b) A nucleotide insertion in <italic>sip1&#x02010;1</italic> and a nucleotide deletion in <italic>sip1&#x02010;2</italic> and <italic>sip1&#x02010;3</italic> result in early stop codons in all three mutant alleles. The inserted and deleted nucleotides are marked in red, and stop codons caused by a shift in the open reading frame (<styled-content style="fixed-case">ORF</styled-content>) are indicated in green. (c) Representative image of 103&#x02010;d&#x02010;old wild&#x02010;type and <italic>sip1</italic> mutants in long&#x02010;day (<styled-content style="fixed-case">LD</styled-content>) (Hefei). (d) Days to heading in wild&#x02010;type and <italic>sip1</italic> plants under <styled-content style="fixed-case">LD</styled-content> (Hefei), short&#x02010;day (<styled-content style="fixed-case">SD</styled-content>) (Linshui) and restricted <styled-content style="fixed-case">SD</styled-content>. Values shown are the mean&#x000a0;&#x000b1;&#x000a0;standard deviation of heading days; 20 plants were scored per line. (e) Transcript levels of flowering network genes in <italic>sip1</italic> mutants. <styled-content style="fixed-case">RNA</styled-content> isolated from leaves of 80&#x02010;d&#x02010;old plants under restricted long&#x02010;day conditions was used for <styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>. Closed bars, dark period; open bars, light period. <styled-content style="fixed-case">ZT</styled-content>, Zeitgeber time. The <italic>y</italic>&#x02010;axis shows the transcript level relative to rice <italic>Ubiquitin</italic>. Experiments were repeated at least three times, and the data from the representative experiment shown are presented as means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n&#x000a0;</italic>=<italic>&#x000a0;</italic>3 replicates.</p></caption><graphic id="nlm-graphic-5" xlink:href="NPH-219-422-g003"/></fig><p>We then investigated the expression of genes in the flowering network in the <italic>sip1</italic> mutants. RT&#x02010;PCR results revealed that the transcript levels of <italic>Ehd1</italic>,<italic> RFT1</italic>,<italic> Hd3a</italic> and <italic>OsMADS51</italic> were reduced, whereas the transcript level of <italic>Ghd7</italic> was upregulated in the <italic>sip1</italic> mutants compared with the wild&#x02010;type. The transcripts of <italic>Hd1</italic>,<italic> Ehd2</italic>,<italic> Ehd3</italic>,<italic> Ehd4</italic>,<italic> OsMADS50</italic>,<italic> OsMADS56</italic> and <italic>EL1</italic> were not affected in the <italic>sip1</italic> mutants (Fig.&#x000a0;<xref rid="nph15122-fig-0003" ref-type="fig">3</xref>e). These observations are consistent with the late&#x02010;flowering phenotype caused by <italic>sip1</italic> mutation and suggest that <italic>SIP1</italic> might be involved in the <italic>Ehd1</italic>&#x02013;<italic>RFT1</italic> pathway.</p><p>The possibility of a genetic relationship between <italic>OsTrx1</italic> and <italic>SIP1</italic> was investigated by crossing <italic>sip1&#x02010;1</italic> into <italic>ostrx1&#x02010;2</italic>. The <italic>sip1&#x02010;1 ostrx1&#x02010;2</italic> double mutant exhibited a late&#x02010;flowering phenotype similar to that of <italic>ostrx1&#x02010;2</italic> (Fig.&#x000a0;<xref rid="nph15122-fig-0004" ref-type="fig">4</xref>a,b). These results suggested that <italic>SIP1</italic> and <italic>OsTrx1</italic> might function together to regulate the same downstream genes. To further confirm these results, we examined the transcripts of <italic>Ehd1</italic> in the <italic>sip1 ostrx1&#x02010;2</italic> double mutant. RT&#x02010;PCR results revealed that the level of the <italic>Ehd1</italic> transcript in <italic>sip1 ostrx1&#x02010;2</italic> was similar to that in <italic>ostrx1&#x02010;2</italic> (Fig.&#x000a0;<xref rid="nph15122-fig-0004" ref-type="fig">4</xref>c). These results indicate that <italic>SIP1</italic> and <italic>OsTrx1</italic> act in the same pathway.</p><fig fig-type="Figure" xml:lang="en" id="nph15122-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<italic><styled-content style="fixed-case">SIP</styled-content>1</italic> acts in the same flowering time pathway as <italic>OsTrx1</italic>. (a) Representative image of 110&#x02010;d&#x02010;old wild&#x02010;type, <italic>sip1&#x02010;1</italic>,<italic> ostrx1&#x02010;2</italic> and <italic>sip1&#x02010;1 ostrx1&#x02010;2</italic> plants in Hefei. Heading is indicated by an arrow. (b) Days to heading in wild&#x02010;type, <italic>sip1&#x02010;1</italic>,<italic> ostrx1&#x02010;2</italic> and <italic>sip1&#x02010;1 ostrx1&#x02010;2</italic> plants in Hefei and Lingshui. Values shown are the mean&#x000a0;&#x000b1;&#x000a0;standard deviation of heading days; 30 plants were scored per line. (c) The transcript level of <italic>Ehd1</italic> in wild&#x02010;type, <italic>sip1&#x02010;1</italic>,<italic> ostrx1&#x02010;2</italic> and <italic>sip1&#x02010;1 ostrx1&#x02010;2</italic>. The plants were grown under long&#x02010;day conditions. <styled-content style="fixed-case">RNA</styled-content> was isolated at 20&#x000a0;h after lights&#x02010;on Zeitgeber time (<styled-content style="fixed-case">ZT</styled-content>20). Experiments were repeated at least three times, and the data from the representative experiment shown are presented as means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n&#x000a0;</italic>=<italic>&#x000a0;</italic>3 replicates.</p></caption><graphic id="nlm-graphic-7" xlink:href="NPH-219-422-g004"/></fig></sec><sec id="nph15122-sec-0023"><title>SIP1 activates <italic>Pro</italic>
+<sub><italic>Ehd1</italic></sub>
+<italic>:GUS</italic> activity</title><p>We next investigated whether SIP1 directly activates the expression of <italic>Ehd1</italic>,<italic> RFT1</italic> and <italic>Hd3a</italic> by assessing the activation of these genes by SIP1 using reporter constructs harboring <italic>Pro</italic>
+<sub><italic>Ehd1</italic></sub>
+<italic>:GUS</italic>,<italic> Pro</italic>
+<sub><italic>RFT1</italic></sub>
+<italic>:GUS</italic> and <italic>Pro</italic>
+<sub><italic>Hd3a</italic></sub>
+<italic>:GUS</italic>. The vectors containing GUS driven by different promoters and <italic>35S:LUC</italic> were co&#x02010;transformed into rice protoplasts with or without SIP. <italic>Pro</italic>
+<sub><italic>Ehd1</italic></sub>
+<italic>:GUS</italic> activity, but not <italic>Pro</italic>
+<sub><italic>RFT1</italic></sub>
+<italic>:GUS</italic> or <italic>Pro</italic>
+<sub><italic>Hd3a</italic></sub>
+<italic>:GUS</italic>, was highly induced in the presence of SIP1 (Fig.&#x000a0;<xref rid="nph15122-fig-0005" ref-type="fig">5</xref>a,b). OsTrx1 failed to activate <italic>Pro</italic>
+<sub><italic>Ehd1</italic></sub>
+<italic>:GUS</italic> activity, but OsTrx1 did not reverse the SIP1&#x02010;induced activation (Fig.&#x000a0;<xref rid="nph15122-fig-0005" ref-type="fig">5</xref>a,c). These observations suggest that SIP1 might activate <italic>Ehd1</italic> via its promoter.</p><fig fig-type="Figure" xml:lang="en" id="nph15122-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<styled-content style="fixed-case">SIP</styled-content>1 binds to the <italic>Ehd1</italic> promoter. (a) Vectors used in the <styled-content style="fixed-case">GUS</styled-content> activity assay. (b) &#x003b2;&#x02010;Glucuronidase (<styled-content style="fixed-case">GUS</styled-content>) activity from the <italic>Pro</italic>
+<sub><italic>Ehd1</italic></sub>
+<italic>:<styled-content style="fixed-case">GUS</styled-content></italic>,<italic> Pro</italic>
+<styled-content style="fixed-case"><sub><italic>RFT</italic></sub></styled-content>
+<sub><italic>1</italic></sub>
+<italic>:<styled-content style="fixed-case">GUS</styled-content></italic> and <italic>Pro</italic>
+<sub><italic>Hd3a</italic></sub>
+<italic>:<styled-content style="fixed-case">GUS</styled-content></italic> reporter constructs for cells transformed with <italic><styled-content style="fixed-case">SIP</styled-content>1</italic>. The <italic>x</italic>&#x02010;axis shows the relative <styled-content style="fixed-case">GUS</styled-content> activity compared with the internal luciferase control (<italic>35S:<styled-content style="fixed-case">LUC</styled-content></italic>). Asterisks indicate <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 by <italic>t</italic>&#x02010;test. (c) <styled-content style="fixed-case">GUS</styled-content> activity from the <italic>Pro</italic>
+<sub><italic>Ehd1</italic></sub>
+<italic>:<styled-content style="fixed-case">GUS</styled-content></italic> reporter constructs for cells transformed with <italic><styled-content style="fixed-case">SIP</styled-content>1</italic> and <italic>OsTrx1</italic>. The <italic>x</italic>&#x02010;axis shows the relative <styled-content style="fixed-case">GUS</styled-content> activity compared with the internal luciferase control (<italic>35S:<styled-content style="fixed-case">LUC</styled-content></italic>). Asterisks indicate <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 by <italic>t</italic>&#x02010;test. (d) Diagram&#x000a0;of the <italic>Ehd1</italic> promoter showing its different regions. The position of each region is marked on the left. (e) Yeast one&#x02010;hybrid assay revealing that 15 base pairs in the <italic>Ehd1</italic> promoter are essential for <styled-content style="fixed-case">SIP</styled-content>1 binding. Yeast grown on 0&#x000a0;&#x003bc;M Aureobasidin A (AbA) was used as a negative control. (f) The sequences of probes used for electrophoretic mobility shift assay (<styled-content style="fixed-case">EMSA</styled-content>). The conserved motif <styled-content style="fixed-case">TCAAATTTTATTTGT</styled-content> is shown in blue, and the mutated nucleotides are shown in red. The motif is located in P3 of Fig.&#x000a0;<xref rid="nph15122-fig-0002" ref-type="fig">2</xref>(a). (g, h) Gel shift assay using <styled-content style="fixed-case">SIP</styled-content>1 and various probes. The ability of <styled-content style="fixed-case">SIP</styled-content>1 to bind to different mutated probes labeled with <sup>32</sup>P was assessed (g), and this binding specificity was tested by adding unlabeled wild&#x02010;type competitor probe or mutated probes (h).</p></caption><graphic id="nlm-graphic-9" xlink:href="NPH-219-422-g005"/></fig></sec><sec id="nph15122-sec-0024"><title>SIP1 binds to the <italic>Ehd1</italic> promoter</title><p>We therefore investigated whether SIP1 directly binds to the <italic>Ehd1</italic> promoter. We fused SIP1 with an AD and used a yeast one&#x02010;hybrid system to test whether it interacted with fragments of the <italic>Ehd1</italic> promoter. SIP1 directly binds to the <italic>Ehd1</italic> promoter region from &#x02013;465 to &#x02013;451, suggesting that this region is essential for SIP1 binding (Figs&#x000a0;<xref rid="nph15122-fig-0005" ref-type="fig">5</xref>d,e, <xref rid="nph15122-sup-0001" ref-type="supplementary-material">S6</xref>).</p><p>We then investigated the binding specificity of SIP1 via an EMSA. A retarded band was observed when SIP1 was present, whereas the mutated probes showed reduced binding (Fig.&#x000a0;<xref rid="nph15122-fig-0005" ref-type="fig">5</xref>f,g). The shifted band was abolished when we used a specific competitor probe, but not mutated competitor probes (Fig.&#x000a0;<xref rid="nph15122-fig-0005" ref-type="fig">5</xref>h), indicating that SIP1 binds to the promoter of <italic>Ehd1 in&#x000a0;vitro</italic>. We investigated whether this motif could be found in the promoters of flowering time genes, but this motif was not present in the promoters of genes tested in <italic>sip1</italic> plants.</p></sec><sec id="nph15122-sec-0025"><title>SIP1 is required for OsTrx1 occupancy at <italic>Ehd1</italic>
+</title><p>To investigate whether SIP1 binds to <italic>Ehd1 in&#x000a0;vivo</italic>, we generated an antibody specific to SIP1 (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S7</xref>a) and assessed the binding of SIP1 to the <italic>Ehd1</italic> promoter using ChIP analysis with the SIP1 antibody, followed by quantitative PCR analysis of DNA enrichment at multiple points along <italic>Ehd1</italic>. SIP1 was highly enriched at the <italic>Ehd1</italic> promoter, but not in <italic>sip1</italic> mutants (Fig.&#x000a0;<xref rid="nph15122-fig-0006" ref-type="fig">6</xref>a). These results demonstrate that SIP1 can bind to <italic>Ehd1 in&#x000a0;vivo</italic>.</p><fig fig-type="Figure" xml:lang="en" id="nph15122-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>
+<styled-content style="fixed-case">SIP</styled-content>1 is required for OsTrx1 occupancy at <italic>Ehd1</italic>. (a, b) Relative <styled-content style="fixed-case">SIP</styled-content>1 and H3K4me3 levels in wild&#x02010;type and <italic>sip1</italic> plants. (c) Relative OsTrx1 levels in wild&#x02010;type and <italic>sip1</italic> plants. From (a) to (c), experiments were repeated at least three times, and the data from the representative experiments shown are presented as means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n&#x000a0;</italic>=<italic>&#x000a0;</italic>3 replicates. P1&#x02013;P4 and E1&#x02013;E4 are indicated in Fig.&#x000a0;<xref rid="nph15122-fig-0001" ref-type="fig">1</xref>(a).</p></caption><graphic id="nlm-graphic-11" xlink:href="NPH-219-422-g006"/></fig><p>As SIP1 binds directly to <italic>Ehd1</italic> and activates its expression, we investigated whether SIP1 is required for OsTrx1 to target <italic>Ehd1</italic>, which, in turn, would affect H3K4me3 levels. We examined H3K4me3 levels by ChIP&#x02010;PCR, finding that H3K4me3 of <italic>Ehd1</italic> was reduced in <italic>sip1</italic> (Fig.&#x000a0;<xref rid="nph15122-fig-0006" ref-type="fig">6</xref>b), suggesting that <italic>SIP1</italic> is required for the maintenance of proper H3K4me3 levels at <italic>Ehd1</italic>.</p><p>As OsTrx1 can accomplish H3K4me3 and interacts with SIP1, we then investigated whether SIP1 is required for the binding of OsTrx1 to <italic>Ehd1</italic>. We measured the enrichment of OsTrx1 via ChIP with a specific antibody (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S7</xref>b,c), followed by quantitative PCR analysis of DNA enrichment. OsTrx1 enrichment was reduced in the <italic>sip1</italic> mutants compared with the wild&#x02010;type, indicating that the targeting of <italic>Ehd1</italic> by OsTrx1 depends on SIP1 (Fig.&#x000a0;<xref rid="nph15122-fig-0006" ref-type="fig">6</xref>c). We then investigated SIP1 enrichment and found that it was not affected in the <italic>ostrx1</italic> mutant, suggesting that SIP1 binding to <italic>Ehd1</italic> was independent of OsTrx1 (Fig.&#x000a0;<xref rid="nph15122-sup-0001" ref-type="supplementary-material">S7</xref>d).</p></sec></sec><sec id="nph15122-sec-0026"><title>Discussion</title><p>In this study, we have demonstrated that OsTrx1 interacts with the transcription factor SIP1 to modulate flowering, measured as the heading date, in rice. OsTrx1 interacts with SIP1, which allows OsTrx1 to increase H3K4me3 levels at <italic>Ehd1</italic>. Defects in OsTrx1 and SIP1 result in a late heading date under both LD and SD conditions, and these two factors are involved in the <italic>Ehd1&#x02013;RFT1</italic> pathway. These results were further supported by the finding that defects in SIP1 and OsTrx1 reduce the expression levels and H3K4me3 levels of <italic>Ehd1</italic>. Together, these results provide compelling evidence that SIP1 recruits OsTrx1 to modulate the heading date by regulating the expression level and H3K4me3 level at <italic>Ehd1</italic>.</p><p>In mammalian cells, MLL1 directly binds DNA via its CXXC domain. However, no known CXXC domain is present in yeast SET1 and the plant TRITHORAX family proteins ATX1, ATX2 and OsTrx1. ATX1 participates in pre&#x02010;initiation complex formation at the promoter and adds the H3K4me3 modification in the gene body (Ding <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0011" ref-type="ref">2011b</xref>, <xref rid="nph15122-bib-0014" ref-type="ref">2012b</xref>; Fromm &#x00026; Avramova, <xref rid="nph15122-bib-0017" ref-type="ref">2014</xref>). ATX1 has multiple domains, including Tudor, DAST, PWWP, ePHD, Win and SET, which have diverse functions. The ePHD domain affects expression from specific ATX1&#x02010;dependent genes through its ability to bind the lipid phosphatidyl inositol&#x02010;5 phosphate (PtdIns5P), influencing the nuclear cytoplasmic distribution of ATX1 (Alvarez&#x02010;Venegas <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0002" ref-type="ref">2006</xref>; Fromm &#x00026; Avramova, <xref rid="nph15122-bib-0017" ref-type="ref">2014</xref>). In addition, the ePHD domain of ATX1 is associated with lipid binding, which is different from the PHD domain in protein binding (Alvarez&#x02010;Venegas <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0002" ref-type="ref">2006</xref>; Ding <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0013" ref-type="ref">2009</xref>, <xref rid="nph15122-bib-0015" ref-type="ref">2012c</xref>; Fromm &#x00026; Avramova, <xref rid="nph15122-bib-0017" ref-type="ref">2014</xref>). OsTrx1 rescues the developmental defects caused by the <italic>atx1</italic> mutation, suggesting that OsTrx1 and ATX1 have similar functions.</p><p>Previous results have suggested that <italic>OsTrx1</italic> promotes flowering via the repression of the expression level of <italic>Ghd7</italic> (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>). The PHD domain of OsTrx1 directly binds to H3 and the C4HC2H motif of OsTrx1 interacts with Ehd3 containing a PHD finger motif. Defects in OsTrx1 might disrupt Ehd3&#x02032;s ability to repress <italic>Ghd7</italic>, resulting in late flowering (Choi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0008" ref-type="ref">2014</xref>). Given that the H3K4me3 level is correlated with transcriptional activation (Ding <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0011" ref-type="ref">2011b</xref>; Fromm &#x00026; Avramova, <xref rid="nph15122-bib-0017" ref-type="ref">2014</xref>), the induced transcription levels and reduced H3K4me3 levels of <italic>Ghd7</italic> suggest that <italic>Ghd7</italic> might not be the direct target of OsTrx1. A recent study has indicated that OsWDR5a interacts with the Win motif of OsTrx1 and directly binds to histone H3 (Jiang <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0025" ref-type="ref">2018</xref>). Plants in which <italic>OsWDR5a</italic> expression is decreased by RNA interference produce fewer secondary branches and less grain, and exhibit a delayed heading date under LD and SD conditions, whereas loss of <italic>OsWDR5a</italic> function results in embryo lethality. OsWDR5a binds to <italic>Ehd1</italic> to regulate its H3K4me3 and expression levels (Jiang <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0025" ref-type="ref">2018</xref>), which is consistent with our current study.</p><p>Our study indicates that OsTrx1 interacts with the C2H2 zinc finger protein SIP1. SIP1 binds to the promoter of <italic>Ehd1</italic> and recruits OsTrx1 to accomplish H3K4me3 at <italic>Ehd1</italic>. In Arabidopsis, transcriptional factor VAL1, interacting with LHP1 and binding to <italic>FLOWERING LOCUS C</italic> (<italic>FLC</italic>), results in the mediation of H3K27 trimethylation at <italic>FLC</italic> (Q&#x000fc;esta <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0041" ref-type="ref">2016</xref>; Yuan <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0063" ref-type="ref">2016</xref>). The transcription factor SUF4 interacts with MOS1 (MODIFIER OF snc1) to regulate the flowering time (Li <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0032" ref-type="ref">2010</xref>; Bao <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0005" ref-type="ref">2014</xref>). Recent results have supported the idea that transcriptional factors are critical for histone phosphorylation to regulate flowering time and hypocotyl elongation in Arabidopsis (Su <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0048" ref-type="ref">2017</xref>; Zheng &#x00026; Ding, <xref rid="nph15122-bib-0066" ref-type="ref">2018</xref>; Zheng <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0067" ref-type="ref">2018</xref>).</p><p>In <italic>A.&#x000a0;thaliana</italic>, a model LD plant, control of floral transition by endogenous (autonomous, gibberellin, circadian clock, age, sugar budget) and environmental (vernalization, ambient temperature, photoperiod) cues is a key factor in adaptation to different regions (Izawa, <xref rid="nph15122-bib-0022" ref-type="ref">2007</xref>; Bluemel <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0007" ref-type="ref">2015</xref>). The floral repressor FLC and the floral promoter CONSTANS (CO) control the florigen gene <italic>FT</italic>; FLC and CO are key transcriptional regulators of the flowering pathways. Mutations in <italic>ATX1</italic> lead to early flowering as a result of reduced transcript levels of <italic>FLC</italic> (Pien <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0040" ref-type="ref">2008</xref>; Jiang <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0024" ref-type="ref">2009</xref>).</p><p>Rice, a model SD plant, contains two major flowering pathways: a conserved photoperiod pathway and a unique photoperiod&#x02010;independent flowering time pathway. <italic>Ehd1</italic> is an evolutionarily unique gene in rice that does not have an ortholog in Arabidopsis. The regulation of <italic>Ehd1</italic> expression also involves a gene network distinct from that in Arabidopsis (Doi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0016" ref-type="ref">2004</xref>; Tsuji <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0055" ref-type="ref">2011</xref>). Ehd1 promotes the expression of <italic>RFT1</italic>, and <italic>Ehd1</italic> transcript levels increase in the presence of <italic>OsGI</italic>,<italic> Ehd2</italic>,<italic> Ehd3</italic> and <italic>Ehd4</italic> under LDs. By contrast, Ehd1 promotes the expression of <italic>Hd3a</italic>, and <italic>Ehd1</italic> transcript levels increase in the presence of <italic>OsGI</italic> under SD conditions (Doi <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0016" ref-type="ref">2004</xref>; Komiya <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0029" ref-type="ref">2009</xref>; Tsuji <italic>et&#x000a0;al</italic>., <xref rid="nph15122-bib-0055" ref-type="ref">2011</xref>). In the current study, OsTrx1 and SIP1 were identified as new factors that positively regulate <italic>Ehd1</italic>, suggesting that the activation of <italic>Ehd1</italic> requires factors involved not only in transcriptional regulation, but also in histone modification. Together, our findings indicate that SIP1 interacts with OsTrx1, which, in turn, regulates the expression of <italic>Ehd1</italic> and heading date in rice.</p></sec><sec id="nph15122-sec-0028"><title>Author contributions</title><p>Y.D. and P.J. conceived the study and designed the experiments. P.J. performed most of the experiments. S.W. and H.Z. performed EMSA. H.Li performed the rice transformation. F.Z. performed the ChIP&#x02010;PCR. Y.S. and Z.X. prepared the materials. H.Lin and Q.Q. performed the bioinformatics analysis. All authors took part in the interpretation of the results and preparation of the manuscript. Y.D. wrote the manuscript. P.J. and S.W. contributed equally to this work.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>Please note: Wiley Blackwell are not responsible for the content or functionality of any Supporting Information supplied by the authors. Any queries (other than missing material) should be directed to the <italic>New Phytologist</italic> Central Office.</p></supplementary-material><supplementary-material content-type="local-data" id="nph15122-sup-0001"><caption><p>
+<bold>Fig.&#x000a0;S1</bold> Complementation of <italic>atx1&#x02010;1</italic> with <italic>OsTrx1</italic>.</p><p>
+<bold>Fig.&#x000a0;S2</bold> Generation of <italic>ostrx1</italic> mutants using CRISPR/Cas9.</p><p>
+<bold>Fig.&#x000a0;S3</bold> H3K4me3 profiles at <italic>RFT1</italic>,<italic> Hd3a</italic> and <italic>Ghd7</italic>.</p><p>
+<bold>Fig.&#x000a0;S4</bold> Generation of the <italic>ehd1</italic> mutant using CRISPR/Cas9.</p><p>
+<bold>Fig.&#x000a0;S5 </bold>
+<italic>SIP1</italic> encodes a C2H2 zinc finger protein.</p><p>
+<bold>Fig.&#x000a0;S6</bold> Identification of SIP1 binding sites in the <italic>Ehd1</italic> promoter.</p><p>
+<bold>Fig.&#x000a0;S7</bold> The specificity of the antibodies for SIP1 and OsTrx1.</p><p>
+<bold>Table&#x000a0;S1</bold> Average daylight in 10&#x02010;day intervals in 2017 at Hefei and Lingshui, China</p><p>
+<bold>Table&#x000a0;S2</bold> The constructs and primers used in this study</p></caption><media xlink:href="NPH-219-422-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="nph15122-sec-0027"><title>Acknowledgements</title><p>We are grateful to Dr Peng&#x02010;Cheng Wei, Hao Li and Ya&#x02010;chun Yang (Anhui Academy of Agricultural Sciences) and Jiangu Biotech (Hefei) for kindly helping us with rice transformation and cultivation. We are grateful to all members of the Ding group for their helpful discussions. This work was supported by the National Natural Science Foundation of China (9143510, 31571315 and 31371306 to Y.D.) and the Strategic Priority Research Program &#x02018;Molecular Mechanism of Plant Growth and Development&#x02019; of CAS (grant no. XDPB04).</p></ack><ref-list content-type="cited-references" id="nph15122-bibl-0001"><title>References</title><ref id="nph15122-bib-0001"><mixed-citation publication-type="journal" id="nph15122-cit-0001">
+<string-name>
+<surname>Alvarez&#x02010;Venegas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pien</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sadder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Witmer</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Grossniklaus</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2003</year>
+<article-title>ATX&#x02010;1, an Arabidopsis homolog of trithorax, activates flower homeotic genes</article-title>. <source xml:lang="en">Current Biology</source>
+<volume>13</volume>: <fpage>627</fpage>&#x02013;<lpage>637</lpage>.<pub-id pub-id-type="pmid">12699618</pub-id></mixed-citation></ref><ref id="nph15122-bib-0002"><mixed-citation publication-type="journal" id="nph15122-cit-0002">
+<string-name>
+<surname>Alvarez&#x02010;Venegas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sadder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hlavacka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Balu&#x00161;ka</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Firsov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sarath</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Moriyama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dubrovsky</surname>
+<given-names>JG</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2006</year>
+<article-title>The <italic>Arabidopsis</italic> homolog of trithorax, ATX1, binds phosphatidylinositol 5&#x02010;phosphate, and the two regulate a common set of target genes</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>
+<volume>103</volume>: <fpage>6049</fpage>&#x02013;<lpage>6054</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0003"><mixed-citation publication-type="journal" id="nph15122-cit-0003">
+<string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2009</year>
+<article-title>Evolution and pleiotropy of TRITHORAX function in Arabidopsis</article-title>. <source xml:lang="en">International Journal of Developmental Biology</source>
+<volume>53</volume>: <fpage>371</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">19412892</pub-id></mixed-citation></ref><ref id="nph15122-bib-0004"><mixed-citation publication-type="journal" id="nph15122-cit-0004">
+<string-name>
+<surname>Ayton</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Cleary</surname>
+<given-names>ML</given-names>
+</string-name>. <year>2004</year>
+<article-title>Binding to nonmethylated CpG DNA is essential for target recognition, transactivation, and myeloid transformation by an MLL oncoprotein</article-title>. <source xml:lang="en">Molecular and Cellular Biology</source>
+<volume>24</volume>: <fpage>10470</fpage>&#x02013;<lpage>10478</lpage>.<pub-id pub-id-type="pmid">15542854</pub-id></mixed-citation></ref><ref id="nph15122-bib-0005"><mixed-citation publication-type="journal" id="nph15122-cit-0005">
+<string-name>
+<surname>Bao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hua</surname>
+<given-names>J</given-names>
+</string-name>. <year>2014</year>
+<article-title>Endopolyploidization and flowering time are antagonistically regulated by checkpoint component MAD1 and immunity modulator MOS1</article-title>. <source xml:lang="en">Nature Communications</source>
+<volume>5</volume>: <fpage>5628</fpage>.</mixed-citation></ref><ref id="nph15122-bib-0006"><mixed-citation publication-type="journal" id="nph15122-cit-0006">
+<string-name>
+<surname>Bernstein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Humphrey</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Erlich</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bouman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kouzarides</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>SL</given-names>
+</string-name>. <year>2002</year>
+<article-title>Methylation of histone H3 Lys 4 in coding regions of active genes</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>
+<volume>99</volume>: <fpage>8695</fpage>&#x02013;<lpage>8700</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0007"><mixed-citation publication-type="journal" id="nph15122-cit-0007">
+<string-name>
+<surname>Bluemel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dally</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>C</given-names>
+</string-name>. <year>2015</year>
+<article-title>Flowering time regulation in crops &#x02013; what did we learn from Arabidopsis?</article-title>
+<source xml:lang="en">Current Opinion in Biotechnology</source>
+<volume>32</volume>: <fpage>121</fpage>&#x02013;<lpage>129</lpage>.<pub-id pub-id-type="pmid">25553537</pub-id></mixed-citation></ref><ref id="nph15122-bib-0008"><mixed-citation publication-type="journal" id="nph15122-cit-0008">
+<string-name>
+<surname>Choi</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>S&#x02010;R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>G</given-names>
+</string-name>. <year>2014</year>
+<article-title>Trithorax group protein <italic>Oryza sativa</italic> Trithorax1 controls flowering time in rice via interaction with early heading date3</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>164</volume>: <fpage>1326</fpage>&#x02013;<lpage>1337</lpage>.<pub-id pub-id-type="pmid">24420930</pub-id></mixed-citation></ref><ref id="nph15122-bib-0009"><mixed-citation publication-type="journal" id="nph15122-cit-0009">
+<string-name>
+<surname>Dai</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>HW</given-names>
+</string-name>. <year>2010</year>
+<article-title>Rice early flowering1, a CKI, phosphorylates DELLA protein SLR1 to negatively regulate gibberellin signalling</article-title>. <source xml:lang="en">EMBO Journal</source>
+<volume>29</volume>: <fpage>1916</fpage>&#x02013;<lpage>1927</lpage>.<pub-id pub-id-type="pmid">20400938</pub-id></mixed-citation></ref><ref id="nph15122-bib-0010"><mixed-citation publication-type="journal" id="nph15122-cit-0010">
+<string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Fromm</surname>
+<given-names>M</given-names>
+</string-name>. <year>2011a</year>
+<article-title>The Arabidopsis trithorax&#x02010;like factor ATX1 functions in dehydration stress responses via ABA&#x02010;dependent and ABA&#x02010;independent pathways</article-title>. <source xml:lang="en">Plant Journal</source>
+<volume>66</volume>: <fpage>735</fpage>&#x02013;<lpage>744</lpage>.<pub-id pub-id-type="pmid">21309869</pub-id></mixed-citation></ref><ref id="nph15122-bib-0011"><mixed-citation publication-type="journal" id="nph15122-cit-0011">
+<string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Fromm</surname>
+<given-names>M</given-names>
+</string-name>. <year>2011b</year>
+<article-title>Two distinct roles of ARABIDOPSIS HOMOLOG OF TRITHORAX1 (ATX1) at promoters and within transcribed regions of ATX1&#x02010;regulated genes</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>23</volume>: <fpage>350</fpage>&#x02013;<lpage>363</lpage>.<pub-id pub-id-type="pmid">21266657</pub-id></mixed-citation></ref><ref id="nph15122-bib-0012"><mixed-citation publication-type="journal" id="nph15122-cit-0012">
+<string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fromm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2012a</year>
+<article-title>Multiple exposures to drought &#x02018;train&#x02019; transcriptional responses in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Nature Communications</source>
+<volume>3</volume>: <fpage>740</fpage>.</mixed-citation></ref><ref id="nph15122-bib-0013"><mixed-citation publication-type="journal" id="nph15122-cit-0013">
+<string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lapko</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ndamukong</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Abdallat</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lalithambika</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sadder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Saleh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fromm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Riethoven</surname>
+<given-names>J&#x02010;J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2009</year>
+<article-title>The Arabidopsis chromatin modifier ATX1, the myotubularin&#x02010;like AtMTM, and the response to drought; a view from the other end of the pathway</article-title>. <source xml:lang="en">Plant Signaling &#x00026; Behavior</source>
+<volume>4</volume>: <fpage>1049</fpage>&#x02013;<lpage>1058</lpage>.<pub-id pub-id-type="pmid">19901554</pub-id></mixed-citation></ref><ref id="nph15122-bib-0014"><mixed-citation publication-type="journal" id="nph15122-cit-0014">
+<string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ndamukong</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lapko</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Fromm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2012b</year>
+<article-title>ATX1&#x02010;generated H3K4me3 is required for efficient elongation of transcription, not initiation, at ATX1&#x02010;regulated genes</article-title>. <source xml:lang="en">PLoS Genetics</source>
+<volume>8</volume>: <fpage>e1003111</fpage>.<pub-id pub-id-type="pmid">23284292</pub-id></mixed-citation></ref><ref id="nph15122-bib-0015"><mixed-citation publication-type="journal" id="nph15122-cit-0015">
+<string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ndamukong</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Riethoven</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Divecha</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2012c</year>
+<article-title>Divergent functions of the myotubularin (MTM) homologs AtMTM1 and AtMTM2 in <italic>Arabidopsis thaliana</italic>: evolution of the plant MTM family</article-title>. <source xml:lang="en">Plant Journal</source>
+<volume>70</volume>: <fpage>866</fpage>&#x02013;<lpage>878</lpage>.<pub-id pub-id-type="pmid">22324391</pub-id></mixed-citation></ref><ref id="nph15122-bib-0016"><mixed-citation publication-type="journal" id="nph15122-cit-0016">
+<string-name>
+<surname>Doi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Izawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fuse</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Kubo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Shimatani</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yoshimura</surname>
+<given-names>A</given-names>
+</string-name>. <year>2004</year>
+<article-title>Ehd1, a B&#x02010;type response regulator in rice, confers short&#x02010;day promotion of flowering and controls FT&#x02010;like gene expression independently of Hd1</article-title>. <source xml:lang="en">Genes &#x00026; Development</source>
+<volume>18</volume>: <fpage>926</fpage>&#x02013;<lpage>936</lpage>.<pub-id pub-id-type="pmid">15078816</pub-id></mixed-citation></ref><ref id="nph15122-bib-0017"><mixed-citation publication-type="journal" id="nph15122-cit-0017">
+<string-name>
+<surname>Fromm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2014</year>
+<article-title>ATX1/AtCOMPASS and the H3K4me3 marks: how do they activate Arabidopsis genes?</article-title>
+<source xml:lang="en">Current Opinion in Plant Biology</source>
+<volume>21</volume>: <fpage>75</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">25047977</pub-id></mixed-citation></ref><ref id="nph15122-bib-0018"><mixed-citation publication-type="journal" id="nph15122-cit-0018">
+<string-name>
+<surname>Gao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>X&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Fei</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sheng</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2013</year>
+<article-title>
+<italic>Ehd4</italic> encodes a novel and <italic>Oryza</italic>&#x02010;genus&#x02010;specific regulator of photoperiodic flowering in rice</article-title>. <source xml:lang="en">PLoS Genetics</source>
+<volume>9</volume>: <fpage>e1003281</fpage>.<pub-id pub-id-type="pmid">23437005</pub-id></mixed-citation></ref><ref id="nph15122-bib-0019"><mixed-citation publication-type="journal" id="nph15122-cit-0019">
+<string-name>
+<surname>Hagiwara</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name>
+<surname>Uwatoko</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Matsubara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nagano</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Onishi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sano</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2009</year>
+<article-title>Diversification in flowering time due to tandem FT&#x02010;like gene duplication, generating novel Mendelian factors in wild and cultivated rice</article-title>. <source xml:lang="en">Molecular Ecology</source>
+<volume>18</volume>: <fpage>1537</fpage>&#x02013;<lpage>1549</lpage>.<pub-id pub-id-type="pmid">19298266</pub-id></mixed-citation></ref><ref id="nph15122-bib-0020"><mixed-citation publication-type="journal" id="nph15122-cit-0020">
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Aoki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kurotani</surname>
+<given-names>K&#x02010;i</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shinomura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2011</year>
+<article-title>Phytochrome B regulates <italic>Heading date 1</italic> (<italic>Hd1</italic>)&#x02010;mediated expression of rice florigen <italic>Hd3a</italic> and critical day length in rice</article-title>. <source xml:lang="en">Molecular Genetics and Genomics</source>
+<volume>285</volume>: <fpage>461</fpage>&#x02013;<lpage>470</lpage>.<pub-id pub-id-type="pmid">21512732</pub-id></mixed-citation></ref><ref id="nph15122-bib-0021"><mixed-citation publication-type="journal" id="nph15122-cit-0021">
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tamaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Inagaki</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Shinomura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2005</year>
+<article-title>Suppression of the floral activator <italic>Hd3a</italic> is the principal cause of the night break effect in rice</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>17</volume>: <fpage>3326</fpage>&#x02013;<lpage>3336</lpage>.<pub-id pub-id-type="pmid">16272430</pub-id></mixed-citation></ref><ref id="nph15122-bib-0022"><mixed-citation publication-type="journal" id="nph15122-cit-0022">
+<string-name>
+<surname>Izawa</surname>
+<given-names>T</given-names>
+</string-name>. <year>2007</year>
+<article-title>Adaptation of flowering&#x02010;time by natural and artificial selection in Arabidopsis and rice</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>
+<volume>58</volume>: <fpage>3091</fpage>&#x02013;<lpage>3097</lpage>.<pub-id pub-id-type="pmid">17693414</pub-id></mixed-citation></ref><ref id="nph15122-bib-0023"><mixed-citation publication-type="journal" id="nph15122-cit-0023">
+<string-name>
+<surname>Jeong</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>G</given-names>
+</string-name>. <year>2015</year>
+<article-title>Controlling flowering time by histone methylation and acetylation in Arabidopsis and rice</article-title>. <source xml:lang="en">Journal of Plant Biology</source>
+<volume>58</volume>: <fpage>203</fpage>&#x02013;<lpage>210</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0024"><mixed-citation publication-type="journal" id="nph15122-cit-0024">
+<string-name>
+<surname>Jiang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2009</year>
+<article-title>Establishment of the winter&#x02010;annual growth habit via FRIGIDA&#x02010;mediated histone methylation at FLOWERING LOCUS C in Arabidopsis</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>21</volume>: <fpage>1733</fpage>&#x02013;<lpage>1746</lpage>.<pub-id pub-id-type="pmid">19567704</pub-id></mixed-citation></ref><ref id="nph15122-bib-0025"><mixed-citation publication-type="journal" id="nph15122-cit-0025">
+<string-name>
+<surname>Jiang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2018</year>
+<article-title>The COMPASS&#x02010;like complex promotes flowering and panicle branching in rice</article-title>. <source xml:lang="en">Plant Physiology</source>. doi: <ext-link ext-link-type="doi" xlink:href="10.1104/pp.17.01749">10.1104/pp.17.01749</ext-link>.</mixed-citation></ref><ref id="nph15122-bib-0026"><mixed-citation publication-type="journal" id="nph15122-cit-0026">
+<string-name>
+<surname>Kim</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>G</given-names>
+</string-name>. <year>2007</year>
+<article-title>
+<italic>OsMADS51</italic> is a short&#x02010;day flowering promoter that functions upstream of <italic>Ehd1</italic>,<italic> OsMADS14</italic>, and <italic>Hd3a</italic>
+</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>145</volume>: <fpage>1484</fpage>&#x02013;<lpage>1494</lpage>.<pub-id pub-id-type="pmid">17951465</pub-id></mixed-citation></ref><ref id="nph15122-bib-0027"><mixed-citation publication-type="journal" id="nph15122-cit-0027">
+<string-name>
+<surname>Kojima</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Monna</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Araki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>
+<given-names>M</given-names>
+</string-name>. <year>2002</year>
+<article-title>
+<italic>Hd3a</italic>, a rice ortholog of the <italic>Arabidopsis FT</italic> gene, promotes transition to flowering downstream of <italic>Hd1</italic> under short&#x02010;day conditions</article-title>. <source xml:lang="en">Plant and Cell Physiology</source>
+<volume>43</volume>: <fpage>1096</fpage>&#x02013;<lpage>1105</lpage>.<pub-id pub-id-type="pmid">12407188</pub-id></mixed-citation></ref><ref id="nph15122-bib-0028"><mixed-citation publication-type="journal" id="nph15122-cit-0028">
+<string-name>
+<surname>Komiya</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ikegami</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tamaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2008</year>
+<article-title>
+<italic>Hd3a</italic> and <italic>RFT1</italic> are essential for flowering in rice</article-title>. <source xml:lang="en">Development</source>
+<volume>135</volume>: <fpage>767</fpage>&#x02013;<lpage>774</lpage>.<pub-id pub-id-type="pmid">18223202</pub-id></mixed-citation></ref><ref id="nph15122-bib-0029"><mixed-citation publication-type="journal" id="nph15122-cit-0029">
+<string-name>
+<surname>Komiya</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2009</year>
+<article-title>A gene network for long&#x02010;day flowering activates <italic>RFT1</italic> encoding a mobile flowering signal in rice</article-title>. <source xml:lang="en">Development</source>
+<volume>136</volume>: <fpage>3443</fpage>&#x02013;<lpage>3450</lpage>.<pub-id pub-id-type="pmid">19762423</pub-id></mixed-citation></ref><ref id="nph15122-bib-0030"><mixed-citation publication-type="journal" id="nph15122-cit-0030">
+<string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>G</given-names>
+</string-name>. <year>2004</year>
+<article-title>Functional analyses of the flowering time gene OsMADS50, the putative SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS&#x02010;LIKE 20 (SOC1/AGL20) ortholog in rice</article-title>. <source xml:lang="en">Plant Journal</source>
+<volume>38</volume>: <fpage>754</fpage>&#x02013;<lpage>764</lpage>.<pub-id pub-id-type="pmid">15144377</pub-id></mixed-citation></ref><ref id="nph15122-bib-0031"><mixed-citation publication-type="journal" id="nph15122-cit-0031">
+<string-name>
+<surname>Lee</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>G</given-names>
+</string-name>. <year>2015</year>
+<article-title>Regulation of flowering time in rice</article-title>. <source xml:lang="en">Journal of Plant Biology</source>
+<volume>58</volume>: <fpage>353</fpage>&#x02013;<lpage>360</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0032"><mixed-citation publication-type="journal" id="nph15122-cit-0032">
+<string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tessaro</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2010</year>
+<article-title>Regulation of the expression of plant <italic>Resistance</italic> gene <italic>SNC1</italic> by a protein with a conserved BAT2 domain</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>153</volume>: <fpage>1425</fpage>&#x02013;<lpage>1434</lpage>.<pub-id pub-id-type="pmid">20439546</pub-id></mixed-citation></ref><ref id="nph15122-bib-0033"><mixed-citation publication-type="journal" id="nph15122-cit-0033">
+<string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>A</given-names>
+</string-name>. <year>2016</year>
+<article-title>SET DOMAIN GROUP 708, a histone H3 lysine 36&#x02010;specific methyltransferase, controls flowering time in rice (<italic>Oryza sativa</italic>)</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>210</volume>: <fpage>577</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">26639303</pub-id></mixed-citation></ref><ref id="nph15122-bib-0034"><mixed-citation publication-type="journal" id="nph15122-cit-0034">
+<string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>. <year>2010</year>
+<article-title>Histone methylation in higher plants</article-title>. <source xml:lang="en">Annual Review of Plant Biology</source>
+<volume>61</volume>: <fpage>395</fpage>&#x02013;<lpage>420</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0035"><mixed-citation publication-type="journal" id="nph15122-cit-0035">
+<string-name>
+<surname>Liu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>WH</given-names>
+</string-name>. <year>2017</year>
+<article-title>SET DOMAIN GROUP701 encodes a H3K4&#x02010;methytransferase and regulates multiple key processes of rice plant development</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>215</volume>: <fpage>609</fpage>&#x02013;<lpage>623</lpage>.<pub-id pub-id-type="pmid">28517045</pub-id></mixed-citation></ref><ref id="nph15122-bib-0036"><mixed-citation publication-type="journal" id="nph15122-cit-0036">
+<string-name>
+<surname>Lu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2017</year>
+<article-title>Phosphorylation of SPT5 by CDKD;2 is required for VIP5 recruitment and normal flowering in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>29</volume>: <fpage>277</fpage>&#x02013;<lpage>291</lpage>.<pub-id pub-id-type="pmid">28188267</pub-id></mixed-citation></ref><ref id="nph15122-bib-0037"><mixed-citation publication-type="journal" id="nph15122-cit-0037">
+<string-name>
+<surname>Matsubara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Nonoue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sugimoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZX</given-names>
+</string-name>, <string-name>
+<surname>Minobe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>
+<given-names>M</given-names>
+</string-name>. <year>2011</year>
+<article-title>Ehd3, encoding a plant homeodomain finger&#x02010;containing protein, is a critical promoter of rice flowering</article-title>. <source xml:lang="en">Plant Journal</source>
+<volume>66</volume>: <fpage>603</fpage>&#x02013;<lpage>612</lpage>.<pub-id pub-id-type="pmid">21284756</pub-id></mixed-citation></ref><ref id="nph15122-bib-0038"><mixed-citation publication-type="journal" id="nph15122-cit-0038">
+<string-name>
+<surname>Matsubara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z&#x02010;X</given-names>
+</string-name>, <string-name>
+<surname>Minobe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Izawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>
+<given-names>M</given-names>
+</string-name>. <year>2008</year>
+<article-title>
+<italic>Ehd2</italic>, a rice ortholog of the maize <italic>INDETERMINATE1</italic> gene, promotes flowering by up&#x02010;regulating <italic>Ehd1</italic>
+</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>148</volume>: <fpage>1425</fpage>&#x02013;<lpage>1435</lpage>.<pub-id pub-id-type="pmid">18790997</pub-id></mixed-citation></ref><ref id="nph15122-bib-0039"><mixed-citation publication-type="journal" id="nph15122-cit-0039">
+<string-name>
+<surname>Park</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Je</surname>
+<given-names>BI</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Xuan</surname>
+<given-names>Yh</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2008</year>
+<article-title>Rice <italic>Indeterminate 1</italic> (<italic>OsId1</italic>) is necessary for the expression of <italic>Ehd1</italic> (<italic>Early heading date 1</italic>) regardless of photoperiod</article-title>. <source xml:lang="en">Plant Journal</source>
+<volume>56</volume>: <fpage>1018</fpage>&#x02013;<lpage>1029</lpage>.<pub-id pub-id-type="pmid">18774969</pub-id></mixed-citation></ref><ref id="nph15122-bib-0040"><mixed-citation publication-type="journal" id="nph15122-cit-0040">
+<string-name>
+<surname>Pien</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fleury</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mylne</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Crevillen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Inze</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Dean</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Grossniklaus</surname>
+<given-names>U</given-names>
+</string-name>. <year>2008</year>
+<article-title>ARABIDOPSIS TRITHORAX1 dynamically regulates <italic>FLOWERING LOCUS C</italic> activation via histone 3 lysine 4 trimethylation</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>20</volume>: <fpage>580</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">18375656</pub-id></mixed-citation></ref><ref id="nph15122-bib-0041"><mixed-citation publication-type="journal" id="nph15122-cit-0041">
+<string-name>
+<surname>Q&#x000fc;esta</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Geraldo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dean</surname>
+<given-names>C</given-names>
+</string-name>. <year>2016</year>
+<article-title>
+<italic>Arabidopsis</italic> transcriptional repressor VAL1 triggers Polycomb silencing at <italic>FLC</italic> during vernalization</article-title>. <source xml:lang="en">Science</source>
+<volume>353</volume>: <fpage>485</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">27471304</pub-id></mixed-citation></ref><ref id="nph15122-bib-0042"><mixed-citation publication-type="journal" id="nph15122-cit-0042">
+<string-name>
+<surname>Ryu</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>CD</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2009</year>
+<article-title>OsMADS50 and OsMADS56 function antagonistically in regulating long day (LD)&#x02010;dependent flowering in rice</article-title>. <source xml:lang="en">Plant, Cell &#x00026; Environment</source>
+<volume>32</volume>: <fpage>1412</fpage>&#x02013;<lpage>1427</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0043"><mixed-citation publication-type="journal" id="nph15122-cit-0043">
+<string-name>
+<surname>Saleh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Abdallat</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ndamukong</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Alvarez&#x02010;Venegas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Avramova</surname>
+<given-names>Z</given-names>
+</string-name>. <year>2007</year>
+<article-title>The Arabidopsis homologs of trithorax (ATX1) and enhancer of zeste (CLF) establish &#x02018;bivalent chromatin marks&#x02019; at the silent AGAMOUS locus</article-title>. <source xml:lang="en">Nucleic Acids Research</source>
+<volume>35</volume>: <fpage>6290</fpage>&#x02013;<lpage>6296</lpage>.<pub-id pub-id-type="pmid">17881378</pub-id></mixed-citation></ref><ref id="nph15122-bib-0044"><mixed-citation publication-type="journal" id="nph15122-cit-0044">
+<string-name>
+<surname>Saleh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alvarez&#x02010;Venegas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yilmaz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sadder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Abdallat</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ladunga</surname>
+<given-names>I</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2008</year>
+<article-title>The highly similar <italic>Arabidopsis</italic> homologs of trithorax ATX1 and ATX2 encode proteins with divergent biochemical functions</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>20</volume>: <fpage>568</fpage>&#x02013;<lpage>579</lpage>.<pub-id pub-id-type="pmid">18375658</pub-id></mixed-citation></ref><ref id="nph15122-bib-0045"><mixed-citation publication-type="journal" id="nph15122-cit-0045">
+<string-name>
+<surname>Santos&#x02010;Rosa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bannister</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Sherriff</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Emre</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Mellor</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kouzarides</surname>
+<given-names>T</given-names>
+</string-name>. <year>2002</year>
+<article-title>Active genes are tri&#x02010;methylated at K4 of histone H3</article-title>. <source xml:lang="en">Nature</source>
+<volume>419</volume>: <fpage>407</fpage>&#x02013;<lpage>411</lpage>.<pub-id pub-id-type="pmid">12353038</pub-id></mixed-citation></ref><ref id="nph15122-bib-0046"><mixed-citation publication-type="journal" id="nph15122-cit-0046">
+<string-name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>W&#x02010;H</given-names>
+</string-name>. <year>2015</year>
+<article-title>Epigenetic regulation of rice flowering and reproduction</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>
+<volume>5</volume>: <fpage>803</fpage>.<pub-id pub-id-type="pmid">25674094</pub-id></mixed-citation></ref><ref id="nph15122-bib-0047"><mixed-citation publication-type="journal" id="nph15122-cit-0047">
+<string-name>
+<surname>Simpson</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Dean</surname>
+<given-names>C</given-names>
+</string-name>. <year>2002</year>
+<article-title>Arabidopsis, the Rosetta stone of flowering time?</article-title>
+<source xml:lang="en">Science</source>
+<volume>296</volume>: <fpage>285</fpage>&#x02013;<lpage>289</lpage>.<pub-id pub-id-type="pmid">11951029</pub-id></mixed-citation></ref><ref id="nph15122-bib-0048"><mixed-citation publication-type="journal" id="nph15122-cit-0048">
+<string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2017</year>
+<article-title>Phosphorylation of histone H2A at serine 95: a plant&#x02010;specific mark involved in flowering time regulation and H2A. Z deposition</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>29</volume>: <fpage>2197</fpage>&#x02013;<lpage>2213</lpage>.<pub-id pub-id-type="pmid">28790150</pub-id></mixed-citation></ref><ref id="nph15122-bib-0049"><mixed-citation publication-type="journal" id="nph15122-cit-0049">
+<string-name>
+<surname>Sui</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>W&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>A</given-names>
+</string-name>. <year>2013</year>
+<article-title>H3K36 methylation is involved in promoting rice flowering</article-title>. <source xml:lang="en">Molecular Plant</source>
+<volume>6</volume>: <fpage>975</fpage>&#x02013;<lpage>977</lpage>.<pub-id pub-id-type="pmid">23239829</pub-id></mixed-citation></ref><ref id="nph15122-bib-0050"><mixed-citation publication-type="journal" id="nph15122-cit-0050">
+<string-name>
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>
+<given-names>C</given-names>
+</string-name>. <year>2014</year>
+<article-title>Understanding the genetic and epigenetic architecture in complex network of rice flowering pathways</article-title>. <source xml:lang="en">Protein &#x00026; Cell</source>
+<volume>5</volume>: <fpage>889</fpage>&#x02013;<lpage>898</lpage>.<pub-id pub-id-type="pmid">25103896</pub-id></mixed-citation></ref><ref id="nph15122-bib-0051"><mixed-citation publication-type="journal" id="nph15122-cit-0051">
+<string-name>
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2012</year>
+<article-title>The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>24</volume>: <fpage>3235</fpage>&#x02013;<lpage>3247</lpage>.<pub-id pub-id-type="pmid">22892321</pub-id></mixed-citation></ref><ref id="nph15122-bib-0052"><mixed-citation publication-type="journal" id="nph15122-cit-0052">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Teshima</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Innan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2009</year>
+<article-title>Variations in Hd1 proteins, <italic>Hd3a</italic> promoters, and <italic>Ehd1</italic> expression levels contribute to diversity of flowering time in cultivated rice</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>
+<volume>106</volume>: <fpage>4555</fpage>&#x02013;<lpage>4560</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0053"><mixed-citation publication-type="journal" id="nph15122-cit-0053">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>Y&#x02010;h</given-names>
+</string-name>, <string-name>
+<surname>Westfield</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Oleskie</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name>
+<surname>Trievel</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Shilatifard</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Skiniotis</surname>
+<given-names>G</given-names>
+</string-name>. <year>2011</year>
+<article-title>Structural analysis of the core COMPASS family of histone H3K4 methylases from yeast to human</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences, USA</source>
+<volume>108</volume>: <fpage>20526</fpage>&#x02013;<lpage>20531</lpage>.</mixed-citation></ref><ref id="nph15122-bib-0054"><mixed-citation publication-type="journal" id="nph15122-cit-0054">
+<string-name>
+<surname>Tamaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Matsuo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Yokoi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2007</year>
+<article-title>Hd3a protein is a mobile flowering signal in rice</article-title>. <source xml:lang="en">Science</source>
+<volume>316</volume>: <fpage>1033</fpage>&#x02013;<lpage>1036</lpage>.<pub-id pub-id-type="pmid">17446351</pub-id></mixed-citation></ref><ref id="nph15122-bib-0055"><mixed-citation publication-type="journal" id="nph15122-cit-0055">
+<string-name>
+<surname>Tsuji</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Taoka</surname>
+<given-names>K&#x02010;i</given-names>
+</string-name>, <string-name>
+<surname>Shimamoto</surname>
+<given-names>K</given-names>
+</string-name>. <year>2011</year>
+<article-title>Regulation of flowering in rice: two florigen genes, a complex gene network, and natural variation</article-title>. <source xml:lang="en">Current Opinion in Plant Biology</source>
+<volume>14</volume>: <fpage>45</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">20864385</pub-id></mixed-citation></ref><ref id="nph15122-bib-0056"><mixed-citation publication-type="journal" id="nph15122-cit-0056">
+<string-name>
+<surname>Xu</surname>
+<given-names>R&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>R&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>C&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>P&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J&#x02010;B</given-names>
+</string-name>. <year>2015</year>
+<article-title>Generation of inheritable and &#x0201c;transgene clean&#x0201d; targeted genome&#x02010;modified rice in later generations using the CRISPR/Cas9 system</article-title>. <source xml:lang="en">Scientific Reports</source>
+<volume>5</volume>: <fpage>11491</fpage>.<pub-id pub-id-type="pmid">26089199</pub-id></mixed-citation></ref><ref id="nph15122-bib-0057"><mixed-citation publication-type="journal" id="nph15122-cit-0057">
+<string-name>
+<surname>Xu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>. <year>2016</year>
+<article-title>Rapid improvement of grain weight <italic>via</italic> highly efficient CRISPR/Cas9&#x02010;mediated multiplex genome editing in rice</article-title>. <source xml:lang="en">Journal of Genetics and Genomics</source>
+<volume>43</volume>: <fpage>529</fpage>&#x02013;<lpage>532</lpage>.<pub-id pub-id-type="pmid">27543262</pub-id></mixed-citation></ref><ref id="nph15122-bib-0058"><mixed-citation publication-type="journal" id="nph15122-cit-0058">
+<string-name>
+<surname>Xue</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Weng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2008</year>
+<article-title>Natural variation in <italic>Ghd7</italic> is an important regulator of heading date and yield potential in rice</article-title>. <source xml:lang="en">Nature Genetics</source>
+<volume>40</volume>: <fpage>761</fpage>&#x02013;<lpage>767</lpage>.<pub-id pub-id-type="pmid">18454147</pub-id></mixed-citation></ref><ref id="nph15122-bib-0059"><mixed-citation publication-type="journal" id="nph15122-cit-0059">
+<string-name>
+<surname>Yan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>HW</given-names>
+</string-name>. <year>2015</year>
+<article-title>CRISPR primer designer: design primers for knockout and chromosome imaging of CRISPR&#x02010;Cas system</article-title>. <source xml:lang="en">Journal of Integrative Plant Biology</source>
+<volume>57</volume>: <fpage>613</fpage>&#x02013;<lpage>617</lpage>.<pub-id pub-id-type="pmid">25319067</pub-id></mixed-citation></ref><ref id="nph15122-bib-0060"><mixed-citation publication-type="journal" id="nph15122-cit-0060">
+<string-name>
+<surname>Yano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Katayose</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ashikari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamanouchi</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Monna</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fuse</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Baba</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Umehara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nagamura</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2000</year>
+<article-title>
+<italic>Hd1</italic>, a major photoperiod sensitivity quantitative trait locus in rice, is closely related to the Arabidopsis flowering time gene <italic>CONSTANS</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>12</volume>: <fpage>2473</fpage>&#x02013;<lpage>2483</lpage>.<pub-id pub-id-type="pmid">11148291</pub-id></mixed-citation></ref><ref id="nph15122-bib-0061"><mixed-citation publication-type="journal" id="nph15122-cit-0061">
+<string-name>
+<surname>Yano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kojima</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>
+<given-names>T</given-names>
+</string-name>. <year>2001</year>
+<article-title>Genetic control of flowering time in rice, a short&#x02010;day plant</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>127</volume>: <fpage>1425</fpage>&#x02013;<lpage>1429</lpage>.<pub-id pub-id-type="pmid">11743085</pub-id></mixed-citation></ref><ref id="nph15122-bib-0062"><mixed-citation publication-type="journal" id="nph15122-cit-0062">
+<string-name>
+<surname>Yeang</surname>
+<given-names>H&#x02010;Y</given-names>
+</string-name>. <year>2013</year>
+<article-title>Solar rhythm in the regulation of photoperiodic flowering of long&#x02010;day and short&#x02010;day plants</article-title>. <source xml:lang="en">Journal of Experimental Botany</source>
+<volume>64</volume>: <fpage>2643</fpage>&#x02013;<lpage>2652</lpage>.<pub-id pub-id-type="pmid">23645867</pub-id></mixed-citation></ref><ref id="nph15122-bib-0063"><mixed-citation publication-type="journal" id="nph15122-cit-0063">
+<string-name>
+<surname>Yuan</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2016</year>
+<article-title>A <italic>cis</italic> cold memory element and a <italic>trans</italic> epigenome reader mediate Polycomb silencing of FLC by vernalization in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Nature Genetics</source>
+<volume>48</volume>: <fpage>1527</fpage>&#x02013;<lpage>1534</lpage>.<pub-id pub-id-type="pmid">27819666</pub-id></mixed-citation></ref><ref id="nph15122-bib-0064"><mixed-citation publication-type="journal" id="nph15122-cit-0064">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Reinberg</surname>
+<given-names>D</given-names>
+</string-name>. <year>2001</year>
+<article-title>Transcription regulation by histone methylation: interplay between different covalent modifications of the core histone tails</article-title>. <source xml:lang="en">Genes &#x00026; Development</source>
+<volume>15</volume>: <fpage>2343</fpage>&#x02013;<lpage>2360</lpage>.<pub-id pub-id-type="pmid">11562345</pub-id></mixed-citation></ref><ref id="nph15122-bib-0065"><mixed-citation publication-type="journal" id="nph15122-cit-0065">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2011</year>
+<article-title>A highly efficient rice green tissue protoplast system for transient gene expression and studying light/chloroplast&#x02010;related processes</article-title>. <source xml:lang="en">Plant Methods</source>
+<volume>7</volume>: <fpage>30</fpage>.<pub-id pub-id-type="pmid">21961694</pub-id></mixed-citation></ref><ref id="nph15122-bib-0066"><mixed-citation publication-type="journal" id="nph15122-cit-0066">
+<string-name>
+<surname>Zheng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2018</year>
+<article-title>MLK1 and MLK2 integrate gibberellins and circadian clock signaling to modulate plant growth</article-title>. <source xml:lang="en">Plant Signaling &#x00026; Behavior</source>
+<volume>13</volume>: <fpage>e1439654</fpage>.<pub-id pub-id-type="pmid">29431572</pub-id></mixed-citation></ref><ref id="nph15122-bib-0067"><mixed-citation publication-type="journal" id="nph15122-cit-0067">
+<string-name>
+<surname>Zheng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2018</year>
+<article-title>MLK1 and MLK2 coordinate RGA and CCA1 activity to regulate hypocotyl elongation in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>
+<volume>30</volume>: <fpage>67</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">29255112</pub-id></mixed-citation></ref><ref id="nph15122-bib-0068"><mixed-citation publication-type="journal" id="nph15122-cit-0068">
+<string-name>
+<surname>Zong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>You</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>L</given-names>
+</string-name>. <year>2013</year>
+<article-title>Genome&#x02010;wide profiling of histone H3K4&#x02010;tri&#x02010;methylation and gene expression in rice under drought stress</article-title>. <source xml:lang="en">Plant Molecular Biology</source>
+<volume>81</volume>: <fpage>175</fpage>&#x02013;<lpage>188</lpage>.<pub-id pub-id-type="pmid">23192746</pub-id></mixed-citation></ref></ref-list></back></article>

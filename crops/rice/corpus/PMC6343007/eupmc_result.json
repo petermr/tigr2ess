@@ -1,0 +1,1431 @@
+{
+  "id": [
+    "30670689"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30670689"
+  ],
+  "pmcid": [
+    "PMC6343007"
+  ],
+  "doi": [
+    "10.1038/s41467-019-08299-7"
+  ],
+  "title": [
+    "The circadian clock components BMAL1 and REV-ERBα regulate flavivirus replication."
+  ],
+  "authorString": [
+    "Zhuang X, Magri A, Hill M, Lai AG, Kumar A, Rambhatla SB, Donald CL, Lopez-Clavijo AF, Rudge S, Pinnick K, Chang WH, Wing PAC, Brown R, Qin X, Simmonds P, Baumert TF, Ray D, Loudon A, Balfe P, Wakelam M, Butterworth S, Kohl A, Jopling CL, Zitzmann N, McKeating JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhuang X"
+          ],
+          "firstName": [
+            "Xiaodong"
+          ],
+          "lastName": [
+            "Zhuang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Magri A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Magri"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hill M"
+          ],
+          "firstName": [
+            "Michelle"
+          ],
+          "lastName": [
+            "Hill"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Oxford Glycobiology Institute, Department of Biochemistry, University of Oxford, Oxford OX1 3QU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lai AG"
+          ],
+          "firstName": [
+            "Alvina G"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar A"
+          ],
+          "firstName": [
+            "Abhinav"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Oxford Glycobiology Institute, Department of Biochemistry, University of Oxford, Oxford OX1 3QU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rambhatla SB"
+          ],
+          "firstName": [
+            "Srinivasa Bhargav"
+          ],
+          "lastName": [
+            "Rambhatla"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "Institute of Immunology and Immunotherapy, University of Birmingham, Birmingham B15 2TT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Donald CL"
+          ],
+          "firstName": [
+            "Claire L"
+          ],
+          "lastName": [
+            "Donald"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4370-0707",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Glasgow G61 1QH, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lopez-Clavijo AF"
+          ],
+          "firstName": [
+            "Andrea F"
+          ],
+          "lastName": [
+            "Lopez-Clavijo"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "affiliation": [
+            "The Babraham Institute, Cambridge CB22 3AT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rudge S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "Rudge"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Babraham Institute, Cambridge CB22 3AT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Pinnick K"
+          ],
+          "firstName": [
+            "Katherine"
+          ],
+          "lastName": [
+            "Pinnick"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2422-248X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Oxford Centre for Diabetes Endocrinology Metabolism, University of Oxford, Oxford OX3 9DU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang WH"
+          ],
+          "firstName": [
+            "Wai Hoong"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wing PAC"
+          ],
+          "firstName": [
+            "Peter A C"
+          ],
+          "lastName": [
+            "Wing"
+          ],
+          "initials": [
+            "PAC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2354-3281",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown R"
+          ],
+          "firstName": [
+            "Ryan"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Birmingham, Birmingham B15 2TT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin X"
+          ],
+          "firstName": [
+            "Ximing"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2496-2434",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institutes of Physical Science and Information Technology, Anhui University, Hefei 230601, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Simmonds P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Simmonds"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Baumert TF"
+          ],
+          "firstName": [
+            "Thomas F"
+          ],
+          "lastName": [
+            "Baumert"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "affiliation": [
+            "Inserm U1110, Institut de Recherche sur les Maladies Virales et Hépatiques, Strasbourg 67000, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ray D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Ray"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4739-6773",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Medical and Human Sciences, University of Manchester, Manchester M13 9PL, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Loudon A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Loudon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3648-445X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Medical and Human Sciences, University of Manchester, Manchester M13 9PL, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Balfe P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Balfe"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6246-0876",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Immunology and Immunotherapy, University of Birmingham, Birmingham B15 2TT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wakelam M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Wakelam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4059-9276",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Babraham Institute, Cambridge CB22 3AT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Butterworth S"
+          ],
+          "firstName": [
+            "Sam"
+          ],
+          "lastName": [
+            "Butterworth"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6549-3753",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pharmacy and Optometry, School of Health Sciences, Manchester Academic Health Sciences Centre, University of Manchester, Manchester M13 9NT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kohl A"
+          ],
+          "firstName": [
+            "Alain"
+          ],
+          "lastName": [
+            "Kohl"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Glasgow G61 1QH, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Jopling CL"
+          ],
+          "firstName": [
+            "Catherine L"
+          ],
+          "lastName": [
+            "Jopling"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "School of Pharmacy, University of Nottingham, Nottingham NG7 2RD, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Zitzmann N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Zitzmann"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1969-4949",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Oxford Glycobiology Institute, Department of Biochemistry, University of Oxford, Oxford OX1 3QU, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "McKeating JA"
+          ],
+          "firstName": [
+            "Jane A"
+          ],
+          "lastName": [
+            "McKeating"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK. jane.mckeating@ndm.ox.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2354-3281",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4059-9276",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4370-0707",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2422-248X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6549-3753",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2496-2434",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4739-6773",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3648-445X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1969-4949",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6246-0876",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2765184"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "377"
+  ],
+  "abstractText": [
+    "The circadian clock regulates immune responses to microbes and affects pathogen replication, but the underlying molecular mechanisms are not well understood. Here we demonstrate that the circadian components BMAL1 and REV-ERBα influence several steps in the hepatitis C virus (HCV) life cycle, including particle entry into hepatocytes and RNA genome replication. Genetic knock out of Bmal1 and over-expression or activation of REV-ERB with synthetic agonists inhibits the replication of HCV and the related flaviruses dengue and Zika via perturbation of lipid signaling pathways. This study highlights a role for the circadian clock component REV-ERBα in regulating flavivirus replication."
+  ],
+  "affiliation": [
+    "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7FZ, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/K007785/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/P023576/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/N017552/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hepatocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hepacivirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flavivirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue Virus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hepatitis C"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Messenger"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Replication"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Replication"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Essential"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Internalization"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ARNTL Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nuclear Receptor Subfamily 1, Group D, Member 1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Circadian Clocks"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zika Virus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zika Virus Infection"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "NR1D1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ARNTL protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Messenger"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Nuclear Receptor Subfamily 1, Group D, Member 1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ARNTL Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343007?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343007"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-08299-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-06"
+  ],
+  "dateOfCreation": [
+    "2019-01-24"
+  ],
+  "dateOfRevision": [
+    "2019-02-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-22"
+  ],
+  "firstPublicationDate": [
+    "2019-01-22"
+  ]
+}

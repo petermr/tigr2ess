@@ -1,0 +1,903 @@
+{
+  "id": [
+    "30326849"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30326849"
+  ],
+  "pmcid": [
+    "PMC6192290"
+  ],
+  "doi": [
+    "10.1186/s12870-018-1473-4"
+  ],
+  "title": [
+    "Activation of a gene network in durum wheat roots exposed to cadmium."
+  ],
+  "authorString": [
+    "Aprile A, Sabella E, Vergine M, Genga A, Siciliano M, Nutricati E, Rampino P, De Pascali M, Luvisi A, Miceli A, Negro C, De Bellis L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aprile A"
+          ],
+          "firstName": [
+            "Alessio"
+          ],
+          "lastName": [
+            "Aprile"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sabella E"
+          ],
+          "firstName": [
+            "Erika"
+          ],
+          "lastName": [
+            "Sabella"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4200-3894",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy. erika.sabella@unisalento.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Vergine M"
+          ],
+          "firstName": [
+            "Marzia"
+          ],
+          "lastName": [
+            "Vergine"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Genga A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Genga"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1172-0735",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Siciliano M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Siciliano"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nutricati E"
+          ],
+          "firstName": [
+            "Eliana"
+          ],
+          "lastName": [
+            "Nutricati"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rampino P"
+          ],
+          "firstName": [
+            "Patrizia"
+          ],
+          "lastName": [
+            "Rampino"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "De Pascali M"
+          ],
+          "firstName": [
+            "Mariarosaria"
+          ],
+          "lastName": [
+            "De Pascali"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Luvisi A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Luvisi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2207-7493",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Miceli A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Miceli"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Negro C"
+          ],
+          "firstName": [
+            "Carmine"
+          ],
+          "lastName": [
+            "Negro"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "De Bellis L"
+          ],
+          "firstName": [
+            "Luigi"
+          ],
+          "lastName": [
+            "De Bellis"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1172-0735",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2207-7493",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4200-3894",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2734508"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "238"
+  ],
+  "abstractText": [
+    "BACKGROUND:Among cereals, durum wheat (Triticum turgidum L. subsp. durum) accumulates cadmium (Cd) at higher concentration if grown in Cd-polluted soils. Since cadmium accumulation is a risk for human health, the international trade organizations have limited the acceptable concentration of Cd in edible crops. Therefore, durum wheat cultivars accumulating low cadmium in grains should be preferred by farmers and consumers. To identify the response of durum wheat to the presence of Cd, the transcriptomes of roots and shoots of Creso and Svevo cultivars were sequenced after a 50-day exposure to 0.5 μM Cd in hydroponic solution. RESULTS:No phytotoxic effects or biomass reduction was observed in Creso and Svevo plants at this Cd concentration. Despite this null effect, cadmium was accumulated in root tissues, in shoots and in grains suggesting a good cadmium translocation rate among tissues. The mRNA sequencing revealed a general transcriptome rearrangement after Cd treatment and more than 7000 genes were found differentially expressed in root and shoot tissues. Among these, the up-regulated genes in roots showed a clear correlation with cadmium uptake and detoxification. In particular, about three hundred genes were commonly up-regulated in Creso and Svevo roots suggesting a well defined molecular strategy characterized by the transcriptomic activation of several transcription factors mainly belonging to bHLH and WRKY families. bHLHs are probably the activators of the strong up-regulation of three NAS genes, responsible for the synthesis of the phytosiderophore nicotianamine (NA). Moreover, we found the overall up-regulation of the methionine salvage pathway that is tightly connected with NA synthesis and supply the S-adenosyl methionine necessary for NA biosynthesis. Finally, several vacuolar NA chelating heavy metal transporters were vigorously activated. CONCLUSIONS:In conclusion, the exposure of durum wheat to cadmium activates in roots a complex gene network involved in cadmium translocation and detoxification from heavy metals. These findings are confident with a role of nicotianamine and methionine salvage pathway in the accumulation of cadmium in durum wheat."
+  ],
+  "affiliation": [
+    "Department of Biological and Environmental Sciences and Technologies, University of Salento, via Prov.le Monteroni 165, 73100, Lecce, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PON01_01145/1-ISCOCEM"
+          ],
+          "agency": [
+            "MIUR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2I19HY5"
+          ],
+          "agency": [
+            "Apulia Region"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Shoots"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Roots"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cadmium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Azetidinecarboxylic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Methionine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomass"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Transport"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydroponics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Edible Grain"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cadmium",
+        "Heavy metals",
+        "Durum Wheat",
+        "fit",
+        "Nicotianamine",
+        "Methionine Salvage Pathway",
+        "Pye",
+        "Mrna Sequencing",
+        "Org2"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "nicotianamine"
+          ],
+          "registryNumber": [
+            "34441-14-0"
+          ]
+        },
+        {
+          "name": [
+            "Azetidinecarboxylic Acid"
+          ],
+          "registryNumber": [
+            "2517-04-6"
+          ]
+        },
+        {
+          "name": [
+            "Methionine"
+          ],
+          "registryNumber": [
+            "AE28F7PNPL"
+          ]
+        },
+        {
+          "name": [
+            "Cadmium"
+          ],
+          "registryNumber": [
+            "00BH33GNGH"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6192290?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6192290"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-018-1473-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "arrayexpress",
+        "go"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-11-19"
+  ],
+  "dateOfCreation": [
+    "2018-10-18"
+  ],
+  "dateOfRevision": [
+    "2018-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-16"
+  ],
+  "firstPublicationDate": [
+    "2018-10-16"
+  ]
+}

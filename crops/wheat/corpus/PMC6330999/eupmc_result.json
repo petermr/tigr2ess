@@ -1,0 +1,298 @@
+{
+  "id": [
+    "30648004"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30648004"
+  ],
+  "pmcid": [
+    "PMC6330999"
+  ],
+  "doi": [
+    "10.7717/peerj.6231"
+  ],
+  "title": [
+    "Assigning confidence scores to homoeologs using fuzzy logic."
+  ],
+  "authorString": [
+    "Glover NM, Altenhoff A, Dessimoz C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Glover NM"
+          ],
+          "firstName": [
+            "Natasha M"
+          ],
+          "lastName": [
+            "Glover"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Altenhoff A"
+          ],
+          "firstName": [
+            "Adrian"
+          ],
+          "lastName": [
+            "Altenhoff"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Dessimoz C"
+          ],
+          "firstName": [
+            "Christophe"
+          ],
+          "lastName": [
+            "Dessimoz"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2170-853X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2170-853X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2769900"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e6231"
+  ],
+  "abstractText": [
+    "In polyploid genomes, homoeologs are a specific subtype of homologs, and can be thought of as orthologs between subgenomes. In Orthologous MAtrix, we infer homoeologs in three polyploid plant species: upland cotton (Gossypium hirsutum), rapeseed (Brassica napus), and bread wheat (Triticum aestivum). While we can typically recognize the features of a \"good\" homoeolog prediction (a consistent evolutionary distance, high synteny, and a one-to-one relationship), none of them is a hard-fast criterion. We devised a novel fuzzy logic-based method to assign confidence scores to each pair of predicted homoeologs. We inferred homoeolog pairs and used the new and improved method to assign confidence scores, which ranged from 0 to 100. Most confidence scores were between 70 and 100, but the distribution varied between genomes. The new confidence scores show an improvement over our previous method and were manually evaluated using a subset from various confidence ranges."
+  ],
+  "affiliation": [
+    "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polyploidy",
+        "Comparative genomics",
+        "Fuzzy Logic",
+        "Homoeology",
+        "Confidence Scores"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6330999?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6330999"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.6231"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-17"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-11"
+  ],
+  "firstPublicationDate": [
+    "2019-01-11"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": [
+    "30546376"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30546376"
+  ],
+  "pmcid": [
+    "PMC6279870"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01734"
+  ],
+  "title": [
+    "A Pipeline for Classifying Deleterious Coding Mutations in Agricultural Plants."
+  ],
+  "authorString": [
+    "Kovalev MS, Igolkina AA, Samsonova MG, Nuzhdin SV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kovalev MS"
+          ],
+          "firstName": [
+            "Maxim S"
+          ],
+          "lastName": [
+            "Kovalev"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Department of Applied Mathematics, Peter the Great St.Petersburg Polytechnic University, St. Petersburg, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Igolkina AA"
+          ],
+          "firstName": [
+            "Anna A"
+          ],
+          "lastName": [
+            "Igolkina"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Applied Mathematics, Peter the Great St.Petersburg Polytechnic University, St. Petersburg, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Samsonova MG"
+          ],
+          "firstName": [
+            "Maria G"
+          ],
+          "lastName": [
+            "Samsonova"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Department of Applied Mathematics, Peter the Great St.Petersburg Polytechnic University, St. Petersburg, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nuzhdin SV"
+          ],
+          "firstName": [
+            "Sergey V"
+          ],
+          "lastName": [
+            "Nuzhdin"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "Department of Applied Mathematics, Peter the Great St.Petersburg Polytechnic University, St. Petersburg, Russia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1734"
+  ],
+  "abstractText": [
+    "The impact of deleterious variation on both plant fitness and crop productivity is not completely understood and is a hot topic of debates. The deleterious mutations in plants have been solely predicted using sequence conservation methods rather than function-based classifiers due to lack of well-annotated mutational datasets in these organisms. Here, we developed a machine learning classifier based on a dataset of deleterious and neutral mutations in Arabidopsis thaliana by extracting 18 informative features that discriminate deleterious mutations from neutral, including 9 novel features not used in previous studies. We examined linear SVM, Gaussian SVM, and Random Forest classifiers, with the latter performing best. Random Forest classifiers exhibited a markedly higher accuracy than the popular PolyPhen-2 tool in the Arabidopsis dataset. Additionally, we tested whether the Random Forest, trained on the Arabidopsis dataset, accurately predicts deleterious mutations in Orýza sativa and Pisum sativum and observed satisfactory levels of performance accuracy (87% and 93%, respectively) higher than obtained by the PolyPhen-2. Application of Transfer learning in classifiers did not improve their performance. To additionally test the performance of the Random Forest classifier across different angiosperm species, we applied it to annotate deleterious mutations in Cicer arietinum and validated them using population frequency data. Overall, we devised a classifier with the potential to improve the annotation of putative functional mutations in QTL and GWAS hit regions, as well as for the evolutionary analysis of proliferation of deleterious mutations during plant domestication; thus optimizing breeding improvement and development of new cultivars."
+  ],
+  "affiliation": [
+    "Department of Applied Mathematics, Peter the Great St.Petersburg Polytechnic University, St. Petersburg, Russia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pisum",
+        "Cicer",
+        "Deleterious Mutation",
+        "Orýza",
+        "Random Forest (Bagging) And Machine Learning"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6279870?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6279870"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01734"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-28"
+  ],
+  "firstPublicationDate": [
+    "2018-11-28"
+  ]
+}

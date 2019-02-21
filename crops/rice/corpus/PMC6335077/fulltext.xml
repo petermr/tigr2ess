@@ -1,0 +1,857 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6335077</article-id><article-id pub-id-type="doi">10.1111/pbi.12979</article-id><article-id pub-id-type="publisher-id">PBI12979</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Influence of isopropylmalate synthase <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> on seed vigour associated with amino acid and energy metabolism in rice</article-title><alt-title alt-title-type="left-running-head"><italic>Yongqi He</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12979-cr-0001" contrib-type="author"><name><surname>He</surname><given-names>Yongqi</given-names></name><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0002" contrib-type="author"><name><surname>Cheng</surname><given-names>Jinping</given-names></name><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0003" contrib-type="author"><name><surname>He</surname><given-names>Ying</given-names></name><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0004" contrib-type="author"><name><surname>Yang</surname><given-names>Bin</given-names></name><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0005" contrib-type="author"><name><surname>Cheng</surname><given-names>Yanhao</given-names></name><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0006" contrib-type="author"><name><surname>Yang</surname><given-names>Can</given-names></name><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0007" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Hongsheng</given-names></name><address><email>hszhang@njau.edu.cn</email></address><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12979-cr-0008" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Zhoufei</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8565-9175</contrib-id><address><email>wangzf@scau.edu.cn</email></address><xref ref-type="aff" rid="pbi12979-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12979-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="pbi12979-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">The Laboratory of Seed Science and Technology</named-content>
+<named-content content-type="organisation-division">State Key Laboratory of Crop Genetics and Germplasm Enhancement</named-content>
+<named-content content-type="organisation-division">Jiangsu Collaborative Innovation Center for Modern Crop Production</named-content>
+<institution>Nanjing Agricultural University</institution>
+<named-content content-type="city">Nanjing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12979-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">The Laboratory of Seed Science and Technology</named-content>
+<named-content content-type="organisation-division">Guangdong Key Laboratory of Plant Molecular Breeding</named-content>
+<named-content content-type="organisation-division">State Key Laboratory for Conservation and Utilization of Subtropical Agro&#x02010;Bioresources</named-content>
+<institution>South China Agricultural University</institution>
+<named-content content-type="city">Guangzhou</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel 8602584399532; fax 8602584399532; emails <email>wangzf@scau.edu.cn</email> (Z.W.), <email>hszhang@njau.edu.cn</email> (H.Z.))</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2019</year></pub-date><volume>17</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/pbi.2019.17.issue-2</issue-id><fpage>322</fpage><lpage>337</lpage><history><date date-type="received"><day>29</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>24</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-17-322.pdf"/><abstract id="pbi12979-abs-0001"><title>Summary</title><p>Seed vigour is an imperative trait for the direct seeding of rice. Isopropylmalate synthase (<styled-content style="fixed-case">IPMS</styled-content>) catalyses the committed step of leucine (Leu) biosynthesis, but its effect on seed vigour remains unclear. In this study, rice <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">IPMS</styled-content>2</italic> was cloned, and the roles of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> in seed vigour were mainly investigated. Os<styled-content style="fixed-case">IPMS</styled-content>1 and Os<styled-content style="fixed-case">IPMS</styled-content>2 catalyse Leu biosynthesis, and Leu feedback inhibits their <styled-content style="fixed-case">IPMS</styled-content> activities. Disruption of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> resulted in low seed vigour under various conditions, which might be tightly associated with the reduction of amino acids in germinating seeds. Eleven amino acids that associated with stress tolerance, <styled-content style="fixed-case">GA</styled-content> biosynthesis and tricarboxylic acid (<styled-content style="fixed-case">TCA</styled-content>) cycle were significantly reduced in <italic>osipms1</italic> mutants compared with those in wide type (<styled-content style="fixed-case">WT</styled-content>) during seed germination. Transcriptome analysis indicated that a total of 1209 differentially expressed genes (<styled-content style="fixed-case">DEG</styled-content>s) were altered in <italic>osipms1a</italic> mutant compared with <styled-content style="fixed-case">WT</styled-content> at the early germination stage, wherein most of the genes were involved in glycolysis/gluconeogenesis, protein processing, pyruvate, carbon, fructose and mannose metabolism. Further analysis confirmed that the regulation of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> in seed vigour involved in starch hydrolysis, glycolytic activity and energy levels in germinating seeds. The effects of seed priming were tightly associated with the <styled-content style="fixed-case">mRNA</styled-content> levels of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> in priming seeds. The <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> might be used as a biomarker to determine the best stop time&#x02010;point of seed priming in rice. This study provides novel insights into the function of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> on seed vigour and should have practical applications in seed priming of rice.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12979-kwd-0001">isopropylmalate synthase</kwd><kwd id="pbi12979-kwd-0002">seed vigour</kwd><kwd id="pbi12979-kwd-0003">seed priming</kwd><kwd id="pbi12979-kwd-0004"><italic>Oryza sativa</italic></kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>31771889</award-id></award-group><award-group><funding-source>National Key Research and Development Plan</funding-source><award-id>2018YFD0100901</award-id></award-group><award-group><funding-source>Major Scientific Research Projects of General Colleges and Universities of Guangdong Province</funding-source><award-id>2017KTSCX024</award-id></award-group><award-group><funding-source>Natural Science Foundation of Jiangsu Province</funding-source><award-id>BK20161451</award-id><award-id>BK20150675</award-id></award-group></funding-group><counts><fig-count count="11"/><table-count count="0"/><page-count count="16"/><word-count count="11294"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12979</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:16.01.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="pbi12979-ntgp-0001"><fn fn-type="equal" id="pbi12979-note-1001"><p>Yongqi He and Jinping Cheng contributed equally to this work.</p></fn></fn-group></notes></front><body><sec id="pbi12979-sec-0001"><title>Introduction</title><p>Rice (<italic>Oryza sativa</italic> L.) is one of the most important food crops in the world. Recently, the direct&#x02010;seeding method of rice is becoming increasingly popular in China because of its low cost and operational simplicity (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0061" ref-type="ref">2011</xref>). High seed vigour, including rapid, uniform germination and vigorous seedling growth, is essential for the direct seeding of rice (Mahender <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0047" ref-type="ref">2015</xref>). Seeds with speed and uniform germination may significantly improve field emergence, lead to better suppression of weed growth and produce high yield under various conditions (Foolad <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0023" ref-type="ref">2007</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0060" ref-type="ref">2010</xref>). Therefore, the mining of key genes controlling seed vigour and illuminating their molecular mechanisms are important objectives of rice breeding.</p><p>Seed germination is a quantitative trait controlled by multiple genes and environmental factors during seed development and germination stages. To date, several quantitative trait loci (QTLs) for seed germination have been reported in rice (Cheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0015" ref-type="ref">2013</xref>; Fujino <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0025" ref-type="ref">2004</xref>, <xref rid="pbi12979-bib-0026" ref-type="ref">2008</xref>; Hsu and Tung, <xref rid="pbi12979-bib-0034" ref-type="ref">2015</xref>; Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0043" ref-type="ref">2013</xref>; Miura <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0048" ref-type="ref">2002</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0060" ref-type="ref">2010</xref>, <xref rid="pbi12979-bib-0061" ref-type="ref">2011</xref>). Of those, several QTLs for germination speed are likely to coincide with QTLs for seed weight, seed size and seed dormancy in rice (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0060" ref-type="ref">2010</xref>). The first clone&#x02010;related QTL, <italic>qLTG3&#x02010;1</italic>, which controls germination speed under various conditions, is tightly associated with vacuolation of tissues covering the embryo (Fujino <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0026" ref-type="ref">2008</xref>); <italic>qLTG3&#x02010;1</italic> plays an important role in the weakening of seed tissues during germination through programmed cell death (Fujino and Matsuda, <xref rid="pbi12979-bib-0024" ref-type="ref">2010</xref>). The second clone&#x02010;related QTL <italic>Sdr4</italic> is associated with seed dormancy, which is positively regulated by <italic>OsVP1</italic> in rice (Sugimoto <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0058" ref-type="ref">2010</xref>). <italic>OsVP1</italic> is orthologous to <italic>Arabidopsis ABI3</italic>, which is a central component of the abscisic acid (ABA) signalling pathway during seed germination (Graeber <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0030" ref-type="ref">2012</xref>; Holdsworth <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0033" ref-type="ref">2008</xref>). The gibberellin (GA) biosynthesis&#x02010;related gene <italic>OsGA20ox1</italic> has been reported as a candidate gene for a major QTL controlling seedling vigour (Abe <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0001" ref-type="ref">2012</xref>). It is widely accepted that the balance between ABA and GA is important for seed germination (Graeber <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0030" ref-type="ref">2012</xref>; Nambara <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0050" ref-type="ref">2010</xref>). These results suggest that germination speed is associated with seed weight, size and seed dormancy and is also influenced by endosperm weakening, hormones and storage metabolism (Bethke <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0008" ref-type="ref">2007</xref>; Catusse <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0013" ref-type="ref">2008</xref>; Fait <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0021" ref-type="ref">2006</xref>).</p><p>Seed germination and subsequent seedling growth need large amounts of energy and nutrition, which are provided only by seed reserves, because the germinating seeds lack a mineral uptake system and photosynthetic apparatus (Bewley, <xref rid="pbi12979-bib-0009" ref-type="ref">1997</xref>). When quiescent dry seeds imbibe water, their oxygen uptake increases (Pergo and Ishii&#x02010;Iwamoto, <xref rid="pbi12979-bib-0053" ref-type="ref">2011</xref>) and three respiratory pathways, including glycolysis, pentose phosphate pathway and tricarboxylic acid (TCA) cycle, are activated in the imbibed seeds (Bewley <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0010" ref-type="ref">2013</xref>). Glycolysis operates under aerobic and anaerobic conditions to produce pyruvate. In the presence of O<sub>2</sub>, further utilization of pyruvate occurs within the mitochondria; that is, oxidative decarboxylation of pyruvate produces acetyl&#x02010;CoA, which is completely oxidized to CO<sub>2</sub> and water via the TCA cycle to yield up to 30 ATP molecules per glucose molecule respired (Bewley <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0010" ref-type="ref">2013</xref>). In the glycolysis pathway, glyceraldehyde&#x02010;3&#x02010;phosphate (Gly&#x02010;3&#x02010;P) dehydrogenase (Gly&#x02010;3&#x02010;PDH) converts Gly&#x02010;3&#x02010;P into 1,3&#x02010;bisphosphoglycerate, and pyruvate dehydrogenase converts pyruvate into acetyl&#x02010;CoA (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0064" ref-type="ref">2016a</xref>). Accumulation of glycolytic enzymes in several species, such as Gly&#x02010;3&#x02010;PDH (Han <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0031" ref-type="ref">2014</xref>; Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0037" ref-type="ref">2009</xref>) and pyruvate dehydrogenase (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0036" ref-type="ref">2008</xref>) in rice, fructose&#x02010;1,6&#x02010;bisphosphatase in <italic>Arabidopsis</italic> (Rajjou <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0054" ref-type="ref">2008</xref>), and Gly&#x02010;3&#x02010;PDH in sugar beet (Catusse <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0014" ref-type="ref">2011</xref>) and <italic>Arabidopsis</italic> (Rajjou <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0054" ref-type="ref">2008</xref>), is positively correlated with seed vigour. Taken together, these results indicate that glycolysis and TCA cycle provide most of the energy for seed germination.</p><p>Amino acids are not only used for the synthesis of storage proteins but are also catabolized for the TCA cycle to generate energy (Galili <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0028" ref-type="ref">2014</xref>). Leucine (Leu) is one of the essential branched&#x02010;chain amino acids (BCAA; leucine, valine and isoleucine), serving as an alternative energy source for mammals (Harper <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0032" ref-type="ref">1984</xref>) and plants (Binder, <xref rid="pbi12979-bib-0012" ref-type="ref">2010</xref>). For example, Leu promotes energy metabolism (glucose uptake, mitochondrial biogenesis and fatty acid oxidation) for improving protein synthesis while inhibiting protein degradation in mammals (Duan <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0020" ref-type="ref">2016</xref>). Catabolism of Leu produces energy&#x02010;rich intermediates, such as acetyl&#x02010;CoA and propionyl&#x02010;CoA (Anderson <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0002" ref-type="ref">1998</xref>). Similarly, BCAA degradation provides energy for seed germination at the early stage in <italic>Arabidopsis</italic> (Ding <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0019" ref-type="ref">2012</xref>; Gipson <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0029" ref-type="ref">2017</xref>). &#x003b1;&#x02010;Isopropylmalate synthase (IPMS) catalyses the committed step of Leu biosynthesis, that is converting acetyl&#x02010;CoA and &#x003b1;&#x02010;ketoisovalerate into &#x003b1;&#x02010;isopropylmalate (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0068" ref-type="ref">2014</xref>). Overexpression of the IPMS gene (<italic>BatIMS</italic>) from <italic>Brassica</italic> in <italic>Arabidopsis</italic> resulted in plants with an aberrant phenotype, perturbed amino acid metabolism and enhanced levels of glucosinolates (Field <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0022" ref-type="ref">2006</xref>). A knockout insertion mutant of <italic>Arabidopsis</italic> for <italic>IPMS1</italic> demonstrated an increase in Val levels but no changes in Leu levels; two insertion mutants for <italic>IPMS2</italic> did not show any changes in the soluble amino acid levels (de Kraker <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0041" ref-type="ref">2007</xref>). Recently, proteomic analysis indicated that IPMS involved in seed dormancy release in rice (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0065" ref-type="ref">2016b</xref>).</p><p>The activation of amino acid biosynthesis and/or recycling pathways is essential for seed germination (Arc <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0006" ref-type="ref">2012</xref>). Ketogenic amino acid, for example Leu, isoleucine (Ile), lysine (Lys), phenylalanine (Phe), tryptophan (Trp), tyrosine (Tyr) and threonine (Thr), can be degraded directly into acetyl&#x02010;CoA, which is the precursor for GA biosynthesis via hydroxymethylglutaryl&#x02010;CoA (Rios&#x02010;Iribe <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0055" ref-type="ref">2011</xref>). It suggests that Lue facilitating not only energy production but also GA biosynthesis in germinating seeds might be important for seed germination. In this study, rice isopropylmalate synthase <italic>OsIPMS1</italic> was cloned, and its effect on seed vigour was mainly investigated. Disruption of <italic>OsIPMS1</italic> resulted in low seed vigour under various conditions, which might be tightly associated with the reduction of amino acid biosynthesis in germinating seeds. The amino acids that associated with stress tolerance, GA biosynthesis and TCA cycle were significantly reduced in <italic>osipms1</italic> mutants compared to wide type (WT) during seed germination. After that, the glycolytic activity and energy levels were significantly decreased in germinating seeds of <italic>osipms1</italic> mutants, resulting low seed vigour in <italic>osipms1</italic> mutants. Our results indicated that the <italic>OsIPMS1</italic> gene might be used to determine the best stop time&#x02010;point of seed priming in rice.</p></sec><sec id="pbi12979-sec-0002"><title>Results</title><sec id="pbi12979-sec-0003"><title>Characterization of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic>
+</title><p>Two IPMS genes located on chromosomes 11 and 12 are found in rice. We renamed these two genes as follows: LOC_Os11g04670.1, <italic>OsIPMS1</italic> and LOC_Os12g04440.1, <italic>OsIPMS</italic>2. OsIPMS1 and OsIPMS2 were predicted to contain approximately 635 amino acids, each, which includes an N&#x02010;terminal catalytic region and a C&#x02010;terminal allosteric regulatory domain (Figure&#x000a0;<xref rid="pbi12979-sup-0001" ref-type="supplementary-material">S1</xref>a). The phylogenetic tree indicated that the closer genetic relationships of IPMS exist among rice, maize and sorghum; bootstrap value is approximately 70% at branch point (Figure&#x000a0;<xref rid="pbi12979-sup-0001" ref-type="supplementary-material">S1</xref>b). The sequence showed 99% amino acid identity between OsIPMS1 and OsIPMS2 (Figure&#x000a0;<xref rid="pbi12979-sup-0002" ref-type="supplementary-material">S2</xref>), suggesting that these two genes may behave similar functions.</p><p>Isopropylmalate synthase catalyses the committed step of Leu biosynthesis, and it is subject to Leu feedback inhibition (Figure&#x000a0;<xref rid="pbi12979-fig-0001" ref-type="fig">1</xref>a). To test whether OsIPMS1 and OsIPMS2 regulate IPMS activity, the proteins of OsIPMS1 and OsIPMS2 were expressed and extracted (Figure&#x000a0;<xref rid="pbi12979-fig-0001" ref-type="fig">1</xref>b). The output of CoASH was increased with the reaction, which indicated that the OsIPMS1 and OsIPMS2 convert acetyl&#x02010;CoA and &#x003b1;&#x02010;ketoisovalerate into 2&#x02010;isopropylmalate and CoASH (Figure&#x000a0;<xref rid="pbi12979-fig-0001" ref-type="fig">1</xref>c,d). OsIPMS1 and OsIPMS2 activities were significantly declined with the increasing concentrations of Leu (Figure&#x000a0;<xref rid="pbi12979-fig-0001" ref-type="fig">1</xref>e,f), suggesting that the OsIPMS1 and OsIPMS2 enzymes are subject to Leu feedback inhibition.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Activities of Os<styled-content style="fixed-case">IPMS</styled-content>1 and Os<styled-content style="fixed-case">IPMS</styled-content>2 in rice. (a) Pathway for Leu biosynthesis. (b) Purification of the expressed <styled-content style="fixed-case">GST</styled-content>&#x02010;Tag Os<styled-content style="fixed-case">IPMS</styled-content>1 and Os<styled-content style="fixed-case">IPMS</styled-content>2&#x000a0;protein. (c, d) Os<styled-content style="fixed-case">IPMS</styled-content>1 and Os<styled-content style="fixed-case">IPMS</styled-content>2 activities were identified by directly measuring absorbance at 412&#x000a0;nm. (e,f) The activities of Os<styled-content style="fixed-case">IPMS</styled-content>1 and&#x000a0;Os<styled-content style="fixed-case">IPMS</styled-content>2 are subjected to Leu feedback inhibition. ** indicates the significant difference at 1% level.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-17-322-g001"/></fig></sec><sec id="pbi12979-sec-0004"><title>Expression pattern of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic>
+</title><p>Based on the publicly available microarray database ( <ext-link ext-link-type="uri" xlink:href="http://www.genevestigator.com">http://www.genevestigator.com</ext-link>), the higher transcript abundances of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> were observed at all of the developmental stages and in various tissues (Figure&#x000a0;<xref rid="pbi12979-fig-0002" ref-type="fig">2</xref>a,b). To expand our understanding of the physiological function of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic>, the expression patterns of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> during seed development and seed germination were further analysed using qRT&#x02010;PCR approach. Transcripts of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> were significantly increased in the filling grain from 0 to 7&#x000a0;days after flowering (DAF) and then sharply decreased after the 14th DAF (Figure&#x000a0;<xref rid="pbi12979-fig-0002" ref-type="fig">2</xref>c). Additionally, the transcript levels of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> were slightly altered during the 4&#x02010; to 36&#x02010;h imbibition stage; however, the transcript was strongly detected at 48&#x02010;h imbibition when seeds begin germinating (Figure&#x000a0;<xref rid="pbi12979-fig-0002" ref-type="fig">2</xref>d). Similar spatial&#x02010;temporal expression patterns were observed in <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic>, suggesting both genes might behave similar functions in seed germination of rice.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Expression patterns of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">IPMS</styled-content>2</italic> in rice. Expression pattern of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">IPMS</styled-content>2</italic> in various developmental stages (a) and tissues (b) of rice based on the publicly available microarray data ( <ext-link ext-link-type="uri" xlink:href="http://www.genevestigator.com">http://www.genevestigator.com</ext-link>). Transcription levels of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">IPMS</styled-content>2</italic> in filling&#x000a0;grains (c) and germinating seeds (d) were conducted using <styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> approach. The expression of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> and <italic>Os<styled-content style="fixed-case">IPMS</styled-content>2</italic> was normalized to that of <italic>OsActin</italic> gene control. The relative expression levels were represented by fold change relative to the expression level of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> at 0 <styled-content style="fixed-case">DAF</styled-content> (c) or 4&#x02010;h imbibition stage (d). Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-17-322-g002"/></fig></sec><sec id="pbi12979-sec-0005"><title>Disruption of <italic>OsIPMS1</italic> resulted in low seed vigour under various conditions</title><p>To study the role of <italic>OsIPMS1</italic> on seed vigour, a T&#x02010;DNA mutant <italic>osipms1</italic> was subsequently obtained from Rice Mutant Database ( <ext-link ext-link-type="uri" xlink:href="http://rmd.ncpgr.cn/">http://rmd.ncpgr.cn/</ext-link>; Miyao <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0049" ref-type="ref">2003</xref>). The T&#x02010;DNA insertion was located in the sixth intron of <italic>OsIPMS1</italic> (Figure&#x000a0;<xref rid="pbi12979-fig-0003" ref-type="fig">3</xref>a). Using specified primer sets (Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>), a homozygous insertion mutant individual was isolated and named <italic>osipms1a</italic>. Furthermore, RT&#x02010;PCR analysis demonstrated that the T&#x02010;DNA insertion resulted in a complete suppression of <italic>OsIPMS1</italic> expression in the <italic>osipms1a</italic> mutant (Figure&#x000a0;<xref rid="pbi12979-fig-0003" ref-type="fig">3</xref>b). To further confirm OsIPMS1 function, we employed the CRISPR/Cas9 system to generate mutants, which were named <italic>osipms1b</italic> and <italic>osipms1c</italic>. The <italic>osipms1b</italic> and <italic>osipms1c</italic> mutant plants contained a &#x02018;T&#x02019; and &#x02018;G&#x02019; insertion in the first exon of <italic>OsIPMS1</italic> (Figure&#x000a0;<xref rid="pbi12979-fig-0003" ref-type="fig">3</xref>c). The levels of <italic>OsIPMS1</italic> expression were much lower in <italic>osipms1b</italic> and <italic>osipms1c</italic> mutants than those in WT plants (Figure&#x000a0;<xref rid="pbi12979-sup-0003" ref-type="supplementary-material">S3</xref>a). The amino acid sequence of OsIPMS1, predicted based on these nucleotide sequences, contains only 172 amino acids in <italic>osipms1b</italic> and <italic>osipms1c</italic> and is caused by premature termination (Figure&#x000a0;<xref rid="pbi12979-sup-0003" ref-type="supplementary-material">S3</xref>b). These results indicate that the <italic>osipms1b</italic> and <italic>osipms1c</italic> mutant lines lacked OsIPMS1. The progeny of these homozygous mutants were used in subsequent experiments.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Comparison of seed germination between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants under normal conditions. (a) Gene structure of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> with a T&#x02010;<styled-content style="fixed-case">DNA</styled-content> insertion and locations of the primers used for <styled-content style="fixed-case">PCR</styled-content> analysis. Triangle represents the T&#x02010;<styled-content style="fixed-case">DNA</styled-content>. Green and white boxes represent exons and <styled-content style="fixed-case">UTR</styled-content> of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic>, respectively. Solid lines represent introns. F, R and T&#x02010;<styled-content style="fixed-case">DNA</styled-content>&#x02010;F primers used for genotyping <styled-content style="fixed-case">PCR</styled-content>. (b) <styled-content style="fixed-case">PCR</styled-content> of genomic <styled-content style="fixed-case">DNA</styled-content> from <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1a</italic>. <styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> analysis of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> in <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1a</italic> seeds. The expression of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> was normalized to that of <italic>OsActin</italic> gene control. The relative expression levels were represented by fold change relative to the expression level of <styled-content style="fixed-case">WT</styled-content>. (c) One nucleotide was added in the <italic>osipms1b</italic> and <italic>osipms1c</italic> mutants and produced a premature stop. (d) Seed germination of <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants after 3 and 5&#x000a0;days. Bars&#x000a0;=&#x000a0;10&#x000a0;mm. (e) germination potential; (f) time to 50% germination percentage; (g) germination index; (h) length of shoots and roots; (i) fresh weight of shoots and roots; (j) dry weight of shoots and roots. Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. * and ** indicate the significant difference compared to <styled-content style="fixed-case">WT</styled-content> at 5% and 1% levels, respectively. n.s. represents not significant.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-17-322-g003"/></fig><p>Phenotype evaluation demonstrated that the disruption of <italic>OsIPMS1</italic> resulted in low germination speed and seedling growth under various conditions. The GP and GI of mutant lines (<italic>osipms1a</italic>,<italic> osipms1b</italic> and <italic>osipms1c</italic>) were significantly reduced while T<sub>50</sub> was significantly increased compared to those of WT plants under normal conditions (Figure&#x000a0;<xref rid="pbi12979-fig-0003" ref-type="fig">3</xref>d&#x02013;g). The early seedling growth, including the length, fresh and dry weight of shoots and roots, in mutants were also significantly reduced compared with those of WT plants (Figure&#x000a0;<xref rid="pbi12979-fig-0003" ref-type="fig">3</xref>h&#x02013;j). Similar results were observed in the <italic>osipms1</italic> mutant lines under salt, drought and cold stress conditions (Figure&#x000a0;<xref rid="pbi12979-sup-0004" ref-type="supplementary-material">S4</xref>). Moreover, seedling emergence and seedling growth were significantly decreased in <italic>osipms1</italic> mutant lines compared to those in WT plants under the direct&#x02010;seeding method in soils (Figure&#x000a0;<xref rid="pbi12979-sup-0005" ref-type="supplementary-material">S5</xref>). Similarly, the significant decreases in germination speed and seedling growth were also observed in <italic>osipms2</italic> mutant lines compared to those in WT plants under normal condition (Figure&#x000a0;<xref rid="pbi12979-sup-0006" ref-type="supplementary-material">S6</xref>). It further confirmed that <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> might behave the similar functions in seed germination. Here, the following analyses were mainly focused on the physiological roles of <italic>OsIPMS1</italic> in seed vigour.</p></sec><sec id="pbi12979-sec-0006"><title>
+<italic>OsIPMS1</italic> increased amino acid biosynthesis during seed germination</title><p>We predicted that the disruption of <italic>OsIPMS1</italic> affects amino acid biosynthesis due to its effect on the IPMS enzyme through Lue biosynthesis. Therefore, the levels of free amino acids in <italic>osipms1</italic> mutants (<italic>osipms1a</italic>,<italic> osipms1b</italic> and <italic>osipms1c</italic>) and WT lines were measured during seed germination (Figure&#x000a0;<xref rid="pbi12979-fig-0004" ref-type="fig">4</xref>). By comparison, the levels of amino acids Thr and cysteine (Cys) were significantly increased in mature unstratified seeds of <italic>osipms1</italic> mutants compared to those in WT plants. However, the decreases in amino acid levels were generally observed in <italic>osipms1</italic> mutants compared to the levels in WT plants during seed germination. In which, the levels of eleven amino acids were significantly decreased in 60&#x02010;h imbibed seeds of three <italic>osipms1</italic> mutants simultaneously compared to the levels in WT plants. Approximately 10%&#x02013;50% lower levels of Leu, Ile, Phe, Tyr, Thr, Cys, serine (Ser), glycine (Gly), valine (Val), histidine (His) and proline (Pro) were observed in mutants than those in WT plants.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Comparison of amino acid levels between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants during seed germination. Each point represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. * and ** indicate the significant difference compared to <styled-content style="fixed-case">WT</styled-content> at 5% and 1% levels, respectively.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-17-322-g004"/></fig><p>Overall, the levels of all amino acids were progressively enhanced during seed germination, wherein the amino acids might be used for the synthesis of proteins, hormones and energy for seed germination at the early stages. Higher levels of eleven amino acids in the WT might contribute towards seed germination and vigorous seedling growth in this study. To confirm this hypothesis, the effects of 10&#x000a0;m<sc>m</sc> amino acids, including Leu, Ile, Phe, Ser, Gly and Val, treatment on seed germination of <italic>osipms1</italic> mutants were determined. We observed that seedling growth of <italic>osipms1</italic> mutants was nearly rescued by exogenous application of amino acids compared to that in WT plants (Figure&#x000a0;<xref rid="pbi12979-fig-0005" ref-type="fig">5</xref>a). Meanwhile, the root lengths of three <italic>osipms1</italic> mutants were significantly increased by amino acids treatment compared to those in untreated seeds (Figure&#x000a0;<xref rid="pbi12979-fig-0005" ref-type="fig">5</xref>b&#x02013;e). Ketogenic amino acid, for example Leu, Ile, and Phe, can be degraded directly into acetyl&#x02010;CoA for GA biosynthesis (Rios&#x02010;Iribe <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0055" ref-type="ref">2011</xref>). Here, we predicted that amino acid treatment contributing to seed vigour of <italic>osipms1</italic> mutants might be through stimulating GA biosynthesis during seed germination. Expectedly, the expressions of GA biosynthesis&#x02010;related genes in <italic>osipms1</italic> mutants were significantly increased after amino acid treatment compared with those in the control (Figure&#x000a0;<xref rid="pbi12979-sup-0007" ref-type="supplementary-material">S7</xref>). These results suggest that the regulation of <italic>OsIPMS1</italic> on seed germination might be through altering amino acids associated with GA biosynthesis in germinating seeds.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Comparison of seedling growth between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants under amino acids treatments. (a) Seedling growth in <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants under normal and amino acids treatment conditions for 5&#x000a0;days. Bars&#x000a0;=&#x000a0;10&#x000a0;mm. Comparison of shoot and root length between normal and amino&#x000a0;acids treatment in <styled-content style="fixed-case">WT</styled-content> (b) and <italic>osipms1</italic> mutants (c, d, e). Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. ** indicates the significant&#x000a0;difference compared to normal condition at 1% level. n.s. represents not significant.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-17-322-g005"/></fig></sec><sec id="pbi12979-sec-0007"><title>Disruption of <italic>OsIPMS1</italic> altered gene expression during seed germination</title><p>To further understand the <italic>OsIPMS1</italic> function, genomewide transcriptional levels were compared between <italic>osipms1a</italic> and WT at the 8&#x02010;h imbibition stage. A total of 1209 differentially expressed genes (DEGs) were identified between <italic>osipms1a</italic> and WT (Figure&#x000a0;<xref rid="pbi12979-sup-0008" ref-type="supplementary-material">S8</xref>; Table&#x000a0;<xref rid="pbi12979-sup-0012" ref-type="supplementary-material">S2</xref>). Of those, 424 and 785 genes were significantly up&#x02010;regulated and down&#x02010;regulated, respectively, in <italic>osipms1a</italic> compared to WT. GO and KEGG pathway categories of DEGs were examined. Most overrepresented GO categories were classified as biological processes, including single&#x02010;organism process, single&#x02010;organism metabolic process and carbohydrate metabolic process (Figure&#x000a0;<xref rid="pbi12979-sup-0008" ref-type="supplementary-material">S8</xref>). Most overrepresented KEGG pathway categories were related to glycolysis/gluconeogenesis, protein processing and carbon, pyruvate and fructose metabolism, etc (Table&#x000a0;<xref rid="pbi12979-sup-0013" ref-type="supplementary-material">S3</xref>). Of these, 27 and 31 genes were associated with glycolysis/gluconeogenesis and proteins processing, respectively, and 13 and 29 genes were associated with pyruvate and carbon metabolism.</p><p>GO and KEGG analysis indicated that the altering of glycolysis process is an important factor in <italic>OsIPMS1</italic> regulation of seed germination. To confirm this hypothesis, qRT&#x02010;PCR was used to determine the transcript levels of <italic>OsPFK</italic> and <italic>OsPK</italic> genes, which are two key regulated genes in glycolysis (Figure&#x000a0;<xref rid="pbi12979-fig-0006" ref-type="fig">6</xref>a). Consistent alterations in the levels of these genes were observed through RNA sequencing and qRT&#x02010;PCR approaches. The transcripts of <italic>OsPKs</italic>,<italic> OsPFKs</italic> and <italic>OsPEPCK</italic> were significantly reduced in <italic>osipms1</italic> compared to those in WT at 8&#x02010;h seed germination stage (Figure&#x000a0;<xref rid="pbi12979-fig-0006" ref-type="fig">6</xref>b). These data suggest that germination regulated by <italic>OsIPMS1</italic> is tightly associated with glycolytic metabolism.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>
+<italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> altering expression of genes involved in glycolysis. (a) Differentially expressed genes (<styled-content style="fixed-case">DEG</styled-content>s) involved in glycolysis. (b) Comparison of <italic>Os<styled-content style="fixed-case">PK</styled-content>s</italic>,<italic> Os<styled-content style="fixed-case">PFK</styled-content>s</italic> and <italic>Os<styled-content style="fixed-case">PEPCK</styled-content></italic> expression between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> at 8&#x02010;h imbibition stage using <styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> approach. The expression of genes was normalized to that of <italic>OsActin</italic> gene control. The relative expression levels were represented by fold change relative to the expression level of <styled-content style="fixed-case">WT</styled-content>. Each metabolism column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. ** indicates the significant difference compared to <styled-content style="fixed-case">WT</styled-content> at 1% level. n.s. represents not significant.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-17-322-g006"/></fig></sec><sec id="pbi12979-sec-0008"><title>
+<italic>OsIPMS1</italic> enhanced starch mobilization during seed germination</title><p>Imbibition is the critical first step to induce starch hydrolysis for glycolysis during seed germination. Therefore, dynamic imbibition was compared between mutants and WT during seed germination (Figure&#x000a0;<xref rid="pbi12979-sup-0009" ref-type="supplementary-material">S9</xref>a). A significant decrease in the imbibition rate was only observed at the seed germinating stage (60&#x000a0;h) when the radicle protruded in mutants compared to that of WT. This outcome suggests that the altering of germination by <italic>OsIPMS1</italic> is not through the influence of imbibition rate at the early germination stage. The initial imbibition is primarily affected by protein and starch levels in mature seeds. We observed that there were no significant differences in total protein and starch levels in mature seeds of mutants compared to those in WT, whereas the total soluble sugar levels were significantly decreased in mutants (Figure&#x000a0;<xref rid="pbi12979-sup-0009" ref-type="supplementary-material">S9</xref>b&#x02013;d). These results indicate that the disruption of <italic>OsIPMS1</italic> reduced seed vigour might be partly due to decreasing total soluble sugar levels in mature seeds.</p><p>Starch hydrolysis by amylase is an important contributing factor for seed germination and vigorous seedling growth. The &#x003b1;&#x02010;amylase biosynthesis is induced by GA during seed germination. As described above, the amino acids associated with GA biosynthesis, including Leu, Ile, Phe, Thr and Tyr, were significantly reduced in three <italic>osipms1</italic> mutants compared to those in WT; the treatment of amino acid can increase the expression of GA biosynthesis&#x02010;related genes in germinating seeds of <italic>osipms1</italic> mutants. Thus, we predicted that GA biosynthesis might be regulated by <italic>OsIPMS1</italic> in germinating seeds. Expectedly, the levels of GA<sub>3</sub> were significantly reduced in <italic>osipms1</italic> mutants compared to those in WT during seed germination (Figure&#x000a0;<xref rid="pbi12979-fig-0007" ref-type="fig">7</xref>a). The expressions of GA biosynthesis&#x02010;related genes, including <italic>OsKS</italic>,<italic> OsKO</italic> and <italic>OsGA20ox1</italic>, were significant decreased in <italic>osipms1</italic> mutants compared with those in WT (Figure&#x000a0;<xref rid="pbi12979-fig-0007" ref-type="fig">7</xref>b,c). It was also confirmed by the analysis of GA<sub>3</sub> treatments on seed germination of <italic>osipms1</italic> mutants. We observed that seedling growth of <italic>osipms1</italic> mutants was nearly rescued by exogenous application of GA<sub>3</sub> compared to those in WT (Figure&#x000a0;<xref rid="pbi12979-fig-0007" ref-type="fig">7</xref>d,e,f). Furthermore, we observed that the activities of &#x003b1;&#x02010;amylase and &#x003b2;&#x02010;amylase (Figure&#x000a0;<xref rid="pbi12979-fig-0008" ref-type="fig">8</xref>a,b), and the levels of glucose and fructose were generally and significantly lower in mutants than those in WT during seed germination (Figure&#x000a0;<xref rid="pbi12979-fig-0008" ref-type="fig">8</xref>c,d). These results indicate that <italic>OsIPMS1</italic> regulates seed vigour might be through altering starch hydrolysis in germinating seeds.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>
+<italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> altering seedling growth involved in <styled-content style="fixed-case">GA</styled-content> biosynthesis. (a) <styled-content style="fixed-case">GA</styled-content>
+<sub>3</sub> content in <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants during seed germination. (b) General overview of <styled-content style="fixed-case">GA</styled-content> biosynthesis pathway in rice according to previous reports. (c) Relative expression levels of <styled-content style="fixed-case">GA</styled-content> biosynthesis&#x02010;related genes in germinating seeds. The expression of genes was normalized to that of <italic>OsActin</italic> gene control. The relative expression levels were represented by fold change relative to the expression level of <italic>Os<styled-content style="fixed-case">KAO</styled-content></italic> in <styled-content style="fixed-case">WT</styled-content>. (d) Seedling growth in <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants under normal and <styled-content style="fixed-case">GA</styled-content>
+<sub>3</sub> treatment conditions for 5&#x000a0;days. Bars&#x000a0;=&#x000a0;10&#x000a0;mm. Comparison of shoot length (e) and root length (f) between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants under normal and <styled-content style="fixed-case">GA</styled-content>
+<sub>3</sub> treatment conditions. Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. * and ** indicate the significant difference compared to <styled-content style="fixed-case">WT</styled-content> at 5% and 1% levels, respectively. n.s. represents not significant.</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-17-322-g007"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Comparison of starch mobilization between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants during seed germination. (a) &#x003b1;&#x02010;amylase activity; (b) &#x003b2;&#x02010;amylase activity;&#x000a0;(c)&#x000a0;glucose content; (d) fructose content. Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. * and ** indicate the significant difference compared to <styled-content style="fixed-case">WT</styled-content> at 5% and 1% levels, respectively. n.s. represents not significant.</p></caption><graphic id="nlm-graphic-15" xlink:href="PBI-17-322-g008"/></fig></sec><sec id="pbi12979-sec-0009"><title>
+<italic>OsIPMS1</italic> improved glycolytic activity and ATP level during seed germination</title><p>To further examine the regulation of glycolytic activity by <italic>OsIPMS1</italic>, the intermediate metabolites of glycolysis were assayed during seed germination. Generally, the levels of pyruvate and acetyl&#x02010;CoA were significantly decreased in <italic>osipms1</italic> mutants compared to those in WT (Figure&#x000a0;<xref rid="pbi12979-fig-0009" ref-type="fig">9</xref>a,b). This outcome suggests that glycolytic activity was reduced in <italic>osipms1</italic> mutants compared to that in WT. The intermediate metabolites of glycolysis are associated with energy production during seed germination. We observed that the levels of ATP, AMP and energy charge were significantly reduced in <italic>osipms1</italic> mutants compared to those in WT during seed germination (Figure&#x000a0;<xref rid="pbi12979-fig-0009" ref-type="fig">9</xref>c&#x02013;f). Notably, the ATP and AMP levels in <italic>osipms1</italic> mutants were decreased by approximately 50% compared to those in WT at the late germination stage (48 and 60&#x000a0;h). These results further demonstrate that <italic>OsIPMS1</italic> is involved in the regulation of glycolysis and energy production during seed germination.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Comparison of glycolytic activity and energy levels between <styled-content style="fixed-case">WT</styled-content> and <italic>osipms1</italic> mutants during seed germination. (a) pyruvate acid content; (b)&#x000a0;acetyl&#x02010;CoA content; (c) <styled-content style="fixed-case">ATP</styled-content> content; (d) <styled-content style="fixed-case">ADP</styled-content> content; (e) <styled-content style="fixed-case">AMP</styled-content> content; (f) energy charge. Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. *&#x000a0;and ** indicate the significant difference compared to <styled-content style="fixed-case">WT</styled-content> at 5% and 1% levels, respectively. n.s. represents not significant.</p></caption><graphic id="nlm-graphic-17" xlink:href="PBI-17-322-g009"/></fig></sec><sec id="pbi12979-sec-0010"><title>Application of <italic>OsIPMS1</italic> for seed priming</title><p>Seed priming is a technique used to improve seed vigour, which allows imbibition to a certain extent but prevents radicle emergence. Thus, an important requirement for successful seed priming is to stop the priming treatment and dehydrate the seed at the right moment (Paparella <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0051" ref-type="ref">2015</xref>). To determine whether <italic>OsIPMS1</italic> expression influencing priming effect, the different duration of priming treatments were conducted and compared between <italic>osipms1</italic> mutants and WT. The significant higher GI and lower T<sub>50</sub> were observed in 12&#x02010;h primed seeds compared to those in unprimed seeds (0&#x000a0;h) in WT plants (Figure&#x000a0;<xref rid="pbi12979-sup-0010" ref-type="supplementary-material">S10</xref>). Less adverse effects of priming were observed in 24&#x02010; and 36&#x02010;h primed seeds in WT; however, the adverse effects of priming were observed in 12&#x02010;, 24&#x02010; and 36&#x02010;h primed seeds in <italic>osipms1</italic> mutants. Generally, the significant lower GP, GI and SP but higher T<sub>50</sub> were observed in 12&#x02010;, 24&#x02010; and 36&#x02010;h primed seeds in <italic>osipms1</italic> mutants compared to those in unprimed seeds. It suggests that the disruption of <italic>OsIPMS1</italic> will reduce the priming effects in rice.</p><p>To further determine the correlation between priming effects and the mRNA levels of <italic>OsIPMS1</italic> during seed priming, various durations of priming treatments were conducted using rice cv. Ningdao NO.1 and Wuyungeng NO.7. Generally, the better seedling growth was observed in 4&#x02010;, 8&#x02010; and 12&#x02010;h primed seeds compared to that in unprimed seeds, but the adverse effects of priming were observed during 18&#x02010; to 36&#x02010;h priming treatments (Figure&#x000a0;<xref rid="pbi12979-fig-0010" ref-type="fig">10</xref>a). The significant decreases in GP, SP and seedling growth were observed in 24&#x02010;, 30&#x02010; and 36&#x02010;h primed seeds compared to those in unprimed seeds (Figure&#x000a0;<xref rid="pbi12979-fig-0010" ref-type="fig">10</xref>a&#x02013;c). By comparison, the best priming effects, including GP, SP and seedling growth, were observed in 8&#x02010;h primed seeds in both rice varieties. qRT&#x02010;PCR analysis showed that the relative higher mRNA levels of <italic>OsIPMS1</italic> were observed in 4&#x02010; and 8&#x02010;h priming seeds, but the mRNA levels were significantly reduced in seeds after 12&#x02010;h priming treatments (Figure&#x000a0;<xref rid="pbi12979-fig-0010" ref-type="fig">10</xref>d,e). These results suggest that the best stop time&#x02010;point of seed priming might be at the time before the mRNA levels of <italic>OsIPMS1</italic> significantly reduced in priming seeds.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0010" orientation="portrait" position="float"><label>Figure 10</label><caption><p>Relationship between priming effects and <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> expression in primed seeds of rice Ningdao <styled-content style="fixed-case">NO</styled-content>.1 and Wuyungeng <styled-content style="fixed-case">NO</styled-content>.7. (a) Comparison of&#x000a0;seedling growth among various durations of priming treatments. Bars&#x000a0;=&#x000a0;10&#x000a0;mm. (b) germination potential; (c) seedling percentage. (d,e) Transcription levels of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> during the priming process. The expression of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> was normalized to that of <italic>OsActin</italic> gene control. The relative expression levels&#x000a0;were represented by fold change relative to the expression level of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> at 4&#x02010;h priming stage. Each column represents the means&#x000a0;&#x000b1;&#x000a0;standard deviation. Different lowercase letters represent significant difference at 5% level.</p></caption><graphic id="nlm-graphic-19" xlink:href="PBI-17-322-g010"/></fig></sec></sec><sec id="pbi12979-sec-0011"><title>Discussion</title><p>Seed vigour is an important agronomic trait that consists of seed longevity, germination and seedling growth, etc. However, the trait of seed vigour has not been selected in conventional breeding due to its complex nature and quantitative inheritance in rice. Identification and utilization of vigour&#x02010;related genes are important for the improvement of seed vigour in rice. Previous studies demonstrated that IPMS catalyses the committed step of Leu biosynthesis (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0068" ref-type="ref">2014</xref>). There have been few reports regarding the phenotype of <italic>IPMS</italic> disruption in plants (Field <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0022" ref-type="ref">2006</xref>). The present study demonstrated that the disruption of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> reduced seed vigour in rice. To the best of our knowledge, this is the first report highlighting the involvement of <italic>IPMS</italic> regulation in seed vigour of plants. The roles of <italic>OsIPMS1</italic> influencing seed germination were analysed in this study, and the application of <italic>OsIPMS1</italic> as a biomarker for seed priming was also discussed in rice.</p><p>Isopropylmalate synthase contains two core domains &#x02013; an N&#x02010;terminal catalytic region and a C&#x02010;terminal allosteric regulatory domain &#x02013; which mediate Leu feedback inhibition in plants and bacteria (de Kraker and Gershenzon, <xref rid="pbi12979-bib-0040" ref-type="ref">2011</xref>). Similar results were observed in this study. OsIPMS1 and OsIPMS2 catalyse Leu biosynthesis, and generally their IPMS activities were gradually inhibited with the increase in Leu concentration in rice. However, the OsIPMS2 activity was activated by 2&#x000a0;m<sc>m</sc> Leu treatment in this study, which similar with the observation in <italic>Arabidopsis</italic> (de Kraker <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0041" ref-type="ref">2007</xref>). OsIPMS1 and OsIPMS2 might have similar but not identical biochemical characteristics, and this prediction need to be further confirmed. We observed that eleven amino acids, including Leu and Val, were significantly decreased in the three <italic>osipms1</italic> mutants during seed germination. This outcome was in contrast to the results involving <italic>Arabidopsis</italic>, wherein the <italic>IPMS1</italic> mutant showed an increase in the Val levels but no changes in the Leu levels (de Kraker <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0041" ref-type="ref">2007</xref>). Moreover, the decreases in soluble sugars in mature seeds were observed in <italic>osipms1</italic> mutants compared to that in WT in this study. Soluble sugars, for example glucose and sucrose, serve as the primary energy source for seed germination (Ding <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0019" ref-type="ref">2012</xref>). We speculated that the regulation of <italic>OsIPMS1</italic> in seed vigour might be associated with soluble sugars in mature seeds. The roles of <italic>OsIPMS1</italic> controlling amino acids biosynthesis and seed quality during seed development are deserved to further investigation.</p><p>It is well known that seed germination is linked to numerous amino acid metabolic pathways. Reduction in Cys synthesis induces an irreparable loss of seed vigour (Rajjou <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0054" ref-type="ref">2008</xref>). Pro accumulation is effective in improving seed germination and seedling growth under stress conditions (Biju <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0011" ref-type="ref">2017</xref>). Similarly, we observed that Cys and Pro synthesis were significantly decreased in <italic>osipms1</italic> mutants compared with those in WT. Cys and Pro are important features of seed vigour owing to their general implications in metabolism and antioxidative potential in plants (Rajjou <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0054" ref-type="ref">2008</xref>). Additionally, we observed that the branched&#x02010;chain amino acids (BCAAs), including Leu, Ile and Val, were significantly reduced in <italic>osipms1</italic> mutants compared to those in WT. BCAAs biosynthesis plays an important role in gametophyte and root development, and BCAA homeostasis contributes to stress tolerance in plants (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0069" ref-type="ref">2015</xref>). We therefore predicted that <italic>OsIPMS1</italic> contributing to seed vigour might be due to the enhancement of amino acids associated with stress tolerance in germinating seeds. The relationships between amino acids, for example Cys, Pro, Ile, Val and Leu, and stress tolerance during seed germination need to be further analysed.</p><p>Initial seed imbibition is characterized by physical water uptake (Bewley <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0010" ref-type="ref">2013</xref>). Usually, proteinaceous seeds have higher imbibition capacities than those of starch and oily seeds at the early germination stage. In this study, similar imbibition rates were observed at the early germination stage in <italic>osipms1</italic> mutants and WT due to the similar protein and starch levels in their mature seeds. These results indicated that <italic>OsIPMS1</italic> regulates seed vigour but not by altering the imbibition rate. GA biosynthesis upon seed imbibition is necessary for seed germination and seedling growth (Vieira <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0059" ref-type="ref">2002</xref>). In this study, we observed that the amino acids related to GA biosynthesis were significantly reduced in <italic>osipms1</italic> mutants compared to those in WT. Further amino acid and GA treatments confirmed that the regulation of <italic>OsIPMS1</italic> on seed vigour was significantly associated with GA biosynthesis in germinating seeds. GA stimulates the expression of &#x003b1;&#x02010;amylase genes for hydrolysis of carbohydrate reserves, and then nourishes seed germination and seedling growth (Vieira <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0059" ref-type="ref">2002</xref>). In this study, the decline of soluble sugars was observed in <italic>osipms1</italic> mutants compared to those in WT during seed germination. It suggests that the regulation of <italic>OsIPMS1</italic> in seed vigour might be involved in the accumulation of soluble sugars served as the primary energy source for seed germination (Ding <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0019" ref-type="ref">2012</xref>).</p><p>Glycolysis is critical for germination and seedling growth as it generates energy. By comparison, the glycolytic pathway appears to be much more affected by seed vigour than other pathways (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0062" ref-type="ref">2015</xref>). The regulation of <italic>OsIPMS1</italic> on seed vigour might be tightly associated with the glycolysis in this study. This hypothesis was confirmed by the global analysis of transcripts in imbibed seeds, wherein glycolysis was expected to be highly inactive in <italic>osipms1a</italic> mutants compared to that in WT. It was further confirmed by qRT&#x02010;PCR analysis of genes encoding the rate limiting enzymes of glycolysis, including phosphofructokinase and pyruvate kinase. Phosphofructokinase and pyruvate kinase are important control points in the glycolytic pathway, as they catalyse two of the irreversible steps. Pyruvate kinase catalyses the final step of glycolysis, in which pyruvate and ATP are formed. Expressions of these genes were significantly decreased in <italic>osipms1a</italic> mutants compared to those in WT. Meanwhile, we observed that the expression of other glycolytic genes, such as fructose&#x02010;bisphosphate aldolase isozyme, aldehyde dehydrogenase, thiamine pyrophosphate enzyme, Gly&#x02010;3&#x02010;PDH and pyruvate decarboxylase, was also regulated in <italic>osipms1a</italic> mutants. These results are in alignment with reports wherein the glycolytic enzymes Gly&#x02010;3&#x02010;PDH (Han <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0031" ref-type="ref">2014</xref>; Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0037" ref-type="ref">2009</xref>) and pyruvate dehydrogenase (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0036" ref-type="ref">2008</xref>) were demonstrated to be associated with seed vigour in rice.</p><p>Amino acids serve as energy donors in the TCA cycle under night&#x02010;time, developmental and stress conditions in plants (Angelovici <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0003" ref-type="ref">2011</xref>; Ara&#x000fa;jo <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0004" ref-type="ref">2010</xref>, <xref rid="pbi12979-bib-0005" ref-type="ref">2011</xref>; Kirma <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0039" ref-type="ref">2012</xref>). The aspartic acid (Asp) family pathway synthesizes the amino acids Lys, Thr, Ile and methionine (Met), which are further catabolized by the TCA cycle to generate energy under energy shortage conditions (Galili, <xref rid="pbi12979-bib-0027" ref-type="ref">2011</xref>). The relationship between amino acids, for example Lys and Asp, and the TCA cycle has been observed during the early seed germination (Ara&#x000fa;jo <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0005" ref-type="ref">2011</xref>). In this study, we observed that the ketogenic amino acids, including Leu, Ile, Phe, Cys, Gly, Thr and Tyr, were significantly reduced in <italic>osipms1</italic> mutants compared to those in WT. These ketogenic amino acids are important for pyruvate and acetyl&#x02010;CoA synthesis, which are the starting substrates of the TCA cycle. Metabolism of His and Pro is important for the synthesis of the TCA cycle metabolite, &#x003b1;&#x02010;ketoglutarate. Similarly, metabolism of Iso, Val and Thr also has important effects on the synthesis of the TCA cycle metabolite, succinate, whereas Phe and Tyr metabolism are important for fumarate synthesis. However, these amino acids, including His, Pro, Iso, Val, Thr, Phe and Tyr, were significantly decreased in <italic>osipms1</italic> mutants compared to those in WT in this study. These amino acids altered by <italic>OsIPMS1</italic> might behave important effects on the TCA cycle during seed germination in rice.</p><p>As description above, we hypothesized that the <italic>OsIPMS1</italic> may exert its effects on seed vigour by altering the energy level during seed germination. This hypothesis was firstly confirmed by the analysis of pyruvate and acetyl&#x02010;CoA levels during seed germination. Pyruvate is the product of glycolysis, which is converted into acetyl&#x02010;CoA, which in turn is the primary input for the TCA cycle (Schwender <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0056" ref-type="ref">2003</xref>). We observed that the levels of pyruvate and acetyl&#x02010;CoA were significantly decreased in <italic>osipms1</italic> mutants compared to those in WT during seed germination. Pyruvate dehydrogenase catalysing the conversion of pyruvate to acetyl&#x02010;CoA is a step linking the glycolytic pathway to the TCA cycle (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0062" ref-type="ref">2015</xref>). In this study, decreased expression of pyruvate dehydrogenase was also observed in <italic>osipms1</italic> mutants, suggesting that the carbon flux through the TCA cycle declined. Finally, the levels of ATP and AMP dropped approximately 30% in <italic>osipms1</italic> mutants compared to those in WT at the late germination stage. These data implied that disruption of <italic>OsIPMS1</italic> will reduce energy levels in germinating seeds, potentially causing low seed vigour in <italic>osipms1</italic> mutants.</p><p>The positive effects of priming on seed vigour are mainly due to triggering the metabolic processes when primed seeds rehydration, including the activation of DNA repair and antioxidant mechanisms, de novo synthesis of nucleic acids and proteins and ATP production (Paparella <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0051" ref-type="ref">2015</xref>). Our data demonstrated that the expression of <italic>OsIPMS1</italic> contributes to seed germination associated with ATP production. This raises the question as to the association between priming effects and <italic>OsIPMS1</italic> expression during priming. It is difficult to choose and monitor the correct time&#x02010;point of stop priming and dehydrate the seeds (Paparella <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0051" ref-type="ref">2015</xref>). Meanwhile, the success of seed priming is strongly associated with plant species, genotype, seed lot and vigour (Parera and Cantliffe, <xref rid="pbi12979-bib-0052" ref-type="ref">1994</xref>). Thus, two varieties Ningdao NO.1 and Wuyungeng NO.7 that popularly cultivated in Jiangsu Province of China were used to confirm the association between priming effects and <italic>OsIPMS1</italic> expression during priming in this study. We observed that the best stop time&#x02010;point of seed priming is likely at the time before the mRNA levels of <italic>OsIPMS1</italic> significantly reduced during priming, suggesting a suitable extent of germination&#x02010;related metabolism existed in primed seeds at that moment. Prolonged priming duration caused a significantly low mRNA level of <italic>OsIPMS1</italic> stored in primed seeds that will cause low seed vigour when primed seeds rehydration. Previously, prolonged priming treatment reduced seed vigour has been ascribed to the loss of seed desiccation tolerance (Sliwinska and Jendrzejczak, <xref rid="pbi12979-bib-0057" ref-type="ref">2002</xref>) and an unpredicted enhancement of oxidative DNA injury (Balestrazzi <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0007" ref-type="ref">2010</xref>). In this study, we predicted that prolonged priming treatment reduced the priming effects is possibly due to low ATP production in primed seeds when rehydration. The confirmation of this hypothesis is now in progress. The <italic>OsIPMS1</italic> might be used as a biomarker to determine the best time&#x02010;point of stop priming in rice. However, the different expression of <italic>OsIPMS1</italic> was also observed among varieties. The applications of <italic>OsIPMS1</italic> in seed priming need to be further investigated using more varieties at more time&#x02010;points of priming in rice.</p><p>In summary, the regulation of <italic>OsIPMS1</italic> in seed vigour might be involved in the changes of amino acids that associated with stress tolerance, GA synthesis and TCA cycle in germinating seeds (Figure&#x000a0;<xref rid="pbi12979-fig-0011" ref-type="fig">11</xref>). The improvement of amino acids associated with stress tolerance might be contributing to seed germination under various conditions. Meanwhile, <italic>OsIPMS1</italic> can promote the synthesis of amino acids related to GA biosynthesis in germinating seeds, which results in the enhancement of soluble sugars for glycolysis during seed germination. After that, the ATP levels will be promoted through TCA cycle with the increases in glycolysis and TCA cycle metabolites, which contribute to rapid germination and vigorous seedling growth. This study provides important insights into the function of <italic>OsIPMS1</italic> on seed vigour in rice.</p><fig fig-type="Figure" xml:lang="en" id="pbi12979-fig-0011" orientation="portrait" position="float"><label>Figure 11</label><caption><p>Hypothetical model of the role of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> on seed vigour in rice. The expression of <italic>Os<styled-content style="fixed-case">IPMS</styled-content>1</italic> in germinating seeds induces the accumulation of the amino acids associated with stress tolerance, <styled-content style="fixed-case">GA</styled-content> biosynthesis and <styled-content style="fixed-case">TCA</styled-content> cycle. Increased <styled-content style="fixed-case">GA</styled-content> biosynthesis enhances starch hydrolysis for the accumulation of soluble sugars, thus increasing the glycolytic activity. The <styled-content style="fixed-case">ATP</styled-content> levels will be promoted through <styled-content style="fixed-case">TCA</styled-content> cycle with the increases of glycolysis and <styled-content style="fixed-case">TCA</styled-content> cycle metabolites, which contribute to rapid germination and vigorous seedling growth. Solid arrows indicate the major effects, while dashed arrows indicate the predicted minor effects.</p></caption><graphic id="nlm-graphic-21" xlink:href="PBI-17-322-g011"/></fig></sec><sec id="pbi12979-sec-0012"><title>Materials and methods</title><sec id="pbi12979-sec-0013"><title>Plant materials and growth conditions</title><p>The <italic>osipms1</italic> (<italic>osipms1a</italic>,<italic> osipms1b</italic> and <italic>osipms1c</italic>) and <italic>osipms2</italic> mutants used in this study were in the <italic>Japonica</italic> background (<italic>Oryza sativa</italic> L. cv. Nipponbare). The T&#x02010;DNA mutant <italic>osipms1a</italic> (accession number: 05NPBMT72) was obtained from Rice Mutant Database ( <ext-link ext-link-type="uri" xlink:href="http://rmd.ncpgr.cn/">http://rmd.ncpgr.cn/</ext-link>; Miyao <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0049" ref-type="ref">2003</xref>); <italic>osipms1b</italic>,<italic> osipms1c</italic> and <italic>osipms2</italic> mutants were generated using the CRISPR/Cas9 system. All plants were grown in an experimental field at the Nanjing Agricultural University. Field management was performed in accordance with the local standard methods (Cheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0016" ref-type="ref">2014</xref>). All seeds were harvested at their maturity stage and dried at 42&#x000a0;<sup>&#x000b0;</sup>C for 7&#x000a0;days (&#x0223c;13% moisture content) to break seed dormancy (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0061" ref-type="ref">2011</xref>).</p></sec><sec id="pbi12979-sec-0014"><title>T&#x02010;DNA mutant identification</title><p>The T&#x02010;DNA insertion site and homozygous line of <italic>osipms1a</italic> was identified by PCR analysis of genomic DNA using gene&#x02010;specific primers (Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>). PCR was conducted according to Xu <italic>et&#x000a0;al</italic>. (<xref rid="pbi12979-bib-0066" ref-type="ref">2017</xref>). PCR products were directly sequenced and compared using NCBI BLAST of the rice genome database ( <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/Blast/">http://www.ncbi.nlm.nih.gov/Blast/</ext-link>). Quantitative real&#x02010;time PCR (qRT&#x02010;PCR) analysis, as described below, was conducted to detect the mRNA levels of <italic>OsIPMS1</italic> in 48&#x02010;h imbibed seeds of <italic>osipms1a</italic> compared to that in the wild type (WT, Nipponbare).</p></sec><sec id="pbi12979-sec-0015"><title>Mutant generation and identification</title><p>The CRISPR/Cas9 system was used to generate mutants. The CRISPR/Cas9 plasmid was designed according to the protocol described previously (Cong and Zhang, <xref rid="pbi12979-bib-0018" ref-type="ref">2015</xref>). The first coding exon of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> was selected for the guide RNA design. Double&#x02010;stranded DNA, generated by annealing the oligo pairs, was cloned into the p1300&#x000a0;+&#x000a0;pX330&#x02010;U6&#x02010;Chimeric_BB&#x02010;CBh&#x02010;hSpCas9 vector. Genomic DNA was extracted from mutant seedlings for PCR using specific primers (Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>). Mutations in the PCR products were detected through direct sequencing methods. Next, the PCR products were identified by comparing the 20&#x02010;bp gRNA target sequences to the rice reference genome (sequence is in Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>; Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0045" ref-type="ref">2015</xref>). qRT&#x02010;PCR analysis, as described below, was conducted to detect the mRNA levels in 48&#x02010;h imbibed seeds of mutants compared to those in WT. Three independent homozygous mutants, <italic>osipms1b</italic>,<italic> osipms1c</italic> and <italic>osipms2</italic>, were identified.</p></sec><sec id="pbi12979-sec-0016"><title>Expression and purification of GST&#x02010;Tag Protein</title><p>The sequence data of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> were obtained from the Institute for Genomic Research (TIGR) database. The coding sequence of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> was amplified from the reverse&#x02010;transcribed RNA isolated in rice Nipponbare seedlings using the primers IPMS1&#x02010;1S, IPMS1&#x02010;1A, IPMS2&#x02010;1S and IPMS2&#x02010;1A (Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>). The cDNA fragments were ligated into the pGEM&#x02010;T easy vector (Promega, Madison, WI). The desired <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> fragments were amplified by PCR using the primers IPMS1&#x02010;2S, IPMS1&#x02010;2A, IPMS2&#x02010;2S and IPMS2&#x02010;2A (Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>), and subcloned into pGEX&#x02010;2T using the restriction sites BamH I and EcoR I. The glutathione&#x02010;S&#x02010;transferase (GST)&#x02010;IPMS fusion proteins were expressed in <italic>E.&#x000a0;coli</italic> BL21 (DE3) cells and grown in LB medium at 37&#x000a0;&#x000b0;C until they reached an OD<sub>600</sub> of 0.5. The GST&#x02010;IPMS1 proteins were then induced with 0.5&#x000a0;mM isopropyl&#x02010;1&#x02010;thio&#x02010;&#x003b2;&#x02010;D&#x02010;galactopyranoside (IPTG) and incubated with constant shaking at 15&#x000a0;&#x000b0;C for 24&#x000a0;h. Protein expression was checked by SDS&#x02010;PAGE analysis. Proteins were purified using a GST&#x02022;BindTM Kit (Novagen, Germany) and quantified with gel densitometry using a bovine serum albumin (BSA, Sigma&#x02010;Aldrich) protein standard.</p></sec><sec id="pbi12979-sec-0017"><title>OsIPMS enzyme assay</title><p>The OsIPMS1 and OsIPMS2 enzyme assay was conducted according to the methods of de Kraker <italic>et&#x000a0;al</italic>. (<xref rid="pbi12979-bib-0041" ref-type="ref">2007</xref>) with minor modifications. Briefly, 5&#x000a0;&#x003bc;L enzyme preparation was added into 150&#x000a0;&#x003bc;L reaction mixture, including 500&#x000a0;mM acetyl&#x02010;CoA, 10&#x000a0;m<sc>m</sc> 2&#x02010;oxoisovalerate, 4&#x000a0;m<sc>m</sc> MgCl<sub>2</sub> and 100&#x000a0;m<sc>m</sc> Tris, pH 8.0, and incubated at 30&#x000a0;&#x000b0;C for 10&#x000a0;min. Reactions were stopped using liquid nitrogen. Next, 200&#x000a0;&#x003bc;L 1&#x000a0;m<sc>m</sc> fresh DTNB (Sigma&#x02010;Aldrich) in 100&#x000a0;m<sc>m</sc> Tris (pH 8.0), and 200&#x000a0;&#x003bc;L ethanol was added into the reaction mixture. The mixture was left at room temperature (20&#x02013;25&#x000a0;&#x000b0;C) until no further reaction occurred between the free thiol group of CoA with DNTB to develop a yellow&#x02010;coloured 3&#x02010;carboxy&#x02010;4&#x02010;nitrothiophenol anion. The mixture was centrifuged, and the absorbance was detected against water at 412&#x000a0;nm. The amount of OD<sub>412</sub> was used to indicate enzyme activity. Three biological replications were performed.</p></sec><sec id="pbi12979-sec-0018"><title>Seed germination</title><p>Fifty seeds per replicate were imbibed in Petri dishes (diameter 9&#x000a0;cm) with 10&#x000a0;mL distilled water, 10% PEG or 100&#x000a0;m<sc>m</sc> NaCl at 30&#x000a0;&#x000b1;&#x000a0;1&#x000a0;&#x000b0;C for 7&#x000a0;days, as well as with 10&#x000a0;mL distilled water at 15&#x000a0;&#x000b1;&#x000a0;1&#x000a0;&#x000b0;C for 14&#x000a0;days. Thirty seeds per replicate were sowed in 1&#x000a0;cm deep soils under natural conditions (25&#x02013;32&#x000a0;&#x000b0;C) for 7&#x000a0;days. Meanwhile, seed germination of <italic>osipms1</italic> mutants was also conducted under GA<sub>3</sub> and amino acids treatments. Germination ability was observed daily. Seeds were considered as germinated when the radicle protruded (2&#x000a0;mm) through the seed coat. Seedlings were considered to be established when the root length reached seed length and the shoot length reached half of the seed length. The percentage of germinated seeds at 3&#x000a0;days was referred to as germination potential (GP). T<sub>50</sub> is the time for 50% of the germination, and it was calculated by the GERMINATOR software (Joosen <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0035" ref-type="ref">2010</xref>). Germination index (GI) was calculated as follows: GI&#x000a0;=&#x000a0;&#x02211; (<italic>Gt</italic>/<italic>t</italic>), where <italic>Gt</italic> is the number of the germinated seeds on Day <italic>t</italic> (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0060" ref-type="ref">2010</xref>). Three replications were performed.</p></sec><sec id="pbi12979-sec-0019"><title>Expression analysis</title><p>Total RNA was extracted from various plant tissues of Nipponbare, as well as from developing grains (0, 7, 14, 21, 28, 35 and 42&#x000a0;days after flowering; DAF) and germinating seeds (4&#x02010;, 8&#x02010;, 12&#x02010;, 18&#x02010;, 24&#x02010;, 36&#x02010; and 48&#x02010;h imbibition), using the TransZol Plant kit (Transgen, <ext-link ext-link-type="uri" xlink:href="http://www">www</ext-link>. transgen.com), according to the protocol by the manufacturer. The first&#x02010;strand cDNA was synthesized with random oligonucleotides using the HiScript<sup>&#x000ae;</sup> II Reverse Transcriptase system (Vazyme Biotech Co., Ltd). qRT&#x02010;PCR was carried out in a total volume of 20&#x000a0;&#x003bc;L containing 2&#x000a0;&#x003bc;L of cDNA, 0.4&#x000a0;&#x003bc;L gene&#x02010;specific primers (10&#x000a0;&#x003bc;<sc>m</sc>), 10&#x000a0;&#x003bc;L SYBR Green Mix and 7.2&#x000a0;&#x003bc;L of RNase free ddH<sub>2</sub>O, using the Roche LightCycler480 Real&#x02010;time System (Roche, Swiss Confederation). The PCR conditions were as follows: 95&#x000a0;<sup>&#x000b0;</sup>C for 5&#x000a0;min, followed by 40 cycles of 95&#x000a0;&#x000b0;C for 15&#x000a0;s and 60&#x000a0;&#x000b0;C for 30&#x000a0;s. The rice <italic>OsActin</italic> and <italic>18S rRNA</italic> genes were used as internal controls. Primers used for qRT&#x02010;PCR are listed in Table&#x000a0;<xref rid="pbi12979-sup-0011" ref-type="supplementary-material">S1</xref>. Normalized transcript levels were calculated using the comparative CT method (Livak and Schmittgen, <xref rid="pbi12979-bib-0046" ref-type="ref">2001</xref>). Three biological replications were performed.</p></sec><sec id="pbi12979-sec-0020"><title>Differentially expressed genes analysis</title><p>Total RNA was extracted from approximately 80~100&#x000a0;mg powder of WT and <italic>osipms1</italic> seeds after 8&#x02010;h imbibition using the TransZol Plant kit (Transgen, <ext-link ext-link-type="uri" xlink:href="http://www.transgen.com">www.transgen.com</ext-link>) according to the manufacturer's protocol. Construction of cDNA libraries and HiSeq2500 sequencing were performed at Novogene Biotechnology Co., Ltd., Beijing, China. FastQC was performed to estimate the quality of raw reads ( <ext-link ext-link-type="uri" xlink:href="http://www.plob.org/2013/07/16/5987.html">http://www.plob.org/2013/07/16/5987.html</ext-link>). The adapter sequences were trimmed, and the low&#x02010;quality reads with <italic>Q</italic>&#x000a0;&#x02264;&#x000a0;20 from the 5&#x02032; and 3&#x02032; ends of the remaining reads were filtered. Then, the clean reads with 21&#x02013;49&#x000a0;bp length were mapped onto the Nipponbare reference genome (MSU Rice Genome Annotation Project Release 7) using Tophat version 2.0.12 (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0038" ref-type="ref">2012</xref>). Levels of gene expression were quantified in terms of FPKM (fragments per kilo base of exon per million) using RSEM version 1.1.11 (Li and Dewey, <xref rid="pbi12979-bib-0042" ref-type="ref">2011</xref>). The log2&#x02010;fold changes of gene FPKM were calculated in 8&#x02010;h imbibed seeds and comparisons were made between <italic>osipms1a</italic> and WT. The differentially expressed genes (DEGs) with a padj (<italic>P</italic>&#x02010;adjusted) &#x0003c;0.05 were selected for further pathway analysis. Gene Ontology (GO) and KEGG pathway analyses were performed through GOseq (Young <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0067" ref-type="ref">2010</xref>) and KOBAS (2.0) with a significant level of false discovery rate (FDR&#x000a0;&#x0003c;&#x000a0;0.05; Xie <italic>et&#x000a0;al</italic>., <xref rid="pbi12979-bib-0063" ref-type="ref">2011</xref>). Three biological replications were performed.</p></sec><sec id="pbi12979-sec-0021"><title>Samples harvested for physiological assays</title><p>Total protein, starch and sugar content were detected in the dry mature seeds. Seeds were imbibed in Petri dishes (diameter 9&#x000a0;cm) with 10&#x000a0;mL distilled water at 30&#x000a0;&#x000b1;&#x000a0;1&#x000a0;&#x000b0;C for 3&#x000a0;days. The weight of the imbibed seeds was recorded every 12&#x000a0;h to calculate the moisture content of seeds. Following 0&#x02010;, 12&#x02010;, 24&#x02010;, 36&#x02010;, 48&#x02010; and 60&#x02010;h imbibition, the seeds were harvested to detect the levels of free amino acids, GA<sub>3</sub>, glucose, fructose, amylase activity, acetyl&#x02010;CoA, pyruvic acid and energy. Approximately 0.5&#x000a0;g of each sample was rapidly frozen in liquid nitrogen and homogenized into a powder. Three biological replications were performed for each index.</p></sec><sec id="pbi12979-sec-0022"><title>Amino acid assay</title><p>Amino acids were extracted from the powder with 2.0&#x000a0;mL distilled water at 4&#x000a0;&#x000b0;C for 17&#x000a0;h. The extraction mixture was centrifuged at 12&#x000a0;000&#x000a0;<italic>g</italic> at 4&#x000a0;&#x000b0;C for 20&#x000a0;min, following which 0.8&#x000a0;mL supernatant was transferred to 2&#x02010;mL Eppendorf tubes and 0.8&#x000a0;mL 5% 5&#x02010;sulfosalicylic acid dihydrate solution was added. After the mixture was centrifuged at 12&#x000a0;000&#x000a0;<italic>g</italic> at 4&#x000a0;&#x000b0;C for 20&#x000a0;min followed by filtration through 0.22&#x02010;&#x003bc;m membrane filters, the total amino acid composition was analysed using the AAA L&#x02010;8900 auto&#x02010;amino acid analyser (Hitachi Ltd., Japan). The amino acid levels were expressed as &#x003bc;g/g DW (dry weight).</p></sec><sec id="pbi12979-sec-0023"><title>Hormone quantification</title><p>Hormone GA<sub>3</sub> was extracted from each sample using 5&#x000a0;mL 80% (v/v) precooling methanol at 4&#x000a0;&#x000b0;C for 12&#x000a0;h and centrifuged at 8000&#x000a0;<italic>g</italic> at 4&#x000a0;&#x000b0;C for 10&#x000a0;min. The supernatant was collected and added 0.1&#x000a0;g Poly to adsorb the phenolic compounds and pigments at 4&#x000a0;&#x000b0;C for 1&#x000a0;h, and then, the mixture was centrifuged at 12&#x000a0;000&#x000a0;<italic>g</italic> at 4&#x000a0;&#x000b0;C for 10&#x000a0;min. Next, the supernatant was washed with 5&#x000a0;mL 100% (w/v) and 5&#x000a0;mL 80% (v/v) methanol and was passed through C18 columns (C18 Sep&#x02010;Park<sup>&#x000ae;</sup> Cartridges, Waters Corp., Milford, MA). The extraction was freeze&#x02010;dried and dissolved in 2&#x000a0;mL of 75% aqueous methanol, and followed by filtration through 0.22&#x02010;&#x003bc;m membrane filters, the final 2&#x000a0;&#x003bc;L filtrate solution was carried out using a high&#x02010;performance liquid chromatography (HPLC) system (Waters Instruments Inc., Rochester, MN). The content of GA<sub>3</sub> was determined using the external standard method and was expressed as &#x003bc;g/g DW.</p></sec><sec id="pbi12979-sec-0024"><title>Protein, starch, sugar, amylase activity, acetyl&#x02010;CoA and pyruvic acid assays</title><p>Protein, starch, sugars, amylase activity, acetyl&#x02010;CoA and pyruvic acid were measured using commercial assay kits following the manufacturer's instructions (Suzhou Keming Bioengineering Company, China). The levels of protein, starch, glucose, fructose and pyruvic acid were expressed as mg/g DW. Acetyl&#x02010;CoA levels were expressed as nmol/g DW. One unit (U) of amylase is defined as 1&#x000a0;mg of reducing sugar produced by enzyme in 1&#x000a0;g DW sample in 1&#x000a0;min at 40&#x000a0;&#x000b0;C. The activities of &#x003b1;&#x02010; and &#x003b2;&#x02010;amylase were expressed as U/g DW.</p></sec><sec id="pbi12979-sec-0025"><title>Energy level assays</title><p>Extraction of adenosine triphosphate (ATP), adenosine diphosphate (ADP) and adenosine monophosphate (AMP) from the powder was conducted according to the method of Liu <italic>et&#x000a0;al</italic>. (<xref rid="pbi12979-bib-0044" ref-type="ref">2006</xref>) with minor modifications. Briefly, 1.5&#x000a0;mL of 600&#x000a0;m<sc>m</sc> perchloric acid was added into the powder placed in an ice bath for 1&#x000a0;min. After the extraction mixture was centrifuged at 12&#x000a0;000&#x000a0;<italic>g</italic> at 4&#x000a0;&#x000b0;C for 10&#x000a0;min, 1.2&#x000a0;mL supernatant was taken and quickly neutralized to pH 6.5&#x02013;6.8 with 1000&#x000a0;m<sc>m</sc> KOH. After the mixture was centrifuged at 12&#x000a0;000&#x000a0;<italic>g</italic> at 4&#x000a0;&#x000b0;C for 10&#x000a0;min followed by filtration through 0.22&#x02010;&#x003bc;m membrane filters, the final 2&#x000a0;&#x003bc;L filtrate solution was measured by HPLC (Waters Instruments Inc.). The ACQUITY UPLC<sup>&#x000ae;</sup> BEHC18 1.7&#x000a0;&#x003bc;m 2.1&#x000a0;&#x000d7;&#x000a0;50&#x000a0;mm C18 column was used for HPLC (Waters Instruments Inc.). Identification of ATP, ADP and AMP in the samples was conducted by comparison of the retention time with that of standards. ATP, ADP and AMP levels were determined using the external standard method and were expressed as &#x003bc;g/g DW. The energy charge (EG) was calculated as follows: EG&#x000a0;=&#x000a0;([ATP] + 1/2 [ADP]) &#x000f7; ([ATP] + [ADP] + [AMP]).</p></sec><sec id="pbi12979-sec-0026"><title>Seed priming</title><p>Seed priming treatments were conducted according to the method described by Cheng <italic>et&#x000a0;al</italic>. (<xref rid="pbi12979-bib-0017" ref-type="ref">2017</xref>) with minor modifications. Briefly, 50 seeds were surface sterilized with 0.1% HgCl<sub>2</sub> for 5&#x000a0;min and then placed in a Petri dish (diameter 9&#x000a0;cm) with 10&#x000a0;mL of distilled water. Seeds were incubated at 30&#x000a0;&#x000b0;C for 0&#x02013;36&#x000a0;h in the dark for priming treatment, following which the imbibed seeds were dried at 30&#x000a0;&#x000b0;C for 7&#x000a0;days to their original moisture content (~13%). Seed germination was conducted as described above. The expression of <italic>OsIPMS1</italic> during seed priming was analysed by qRT&#x02010;PCR as described above. Unprimed dry seeds were used as controls. Three biological replications were performed.</p></sec><sec id="pbi12979-sec-0027"><title>Data analysis</title><p>Experimental data were analysed using the SAS software (Cary, NC), and the percentage data were transformed according to <italic>y</italic>&#x000a0;=&#x000a0;arcsin [sqr (<italic>x</italic>/100)]. The significant differences were tested using Student's <italic>t</italic>&#x02010;test or Fisher's least significant difference (LSD) test at the 5% and 1% levels of probability.</p></sec></sec><sec sec-type="data-availability" id="pbi12979-sec-0028"><title>Availability of supporting data</title><p>The RNA sequencing data have been submitted to the Sequence Read Archive (SRA) database ( <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sra">https://www.ncbi.nlm.nih.gov/sra</ext-link>) under accession number SRP134159.</p></sec><sec id="pbi12979-sec-0030"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12979-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Characterization of <italic>OsIPMS1</italic> and <italic>OsIPMS2</italic> in rice.</p></caption><media xlink:href="PBI-17-322-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0002"><caption><p>
+<bold>Figure&#x000a0;S2</bold> Comparison of amino acid sequences between OsIPMS1 and OsIPMS2.</p></caption><media xlink:href="PBI-17-322-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0003"><caption><p>
+<bold>Figure&#x000a0;S3</bold> Confirmation of <italic>osipms1b</italic> and <italic>osipms1c</italic> mutants.</p></caption><media xlink:href="PBI-17-322-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0004"><caption><p>
+<bold>Figure&#x000a0;S4</bold> Comparison of seed germination between WT and <italic>osipms1</italic> mutants under stress conditions.</p></caption><media xlink:href="PBI-17-322-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0005"><caption><p>
+<bold>Figure&#x000a0;S5</bold> Comparison of seed germination between WT and <italic>osipms1</italic> mutants under direct&#x02010;seeding conditions.</p></caption><media xlink:href="PBI-17-322-s005.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0006"><caption><p>
+<bold>Figure&#x000a0;S6</bold> Comparison of seed germination between WT and <italic>osipms2</italic> mutants under normal conditions.</p></caption><media xlink:href="PBI-17-322-s006.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0007"><caption><p>
+<bold>Figure&#x000a0;S7</bold> Amino acid treatment improved the expression of GA biosynthesis related genes in germinating seeds of <italic>osipms1</italic> mutants.</p></caption><media xlink:href="PBI-17-322-s007.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0008"><caption><p>
+<bold>Figure&#x000a0;S8</bold> GO enrichment analysis for differentially expressed genes (DEGs) in <italic>osipms1a</italic> compared to WT.</p></caption><media xlink:href="PBI-17-322-s008.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0009"><caption><p>
+<bold>Figure&#x000a0;S9</bold> Comparison of imbibition rate and seed reserves between WT and <italic>osipms1</italic> mutants.</p></caption><media xlink:href="PBI-17-322-s009.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0010"><caption><p>
+<bold>Figure&#x000a0;S10</bold> Comparison of priming effects on seed vigor between WT and <italic>osipms1</italic> mutants.</p></caption><media xlink:href="PBI-17-322-s010.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0011"><caption><p>
+<bold>Table&#x000a0;S1</bold> The primer pairs used in this study.</p></caption><media xlink:href="PBI-17-322-s011.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0012"><caption><p>
+<bold>Table&#x000a0;S2</bold> Differently expression genes (DEGs) between WT and <italic>osipms1</italic> in 8&#x000a0;h&#x02010;imbibed seeds.</p></caption><media xlink:href="PBI-17-322-s012.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12979-sup-0013"><caption><p>
+<bold>Table&#x000a0;S3</bold> Differently expression genes (DEGs) involved in biological pathways by KEGG pathway analysis.</p></caption><media xlink:href="PBI-17-322-s013.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12979-sec-0029"><title>Acknowledgements</title><p>This work was supported by the National Natural Science Foundation of China (Grant No. 31771889), the National Key Research and Development Plan (Grant No. 2018YFD0100901), the Major Scientific Research Projects of General Colleges and Universities of Guangdong Province (Grant No. 2017KTSCX024), and the Natural Science Foundation of Jiangsu Province (Grant No. BK20161451; BK20150675).</p></ack><ref-list content-type="cited-references" id="pbi12979-bibl-0001"><title>References</title><ref id="pbi12979-bib-0001"><mixed-citation publication-type="journal" id="pbi12979-cit-0001">
+<string-name>
+<surname>Abe</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Takagi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fujibe</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Aya</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kojima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sakakibara</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Uemura</surname>, <given-names>A.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>
+<italic>OsGA20ox1</italic>, a candidate gene for a major QTL controlling seedling vigor in rice</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>125</volume>, <fpage>647</fpage>&#x02013;<lpage>657</lpage>.<pub-id pub-id-type="pmid">22481119</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0002"><mixed-citation publication-type="journal" id="pbi12979-cit-0002">
+<string-name>
+<surname>Anderson</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Che</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nikolau</surname>, <given-names>B.J.</given-names>
+</string-name> and <string-name>
+<surname>Wurtele</surname>, <given-names>E.S.</given-names>
+</string-name> (<year>1998</year>) <article-title>3&#x02010;Methylcrotonyl&#x02010;coenzyme A carboxylase is a component of the mitochondrial leucine catabolic pathway in plants</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>142</volume>, <fpage>1127</fpage>&#x02013;<lpage>1138</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0003"><mixed-citation publication-type="journal" id="pbi12979-cit-0003">
+<string-name>
+<surname>Angelovici</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fait</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fernie</surname>, <given-names>A.R.</given-names>
+</string-name> and <string-name>
+<surname>Galili</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>A seed high&#x02010;lysine trait is negatively associated with the TCA cycle and slows down <italic>Arabidopsis</italic> seed germination</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>189</volume>, <fpage>148</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">20946418</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0004"><mixed-citation publication-type="journal" id="pbi12979-cit-0004">
+<string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Ishizaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nunes&#x02010;Nesi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>T.R.</given-names>
+</string-name>, <string-name>
+<surname>Tohge</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Krahnert</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Witt</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Identification of the 2&#x02010;hydroxyglutarate and isovaleryl&#x02010;CoA dehydrogenases as alternative electron donors linking lysine catabolism to the electron transport chain of <italic>Arabidopsis</italic> mitochondria</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>22</volume>, <fpage>1549</fpage>&#x02013;<lpage>1563</lpage>.<pub-id pub-id-type="pmid">20501910</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0005"><mixed-citation publication-type="journal" id="pbi12979-cit-0005">
+<string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Tohge</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ishizaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Leaver</surname>, <given-names>C.J.</given-names>
+</string-name> and <string-name>
+<surname>Fernie</surname>, <given-names>A.R.</given-names>
+</string-name> (<year>2011</year>) <article-title>Protein degradation &#x02010; an alternative respiratory substrate for stressed plants</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>16</volume>, <fpage>489</fpage>&#x02013;<lpage>498</lpage>.<pub-id pub-id-type="pmid">21684795</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0006"><mixed-citation publication-type="journal" id="pbi12979-cit-0006">
+<string-name>
+<surname>Arc</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Chibani</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Grappin</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jullien</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Godin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Cueff</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Valot</surname>, <given-names>B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Cold stratification and exogenous nitrates entail similar functional proteome adjustments during <italic>Arabidopsis</italic> seed dormancy release</article-title>. <source xml:lang="en">J. Proteome Res.</source>
+<volume>11</volume>, <fpage>5418</fpage>&#x02013;<lpage>5432</lpage>.<pub-id pub-id-type="pmid">22985405</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0007"><mixed-citation publication-type="journal" id="pbi12979-cit-0007">
+<string-name>
+<surname>Balestrazzi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Confalonieri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Macovei</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Carbonera</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Seed imbibition in <italic>Medicago truncatula</italic> Gaertn.: expression profiles of DNA repair genes in relation to PEG&#x02010;mediated stress</article-title>. <source xml:lang="en">J. Plant Physiol.</source>
+<volume>168</volume>, <fpage>706</fpage>&#x02013;<lpage>713</lpage>.<pub-id pub-id-type="pmid">21129815</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0008"><mixed-citation publication-type="journal" id="pbi12979-cit-0008">
+<string-name>
+<surname>Bethke</surname>, <given-names>P.C.</given-names>
+</string-name>, <string-name>
+<surname>Libourel</surname>, <given-names>I.G.L.</given-names>
+</string-name>, <string-name>
+<surname>Aoyama</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Still</surname>, <given-names>D.W.</given-names>
+</string-name> and <string-name>
+<surname>Jones</surname>, <given-names>R.L.</given-names>
+</string-name> (<year>2007</year>) <article-title>The <italic>Arabidopsis</italic> aleurone layer responds to nitric oxide, gibberellin, and abscisic acid and is sufficient and necessary for seed dormancy</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>143</volume>, <fpage>1173</fpage>&#x02013;<lpage>1188</lpage>.<pub-id pub-id-type="pmid">17220360</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0009"><mixed-citation publication-type="journal" id="pbi12979-cit-0009">
+<string-name>
+<surname>Bewley</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>1997</year>) <article-title>Seed germination and dormancy</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>9</volume>, <fpage>1055</fpage>&#x02013;<lpage>1066</lpage>.<pub-id pub-id-type="pmid">12237375</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0010"><mixed-citation publication-type="book" id="pbi12979-cit-0010">
+<string-name>
+<surname>Bewley</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Bradford</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Hilhorst</surname>, <given-names>H.W.M.</given-names>
+</string-name> and <string-name>
+<surname>Nonogaki</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>) <source xml:lang="en">Seeds: Physiology of Development, Germination and Dormancy</source>, <edition>3rd ed</edition>
+<publisher-loc>New York</publisher-loc> Heidelberg Dordrecht London: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi12979-bib-0011"><mixed-citation publication-type="journal" id="pbi12979-cit-0011">
+<string-name>
+<surname>Biju</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fuentes</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Gupta</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>) <article-title>Silicon improves seed germination and alleviates drought stress in lentil crops by regulating osmolytes, hydrolytic enzymes and antioxidant defense system</article-title>. <source xml:lang="en">Plant Physiol. Biochem.</source>
+<volume>119</volume>, <fpage>250</fpage>&#x02013;<lpage>264</lpage>.<pub-id pub-id-type="pmid">28917144</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0012"><mixed-citation publication-type="journal" id="pbi12979-cit-0012">
+<string-name>
+<surname>Binder</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>) <article-title>Branched&#x02010;chain amino acid metabolism in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Arabidopsis Book</source>, <volume>8</volume>, <fpage>e0137</fpage>.<pub-id pub-id-type="pmid">22303262</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0013"><mixed-citation publication-type="journal" id="pbi12979-cit-0013">
+<string-name>
+<surname>Catusse</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Strub</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Job</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dorsselaer</surname>, <given-names>A.V.</given-names>
+</string-name> and <string-name>
+<surname>Job</surname>, <given-names>D.</given-names>
+</string-name> (<year>2008</year>) <article-title>Proteome&#x02010;wide characterization of sugarbeet seed vigor and its tissue specific expression</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>105</volume>, <fpage>10262</fpage>.<pub-id pub-id-type="pmid">18635686</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0014"><mixed-citation publication-type="journal" id="pbi12979-cit-0014">
+<string-name>
+<surname>Catusse</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Meinhard</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Job</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Strub</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Pestsova</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Westhoff</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Proteomics reveals potential biomarkers of seed vigor in sugarbeet</article-title>. <source xml:lang="en">Proteomics</source>, <volume>11</volume>, <fpage>1569</fpage>&#x02013;<lpage>1580</lpage>.<pub-id pub-id-type="pmid">21432998</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0015"><mixed-citation publication-type="journal" id="pbi12979-cit-0015">
+<string-name>
+<surname>Cheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Dynamic quantitative trait loci analysis of seed reserve utilization during three germination stages in rice</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <fpage>e80002</fpage>.<pub-id pub-id-type="pmid">24244592</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0016"><mixed-citation publication-type="journal" id="pbi12979-cit-0016">
+<string-name>
+<surname>Cheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Dynamic quantitative trait loci analysis of seed dormancy at three development stages in rice</article-title>. <source xml:lang="en">Mol. Breeding</source>, <volume>34</volume>, <fpage>501</fpage>&#x02013;<lpage>510</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0017"><mixed-citation publication-type="journal" id="pbi12979-cit-0017">
+<string-name>
+<surname>Cheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2017</year>) <article-title>Identification of genes involved in rice seed priming in the early imbibition stage</article-title>. <source xml:lang="en">Plant Biol.</source>
+<volume>19</volume>, <fpage>61</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">26833720</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0018"><mixed-citation publication-type="journal" id="pbi12979-cit-0018">
+<string-name>
+<surname>Cong</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>) <article-title>Genome engineering using CRISPR&#x02010;Cas9 system</article-title>. <source xml:lang="en">Methods Mol. Biol.</source>
+<volume>1239</volume>, <fpage>197</fpage>&#x02013;<lpage>217</lpage>.<pub-id pub-id-type="pmid">25408407</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0019"><mixed-citation publication-type="journal" id="pbi12979-cit-0019">
+<string-name>
+<surname>Ding</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Che</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ilarslan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wurtele</surname>, <given-names>E.S.</given-names>
+</string-name> and <string-name>
+<surname>Nikolau</surname>, <given-names>B.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Genetic dissection of methylcrotonyl CoA carboxylase indicates a complex role for mitochondrial leucine catabolism during seed development and germination</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>70</volume>, <fpage>562</fpage>&#x02013;<lpage>577</lpage>.<pub-id pub-id-type="pmid">22211474</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0020"><mixed-citation publication-type="journal" id="pbi12979-cit-0020">
+<string-name>
+<surname>Duan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Anthony</surname>, <given-names>T.G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>The role of leucine and its metabolites in protein and energy metabolism</article-title>. <source xml:lang="en">Amino Acids</source>, <volume>48</volume>, <fpage>41</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">26255285</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0021"><mixed-citation publication-type="journal" id="pbi12979-cit-0021">
+<string-name>
+<surname>Fait</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Angelovici</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Less</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ohad</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Urbanczyk&#x02010;Wochniak</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fernie</surname>, <given-names>A.R.</given-names>
+</string-name> and <string-name>
+<surname>Galili</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>) <article-title>
+<italic>Arabidopsis</italic> seed development and germination is associated with temporally distinct metabolic switches</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>142</volume>, <fpage>839</fpage>&#x02013;<lpage>854</lpage>.<pub-id pub-id-type="pmid">16963520</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0022"><mixed-citation publication-type="journal" id="pbi12979-cit-0022">
+<string-name>
+<surname>Field</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Furniss</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wilkinson</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Mithen</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>) <article-title>Expression of a <italic>Brassica</italic> isopropylmalate synthase gene in <italic>Arabidopsis</italic> perturbs both glucosinolate and amino acid metabolism</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>60</volume>, <fpage>717</fpage>&#x02013;<lpage>727</lpage>.<pub-id pub-id-type="pmid">16649108</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0023"><mixed-citation publication-type="journal" id="pbi12979-cit-0023">
+<string-name>
+<surname>Foolad</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Subbiah</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Common QTL affect the rate of tomato seed germination under different stress and nonstress conditions</article-title>. <source xml:lang="en">Int. J. Plant Genomics</source>, <volume>2007</volume>, <fpage>97386</fpage>.<pub-id pub-id-type="pmid">18317505</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0024"><mixed-citation publication-type="journal" id="pbi12979-cit-0024">
+<string-name>
+<surname>Fujino</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Matsuda</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2010</year>) <article-title>Genome&#x02010;wide analysis of genes targeted by <italic>qLTG3&#x02010;1</italic> controlling low&#x02010;temperature germinability in rice</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>72</volume>, <fpage>137</fpage>&#x02013;<lpage>152</lpage>.<pub-id pub-id-type="pmid">19851874</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0025"><mixed-citation publication-type="journal" id="pbi12979-cit-0025">
+<string-name>
+<surname>Fujino</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sekiguchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kiuchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nonoue</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Takeuchi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ando</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2004</year>) <article-title>Mapping of quantitative trait loci controlling low&#x02010;temperature germinability in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>108</volume>, <fpage>794</fpage>&#x02013;<lpage>799</lpage>.<pub-id pub-id-type="pmid">14624339</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0026"><mixed-citation publication-type="journal" id="pbi12979-cit-0026">
+<string-name>
+<surname>Fujino</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sekiguchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Matsuda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sugimoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ono</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Molecular identification of a major quantitative trait locus, <italic>qLTG3&#x02013;1</italic>, controlling low&#x02010;temperature germinability in rice</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>105</volume>, <fpage>12623</fpage>&#x02013;<lpage>12628</lpage>.<pub-id pub-id-type="pmid">18719107</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0027"><mixed-citation publication-type="journal" id="pbi12979-cit-0027">
+<string-name>
+<surname>Galili</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>The aspartate&#x02010;family pathway of plants: linking production of essential amino acids with energy and stress regulation</article-title>. <source xml:lang="en">Plant Signal Behav.</source>
+<volume>6</volume>, <fpage>192</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">21512320</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0028"><mixed-citation publication-type="journal" id="pbi12979-cit-0028">
+<string-name>
+<surname>Galili</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Avinwittenberg</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Angelovici</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Fernie</surname>, <given-names>A.R.</given-names>
+</string-name> (<year>2014</year>) <article-title>The role of photosynthesis and amino acid metabolism in the energy status during seed development</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>5</volume>, <fpage>447</fpage>.<pub-id pub-id-type="pmid">25232362</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0029"><mixed-citation publication-type="journal" id="pbi12979-cit-0029">
+<string-name>
+<surname>Gipson</surname>, <given-names>A.B.</given-names>
+</string-name>, <string-name>
+<surname>Morton</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Rhee</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Simo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Clayton</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Perrett</surname>, <given-names>M.E.</given-names>
+</string-name>, <string-name>
+<surname>Binkley</surname>, <given-names>C.G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Disruptions in valine degradation affect seed development and germination in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>90</volume>, <fpage>1029</fpage>&#x02013;<lpage>1039</lpage>.<pub-id pub-id-type="pmid">28321931</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0030"><mixed-citation publication-type="journal" id="pbi12979-cit-0030">
+<string-name>
+<surname>Graeber</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nakabayashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Miatton</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Leubner&#x02010;Metzger</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Soppe</surname>, <given-names>W.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Molecular mechanisms of seed dormancy</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>35</volume>, <fpage>1769</fpage>&#x02013;<lpage>1786</lpage>.<pub-id pub-id-type="pmid">22620982</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0031"><mixed-citation publication-type="journal" id="pbi12979-cit-0031">
+<string-name>
+<surname>Han</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Yang</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>In&#x02010;depth proteomic analysis of rice embryo reveals its important roles in seed germination</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>55</volume>, <fpage>1826</fpage>&#x02013;<lpage>1847</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0032"><mixed-citation publication-type="journal" id="pbi12979-cit-0032">
+<string-name>
+<surname>Harper</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>R.H.</given-names>
+</string-name> and <string-name>
+<surname>Block</surname>, <given-names>K.P.</given-names>
+</string-name> (<year>1984</year>) <article-title>Branched&#x02010;chain amino acid metabolism</article-title>. <source xml:lang="en">Annu. Rev. Nutr.</source>
+<volume>4</volume>, <fpage>409</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">6380539</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0033"><mixed-citation publication-type="journal" id="pbi12979-cit-0033">
+<string-name>
+<surname>Holdsworth</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Bentsink</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Soppe</surname>, <given-names>W.J.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Molecular networks regulating <italic>Arabidopsis</italic> seed maturation, after&#x02010;ripening, dormancy and germination</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>179</volume>, <fpage>33</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">18422904</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0034"><mixed-citation publication-type="journal" id="pbi12979-cit-0034">
+<string-name>
+<surname>Hsu</surname>, <given-names>S.K.</given-names>
+</string-name> and <string-name>
+<surname>Tung</surname>, <given-names>C.W.</given-names>
+</string-name> (<year>2015</year>) <article-title>Genetic mapping of anaerobic germination&#x02010;associated QTLs controlling coleoptile elongation in rice</article-title>. <source xml:lang="en">Rice</source>, <volume>8</volume>, <fpage>38</fpage>.<pub-id pub-id-type="pmid">26699727</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0035"><mixed-citation publication-type="journal" id="pbi12979-cit-0035">
+<string-name>
+<surname>Joosen</surname>, <given-names>R.V.</given-names>
+</string-name>, <string-name>
+<surname>Kodde</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Willems</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Ligterink</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>van der Plas</surname>, <given-names>L.H.</given-names>
+</string-name> and <string-name>
+<surname>Hilhorst</surname>, <given-names>H.W.</given-names>
+</string-name> (<year>2010</year>) <article-title>GERMINATOR: a software package for high&#x02010;throughput scoring and curve fitting of <italic>Arabidopsis</italic> seed germination</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>62</volume>, <fpage>148</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">20042024</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0036"><mixed-citation publication-type="journal" id="pbi12979-cit-0036">
+<string-name>
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hwang&#x02010;Du</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Kang</surname>, <given-names>K.</given-names>
+</string-name> (<year>2008</year>) <article-title>Analysis of embryonic proteome modulation by GA and ABA from germinating rice seeds</article-title>. <source xml:lang="en">Proteomics</source>, <volume>8</volume>, <fpage>3577</fpage>&#x02013;<lpage>3587</lpage>.<pub-id pub-id-type="pmid">18686304</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0037"><mixed-citation publication-type="journal" id="pbi12979-cit-0037">
+<string-name>
+<surname>Kim</surname>, <given-names>S.T.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name>
+<surname>Rakwal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.C.</given-names>
+</string-name> and <string-name>
+<surname>Kang</surname>, <given-names>K.Y.</given-names>
+</string-name> (<year>2009</year>) <article-title>Developing rice embryo proteomics reveals essential role for embryonic proteins in regulation of seed germination</article-title>. <source xml:lang="en">J. Proteome Res.</source>
+<volume>8</volume>, <fpage>3598</fpage>&#x02013;<lpage>3605</lpage>.<pub-id pub-id-type="pmid">19472976</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0038"><mixed-citation publication-type="journal" id="pbi12979-cit-0038">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pimentel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2012</year>) <article-title>accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>14</volume>, <fpage>R36</fpage>.</mixed-citation></ref><ref id="pbi12979-bib-0039"><mixed-citation publication-type="journal" id="pbi12979-cit-0039">
+<string-name>
+<surname>Kirma</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Fernie</surname>, <given-names>A.R.</given-names>
+</string-name> and <string-name>
+<surname>Galili</surname>, <given-names>G.</given-names>
+</string-name> (<year>2012</year>) <article-title>The multifaceted role of aspartate&#x02010;family amino acids in plant metabolism</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>63</volume>, <fpage>4995</fpage>&#x02013;<lpage>5001</lpage>.<pub-id pub-id-type="pmid">22516796</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0040"><mixed-citation publication-type="journal" id="pbi12979-cit-0040">
+<string-name>
+<surname>de Kraker</surname>, <given-names>J.W.</given-names>
+</string-name> and <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>From amino acid to glucosinolate biosynthesis: protein sequence changes in the evolution of methylthioalkylmalate synthase in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>23</volume>, <fpage>38</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">21205930</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0041"><mixed-citation publication-type="journal" id="pbi12979-cit-0041">
+<string-name>
+<surname>de Kraker</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Luck</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Textor</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tokuhisa</surname>, <given-names>J.G.</given-names>
+</string-name> and <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Two <italic>Arabidopsis</italic> genes (<italic>IPMS1</italic> and <italic>IPMS2</italic>) encode isopropylmalate synthase, the branchpoint step in the biosynthesis of leucine</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>143</volume>, <fpage>970</fpage>&#x02013;<lpage>986</lpage>.<pub-id pub-id-type="pmid">17189332</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0042"><mixed-citation publication-type="journal" id="pbi12979-cit-0042">
+<string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Dewey</surname>, <given-names>C.N.</given-names>
+</string-name> (<year>2011</year>) <article-title>RSEM: accurate transcript quantification from RNA&#x02010;Seq data with or without a reference genome</article-title>. <source xml:lang="en">BMC Bioinformatics</source>, <volume>12</volume>, <fpage>323</fpage>.<pub-id pub-id-type="pmid">21816040</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0043"><mixed-citation publication-type="journal" id="pbi12979-cit-0043">
+<string-name>
+<surname>Li</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>
+<italic>qLTG&#x02010;9</italic>, a stable quantitative trait locus for low&#x02010;temperature germination in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>126</volume>, <fpage>2313</fpage>&#x02013;<lpage>2322</lpage>.<pub-id pub-id-type="pmid">23748708</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0044"><mixed-citation publication-type="journal" id="pbi12979-cit-0044">
+<string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Jiang</surname>, <given-names>W.</given-names>
+</string-name> (<year>2006</year>) <article-title>A simple and rapid determination of ATP, ADP and AMP concentrations in pericarp tissue of litchi fruit by high performance liquid chromatography</article-title>. <source xml:lang="en">Food Technol. Biotechnol.</source>
+<volume>44</volume>, <fpage>531</fpage>&#x02013;<lpage>534</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0045"><mixed-citation publication-type="journal" id="pbi12979-cit-0045">
+<string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Liu</surname>, <given-names>Y.G.</given-names>
+</string-name> (<year>2015</year>) <article-title>DSDecode: a web&#x02010;based tool for decoding of sequencing chromatograms for genotyping of targeted mutations</article-title>. <source xml:lang="en">Mol. Plant</source>, <volume>8</volume>, <fpage>1431</fpage>&#x02013;<lpage>1433</lpage>.<pub-id pub-id-type="pmid">26032088</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0046"><mixed-citation publication-type="journal" id="pbi12979-cit-0046">
+<string-name>
+<surname>Livak</surname>, <given-names>K.J.</given-names>
+</string-name> and <string-name>
+<surname>Schmittgen</surname>, <given-names>T.D.</given-names>
+</string-name> (<year>2001</year>) <article-title>Analysis of relative gene expression data using real&#x02010;time quantitative PCR and the 2<sup>&#x02212;DDC(T)</sup> method</article-title>. <source xml:lang="en">Methods</source>, <volume>25</volume>, <fpage>402</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0047"><mixed-citation publication-type="journal" id="pbi12979-cit-0047">
+<string-name>
+<surname>Mahender</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Anandan</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Pradhan</surname>, <given-names>S.K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Early seedling vigour, an imperative trait for direct&#x02010;seeded rice: an overview on physio&#x02010;morphological parameters and molecular markers</article-title>. <source xml:lang="en">Planta</source>, <volume>241</volume>, <fpage>1027</fpage>&#x02013;<lpage>1050</lpage>.<pub-id pub-id-type="pmid">25805338</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0048"><mixed-citation publication-type="journal" id="pbi12979-cit-0048">
+<string-name>
+<surname>Miura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Nagamine</surname>, <given-names>T.</given-names>
+</string-name> (<year>2002</year>) <article-title>Mapping quantitative trait loci controlling seed longevity in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>104</volume>, <fpage>981</fpage>&#x02013;<lpage>986</lpage>.<pub-id pub-id-type="pmid">12582603</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0049"><mixed-citation publication-type="journal" id="pbi12979-cit-0049">
+<string-name>
+<surname>Miyao</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Murata</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sawaki</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Takeda</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shinozuka</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>Target site specificity of the <italic>Tos17</italic> retrotransposon shows a preference for insertion within genes and against insertion in retrotransposon&#x02010;rich regions of the genome</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>15</volume>, <fpage>1771</fpage>&#x02013;<lpage>1780</lpage>.<pub-id pub-id-type="pmid">12897251</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0050"><mixed-citation publication-type="journal" id="pbi12979-cit-0050">
+<string-name>
+<surname>Nambara</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Okamoto</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tatematsu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Kamiya</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2010</year>) <article-title>Abscisic acid and the control of seed dormancy and germination</article-title>. <source xml:lang="en">Seed Sci. Res.</source>
+<volume>20</volume>, <fpage>55</fpage>&#x02013;<lpage>67</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0051"><mixed-citation publication-type="journal" id="pbi12979-cit-0051">
+<string-name>
+<surname>Paparella</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wijayasinghe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carbonera</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Balestrazzi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Seed priming: state of the art and new perspectives</article-title>. <source xml:lang="en">Plant Cell Rep.</source>
+<volume>34</volume>, <fpage>1281</fpage>&#x02013;<lpage>1293</lpage>.<pub-id pub-id-type="pmid">25812837</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0052"><mixed-citation publication-type="journal" id="pbi12979-cit-0052">
+<string-name>
+<surname>Parera</surname>, <given-names>C.A.</given-names>
+</string-name> and <string-name>
+<surname>Cantliffe</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>1994</year>) <article-title>Pre&#x02010;sowing seed priming</article-title>. <source xml:lang="en">Hort. Rev.</source>
+<volume>16</volume>, <fpage>109</fpage>&#x02013;<lpage>141</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0053"><mixed-citation publication-type="journal" id="pbi12979-cit-0053">
+<string-name>
+<surname>Pergo</surname>, <given-names>E.M.</given-names>
+</string-name> and <string-name>
+<surname>Ishii&#x02010;Iwamoto</surname>, <given-names>E.L.</given-names>
+</string-name> (<year>2011</year>) <article-title>Changes in energy metabolism and antioxidant defense systems during seed germination of the weed species <italic>Ipomoea triloba</italic> L. and the responses to allelochemicals</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>37</volume>, <fpage>500</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">21503619</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0054"><mixed-citation publication-type="journal" id="pbi12979-cit-0054">
+<string-name>
+<surname>Rajjou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lovigny</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Groot</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Belghazi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Job</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Job</surname>, <given-names>D.</given-names>
+</string-name> (<year>2008</year>) <article-title>Proteome&#x02010;wide characterization of seed aging in <italic>Arabidopsis</italic>: a comparison between artificial and natural aging protocols</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>148</volume>, <fpage>620</fpage>&#x02013;<lpage>641</lpage>.<pub-id pub-id-type="pmid">18599647</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0055"><mixed-citation publication-type="journal" id="pbi12979-cit-0055">
+<string-name>
+<surname>Rios&#x02010;Iribe</surname>, <given-names>E.Y.</given-names>
+</string-name>, <string-name>
+<surname>Flores&#x02010;Cotera</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Ch&#x000e1;vira</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Alatorre</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Escamilla&#x02010;Silva</surname>, <given-names>E.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Inductive effect produced by a mixture of carbon source in the production of gibberellic acid by <italic>Gibberella fujikuroi</italic>
+</article-title>. <source xml:lang="en">World J. Microbiol. Biotechnol.</source>
+<volume>27</volume>, <fpage>1499</fpage>&#x02013;<lpage>1505</lpage>.<pub-id pub-id-type="pmid">25187149</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0056"><mixed-citation publication-type="journal" id="pbi12979-cit-0056">
+<string-name>
+<surname>Schwender</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ohlrogge</surname>, <given-names>J.B.</given-names>
+</string-name> and <string-name>
+<surname>Shachar&#x02010;Hill</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2003</year>) <article-title>A flux model of glycolysis and the oxidative pentosephosphate pathway in developing <italic>Brassica napus</italic> embryos</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>278</volume>, <fpage>29442</fpage>&#x02013;<lpage>29453</lpage>.<pub-id pub-id-type="pmid">12759349</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0057"><mixed-citation publication-type="journal" id="pbi12979-cit-0057">
+<string-name>
+<surname>Sliwinska</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Jendrzejczak</surname>, <given-names>E.</given-names>
+</string-name> (<year>2002</year>) <article-title>Sugar&#x02010;beet seed quality and DNA synthesis in the embryo in relation to hydration&#x02010;dehydration cycles</article-title>. <source xml:lang="en">Seed Sci. Technol.</source>
+<volume>30</volume>, <fpage>597</fpage>&#x02013;<lpage>608</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0058"><mixed-citation publication-type="journal" id="pbi12979-cit-0058">
+<string-name>
+<surname>Sugimoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Takeuchi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ebana</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Miyao</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hirochika</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hara</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ishiyama</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Molecular cloning of <italic>Sdr4</italic>, a regulator involved in seed dormancy and domestication of rice</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>107</volume>, <fpage>5792</fpage>&#x02013;<lpage>5797</lpage>.<pub-id pub-id-type="pmid">20220098</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0059"><mixed-citation publication-type="journal" id="pbi12979-cit-0059">
+<string-name>
+<surname>Vieira</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Vieira</surname>, <given-names>M.D.G.G.C.</given-names>
+</string-name>, <string-name>
+<surname>Fraga</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>J.A.</given-names>
+</string-name> and <string-name>
+<surname>Santos</surname>, <given-names>C.D.D.</given-names>
+</string-name> (<year>2002</year>) <article-title>Action of gibberellic acid (GA<sub>3</sub>) on dormancy and activity of &#x003b1;&#x02010;amylase in rice seeds</article-title>. <source xml:lang="en">Rev. Bras. Sementes.</source>
+<volume>24</volume>, <fpage>43</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0060"><mixed-citation publication-type="journal" id="pbi12979-cit-0060">
+<string-name>
+<surname>Wang</surname>, <given-names>Z.F.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Bao</surname>, <given-names>Y.M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>F.H.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>H.S.</given-names>
+</string-name> (<year>2010</year>) <article-title>Quantitative trait loci analysis for rice seed vigor during the germination stage</article-title>. <source xml:lang="en">J. Zhejiang Univ. Sci. B</source>, <volume>11</volume>, <fpage>958</fpage>&#x02013;<lpage>964</lpage>.<pub-id pub-id-type="pmid">21121075</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0061"><mixed-citation publication-type="journal" id="pbi12979-cit-0061">
+<string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>) <article-title>Quantitative trait loci controlling rice seed germination under salt stress</article-title>. <source xml:lang="en">Euphytica</source>, <volume>178</volume>, <fpage>297</fpage>&#x02013;<lpage>307</lpage>.</mixed-citation></ref><ref id="pbi12979-bib-0062"><mixed-citation publication-type="journal" id="pbi12979-cit-0062">
+<string-name>
+<surname>Wang</surname>, <given-names>W.Q.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>S.Q.</given-names>
+</string-name> and <string-name>
+<surname>M&#x000f8;ller</surname>, <given-names>I.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Proteomics of seed development, desiccation tolerance, germination and vigor</article-title>. <source xml:lang="en">Plant Physiol. Biochem.</source>
+<volume>86</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">25461695</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0063"><mixed-citation publication-type="journal" id="pbi12979-cit-0063">
+<string-name>
+<surname>Xie</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>KOBAS 2.0: a web server for annotation and identification of enriched pathways and diseases</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>39</volume>, <fpage>W316</fpage>&#x02013;<lpage>W322</lpage>.<pub-id pub-id-type="pmid">21715386</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0064"><mixed-citation publication-type="journal" id="pbi12979-cit-0064">
+<string-name>
+<surname>Xu</surname>, <given-names>H.H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>R.X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.Q.</given-names>
+</string-name> and <string-name>
+<surname>Song</surname>, <given-names>S.Q.</given-names>
+</string-name> (<year>2016a</year>) <article-title>Proteomics analysis reveals distinct involvement of embryo and endosperm proteins during seed germination in dormant and nondormant rice seeds</article-title>. <source xml:lang="en">Plant Physiol. Biochem.</source>
+<volume>103</volume>, <fpage>219</fpage>&#x02013;<lpage>242</lpage>.<pub-id pub-id-type="pmid">27035683</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0065"><mixed-citation publication-type="journal" id="pbi12979-cit-0065">
+<string-name>
+<surname>Xu</surname>, <given-names>H.H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.Q.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000f8;ller</surname>, <given-names>I.M.</given-names>
+</string-name> and <string-name>
+<surname>Song</surname>, <given-names>S.Q.</given-names>
+</string-name> (<year>2016b</year>) <article-title>Proteome changes associated with dormancy release of Dongxiang wild rice seeds</article-title>. <source xml:lang="en">J. Plant Physiol.</source>
+<volume>206</volume>, <fpage>68</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">27697673</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0066"><mixed-citation publication-type="journal" id="pbi12979-cit-0066">
+<string-name>
+<surname>Xu</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2017</year>) <article-title>Proteomic analysis reveals proteins involved in seed imbibition under salt stress in rice</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>2006</fpage>.<pub-id pub-id-type="pmid">28105039</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0067"><mixed-citation publication-type="journal" id="pbi12979-cit-0067">
+<string-name>
+<surname>Young</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Wakefield</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Smyth</surname>, <given-names>G.K.</given-names>
+</string-name> and <string-name>
+<surname>Oshlack</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Gene ontology analysis for RNA&#x02010;seq: accounting for selection bias</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>11</volume>, <fpage>R14</fpage>.<pub-id pub-id-type="pmid">20132535</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0068"><mixed-citation publication-type="journal" id="pbi12979-cit-0068">
+<string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Subdomain II of &#x003b1;&#x02010;isopropylmalate synthase is essential for activity: inferring a mechanism of feedback inhibition</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>289</volume>, <fpage>27966</fpage>&#x02013;<lpage>27978</lpage>.<pub-id pub-id-type="pmid">25128527</pub-id></mixed-citation></ref><ref id="pbi12979-bib-0069"><mixed-citation publication-type="journal" id="pbi12979-cit-0069">
+<string-name>
+<surname>Zhang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>He</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>Dihydroxyacid dehydratase is important for gametophyte development and disruption causes increased susceptibility to salinity stress in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>66</volume>, <fpage>879</fpage>&#x02013;<lpage>888</lpage>.<pub-id pub-id-type="pmid">25399005</pub-id></mixed-citation></ref></ref-list></back></article>

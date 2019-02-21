@@ -1,0 +1,191 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20050630//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bioinformation</journal-id><journal-id journal-id-type="iso-abbrev">Bioinformation</journal-id><journal-id journal-id-type="publisher-id">Bioinformation</journal-id><journal-title-group><journal-title>Bioinformation</journal-title></journal-title-group><issn pub-type="epub">0973-2063</issn><publisher><publisher-name>Biomedical Informatics</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6143355</article-id><article-id pub-id-type="publisher-id">97320630014393</article-id><article-id pub-id-type="doi">10.6026/97320630014393</article-id><article-categories><subj-group subj-group-type="heading"><subject>Hypothesis</subject></subj-group></article-categories><title-group><article-title>Transcriptome wide identification and characterization of Starch Synthase enzyme in finger millet</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Tyagi</surname><given-names>Rajhans</given-names></name><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="COR1">*</xref></contrib><contrib contrib-type="author"><name><surname>Tiwari</surname><given-names>Apoorv</given-names></name><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name><surname>Gupta</surname><given-names>Alok Kumar</given-names></name><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author"><name><surname>Gupta</surname><given-names>Sanjay</given-names></name><xref ref-type="aff" rid="A5">5</xref></contrib><aff id="A1"><label>1</label>Uttarakhand Technical University, Dehradun, Uttarakhand, 248007, India</aff><aff id="A2"><label>2</label>Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS), Allahabad, 211007, India</aff><aff id="A3"><label>3</label>Dept of Molecular Biology and Genetic Engineering, G.B. Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India</aff><aff id="A4"><label>4</label>Amity University Uttar Pradesh, Noida. 201313, India</aff><aff id="A5"><label>5</label>Himalayan School of Biosciences, Swami Rama Himalayan University, Jolly Grant, Dehradun, 248016, India</aff></contrib-group><author-notes><corresp id="COR1"><label>*</label>Rajhans Tyagi <email>rajhans.gaheli@gmail.com </email></corresp></author-notes><pub-date pub-type="collection"><year>2018 </year></pub-date><pub-date pub-type="epub"><day>31 </day><month>7</month><year>2018</year></pub-date><volume>14</volume><issue>7</issue><fpage>393</fpage><lpage>397</lpage><history><date date-type="received"><day>7 </day><month>7</month><year>2018</year></date><date date-type="rev-recd"><day>10 </day><month>7</month><year>2018</year></date><date date-type="accepted"><day>30 </day><month>7</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; 2018 Biomedical Informatics</copyright-statement><copyright-year>2018</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>This is an Open Access article which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the original work is properly credited. This is distributed under the terms of the Creative Commons Attribution License.</license-p></license></permissions><abstract><p>Finger millet is a calcium-rich cereal crop of the grass family. The transcriptome data for finger millet is available at NCBI. It is of
+interest to annotate and characterize starch synthase enzyme from finger millet transcriptome data. Starch synthase plays an important
+role in the elongation of glucan chains during the formation of starch. The starch synthase enzyme is characterized using three
+domains (Glyco_transf_5, Glycos_transf_1 and Glyco_trans_1_4). Binding sites for GLC (alpha-d-glucose), PLP (Pyridoxal-5'-
+phosphate), AMP (Adenosine monophosphate) and GOL (Glycerol) are found. The phylogenetic analysis showed that the finger millet
+starch synthase is similar to the granule-bound starch synthase of Oryza sativa and Concrete amaricanus. We report the sequence
+(GenBank accession number KY648917) and the structural model of finger millet starch synthase (PMDB ID: PM0081600).</p></abstract><kwd-group><kwd>Finger millet</kwd><kwd>CDS</kwd><kwd>SBE</kwd><kwd>Domain</kwd><kwd>PMDB</kwd><kwd>NCBI</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>Background</title><p>Starch is the important molecule for plant development and
+reproduction. Starch can define as a complex branched glucose
+polymer and the branch molecular weight distribution power up
+the nutritionally important properties such as digestion rate, etc
+[<xref rid="R01" ref-type="bibr">1</xref>]. Resistant starch is considered the third type of dietary fiber,
+as it can deliver some of the benefits of insoluble fiber and some
+of the benefits of soluble fiber. Some carbohydrates such as sugar
+and most starch are rapidly digested and absorbed as glucose
+into the body through the small intestine and subsequently used
+for short-term energy needs for stored. Resistant starch, on the
+other hand, resists digestion and passes through the large
+intestine where it acts like dietary fibers. The resistance from
+digestion is attributed by the ratio of amylase and amylopectin
+chain during starch biosynthesis besides architectural effects
+during packaging of grains. Starch is the end product of
+photosynthesis in source tissues and is stored as energy reserves
+in sink tissues. Starch has two major components, the basically
+linear a-polyglucan amylose, and the branched a-polyglucan
+amylopectin. The a-1, 4-glucosidic link chains of both amylose
+and amylopectin are elongated by the addition of the glucose
+moiety from ADP glucose, which is synthesized by ADP glucose
+pyrophosphorylase (AGPase) from glucose-1-P, to the nonreducing
+end of the a-glucan acceptor molecule. The elongation
+reactions for the a-1, 4-chains of amylose and amylopectin are
+distinctively catalyzed using a starch granule-bound form of
+starch synthase (GBSS) and a soluble form of starch synthase (SS),
+respectively. Starch synthase activity was first discovered using
+Leloir's group and the activity were associated with the starch
+granule. These starch synthases are designated as GBSSs to
+distinguish them from the starch synthases mainly in the soluble
+phase of the chloroplast or amyloplast. The starch-synthase
+enzyme is one of the four major enzyme classes involved in
+starch biosynthesis in plants as SSI, SSII, SSIII, and SSIV.</p><p>A cereal is a grass, a member of the monocot family Poaceae also
+known as Gramineae, which usually have long, thin stalks, such
+as wheat, rice, maize, sorghum, millet, barley, and rye, whose
+starchy grains are used as food. The term cereal is not limited to
+these grains. But, refers to foodstuff prepared from the starchy
+grains of cereal like flours, breads and pasta [<xref rid="R02" ref-type="bibr">2</xref>]. All cereals are
+annual plants and consequently, one planting yields one harvest.
+The demands on climate, however, are different. Warm-season
+cereals (corn, rice, sorghum, millet) are grown in tropical
+lowlands throughout the year and in temperate climates during
+the frost-free season. Finger millet is considered to be a boon for
+diabetes patients and obese people, as the digestion of finger
+Millet takes place at a slow pace and hence, glucose is released
+slowly into the blood [<xref rid="R03" ref-type="bibr">3</xref>]. In rice and other related plants the
+sequence of starch synthase enzyme is known but in finger millet,
+the nucleotide sequence of the starch synthase enzyme is not yet
+known. Availability of the transcriptome data of developing
+spikes of finger millet [<xref rid="R04" ref-type="bibr">4</xref>] provides an opportunity to predict the
+gene sequence of important traits of the nutritional point of view.
+Hence an effort is made for the prediction of an important
+enzyme i.e. starch synthase enzyme in the finger millet and
+submit the genomic as well as proteomic information for further
+scientific and research interventions.</p></sec><sec id="s2"><title>Methodology</title><sec id="s2a"><title>Sequence retrieval and Domain prediction</title><p>The sequence of finger millet starch synthase enzyme was
+retrieved by the blast analysis of the homologous sequence of rice
+download from NCBI database. Local BLAST [<xref rid="R05" ref-type="bibr">5</xref>] was used to
+retrieve starch synthase sequence of finger millet from the online
+submitted [<xref rid="R04" ref-type="bibr">4</xref>] transcriptome data of finger millets. ORF
+Prediction tool was used for open reading frame prediction with
+default parameters and verify predicted protein using newly
+developed SMART BLAST or regular BLASTP. ORF finder
+searches for open reading frames (ORFs) in the nucleotide
+sequence (KY648917). The program returns the range of each
+ORF, along with its protein translation. SMART domain
+prediction tool was used for the prediction of the domain in the
+coding sequence of starch synthase finger millet.</p></sec><sec id="s2b"><title>Protein Primary, Secondary and Tertiary Structure and
+Function Prediction</title><p>Protein sequence level annotation was done using ProtParam
+server. It allows the computation of various physical and
+chemical parameters for protein sequence (ARA71548). The
+computed parameters include the molecular weight, theoretical
+pI, amino acid composition, atomic composition, instability
+index, aliphatic index and grand average of hydropath city
+(GRAVY) [<xref rid="R06" ref-type="bibr">6</xref>].</p><p>The secondary structure of protein sequence (ARA71548) was
+predicted by CFSSP (Chou &#x00026; Fasman Secondary Structure
+Prediction Server) is an online protein secondary structure
+prediction server. This server predicts regions of secondary
+structure from the protein sequence such as alpha helix, beta
+sheet, and turns from the amino acid sequence. The output of the 
+predicted secondary structure is also displayed in linear
+sequential graphical view based on the probability of occurrence
+of alpha helix, beta sheet, and turns with implemented CFSSP is
+Chou-Fasman algorithm, which is based on analyses of the
+relative frequencies of each amino acid in alpha helices, beta
+sheets, and turns based on known protein structures solved with
+X-ray crystallography [<xref rid="R07" ref-type="bibr">7</xref>].</p><p>The tertiary structure of the starch synthase enzyme (ARA71548)
+was predicted using RaptorX a web portal for protein structure
+and function prediction. The amino acid sequence of the enzyme
+was submitted to the server and which predicts its tertiary
+structures as well as contact map, solvent accessibility,
+disordered regions and binding sites and assigned confidence
+scores to indicate the quality of prediction results. For structure
+validation purpose Ramachandran plot analysis was done using
+RamPage server [<xref rid="R08" ref-type="bibr">8</xref>].</p></sec><sec id="s2c"><title>Template validation and Phylogenetic Analysis</title><p>For validating the template-based modeling by RaptorX server,
+we have done Blastp against PDB database and select the
+template protein sequences. These Protein sequences were
+subjected to multiple sequence alignment and tree construction
+using MEGA v6.0 [<xref rid="R09" ref-type="bibr">9</xref>]. We construct another phylogenetic tree of
+starch synthase nucleotide sequence on the basis of protein
+sequence similarity by using NCBI blastp non-redundant protein
+database and retrieved all the similar sequences for phylogenetic
+analysis.</p></sec></sec><sec id="s3"><title>Result &#x00026; Discussion</title><sec id="s3a"><title>ORD and Domain Prediction</title><p>Nucleotide as well as protein sequences of starch synthase of
+Eleusine coracana were retrieved by NCBI database, which were
+submitted in NCBI with nucleotide sequence accession KY648917
+length is 1851 base pare and protein sequence ARA71548 is
+comprises 616 amino acids. The open reading frame analysis of
+the nucleotide sequence resulted in 20 ORF, on positive and
+negative strands and selected the longest ORF among them with
+616 amino acid long and cover a total length of the Nucleotide
+sequence.</p><p>SMART Domain prediction tool predict the three major domains
+in the protein sequence of starch synthase enzyme viz- low
+complexity domain (51-75), Glyco_transf_5 (90-351) with and
+Glycos_transf_1 (396-531) as shown in <xref rid="T1" ref-type="table">Table 1</xref>. This family is
+most closely related to the GT1 family of glycosyltransferases.
+Glycogen synthase catalyzes the formation and elongation of the
+alpha-1,4-glucose backbone using ADP-glucose, the second and
+key step of glycogen biosynthesis. This family includes starch
+synthases of plants, such as DULL1 in Zea mays and glycogen
+synthases of various organisms.</p><p>Superfamily glycosyltransferases catalyze the transfer of sugar
+moieties from activated donor molecules to specific acceptor
+molecules, forming glycosidic bonds. The acceptor molecule can
+be a protein, a heterocyclic compound, a lipid or another 
+carbohydrate residue. The structures of the formed
+glycoconjugates are extremely diverse, involved in a wide range
+of biological functions. The members of this family share a
+common GTB topology, one of the two protein topologies
+observed for nucleotide-sugar-dependent glycosyltransferases.
+GTB proteins have distinct N and C- terminal domains each
+containing a typical Rossmann fold. The two domains have high
+structural homology despite minimal sequence homology. The
+large cleft that separates the two domains includes the catalytic
+center and permits a high degree of flexibility.</p></sec><sec id="s3b"><title>Protein Primary, Secondary and Tertiary Structure Prediction</title><p>A number of amino acids in the starch synthase are 616 <xref rid="T2" ref-type="table">Table 2</xref>
+and the molecular weight was found 67201.01 with theoretical pI
+6.87. The total number of negatively charged residues (Asp +
+Glu) and the total number of positively charged residues (Arg +
+Lys) were 72 and 71 respectively. The chemical formula of the
+enzyme is "C2987H4700N830O875S30" with 9422 number of
+atoms. The aliphatic index was found 81.59 and grand average of
+hydropathicity (GRAVY) was -0.200. The instability index (II) is
+computed to be 27.50 which classify the protein as stable. An
+intermediate but useful step is to predict the protein secondary
+structure, that is, each residue of a protein sequence is assigned a
+conformational state, either helix (H), sheet (E) or coil (C) and the
+secondary structure of starch synthase has 71.3% helix, 60.2%
+sheet and 11.9 % coil region.</p><p>Tertiary structure of starch synthase was predicted by using
+3vueA template with p-value 9.74e-12 and Overall uGDT (GDT)
+is 448 (72) and 616(100%) residues are modeled. Solvent access is
+22%E, 44%M, 32%B <xref ref-type="fig" rid="F1">Figure 1</xref>. The Ramachandran plot analysis of
+the predicted structure shows that the percentage of residues in
+favoured region is 95.0%, residues in allowed region 4.2% and
+residues in outlier region was 0.8%, which indicate that the
+structure has a stable and accurate prediction. The binding
+affinity of ligands i.e. Alpha-d-glucose, Pyridoxal-5'-phosphate
+Adenosine monophosphate and Glycerol with the starch
+synthase tertiary structure was calculated by RaptorX server
+<xref rid="T3" ref-type="table">Table 3</xref> &#x00026; <xref rid="T4" ref-type="table">Table 4</xref>. The predicted model of starch synthase of finger
+millet in the 3D conformation was submitted to protein model
+submission database with the PMDB ID - PM0081600 [<xref rid="R10" ref-type="bibr">10</xref>].</p></sec><sec id="s3c"><title>Phylogenetic analysis</title><p>For prediction of protein tertiary structure, there is need of
+template so Blastp program was used against PDB database and
+use all the hits for the phylogenetic study and 3VUE of rice was
+found much closer with starch synthase of Eleusine coracana as
+shown in <xref ref-type="fig" rid="F2">Figure 2A</xref>.</p><p>Phylogenetic analysis was done on the basis of protein sequence
+and protein structure. The sequence level analysis was done on
+the basis of blastp result and top 25-blast hit were retrieved and
+used these sequences for phylogenetic analysis by aligning them 
+together. By this analysis, it was found that the starch synthase
+sequence of Eleusine coracana was much similar to the granulebound
+starch synthase of Oryza sativa and Concrete amaricanus as
+shown in <xref ref-type="fig" rid="F2">Figure 2B</xref>.</p></sec></sec><sec id="s4"><title>Conclusion</title><p>Finger millet is a nutritionally rich cereal crop grown in different
+regions of worlds under adverse weather conditions. It is rich in
+calcium among other cereal crops. The transcriptome data of
+finger millet is also available. Different pathways are involved in
+the starch biosynthesis catalyzed by different enzymes. Starch is
+synthesized in plastids, including chloroplasts in photosynthetic
+tissues and amyloplasts in non-photosynthetic tissues such as
+seeds, roots, and tubers. Starch synthesized in chloroplasts of
+photosynthetic tissues is degraded to hexoses during the dark
+period. It is of interest to characterize starch synthase enzyme
+from finger millet. We report its sequence and structural model
+with predicted functional and architectural features.</p></sec></body><back><fn-group><fn id="FN" fn-type="other"><p><bold>Edited by P Kangueane</bold></p></fn></fn-group><fn-group><fn id="FN1" fn-type="other"><p><bold>Citation: </bold>Tyagi <italic>et al.</italic> Bioinformation 14(7): 393-397 (2018)</p></fn></fn-group><ref-list><title>References</title><ref id="R01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>C</given-names></name><etal/></person-group><source>PLOS ONE.</source><year>2015</year><volume>10</volume><fpage>e0125507.</fpage><?supplied-pmid 25874689?><pub-id pub-id-type="pmid">25874689</pub-id></element-citation></ref><ref id="R02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarwar</surname><given-names>MH</given-names></name><etal/></person-group><source>Journal of cereals and oilseeds.</source><year>2013</year><volume>4</volume><fpage>32</fpage></element-citation></ref><ref id="R03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Begum</surname><given-names>J</given-names></name><etal/></person-group><source>International Journal of Science, Environment and Technology.</source><year>2016</year><volume>5</volume><fpage>4086</fpage></element-citation></ref><ref id="R04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname></name><etal/></person-group><source>Plant molecular biology reporter.</source><year>2014</year><volume>33</volume></element-citation></ref><ref id="R05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Altschul</surname><given-names>SF</given-names></name><etal/></person-group><source>J. Mol. Biol.</source><year>1990</year><volume>215</volume><fpage>403</fpage><?supplied-pmid 2231712?><pub-id pub-id-type="pmid">2231712</pub-id></element-citation></ref><ref id="R06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gasteiger</surname></name><etal/></person-group><source>The Proteomics Protocols Handbook, Humana Press.</source><year>2005</year><volume>571</volume><?supplied-pmid 10027275?><pub-id pub-id-type="pmid">10027275</pub-id></element-citation></ref><ref id="R07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peter</surname></name><etal/></person-group><source>Biochemistry.</source><year>1974</year><volume>13</volume><fpage>222</fpage><pub-id pub-id-type="pmid">4358940</pub-id></element-citation></ref><ref id="R08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morten</surname></name><etal/></person-group><source>Nature Protocols.</source><year>2012</year><volume>7</volume><fpage>1511</fpage><?supplied-pmid 22814390?><pub-id pub-id-type="pmid">22814390</pub-id></element-citation></ref><ref id="R09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tamura</surname><given-names>K</given-names></name><etal/></person-group><source>MEGA6.</source><year>2013</year><volume>30</volume><fpage>2725</fpage><?supplied-pmid 24132122?><pub-id pub-id-type="pmid">24132122</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tyagi</surname></name><etal/></person-group><source>Protein Model Data Base.</source><year>2018</year></element-citation></ref></ref-list></back><floats-group><table-wrap id="T1" position="float"><label>Table 1</label><caption><title>Domain analysis of finger millet starch synthase enzyme</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">Name</td><td rowspan="1" colspan="1">Start</td><td rowspan="1" colspan="1">End</td><td rowspan="1" colspan="1">E-value</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">low complexity</td><td rowspan="1" colspan="1">51</td><td rowspan="1" colspan="1">75</td><td rowspan="1" colspan="1">N/A</td></tr><tr><td rowspan="1" colspan="1">Pfam:Glyco_transf_5</td><td rowspan="1" colspan="1">90</td><td rowspan="1" colspan="1">351</td><td rowspan="1" colspan="1">5.60E-73</td></tr><tr><td rowspan="1" colspan="1">Pfam:Glycos_transf_1</td><td rowspan="1" colspan="1">396</td><td rowspan="1" colspan="1">531</td><td rowspan="1" colspan="1">1.10E-15</td></tr><tr><td rowspan="1" colspan="1">Pfam:Glyco_trans_1_4</td><td rowspan="1" colspan="1">405</td><td rowspan="1" colspan="1">535</td><td rowspan="1" colspan="1">2.50E-06</td></tr></tbody></table></table-wrap><table-wrap id="T2" position="float"><label>Table 2</label><caption><title>Amino acid composition of starch synthase protein
+sequence</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">Amino Acid</td><td rowspan="1" colspan="1">Number</td><td rowspan="1" colspan="1">Percentage</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Ala (A)</td><td rowspan="1" colspan="1">69</td><td rowspan="1" colspan="1">11.20%</td></tr><tr><td rowspan="1" colspan="1">Arg (R)</td><td rowspan="1" colspan="1">36</td><td rowspan="1" colspan="1">5.80%</td></tr><tr><td rowspan="1" colspan="1">Asn (N)</td><td rowspan="1" colspan="1">22</td><td rowspan="1" colspan="1">3.60%</td></tr><tr><td rowspan="1" colspan="1">Asp (D)</td><td rowspan="1" colspan="1">33</td><td rowspan="1" colspan="1">5.40%</td></tr><tr><td rowspan="1" colspan="1">Cys (C)</td><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">1.90%</td></tr><tr><td rowspan="1" colspan="1">Gln (Q)</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">2.80%</td></tr><tr><td rowspan="1" colspan="1">Glu (E)</td><td rowspan="1" colspan="1">39</td><td rowspan="1" colspan="1">6.30%</td></tr><tr><td rowspan="1" colspan="1">Gly (G)</td><td rowspan="1" colspan="1">56</td><td rowspan="1" colspan="1">9.10%</td></tr><tr><td rowspan="1" colspan="1">His (H)</td><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">1.90%</td></tr><tr><td rowspan="1" colspan="1">Ile (I)</td><td rowspan="1" colspan="1">26</td><td rowspan="1" colspan="1">4.20%</td></tr><tr><td rowspan="1" colspan="1">Leu (L)</td><td rowspan="1" colspan="1">48</td><td rowspan="1" colspan="1">7.80%</td></tr><tr><td rowspan="1" colspan="1">Lys (K)</td><td rowspan="1" colspan="1">35</td><td rowspan="1" colspan="1">5.70%</td></tr><tr><td rowspan="1" colspan="1">Met (M)</td><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">2.90%</td></tr><tr><td rowspan="1" colspan="1">Phe (F)</td><td rowspan="1" colspan="1">22</td><td rowspan="1" colspan="1">3.60%</td></tr><tr><td rowspan="1" colspan="1">Pro (P)</td><td rowspan="1" colspan="1">38</td><td rowspan="1" colspan="1">6.20%</td></tr><tr><td rowspan="1" colspan="1">Ser (S)</td><td rowspan="1" colspan="1">26</td><td rowspan="1" colspan="1">4.20%</td></tr></tbody></table></table-wrap><table-wrap id="T3" position="float"><label>Table 3</label><caption><title>Binding affinity of starch synthase and their ligands</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">Pocket</td><td rowspan="1" colspan="1">Multiplicity</td><td rowspan="1" colspan="1">Ligand</td><td rowspan="1" colspan="1">Binding residues</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">1.</td><td rowspan="1" colspan="1">81</td><td rowspan="1" colspan="1">GLC</td><td rowspan="1" colspan="1">G106 L107 V110 H270 N271 V327 N359 Q418 E492 P493 C494 G495</td></tr><tr><td rowspan="1" colspan="1">2.</td><td rowspan="1" colspan="1">69</td><td rowspan="1" colspan="1">PLP</td><td rowspan="1" colspan="1">A99 K103 G105 G106 G413 K419 F470 N471 A472 G495 L496 I497 Q500</td></tr><tr><td rowspan="1" colspan="1">3.</td><td rowspan="1" colspan="1">36</td><td rowspan="1" colspan="1">AMP</td><td rowspan="1" colspan="1">H160 I217 L218 N219 L220 N221 S222</td></tr><tr><td rowspan="1" colspan="1">4.</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">GOL</td><td rowspan="1" colspan="1">G105 G106 L107 D240 W241 H242 N271 Y274 G276</td></tr></tbody></table></table-wrap><table-wrap id="T4" position="float"><label>Table 4</label><caption><title>Chemical Component Summary of ligands binds with the starch synthase</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">S. No.</td><td rowspan="1" colspan="1">Ligands</td><td rowspan="1" colspan="1">Name</td><td rowspan="1" colspan="1">Formula</td><td rowspan="1" colspan="1">Molecular Weight</td><td rowspan="1" colspan="1">Type</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">1.</td><td rowspan="1" colspan="1">GLC</td><td rowspan="1" colspan="1">Alpha-d-glucose</td><td rowspan="1" colspan="1">C6 H12 O6</td><td rowspan="1" colspan="1">180.16</td><td rowspan="1" colspan="1">SACCHARIDE</td></tr><tr><td rowspan="1" colspan="1">2.</td><td rowspan="1" colspan="1">PLP</td><td rowspan="1" colspan="1">Pyridoxal-5'-phosphate</td><td rowspan="1" colspan="1">C8 H10 N O6 P</td><td rowspan="1" colspan="1">247.14</td><td rowspan="1" colspan="1">NON-POLYMER</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">AMP</td><td rowspan="1" colspan="1">Adenosine monophosphate</td><td rowspan="1" colspan="1">C10 H14 N5 O7 P</td><td rowspan="1" colspan="1">347.22</td><td rowspan="1" colspan="1">NON-POLYMER</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">GOL</td><td rowspan="1" colspan="1">Glycerol</td><td rowspan="1" colspan="1">C3 H8 O3</td><td rowspan="1" colspan="1">92.09</td><td rowspan="1" colspan="1">NON-POLYMER</td></tr></tbody></table></table-wrap><fig id="F1" position="float"><label>Figure 1</label><caption><p>Tertiary structure of Starch Synthase enzyme predicted
+by RaptorX server using PDB 3VUE A chain as a template</p></caption><graphic xlink:href="97320630014393F1"/></fig><fig id="F2" position="float"><label>Figure 2</label><caption><p>A- Phylogenetic tree for template validation (3VUE A chain) on the basis of structural similarity for structure prediction of
+Starch synthase enzyme and B- On the basis of protein sequence homology with Starch synthase enzyme of Eleucine coracana.</p></caption><graphic xlink:href="97320630014393F2"/></fig></floats-group></article>

@@ -1,0 +1,671 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6131477</article-id><article-id pub-id-type="doi">10.1111/pbi.12907</article-id><article-id pub-id-type="publisher-id">PBI12907</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Blocking amino acid transporter <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> improves grain yield by promoting outgrowth buds and increasing tiller number in rice</article-title><alt-title alt-title-type="left-running-head"><italic>Kai Lu</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12907-cr-0001" contrib-type="author"><name><surname>Lu</surname><given-names>Kai</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="pbi12907-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12907-cr-0002" contrib-type="author"><name><surname>Wu</surname><given-names>Bowen</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="pbi12907-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12907-cr-0003" contrib-type="author"><name><surname>Wang</surname><given-names>Jie</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12907-cr-0004" contrib-type="author"><name><surname>Zhu</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12907-cr-0005" contrib-type="author"><name><surname>Nie</surname><given-names>Haipeng</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12907-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12907-cr-0006" contrib-type="author"><name><surname>Qian</surname><given-names>Junjie</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12907-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12907-cr-0007" contrib-type="author"><name><surname>Huang</surname><given-names>Weiting</given-names></name><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12907-cr-0008" contrib-type="author" corresp="yes"><name><surname>Fang</surname><given-names>Zhongming</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5478-8978</contrib-id><address><email>zmfang@mail.hzau.edu.cn</email></address><xref ref-type="aff" rid="pbi12907-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12907-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="pbi12907-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Center of Applied Biotechnology</named-content>
+<institution>Wuhan Institute of Bioengineering</institution>
+<named-content content-type="city">Wuhan</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12907-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">National Key Laboratory of Crop Genetic Improvement</named-content>
+<named-content content-type="organisation-division">College of Plant Science and Technology</named-content>
+<institution>Huazhong Agricultural University</institution>
+<named-content content-type="city">Wuhan</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +86 27 8964 6766; fax +86 27 8964 6766; email <email>zmfang@mail.hzau.edu.cn</email>)</corresp><fn fn-type="equal" id="pbi12907-note-1001"><label>&#x02020;</label><p>These two authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>25</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2018</year></pub-date><volume>16</volume><issue>10</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-10</issue-id><fpage>1710</fpage><lpage>1722</lpage><history><date date-type="received"><day>20</day><month>10</month><year>2017</year></date><date date-type="rev-recd"><day>24</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>07</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-1710.pdf"/><abstract id="pbi12907-abs-0001"><title>Summary</title><p>Amino acid transporters (<styled-content style="fixed-case">AAT</styled-content>s) play indispensable roles in nutrient allocation during plant development. In this study, we demonstrated that inhibiting expression of the rice amino acid transporter <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> increased grain yield due to a formation of larger numbers of tillers as a result of increased bud outgrowth. Elevated expression of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> in transgenic plants resulted in significantly higher amino acid concentrations of Lys, Arg, His, Asp, Ala, Gln, Gly, Thr and Tyr, and inhibited bud outgrowth and rice tillering. However, <styled-content style="fixed-case">RNA</styled-content>i of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> decreased significantly Arg, Lys, Asp and Thr concentrations to a small extent, and thus promoted bud outgrowth, increased significantly tiller numbers and effective panicle numbers per plant, and further enhanced significantly grain yield and nitrogen use efficiency (<styled-content style="fixed-case">NUE</styled-content>). The promoter sequences of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> showed some divergence between <italic>Japonica</italic> and <italic>Indica</italic> rice, and expression of the gene was higher in <italic>Japonica</italic>, which produced fewer tillers than <italic>Indica</italic>. We generated knockout lines of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> on <italic>Japonica</italic>
+<styled-content style="fixed-case">ZH</styled-content>11 and <styled-content style="fixed-case">KY</styled-content>131 using <styled-content style="fixed-case">CRISPR</styled-content> technology and found that grain yield could be increased significantly. These results suggest that manipulation of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> expression could be used to increase grain yield in rice.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12907-kwd-0001">amino acid</kwd><kwd id="pbi12907-kwd-0002">transporter</kwd><kwd id="pbi12907-kwd-0003">rice</kwd><kwd id="pbi12907-kwd-0004">grain yield</kwd><kwd id="pbi12907-kwd-0005">tiller</kwd><kwd id="pbi12907-kwd-0006">outgrowth bud</kwd></kwd-group><funding-group><award-group><funding-source>National Key Research and Development Program</funding-source><award-id>2016YFD01007</award-id></award-group><award-group><funding-source>National Natural Science Foundation</funding-source><award-id>31301250</award-id><award-id>31701990</award-id></award-group><award-group><funding-source>open project of State Key Laboratory of Rice Biology</funding-source><award-id>160203</award-id></award-group><award-group><funding-source>Hubei Natural Science Foundation</funding-source><award-id>2017CFB696</award-id></award-group><award-group><funding-source>Scientific research projects of Hubei Education Department</funding-source><award-id>B2017293</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="13"/><word-count count="8490"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12907</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:11.09.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="pbi12907-ntgp-0001"><fn id="pbi12907-note-1002"><p>Accession: <italic>OsAAP3</italic> (LOC_Os06g36180)</p></fn></fn-group></notes></front><body><sec id="pbi12907-sec-0001"><title>Introduction</title><p>Inorganic nitrogen (N) is mainly absorbed by plants in the form of nitrate and ammonium and is then converted into amino acids directly in the roots or after translocation to the leaves. The amino acids are then transported to roots, leaves, flowers, pollen and embryos (Fischer <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0008" ref-type="ref">1998</xref>). Amino acids require transporter proteins to move them from source to sink organs (Coruzzi and Bush, <xref rid="pbi12907-bib-0004" ref-type="ref">2001</xref>; Tegeder, <xref rid="pbi12907-bib-0039" ref-type="ref">2012</xref>); these amino acid transporters (AATs) are cellular membrane proteins that transport particular amino acids. The transporters play critical roles in various processes in plants such as seed development, and abiotic and pathogen stresses (N&#x000e4;sholm <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0025" ref-type="ref">2009</xref>; Paungfoo&#x02010;Lonhienne <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0029" ref-type="ref">2008</xref>; Schulze <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0036" ref-type="ref">1999</xref>).</p><p>To date, a large number of <italic>AAT</italic> gene family members have been identified in <italic>Arabidopsis</italic> (Tegeder, <xref rid="pbi12907-bib-0039" ref-type="ref">2012</xref>), rice (Lu <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0020" ref-type="ref">2012</xref>), poplar (Wu <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0043" ref-type="ref">2015</xref>), <italic>Solanum tuberosum</italic> L. (Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0022" ref-type="ref">2016</xref>) and <italic>Glycine max</italic> L. (Cheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0003" ref-type="ref">2016</xref>). These studies have shown that AAP transporters play important roles in the loading of amino acids for nitrogen sink and supply (Tegeder and Ward, <xref rid="pbi12907-bib-0040" ref-type="ref">2012</xref>). In <italic>Arabidopsis</italic>, AtAAP1 regulates amino acid transport to root cells and embryos (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0016" ref-type="ref">2007</xref>; Sanders <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0032" ref-type="ref">2009</xref>). In addition, AtAAP1 participates in the uptake of glutamate and neutral amino acids in <italic>Arabidopsis</italic> when these are present at soil concentrations (Perchlik <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0031" ref-type="ref">2014</xref>). AtAAP2 is localized in the phloem and plays a major role in N transfer from the xylem to phloem (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0051" ref-type="ref">2010</xref>). <italic>AtAAP3</italic> is preferentially expressed in the root phloem (Okumoto <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0028" ref-type="ref">2004</xref>). AtAAP5 transports amino acids at low concentrations in the roots (Svennerstam <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0037" ref-type="ref">2008</xref>), and AtAAP6 regulates the amino acid composition of the phloem (Hunt <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0013" ref-type="ref">2010</xref>). AtAAP8 transports amino acids to the endosperm during early embryogenesis (Schmidt <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0034" ref-type="ref">2007</xref>) and was recently shown to be localized to the plasma membrane and to function in phloem loading (Santiago and Tegeder, <xref rid="pbi12907-bib-0033" ref-type="ref">2016</xref>).</p><p>Although the functions of AtAATs have been extensively studied in <italic>Arabidopsis</italic>, the roles of OsAATs in rice are much less well understood (Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0052" ref-type="ref">2012</xref>). Whole genome analyses have suggested the presence of 79&#x02013;85 AAT homologous genes in rice (Lu <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0020" ref-type="ref">2012</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0052" ref-type="ref">2012</xref>). It has been shown that biomass and yield of rice are altered significantly when <italic>OsAAT</italic> genes are knocked out (Lu <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0020" ref-type="ref">2012</xref>; Peng <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0030" ref-type="ref">2014</xref>). At present, it is known that OsAAP6 regulates grain protein content and nutritional quality in rice (Peng <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0030" ref-type="ref">2014</xref>).</p><p>OsAAP3 has activity of transporting Ser, Met, Lys, Leu, His, Gln, Arg, Ala and Gly, especially for transporting the basic amino acids Lys and Arg (Taylor <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0038" ref-type="ref">2015</xref>). Here, we further indicated that the SNPs in the promoter sequence of <italic>OsAAP3</italic> are divergent between <italic>Japonica</italic> and <italic>Indica</italic> in all 524 rice accession varieties. And the expression level of <italic>OsAAP3</italic> is negatively correlated with tiller number in rice. Blocking <italic>OsAAP3</italic> could improve grain yield by promoting outgrowth buds and increasing tiller numbers especially in rice <italic>Japonica</italic> through regulating the concentrations of Lys, Arg, His, Asp, Ala, Gln, Gly, Thr and Tyr.</p></sec><sec id="pbi12907-sec-0002"><title>Results</title><sec id="pbi12907-sec-0003"><title>Sequence divergence in the <italic>OsAAP3</italic> promoter regions of <italic>Japonica</italic> and <italic>Indica</italic> rice</title><p>Overall, 524 rice accession varieties were used in this study, and these belong to nine subpopulations: <italic>IndI</italic>,<italic> IndII</italic>,<italic> Indica</italic> intermediate, <italic>Tej</italic>,<italic> Trj</italic>,<italic> Japonica</italic> intermediate, <italic>Aus</italic>,<italic> VI</italic> and intermediate (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0002" ref-type="ref">2014</xref>). The <italic>Indica</italic> subpopulation (<italic>IndI</italic>,<italic> IndII</italic> and <italic>Indica</italic> intermediate) included 295 accessions, while the <italic>Japonica</italic> subpopulation (<italic>Tej</italic>,<italic> Trj</italic> and <italic>Japonica</italic> intermediate) included 156 accessions. We analysed the exons and promoter sequences of <italic>OsAAP3</italic> in all 524 accessions and identified 25 haplotypes in the accessions (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>a). The Hap1 and Hap2 haplotypes were mainly present in <italic>Japonica</italic> accessions; the Hap4 haplotype was mainly found in <italic>Indica</italic> rice (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>a). The Hap1/2 and Hap4 haplotypes belonged to two separate evolutionary branches (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>b). An average tiller number of 11 was found in accessions with the Hap1/2 haplotypes, but was 17.72 in accessions with a Hap4 haplotype (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The promoter sequence of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> has <styled-content style="fixed-case">SNP</styled-content> divergence between rice <italic>Japonica</italic> and <italic>Indica</italic>, and its expression level is associated with rice tiller. (a) <styled-content style="fixed-case">SNP</styled-content> divergence in the promoter sequence of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>. (b) The phylogeny of promoter sequence of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>. (c) The expression level of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> in different tissues in <styled-content style="fixed-case">ZH</styled-content>11. (d) The root, basal part, leaf sheath, young leaf, old leaf, young panicle and old panicle <styled-content style="fixed-case">GUS</styled-content> staining using <styled-content style="fixed-case">p<italic>O</italic></styled-content>
+<italic><styled-content style="fixed-case">sAAP</styled-content>3::<styled-content style="fixed-case">GUS</styled-content></italic> transgenic plant. (e) The average expression level of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> in the culm of rice <italic>Japonica</italic> and <italic>Indica</italic> in a diverse worldwide collection of 524 <italic>O.&#x000a0;sativa</italic> landraces (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0002" ref-type="ref">2014</xref>). (f) Tiller number in ten cultivars <italic>Japonica</italic> and ten cultivars <italic>Indica</italic>. (g) The expression of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> in the culm of ten cultivars <italic>Japonica</italic> and ten cultivars <italic>Indica</italic>.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-1710-g001"/></fig><p>
+<italic>OsAAP3</italic> was mainly expressed in root, leaf, leaf sheath, culm and panicle (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>c), especially in the root elongation area for lateral root growth, the basal part of the culm for bud outgrowth, the young leaf and the young panicle (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>d). <italic>OsAAP3</italic> showed higher expression level in the culm of <italic>Japonica</italic> accessions that carried the Hap1/2 haplotypes compared with <italic>Indica</italic> accessions with the Hap4 haplotype (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>e). We also found that the expression level of <italic>OsAAP3</italic> was negatively correlated with tiller number (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>f&#x02013;g). The <italic>Japonica</italic> accessions had lower tiller numbers (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>f), which was associated with the higher level of <italic>OsAAP3</italic> expression in the culm (Figure&#x000a0;<xref rid="pbi12907-fig-0001" ref-type="fig">1</xref>g).</p></sec><sec id="pbi12907-sec-0004"><title>Down&#x02010;regulation of <italic>OsAAP3</italic> expression boosts grain yield by increasing tiller numbers in rice</title><p>To analyse the function of <italic>OsAAP3</italic> in rice plants, we generated OE (overexpression) and Ri (RNA interference) transgenic lines for <italic>OsAAP3</italic> under the control of rice 35S and <italic>Ubi&#x02010;1</italic> promoters, respectively. Tiller numbers in <italic>OsAAP3</italic> OE lines (OE1, OE2 and OE3) were comparatively lower than that in wild&#x02010;type ZH11 plants (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>a, d). However, tiller numbers in <italic>OsAAP3</italic> Ri lines (Ri1, Ri2 and Ri3) were significantly higher than that in ZH11 plants (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>a, d). RT&#x02010;PCR analysis of leaves revealed that three OE lines had relatively high levels of <italic>OsAAP3</italic> transcripts, whereas three Ri lines had low levels of <italic>OsAAP3</italic> transcripts (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>c). To determine the effects of altered expression of <italic>OsAAP3</italic> on agronomic traits related to grain yield, we measured filled grain numbers per plant and grain yield per plant of OE and Ri lines in the field (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>e, f). We found that filled grain numbers per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>e) and grain yield per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>f) in OE lines fell to less than half of that in ZH11, but increased significantly in Ri lines compared to that in ZH11 (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>e, f).</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Phenotypes of the rice plants with altered expression of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> grown in paddy field. Whole plant phenotype (a) and filled grain number per plant (b) of wild&#x02010;type <styled-content style="fixed-case">ZH</styled-content>11, <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> overexpressing lines (<styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3) and <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>&#x02010;<styled-content style="fixed-case">RNA</styled-content>i lines (Ri1&#x02010;Ri3). The expression of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> in leaf (c), tiller number per plant (d), filled grain number per plant (e) and grain yield per plant (f) <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 lines and Ri1&#x02010;Ri3 lines. Scale bars, 15.0&#x000a0;cm in (a) and 5.0&#x000a0;cm in (b). Values are means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;30). Significant levels: ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; * <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-1710-g002"/></fig></sec><sec id="pbi12907-sec-0005"><title>Down&#x02010;regulation of <italic>OsAAP3</italic> expression promotes bud elongation</title><p>In rice, the tiller is produced by bud outgrowth at the vegetative stage and involves two developmental stages: bud formation and bud elongation (Arite <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0001" ref-type="ref">2009</xref>). To determine how <italic>OsAAP3</italic> affected tiller development, we measured bud formation and elongation in <italic>OsAAP3</italic> OE and Ri lines. Plants grown under hydroponic conditions with 2.0&#x000a0;m<sc>m</sc> ammonium nitrate produced buds. However, bud elongation was significantly slower in OE lines than that in ZH11 (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>a), while bud length in Ri lines was significantly greater than that in ZH11 (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>a). We also investigated the dynamic process of bud elongation in OE and Ri lines and found that the first buds in the Ri lines grew more rapidly than that in OE lines or ZH11; there was a clear significant difference between the different genotypes at 33&#x000a0;days after seed germination (DAG, Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>b). Similarly, the second buds in Ri lines also grew more rapidly than that in ZH11 and were clearly larger at 30 DAG; by contrast, OE lines were consistently behind that in ZH11 plants (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>c). The genes <italic>OsGS1.2</italic> and <italic>OsFC1</italic> have been shown to be related to axillary bud outgrowth (Minakuchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0024" ref-type="ref">2010</xref>; Ohashi <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0027" ref-type="ref">2017</xref>). The expression of <italic>OsGS1.2</italic> (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>d) decreased in OE lines and increased in Ri lines at the axillary buds. However, <italic>OsFC1</italic> (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>e) was found to show up&#x02010;regulated expression in OE lines and down&#x02010;regulated expression in Ri lines at the axillary buds. In addition, root length was decreased significantly under low&#x02010;nitrogen conditions (0.5&#x02013;2.0&#x000a0;m<sc>m</sc>) in OE lines (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>a&#x02010;d), but was increased significantly under 1.0&#x000a0;m<sc>m</sc> and 8.0&#x000a0;m<sc>m</sc> nitrogen concentrations in Ri lines (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>a&#x02010;d). Root numbers (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>a&#x02010;c, e) and plant height (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>a&#x02010;c, f) also increased significantly under 1.0&#x02013;8.0&#x000a0;m<sc>m</sc> nitrogen in Ri lines. These results indicated that RNAi&#x02010;mediated down&#x02010;regulation of <italic>OsAAP3</italic> promoted bud outgrowth and seedling growth and might trigger the formation of an increased tiller number.</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Phenotypes of outgrowth bud with altered expression of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> grown in hydroponic culture. (a) Phenotypes of outgrowth bud of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 lines and Ri1&#x02010;Ri3 lines. Kinetic analyses of the elongation of first outgrowth bud (b) and second outgrowth (c) at the seedlings basal part of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 lines and Ri1&#x02010;Ri3 lines. The expression of bud elongation&#x02010;related genes <italic>Os<styled-content style="fixed-case">GS</styled-content>1.2</italic> (d) and <italic>Os<styled-content style="fixed-case">FC</styled-content>1</italic> (e) in the axillary buds of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 lines and Ri1&#x02010;Ri3 lines. Scale bars, 1.0&#x000a0;mm in (a). Values are means&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;20). Significant levels: ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-1710-g003"/></fig></sec><sec id="pbi12907-sec-0006"><title>Effect of <italic>OsAAP3</italic> expression on amino acid composition in rice straw and grain</title><p>As OsAAP3 is an amino acid transporter, we tested the effects of altering <italic>OsAAP3</italic> expression levels on amino acid composition in rice straw and grain using the ninhydrin and HPLC method (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>). In seedlings, total free amino acid concentrations in OE lines were increased significantly in roots and leaf sheaths, but decreased significantly in leaves (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>a). By contrast, total free amino acid concentrations in Ri lines were decreased significantly in roots and leaf sheaths but increased significantly in leaves (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>a). In addition, the total amount of amino acids in each tissue of OE line plants did not exceed that of ZH11 plants (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>b), although the amino acid content in each tissue of Ri line plants was much higher than that in ZH11 plants (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>b). To determine why amino acid concentrations were higher in OE lines, but overall amino acid content was lower, we measured the levels of individual amino acids in straw from OE and Ri lines. We found that the concentrations of Asp, Thr, Ser, Gly, Ala, Val, Ile, Leu, Tyr, Phe, Lys, Gln, His and Arg were increased significantly in OE lines (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>c). However, the concentrations of Asp, Thr, Ser, Ile, Leu, Lys and Arg were decreased significantly in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>c). A similar analysis of grains showed that the concentrations of Asp, Thr, Ser, Glu, Gly, Ala, Val, Ile, Leu, Tyr, Phe, Lys and Arg were increased significantly in OE lines (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>d). However, none of the measured amino acids decreased in concentrations in grains of Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>d). These results showed that overexpression of <italic>OsAAP3</italic> could increase the concentrations of amino acids, which inhibited the growth of plants; however, a reduction in expression of <italic>OsAAP3</italic> prevented any inhibition of growth but did not affect the nutritional quality of the grain.</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effect of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> on amino acid content in <styled-content style="fixed-case">ZH</styled-content>11, <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> overexpressing lines (<styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>2) and <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>&#x02010;<styled-content style="fixed-case">RNA</styled-content>i lines (Ri1&#x02010;Ri2). Total free amino acid concentration (a) and total free amino acid content per plant (b) in root, leaf sheath, leaf of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>2 lines and Ri1&#x02010;Ri2 lines at seedling stage. Amino acid concentration of straw at filling stage (c) and grain at mature stage (d) in <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>2 lines and Ri1&#x02010;Ri2 lines grown in paddy. Values are means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;3). Significant levels: ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-16-1710-g004"/></fig></sec><sec id="pbi12907-sec-0007"><title>Increased concentrations of partial amino acids inhibit bud elongation and rice growth</title><p>As shown above, elevated expression of <italic>OsAAP3</italic> caused an accumulation of amino acids, especially of Lys and Arg (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>c), which can be directly transported by OsAAP3 (Taylor <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0038" ref-type="ref">2015</xref>). However, bud elongation and plant growth were reduced in plants with elevated amino acids levels. Interestingly, our results showed that expression of <italic>OsAAP3</italic> could be induced by exogenous Lys and Arg as its expression level peaked in roots after an 8&#x02010;h treatment (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S2</xref>a) and after 12&#x000a0;h in the basal part of the leaf sheath (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S2</xref>b). To understand the effects of these amino acids on plant growth and development, we added different amino acids to the nutrient solution in which wild&#x02010;type ZH11 plants were growing. We found that low concentrations of Lys (0&#x02013;1.0&#x000a0;m<sc>m</sc>) could promote the elongation of buds in rice (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>a, e), but high concentrations (1.0&#x02013;2.0&#x000a0;m<sc>m</sc>) inhibited elongation of buds, especially for second buds (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>a, e). In the transgenic lines, bud elongation was inhibited in OE lines (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>b, f), but was accelerated in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>b, f), suggesting that the inhibitory effect was removed. In a similar fashion, high concentrations of Arg (0.2&#x02013;0.4&#x000a0;m<sc>m</sc>) inhibited bud elongation (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>c, g), whereas low concentrations (0&#x02013;0.2&#x000a0;m<sc>m</sc>) increased bud elongation (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>c, g). The inhibitory effect on bud growth could be prevented in Ri lines by treatment with 0.3&#x000a0;m<sc>m</sc> Arg (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>d, h), although the effect was not as strong as seen for Lys treatment. We also indicated that very low concentrations (0&#x02013;0.5&#x000a0;m<sc>m</sc>) of Asp, Ser, Gly and Tyr (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3</xref>), low concentrations (0&#x02013;1.0&#x000a0;m<sc>m</sc>) of Thr, Ala, Val, Leu and Gln (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S4</xref>) and medium concentrations (0&#x02013;2.0&#x000a0;m<sc>m</sc>) of Ile Phe and His (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S5</xref>) could promote the elongation of buds in rice, but enhanced concentrations of those amino acids inhibited the elongation of buds, especially for second buds (Figures <xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3&#x02010;S5</xref>). In the transgenic lines, bud elongation was inhibited in OE lines, but was accelerated in Ri lines with the treatments of Asp, Gly, Tyr (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3</xref>), Thr, Ala, Gln (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S4</xref>) and His (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S5</xref>). Bud elongation of all transgenic lines was accelerated under the treatments of Ile, Phe and Leu, but was inhibited under the treatments of Ser and Val, suggesting that the transgenic plants of <italic>OsAAP3</italic> have no physiological effects under amino acids Ile, Phe, Leu, Ser and Val.</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Effect of amino acid Lys and Arg on outgrowth bud elongation of the rice seedlings grown in hydroponic culture. Phenotypes (a) and bud length (e) of outgrowth bud in <styled-content style="fixed-case">ZH</styled-content>11 under 1.0&#x000a0;m<sc>m </sc>
+<styled-content style="fixed-case">NH</styled-content>
+<sub>4</sub>
+<styled-content style="fixed-case">NO</styled-content>
+<sub>3</sub> containing different Lys concentrations (0&#x000a0;m<sc>m</sc>, 0.5&#x000a0;m<sc>m</sc>, 1.0&#x000a0;m<sc>m</sc>, 1.5&#x000a0;m<sc>m</sc>, 2.0&#x000a0;m<sc>m</sc>). Phenotypes (b) and bud length (f) of outgrowth bud in <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 lines, and Ri1&#x02010;Ri3 lines under 1&#x000a0;m<sc>m </sc>
+<styled-content style="fixed-case">NH</styled-content>
+<sub>4</sub>
+<styled-content style="fixed-case">NO</styled-content>
+<sub>3</sub> containing 1.5&#x000a0;m<sc>m</sc> Lys. Phenotypes (c) and bud length (g) of outgrowth bud in <styled-content style="fixed-case">ZH</styled-content>11 under 1.0&#x000a0;m<sc>m </sc>
+<styled-content style="fixed-case">NH</styled-content>
+<sub>4</sub>
+<styled-content style="fixed-case">NO</styled-content>
+<sub>3</sub> containing different Arg concentrations (0&#x000a0;m<sc>m</sc>, 0.1&#x000a0;m<sc>m</sc>, 0.2&#x000a0;m<sc>m</sc>, 0.3&#x000a0;m<sc>m</sc>, 0.4&#x000a0;m<sc>m</sc>). Phenotypes (d) and bud length (h) of outgrowth bud in <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 lines and Ri1&#x02010;Ri3 lines under 1.0&#x000a0;m<sc>m </sc>
+<styled-content style="fixed-case">NH</styled-content>
+<sub>4</sub>
+<styled-content style="fixed-case">NO</styled-content>
+<sub>3</sub> containing 0.3&#x000a0;m<sc>m</sc> Arg. The proportion of (a)&#x02010;(d) is the same size. Values are means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;15). Significant levels: ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; * <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-16-1710-g005"/></fig><p>Root length, root number and plant height were decreased significantly by a 1.5&#x000a0;m<sc>m</sc> Lys treatment in OE lines (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S6</xref>a, c&#x02010;e); however, all three traits increased in similarly treated Ri lines, especially root number and plant height (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S6</xref>a, c&#x02010;e). Root length, root number and plant height were decreased significantly by a 0.3&#x000a0;m<sc>m</sc> Arg treatment in OE lines (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S6</xref>b, f&#x02010;h), but were increased significantly in Ri lines (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S6</xref>b, f&#x02010;h). The results described above indicate that Lys and Arg are not only amino acids absorbed by plants but also play important roles in regulating the growth and development of plants. Shoot branching (tiller) and growth are regulated by plant hormones, particularly cytokinins (CKs) (Ferguson and Beveridge, <xref rid="pbi12907-bib-0007" ref-type="ref">2009</xref>). Levels of cytokinins were regulated through the irreversible oxidative cleavage of the N<sup>6</sup>&#x02010;side chain by CYTOKININ DEHYDROGENASE/OXIDASE (CKXs) (Zurcher and Muller, <xref rid="pbi12907-bib-0053" ref-type="ref">2016</xref>). To investigate the possible interaction with CKs, we measured the gene expression of 11 <italic>CKXs</italic> and found most of <italic>OsCKXs</italic> (<italic>OsCKX2</italic>,<italic> OsCKX3</italic>,<italic> OsCKX4</italic>,<italic> OsCKX5</italic>,<italic> OsCKX6</italic>,<italic> OsCKX8</italic>,<italic> OsCKX9</italic> and <italic>OsCKX10</italic>) exhibited higher expression level in OE lines compared to that in ZH11, whereas most of <italic>OsCKXs</italic> (<italic>OsCKX2</italic>,<italic> OsCKX3</italic>,<italic> OsCKX5</italic>,<italic> OsCKX6</italic>,<italic> OsCKX8</italic>,<italic> OsCKX9</italic>,<italic> OsCKX10</italic> and <italic>OsCKX11</italic>) demonstrated lower expression level in both Ri lines and mutant than that in ZH11 (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S7</xref>). These results suggest that altered expression of <italic>OsAAP3</italic> controlled axillary bud outgrowth possibly by regulating CK pathway in the axillary bud.</p></sec><sec id="pbi12907-sec-0008"><title>Down&#x02010;regulation of <italic>OsAAP3</italic> expression enhances nitrogen use efficiency</title><p>To investigate the role of <italic>OsAAP3</italic> in nitrogen use efficiency (NUE), total N concentration was measured. Overexpression of <italic>OsAAP3</italic> led to a higher total N concentration, whereas total N concentration was unchanged after down&#x02010;regulation of <italic>OsAAP3</italic> expression (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>a). Total N content per plant in OE lines was lower than that in ZH11, but higher than in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>b). To confirm that <italic>OsAAP3</italic> participates in N transportation to the panicle, the total N levels of mature seeds in the transgenic rice lines were measured (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>c, d). Total N concentration in mature seeds was increased in OE lines, but no significant difference was found between Ri lines and wild&#x02010;type ZH11 (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>c). Thus, total N content of rice seeds in OE lines was decreased, but increased significantly in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>d). The straw dry weight per plant of OE lines was significantly lower than that of ZH11 plants (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>e). By contrast, down&#x02010;regulation of <italic>OsAPP3</italic> expression increased significantly straw dry weight per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>e). The NUE of OE lines was decreased significantly relative to ZH11 plants, but was increased significantly in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>f).</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Effect of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> on nitrogen content in <styled-content style="fixed-case">ZH</styled-content>11, <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> overexpressing lines (<styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3) and <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>&#x02010;<styled-content style="fixed-case">RNA</styled-content>i lines (Ri1&#x02010;Ri3). (a) Total nitrogen concentrations of straw of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 and Ri1&#x02010;Ri3 line at filling stage grown in paddy. (b) Total nitrogen content per plant of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 and Ri1&#x02010;Ri3 lines at filling stage grown in paddy. (c) Total nitrogen concentrations of grain of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 and Ri1&#x02010;Ri3 lines at filling stage grown in paddy. (d) Total nitrogen content of grain of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 and Ri1&#x02010;Ri3 line at filling stage grown in paddy. (e) Straw dry weight of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 and Ri1&#x02010;Ri3 lines at mature stage grown in paddy. (f) Nitrogen use efficiency (<styled-content style="fixed-case">NUE</styled-content>) of <styled-content style="fixed-case">ZH</styled-content>11, <styled-content style="fixed-case">OE</styled-content>1&#x02010;<styled-content style="fixed-case">OE</styled-content>3 and Ri1&#x02010;Ri3 lines at mature stage grown in paddy. Values are means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;3). Significant levels: ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; * <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-16-1710-g006"/></fig></sec><sec id="pbi12907-sec-0009"><title>Down&#x02010;regulation of <italic>OsAAP3</italic> by CRISPR technology increases grain yield in both <italic>Japonica</italic> ZH11 and KY131</title><p>Kongyu 131 (KY131) is a <italic>Japonica</italic> variety with the largest planting area in China. We compared the expression level of <italic>OsAAP3</italic> in <italic>Japonica</italic> ZH11 and KY131 and found a higher expression level in KY131 (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S8</xref>). We knocked out the <italic>OsAAP3</italic> sequence in <italic>Japonica</italic> ZH11 and KY131 using CRISPR technology, as higher expression level of <italic>OsAAP3</italic> limited rice tiller numbers. Targets 1 and 2 for knockout of the <italic>OsAAP3</italic> gene with CRISPR technology are shown in Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>a, and sequencing results showing base deletions and insertions after <italic>OsAAP3</italic>&#x02010;CRISPR in <italic>Japonica</italic> ZH11 and KY131 are shown in Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>b. The effects of <italic>OsAAP3</italic> knockout on seedling growth and agronomic traits related to grain yield were measured in <italic>OsAAP3</italic>&#x02010;CRISPR lines. The biomasses of <italic>OsAAP3</italic>&#x02010;CRISPR lines ZH11&#x02010;C and KY131&#x02010;C were greater than those of ZH11 or KY131 (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>c&#x02013;f). Tiller number (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>g&#x02013;h), biomass of straw (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>i), grain yield (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>j&#x02013;k) and NUE (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>l) were also increased significantly in <italic>OsAAP3</italic>&#x02010;CRISPR lines both in ZH11 or KY131 background compared with each wild&#x02010;type.</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Blocking <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> improves grain yield by increasing tiller number in rice. (a) Target 1 and target 2 of gene knockout for <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> with <styled-content style="fixed-case">CRISPR</styled-content> technology. (b) Sequencing results of base deletion and insertion of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>&#x02010;<styled-content style="fixed-case">CRISPR</styled-content> in <italic>Japonica</italic>
+<styled-content style="fixed-case">ZH</styled-content>11 and <styled-content style="fixed-case">KY</styled-content>131. On the right, minus (&#x02013;) and plus (+) signs indicate the number of nucleotides deleted and inserted at <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>&#x02010;<styled-content style="fixed-case">CRISPR</styled-content> target sequence site 1 and site 2, respectively. Phenotypes of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>
+<styled-content style="fixed-case">CRISPR</styled-content> lines (three) in <styled-content style="fixed-case">ZH</styled-content>11 (c) and in <styled-content style="fixed-case">KY</styled-content>131 (d). Biomass analyses of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>
+<styled-content style="fixed-case">CRISPR</styled-content> lines (three) in <styled-content style="fixed-case">ZH</styled-content>11 (e) and in <styled-content style="fixed-case">KY</styled-content>131 (f). Whole plant phenotype of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>
+<styled-content style="fixed-case">CRISPR</styled-content> line in <styled-content style="fixed-case">ZH</styled-content>11 and in <styled-content style="fixed-case">KY</styled-content>131 (g). Tiller number per plant (h), biomass of straw (i), grain yield per plant (j&#x02010;k) and <styled-content style="fixed-case">NUE</styled-content> (l) analyses of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic>&#x02010;<styled-content style="fixed-case">CRISPR</styled-content> line in <styled-content style="fixed-case">ZH</styled-content>11 and in <styled-content style="fixed-case">KY</styled-content>131. Scale bars, 3&#x000a0;cm in (c), 3 cm in (d), 15&#x000a0;cm in (g) and 2.5&#x000a0;cm in (j). Values are means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;&#x0003e;&#x000a0;20). Significant levels: ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; * <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-16-1710-g007"/></fig><p>Based on these results, we propose a model in which <italic>OsAAP3</italic> participates in elongating outgrowth bud and increasing rice tiller number to modify grain yield through regulation the concentrations of Lys, Arg, His, Asp, Ala, Gln, Gly, Thr and Tyr in rice (Figure&#x000a0;<xref rid="pbi12907-fig-0008" ref-type="fig">8</xref>). In OE lines or <italic>Japonica</italic>, elevated expression of <italic>OsAAP3</italic> may accumulate the concentrations of these amino acids. Hence, axillary bud is inhibited, which is unfavourable for rice tillering. However, <italic>Indica</italic> or RNAi/CRISPR line of <italic>OsAAP3</italic> induces the opposite effects.</p><fig fig-type="Figure" xml:lang="en" id="pbi12907-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>The proposed model of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> regulating rice tillering and grain yield. In <styled-content style="fixed-case">OE</styled-content> or <italic>Japonica</italic> lines, elevated expression of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> accumulates basic amino acid (Lys, Arg and His), acidic amino acid (Asp), neutral amino acid (Ala, Gln, Gly, Thr and Tyr). Hence, axillary bud is inhibited, which is unfavourable for rice tillering. However, <styled-content style="fixed-case">RNA</styled-content>i/<styled-content style="fixed-case">CRISPR</styled-content> line or <italic>Indica</italic> of <italic>Os<styled-content style="fixed-case">AAP</styled-content>3</italic> induces the opposite effects. The red arrows mean first tiller bud and second tiller bud, the blue arrows mean the development of rice <styled-content style="fixed-case">OE</styled-content> lines or <italic>Japonica</italic> (such as <styled-content style="fixed-case">KY</styled-content>131) from seedling to mature plant, the green arrow means the development of rice wild type (such as <italic>Japonica</italic>
+<styled-content style="fixed-case">ZH</styled-content>11) from seedling to mature plant, and the pink arrows mean the development of rice <styled-content style="fixed-case">RNA</styled-content>i/<styled-content style="fixed-case">CRISPR</styled-content> line or <italic>Indica</italic> from seedling to mature plant. The blue circles mean basic amino acid (Lys, Arg and His), the yellow circles mean acidic amino acid (Asp), and the pink circles mean neutral amino acid (Ala, Gln, Gly, Thr and Tyr).</p></caption><graphic id="nlm-graphic-15" xlink:href="PBI-16-1710-g008"/></fig></sec></sec><sec id="pbi12907-sec-0010"><title>Discussion</title><sec id="pbi12907-sec-0011"><title>Reduced expression of <italic>OsAAP3</italic> can increase significantly tiller numbers, but does not change the nutritional quality of rice grains</title><p>Rice tillering is an important agronomic trait as it determines panicle number and grain yield (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0017" ref-type="ref">2003a</xref>,<xref rid="pbi12907-bib-0018" ref-type="ref">b</xref>; Xing and Zhang, <xref rid="pbi12907-bib-0044" ref-type="ref">2010</xref>). In our study, we found that tiller numbers increased significantly in Ri lines at the productive stage (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>a, b, d) compared with wild&#x02010;type ZH11 and were also elevated in <italic>OsAAP3&#x02010;</italic>CRISPR lines compared with wild&#x02010;type ZH11 or KY131 (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>g, h). By contrast, tiller numbers were reduced significantly in OE lines (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>a, b, d). Compared to wild&#x02010;type, Ri lines had a higher filled grain number per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>b, e), whereas OE lines had a reduced filled grain numbers per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>b, e). Our results also indicated that reduced expression of <italic>OsAAP3</italic> could enhance significantly grain yield per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>f). <italic>OsAAP3&#x02010;</italic>CRISPR lines gave similar results as described above and showed an increased grain yield per plant (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>j, k). Similarly, <italic>Arabidopsis ataap2</italic> mutants increase branch and silique numbers per plant and seed yield are strongly increased (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0051" ref-type="ref">2010</xref>).</p><p>Rice nutritional quality is another important trait that is used in breeding of new rice varieties (Zhang, <xref rid="pbi12907-bib-0050" ref-type="ref">2007</xref>). Rice grain quality includes eating and cooking quality, nutritional quality, milling quality and appearance quality (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0017" ref-type="ref">2003a</xref>,<xref rid="pbi12907-bib-0018" ref-type="ref">b</xref>). The rice amino acid transporter OsAAP6 regulates starch storage and also affects protein storage in rice endosperm (Peng <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0030" ref-type="ref">2014</xref>). In our study, a reduction in the level of expression of <italic>OsAAP3</italic> did not cause any change in amino acid concentrations in grains (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>d). Additionally, total nitrogen concentration was unchanged compared with wild&#x02010;type ZH11 (Figure&#x000a0;<xref rid="pbi12907-fig-0006" ref-type="fig">6</xref>d). Plant membrane transporter genes can be incorporated into programs to enhance crop yields (Schroeder <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0035" ref-type="ref">2013</xref>). Therefore, our systematic study of the function of transporter OsAAP3 is important for future genetic improvements in rice to increase grain yield and nutritional quality.</p></sec><sec id="pbi12907-sec-0012"><title>Partial amino acid concentrations influence bud outgrowth and tiller number in rice through the amino acid transporter OsAAP3</title><p>Rice tillers are produced by shoot branching, which consists of two distinct steps: first, formation of an axillary bud at each leaf axil; and second, outgrowth of the axillary bud (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0017" ref-type="ref">2003a</xref>,<xref rid="pbi12907-bib-0018" ref-type="ref">b</xref>; Xing and Zhang, <xref rid="pbi12907-bib-0044" ref-type="ref">2010</xref>). Therefore, final tiller number is determined not only by how many tiller buds are formed but also by how many tiller buds are capable of outgrowth (Wang and Li, <xref rid="pbi12907-bib-0041" ref-type="ref">2011</xref>). Axillary bud outgrowth is regulated by environmental signals (Xing and Zhang, <xref rid="pbi12907-bib-0044" ref-type="ref">2010</xref>). Nitrogen is a crucial determinant of plant growth and crop productivity (Hachiya and Sakakibara, <xref rid="pbi12907-bib-0009" ref-type="ref">2017</xref>; Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0019" ref-type="ref">2017</xref>). Plants make use of transporters to take up N from the soil via the roots and transport it to other organs. Our study indicated that low concentrations of amino acids could promote the elongation of axillary buds in rice (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>; Figures <xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3&#x02010;S5</xref>), and that high concentrations of amino acids could inhibit axillary bud elongation, especially for second buds (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>; Figures <xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3&#x02010;S5</xref>). OsAAP3 has activity of transporting Ser, Met, Lys, Leu, His, Gln, Arg, Ala and Gly, especially for transporting the basic amino acids Lys and Arg (Taylor <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0038" ref-type="ref">2015</xref>). In the present study, we found that elongation of buds was inhibited by higher concentrations of Lys, Arg, His, Asp, Ala, Gln, Gly, Thr and Tyr in both OE lines and ZH11 (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>; Figures <xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3&#x02010;S5</xref>), but was increased in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0005" ref-type="fig">5</xref>; Figures <xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S3&#x02010;S5</xref>). These results suggest that the inhibitory effect triggered by high concentrations of amino acids was ameliorated in lines with reduced expression of <italic>OsAAP3</italic>. Enhanced translocation of Lys, Arg, His, Ala, Gln and Gly to the basal parts of the axillary buds in OE lines might contribute to the inhibition of growth of axillary buds. Thus, an appropriate level of expression of the transporter gene <italic>OsAAP3</italic> is required to support plant growth.</p><p>It has been reported that Lys can inhibit mitotic activity in the root apical meristem, and that exogenous Lys can reduce the length of the main root of <italic>Arabidopsis</italic> (Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0046" ref-type="ref">2014</xref>). Lys and Arg can be transported by the amino acid transporter AtAAP3 in <italic>Arabidopsis</italic>. The root system of <italic>AtAAP3</italic> mutant is highly developed and shows a larger number of long main roots and a higher density of lateral root (Marella <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0023" ref-type="ref">2013</xref>). <italic>OsGS1.2</italic>, which is a major gene for nitrogen assimilation, has been shown to promote axillary bud outgrowth and increase tiller numbers in rice (Obara <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0026" ref-type="ref">2004</xref>; Ohashi <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0027" ref-type="ref">2017</xref>). In contrast, bud outgrowth marker gene <italic>OsFC1</italic> is required for axillary buds outgrowth and has been reported to inhibit rice tiller number (Minakuchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0024" ref-type="ref">2010</xref>). In our study, expression of <italic>OsGS1.2</italic> was down&#x02010;regulated in OE lines and up&#x02010;regulated in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>d); however, expression of <italic>OsFC1</italic> was up&#x02010;regulated in OE lines and down&#x02010;regulated in Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0003" ref-type="fig">3</xref>e). Furthermore, it was reported that down&#x02010;regulation of <italic>OsCKX2</italic> expression increases tiller number and improves rice yield in rice (Yeh <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0047" ref-type="ref">2015</xref>). Our results showed that higher expression of <italic>OsCKXs</italic> in OE lines and lower expression of <italic>OsCKXs</italic> in Ri lines than that in ZH11 (Figure&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S7</xref>) indicated that altered expression of <italic>OsAAP3</italic> controlled axillary bud outgrowth possibly by regulating CK pathway in the axillary bud.</p><p>Additionally, amino acids are used for basic metabolism and protein synthesis in the leaf, and then modulate plant growth (Yadav <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0045" ref-type="ref">2015</xref>). Our results showed that total free amino acid concentrations in the leaves of OE lines were decreased significantly, but increased significantly in the leaves of Ri lines (Figure&#x000a0;<xref rid="pbi12907-fig-0004" ref-type="fig">4</xref>a). Starting with less outgrowth buds, less tiller numbers and poor plant growth of OE lines (Figure&#x000a0;<xref rid="pbi12907-fig-0002" ref-type="fig">2</xref>a) might result from lacking of amino acids. We further indicated that repression of <italic>OsAAP3</italic> could promote bud outgrowth and seedling growth, and trigger the development of a larger number of tillers through regulating the allocation and utilization of amino acids by enhancing the ability of nitrogen balance.</p></sec><sec id="pbi12907-sec-0013"><title>Inhibition of <italic>OsAAP3</italic> expression increases grain yield and NUE in <italic>Japonica</italic> rice varieties</title><p>Haplotype&#x02010;level association analysis is an important tool for molecular plant breeding (Han <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0010" ref-type="ref">2016</xref>). It has been reported that the <italic>NRT1.1B&#x02010;indica</italic> allele can increase tiller numbers per plant, enhance grain yield per plant and increase yield per plot under high N level (Hu <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0012" ref-type="ref">2015</xref>). In the present study, we analysed the promoter and coding regions of <italic>OsAAP3</italic> in a diverse collection of 524 <italic>O.&#x000a0;sativa</italic> landraces. Some differences were found in SNPs in the promoter sequences of <italic>OsAAP3</italic> of <italic>Japonica</italic> (Hap1 and Hap2) and <italic>Indica</italic> (Hap4) accessions. Expression of <italic>OsAAP3</italic> was higher in the <italic>Japonica</italic> accessions. <italic>Japonica</italic> rice has well&#x02010;known nutritional qualities but produces fewer tillers and has a lower NUE than <italic>Indica</italic> rice (Hu <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0012" ref-type="ref">2015</xref>; Koutroubas and Ntanos, <xref rid="pbi12907-bib-0015" ref-type="ref">2003</xref>). Reduced expression of <italic>OsAAP3</italic> can increase yield and NUE and does not affect nutritional quality. Therefore, inhibiting expression of <italic>OsAAP3</italic> in <italic>Japonica</italic> rice may be important for improving tillering and grain yield. CRISPR technology is an effective method for inhibiting gene expression in plants (Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0021" ref-type="ref">2015</xref>; Yin <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0048" ref-type="ref">2017</xref>). Our results indicated that tiller numbers and grain yield (Figure&#x000a0;<xref rid="pbi12907-fig-0007" ref-type="fig">7</xref>) increased significantly in <italic>OsAAP3</italic>&#x02010;CRISPR lines on a <italic>Japonica</italic> ZH11 or KY131 background. Thus, inhibition of <italic>OsAAP3</italic> expression may contribute to an improved grain yield and NUE for <italic>Japonica</italic> varieties.</p></sec></sec><sec id="pbi12907-sec-0014"><title>Experimental procedures</title><sec id="pbi12907-sec-0015"><title>Construction of <italic>OsAAP3</italic> altered expression and promoter&#x02010;GUS vector</title><p>To construct <italic>OsAAP3</italic> overexpressing plants, a 1464&#x000a0;bp <italic>OsAAP3</italic> cDNA containing the open reading frame (ORF) of <italic>OsAAP3</italic> (LOC_Os06g36180) was inserted downstream of the <italic>35S</italic> promoter in pCAM1306 using <italic>Kpn</italic> I and <italic>Xba</italic> I to produce the plasmid <italic>p35S</italic>&#x02010;<italic>OsAAP3</italic>. To generate the <italic>OsAAP3</italic>&#x02010;RNAi construct, two fragments of <italic>OsAAP3</italic> cDNA (309&#x000a0;bp) were amplified by PCR using the primers listed in Table&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref> and transferred downstream of the <italic>Ubi&#x02010;1</italic> promoter in the rice RNAi vector pTCK303 (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0042" ref-type="ref">2004</xref>) using <italic>BamH</italic> I/<italic>Kpn</italic> I, and <italic>Spe</italic> I/<italic>Sac</italic> I, respectively, to generate the <italic>OsAAP3</italic>&#x02010;RNAi vector <italic>pOsAAP3i</italic>. To analyse the <italic>OsAAP3</italic> promoter, a 2179&#x02010;bp <italic>OsAAP3</italic> promoter fragment was generated by PCR using the primers shown in Table&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>, and inserted in front of the &#x003b2;&#x02010;glucuronidase (GUS) coding region in pCAMBIA1391Z with <italic>Hind</italic> III and <italic>Nco</italic> I to generate the <italic>pOsAAP3</italic>&#x02010;<italic>GUS</italic> plasmid.</p></sec><sec id="pbi12907-sec-0016"><title>Construction of <italic>OsAAP3</italic> CRISPR vector</title><p>The <italic>OsAAP3</italic> CRISPR vector construct was prepared using CRISPR/Cas9&#x02010;based multiplex genome editing for monocot and dicot plants (Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0021" ref-type="ref">2015</xref>). Two target sequences of <italic>OsAAP3</italic> were designed and added to U6IPAT/U6OPST or U3IPAT/U3OPST primers. A 422&#x02010;bp fragment from target sequence 1 was amplified by PCR using U6OPST and AAP3&#x02010;U6IPAT<sub>1</sub> primers and the U6 plasmid. In the same way, a 348&#x02010;bp fragment was amplified by PCR from target sequence 2 using ZRO589 and AAP3&#x02010;U3IPAT<sub>2</sub> primers with the U3 plasmid. A 476&#x02010;bp fragment from target sequence 1 was amplified by PCR using AAP3&#x02010;U6OPST and U6IPAT primers with the U6 plasmid. Similarly, a 463&#x02010;bp fragment from target sequence 2 was amplified by PCR using AAP3&#x02010;U3IPST and ZRO282 primers with the U3 plasmid. Complete U6 and U3 fragments were amplified by fusion PCR containing U6 promoter&#x02010;sgRNA and U3 promoter&#x02010;sgRNA. The U6 fragment was digested with <italic>Kpn</italic> I, and the U3 fragment was digested with <italic>Kpn</italic> I and <italic>Sac</italic> I and then the U6 and U3 fragment were connected. The complete U6 and U3 sequences of 1600&#x000a0;bp were amplified by PCR using U6OPST and ZRO282 primers with the U6&#x02013;U3 plasmid. Finally, the complete U6&#x02013;U3 fragment of 1600&#x000a0;bp was inserted into the Per8&#x02010;Cas9 vector using <italic>Kpn</italic> I and <italic>Sac</italic> I and cloning kits.</p></sec><sec id="pbi12907-sec-0017"><title>Acquisition and detection of transgenic plants</title><p>All of the above&#x02010;mentioned constructs were introduced into <italic>Agrobacterium tumefaciens</italic> strain <italic>EHA</italic>105 (Hiei <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0011" ref-type="ref">1997</xref>). The <italic>Japonica</italic> rice variety Zhonghua 11 (ZH11) and Kongyu 131 (KY131) were transformed by <italic>Agrobacterium</italic>&#x02010;mediated transformation with 50&#x000a0;mg/L hygromycin for selecting transgenic calli (Hiei <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0011" ref-type="ref">1997</xref>). The T<sub>2</sub> homologous transgenic lines (overexpression and RNAi) with altering expression were selected using PCR and the primers listed in Table&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>. The T<sub>0</sub> CRISPR transgenic lines were selected using PCR sequencing and the corresponding primers in Table&#x000a0;<xref rid="pbi12907-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="pbi12907-sec-0018"><title>Hydroponic culture and field experiments</title><p>Hydroponic experiments were conducted using basic rice culture solution (Yoshida <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0049" ref-type="ref">1976</xref>) without N under natural rice growth conditions; the N content was adjusted in each experiment. To analyse the phenotype of <italic>OsAAP3</italic> transgenic plants in the presence of different concentrations of NH<sub>4</sub>NO<sub>3</sub>, seedlings were cultivated in basic nutrient solution supplemented with 0.25&#x000a0;m<sc>m</sc>, 0.5&#x000a0;m<sc>m</sc>, 1.0&#x000a0;m<sc>m</sc>, 2.0&#x000a0;m<sc>m</sc> or 4.0&#x000a0;m<sc>m</sc> NH<sub>4</sub>NO<sub>3</sub>. To investigate the effect of each amino acid on the phenotype of <italic>OsAAP3</italic> transgenic plants, seedlings were grown in basic nutrient solution with 1.0&#x000a0;m<sc>m</sc> NH<sub>4</sub>NO<sub>3</sub> as the N source for 1&#x000a0;week, then transferred to basic nutrient solution supplemented with 1.0&#x000a0;m<sc>m</sc> NH<sub>4</sub>NO<sub>3</sub> and each amino acid as the N source. A collection of 524 <italic>O.&#x000a0;sativa</italic> landraces (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0002" ref-type="ref">2014</xref>) was used in this study. Tiller numbers were counted at the filling stage over three seasons from 2014 to 2017. Field experiments were carried out in an experimental field at Wuhan Institute of Bioengineering, China, during the rice growing season.</p></sec><sec id="pbi12907-sec-0019"><title>GUS staining and quantitative RT&#x02010;PCR analysis</title><p>Histochemical GUS staining was performed according to Jefferson <italic>et&#x000a0;al</italic>. (<xref rid="pbi12907-bib-0014" ref-type="ref">1987</xref>). The stained tissues were rinsed and fixed in FAA (formalin&#x02010;acetic acid&#x02010;70% ethanol [1:1:18]) at 4&#x000a0;&#x000b0;C for 24&#x000a0;h. Then the stained materials were observed using stereo microscope. Total RNA was extracted using TRIzol reagent according to the manufacturer's instructions (Invitrogen, <ext-link ext-link-type="uri" xlink:href="http://www.invitrogen.com">http://www.invitrogen.com</ext-link>). First&#x02010;strand cDNA was synthesised from 3&#x000a0;&#x003bc;g of total RNA from each sample using M&#x02010;MLV reverse transcriptase (Promega, <ext-link ext-link-type="uri" xlink:href="http://www.promega.com">http://www.promega.com</ext-link>). Quantitative RT&#x02010;PCR (qRT&#x02010;PCR) was performed to monitor gene expression, and <italic>OsActin1</italic> (LOC_Os03g50885) was used as a control. qRT&#x02010;PCR was carried out in the presence of the double&#x02010;strand DNA&#x02010;specific dye SYBR Green (Takara, China) and monitored in real time with a 7500 qRT&#x02010;PCR system (Applied Biosystems, Singapore).</p></sec><sec id="pbi12907-sec-0020"><title>Nitrogen and amino acid analysis</title><p>Total free amino acid concentrations were measured by the ninhydrin method (Fang <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0005" ref-type="ref">2013</xref>). Single free amino acid concentrations were measured using HPLC with an amino acid analyser L&#x02010;8800 HITACHI. The samples were prepared as follows: 1.0&#x000a0;g rice tissue was placed in 80% ethanol (10.0&#x000a0;mL) at 80&#x000a0;&#x000b0;C in a water bath for 20&#x000a0;min; this step was repeated twice. The collected extracts were placed at 80&#x000a0;&#x000b0;C in a drying oven to remove the ethanol, and 1&#x000a0;mL 0.5&#x000a0;<sc>m</sc> NaOH was used to dissolve the sediment. The solution was centrifuged at 12000&#x000a0;<italic><bold>g</bold></italic> for 15&#x000a0;min. The supernatant was collected and filtered through a filter membrane (2&#x000a0;&#x003bc;m); 0.8&#x000a0;mL of each filtrate was analysed using the amino acid analyser. Total nitrogen content and total protein content were determined using the semimicro Kjeldahl method using a nitrogen analyser (Smart Chem 200, Westco, Italy). Nitrogen utilization efficiency was determined from the formula:<disp-formula id="pbi12907-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mtext>NUE</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mo>%</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mo stretchy="false">[</mml:mo><mml:mtext>grain yield (g)/(grain nitrogen content (g)</mml:mtext></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mtext>straw nitrogen content (g)</mml:mtext><mml:mo stretchy="false">]</mml:mo><mml:mo>&#x000d7;</mml:mo><mml:mn>100</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math></disp-formula>
+</p></sec><sec id="pbi12907-sec-0021"><title>Bud outgrowth analysis</title><p>Germinated seeds were transferred into a hydroponic culture box with sterile water and cultured at 28&#x000a0;&#x000b0;C and 60% relative humidity under white light with a 16&#x02010;h light/8&#x02010;h dark photoperiod for 3&#x000a0;day. They were then grown with rice culture solution for an additional 6 d under the same conditions. Then, seedlings for bud outgrowth analysis were placed in rice culture solution in a glasshouse at 32&#x000a0;&#x000b0;C under a high voltage sodium lamp (400 w) for 14&#x000a0;h, and at 25&#x000a0;&#x000b0;C in the dark for 10&#x000a0;h in the evening. The nutrient solution was renewed every 3&#x000a0;day. The length of bud outgrowth was measured using stereo microscope with ImageJ software.</p></sec><sec id="pbi12907-sec-0022"><title>SNP database</title><p>In total, 524 accessions were genotyped via sequencing (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12907-bib-0002" ref-type="ref">2014</xref>). SNP information is available on RiceVarMap (<ext-link ext-link-type="uri" xlink:href="http://ricevarmap.ncpgr.cn/">http://ricevarmap.ncpgr.cn/</ext-link>), which is a comprehensive database of rice genomic variations. SNP physical locations were obtained from the TIGR Rice Loci 6 genome in RiceVarMap. Haplotypes with an allele frequency of 0.01 or higher (five accessions) were used for association analysis via ANOVA. Duncan's multiple range test was applied to identify differences in SNP content between all possible haplotype pairs.</p></sec><sec id="pbi12907-sec-0023"><title>Statistical analysis</title><p>For all treatments, the statistical differences are indicated by asterisks, and the Student's <italic>t</italic>&#x02010;test allowing the determination of the significance between two sets of data (transgenic line vs wild&#x02010;type ZH11 or KY131) is performed using the SPSS 10 software (IBM, Inc.). Significant levels: ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; * <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12907-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Effect of different NH<sub>4</sub>NO<sub>3</sub> concentrations on growth of the rice seedlings with altered expression of <italic>OsAAP3</italic>.</p><p>
+<bold>Figure&#x000a0;S2</bold> The expression of <italic>OsAAP3</italic> is regulated by both amino acids Lys and Arg.</p><p>
+<bold>Figure&#x000a0;S3</bold> Effect of different amino acids (Asp, Ser, Gly and Tyr) concentrations on outgrowth bud elongation of the rice seedlings with ZH11 and altered expression of <italic>OsAAP3</italic>.</p><p>
+<bold>Figure&#x000a0;S4</bold> Effect of different amino acids (Thr, Ala, Val, Leu and Gln) concentrations on outgrowth bud elongation of the rice seedlings with ZH11 and altered expression of <italic>OsAAP3</italic>.</p><p>
+<bold>Figure&#x000a0;S5</bold> Effect of different amino acids (Ile, Phe and His) concentrations on outgrowth bud elongation of the rice seedlings with ZH11 and altered expression of <italic>OsAAP3</italic>.</p><p>
+<bold>Figure&#x000a0;S6</bold> Effect of different amino acids Lys and Arg on growth of the rice seedlings with altered expression of <italic>OsAAP3</italic>.</p><p>
+<bold>Figure&#x000a0;S7</bold> The expression of <italic>OsCKXs</italic> in basal part of the rice seedlings with altered expression of <italic>OsAAP3</italic> grown for 3&#x000a0;weeks in basic nutrient solution with 1.0&#x000a0;m<sc>m</sc> NH<sub>4</sub>NO<sub>3</sub> as the N source.</p><p>
+<bold>Figure&#x000a0;S8</bold> The expression of <italic>OsAAP3</italic> in root and basal part of <italic>Japonica</italic> ZH11 and KY131 seedlings grown for 3&#x000a0;weeks in basic nutrient solution with 1.0&#x000a0;m<sc>m</sc> NH<sub>4</sub>NO<sub>3</sub> as the N source.</p><p>
+<bold>Table&#x000a0;S1</bold> List of the primers in this study.</p></caption><media xlink:href="PBI-16-1710-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12907-sec-0024"><title>Acknowledgements</title><p>This research was supported by grants from the National Key Research and Development Program (2016YFD0100700), the National Natural Science Foundation (31301250, 31701990), the open project of State Key Laboratory of Rice Biology (160203), Hubei Natural Science Foundation (2017CFB696) and the Scientific research projects of Hubei Education Department (B2017293). The authors declare no conflict of interest.</p></ack><ref-list content-type="cited-references" id="pbi12907-bibl-0001"><title>References</title><ref id="pbi12907-bib-0001"><mixed-citation publication-type="journal" id="pbi12907-cit-0001">
+<string-name>
+<surname>Arite</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Umehara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ishikawa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hanada</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Maekawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Kyozuka</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>) <article-title>
+<italic>d14</italic>, a Strigolactone&#x02010;insensitive mutant of rice, Shows an accelerated outgrowth of tillers</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>50</volume>, <fpage>1416</fpage>&#x02013;<lpage>1424</lpage>.<pub-id pub-id-type="pmid">19542179</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0002"><mixed-citation publication-type="journal" id="pbi12907-cit-0002">
+<string-name>
+<surname>Chen</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Genome&#x02010;wide association analyses provide genetic and biochemical insights into natural variation in rice metabolism</article-title>. <source xml:lang="en">Nat. Genet.</source>
+<volume>46</volume>, <fpage>714</fpage>&#x02013;<lpage>721</lpage>.<pub-id pub-id-type="pmid">24908251</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0003"><mixed-citation publication-type="journal" id="pbi12907-cit-0003">
+<string-name>
+<surname>Cheng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>H.Y.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>S.Q.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Y.P.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Q.Y.</given-names>
+</string-name>, <string-name>
+<surname>Ke</surname>, <given-names>D.X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Genome&#x02010;wide identification, classification, and expression analysis of amino acid transporter gene family in <italic>Glycine Max</italic>
+</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>1</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">26858731</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0004"><mixed-citation publication-type="journal" id="pbi12907-cit-0004">
+<string-name>
+<surname>Coruzzi</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Bush</surname>, <given-names>D.R.</given-names>
+</string-name> (<year>2001</year>) <article-title>Nitrogen and carbon nutrient and metabolite signaling in plants</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>125</volume>, <fpage>61</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">11154297</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0005"><mixed-citation publication-type="journal" id="pbi12907-cit-0005">
+<string-name>
+<surname>Fang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Grotemeyer</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rentsch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Altered expression of the PTR/NRT1 homologue <italic>OsPTR9</italic> affects nitrogen utilization efficiency, growth and grain yield in rice</article-title>. <source xml:lang="en">Plant Biotech. J.</source>
+<volume>11</volume>, <fpage>446</fpage>&#x02013;<lpage>458</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0007"><mixed-citation publication-type="journal" id="pbi12907-cit-0007">
+<string-name>
+<surname>Ferguson</surname>, <given-names>B.J.</given-names>
+</string-name> and <string-name>
+<surname>Beveridge</surname>, <given-names>C.A.</given-names>
+</string-name> (<year>2009</year>) <article-title>Roles for auxin, cytokinin, and strigolactone in regulating shoot branching</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>149</volume>, <fpage>1929</fpage>&#x02013;<lpage>1944</lpage>.<pub-id pub-id-type="pmid">19218361</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0008"><mixed-citation publication-type="journal" id="pbi12907-cit-0008">
+<string-name>
+<surname>Fischer</surname>, <given-names>W.N.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rentsch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Krolkiewicz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Breitkreuz</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Frommer</surname>, <given-names>W.B.</given-names>
+</string-name> (<year>1998</year>) <article-title>Amino acid transport in plants</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>3</volume>, <fpage>188</fpage>&#x02013;<lpage>195</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0009"><mixed-citation publication-type="journal" id="pbi12907-cit-0009">
+<string-name>
+<surname>Hachiya</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Sakakibara</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>) <article-title>Interactions between nitrate and ammonium in their uptake, allocation, assimilation, and signaling in plants</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>68</volume>, <fpage>2501</fpage>&#x02013;<lpage>2512</lpage>.<pub-id pub-id-type="pmid">28007951</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0010"><mixed-citation publication-type="journal" id="pbi12907-cit-0010">
+<string-name>
+<surname>Han</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ayaad</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Xing</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2016</year>) <article-title>Genome&#x02010;wide association studies reveal that diverse heading date genes respond to short and long day Lengths between <italic>Indica</italic> and <italic>Japonica</italic> rice</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>e1003281</fpage>.</mixed-citation></ref><ref id="pbi12907-bib-0011"><mixed-citation publication-type="journal" id="pbi12907-cit-0011">
+<string-name>
+<surname>Hiei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Komari</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Kubo</surname>, <given-names>T.</given-names>
+</string-name> (<year>1997</year>) <article-title>Transformation of rice mediated by <italic>Agrobacterium tumefaciens</italic>
+</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>35</volume>, <fpage>205</fpage>&#x02013;<lpage>218</lpage>.<pub-id pub-id-type="pmid">9291974</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0012"><mixed-citation publication-type="journal" id="pbi12907-cit-0012">
+<string-name>
+<surname>Hu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Che</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Variation in NRT1.1B contributes to nitrate&#x02010;use divergence between rice subspecies</article-title>. <source xml:lang="en">Nat. Genet.</source>
+<volume>47</volume>, <fpage>834</fpage>&#x02013;<lpage>838</lpage>.<pub-id pub-id-type="pmid">26053497</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0013"><mixed-citation publication-type="journal" id="pbi12907-cit-0013">
+<string-name>
+<surname>Hunt</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gattolin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Newbury</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Bale</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Tseng</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>D.A.</given-names>
+</string-name> and <string-name>
+<surname>Pritchard</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>) <article-title>A mutation in amino acid permease AAP6 reduces the amino acid content of the <italic>Arabidopsis</italic> sieve elements but leaves aphid herbivores unaffected</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>61</volume>, <fpage>55</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">19755569</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0014"><mixed-citation publication-type="journal" id="pbi12907-cit-0014">
+<string-name>
+<surname>Jefferson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Kavanagh</surname>, <given-names>T.A.</given-names>
+</string-name> and <string-name>
+<surname>Bevan</surname>, <given-names>M.W.</given-names>
+</string-name> (<year>1987</year>) <article-title>GUS fusions: beta&#x02010;glucuronidase as a sensitive and versatile gene fusion marker in higher plants</article-title>. <source xml:lang="en">EMBO J.</source>
+<volume>6</volume>, <fpage>3901</fpage>.<pub-id pub-id-type="pmid">3327686</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0015"><mixed-citation publication-type="journal" id="pbi12907-cit-0015">
+<string-name>
+<surname>Koutroubas</surname>, <given-names>S.D.</given-names>
+</string-name> and <string-name>
+<surname>Ntanos</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Genotypic differences for grain yield and nitrogen utilization in <italic>Indica</italic> and <italic>Japonica</italic> rice under Mediterranean conditions</article-title>. <source xml:lang="en">Field Crops Res.</source>
+<volume>83</volume>, <fpage>251</fpage>&#x02013;<lpage>260</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0016"><mixed-citation publication-type="journal" id="pbi12907-cit-0016">
+<string-name>
+<surname>Lee</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Voll</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>A.P.</given-names>
+</string-name> and <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>AAP1 transports uncharged amino acids into roots of <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>50</volume>, <fpage>305</fpage>&#x02013;<lpage>319</lpage>.<pub-id pub-id-type="pmid">17419840</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0017"><mixed-citation publication-type="journal" id="pbi12907-cit-0017">
+<string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003a</year>) <article-title>Control of tillering in rice</article-title>. <source xml:lang="en">Nature</source>, <volume>422</volume>, <fpage>618</fpage>&#x02013;<lpage>621</lpage>.<pub-id pub-id-type="pmid">12687001</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0018"><mixed-citation publication-type="journal" id="pbi12907-cit-0018">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Yano</surname>, <given-names>M.</given-names>
+</string-name> (<year>2003b</year>) <article-title>Mapping of quantitative trait loci controlling physico&#x02010;chemical properties of rice grains (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Jap. J. Breeding</source>, <volume>53</volume>, <fpage>209</fpage>&#x02013;<lpage>215</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0019"><mixed-citation publication-type="journal" id="pbi12907-cit-0019">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Chu</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>) <article-title>Nitrogen use efficiency in crops: lessons from <italic>Arabidopsis</italic> and rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>68</volume>, <fpage>2477</fpage>&#x02013;<lpage>2488</lpage>
+<bold>erx101</bold>.<pub-id pub-id-type="pmid">28419301</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0020"><mixed-citation publication-type="journal" id="pbi12907-cit-0020">
+<string-name>
+<surname>Lu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000fc;</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lian</surname>, <given-names>X.</given-names>
+</string-name> and <string-name>
+<surname>Cai</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>) <article-title>Molecular characterization, expression and functional analysis of the amino acid transporter gene family (<italic>OsAATs</italic>) in rice</article-title>. <source xml:lang="en">Acta Physiol. Plant.</source>
+<volume>34</volume>, <fpage>1943</fpage>&#x02013;<lpage>1962</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0021"><mixed-citation publication-type="journal" id="pbi12907-cit-0021">
+<string-name>
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>A robust CRISPR/Cas9 system for convenient, high&#x02010;efficiency multiplex genome editing in monocot and dicot plants</article-title>. <source xml:lang="en">Mol. Plant.</source>
+<volume>8</volume>, <fpage>1274</fpage>&#x02013;<lpage>1284</lpage>.<pub-id pub-id-type="pmid">25917172</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0022"><mixed-citation publication-type="journal" id="pbi12907-cit-0022">
+<string-name>
+<surname>Ma</surname>, <given-names>H.L.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>X.L.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.L.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Genome&#x02010;wide survey and expression analysis of the amino acid transporter superfamily in potato (<italic>Solanum tuberosum</italic> L.)</article-title>. <source xml:lang="en">Plant Physiol. Bioch.</source>
+<volume>107</volume>, <fpage>164</fpage>&#x02013;<lpage>177</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0023"><mixed-citation publication-type="journal" id="pbi12907-cit-0023">
+<string-name>
+<surname>Marella</surname>, <given-names>H.H.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Schachtman</surname>, <given-names>D.P.</given-names>
+</string-name> and <string-name>
+<surname>Taylor</surname>, <given-names>C.G.</given-names>
+</string-name> (<year>2013</year>) <article-title>The amino acid permeases AAP3 and AAP6 are involved in root&#x02010;knot nematode parasitism of <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Mol. Plant Microbe. In.</source>
+<volume>26</volume>, <fpage>44</fpage>&#x02013;<lpage>54</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0024"><mixed-citation publication-type="journal" id="pbi12907-cit-0024">
+<string-name>
+<surname>Minakuchi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kameoka</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yasuno</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Umehara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hanada</surname>, <given-names>A.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>FINE CULM1 (FC1) works downstream of strigolactones to inhibit the outgrowth of axillary buds in rice</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>51</volume>, <fpage>1127</fpage>&#x02013;<lpage>1135</lpage>.<pub-id pub-id-type="pmid">20547591</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0025"><mixed-citation publication-type="journal" id="pbi12907-cit-0025">
+<string-name>
+<surname>N&#x000e4;sholm</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kielland</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Ganeteg</surname>, <given-names>U.</given-names>
+</string-name> (<year>2009</year>) <article-title>Uptake of organic nitrogen by plants</article-title>. <source xml:lang="en">New Phyto.</source>
+<volume>182</volume>, <fpage>31</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0026"><mixed-citation publication-type="journal" id="pbi12907-cit-0026">
+<string-name>
+<surname>Obara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kashiba</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nagano</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Ebitani</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2004</year>) <article-title>Identification and characterization of a QTL on chromosome 2 for cytosolic glutamine synthetase content and panicle number in rice</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>110</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">15549232</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0027"><mixed-citation publication-type="journal" id="pbi12907-cit-0027">
+<string-name>
+<surname>Ohashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ishiyama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kojima</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kojima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sakakibara</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yamaya</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Hayakawa</surname>, <given-names>T.</given-names>
+</string-name> (<year>2017</year>) <article-title>Lack of cytosolic glutamine synthetase1;2 activity reduces nitrogen&#x02010;dependent biosynthesis of cytokinin required for axillary bud outgrowth in rice seedlings</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>58</volume>, <fpage>679</fpage>&#x02013;<lpage>690</lpage>.<pub-id pub-id-type="pmid">28186255</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0028"><mixed-citation publication-type="journal" id="pbi12907-cit-0028">
+<string-name>
+<surname>Okumoto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>W.N.</given-names>
+</string-name>, <string-name>
+<surname>Biehl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Leister</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Stierhof</surname>, <given-names>Y.D.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2004</year>) <article-title>Root phloem&#x02010;specific expression of the plasma membrane amino acid proton co&#x02010;transporter AAP3</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>55</volume>, <fpage>2155</fpage>&#x02013;<lpage>2168</lpage>.<pub-id pub-id-type="pmid">15361541</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0029"><mixed-citation publication-type="journal" id="pbi12907-cit-0029">
+<string-name>
+<surname>Paungfoo&#x02010;Lonhienne</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lonhienne</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Rentsch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Christie</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>, <given-names>R.I.</given-names>
+</string-name>, <string-name>
+<surname>Gamage</surname>, <given-names>H.K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Plants can use protein as a nitrogen source without assistance from other organisms</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>105</volume>, <fpage>4524</fpage>&#x02013;<lpage>4529</lpage>.<pub-id pub-id-type="pmid">18334638</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0030"><mixed-citation publication-type="journal" id="pbi12907-cit-0030">
+<string-name>
+<surname>Peng</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>OsAAP6 functions as an important regulator of grain protein content and nutritional quality in rice</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>5</volume>, <fpage>4847</fpage>.<pub-id pub-id-type="pmid">25209128</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0031"><mixed-citation publication-type="journal" id="pbi12907-cit-0031">
+<string-name>
+<surname>Perchlik</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Different and overlapping functions of <italic>Arabidopsis</italic> LHT6 and AAP1 transporters in root amino acid uptake</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>65</volume>, <fpage>5193</fpage>&#x02013;<lpage>5204</lpage>.<pub-id pub-id-type="pmid">25005136</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0032"><mixed-citation publication-type="journal" id="pbi12907-cit-0032">
+<string-name>
+<surname>Sanders</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Collier</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Trethewy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sieker</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>) <article-title>AAP1 regulates import of amino acids into developing <italic>Arabidopsi</italic>s embryos</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>59</volume>, <fpage>540</fpage>&#x02013;<lpage>552</lpage>.<pub-id pub-id-type="pmid">19392706</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0033"><mixed-citation publication-type="journal" id="pbi12907-cit-0033">
+<string-name>
+<surname>Santiago</surname>, <given-names>J.P.</given-names>
+</string-name> and <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>) <article-title>Connecting source with sink: the role of <italic>Arabidopsis</italic> AAP8 in phloem loading of amino acids</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>171</volume>, <fpage>508</fpage>&#x02013;<lpage>521</lpage>.<pub-id pub-id-type="pmid">27016446</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0034"><mixed-citation publication-type="journal" id="pbi12907-cit-0034">
+<string-name>
+<surname>Schmidt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Stransky</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Koch</surname>, <given-names>W.</given-names>
+</string-name> (<year>2007</year>) <article-title>The amino acid permease AAP8 is important for early seed development in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Planta</source>, <volume>226</volume>, <fpage>805</fpage>&#x02013;<lpage>813</lpage>.<pub-id pub-id-type="pmid">17476526</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0035"><mixed-citation publication-type="journal" id="pbi12907-cit-0035">
+<string-name>
+<surname>Schroeder</surname>, <given-names>J.I.</given-names>
+</string-name>, <string-name>
+<surname>Delhaize</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Frommer</surname>, <given-names>W.B.</given-names>
+</string-name>, <string-name>
+<surname>Guerinot</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Herrera&#x02010;Estrella</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Horie</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Using membrane transporters to improve crops for sustainable food production</article-title>. <source xml:lang="en">Nature</source>, <volume>497</volume>, <fpage>60</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">23636397</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0036"><mixed-citation publication-type="journal" id="pbi12907-cit-0036">
+<string-name>
+<surname>Schulze</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Frommer</surname>, <given-names>W.B.</given-names>
+</string-name> and <string-name>
+<surname>Ward</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>1999</year>) <article-title>Transporters for ammonium, amino acids and peptides are expressed in pitchers of the carnivorous plant Nepenthes</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>17</volume>, <fpage>637</fpage>&#x02013;<lpage>646</lpage>.<pub-id pub-id-type="pmid">10230062</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0037"><mixed-citation publication-type="journal" id="pbi12907-cit-0037">
+<string-name>
+<surname>Svennerstam</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ganeteg</surname>, <given-names>U.</given-names>
+</string-name> and <string-name>
+<surname>N&#x000e4;sholm</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>) <article-title>Root uptake of cationic amino acids by <italic>Arabidopsis</italic> depends on functional expression of amino acid permease 5</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>180</volume>, <fpage>620</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">18681934</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0038"><mixed-citation publication-type="journal" id="pbi12907-cit-0038">
+<string-name>
+<surname>Taylor</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Reinders</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Ward</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Transport function of rice amino acid permeases (AAPs)</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>56</volume>, <fpage>1355</fpage>&#x02013;<lpage>1363</lpage>.<pub-id pub-id-type="pmid">25907566</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0039"><mixed-citation publication-type="journal" id="pbi12907-cit-0039">
+<string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Transporters for amino acids in plant cells: some functions and many unknowns</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>15</volume>, <fpage>315</fpage>&#x02013;<lpage>321</lpage>.<pub-id pub-id-type="pmid">22366488</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0040"><mixed-citation publication-type="journal" id="pbi12907-cit-0040">
+<string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Ward</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Molecular evolution of plant AAP and LHT amino acid transporters</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>3</volume>, <fpage>21</fpage>.<pub-id pub-id-type="pmid">22645574</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0041"><mixed-citation publication-type="journal" id="pbi12907-cit-0041">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Branching in rice</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>14</volume>, <fpage>94</fpage>&#x02013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">21144796</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0042"><mixed-citation publication-type="journal" id="pbi12907-cit-0042">
+<string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Z.H.</given-names>
+</string-name> and <string-name>
+<surname>Chong</surname>, <given-names>K.</given-names>
+</string-name> (<year>2004</year>) <article-title>A practical vector for efficient knockdown of gene expression in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">Plant Mol. Bio. Rep.</source>
+<volume>22</volume>, <fpage>409</fpage>&#x02013;<lpage>417</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0043"><mixed-citation publication-type="journal" id="pbi12907-cit-0043">
+<string-name>
+<surname>Wu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>H.W.</given-names>
+</string-name> and <string-name>
+<surname>Xiang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>Genome&#x02010;wide survey and expression analysis of the amino acid transporter gene family in poplar tree</article-title>. <source xml:lang="en">Genom. Genet.</source>
+<volume>11</volume>, <fpage>83</fpage>.</mixed-citation></ref><ref id="pbi12907-bib-0044"><mixed-citation publication-type="journal" id="pbi12907-cit-0044">
+<string-name>
+<surname>Xing</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2010</year>) <article-title>Genetic and molecular bases of rice yield</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>61</volume>, <fpage>421</fpage>&#x02013;<lpage>442</lpage>.<pub-id pub-id-type="pmid">20192739</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0045"><mixed-citation publication-type="journal" id="pbi12907-cit-0045">
+<string-name>
+<surname>Yadav</surname>, <given-names>U.P.</given-names>
+</string-name>, <string-name>
+<surname>Ayre</surname>, <given-names>B.G.</given-names>
+</string-name> and <string-name>
+<surname>Bush</surname>, <given-names>D.R.</given-names>
+</string-name> (<year>2015</year>) <article-title>Transgenic approaches to altering carbon and nitrogen partitioning in whole plants: assessing the potential to improve crop yields and nutritional quality</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>6</volume>, <fpage>275</fpage>.<pub-id pub-id-type="pmid">25954297</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0046"><mixed-citation publication-type="journal" id="pbi12907-cit-0046">
+<string-name>
+<surname>Yang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Postel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kemmerling</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Ludewig</surname>, <given-names>U.</given-names>
+</string-name> (<year>2014</year>) <article-title>Altered growth and improved resistance of <italic>Arabidopsis</italic>, against pseudomonas Syringae by overexpression of the basic amino acid transporter AtCAT1</article-title>. <source xml:lang="en">Plant Cell Env.</source>
+<volume>37</volume>, <fpage>1404</fpage>&#x02013;<lpage>1414</lpage>.<pub-id pub-id-type="pmid">24895758</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0047"><mixed-citation publication-type="journal" id="pbi12907-cit-0047">
+<string-name>
+<surname>Yeh</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.W.</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Tseng</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.H.</given-names>
+</string-name> and <string-name>
+<surname>Ku</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Down&#x02010;regulation of <italic>cytokinin oxidase 2</italic> expression increases tiller number and improves rice yield</article-title>. <source xml:lang="en">Rice</source>, <volume>8</volume>, <fpage>36</fpage>.</mixed-citation></ref><ref id="pbi12907-bib-0048"><mixed-citation publication-type="journal" id="pbi12907-cit-0048">
+<string-name>
+<surname>Yin</surname>, <given-names>K.Q.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>C.X.</given-names>
+</string-name> and <string-name>
+<surname>Qiu</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2017</year>) <article-title>Progress and prospects in plant genome editing</article-title>. <source xml:lang="en">Nature Plant</source>, <volume>3</volume>, <fpage>1</fpage>&#x02013;<lpage>6</lpage>.</mixed-citation></ref><ref id="pbi12907-bib-0049"><mixed-citation publication-type="book" id="pbi12907-cit-0049">
+<string-name>
+<surname>Yoshida</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Forno</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>J.H.</given-names>
+</string-name> and <string-name>
+<surname>Gomez</surname>, <given-names>K.A.</given-names>
+</string-name> (<year>1976</year>) <chapter-title>Routine procedures for growing rice plants in culture solution</chapter-title> In <source xml:lang="en">Laboratory Manual for Physiological Studies of Rice</source> (<person-group person-group-type="editor"><name><surname>Yoshida</surname><given-names>S.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Forno</surname><given-names>D.A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Cook</surname><given-names>J.H.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Gomez</surname><given-names>K.A.</given-names></name></person-group>, eds), pp. <fpage>61</fpage>&#x02013;<lpage>66</lpage>. <publisher-loc>Los Banos, Philippines</publisher-loc>: <publisher-name>International Rice Research Institute</publisher-name>.</mixed-citation></ref><ref id="pbi12907-bib-0050"><mixed-citation publication-type="journal" id="pbi12907-cit-0050">
+<string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name> (<year>2007</year>) <article-title>Strategies for developing green super rice</article-title>. <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>, <volume>104</volume>, <fpage>16402</fpage>&#x02013;<lpage>16409</lpage>.<pub-id pub-id-type="pmid">17923667</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0051"><mixed-citation publication-type="journal" id="pbi12907-cit-0051">
+<string-name>
+<surname>Zhang</surname>, <given-names>L.Z.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>Q.M.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Trethewy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>Y.H.</given-names>
+</string-name> and <string-name>
+<surname>Tegeder</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Altered xylem&#x02010;phloem transfer of amino acids affects metabolism and leads to increased seed yield and oil content in <italic>Arabidopsis</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>22</volume>, <fpage>3603</fpage>&#x02013;<lpage>3620</lpage>.<pub-id pub-id-type="pmid">21075769</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0052"><mixed-citation publication-type="journal" id="pbi12907-cit-0052">
+<string-name>
+<surname>Zhao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> and <string-name>
+<surname>Zhao</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Genome&#x02010;wide survey and expression analysis of amino acid transporter gene family in rice (<italic>Oryza sativa</italic> L.)</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>, <fpage>e49210</fpage>.<pub-id pub-id-type="pmid">23166615</pub-id></mixed-citation></ref><ref id="pbi12907-bib-0053"><mixed-citation publication-type="journal" id="pbi12907-cit-0053">
+<string-name>
+<surname>Zurcher</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Muller</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>) <article-title>Cytokinin synthesis, signaling, and function&#x02010;advances and new insights</article-title>. <source xml:lang="en">Int. Rev. Cell Mol. Biol.</source>
+<volume>324</volume>, <fpage>1</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">27017005</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1354 @@
+{
+  "id": [
+    "30115128"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30115128"
+  ],
+  "pmcid": [
+    "PMC6097218"
+  ],
+  "doi": [
+    "10.1186/s13059-018-1475-4"
+  ],
+  "title": [
+    "Optical and physical mapping with local finishing enables megabase-scale resolution of agronomically important regions in the wheat genome."
+  ],
+  "authorString": [
+    "Keeble-Gagnère G, Rigault P, Tibbits J, Pasam R, Hayden M, Forrest K, Frenkel Z, Korol A, Huang BE, Cavanagh C, Taylor J, Abrouk M, Sharpe A, Konkin D, Sourdille P, Darrier B, Choulet F, Bernard A, Rochfort S, Dimech A, Watson-Haigh N, Baumann U, Eckermann P, Fleury D, Juhasz A, Boisvert S, Nolin MA, Doležel J, Šimková H, Toegelová H, Šafář J, Luo MC, Câmara F, Pfeifer M, Isdale D, Nyström-Persson J, Iwgsc, Koo DH, Tinning M, Cui D, Ru Z, Appels R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Keeble-Gagnère G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Keeble-Gagnère"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rigault P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Rigault"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "GYDLE, 1135 Grande Allée Ouest, Suite 220, Québec, QC, G1S 1E7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Tibbits J"
+          ],
+          "firstName": [
+            "Josquin"
+          ],
+          "lastName": [
+            "Tibbits"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Pasam R"
+          ],
+          "firstName": [
+            "Raj"
+          ],
+          "lastName": [
+            "Pasam"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0908-1882",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hayden M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Hayden"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Forrest K"
+          ],
+          "firstName": [
+            "Kerrie"
+          ],
+          "lastName": [
+            "Forrest"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Frenkel Z"
+          ],
+          "firstName": [
+            "Zeev"
+          ],
+          "lastName": [
+            "Frenkel"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Evolution, University of Haifa, Haifa, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Korol A"
+          ],
+          "firstName": [
+            "Abraham"
+          ],
+          "lastName": [
+            "Korol"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Evolution, University of Haifa, Haifa, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang BE"
+          ],
+          "firstName": [
+            "B Emma"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "affiliation": [
+            "CSIRO-Plant Industry, Black Mountain, Canberra, ACT, 2601, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cavanagh C"
+          ],
+          "firstName": [
+            "Colin"
+          ],
+          "lastName": [
+            "Cavanagh"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "CSIRO-Plant Industry, Black Mountain, Canberra, ACT, 2601, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor J"
+          ],
+          "firstName": [
+            "Jen"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "CSIRO-Plant Industry, Black Mountain, Canberra, ACT, 2601, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abrouk M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Abrouk"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "King Abdullah University of Science and Technology, Desert Agriculture Initiative, Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharpe A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Sharpe"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Global Institute of Food Security, University of Saskatchewan, 110 Gymnasium Place, Saskatoon, SK, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Konkin D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Konkin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "National Research Council of Canada, University of Saskatchewan, 110 Gymnasium Place, Saskatoon, SK, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sourdille P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "Sourdille"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "INRA UMR1095 Genetics, Diversity and Ecophysiology of Cereals, 5 chemin de Beaulieu, 63039, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Darrier B"
+          ],
+          "firstName": [
+            "Benoît"
+          ],
+          "lastName": [
+            "Darrier"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "INRA UMR1095 Genetics, Diversity and Ecophysiology of Cereals, 5 chemin de Beaulieu, 63039, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Choulet F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Choulet"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1788-7288",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "INRA UMR1095 Genetics, Diversity and Ecophysiology of Cereals, 5 chemin de Beaulieu, 63039, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bernard A"
+          ],
+          "firstName": [
+            "Aurélien"
+          ],
+          "lastName": [
+            "Bernard"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "INRA UMR1095 Genetics, Diversity and Ecophysiology of Cereals, 5 chemin de Beaulieu, 63039, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Rochfort S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Rochfort"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Dimech A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Dimech"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Watson-Haigh N"
+          ],
+          "firstName": [
+            "Nathan"
+          ],
+          "lastName": [
+            "Watson-Haigh"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, University of Adelaide, Urrbrae, South Australia, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Baumann U"
+          ],
+          "firstName": [
+            "Ute"
+          ],
+          "lastName": [
+            "Baumann"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, University of Adelaide, Urrbrae, South Australia, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Eckermann P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Eckermann"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, University of Adelaide, Urrbrae, South Australia, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Fleury D"
+          ],
+          "firstName": [
+            "Delphine"
+          ],
+          "lastName": [
+            "Fleury"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7077-4103",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Agriculture, Food and Wine, University of Adelaide, Urrbrae, South Australia, 5064, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Juhasz A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Juhasz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Veterinary and Agriculture, Murdoch University, 90 South St, Murdoch, Western Australia, 6150, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Boisvert S"
+          ],
+          "firstName": [
+            "Sébastien"
+          ],
+          "lastName": [
+            "Boisvert"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "GYDLE, 1135 Grande Allée Ouest, Suite 220, Québec, QC, G1S 1E7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Nolin MA"
+          ],
+          "firstName": [
+            "Marc-Alexandre"
+          ],
+          "lastName": [
+            "Nolin"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "GYDLE, 1135 Grande Allée Ouest, Suite 220, Québec, QC, G1S 1E7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Doležel J"
+          ],
+          "firstName": [
+            "Jaroslav"
+          ],
+          "lastName": [
+            "Doležel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Slechtitelu 31, CZ-78371, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Šimková H"
+          ],
+          "firstName": [
+            "Hana"
+          ],
+          "lastName": [
+            "Šimková"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Slechtitelu 31, CZ-78371, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Toegelová H"
+          ],
+          "firstName": [
+            "Helena"
+          ],
+          "lastName": [
+            "Toegelová"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Slechtitelu 31, CZ-78371, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Šafář J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Šafář"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Experimental Botany, Centre of the Region Haná for Biotechnological and Agricultural Research, Slechtitelu 31, CZ-78371, Olomouc, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo MC"
+          ],
+          "firstName": [
+            "Ming-Cheng"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "UC Davis Plant Sciences, Plant Genetics and Bioinformatics, 258A Hunt Hall, Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Câmara F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Câmara"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Bioinformatics and Genomics Program, Centre for Genomic Regulation (CRG) and Universitat Pompeu Fabra (UPF), 88 Dr. Aiguader, 08003, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Pfeifer M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Pfeifer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Plant Genome and Systems Biology, Helmholtz Center, Munich, 85764, Neuherberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Isdale D"
+          ],
+          "firstName": [
+            "Don"
+          ],
+          "lastName": [
+            "Isdale"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nyström-Persson J"
+          ],
+          "firstName": [
+            "Johan"
+          ],
+          "lastName": [
+            "Nyström-Persson"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Level Five Co. Ltd. GYB Akihabara, Kanda-Sudacho 2-25, Chiyoda-ku, Tokyo, 101-0041, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Iwgsc"
+          ],
+          "lastName": [
+            "Iwgsc"
+          ],
+          "affiliation": [
+            "International Wheat Genome Sequencing Consortium, 2841 NE Marywood Ct, Lee's Summit, MO, 64086, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Koo DH"
+          ],
+          "firstName": [
+            "Dal-Hoe"
+          ],
+          "lastName": [
+            "Koo"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "affiliation": [
+            "Wheat Genetics Resource Center and Department of Plant Pathology, Kansas State University, Manhattan, KS, 66506, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tinning M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Tinning"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Australian Genome Research Facility, Suite 219, 55 Flemington Road, North Melbourne, VIC, 3051, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui D"
+          ],
+          "firstName": [
+            "Dangqun"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Henan Agricultural University, Zhengzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ru Z"
+          ],
+          "firstName": [
+            "Zhengang"
+          ],
+          "lastName": [
+            "Ru"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Henan Institute of Science and Technology, Zhengzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Appels R"
+          ],
+          "firstName": [
+            "Rudi"
+          ],
+          "lastName": [
+            "Appels"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5369-5227",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia. rudi.appels@unimelb.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5369-5227",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1788-7288",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0908-1882",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7077-4103",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2714861"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "112"
+  ],
+  "abstractText": [
+    "BACKGROUND:Numerous scaffold-level sequences for wheat are now being released and, in this context, we report on a strategy for improving the overall assembly to a level comparable to that of the human genome. RESULTS:Using chromosome 7A of wheat as a model, sequence-finished megabase-scale sections of this chromosome were established by combining a new independent assembly using a bacterial artificial chromosome (BAC)-based physical map, BAC pool paired-end sequencing, chromosome-arm-specific mate-pair sequencing and Bionano optical mapping with the International Wheat Genome Sequencing Consortium RefSeq v1.0 sequence and its underlying raw data. The combined assembly results in 18 super-scaffolds across the chromosome. The value of finished genome regions is demonstrated for two approximately 2.5 Mb regions associated with yield and the grain quality phenotype of fructan carbohydrate grain levels. In addition, the 50 Mb centromere region analysis incorporates cytological data highlighting the importance of non-sequence data in the assembly of this complex genome region. CONCLUSIONS:Sufficient genome sequence information is shown to now be available for the wheat community to produce sequence-finished releases of each chromosome of the reference genome. The high-level completion identified that an array of seven fructosyl transferase genes underpins grain quality and that yield attributes are affected by five F-box-only-protein-ubiquitin ligase domain and four root-specific lipid transfer domain genes. The completed sequence also includes the centromere."
+  ],
+  "affiliation": [
+    "Agriculture Victoria Research, Department of Economic Development, Jobs, Transport and Resources, AgriBio, Bundoora, VIC, 3083, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1338897"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ACSRF00542"
+          ],
+          "agency": [
+            "Department of Industry, Innovation, Science, Research and Tertiary Education, Australian Government"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "LO1204"
+          ],
+          "agency": [
+            "Czech Ministry of Education Youth and Sports"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UMU00037"
+          ],
+          "agency": [
+            "Grains Research and Development Corporation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NA"
+          ],
+          "agency": [
+            "Commonwealth Scientific and Industrial Research Organisation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NA"
+          ],
+          "agency": [
+            "Victorian Department of Economic Development, Jobs, Transport and Resources"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Project PT13/0001/0021 (ISCIII -FEDER)"
+          ],
+          "agency": [
+            "INB (\"Instituto National de Bioinformatica\")"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NA"
+          ],
+          "agency": [
+            "BioPlatform Australia (BPA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Artificial, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Centromere"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Triticum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seeds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fructans"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Chromosome Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optical Phenomena"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yield",
+        "Megabase-scale Integration",
+        "Optical/physical Maps Grain Quality",
+        "Wheat Sequence Finishing"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fructans"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097218?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6097218"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-018-1475-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR7336"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-08-18"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-17"
+  ],
+  "firstPublicationDate": [
+    "2018-08-17"
+  ]
+}

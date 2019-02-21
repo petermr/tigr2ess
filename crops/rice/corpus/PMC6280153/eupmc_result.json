@@ -1,0 +1,485 @@
+{
+  "id": [
+    "30384411"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30384411"
+  ],
+  "pmcid": [
+    "PMC6280153"
+  ],
+  "doi": [
+    "10.3390/ijms19113406"
+  ],
+  "title": [
+    "Revealing Unknown Protein Structures Using Computational Conformational Sampling Guided by Experimental Hydrogen-Exchange Data."
+  ],
+  "authorString": [
+    "Devaurs D, Antunes DA, Kavraki LE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Devaurs D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Devaurs"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3415-9816",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science, Rice University, 6100 Main St, Houston, TX 77005, USA. devaurs@rice.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Antunes DA"
+          ],
+          "firstName": [
+            "Dinler A"
+          ],
+          "lastName": [
+            "Antunes"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7947-6455",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science, Rice University, 6100 Main St, Houston, TX 77005, USA. dinler@rice.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Kavraki LE"
+          ],
+          "firstName": [
+            "Lydia E"
+          ],
+          "lastName": [
+            "Kavraki"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0699-8038",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science, Rice University, 6100 Main St, Houston, TX 77005, USA. kavraki@rice.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7947-6455",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0699-8038",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3415-9816",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2741575"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Both experimental and computational methods are available to gather information about a protein's conformational space and interpret changes in protein structure. However, experimentally observing and computationally modeling large proteins remain critical challenges for structural biology. Our work aims at addressing these challenges by combining computational and experimental techniques relying on each other to overcome their respective limitations. Indeed, despite its advantages, an experimental technique such as hydrogen-exchange monitoring cannot produce structural models because of its low resolution. Additionally, the computational methods that can generate such models suffer from the curse of dimensionality when applied to large proteins. Adopting a common solution to this issue, we have recently proposed a framework in which our computational method for protein conformational sampling is biased by experimental hydrogen-exchange data. In this paper, we present our latest application of this computational framework: generating an atomic-resolution structural model for an unknown protein state. For that, starting from an available protein structure, we explore the conformational space of this protein, using hydrogen-exchange data on this unknown state as a guide. We have successfully used our computational framework to generate models for three proteins of increasing size, the biggest one undergoing large-scale conformational changes."
+  ],
+  "affiliation": [
+    "Department of Computer Science, Rice University, 6100 Main St, Houston, TX 77005, USA. devaurs@rice.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CCF 1423304"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interleukin-8"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Deuterium Exchange Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Conformation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Complement C3b"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nuclear magnetic resonance",
+        "Mass spectrometry",
+        "protein structure",
+        "Hydrogen Exchange",
+        "Protein Conformational Sampling"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Interleukin-8"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Complement C3b"
+          ],
+          "registryNumber": [
+            "80295-43-8"
+          ]
+        },
+        {
+          "name": [
+            "IL8 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6280153?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6280153"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19113406"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-01-29"
+  ],
+  "dateOfCreation": [
+    "2018-11-03"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-31"
+  ],
+  "firstPublicationDate": [
+    "2018-10-31"
+  ]
+}

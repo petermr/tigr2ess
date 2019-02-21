@@ -1,0 +1,393 @@
+{
+  "id": [
+    "30227614"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30227614"
+  ],
+  "pmcid": [
+    "PMC6163955"
+  ],
+  "doi": [
+    "10.3390/s18093129"
+  ],
+  "title": [
+    "Development of an Apparatus for Crop-Growth Monitoring and Diagnosis."
+  ],
+  "authorString": [
+    "Ni J, Zhang J, Wu R, Pang F, Zhu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ni J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Agriculture, Nanjing Agriculture University, Nanjing 210095, China. nijun@njau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jingchao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Nanjing Institute of Agricultural Mechanization of National Ministry of Agriculture, Nanjing 210014, China. zhangjc9@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu R"
+          ],
+          "firstName": [
+            "Rusong"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "College of Agriculture, Nanjing Agriculture University, Nanjing 210095, China. wrs375207731@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pang F"
+          ],
+          "firstName": [
+            "Fangrong"
+          ],
+          "lastName": [
+            "Pang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "College of Agriculture, Nanjing Agriculture University, Nanjing 210095, China. pangfangrong@njau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1884-2404",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Agriculture, Nanjing Agriculture University, Nanjing 210095, China. yanzhu@njau.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1884-2404",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2722555"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "To non-destructively acquire leaf nitrogen content (LNC), leaf nitrogen accumulation (LNA), leaf area index (LAI), and leaf dry weight (LDW) data at high speed and low cost, a portable apparatus for crop-growth monitoring and diagnosis (CGMD) was developed according to the spectral monitoring mechanisms of crop growth. According to the canopy characteristics of crops and actual requirements of field operation environments, splitting light beams by using an optical filter and proper structural parameters were determined for the sensors. Meanwhile, an integral-type weak optoelectronic signal processing circuit was designed, which changed the gain of the system and guaranteed the high resolution of the apparatus by automatically adjusting the integration period based on the irradiance received from ambient light. In addition, a coupling processor system for a sensor information and growth model based on the microcontroller chip was developed. Field experiments showed that normalised vegetation index (NDVI) measured separately through the CGMD apparatus and the ASD spectrometer showed a good linear correlation. For measurements of canopy reflectance spectra of rice and wheat, their linear determination coefficients (R²) were 0.95 and 0.92, respectively while the root mean square errors (RMSEs) were 0.02 and 0.03, respectively. NDVI value measured by using the CGMD apparatus and growth indices of rice and wheat exhibited a linear relationship. For the monitoring models for LNC, LNA, LAI, and LDW of rice based on linear fitting of NDVI, R² were 0.64, 0.67, 0.63 and 0.70, and RMSEs were 0.31, 2.29, 1.15 and 0.05, respectively. In addition, R² of the models for monitoring LNC, LNA, LAI, and LDW of wheat on the basis of linear fitting of NDVI were 0.82, 0.71, 0.72 and 0.70, and RMSEs were 0.26, 2.30, 1.43, and 0.05, respectively."
+  ],
+  "affiliation": [
+    "College of Agriculture, Nanjing Agriculture University, Nanjing 210095, China. nijun@njau.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016YFD0300606"
+          ],
+          "agency": [
+            "National Key Research and Development Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31371534"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PAPD"
+          ],
+          "agency": [
+            "The Priority Academic Program Development of Jiangsu Higher Education Institutions"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CX(16)1006"
+          ],
+          "agency": [
+            "Jiangsu Agricultural Science and Technology Independent Innovation Fund Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BE2016378"
+          ],
+          "agency": [
+            "Primary Research & Development Plan of Jiangsu Province of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Field experiment",
+        "Canopy reflectance spectra",
+        "Multispectral Sensor",
+        "Crop Growth Index",
+        "Apparatus For Monitoring And Diagnosis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6163955?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6163955"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18093129"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-20"
+  ],
+  "dateOfRevision": [
+    "2018-10-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-17"
+  ],
+  "firstPublicationDate": [
+    "2018-09-17"
+  ]
+}

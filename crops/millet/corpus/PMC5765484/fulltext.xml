@@ -1,0 +1,738 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant J</journal-id><journal-id journal-id-type="iso-abbrev">Plant J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-313X</journal-id><journal-id journal-id-type="publisher-id">TPJ</journal-id><journal-title-group><journal-title>The Plant Journal</journal-title></journal-title-group><issn pub-type="ppub">0960-7412</issn><issn pub-type="epub">1365-313X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5765484</article-id><article-id pub-id-type="doi">10.1111/tpj.13741</article-id><article-id pub-id-type="publisher-id">TPJ13741</article-id><article-categories><subj-group subj-group-type="overline"><subject>Resource</subject></subj-group><subj-group subj-group-type="heading"><subject>Resource</subject></subj-group></article-categories><title-group><article-title>Root transcriptional dynamics induced by beneficial rhizobacteria and microbial immune elicitors reveal signatures of adaptation to mutualists</article-title><alt-title alt-title-type="left-running-head">Ioannis A. Stringlis <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="tpj13741-cr-0001" contrib-type="author"><name><surname>Stringlis</surname><given-names>Ioannis A.</given-names></name><xref ref-type="aff" rid="tpj13741-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="tpj13741-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="tpj13741-cr-0002" contrib-type="author"><name><surname>Proietti</surname><given-names>Silvia</given-names></name><xref ref-type="aff" rid="tpj13741-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="tpj13741-curr-0001">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="tpj13741-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="tpj13741-cr-0003" contrib-type="author"><name><surname>Hickman</surname><given-names>Richard</given-names></name><xref ref-type="aff" rid="tpj13741-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tpj13741-cr-0004" contrib-type="author"><name><surname>Van Verk</surname><given-names>Marcel C.</given-names></name><xref ref-type="aff" rid="tpj13741-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="tpj13741-curr-0002">
+<sup>3</sup>
+</xref></contrib><contrib id="tpj13741-cr-0005" contrib-type="author"><name><surname>Zamioudis</surname><given-names>Christos</given-names></name><xref ref-type="aff" rid="tpj13741-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="tpj13741-curr-0003">
+<sup>4</sup>
+</xref></contrib><contrib id="tpj13741-cr-0006" contrib-type="author" corresp="yes"><name><surname>Pieterse</surname><given-names>Corn&#x000e9; M. J.</given-names></name><address><email>C.M.J.Pieterse@uu.nl</email></address><xref ref-type="aff" rid="tpj13741-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="tpj13741-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Plant&#x02010;Microbe Interactions</named-content>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<named-content content-type="organisation-division">Faculty of Science</named-content>
+<institution>Utrecht University</institution>
+<named-content content-type="street">P.O. Box&#x000a0;800.56</named-content>
+<named-content content-type="post-code">3508 TB</named-content>
+<named-content content-type="city">Utrecht</named-content>
+<country country="NL">the Netherlands</country>
+</aff><aff id="tpj13741-curr-0001"><label><sup>2</sup></label>Present address:
+<named-content content-type="organisation-division">Department of Ecological and Biological Sciences</named-content>
+<institution>University of Tuscia</institution>
+<named-content content-type="city">Viterbo</named-content>
+<country country="IT">Italy</country>
+</aff><aff id="tpj13741-curr-0002"><label><sup>3</sup></label>Present address:
+<institution>Keygene N.V.</institution>
+<named-content content-type="street">P.O. Box&#x000a0;216</named-content>
+<named-content content-type="post-code">6700 AE</named-content>
+<named-content content-type="city">Wageningen</named-content>
+<country country="NL">the Netherlands</country>
+</aff><aff id="tpj13741-curr-0003"><label><sup>4</sup></label>Present address:
+<institution>Rijk Zwaan Breeding B.V.</institution>
+<named-content content-type="street">P.O. Box&#x000a0;40</named-content>
+<named-content content-type="post-code">2678</named-content>
+<named-content content-type="city">ZG De Lier</named-content>
+<country country="NL">the Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence (e&#x02010;mail <email>C.M.J.Pieterse@uu.nl</email>).</corresp><fn fn-type="equal" id="tpj13741-note-1001"><label>&#x02020;</label><p>Contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>15</day><month>11</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2018</year></pub-date><volume>93</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/tpj.2018.93.issue-1</issue-id><fpage>166</fpage><lpage>180</lpage><history><date date-type="received"><day>24</day><month>8</month><year>2017</year></date><date date-type="rev-recd"><day>28</day><month>9</month><year>2017</year></date><date date-type="accepted"><day>29</day><month>9</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 John Wiley & Sons Ltd and the Society for Experimental Biology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. The Plant Journal published by John Wiley &#x00026; Sons Ltd and Society for Experimental Biology.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:TPJ-93-166.pdf"/><abstract id="tpj13741-abs-0001"><title>Summary</title><p>Below ground, microbe&#x02010;associated molecular patterns (<styled-content style="fixed-case">MAMP</styled-content>s) of root&#x02010;associated microbiota can trigger costly defenses at the expense of plant growth. However, beneficial rhizobacteria, such as <italic>Pseudomonas simiae </italic>
+<styled-content style="fixed-case">WCS</styled-content>417, promote plant growth and induce systemic resistance without being warded off by local root immune responses. To investigate early root responses that facilitate <styled-content style="fixed-case">WCS</styled-content>417 to exert its plant&#x02010;beneficial functions, we performed time series <styled-content style="fixed-case">RNA</styled-content>&#x02010;Seq of Arabidopsis roots in response to live <styled-content style="fixed-case">WCS</styled-content>417 and compared it with <styled-content style="fixed-case">MAMP</styled-content>s flg22<sup>417</sup> (from <styled-content style="fixed-case">WCS</styled-content>417), flg22<sup>Pa</sup> (from pathogenic <italic>Pseudomonas aeruginosa</italic>) and fungal chitin. The <styled-content style="fixed-case">MAMP</styled-content> transcriptional responses differed in timing, but displayed a large overlap in gene identity. <styled-content style="fixed-case">MAMP</styled-content>&#x02010;upregulated genes are enriched for genes with functions in immunity, while downregulated genes are enriched for genes related to growth and development. Although 74% of the transcriptional changes inflicted by live <styled-content style="fixed-case">WCS</styled-content>417 overlapped with the flg22<sup>417</sup> profile, <styled-content style="fixed-case">WCS</styled-content>417 actively suppressed more than half of the <styled-content style="fixed-case">MAMP</styled-content>&#x02010;triggered transcriptional responses, possibly to allow the establishment of a mutually beneficial interaction with the host root. Interestingly, the sector of the flg22<sup>417</sup>&#x02010;repressed transcriptional network that is not affected by <styled-content style="fixed-case">WCS</styled-content>417 has a strong auxin signature. Using auxin response mutant <italic>tir1afb2afb3</italic>, we demonstrate a dual role for auxin signaling in finely balancing growth&#x02010;promoting and defense&#x02010;eliciting activities of beneficial microbes in plant roots.</p></abstract><abstract abstract-type="short" id="tpj13741-abs-0002"><title>Significance Statement</title><p>Using time&#x02010;series transcriptomics, this work provides novel insight into how beneficial microbes in the rhizosphere suppress growth&#x02010;repressing defense responses that are triggered in the roots by immune elicitors of the plethora of soil&#x02010;borne microbiota on and in roots. The work pinpoints a dual role for auxin signaling in finely balancing growth&#x02010;promoting and defense&#x02010;eliciting activities of beneficial microbes in plant roots.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="tpj13741-kwd-0001">plant growth&#x02010;promoting rhizobacteria</kwd><kwd id="tpj13741-kwd-0002">root microbiome</kwd><kwd id="tpj13741-kwd-0003">time series <styled-content style="fixed-case">RNA</styled-content>&#x02010;Seq</kwd><kwd id="tpj13741-kwd-0004">transcriptomics</kwd><kwd id="tpj13741-kwd-0005"><italic>Arabidopsis thaliana</italic></kwd><kwd id="tpj13741-kwd-0006"><italic>Pseudomonas simiae </italic><styled-content style="fixed-case">WCS</styled-content>417</kwd><kwd id="tpj13741-kwd-0007">flagellin</kwd><kwd id="tpj13741-kwd-0008">chitin</kwd><kwd id="tpj13741-kwd-0009">auxin</kwd><kwd id="tpj13741-kwd-0010">growth&#x02010;defense trade&#x02010;off</kwd></kwd-group><funding-group><award-group><funding-source>European Research Council</funding-source><award-id>269072</award-id></award-group><award-group><funding-source>Marie Curie Fellowship</funding-source><award-id>327282</award-id></award-group><award-group><funding-source>Netherlands Organisation for Scientific Research (NWO)</funding-source></award-group><award-group><funding-source>Dutch Technology Foundation (STW)</funding-source><award-id>13682</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="15"/><word-count count="9785"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>tpj13741</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.8 mode:remove_FC converted:12.01.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="tpj13741-sec-0001"><title>Introduction</title><p>Through photosynthesis, plants have the ability to convert sunlight into chemical energy and provide other organisms with food and oxygen, both above ground and below ground. Below ground, roots interact with an astonishing number of microbiota, also called the rhizosphere microbiome (Berendsen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0005" ref-type="ref">2012</xref>; Bulgarelli <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0009" ref-type="ref">2013</xref>). Via root exudations, plants invest up to 20% of the photosynthetically fixed carbon sources in the preservation of these rhizosphere microbiota (Bais <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0003" ref-type="ref">2006</xref>; Philippot <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0039" ref-type="ref">2013</xref>). In return, beneficial rhizosphere microbiota improve root architecture, enhance nutrient uptake and stimulate the plant's immune system (Lugtenberg and Kamilova, <xref rid="tpj13741-bib-0029" ref-type="ref">2009</xref>; Berendsen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0005" ref-type="ref">2012</xref>; Pieterse <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0041" ref-type="ref">2016</xref>; Venturi and Keel, <xref rid="tpj13741-bib-0054" ref-type="ref">2016</xref>). Classical examples of such beneficial microbes are mycorrhizal fungi, Rhizobium bacteria, and plant growth&#x02010;promoting rhizobacteria (PGPR) and fungi (PGPF; Zamioudis and Pieterse, <xref rid="tpj13741-bib-0057" ref-type="ref">2012</xref>).</p><p>In the past two decades, the interaction between the PGPR <italic>Pseudomonas simiae</italic> WCS417 (WCS417; formerly known as <italic>Pseudomonas fluorescens</italic> WCS417; Berendsen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0006" ref-type="ref">2015</xref>) and the model plant <italic>Arabidopsis thaliana</italic> (Arabidopsis) was intensively studied to elucidate the molecular mechanisms underlying plant&#x02010;beneficial effects of this PGPR on plant growth and immunity (Pieterse <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0040" ref-type="ref">2014</xref>). Colonization of Arabidopsis roots by WCS417 promotes plant growth by driving auxin&#x02010;dependent developmental changes in root architecture, resulting in the stimulation of lateral root emergence and root hair formation (Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0058" ref-type="ref">2013</xref>). Colonization of Arabidopsis roots by WCS417 also triggers an induced systemic resistance (ISR) that is effective against a broad spectrum of pathogens (Pieterse <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0040" ref-type="ref">2014</xref>). WCS417&#x02010;ISR is not associated with the direct activation of costly defenses, but with a phenomenon called defense priming (Martinez&#x02010;Medina <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0031" ref-type="ref">2016</xref>). WCS417&#x02010;primed plants display an accelerated defense response upon pathogen or insect attack but, in the absence of an invader, costly defenses are not expressed. The ability of PGPRs to simultaneously promote growth and immunity, without the antagonistic features that are typically associated with growth&#x02010;defense tradeoffs (Huot <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0021" ref-type="ref">2014</xref>), make these beneficial soil microbes ideal for the development of biological control agents.</p><p>Although generally beneficial for plants, PGPR and PGPF possess microbe&#x02010;associated molecular patterns (MAMPs) that, like MAMPs of pathogens, can be recognized by pattern recognition receptors (PRRs) of the plant immune system (Jones and Dangl, <xref rid="tpj13741-bib-0023" ref-type="ref">2006</xref>; Dodds and Rathjen, <xref rid="tpj13741-bib-0015" ref-type="ref">2010</xref>). Well&#x02010;characterized MAMPs are flagellin, the principle component of bacterial flagella, which is recognized by the PRR FLAGELLIN&#x02010;SENSITIVE2 (FLS2; Gomez&#x02010;Gomez <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0017" ref-type="ref">1999</xref>; Boller and Felix, <xref rid="tpj13741-bib-0007" ref-type="ref">2009</xref>), and the fungal cell wall component chitin, which is recognized by the PRR CHITIN ELICITOR RECEPTOR KINASE1 (CERK1; Miya <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0035" ref-type="ref">2007</xref>). MAMP recognition by PRRs results in the induction of a coordinated set of defense responses, called MAMP&#x02010;triggered immunity (MTI). MTI forms a first line of defense against pathogen invasion (Macho and Zipfel, <xref rid="tpj13741-bib-0030" ref-type="ref">2014</xref>). Purified flagellin from PGPR strains <italic>P. simiae</italic> WCS417, <italic>Pseudomonas capeferrum</italic> WCS358 and <italic>Pseudomonas defensor</italic> WCS374 (previously known as <italic>Pseudomonas putida</italic> WCS358 and <italic>P. fluorescens</italic> WCS374, respectively; Berendsen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0006" ref-type="ref">2015</xref>) elicited typical MTI responses in tobacco suspension cells, such as generation of active oxygen species, extracellular medium alkalization and activation of defense&#x02010;related gene expression (Van Loon <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0050" ref-type="ref">2008</xref>). In Arabidopsis roots, heat&#x02010;killed <italic>P. simiae</italic> WCS417 bacteria activated the expression of the MTI marker gene <italic>CYP71A12</italic> and triggered the deposition of callose in exposed root cells to the same extent as did the 22&#x02010;amino acid defense elicitor&#x02010;active epitope flg22<sup>Pa</sup> from the opportunistic pathogen <italic>Pseudomonas aeruginosa</italic> PO1 (Millet <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0034" ref-type="ref">2010</xref>). Similarly, flg22<sup>PsJN</sup> derived from flagellin of the endophytic PGPR <italic>Burkholderia phytoformans</italic> PsJN induced MTI responses in grapevine and Arabidopsis (Trda <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0047" ref-type="ref">2014</xref>). Also, MAMPs of the PGPF <italic>Piriformospora indica</italic> activated strong MTI responses in Arabidopsis roots (Jacobs <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0022" ref-type="ref">2011</xref>), indicating that both PGPR and PGPF in the rhizosphere are potential activators of local root immune responses. As a result of the activation of energy&#x02010;costly defense mechanisms, exposure to MAMPs typically has a negative effect on plant growth (Gomez&#x02010;Gomez <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0017" ref-type="ref">1999</xref>; Pel and Pieterse, <xref rid="tpj13741-bib-0038" ref-type="ref">2013</xref>). Nevertheless, PGPR and PGPF, which abundantly interact with plant roots, promote plant growth rather than suppressing it. Hence, beneficial microbes must have evolved strategies to reduce stimulation of local host immune responses or to actively suppress MTI (Van Wees <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0052" ref-type="ref">2008</xref>; Zamioudis and Pieterse, <xref rid="tpj13741-bib-0057" ref-type="ref">2012</xref>; Trda <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0048" ref-type="ref">2015</xref>).</p><p>In this study, we used time series RNA&#x02010;Seq to investigate the early transcriptional responses of Arabidopsis roots to living plant growth&#x02010;promoting and ISR&#x02010;inducing WCS417 bacteria in comparison to its MAMP flg22<sup>417</sup>. We show that the root response to flg22<sup>417</sup> is highly similar to that of flg22<sup>Pa</sup> of the pathogen <italic>P. aeruginosa</italic> and that of fungal chitin. Transcriptional changes inflicted by living WCS417 overlap largely with those mediated by the MAMPs, but about half of the MAMP&#x02010;induced transcriptional changes are suppressed by living WCS417 cells. The MAMP&#x02010;repressed genes that are not affected by WCS417 have a strong auxin signature. We provide evidence that points to a dual role for auxin in finely balancing root growth and defense responses to PGPR.</p></sec><sec id="tpj13741-sec-0002"><title>Results</title><sec id="tpj13741-sec-0003"><title>Time series RNA&#x02010;Seq reveals kinetics of transcriptional changes to live WCS417 and MAMPs</title><p>Colonization of Arabidopsis roots by WCS417 bacteria typically stimulates plant growth (Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0058" ref-type="ref">2013</xref>; Pieterse <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0040" ref-type="ref">2014</xref>). By contrast, when plant roots are exposed to purified MAMPs, such as flagellin, plant growth is severely inhibited (Gomez&#x02010;Gomez <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0017" ref-type="ref">1999</xref>). We reasoned that a comparison between early transcriptional root responses to live WCS417 and its MAMP flg22<sup>417</sup> would provide insight into how WCS417 is able to bypass growth&#x02010;defense tradeoffs. To this end, we analyzed whole transcriptome changes in roots of 22&#x02010;day&#x02010;old Arabidopsis Col&#x02010;0 plants at 0.5, 1, 3 and 6&#x000a0;h after elicitation with live WCS417 cells or its MAMP flg22<sup>417</sup>. The well&#x02010;characterized MAMPs flg22<sup>Pa</sup> of <italic>P. aeruginosa</italic> (containing five amino acid differences in comparison to flg22<sup>417</sup>; Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S1</xref>) and fungal chitin were included in the study as well. First, we verified the expression pattern of the root MTI marker genes <italic>MYB51</italic> and <italic>CYP71A12</italic> (Denoux <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0014" ref-type="ref">2008</xref>; Millet <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0034" ref-type="ref">2010</xref>) in the harvested root material (Figure&#x000a0;<xref rid="tpj13741-fig-0001" ref-type="fig">1</xref>). The MAMPs flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin significantly activated both marker genes in the 6&#x02010;h time window tested, albeit with different timing and amplitude. At 0.5&#x000a0;h after treatment, live WCS417 cells activated <italic>MYB51</italic> expression significantly compared with control, after which it quickly returned to basal levels. <italic>CYP71A12</italic> transcript levels remained unchanged after WCS417 treatment. Because the MTI marker genes were significantly activated in response to MAMP treatment, we pursued with the RNA&#x02010;Seq analysis. Per treatment and time point, three biological replicates were subjected to RNA&#x02010;Seq. Each biological replicate consisted of eight roots that were pooled to form one sample. RNA&#x02010;Illumina sequencing yielded on average 30 million reads per sample, of which &#x0003e;&#x000a0;90% aligned to the Arabidopsis genome after quality filtering (Van Verk <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0051" ref-type="ref">2013</xref>; Hickman <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0020" ref-type="ref">2017</xref>). The expression profiles of <italic>MYB51</italic> and <italic>CYP71A12</italic> quantified by RNA&#x02010;Seq were highly similar to those quantified by quantitative reverse transcriptase&#x02010;polymerase chain reaction (qRT&#x02010;PCR; Figure&#x000a0;<xref rid="tpj13741-fig-0001" ref-type="fig">1</xref>a), confirming that the RNA&#x02010;Seq analysis was performed correctly.</p><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Expression profiles of microbe&#x02010;associated molecular pattern (<styled-content style="fixed-case">MAMP</styled-content>)&#x02010;triggered immunity (<styled-content style="fixed-case">MTI</styled-content>) marker genes <italic><styled-content style="fixed-case">MYB</styled-content>51</italic> and <italic><styled-content style="fixed-case">CYP</styled-content>71A12</italic>, and the number of differentially expressed genes (<styled-content style="fixed-case">DEG</styled-content>s) in roots in response to <styled-content style="fixed-case">WCS</styled-content>417, flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin.</p><p>(a) Gene expression profiles of <italic>MYB51</italic> and <italic>CYP71A12</italic> in WCS417&#x02010;, flg22<sup>417</sup>&#x02010;, flg22<sup>Pa</sup>&#x02010; and chitin&#x02010;treated Arabidopsis Col&#x02010;0 roots quantified by quantitative reverse transcriptase&#x02010;polymerase chain reaction (qRT&#x02010;PCR; top) and RNA&#x02010;Seq (bottom). For qRT&#x02010;PCR, transcript levels were normalized to that of reference gene <italic>PP2AA3</italic> (At1g13320). Data are means of three biological replicates. Error bars represent SE. Different letters represent statistically significant differences between treatments (two&#x02010;way <sc>anova</sc>, Tukey's test; <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05; ns, not significant).</p><p>(b) Number of induced (red bars) and repressed (blue bars) DEGs from RNA&#x02010;Seq analysis of WCS417&#x02010;, flg22<sup>417</sup>&#x02010;, flg22<sup>Pa</sup>&#x02010; and chitin&#x02010;treated Arabidopsis Col&#x02010;0 roots at indicated time points after treatment [false discovery rate (FDR)&#x000a0;&#x0003c;&#x000a0;0.05; &#x0003e;&#x000a0;twofold].</p></caption><graphic id="nlm-graphic-1" xlink:href="TPJ-93-166-g001"/></fig></sec><sec id="tpj13741-sec-0004"><title>Magnitude and timing of early root transcriptional responses</title><p>Differentially expressed genes (DEGs) were selected from each treatment and time point according to their significance in fold change expression [false discovery rate (FDR)&#x000a0;&#x0003c;&#x000a0;0.05] and an additional threshold level of at least twofold change (&#x02212;1&#x000a0;&#x0003e;&#x000a0;log<sub>2</sub>&#x000a0;&#x0003e;&#x000a0;1) in comparison to the untreated controls that were harvested at the same time as the treated samples (Dataset <xref rid="tpj13741-sup-0003" ref-type="supplementary-material">S1</xref>). RNA&#x02010;Seq results revealed that the number of genes that are significantly activated or repressed during the different treatments differs over time (Figure&#x000a0;<xref rid="tpj13741-fig-0001" ref-type="fig">1</xref>b). Within the first 0.5&#x000a0;h, live WCS417 cells predominantly activated the expression of genes. In terms of numbers of DEGs, a similar pattern was observed for flg22<sup>417</sup> and flg22<sup>Pa</sup>. At later time points, the number of DEGs gradually increased for both the up&#x02010; and down&#x02010;regulated genes, although this was notably milder in response to WCS417 (accumulating to a total of 3&#x000a0;559 unique DEGs) than in response to flg22<sup>417</sup> and flg22<sup>Pa</sup> (accumulating to a total of 5&#x000a0;934 and 6&#x000a0;955 unique DEGs, respectively). The root response to chitin showed a different pattern. The number of DEGs peaked already at 0.5&#x000a0;h after chitin treatment, after which the number of predominantly upregulated DEGs gradually decreased. With a total number of 3&#x000a0;342 unique DEGs, the response to chitin was milder than that of the flg22 MAMPs.</p><p>To investigate to what extent the root transcriptional responses to flg22<sup>Pa</sup> and chitin in our study relate to previous microarray studies in which the response to these MAMPs were analyzed in Arabidopsis roots (Wan <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0056" ref-type="ref">2008</xref>; Beck <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0004" ref-type="ref">2014</xref>) or seedlings (Zipfel <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0061" ref-type="ref">2004</xref>), we selected DEGs from the 0.5&#x000a0;h time point of our flg22<sup>Pa</sup> and chitin RNA&#x02010;Seq datasets. This time point was selected because it overlapped with that used in the published microarray studies. DEGs whose probe sets were not present on the used microarrays were excluded from the selection (Dataset <xref rid="tpj13741-sup-0004" ref-type="supplementary-material">S2</xref>). Venn diagrams in Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S2</xref> show that of the 357 DEGs responding within 0.5&#x000a0;h to flg22<sup>Pa</sup> in roots of Arabidopsis accession Landsberg <italic>erecta</italic> (L<italic>er&#x02010;</italic>0; Beck <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0004" ref-type="ref">2014</xref>; Dataset <xref rid="tpj13741-sup-0004" ref-type="supplementary-material">S2</xref>), 75% was also present in our set of flg22<sup>Pa</sup>&#x02010;responding DEGs. For the 932 DEGs responding within 0.5&#x000a0;h to flg22<sup>Pa</sup> in whole L<italic>er&#x02010;</italic>0 seedlings (Zipfel <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0061" ref-type="ref">2004</xref>; Dataset <xref rid="tpj13741-sup-0004" ref-type="supplementary-material">S2</xref>), the overlap with our set of flg22<sup>Pa</sup>&#x02010;responding DEGs in roots was 48%. Of the 878 DEGs responding within 0.5&#x000a0;h in Col&#x02010;0 roots to the chitin octamer chitooctaose (Wan <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0056" ref-type="ref">2008</xref>; Dataset <xref rid="tpj13741-sup-0004" ref-type="supplementary-material">S2</xref>), 66% was also present in our set of chitin&#x02010;responding DEGs. In this study, we significantly expanded the MAMP&#x02010;responsive dataset of roots by generating an information&#x02010;rich time series of gene expression profiles that allow analysis of the dynamics of co&#x02010;expressed gene clusters in the triggered gene transcriptional networks.</p></sec><sec id="tpj13741-sec-0005"><title>Nature and timing of core root responses to WCS417, flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin</title><p>To investigate to what extent genes and biological processes are shared between the four treatments, we compared their DEGs. Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref> shows heatmaps of the clustered expression profiles of the DEGs at 0.5, 1, 3 and 6&#x000a0;h after treatment of the roots with WCS417, flg22<sup>417</sup>, flg22<sup>Pa</sup> or chitin. Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>(b) shows the overlap in DEGs in the up&#x02010; and down&#x02010;regulated gene sets. Of the union of 4&#x000a0;203 upregulated genes, a core set of 1&#x000a0;307 genes are upregulated; whereas of the union of 4&#x000a0;372 downregulated genes, a core set of 437 are downregulated in response to&#x000a0;all four treatments. Among the core sets of shared DEGs&#x000a0;are several well&#x02010;characterized MAMP&#x02010;responsive marker genes, including <italic>CYP71A12</italic> (At2g30750), <italic>FRK1</italic> (At2g19190), <italic>PROPEP2</italic> (At5g64890) and <italic>MPK11</italic> (At1g01560). Gene ontology (GO) analysis (Boyle <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0008" ref-type="ref">2004</xref>) of overrepresented biological processes in the core set of DEGs shows that the upregulated DEGs are predominantly associated with stress and defense, while the core set of downregulated genes are predominantly related to growth and development (Dataset <xref rid="tpj13741-sup-0005" ref-type="supplementary-material">S3</xref>). A similar pattern can be observed in the significance analysis of the GO terms that are enriched in each treatment over time (Figure&#x000a0;<xref rid="tpj13741-fig-0003" ref-type="fig">3</xref>). GO terms related to responses to stress elicitors are clearly most significantly enriched in the upregulated set of DEGs, while GO terms related to cell wall biogenesis and root development are most prominently enriched in the downregulated set of DEGs.</p><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Dynamics and comparative analysis of the root transcriptome in response to live <styled-content style="fixed-case">WCS</styled-content>417 cells and the microbe&#x02010;associated molecular patterns (<styled-content style="fixed-case">MAMP</styled-content>s) flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin.</p><p>(a) Dynamics of the expression patterns of the 3559 <styled-content style="fixed-case">WCS</styled-content>417&#x02010;, 5934 flg22<sup>417</sup>&#x02010;, 6955 flg22<sup>Pa</sup>&#x02010; and 3342 chitin&#x02010;responsive differentially expressed genes (<styled-content style="fixed-case">DEG</styled-content>s) in Arabidopsis Col&#x02010;0 roots. Gene expression is plotted in yellow&#x02013;blue color scale, with yellow indicating upregulation and blue indicating downregulation in comparison to controls at the same time point. <styled-content style="fixed-case">DEG</styled-content>s were clustered using SplineCluster.</p><p>(b) Venn diagrams showing the pair&#x02010;wise overlap between the upregulated and downregulated <styled-content style="fixed-case">DEG</styled-content>s of the indicated treatments. Enriched gene ontology (<styled-content style="fixed-case">GO</styled-content>) terms associated with the core sets of upregulated (1&#x000a0;307) and downregulated (437) <styled-content style="fixed-case">DEG</styled-content>s in all treatments are shown with <italic>P&#x02010;</italic>values indicated on <italic>x</italic>&#x02010;axes (full data in Dataset <xref rid="tpj13741-sup-0005" ref-type="supplementary-material">S3</xref>).</p><p>(c) Venn diagrams showing the overlap between the upregulated and downregulated genes of the indicated treatments. Percentages indicate the percentage of the smallest group of genes that is shared with the other group of genes in the comparison. The colors of circles in the Venn diagrams are as follows: green&#x000a0;=&#x000a0;<styled-content style="fixed-case">WCS</styled-content>417; orange&#x000a0;=&#x000a0;flg22<sup>417</sup>; red&#x000a0;=&#x000a0;flg22<sup>Pa</sup>; blue&#x000a0;=&#x000a0;chitin.</p></caption><graphic id="nlm-graphic-3" xlink:href="TPJ-93-166-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Time course gene ontology (<styled-content style="fixed-case">GO</styled-content>) term enrichment analysis of the <styled-content style="fixed-case">WCS</styled-content>417, flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin differentially expressed genes (<styled-content style="fixed-case">DEG</styled-content>s) sets.</p><p>Heatmaps represent the <italic>P</italic>&#x02010;values of <styled-content style="fixed-case">GO</styled-content> term overrepresentation of up&#x02010; or down&#x02010;regulated <styled-content style="fixed-case">DEG</styled-content>s (corresponding to <styled-content style="fixed-case">DEG</styled-content>s provided in Dataset <xref rid="tpj13741-sup-0003" ref-type="supplementary-material">S1</xref>) in response to treatment of the Arabidopsis roots with <styled-content style="fixed-case">WCS</styled-content>417, flg22<sup>417</sup>, flg22<sup>Pa</sup> or chitin at given time points. On the right, overrepresented <styled-content style="fixed-case">GO</styled-content> terms. The significance was plotted in gray&#x02013;red color scale, with gray indicating no significance and red high significance.</p></caption><graphic id="nlm-graphic-5" xlink:href="TPJ-93-166-g003"/></fig></sec><sec id="tpj13741-sec-0006"><title>WCS417 versus flg22<sup>417</sup>
+</title><p>In a more detailed analysis, we performed pair&#x02010;wise comparisons between the sets of up&#x02010; and down&#x02010;regulated DEGs of the four treatments. Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>(c) shows that there is a large overlap between the DEGs of the WCS417 and flg22<sup>417</sup> treatment. Of the 1964 WCS417&#x02010;induced genes, 79% are also activated in response to flg22<sup>417</sup> treatment. For the 1626 downregulated genes, this percentage is similarly high (81%). When comparing the significance of the enriched GO terms in the up&#x02010; and down&#x02010;regulated sets of DEGs of both treatments over time (Figure&#x000a0;<xref rid="tpj13741-fig-0003" ref-type="fig">3</xref>), the nature of the root response to live WCS417 cells and flg22<sup>417</sup> is rather similar. However, while many of the GO terms in the upregulated set of DEGs remain significantly overrepresented in the flg22<sup>417</sup>&#x02010;treated roots over time, they disappear at later time points in the WCS417&#x02010;induced set of DEGs. Interestingly, a large proportion of the 5934 DEGs responding to flg22<sup>417</sup> treatment (50%) were not responding to WCS417 treatment, suggesting that the flg22<sup>417</sup>&#x02010;responsiveness of these DEGs is suppressed by live WCS417 bacteria. The nature of the differential root response to live WCS417 cells and flg22<sup>417</sup> is analyzed in more detail below.</p></sec><sec id="tpj13741-sec-0007"><title>flg22<sup>417</sup> versus flg22<sup>Pa</sup>
+</title><p>The sequence of the 22&#x02010;amino acid flg22 peptides of the mutualist <italic>P. simiae</italic> WCS417 and the pathogen <italic>P. aeruginosa</italic> PAO1 differs at five of the 22 positions (Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S1</xref>). Previous studies have shown that replacement of specific amino acids in the flg22 sequence of <italic>P. aeruginosa</italic> or other bacterial phytopathogens (black and red arrows, Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S1</xref>) can dramatically affect immune elicitation in tomato and Arabidopsis, and growth inhibition in the latter (Felix <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0016" ref-type="ref">1999</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0045" ref-type="ref">2006</xref>; Naito <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0037" ref-type="ref">2008</xref>). One of these amino acids (red arrow, Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S1</xref>) was different in the sequence of flg22<sup>417</sup> compared with flg22<sup>Pa</sup>. Nevertheless, the set of DEGs in Arabidopsis roots responding to flg22<sup>417</sup> and flg22<sup>Pa</sup> show a very high overall overlap, both in numbers and in gene identity (Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>c; 95% overlap in the upregulated DEGs, 91% overlap in the downregulated DEGs, 93% overall overlap). When comparing the significance of the enriched GO terms in the up&#x02010; and down&#x02010;regulated sets of DEGs of both treatments over time (Figure&#x000a0;<xref rid="tpj13741-fig-0003" ref-type="fig">3</xref>), it is clear that the nature as well as the timing of the root response to flg22<sup>417</sup> and flg22<sup>Pa</sup> is highly similar.</p></sec><sec id="tpj13741-sec-0008"><title>flg22<sup>Pa</sup> versus chitin</title><p>A plethora of soil microbiota possess either flagellin or chitin. Hence, plant roots must be abundantly exposed to both MAMPs. Pair&#x02010;wise comparison of the genes that are significantly affected in response to exposure of Arabidopsis roots to flg22<sup>Pa</sup> or chitin revealed that, although the overall number of DEGs in response to the chitin treatment is considerably lower (3&#x000a0;342 DEGs for chitin versus 6&#x000a0;955 DEGs for flg22<sup>Pa</sup>), a substantial part of the chitin&#x02010;responsive genes is also responsive to flg22<sup>Pa</sup> (Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>c; 81% in the upregulated DEGs, 76% in the downregulated DEGs, 81% overall). Comparison of the enriched GO terms in the sets of DEGs of both treatments over time (Figure&#x000a0;<xref rid="tpj13741-fig-0003" ref-type="fig">3</xref>) shows that the nature of the upregulated responses is very similar, although in general they seem to dampen off over time in the chitin&#x02010;treated roots. The number of downregulated genes in the chitin set of DEGs is much lower than in the flg22<sup>Pa</sup> set of DEGs (987 versus 3&#x000a0;647). The GO term analysis (Figure&#x000a0;<xref rid="tpj13741-fig-0003" ref-type="fig">3</xref>) suggests that processes related to root development are downregulated by flg22<sup>Pa</sup>, while they remain unaffected in response to chitin.</p></sec><sec id="tpj13741-sec-0009"><title>Suppression of MAMP responses by live WCS417 cells</title><p>Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref> shows that the genes that become up&#x02010; or down&#x02010;regulated in roots responding to live WCS417 cells are overall similarly responsive to its MAMP flg22<sup>417</sup>, suggesting that the root response to colonization by WCS417 is&#x000a0;largely MAMP&#x02010;mediated. Besides flagellin, WCS417 bacteria produce more MAMPs, including elongation factor Tu (Kunze <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0026" ref-type="ref">2004</xref>) and lipopolysaccharides (Zeidler <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0060" ref-type="ref">2004</xref>), which are likely to elicit partly similar MAMP responses in the roots to flagellin. To investigate whether the observed WCS417 root transcriptional response is flagellin&#x02010;specific or merely mediated by the concerted action of multiple WCS417 MAMPs, we selected two genes (<italic>WRKY30</italic> and <italic>JAZ8</italic>) from our RNA&#x02010;Seq dataset that were similarly responsive to WCS417 and the flg22 peptides flg22<sup>417</sup> and flg22<sup>Pa</sup>, two WCS417&#x02010;specific genes (<italic>SRO4</italic> and <italic>SAD6</italic>) that were induced by WCS417 but not by the flg22 peptides, and two MAMP&#x02010;responsive genes (<italic>MYB51</italic> and <italic>CYP71A12</italic>) that were strongly induced by the flg22 peptides, but are suppressed by live WCS417 cells (Figures&#x000a0;<xref rid="tpj13741-fig-0001" ref-type="fig">1</xref>a and <xref rid="tpj13741-fig-0004" ref-type="fig">4</xref>). To test whether the expression patterns of the selected genes were flagellin&#x02010;specific or not, we monitored their expression pattern in roots of wild&#x02010;type Col&#x02010;0 and flagellin receptor mutant <italic>fls2</italic> over time by qRT&#x02010;PCR. Figure&#x000a0;<xref rid="tpj13741-fig-0004" ref-type="fig">4</xref>(b) shows that the WCS417&#x02010;specific genes <italic>SRO4</italic> and <italic>SAD6</italic> were induced by WCS417 in both Col&#x02010;0 and <italic>fls2</italic> mutant but not by flg22<sup>417</sup> and flg22<sup>Pa</sup>, confirming that the roots responded to WCS417. As expected, the flg22&#x02010;specific genes <italic>MYB51</italic> and <italic>CYP71A12</italic> followed a FLS2&#x02010;dependent expression pattern and were not induced by live WCS417 cells. The WCS417&#x02010; and flg22&#x02010;responsive genes <italic>WRKY30</italic> and <italic>JAZ8</italic> were induced in Col&#x02010;0 roots by WCS417 and both flg22 peptides. WCS417 induced these genes also in the <italic>fls2</italic> mutant, while the flg22 peptides did not, indicating that these MAMP&#x02010;responsive genes can also be induced by other WCS417 MAMPs. These results highlight that WCS417&#x02010;mediated root transcriptional responses are not flagellin&#x02010;specific but are likely caused by the concerted action of multiple WCS417 MAMPs.</p><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Expression profile of selected genes responsive to <styled-content style="fixed-case">WCS</styled-content>417, flg22<sup>417</sup> and flg22<sup>Pa</sup> treatments.</p><p>(a) Expression profile of <italic><styled-content style="fixed-case">SRO</styled-content>4</italic>,<italic><styled-content style="fixed-case">SAD</styled-content>6</italic>,<italic><styled-content style="fixed-case">JAZ</styled-content>8</italic>,<italic><styled-content style="fixed-case">WRKY</styled-content>30</italic>,<italic><styled-content style="fixed-case">CYP</styled-content>71A12</italic> and <italic><styled-content style="fixed-case">MYB</styled-content>51</italic> in Col&#x02010;0 roots by <styled-content style="fixed-case">RNA</styled-content>&#x02010;Seq analysis. Heatmap showing the expression profile in Col&#x02010;0 roots at indicated time points after treatment with live <styled-content style="fixed-case">WCS</styled-content>417 cells, flg22<sup>417</sup> or flg22<sup>Pa</sup> as obtained by <styled-content style="fixed-case">RNA</styled-content>&#x02010;Seq analysis. Gene expression was plotted in blue&#x02013;yellow color scale, with blue indicating downregulation or low expression, and yellow indicating high expression. Gene expression was calculated relative to mock (log<sub>2</sub>&#x02010;fold change).</p><p>(b) Expression profile of <italic><styled-content style="fixed-case">SRO</styled-content>4</italic>,<italic><styled-content style="fixed-case">SAD</styled-content>6</italic>,<italic><styled-content style="fixed-case">JAZ</styled-content>8</italic>,<italic><styled-content style="fixed-case">WRKY</styled-content>30</italic>,<italic><styled-content style="fixed-case">CYP</styled-content>71A12</italic> and <italic><styled-content style="fixed-case">MYB</styled-content>51</italic> in Col&#x02010;0 and <italic>fls2</italic> roots by quantitative reverse transcriptase&#x02010;polymerase chain reaction (<styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>). Graphs show gene expression levels in Col&#x02010;0 or <italic>fls2</italic> roots at indicated time points after treatment with live <styled-content style="fixed-case">WCS</styled-content>417, flg22<sup>417</sup> or flg22<sup>Pa</sup>, as quantified by <styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>. Gene expression was normalized to the expression level of reference gene <italic>At1g13320</italic>, using the 2<sup>&#x02212;&#x00394;Ct</sup> method. The shown data are means of three replicates. Error bars represent <styled-content style="fixed-case">SE</styled-content>. Different letters represent statistically significant differences between treatments (two&#x02010;way <sc>anova</sc>, Tukey's test; <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05; ns, not significant).</p></caption><graphic id="nlm-graphic-7" xlink:href="TPJ-93-166-g004"/></fig><p>Although the root transcriptional response to live WCS417 bacteria largely overlaps with the root response to its MAMP flg22<sup>417</sup>, more than 50% of the 5&#x000a0;934 flg22<sup>417</sup>&#x02010;responsive genes are not responsive to WCS417, suggesting that live cells actively suppress a significant part of the MAMP response. GO term analysis of the set of flg22<sup>417</sup>&#x02010;responsive genes that is not responsive to WCS417 (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>) is predominantly associated with defense, suggesting that live WCS417 cells actively suppress a significant portion of the defense&#x02010;related genes that is potentially activated by its MAMPs. Interestingly, the flg22<sup>417</sup>&#x02010;downregulated set of genes that is not downregulated by live WCS417 cells represents GO terms related to cell wall organization, plant growth and development (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>), suggesting that live WCS417 cells actively prevent the MAMP&#x02010;mediated suppression of genes that are associated with plant growth. Indeed, treatment of Arabidopsis Col&#x02010;0 seedlings with flg22<sup>417</sup> or flg22<sup>Pa</sup> strongly reduced shoot fresh weight, lateral root formation and root length (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>). Mutant <italic>fls2</italic> did not display these flg22&#x02010;mediated growth retardations, confirming that this is a flg22&#x02010;mediated response. Chitin, which in contrast to flg22<sup>417</sup> and flg22<sup>Pa</sup> did not downregulate GO terms related to growth and development (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>), also did not reduce shoot fresh weight, lateral root formation and root length (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>a). Interestingly, in both Col&#x02010;0 and <italic>fls2</italic>, treatment of the roots with live WCS417 cells increased shoot fresh weight and the number of lateral roots formed, while mildly reducing primary root length (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>b and c). These results suggest that the suppression of the flg22<sup>417</sup>&#x02010;mediated transcriptional response by live WCS417 cells is partially directed towards bypassing the plant growth&#x02010;repressing effects of MAMP recognition.</p><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Comparative analysis of the root transcriptome to live <styled-content style="fixed-case">WCS</styled-content>417 and flg22<sup>417</sup>.</p><p>Venn diagrams showing the overlap between the genes upregulated and downregulated upon treatment with WCS417 and flg22<sup>417</sup>. The bottom section shows the most highly enriched gene ontology (GO) terms associated with the sets of differentially expressed genes (DEGs) that are specifically up&#x02010; or downregulated after root exposure to flg22<sup>417</sup>, but not upon colonization of the roots by live WCS417 bacteria. <italic>P</italic>&#x02010;values are indicated on the <italic>x</italic>&#x02010;axes.</p></caption><graphic id="nlm-graphic-9" xlink:href="TPJ-93-166-g005"/></fig><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Effect of <styled-content style="fixed-case">WCS</styled-content>417, flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin on shoot and root growth in Col&#x02010;0 and the <italic>fls2</italic> mutant.</p><p>(a) Effect of flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin on shoot and root growth of Col&#x02010;0 and <italic>fls2</italic> seedlings. Seven&#x02010;day&#x02010;old Arabidopsis seedlings were cultivated for 7&#x000a0;days in liquid Murashige and Skoog (<styled-content style="fixed-case">MS</styled-content>) medium with 0.5% sucrose, supplemented with or without 500&#x000a0;n<sc>m</sc> flg22<sup>417</sup> or flg22<sup>Pa</sup>, or 500&#x000a0;&#x003bc;g&#x000a0;<styled-content style="fixed-case">ml</styled-content>
+<sup>&#x02212;1</sup> chitin, after which shoot fresh weight, number of lateral roots formed and primary root length were measured.</p><p>(b and c) Effect of live <styled-content style="fixed-case">WCS</styled-content>417 bacteria on shoot and root growth of Col&#x02010;0 and <italic>fls2</italic>. Three&#x02010;day&#x02010;old Arabidopsis seedlings were cultivated for 7&#x000a0;days on agar&#x02010;solidified <styled-content style="fixed-case">MS</styled-content> medium with 0.5% sucrose, and inoculated with a 10&#x000a0;&#x003bc;l suspension containing 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> colony&#x02010;forming units (<styled-content style="fixed-case">CFU</styled-content>) of <styled-content style="fixed-case">WCS</styled-content>417 cells or not inoculated (Control) right below the root tip of each seedling, resulting in rapid colonization of the whole root system. Error bars indicate <styled-content style="fixed-case">SE</styled-content> (<italic>n&#x000a0;</italic>=&#x000a0;24). Different letters indicate statistically significant differences between Col&#x02010;0 and <italic>fls2</italic> after control and <styled-content style="fixed-case">WCS</styled-content>417 treatment (two&#x02010;way <sc>anova</sc>, Tukey's test; <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05), and asterisks indicate significant difference between Col&#x02010;0 and <italic>fls2</italic> plants treated with the same elicitor (two&#x02010;way <sc>anova</sc>, Sidak's test; *<sup>***</sup>
+<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.0001; ns, not significant).</p></caption><graphic id="nlm-graphic-11" xlink:href="TPJ-93-166-g006"/></fig></sec><sec id="tpj13741-sec-0010"><title>Auxin signature in early root response to WCS417</title><p>The positive effects on plant growth and root architecture mediated by colonization of the roots by WCS417 (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>b and c) were previously shown to be regulated by auxin, as WCS417 colonization resulted in the activation of the <italic>DR5::YFP</italic> reporter gene in roots, and the auxin response triple mutant <italic>tir1afb2afb3</italic> did not display these growth responses upon treatment with WCS417 (Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0058" ref-type="ref">2013</xref>). Also, the GO term analysis of the set of DEGs that was suppressed by flg22<sup>417</sup> but not by live WCS417 cells yielded a number of significantly enriched GO terms related to growth and development, while this gene set contained a considerable number of genes involved in auxin&#x02010;related processes (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>; Dataset <xref rid="tpj13741-sup-0006" ref-type="supplementary-material">S4</xref>). To investigate whether this role of auxin in WCS417&#x02010;mediated root responses was also apparent in the WCS417&#x02010;triggered root transcriptome, we compared the WCS417&#x02010;responsive set of DEGs (all four time points) with genes from the study of Chaiwanon and Wang (<xref rid="tpj13741-bib-0010" ref-type="ref">2015</xref>), in which transcriptome changes were analyzed in Arabidopsis roots 4&#x000a0;h after treatment with the auxin analog indole&#x02010;3&#x02010;acetic acid (IAA; Figure&#x000a0;<xref rid="tpj13741-fig-0007" ref-type="fig">7</xref>; Dataset <xref rid="tpj13741-sup-0007" ref-type="supplementary-material">S5</xref>). This comparison revealed that 44% of the WCS417&#x02010;responsive DEGs (1&#x000a0;561 genes) are also responsive to auxin. GO term analysis of the shared set of DEGs showed that this gene set is associated with cell organization, growth and secondary metabolism (Dataset <xref rid="tpj13741-sup-0007" ref-type="supplementary-material">S5</xref>). This finding confirms that the early root response to live WCS417 bacteria has a strong auxin signature, which may contribute to the growth&#x02010;promoting effect of WCS417.</p><fig fig-type="Figure" xml:lang="en" id="tpj13741-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Auxin signatures in the early transcriptome of <styled-content style="fixed-case">WCS</styled-content>417&#x02010;colonized roots and auxin signaling&#x02010;dependent induction of the induced systemic resistance (<styled-content style="fixed-case">ISR</styled-content>) markers <italic><styled-content style="fixed-case">MYB</styled-content>72</italic> and <italic><styled-content style="fixed-case">IRT</styled-content>1</italic>.</p><p>(a) Venn diagram showing the overlap between genes responding to indole&#x02010;3&#x02010;acetic acid (<styled-content style="fixed-case">IAA</styled-content>; auxin) and <styled-content style="fixed-case">WCS</styled-content>417 in Arabidopsis roots. The effect of auxin was tested 4&#x000a0;h after treatment of the roots with 5&#x000a0;&#x003bc;<sc>m </sc>
+<styled-content style="fixed-case">IAA</styled-content> (dataset from Chaiwanon and Wang, <xref rid="tpj13741-bib-0010" ref-type="ref">2015</xref>), while the effect of <styled-content style="fixed-case">WCS</styled-content>417 was tested at all time points after application of the rhizobacteria.</p><p>(b) Expression levels of <italic><styled-content style="fixed-case">MYB</styled-content>72, <styled-content style="fixed-case">IRT</styled-content>1, <styled-content style="fixed-case">GH</styled-content>3.3</italic> and <italic><styled-content style="fixed-case">SAD</styled-content>6</italic> as quantified by quantitative reverse transcriptase&#x02010;polymerase chain reaction (<styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>). Expression was tested in roots of 14&#x02010;day&#x02010;old Col&#x02010;0 and <italic>tir1afb2afb3</italic> seedlings at 48&#x000a0;h after inoculation with <styled-content style="fixed-case">WCS</styled-content>417. Gene expression levels were normalized to that of reference gene <italic>At1g13320</italic> using the 2<sup>&#x02212;&#x00394;Ct</sup> method. The shown data are means of three biological replicates. Error bars represent <styled-content style="fixed-case">SE</styled-content>. Different letters represent statistically significant differences between treatments (two&#x02010;way <sc>anova</sc>, Tukey's test; <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05).</p></caption><graphic id="nlm-graphic-13" xlink:href="TPJ-93-166-g007"/></fig><p>Besides promoting plant growth, WCS417 is also a potent elicitor of ISR. Recently, it was demonstrated that the onset of ISR in Arabidopsis and tomato coincides with the activation of the iron deficiency response in colonized roots (Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0059" ref-type="ref">2015</xref>; Martinez&#x02010;Medina <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0032" ref-type="ref">2017</xref>). The onset of both ISR and the iron deficiency response by ISR&#x02010;inducing rhizobacteria is marked by the activation of the root&#x02010;specific transcription factor gene <italic>MYB72</italic> and the high&#x02010;affinity iron transporter gene <italic>IRON&#x02010;REGULATED TRANSPORTER1</italic> (<italic>IRT1</italic>; Van der Ent <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0049" ref-type="ref">2008</xref>; Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0059" ref-type="ref">2015</xref>). Because previously auxin has been shown to be essential for the activation of the&#x000a0;iron deficiency response in Arabidopsis roots (Chen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0011" ref-type="ref">2010</xref>), we reasoned that the WCS417&#x02010;induced auxin response in Arabidopsis roots observed in this study might be at the basis of the activation of the iron deficiency response that is required for the onset of ISR. To test this, we assessed the expression of <italic>MYB72</italic> and <italic>IRT1</italic> in roots of wild&#x02010;type Col&#x02010;0 and the auxin response triple mutant <italic>tir1afb2afb3</italic>, 48&#x000a0;h after treatment of the roots with WCS417. As controls we also tested the expression of the well&#x02010;characterized auxin&#x02010;responsive gene <italic>GH3.3</italic>, and the auxin&#x02010;independent WCS417&#x02010;responsive gene <italic>SAD6</italic> (Figure&#x000a0;<xref rid="tpj13741-fig-0007" ref-type="fig">7</xref>b). As expected, the auxin&#x02010;independent gene <italic>SAD6</italic> was induced by WCS417 in both Col&#x02010;0 and the triple mutant, indicating that the WCS417 treatment worked correctly. Furthermore, the ISR and iron deficiency response marker genes <italic>MYB72</italic> and <italic>IRT1</italic>, and the auxin&#x02010;responsive marker gene <italic>GH3.3</italic> were significantly upregulated in Col&#x02010;0 roots upon colonization by WCS417. By contrast, their expression was not affected by WCS417 in the roots of the auxin response mutant <italic>tir1afb2afb3</italic> (Figure&#x000a0;<xref rid="tpj13741-fig-0007" ref-type="fig">7</xref>b). Together, these findings suggest an important role for auxin signaling in early root responses to beneficial WCS417 rhizobacteria that are associated with the promotion of plant growth and the onset of ISR.</p></sec></sec><sec id="tpj13741-sec-0011"><title>Discussion</title><p>Roots are essential plant organs responsible for the uptake of nutrients and water, stable anchorage in the soil, and support of shoot growth. Mutualistic and pathogenic interactions of roots with microbiota members in the rhizosphere strongly influence both plant growth and immunity (Berendsen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0005" ref-type="ref">2012</xref>). To safeguard their fitness, plant roots need to effectively ward off pathogens and at the same time exploit the profitable functions that are provided by beneficial microbes. Plant roots are continuously exposed to an astonishing number and complexity of microbes, most of which possess MAMPs that potentially activate growth&#x02010;retarding immune responses in plant roots (Hacquard <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0018" ref-type="ref">2017</xref>). Yet, in general plants profit from their root&#x02010;associated microbiota by simultaneously displaying enhanced growth and primed systemic immunity. To investigate the mechanisms behind this phenomenon, we compared the early root response of Arabidopsis to colonization by the PGPR and ISR&#x02010;eliciting rhizobacterium <italic>P. simiae</italic> WCS417 with those of the purified MAMP elicitors flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin. Using time series RNA&#x02010;Seq, we monitored the dynamics of the Arabidopsis root response to live WCS417 cells and the three MAMPs, yielding gene expression profiles that markedly expand those previously obtained that only analyzed one or two time points (Verhagen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0055" ref-type="ref">2004</xref>; Pozo <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0042" ref-type="ref">2008</xref>; Wan <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0056" ref-type="ref">2008</xref>; Beck <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0004" ref-type="ref">2014</xref>). Intriguingly, the transcriptional root response to flg22<sup>417</sup> of beneficial WCS417 rhizobacteria was essentially similar to flg22<sup>Pa</sup> of the bacterial pathogen <italic>P. aeruginosa</italic> PAO1 (93% overlap; Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>), even though the 22&#x02010;amino acid sequence of the flg22 peptides differed at five positions (Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S1</xref>). The root response to fungal chitin was markedly milder, although the overlap with flg22&#x02010;triggered transcriptional changes in both gene identity (81% overlap; Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>) and GO term enrichment (Figure&#x000a0;<xref rid="tpj13741-fig-0003" ref-type="fig">3</xref>) was very high. This observation is consistent with previous findings in leaves and roots where different MAMPs/pathogens could activate common components of defense signaling pathway and/or affect a significant proportion of the transcriptome in a similar manner (Asai <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0002" ref-type="ref">2002</xref>; Zipfel <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0062" ref-type="ref">2006</xref>; Denoux <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0014" ref-type="ref">2008</xref>; Wan <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0056" ref-type="ref">2008</xref>; Millet <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0034" ref-type="ref">2010</xref>).</p><p>When comparing the WCS417&#x02010;responsive set of DEGs with that of its flagellin epitope flg22<sup>417</sup> (Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>), we discovered that 74% of the 3&#x000a0;559 genes that significantly respond in the roots to WCS417 also respond to flg22<sup>417</sup>. This indicates that the root response to this beneficial rhizobacterium is largely mediated by flagellin or one or more of its other MAMPs, which are likely to activate largely overlapping gene sets in a redundant manner (Figure&#x000a0;<xref rid="tpj13741-fig-0004" ref-type="fig">4</xref>). On the other hand, half of the 5&#x000a0;934 genes that significantly respond to flg22<sup>417</sup> were not responsive to live WCS417 cells, suggesting that WCS417 actively suppresses the initiation of a large portion of transcriptional changes that are inflicted by its MAMPs. The set of flg22<sup>417</sup>&#x02010;upregulated genes that is suppressed by live WCS417 cells represents GO terms that are predominantly associated with defense (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>), indicating that WCS417 actively suppresses the activation of local immune responses that are potentially activated by its MAMPs. Previously, Millet <italic>et&#x000a0;al</italic>. (<xref rid="tpj13741-bib-0034" ref-type="ref">2010</xref>) demonstrated that inoculation of Arabidopsis roots with WCS417 prior to treatment of the roots with flg22<sup>Pa</sup> prevented the activation of the flg22<sup>Pa</sup>&#x02010;responsive genes <italic>MYB51</italic> and <italic>CYP71A12</italic>, supporting the notion that beneficial WCS417 bacteria are able to prevent the activation of MAMP&#x02010;responsive genes. Also, in our study, both <italic>MYB51</italic> and <italic>CYP71A12</italic> were strongly activated by flg22<sup>417</sup> and flg22<sup>Pa</sup> (Figure&#x000a0;<xref rid="tpj13741-fig-0001" ref-type="fig">1</xref>), but in response to WCS417 they were either not induced at all (<italic>CYP71A12</italic>), or only activated at 0.5&#x000a0;h after colonization and rapidly downregulated afterwards to basal levels (<italic>MYB51</italic>). Because MAMP&#x02010;induced responses can result in the inhibition of plant growth (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>; Gomez&#x02010;Gomez <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0017" ref-type="ref">1999</xref>; Pel and Pieterse, <xref rid="tpj13741-bib-0038" ref-type="ref">2013</xref>), significantly tempering of this response by WCS417 may minimize the growth&#x02010;retarding effect of MAMP recognition by plant roots. Moreover, suppression of local MTI responses may facilitate colonization of root tissues by the beneficial microbes that suppress it, as was demonstrated for the beneficial fungus <italic>P. indica</italic> (Jacobs <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0022" ref-type="ref">2011</xref>).</p><p>The set of flg22<sup>417</sup>&#x02010;downregulated genes that are not downregulated by WCS417 largely represents GO terms associated with plant growth and development (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>). Hence, downregulation of this sector of the flg22&#x02010;responsive transcriptome may reflect the growth&#x02010;inhibiting effect of flg22&#x02010;recognition on Arabidopsis seedlings (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>; Gomez&#x02010;Gomez <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0017" ref-type="ref">1999</xref>; Pel and Pieterse, <xref rid="tpj13741-bib-0038" ref-type="ref">2013</xref>; Beck <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0004" ref-type="ref">2014</xref>). By preventing MAMP&#x02010;mediated suppression of this sector of the root transcriptome, live WCS417 cells may further contribute to the promotion of plant growth. This is supported by the observation that Arabidopsis seedlings of which the roots were treated with flg22<sup>417</sup> or flg22<sup>Pa</sup> showed a strong FLS2&#x02010;dependent growth reduction, while treatment of the roots with live WCS417 cells promoted plant growth in an FLS2&#x02010;independent manner (Figure&#x000a0;<xref rid="tpj13741-fig-0006" ref-type="fig">6</xref>).</p><p>Of the 3559 WCS417&#x02010;responsive genes, 44% were also&#x000a0;identified as responsive to auxin in the roots of Arabidopsis (Figure&#x000a0;<xref rid="tpj13741-fig-0007" ref-type="fig">7</xref>a; Chaiwanon and Wang, <xref rid="tpj13741-bib-0010" ref-type="ref">2015</xref>). This auxin signature in the WCS417&#x02010;triggered root transcriptome corroborates with previous findings that showed that WCS417 induced the auxin&#x02010;responsive reporter <italic>DR5::YFP</italic> in Arabidopsis roots and that the WCS417&#x02010;mediated plant growth&#x02010;promoting effect was blocked in the auxin response mutant <italic>tir1afb2afb3</italic> (Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0058" ref-type="ref">2013</xref>). Together, these findings demonstrate that auxin&#x02010;dependent responses in the roots are key to the growth&#x02010;promoting effect of WCS417. We further tested whether auxin signaling may also contribute to the onset of early root responses that have been shown to be essential for the development of broad&#x02010;spectrum ISR. The onset of WCS417&#x02010;induced ISR is associated with by the activation of the ISR marker gene <italic>MYB72</italic> and the iron uptake marker gene <italic>IRT1</italic> in the roots (Van der Ent <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0049" ref-type="ref">2008</xref>; Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0059" ref-type="ref">2015</xref>). We showed that activation of both genes by WCS417 is blocked in the triple mutant <italic>tir1afb2afb3</italic> (Figure&#x000a0;<xref rid="tpj13741-fig-0007" ref-type="fig">7</xref>), suggesting that auxin signaling is indeed important in the early stages of ISR initiation in the Arabidopsis root.</p><p>In sum, our analysis of the early root transcriptional changes inflicted by live beneficial WCS417 bacteria and purified MAMPs, showed that: (i) the early root response to live WCS417 bacteria is largely driven by its MAMPs; (ii) WCS417 actively suppresses about half of the MAMP&#x02010;triggered transcriptional changes; (iii) the root response to the flagellin epitopes flg22<sup>417</sup> of beneficial WCS417 rhizobacteria and flg22<sup>Pa</sup> of pathogenic <italic>P. aeruginosa</italic> PAO1 bacteria (differing in five amino acids) are essentially similar; and (iv) auxin plays a dual role in finely balancing the growth&#x02010;promoting and systemic immunity&#x02010;eliciting activity of this beneficial rhizobacterium. Evasion of MAMP&#x02010;responsive transcriptional changes emerged as a major component of the early root response of Arabidopsis to colonization by beneficial WCS417 bacteria. Hence, future research will be directed towards elucidating the bacterial determinant(s) that are responsible for this phenomenon. Detailed knowledge on how beneficial members of the root microbiota simultaneously promote plant growth and immunity will be essential to ultimately utilize their properties in sustainable strategies for crop improvement and crop protection.</p></sec><sec id="tpj13741-sec-0012"><title>Experimental procedures</title><sec id="tpj13741-sec-0013"><title>Plant material and growth conditions</title><p>
+<italic>Arabidopsis thaliana</italic> accession Col&#x02010;0 and the mutants <italic>fls2</italic> and <italic>tir1afb2afb3</italic> (in Col&#x02010;0 background) were used in this study. For all experiments, seeds were surface sterilized (Van Wees <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0053" ref-type="ref">2013</xref>) and sown on agar&#x02010;solidified 1&#x000a0;&#x000d7;&#x000a0;Murashige and Skoog (MS) medium supplemented with 0.5% sucrose (Murashige and Skoog, <xref rid="tpj13741-bib-0036" ref-type="ref">1962</xref>). After 2&#x000a0;days of stratification at 4&#x000b0;C, the Petri dishes were positioned vertically and transferred to a growth chamber (22&#x000b0;C; 10&#x000a0;h light, 14&#x000a0;h dark; light intensity 100&#x000a0;&#x003bc;mol&#x000a0;m<sup>&#x02212;2</sup>&#x000a0;s<sup>&#x02212;1</sup>).</p><p>For testing effects of live WCS417 cells and the MAMPs flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin on gene expression, uniform 12&#x02010;day&#x02010;old seedlings were transferred from MS agar plates to six&#x02010;well plates (&#x000f8; 35&#x000a0;mm per well) containing liquid 1&#x000a0;&#x000d7;&#x000a0;MS with 0.5% sucrose, after which they were cultured for 10 more days under the same growth conditions. The day before treatment with WCS417 or MAMP elicitors, the medium of each well was replaced with fresh 1&#x000a0;&#x000d7;&#x000a0;MS medium with 0.5% sucrose. Plants were treated when 22&#x000a0;days old. At this age, the plants possessed a well&#x02010;developed root system that reproducibly responded to the elicitors and yielded sufficient RNA for the RNA&#x02010;Seq gene expression analysis.</p><p>For testing the effect of live WCS417 cells and the MAMPs flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin on plant growth parameters, uniform 7&#x02010;day&#x02010;old seedlings were transferred from MS agar plates to six&#x02010;well plates containing 1&#x000a0;&#x000d7;&#x000a0;MS with 0.5% sucrose (in case of MAMP treatment), or to a fresh 1&#x000a0;&#x000d7;&#x000a0;MS agar plate with 0.5% sucrose (in case of treatment with live WCS417 cells). Seedlings were treated when 9&#x000a0;days old. Effects on growth parameters were measured 7&#x000a0;days later.</p><p>For testing the role of auxin signaling in WCS417&#x02010;mediated expression of ISR marker genes locally in the roots, uniform 10&#x02010;day&#x02010;old seedlings were transferred from MS plates to square plates (120&#x000a0;&#x000d7;&#x000a0;120&#x000a0;&#x000d7;&#x000a0;17&#x000a0;mm) containing modified agar&#x02010;solidified Hoagland medium containing 5&#x000a0;m<sc>m</sc> KNO<sub>3</sub>, 2&#x000a0;m<sc>m</sc> MgSO<sub>4</sub>, 2&#x000a0;m<sc>m</sc> Ca(NO<sub>3</sub>)<sub>2</sub>, 2.5&#x000a0;m<sc>m</sc> KH<sub>2</sub>PO<sub>4</sub>, 70&#x000a0;&#x003bc;<sc>m</sc> H<sub>3</sub>BO<sub>3</sub>, 14&#x000a0;&#x003bc;<sc>m</sc> MnCl<sub>2</sub>, 1&#x000a0;&#x003bc;<sc>m</sc> ZnSO<sub>4</sub>, 0.5&#x000a0;&#x003bc;<sc>m</sc> CuSO<sub>4</sub>, 10&#x000a0;&#x003bc;<sc>m</sc> NaCl, 0.2&#x000a0;&#x003bc;<sc>m</sc> Na<sub>2</sub>MoO<sub>4</sub>, 4.7&#x000a0;m<sc>m</sc> MES, 43&#x000a0;m<sc>m</sc> sucrose and 50&#x000a0;&#x003bc;<sc>m</sc> Fe&#x02010;EDTA (Rodriguez&#x02010;Celma <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0043" ref-type="ref">2013</xref>). The pH was adjusted to 5.5. Seedlings were cultivated for 2&#x000a0;days before treatment with WCS417.</p></sec><sec id="tpj13741-sec-0014"><title>Cultivation of <italic>Pseudomonas simiae</italic> WCS417 and treatment</title><p>
+<italic>Pseudomonas simiae</italic> WCS417 was cultured at 28&#x000b0;C on King's medium B agar plates (King <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0025" ref-type="ref">1954</xref>) supplemented with 50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> of rifampicin. After 24&#x000a0;h of growth, cells were collected in 10&#x000a0;m<sc>m</sc> MgSO<sub>4</sub>, washed twice with 10&#x000a0;m<sc>m</sc> MgSO<sub>4</sub> by centrifugation for 5&#x000a0;min at 5000&#x000a0;<italic><bold>g</bold></italic>, and finally resuspended in 10&#x000a0;m<sc>m</sc> MgSO<sub>4</sub>. For RNA&#x02010;Seq and qRT&#x02010;PCR gene expression analysis, bacteria were added in each well to a final optical density of 0.1 at 600&#x000a0;nm [OD<sub>600</sub>; 10<sup>8</sup> colony&#x02010;forming units (CFU)&#x000a0;ml<sup>&#x02212;1</sup>]. For measurements of the effect of WCS417 on root and shoot growth, 9&#x02010;day&#x02010;old Col&#x02010;0 and <italic>fls2</italic> seedlings growing on MS agar plates were inoculated by placing a 10&#x000a0;&#x003bc;l suspension of WCS417 at an OD<sub>600</sub> of 0.002 (2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup>&#x000a0;CFU&#x000a0;ml<sup>&#x02212;1</sup>) right below the root tip of each seedling. For studying gene expression in roots of Col&#x02010;0 and <italic>tir1afb2afb3</italic> seedlings growing on Hoagland agar medium, a 10&#x000a0;&#x003bc;l bacterial suspension at OD<sub>600</sub>&#x000a0;=&#x000a0;0.1 was added below the hypocotyl of each seedling.</p></sec><sec id="tpj13741-sec-0015"><title>Chemical treatments</title><p>For RNA&#x02010;Seq and qRT&#x02010;PCR analysis of gene expression in Arabidopsis roots in response to MAMPs, defense elicitors were added to the liquid growth medium at the following final concentrations: 1&#x000a0;&#x003bc;<sc>m</sc> for flg22<sup>417</sup> and flg22<sup>Pa</sup>, and 1&#x000a0;mg&#x000a0;ml<sup>&#x02212;1</sup> for chitin (Sigma&#x02010;Aldrich, St Louis, MO, USA). For the analysis of the effects of MAMPs on plant growth, the following final concentrations were used: 500&#x000a0;n<sc>m</sc> for flg22<sup>417</sup> and flg22<sup>Pa</sup>, and 500&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> for chitin. The flg22 peptides were added to the liquid MS medium from a 100&#x000a0;&#x003bc;<sc>m</sc> stock in water. Chitin was added to the MS medium from a 10&#x000a0;mg&#x000a0;ml<sup>&#x02212;1</sup> stock that was prepared as described (Millet <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0034" ref-type="ref">2010</xref>). Control plants remained untreated. The amino acid sequence of flg22<sup>417</sup> was derived from the flagellin&#x02010;encoding gene &#x02018;flagellin&#x02019; (PS417_19850 &#x02013; WP_029529076.1) that was extracted from the whole&#x02010;genome sequence of WCS417 (Berendsen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0006" ref-type="ref">2015</xref>). The flg22<sup>417</sup> and flg22<sup>Pa</sup> peptides were synthesized by Proteogenix (Schiltigheim, France) and GenScript (Piscataway, NJ, USA), respectively (purity &#x0003e;&#x000a0;95%).</p></sec><sec id="tpj13741-sec-0016"><title>Measurement of plant biomass and parameters of root architecture</title><p>Col&#x02010;0 and <italic>fls2</italic> seedlings were germinated on 1&#x000a0;&#x000d7;&#x000a0;MS agar plates with 0.5% sucrose. Seven&#x02010;day&#x02010;old seedlings were transferred to liquid MS medium with 0.5% sucrose, with or without flg22<sup>417</sup>, flg22<sup>Pa</sup> or chitin. For treatment with live WCS417 cells, 7&#x02010;day&#x02010;old Col&#x02010;0 and <italic>fls2</italic> seedlings were transferred to new agar&#x02010;solidified 1&#x000a0;&#x000d7;&#x000a0;MS plates with 0.5% sucrose. Two days later, roots were treated with WCS417 by applying 10&#x000a0;&#x003bc;l of a bacterial suspension (OD<sub>600</sub>&#x000a0;=&#x000a0;0.002) right below the root tip of each seedling. Seven days after the start of the treatments, shoot fresh weight, primary root length and number of lateral roots were determined essentially as described (Zamioudis <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0058" ref-type="ref">2013</xref>).</p></sec><sec id="tpj13741-sec-0017"><title>RNA sequencing</title><p>For RNA&#x02010;Seq analysis of root transcriptional profiles, roots of Col&#x02010;0 seedlings were collected in triplicate at 0, 0.5, 1, 3 and 6&#x000a0;h after treatment with live WCS417 cells or after treatment with the elicitors flg22<sup>417</sup>, flg22<sup>Pa</sup> or chitin. Roots of untreated Col&#x02010;0 seedlings were collected at the same time points. Each of the three biological replicates per treatment and time point consisted of eight pooled root systems harvested from eight similarly&#x02010;treated plants. After harvest, root samples were snap&#x02010;frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C.</p><p>Arabidopsis roots were homogenized using a mixer mill (Retsch) set to 30&#x000a0;Hz for 45&#x000a0;sec. RNA extraction, library preparation and RNA&#x02010;Seq were performed essentially as described (Coolen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0012" ref-type="ref">2016</xref>). Samples were sequenced by an Illumina NextSeq 500 platform using six sequencing runs. Within each run, samples were randomly assigned to seven lanes of the Illumina flow cells. In total, 12 randomized samples were loaded per lane of a NextSeq 500 V3 flow cell. To account for technical variation, each mix of 12 samples was sequenced in four different lanes over different flow cells. Three biological replicates of the five time points were sequenced in four technical replicates, resulting in ~30&#x000a0;million reads per sample with a read length of 75&#x000a0;bp single end. The raw RNA&#x02010;Seq read data are deposited in the Short Read Archive (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/sra/">http://www.ncbi.nlm.nih.gov/sra/</ext-link>; BioProject ID: PRJNA412447).</p><p>Processing of raw sequencing data, alignment of the RNA&#x02010;Seq data to the Arabidopsis genome and downstream processing were performed as described (Van Verk <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0051" ref-type="ref">2013</xref>; Coolen <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0012" ref-type="ref">2016</xref>; Hickman <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0020" ref-type="ref">2017</xref>). RNA&#x02010;Seq reads were aligned to the TAIR version 10 version of the Arabidopsis genome using TopHat v2.0.4 (Trapnell <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0046" ref-type="ref">2009</xref>) with parameters: &#x02018;transcriptome&#x02010;mismatches 3&#x02019;, &#x02018;N 3&#x02019;, &#x02018;bowtie1&#x02019;, &#x02018;no&#x02010;novel&#x02010;juncs&#x02019;, &#x02018;genome&#x02010;read&#x02010;mismatches 3&#x02019;, &#x02018;read&#x02010;mismatches 3&#x02019;, &#x02018;G&#x02019;, &#x02018;min&#x02010;intron&#x02010;length 40&#x02019;, &#x02018;max&#x02010;intron&#x02010;length 2&#x000a0;000&#x02019;. Gene expression levels were calculated by counting the number of mapped reads per annotated gene model using HTSeq&#x02010;count v0.5.3p9 (Anders <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0001" ref-type="ref">2015</xref>). DESeq2 was used to calculated differential gene expression in the treatments relative to the respective control treatments (Love <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0028" ref-type="ref">2014</xref>). For downstream analyses, raw read counts were normalized for between&#x02010;sample differences in sequencing depth (Love <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0028" ref-type="ref">2014</xref>).</p></sec><sec id="tpj13741-sec-0018"><title>GO analysis</title><p>Enriched GO&#x02010;terms in the different sets of DEGs were identified using &#x02018;GO Term Finder&#x02019; (Boyle <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0008" ref-type="ref">2004</xref>). This method tests for over&#x02010;representation of GO categories using the hypergeometric distribution and FDR for multiple testing (<italic>P&#x000a0;</italic>&#x02264;&#x000a0;0.05). Heatmaps of <italic>P</italic>&#x02010;values were generated using the R package (version 3.2.1).</p></sec><sec id="tpj13741-sec-0019"><title>Analysis of DEG sets</title><p>Differentially expressed genes were processed with Virtual Plant web tool (<ext-link ext-link-type="uri" xlink:href="http://virtualplant.bio.nyu.edu/cgi-bin/vpweb/virtualplant.cgi">http://virtualplant.bio.nyu.edu/cgi-bin/vpweb/virtualplant.cgi</ext-link>) in order to perform comparisons presented with Venn diagrams and identify overlapping gene sets between different treatments and treatment&#x02010;specific DEGs (Katari <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0024" ref-type="ref">2010</xref>).</p></sec><sec id="tpj13741-sec-0020"><title>Clustering of gene expression profiles</title><p>Clustering of DEGs was performed with SplineCluster (Heard <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0019" ref-type="ref">2006</xref>) using log<sub>2</sub>&#x02010;fold change differences in expression between the live WCS417 or elicitor&#x02010;treated samples and their respective controls.</p></sec><sec id="tpj13741-sec-0021"><title>qRT&#x02010;PCR analysis</title><p>Total RNA extraction for qRT&#x02010;PCR gene expression analysis was performed as described previously (Hickman <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0020" ref-type="ref">2017</xref>). Transcript levels were calculated relative to the reference gene <italic>At1g13320</italic> (Czechowski <italic>et&#x000a0;al</italic>., <xref rid="tpj13741-bib-0013" ref-type="ref">2005</xref>) using the 2<sup>&#x02212;&#x00394;Ct</sup> method (Livak and Schmittgen, <xref rid="tpj13741-bib-0027" ref-type="ref">2001</xref>; Schmittgen and Livak, <xref rid="tpj13741-bib-0044" ref-type="ref">2008</xref>). The primers used for qRT&#x02010;PCR are provided in Table&#x000a0;<xref rid="tpj13741-sup-0002" ref-type="supplementary-material">S1</xref>.</p></sec></sec><sec id="tpj13741-sec-0022"><title>Accession numbers</title><p>Arabidopsis gene names and identifiers referred to in the RNA&#x02010;Seq analysis are listed in Dataset <xref rid="tpj13741-sup-0003" ref-type="supplementary-material">S1</xref> (Sheet &#x02018;AGI&#x02019;). Arabidopsis gene names and identifiers referred to in qRT&#x02010;PCR analyses are listed in Table&#x000a0;<xref rid="tpj13741-sup-0002" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="tpj13741-sec-0024"><title>Author contributions</title><p>IAS, CZ and CMJP designed the research; IAS performed most of the research; IAS, SP, RH and MCvV performed data analysis; IAS, SP, RH, and CMJP wrote the manuscript. All authors discussed the results and commented on the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="tpj13741-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1.</bold> Alignment of flg22 peptides from flagellin of <italic>P. simiae</italic> WCS417 (flg22<sup>417</sup>) and <italic>P. aeruginosa</italic> PO1 (flg22<sup>Pa</sup>).</p><p>
+<bold>Figure&#x000a0;S2.</bold> Venn diagrams of DEGs shared between Arabidopsis responses to flg22<sup>Pa</sup> or chitin in different studies.</p></caption><media xlink:href="TPJ-93-166-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0002"><caption><p>
+<bold>Table&#x000a0;S1.</bold> List of primers used in this study.</p></caption><media xlink:href="TPJ-93-166-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0003"><caption><p>
+<bold>Dataset S1.</bold> DEGs of <italic>Arabidopsis thaliana</italic> (AGI numbers of DEGs; FDR &#x0003c; 0.05; &#x0003e;&#x000a0;twofold) in response to <italic>P. simiae</italic> WCS417, flg22<sup>417</sup>, flg22<sup>Pa</sup> or chitin treatment at four consecutive time points.</p></caption><media xlink:href="TPJ-93-166-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0004"><caption><p>
+<bold>Dataset S2.</bold> Lists of DEGs following flg22<sup>Pa</sup> and chitin treatment from this study (after filtering out genes not present in microarray probesets) and from the studies of Zipfel <italic>et&#x000a0;al</italic>. (<xref rid="tpj13741-bib-0061" ref-type="ref">2004</xref>) (flg22<sup>Pa</sup>), Beck <italic>et&#x000a0;al</italic>. (<xref rid="tpj13741-bib-0004" ref-type="ref">2014</xref>) (flg22<sup>Pa</sup>) and Wan <italic>et&#x000a0;al</italic>. (<xref rid="tpj13741-bib-0056" ref-type="ref">2008</xref>) (chitooctaose) that were used for the comparisons presented in Figure&#x000a0;<xref rid="tpj13741-sup-0001" ref-type="supplementary-material">S2</xref>.</p></caption><media xlink:href="TPJ-93-166-s004.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0005"><caption><p>
+<bold>Dataset S3.</bold> Shared DEGs between WCS417, flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin datasets shown in Figure&#x000a0;<xref rid="tpj13741-fig-0002" ref-type="fig">2</xref>b (shared DEGs between WCS417, flg22<sup>417</sup>, flg22<sup>Pa</sup> and chitin treatments).</p></caption><media xlink:href="TPJ-93-166-s005.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0006"><caption><p>
+<bold>Dataset S4.</bold> Upregulated and downregulated DEGs only in response to flg22<sup>417</sup> selected from the comparison with WCS417 (Figure&#x000a0;<xref rid="tpj13741-fig-0005" ref-type="fig">5</xref>) and the GO processes they are involved in.</p></caption><media xlink:href="TPJ-93-166-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0007"><caption><p>
+<bold>Dataset S5.</bold> DEGs in roots 4 h after IAA treatment, DEGs from this study after root exposure to WCS417, their overlapping genes and the processes they are involved in.</p></caption><media xlink:href="TPJ-93-166-s007.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="tpj13741-sup-0008"><caption><p>&#x000a0;</p></caption><media xlink:href="TPJ-93-166-s008.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="tpj13741-sec-0023"><title>Acknowledgements</title><p>This work was supported by ERC Advanced Grant no. 269072 of the European Research Council (to CMJP), FP7&#x02010;PEOPLE&#x02010;2012&#x02010;IEF Marie Curie Fellowship no. 327282 (to SP), and the Netherlands Organization for Scientific Research (NWO) through the Dutch Technology Foundation (STW) VENI Grant no. 13682 (to RH). The authors declare no conflict of interest.</p></ack><ref-list content-type="cited-references" id="tpj13741-bibl-0001"><title>References</title><ref id="tpj13741-bib-0001"><mixed-citation publication-type="journal" id="tpj13741-cit-0001">
+<string-name>
+<surname>Anders</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pyl</surname>, <given-names>P.T.</given-names>
+</string-name> and <string-name>
+<surname>Huber</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015</year>) <article-title>HTSeq &#x02013; a Python framework to work with high&#x02010;throughput sequencing data</article-title>. <source>Bioinformatics</source>, <volume>31</volume>, <fpage>166</fpage>&#x02013;<lpage>169</lpage>.<pub-id pub-id-type="pmid">25260700</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0002"><mixed-citation publication-type="journal" id="tpj13741-cit-0002">
+<string-name>
+<surname>Asai</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Tena</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Plotnikova</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Willmann</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Gomez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ausubel</surname>, <given-names>F.M.</given-names>
+</string-name> and <string-name>
+<surname>Sheen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>) <article-title>MAP kinase signalling cascade in Arabidopsis innate immunity</article-title>. <source>Nature</source>, <volume>415</volume>, <fpage>977</fpage>&#x02013;<lpage>983</lpage>.<pub-id pub-id-type="pmid">11875555</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0003"><mixed-citation publication-type="journal" id="tpj13741-cit-0003">
+<string-name>
+<surname>Bais</surname>, <given-names>H.P.</given-names>
+</string-name>, <string-name>
+<surname>Weir</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>, <given-names>L.G.</given-names>
+</string-name>, <string-name>
+<surname>Gilroy</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Vivanco</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2006</year>) <article-title>The role of root exudates in rhizosphere interactions with plants and other organisms</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>57</volume>, <fpage>233</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">16669762</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0004"><mixed-citation publication-type="journal" id="tpj13741-cit-0004">
+<string-name>
+<surname>Beck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wyrsch</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Strutt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wimalasekera</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Robatzek</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Expression patterns of <italic>FLAGELLIN SENSING 2</italic> map to bacterial entry sites in plant shoots and roots</article-title>. <source>J. Exp. Bot.</source>
+<volume>65</volume>, <fpage>6487</fpage>&#x02013;<lpage>6498</lpage>.<pub-id pub-id-type="pmid">25205577</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0005"><mixed-citation publication-type="journal" id="tpj13741-cit-0005">
+<string-name>
+<surname>Berendsen</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> and <string-name>
+<surname>Bakker</surname>, <given-names>P.A.H.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>The rhizosphere microbiome and plant health</article-title>. <source>Trends Plant Sci.</source>
+<volume>17</volume>, <fpage>478</fpage>&#x02013;<lpage>486</lpage>.<pub-id pub-id-type="pmid">22564542</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0006"><mixed-citation publication-type="journal" id="tpj13741-cit-0006">
+<string-name>
+<surname>Berendsen</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Van Verk</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Stringlis</surname>, <given-names>I.A.</given-names>
+</string-name>, <string-name>
+<surname>Zamioudis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tommassen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> and <string-name>
+<surname>Bakker</surname>, <given-names>P.A.H.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Unearthing the genomes of plant&#x02010;beneficial Pseudomonas model strains WCS358, WCS374 and WCS417</article-title>. <source>BMC Genom.</source>, <volume>16</volume>, <fpage>539</fpage>.</mixed-citation></ref><ref id="tpj13741-bib-0007"><mixed-citation publication-type="journal" id="tpj13741-cit-0007">
+<string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Felix</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>) <article-title>A renaissance of elicitors: perception of microbe&#x02010;associated molecular patterns and danger signals by pattern&#x02010;recognition receptors</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>60</volume>, <fpage>379</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">19400727</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0008"><mixed-citation publication-type="journal" id="tpj13741-cit-0008">
+<string-name>
+<surname>Boyle</surname>, <given-names>E.I.</given-names>
+</string-name>, <string-name>
+<surname>Weng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gollub</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Botstein</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cherry</surname>, <given-names>J.M.</given-names>
+</string-name> and <string-name>
+<surname>Sherlock</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>) <article-title>GO: TermFinder &#x02013; open source software for accessing Gene Ontology information and finding significantly enriched Gene Ontology terms associated with a list of genes</article-title>. <source>Bioinformatics</source>, <volume>20</volume>, <fpage>3710</fpage>&#x02013;<lpage>3715</lpage>.<pub-id pub-id-type="pmid">15297299</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0009"><mixed-citation publication-type="journal" id="tpj13741-cit-0009">
+<string-name>
+<surname>Bulgarelli</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schlaeppi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Spaepen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Loren</surname>, <given-names>Ver</given-names>
+</string-name>, <string-name>
+<surname>van Themaat</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Schulze&#x02010;Lefert</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>) <article-title>Structure and functions of the bacterial microbiota of plants</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>64</volume>, <fpage>807</fpage>&#x02013;<lpage>838</lpage>.<pub-id pub-id-type="pmid">23373698</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0010"><mixed-citation publication-type="journal" id="tpj13741-cit-0010">
+<string-name>
+<surname>Chaiwanon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>Z.Y.</given-names>
+</string-name> (<year>2015</year>) <article-title>Spatiotemporal brassinosteroid signaling and antagonism with auxin pattern stem cell dynamics in Arabidopsis roots</article-title>. <source>Curr. Biol.</source>
+<volume>25</volume>, <fpage>1031</fpage>&#x02013;<lpage>1042</lpage>.<pub-id pub-id-type="pmid">25866388</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0011"><mixed-citation publication-type="journal" id="tpj13741-cit-0011">
+<string-name>
+<surname>Chen</surname>, <given-names>W.W.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>C.W.</given-names>
+</string-name>, <string-name>
+<surname>Mo</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Zheng</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2010</year>) <article-title>Nitric oxide acts downstream of auxin to trigger root ferric&#x02010;chelate reductase activity in response to iron deficiency in Arabidopsis</article-title>. <source>Plant Physiol.</source>
+<volume>154</volume>, <fpage>810</fpage>&#x02013;<lpage>819</lpage>.<pub-id pub-id-type="pmid">20699398</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0012"><mixed-citation publication-type="journal" id="tpj13741-cit-0012">
+<string-name>
+<surname>Coolen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Proietti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hickman</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Transcriptome dynamics of Arabidopsis during sequential biotic and abiotic stresses</article-title>. <source>Plant J.</source>
+<volume>86</volume>, <fpage>249</fpage>&#x02013;<lpage>267</lpage>.<pub-id pub-id-type="pmid">26991768</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0013"><mixed-citation publication-type="journal" id="tpj13741-cit-0013">
+<string-name>
+<surname>Czechowski</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Stitt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Altmann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Udvardi</surname>, <given-names>M.K.</given-names>
+</string-name> and <string-name>
+<surname>Scheible</surname>, <given-names>W.R.</given-names>
+</string-name> (<year>2005</year>) <article-title>Genome&#x02010;wide identification and testing of superior reference genes for transcript normalization in Arabidopsis</article-title>. <source>Plant Physiol.</source>
+<volume>139</volume>, <fpage>5</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">16166256</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0014"><mixed-citation publication-type="journal" id="tpj13741-cit-0014">
+<string-name>
+<surname>Denoux</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Galletti</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mammarella</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gopalan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Werck</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>De Lorenzo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ausubel</surname>, <given-names>F.M.</given-names>
+</string-name> and <string-name>
+<surname>Dewdney</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Activation of defense response pathways by OGs and Flg22 elicitors in Arabidopsis seedlings</article-title>. <source>Mol. Plant</source>, <volume>1</volume>, <fpage>423</fpage>&#x02013;<lpage>445</lpage>.<pub-id pub-id-type="pmid">19825551</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0015"><mixed-citation publication-type="journal" id="tpj13741-cit-0015">
+<string-name>
+<surname>Dodds</surname>, <given-names>P.N.</given-names>
+</string-name> and <string-name>
+<surname>Rathjen</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>2010</year>) <article-title>Plant immunity: towards an integrated view of plant&#x02010;pathogen interactions</article-title>. <source>Nat. Rev. Genet.</source>
+<volume>11</volume>, <fpage>539</fpage>&#x02013;<lpage>548</lpage>.<pub-id pub-id-type="pmid">20585331</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0016"><mixed-citation publication-type="journal" id="tpj13741-cit-0016">
+<string-name>
+<surname>Felix</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Volko</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> (<year>1999</year>) <article-title>Plants have a sensitive perception system for the most conserved domain of bacterial flagellin</article-title>. <source>Plant J.</source>
+<volume>18</volume>, <fpage>265</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">10377992</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0017"><mixed-citation publication-type="journal" id="tpj13741-cit-0017">
+<string-name>
+<surname>Gomez&#x02010;Gomez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Felix</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> (<year>1999</year>) <article-title>A single locus determines sensitivity to bacterial flagellin in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source>Plant J.</source>
+<volume>18</volume>, <fpage>277</fpage>&#x02013;<lpage>284</lpage>.<pub-id pub-id-type="pmid">10377993</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0018"><mixed-citation publication-type="journal" id="tpj13741-cit-0018">
+<string-name>
+<surname>Hacquard</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Spaepen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Garrido&#x02010;Oter</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Schulze&#x02010;Lefert</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>) <article-title>Interplay between innate immunity and the plant microbiota</article-title>. <source>Annu. Rev. Phytopathol.</source>
+<volume>55</volume>, <fpage>565</fpage>&#x02013;<lpage>589</lpage>.<pub-id pub-id-type="pmid">28645232</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0019"><mixed-citation publication-type="journal" id="tpj13741-cit-0019">
+<string-name>
+<surname>Heard</surname>, <given-names>N.A.</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>, <given-names>C.C.</given-names>
+</string-name> and <string-name>
+<surname>Stephens</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2006</year>) <article-title>A quantitative study of gene regulation involved in the immune response of anopheline mosquitoes: an application of Bayesian hierarchical clustering of curves</article-title>. <source>J. Am. Stat. Assoc.</source>
+<volume>101</volume>, <fpage>18</fpage>&#x02013;<lpage>29</lpage>.</mixed-citation></ref><ref id="tpj13741-bib-0020"><mixed-citation publication-type="journal" id="tpj13741-cit-0020">
+<string-name>
+<surname>Hickman</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Van Verk</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Van Dijken</surname>, <given-names>A.J.H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Architecture and dynamics of the jasmonic acid gene regulatory network</article-title>. <source>Plant Cell</source>, <volume>29</volume>, <fpage>2086</fpage>&#x02013;<lpage>2105</lpage>.<pub-id pub-id-type="pmid">28827376</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0021"><mixed-citation publication-type="journal" id="tpj13741-cit-0021">
+<string-name>
+<surname>Huot</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>, <given-names>B.L.</given-names>
+</string-name> and <string-name>
+<surname>He</surname>, <given-names>S.Y.</given-names>
+</string-name> (<year>2014</year>) <article-title>Growth&#x02010;defense tradeoffs in plants: a balancing act to optimize fitness</article-title>. <source>Mol. Plant</source>, <volume>7</volume>, <fpage>1267</fpage>&#x02013;<lpage>1287</lpage>.<pub-id pub-id-type="pmid">24777989</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0022"><mixed-citation publication-type="journal" id="tpj13741-cit-0022">
+<string-name>
+<surname>Jacobs</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zechmann</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Molitor</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Trujillo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Petutschnig</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lipka</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kogel</surname>, <given-names>K.H.</given-names>
+</string-name> and <string-name>
+<surname>Schafer</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>) <article-title>Broad&#x02010;spectrum suppression of innate immunity is required for colonization of Arabidopsis roots by the fungus <italic>Piriformospora indica</italic>
+</article-title>. <source>Plant Physiol.</source>
+<volume>156</volume>, <fpage>726</fpage>&#x02013;<lpage>740</lpage>.<pub-id pub-id-type="pmid">21474434</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0023"><mixed-citation publication-type="journal" id="tpj13741-cit-0023">
+<string-name>
+<surname>Jones</surname>, <given-names>J.D.</given-names>
+</string-name> and <string-name>
+<surname>Dangl</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2006</year>) <article-title>The plant immune system</article-title>. <source>Nature</source>, <volume>444</volume>, <fpage>323</fpage>&#x02013;<lpage>329</lpage>.<pub-id pub-id-type="pmid">17108957</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0024"><mixed-citation publication-type="journal" id="tpj13741-cit-0024">
+<string-name>
+<surname>Katari</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Nowicki</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>Aceituno</surname>, <given-names>F.F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>VirtualPlant: a software platform to support systems biology research</article-title>. <source>Plant Physiol.</source>
+<volume>152</volume>, <fpage>500</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">20007449</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0025"><mixed-citation publication-type="journal" id="tpj13741-cit-0025">
+<string-name>
+<surname>King</surname>, <given-names>E.O.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>M.K.</given-names>
+</string-name> and <string-name>
+<surname>Raney</surname>, <given-names>D.E.</given-names>
+</string-name> (<year>1954</year>) <article-title>Two simple media for the demonstration of pyocyanin and fluorescin</article-title>. <source>J. Lab. Clin. Med.</source>
+<volume>44</volume>, <fpage>301</fpage>&#x02013;<lpage>307</lpage>.<pub-id pub-id-type="pmid">13184240</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0026"><mixed-citation publication-type="journal" id="tpj13741-cit-0026">
+<string-name>
+<surname>Kunze</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zipfel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Robatzek</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Niehaus</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Felix</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>) <article-title>The N terminus of bacterial elongation factor Tu elicits innate immunity in Arabidopsis plants</article-title>. <source>Plant Cell</source>, <volume>16</volume>, <fpage>3496</fpage>&#x02013;<lpage>3507</lpage>.<pub-id pub-id-type="pmid">15548740</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0027"><mixed-citation publication-type="journal" id="tpj13741-cit-0027">
+<string-name>
+<surname>Livak</surname>, <given-names>K.J.</given-names>
+</string-name> and <string-name>
+<surname>Schmittgen</surname>, <given-names>T.D.</given-names>
+</string-name> (<year>2001</year>) <article-title>Analysis of relative gene expression data using real&#x02010;time quantitative PCR and the 2(&#x02010;Delta Delta C(T)) method</article-title>. <source>Methods</source>, <volume>25</volume>, <fpage>402</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0028"><mixed-citation publication-type="journal" id="tpj13741-cit-0028">
+<string-name>
+<surname>Love</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Anders</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Moderated estimation of fold change and dispersion for RNA&#x02010;seq data with DESeq2</article-title>. <source>Genome Biol.</source>
+<volume>15</volume>, <fpage>550</fpage>.<pub-id pub-id-type="pmid">25516281</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0029"><mixed-citation publication-type="journal" id="tpj13741-cit-0029">
+<string-name>
+<surname>Lugtenberg</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Kamilova</surname>, <given-names>F.</given-names>
+</string-name> (<year>2009</year>) <article-title>Plant&#x02010;growth&#x02010;promoting rhizobacteria</article-title>. <source>Annu. Rev. Microbiol.</source>
+<volume>63</volume>, <fpage>541</fpage>&#x02013;<lpage>556</lpage>.<pub-id pub-id-type="pmid">19575558</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0030"><mixed-citation publication-type="journal" id="tpj13741-cit-0030">
+<string-name>
+<surname>Macho</surname>, <given-names>A.P.</given-names>
+</string-name> and <string-name>
+<surname>Zipfel</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Plant PRRs and the activation of innate immune signaling</article-title>. <source>Mol. Cell</source>, <volume>54</volume>, <fpage>263</fpage>&#x02013;<lpage>272</lpage>.<pub-id pub-id-type="pmid">24766890</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0031"><mixed-citation publication-type="journal" id="tpj13741-cit-0031">
+<string-name>
+<surname>Martinez&#x02010;Medina</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Flors</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Heil</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mauch&#x02010;Mani</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name>, <string-name>
+<surname>Pozo</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Ton</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Van Dam</surname>, <given-names>N.M.</given-names>
+</string-name> and <string-name>
+<surname>Conrath</surname>, <given-names>U.</given-names>
+</string-name> (<year>2016</year>) <article-title>Recognizing plant defense priming</article-title>. <source>Trends Plant Sci.</source>
+<volume>21</volume>, <fpage>818</fpage>&#x02013;<lpage>822</lpage>.<pub-id pub-id-type="pmid">27507609</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0032"><mixed-citation publication-type="journal" id="tpj13741-cit-0032">
+<string-name>
+<surname>Martinez&#x02010;Medina</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Van Wees</surname>, <given-names>S.C.M.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2017</year>) <article-title>Airborne signals by Trichoderma fungi stimulate iron uptake responses in roots resulting in priming of jasmonic acid&#x02010;dependent defences in shoots of <italic>Arabidopsis thaliana</italic> and <italic>Solanum lycopersicum</italic>
+</article-title>. <source>Plant Cell Environ.</source>
+<volume>40</volume>, <fpage>2691</fpage>&#x02013;<lpage>2705</lpage>.<pub-id pub-id-type="pmid">28667819</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0034"><mixed-citation publication-type="journal" id="tpj13741-cit-0034">
+<string-name>
+<surname>Millet</surname>, <given-names>Y.A.</given-names>
+</string-name>, <string-name>
+<surname>Danna</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Clay</surname>, <given-names>N.K.</given-names>
+</string-name>, <string-name>
+<surname>Songnuan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Werck&#x02010;Reichhart</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Ausubel</surname>, <given-names>F.M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Innate immune responses activated in Arabidopsis roots by microbe&#x02010;associated molecular patterns</article-title>. <source>Plant Cell</source>, <volume>22</volume>, <fpage>973</fpage>&#x02013;<lpage>990</lpage>.<pub-id pub-id-type="pmid">20348432</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0035"><mixed-citation publication-type="journal" id="tpj13741-cit-0035">
+<string-name>
+<surname>Miya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shinya</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Desaki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ichimura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shirasu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Narusaka</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kawakami</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kaku</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Shibuya</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>) <article-title>CERK1, a LysM receptor kinase, is essential for chitin elicitor signaling in Arabidopsis</article-title>. <source>Proc. Natl Acad. Sci. USA</source>, <volume>104</volume>, <fpage>19613</fpage>&#x02013;<lpage>19618</lpage>.<pub-id pub-id-type="pmid">18042724</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0036"><mixed-citation publication-type="journal" id="tpj13741-cit-0036">
+<string-name>
+<surname>Murashige</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Skoog</surname>, <given-names>F.</given-names>
+</string-name> (<year>1962</year>) <article-title>A revised medium for rapid growth and bio assays with tobacco tissue cultures</article-title>. <source>Physiol. Planta.</source>
+<volume>15</volume>, <fpage>473</fpage>&#x02013;<lpage>497</lpage>.</mixed-citation></ref><ref id="tpj13741-bib-0037"><mixed-citation publication-type="journal" id="tpj13741-cit-0037">
+<string-name>
+<surname>Naito</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Taguchi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Inagaki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Toyoda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shiraishi</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Ichinose</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2008</year>) <article-title>Amino acid sequence of bacterial microbe&#x02010;associated molecular pattern flg22 is required for virulence</article-title>. <source>Mol. Plant&#x02010;Microbe Interact.</source>
+<volume>21</volume>, <fpage>1165</fpage>&#x02013;<lpage>1174</lpage>.<pub-id pub-id-type="pmid">18700821</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0038"><mixed-citation publication-type="journal" id="tpj13741-cit-0038">
+<string-name>
+<surname>Pel</surname>, <given-names>M.J.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Microbial recognition and evasion of host immunity</article-title>. <source>J. Exp. Bot.</source>
+<volume>64</volume>, <fpage>1237</fpage>&#x02013;<lpage>1248</lpage>.<pub-id pub-id-type="pmid">23095994</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0039"><mixed-citation publication-type="journal" id="tpj13741-cit-0039">
+<string-name>
+<surname>Philippot</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Raaijmakers</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Lemanceau</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Van der Putten</surname>, <given-names>W.H.</given-names>
+</string-name> (<year>2013</year>) <article-title>Going back to the roots: the microbial ecology of the rhizosphere</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>11</volume>, <fpage>789</fpage>&#x02013;<lpage>799</lpage>.<pub-id pub-id-type="pmid">24056930</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0040"><mixed-citation publication-type="journal" id="tpj13741-cit-0040">
+<string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name>, <string-name>
+<surname>Zamioudis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Berendsen</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Weller</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Van Wees</surname>, <given-names>S.C.M.</given-names>
+</string-name> and <string-name>
+<surname>Bakker</surname>, <given-names>P.A.H.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Induced systemic resistance by beneficial microbes</article-title>. <source>Annu. Rev. Phytopathol.</source>
+<volume>52</volume>, <fpage>347</fpage>&#x02013;<lpage>375</lpage>.<pub-id pub-id-type="pmid">24906124</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0041"><mixed-citation publication-type="journal" id="tpj13741-cit-0041">
+<string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name>, <string-name>
+<surname>De Jonge</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Berendsen</surname>, <given-names>R.L.</given-names>
+</string-name> (<year>2016</year>) <article-title>The soil&#x02010;borne supremacy</article-title>. <source>Trends Plant Sci.</source>
+<volume>21</volume>, <fpage>171</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">26853594</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0042"><mixed-citation publication-type="journal" id="tpj13741-cit-0042">
+<string-name>
+<surname>Pozo</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Van der Ent</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Van Loon</surname>, <given-names>L.C.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Transcription factor MYC2 is involved in priming for enhanced defense during rhizobacteria&#x02010;induced systemic resistance in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source>New Phytol.</source>
+<volume>180</volume>, <fpage>511</fpage>&#x02013;<lpage>523</lpage>.<pub-id pub-id-type="pmid">18657213</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0043"><mixed-citation publication-type="journal" id="tpj13741-cit-0043">
+<string-name>
+<surname>Rodriguez&#x02010;Celma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>W.D.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name>
+<surname>Abadia</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Millan</surname>, <given-names>A.F.</given-names>
+</string-name> and <string-name>
+<surname>Schmidt</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Mutually exclusive alterations in secondary metabolism are critical for the uptake of insoluble iron compounds by Arabidopsis and <italic>Medicago truncatula</italic>
+</article-title>. <source>Plant Physiol.</source>
+<volume>162</volume>, <fpage>1473</fpage>&#x02013;<lpage>1485</lpage>.<pub-id pub-id-type="pmid">23735511</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0044"><mixed-citation publication-type="journal" id="tpj13741-cit-0044">
+<string-name>
+<surname>Schmittgen</surname>, <given-names>T.D.</given-names>
+</string-name> and <string-name>
+<surname>Livak</surname>, <given-names>K.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Analyzing real&#x02010;time PCR data by the comparative C(T) method</article-title>. <source>Nat. Protoc.</source>
+<volume>3</volume>, <fpage>1101</fpage>&#x02013;<lpage>1108</lpage>.<pub-id pub-id-type="pmid">18546601</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0045"><mixed-citation publication-type="journal" id="tpj13741-cit-0045">
+<string-name>
+<surname>Sun</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Dunning</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Pfund</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Weingarten</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Bent</surname>, <given-names>A.F.</given-names>
+</string-name> (<year>2006</year>) <article-title>Within&#x02010;species flagellin polymorphism in <italic>Xanthomonas campestris</italic> pv <italic>campestris</italic> and its impact on elicitation of Arabidopsis <italic>FLAGELLIN SENSING2</italic>&#x02010;dependent defenses</article-title>. <source>Plant Cell</source>, <volume>18</volume>, <fpage>764</fpage>&#x02013;<lpage>779</lpage>.<pub-id pub-id-type="pmid">16461584</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0046"><mixed-citation publication-type="journal" id="tpj13741-cit-0046">
+<string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pachter</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2009</year>) <article-title>TopHat: discovering splice junctions with RNA&#x02010;Seq</article-title>. <source>Bioinformatics</source>, <volume>25</volume>, <fpage>1105</fpage>&#x02013;<lpage>1111</lpage>.<pub-id pub-id-type="pmid">19289445</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0047"><mixed-citation publication-type="journal" id="tpj13741-cit-0047">
+<string-name>
+<surname>Trda</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Boutrot</surname>, <given-names>F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>The grapevine flagellin receptor VvFLS2 differentially recognizes flagellin&#x02010;derived epitopes from the endophytic growth&#x02010;promoting bacterium <italic>Burkholderia phytofirmans</italic> and plant pathogenic bacteria</article-title>. <source>New Phytol.</source>
+<volume>201</volume>, <fpage>1371</fpage>&#x02013;<lpage>1384</lpage>.<pub-id pub-id-type="pmid">24491115</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0048"><mixed-citation publication-type="journal" id="tpj13741-cit-0048">
+<string-name>
+<surname>Trda</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Boutrot</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Claverie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brule</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dorey</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Poinssot</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>) <article-title>Perception of pathogenic or beneficial bacteria and their evasion of host immunity: pattern recognition receptors in the frontline</article-title>. <source>Front. Plant Sci.</source>
+<volume>6</volume>, <fpage>219</fpage>.<pub-id pub-id-type="pmid">25904927</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0049"><mixed-citation publication-type="journal" id="tpj13741-cit-0049">
+<string-name>
+<surname>Van der Ent</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Verhagen</surname>, <given-names>B.W.</given-names>
+</string-name>, <string-name>
+<surname>Van Doorn</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>
+<italic>MYB72</italic> is required in early signaling steps of rhizobacteria&#x02010;induced systemic resistance in Arabidopsis</article-title>. <source>Plant Physiol.</source>
+<volume>146</volume>, <fpage>1293</fpage>&#x02013;<lpage>1304</lpage>.<pub-id pub-id-type="pmid">18218967</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0050"><mixed-citation publication-type="journal" id="tpj13741-cit-0050">
+<string-name>
+<surname>Van Loon</surname>, <given-names>L.C.</given-names>
+</string-name>, <string-name>
+<surname>Bakker</surname>, <given-names>P.A.H.M.</given-names>
+</string-name>, <string-name>
+<surname>Van der Heijdt</surname>, <given-names>W.H.</given-names>
+</string-name>, <string-name>
+<surname>Wendehenne</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Pugin</surname>, <given-names>A.</given-names>
+</string-name> (<year>2008</year>) <article-title>Early responses of tobacco suspension cells to rhizobacterial elicitors of induced systemic resistance</article-title>. <source>Mol. Plant&#x02010;Microbe Interact.</source>
+<volume>21</volume>, <fpage>1609</fpage>&#x02013;<lpage>1621</lpage>.<pub-id pub-id-type="pmid">18986257</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0051"><mixed-citation publication-type="journal" id="tpj13741-cit-0051">
+<string-name>
+<surname>Van Verk</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Hickman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> and <string-name>
+<surname>Van Wees</surname>, <given-names>S.C.M.</given-names>
+</string-name> (<year>2013</year>) <article-title>RNA&#x02010;Seq: revelation of the messengers</article-title>. <source>Trends Plant Sci.</source>
+<volume>18</volume>, <fpage>175</fpage>&#x02013;<lpage>179</lpage>.<pub-id pub-id-type="pmid">23481128</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0052"><mixed-citation publication-type="journal" id="tpj13741-cit-0052">
+<string-name>
+<surname>Van Wees</surname>, <given-names>S.C.M.</given-names>
+</string-name>, <string-name>
+<surname>Van der Ent</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Plant immune responses triggered by beneficial microbes</article-title>. <source>Curr. Opin. Plant Biol.</source>
+<volume>11</volume>, <fpage>443</fpage>&#x02013;<lpage>448</lpage>.<pub-id pub-id-type="pmid">18585955</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0053"><mixed-citation publication-type="journal" id="tpj13741-cit-0053">
+<string-name>
+<surname>Van Wees</surname>, <given-names>S.C.M.</given-names>
+</string-name>, <string-name>
+<surname>Van Pelt</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Bakker</surname>, <given-names>P.A.H.M.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Bioassays for assessing jasmonate&#x02010;dependent defenses triggered by pathogens, herbivorous insects, or beneficial rhizobacteria</article-title>. <source>Methods Mol. Biol.</source>
+<volume>1011</volume>, <fpage>35</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">23615986</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0054"><mixed-citation publication-type="journal" id="tpj13741-cit-0054">
+<string-name>
+<surname>Venturi</surname>, <given-names>V.</given-names>
+</string-name> and <string-name>
+<surname>Keel</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Signaling in the rhizosphere</article-title>. <source>Trends Plant Sci.</source>
+<volume>21</volume>, <fpage>187</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">26832945</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0055"><mixed-citation publication-type="journal" id="tpj13741-cit-0055">
+<string-name>
+<surname>Verhagen</surname>, <given-names>B.W.</given-names>
+</string-name>, <string-name>
+<surname>Glazebrook</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Van Loon</surname>, <given-names>L.C.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2004</year>) <article-title>The transcriptome of rhizobacteria&#x02010;induced systemic resistance in Arabidopsis</article-title>. <source>Mol. Plant&#x02010;Microbe Interact.</source>
+<volume>17</volume>, <fpage>895</fpage>&#x02013;<lpage>908</lpage>.<pub-id pub-id-type="pmid">15305611</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0056"><mixed-citation publication-type="journal" id="tpj13741-cit-0056">
+<string-name>
+<surname>Wan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.C.</given-names>
+</string-name>, <string-name>
+<surname>Neece</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ramonell</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Clough</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Stacey</surname>, <given-names>M.G.</given-names>
+</string-name> and <string-name>
+<surname>Stacey</surname>, <given-names>G.</given-names>
+</string-name> (<year>2008</year>) <article-title>A LysM receptor&#x02010;like kinase plays a critical role in chitin signaling and fungal resistance in Arabidopsis</article-title>. <source>Plant Cell</source>, <volume>20</volume>, <fpage>471</fpage>&#x02013;<lpage>481</lpage>.<pub-id pub-id-type="pmid">18263776</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0057"><mixed-citation publication-type="journal" id="tpj13741-cit-0057">
+<string-name>
+<surname>Zamioudis</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Modulation of host immunity by beneficial microbes</article-title>. <source>Mol. Plant&#x02010;Microbe Interact.</source>
+<volume>25</volume>, <fpage>139</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">21995763</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0058"><mixed-citation publication-type="journal" id="tpj13741-cit-0058">
+<string-name>
+<surname>Zamioudis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mastranesti</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dhonukshe</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Blilou</surname>, <given-names>I.</given-names>
+</string-name> and <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Unraveling root developmental programs initiated by beneficial Pseudomonas spp. bacteria</article-title>. <source>Plant Physiol.</source>
+<volume>162</volume>, <fpage>304</fpage>&#x02013;<lpage>318</lpage>.<pub-id pub-id-type="pmid">23542149</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0059"><mixed-citation publication-type="journal" id="tpj13741-cit-0059">
+<string-name>
+<surname>Zamioudis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Korteland</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Van Pelt</surname>, <given-names>J.A.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Rhizobacterial volatiles and photosynthesis&#x02010;related signals coordinate <italic>MYB72</italic> expression in Arabidopsis roots during onset of induced systemic resistance and iron&#x02010;deficiency responses</article-title>. <source>Plant J.</source>
+<volume>84</volume>, <fpage>309</fpage>&#x02013;<lpage>322</lpage>.<pub-id pub-id-type="pmid">26307542</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0060"><mixed-citation publication-type="journal" id="tpj13741-cit-0060">
+<string-name>
+<surname>Zeidler</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zahringer</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Gerber</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Dubery</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hartung</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bors</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Hutzler</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Durner</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>) <article-title>Innate immunity in <italic>Arabidopsis thaliana</italic>: lipopolysaccharides activate nitric oxide synthase (NOS) and induce defense genes</article-title>. <source>Proc. Natl Acad. Sci. USA</source>, <volume>101</volume>, <fpage>15811</fpage>&#x02013;<lpage>15816</lpage>.<pub-id pub-id-type="pmid">15498873</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0061"><mixed-citation publication-type="journal" id="tpj13741-cit-0061">
+<string-name>
+<surname>Zipfel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Robatzek</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Navarro</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Oakeley</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Felix</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> (<year>2004</year>) <article-title>Bacterial disease resistance in Arabidopsis through flagellin perception</article-title>. <source>Nature</source>, <volume>428</volume>, <fpage>764</fpage>&#x02013;<lpage>767</lpage>.<pub-id pub-id-type="pmid">15085136</pub-id></mixed-citation></ref><ref id="tpj13741-bib-0062"><mixed-citation publication-type="journal" id="tpj13741-cit-0062">
+<string-name>
+<surname>Zipfel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kunze</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Chinchilla</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Caniard</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Boller</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Felix</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>) <article-title>Perception of the bacterial PAMP EF&#x02010;Tu by the receptor EFR restricts Agrobacterium&#x02010;mediated transformation</article-title>. <source>Cell</source>, <volume>125</volume>, <fpage>749</fpage>&#x02013;<lpage>760</lpage>.<pub-id pub-id-type="pmid">16713565</pub-id></mixed-citation></ref></ref-list></back></article>

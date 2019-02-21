@@ -1,0 +1,356 @@
+{
+  "id": [
+    "30183783"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30183783"
+  ],
+  "pmcid": [
+    "PMC6124809"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0203589"
+  ],
+  "title": [
+    "Dynamic image denoising for voxel-wise quantification with Statistical Parametric Mapping in molecular neuroimaging."
+  ],
+  "authorString": [
+    "Tsartsalis S, Tournier BB, Graf CE, Ginovart N, Ibáñez V, Millet P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tsartsalis S"
+          ],
+          "firstName": [
+            "Stergios"
+          ],
+          "lastName": [
+            "Tsartsalis"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6565-6313",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Adult Psychiatry, Geneva University Hospitals, Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Tournier BB"
+          ],
+          "firstName": [
+            "Benjamin B"
+          ],
+          "lastName": [
+            "Tournier"
+          ],
+          "initials": [
+            "BB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8027-7530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Adult Psychiatry, Geneva University Hospitals, Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Graf CE"
+          ],
+          "firstName": [
+            "Christophe E"
+          ],
+          "lastName": [
+            "Graf"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Division of Medical Rehabilitation, Geneva University Hospitals, Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ginovart N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Ginovart"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Division of Adult Psychiatry, Geneva University Hospitals, Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ibáñez V"
+          ],
+          "firstName": [
+            "Vicente"
+          ],
+          "lastName": [
+            "Ibáñez"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Clinical Neurophysiology Unit, Division of Psychiatric Specialties, Geneva University Hospitals, Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Millet P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Millet"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Division of Adult Psychiatry, Geneva University Hospitals, Geneva, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6565-6313",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8027-7530",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2723061"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0203589"
+  ],
+  "abstractText": [
+    "PURPOSE:PET and SPECT voxel kinetics are highly noised. To our knowledge, no study has determined the effect of denoising on the ability to detect differences in binding at the voxel level using Statistical Parametric Mapping (SPM). METHODS:In the present study, groups of subject-images with a 10%- and 20%- difference in binding of [123I]iomazenil (IMZ) were simulated. They were denoised with Factor Analysis (FA). Parametric images of binding potential (BPND) were produced with the simplified reference tissue model (SRTM) and the Logan non-invasive graphical analysis (LNIGA) and analyzed using SPM to detect group differences. FA was also applied to [123I]IMZ and [11C]flumazenil (FMZ) clinical images (n = 4) and the variance of BPND was evaluated. RESULTS:Estimations from FA-denoised simulated images provided a more favorable bias-precision profile in SRTM and LNIGA quantification. Simulated differences were detected in a higher number of voxels when denoised simulated images were used for voxel-wise estimations, compared to quantification on raw simulated images. Variability of voxel-wise binding estimations on denoised clinical SPECT and PET images was also significantly diminished. CONCLUSION:In conclusion, noise removal from dynamic brain SPECT and PET images may optimize voxel-wise BPND estimations and detection of biological differences using SPM."
+  ],
+  "affiliation": [
+    "Division of Adult Psychiatry, Geneva University Hospitals, Geneva, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6124809?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6124809"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0203589"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-06"
+  ],
+  "dateOfRevision": [
+    "2019-02-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-05"
+  ],
+  "firstPublicationDate": [
+    "2018-09-05"
+  ]
+}

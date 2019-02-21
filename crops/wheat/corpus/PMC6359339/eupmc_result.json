@@ -1,0 +1,400 @@
+{
+  "id": [
+    "30641923"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30641923"
+  ],
+  "pmcid": [
+    "PMC6359339"
+  ],
+  "doi": [
+    "10.3390/s19020271"
+  ],
+  "title": [
+    "Rapid Measurement of Soybean Seed Viability Using Kernel-Based Multispectral Image Analysis."
+  ],
+  "authorString": [
+    "Baek I, Kusumaningrum D, Kandpal LM, Lohumi S, Mo C, Kim MS, Cho BK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baek I"
+          ],
+          "firstName": [
+            "Insuck"
+          ],
+          "lastName": [
+            "Baek"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1044-349X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA. insuck.baek@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kusumaningrum D"
+          ],
+          "firstName": [
+            "Dewi"
+          ],
+          "lastName": [
+            "Kusumaningrum"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biosystems Machinery Engineering, College of Agricultural and Life Science, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Korea. dewi.kusumaningrumm@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kandpal LM"
+          ],
+          "firstName": [
+            "Lalit Mohan"
+          ],
+          "lastName": [
+            "Kandpal"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Department of Biosystems Machinery Engineering, College of Agricultural and Life Science, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Korea. lalitm85@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lohumi S"
+          ],
+          "firstName": [
+            "Santosh"
+          ],
+          "lastName": [
+            "Lohumi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biosystems Machinery Engineering, College of Agricultural and Life Science, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Korea. santosh.sanny123@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Mo C"
+          ],
+          "firstName": [
+            "Changyeun"
+          ],
+          "lastName": [
+            "Mo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "National Institute of Agricultural Sciences, Rural Development Administration, 310 Nonsaengmyeong-ro, Wansan-gu, Jeonju-si, Jeollabuk-do 54875, Korea. cymo76@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim MS"
+          ],
+          "firstName": [
+            "Moon S"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "USDA-ARS Environmental Microbial and Food Safety Laboratory, Henry A. Wallace Beltsville Agricultural Research Center, Beltsville, MD 20705, USA. Moon.Kim@ars.usda.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho BK"
+          ],
+          "firstName": [
+            "Byoung-Kwan"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8397-9853",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biosystems Machinery Engineering, College of Agricultural and Life Science, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Korea. chobk@cnu.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1044-349X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8397-9853",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2770601"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Viability is an important quality factor influencing seed germination and crop yield. Current seed-viability testing methods rely on conventional manual inspections, which use destructive, labor-intensive and time-consuming measurements. The aim of this study is to distinguish between viable and nonviable soybean seeds, using a near-infrared (NIR) hyperspectral imaging (HSI) technique in a rapid and nondestructive manner. The data extracted from the NIR⁻HSI of viable and nonviable soybean seeds were analyzed using a partial least-squares discrimination analysis (PLS-DA) technique for classifying the viable and nonviable soybean seeds. Variable importance in projection (VIP) was used as a waveband selection method to develop a multispectral imaging model. Initially, the spectral profile of each pixel in the soybean seed images was subjected to PLS-DA analysis, which yielded a reasonable classification accuracy; however, the pixel-based classification method was not successful for high accuracy detection for nonviable seeds. Another viability detection method was then investigated: a kernel image threshold method with an optimum-detection-rate strategy. The kernel-based classification of seeds showed over 95% accuracy even when using only seven optimal wavebands selected through VIP. The results show that the proposed multispectral NIR imaging method is an effective and accurate nondestructive technique for the discrimination of soybean seed viability."
+  ],
+  "affiliation": [
+    "Department of Mechanical Engineering, University of Maryland, Baltimore County, 1000 Hilltop Circle, Baltimore, MD 21250, USA. insuck.baek@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PJ01311303"
+          ],
+          "agency": [
+            "Rural Development Administration"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Seed viability",
+        "Near-infrared",
+        "Multispectral Imaging",
+        "Variable Importance In Projection",
+        "Kernel-based Classification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359339?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359339"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s19020271"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-28"
+  ],
+  "dateOfCreation": [
+    "2019-01-16"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-11"
+  ],
+  "firstPublicationDate": [
+    "2019-01-11"
+  ]
+}

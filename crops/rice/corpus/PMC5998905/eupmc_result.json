@@ -1,0 +1,367 @@
+{
+  "id": [
+    "29745852"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29745852"
+  ],
+  "pmcid": [
+    "PMC5998905"
+  ],
+  "doi": [
+    "10.1186/s12918-018-0574-x"
+  ],
+  "title": [
+    "Transcriptomic and metabolic flux analyses reveal shift of metabolic patterns during rice grain development."
+  ],
+  "authorString": [
+    "Shen F, Wu X, Shi L, Zhang H, Chen Y, Qi X, Wang Z, Li X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shen F"
+          ],
+          "firstName": [
+            "Fangzhou"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Bio-X Institutes, Key laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xueting"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200032, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi L"
+          ],
+          "firstName": [
+            "Luoxi"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Bio-X Institutes, Key laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yangmin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qi X"
+          ],
+          "firstName": [
+            "Xiaoquan"
+          ],
+          "lastName": [
+            "Qi"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "The Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences, Beijing, 100093, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhuo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Bio-X Institutes, Key laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, People's Republic of China. zhuowang@sjtu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200032, People's Republic of China. lixuan@sibs.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 4"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2682719"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC systems biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Syst Biol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Syst Biol"
+          ],
+          "NLMid": [
+            "101301827"
+          ],
+          "ISSN": [
+            "1752-0509"
+          ],
+          "ESSN": [
+            "1752-0509"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "47"
+  ],
+  "abstractText": [
+    "BACKGROUND:Rice (Oryza sativa) is one of the most important grain crops, which serves as food source for nearly half of the world population. The study of rice development process as well as related strategies for production has made significant progress. However, the comprehensive study on development of different rice tissues at both transcriptomic and metabolic flux level across different stages was lacked. RESULTS:In this study, we performed RNA-Seq and characterized the expression profiles of differentiated tissues from Oryza sativa Zhonghua 11, including leaves, sheath, stamen, pistil, lemma and palea of the booting stage, and embryo, endosperm, lemma and palea of the mature grain stage. By integrating this set of transcriptome data of different rice tissues at different stages with a genome-scale rice metabolic model, we generated tissue-specific models and investigated the shift of metabolic patterns, and the discrepancy between transcriptomic and metabolic level. We found although the flux patterns are not very similar with the gene expression pattern, the tissues at booting stage and mature grain stage can be separately clustered by primary metabolism at either level. While the gene expression and flux distribution of secondary metabolism is more diverse across tissues and stages. The critical rate-limiting reactions and pathways were also identified. In addition, we compared the patterns of the same tissue at different stages and the different tissues at same stage. There are more altered pathways at gene expression level than metabolic level, which indicate the metabolism is more robust to reflect the phenotype, and might largely because of the complex post-transcriptional modification. CONCLUSIONS:The tissue-specific models revealed more detail metabolic pattern shift among different tissues and stages, which is of great significance to uncover mechanism of rice grain development and further improve production and quality of rice."
+  ],
+  "affiliation": [
+    "Bio-X Institutes, Key laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolic flux",
+        "Transcriptome",
+        "secondary metabolism",
+        "Rice Development",
+        "Tissue-specific Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5998905?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5998905"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12918-018-0574-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2019-02-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-24"
+  ],
+  "firstPublicationDate": [
+    "2018-04-24"
+  ]
+}

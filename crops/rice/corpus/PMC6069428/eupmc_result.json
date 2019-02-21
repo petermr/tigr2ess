@@ -1,0 +1,385 @@
+{
+  "id": [
+    "30011867"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30011867"
+  ],
+  "pmcid": [
+    "PMC6069428"
+  ],
+  "doi": [
+    "10.3390/s18072271"
+  ],
+  "title": [
+    "Inversion of Rice Biophysical Parameters Using Simulated Compact Polarimetric SAR C-Band Data."
+  ],
+  "authorString": [
+    "Guo X, Li K, Shao Y, Wang Z, Li H, Yang Z, Liu L, Wang S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Guo X"
+          ],
+          "firstName": [
+            "Xianyu"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5795-9533",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Geomatics, Shandong University of Science and Technology, Qingdao 266590, China. guoxianyu1@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li K"
+          ],
+          "firstName": [
+            "Kun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Laboratory of Radar Remote Sensing Application Technology, Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences, Datun Road, Chaoyang District, Beijing 100101, China. likun@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shao Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Radar Remote Sensing Application Technology, Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences, Datun Road, Chaoyang District, Beijing 100101, China. shaoyun@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhiyong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Geomatics, Shandong University of Science and Technology, Qingdao 266590, China. wzywlp@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hongyu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Earth Science and Resources, China University of Geosciences (Beijing), Beijing 100083, China. lhy1993@cugb.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Z"
+          ],
+          "firstName": [
+            "Zhi"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Transmission and Transformation Engineering, China Electric Power Research Institute, Beijing 100055, China. yangzhi@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu L"
+          ],
+          "firstName": [
+            "Long"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratory of Radar Remote Sensing Application Technology, Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences, Datun Road, Chaoyang District, Beijing 100101, China. liulong@radi.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shuli"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Geomatics, Shandong University of Science and Technology, Qingdao 266590, China. shuli.wang1@hotmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5795-9533",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2701884"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Timely and accurate estimation of rice parameters plays a significant role in rice monitoring and yield forecasting for ensuring food security. Compact-polarimetric (CP) synthetic aperture radar (SAR), a good compromise between the dual- and quad-polarized SARs, is an important part of the new generation of Earth observation systems. In this paper, the ability of CP SAR data to retrieve rice biophysical parameters was explored using a modified water cloud model. The results showed that S₁ was superior to other CP variables in rice height inversion with a coefficient of determination (R²) of 0.92 and a root-mean-square error (RMSE) of 5.81 cm. RL was the most suitable for inverting the volumetric water content of the rice canopy, with an R² of 0.95 and a RMSE of 0.31 kg/m³. The m-χ decomposition produced the highest accuracies for the ear biomass: R² was 0.89 and RMSE was 0.17 kg/m². The highest accuracy of leaf area index (LAI) retrieval was obtained for RH (right circular transmit and horizontal linear receive) with an R² of 0.79 and a RMSE of 0.33. This study illustrated the capability of CP SAR data with respect to retrieval of rice biophysical parameters, especially for height, volumetric water content of the rice canopy, and ear biomass, and this mode may offer the best option for rice-monitoring applications because of swath coverage."
+  ],
+  "affiliation": [
+    "College of Geomatics, Shandong University of Science and Technology, Qingdao 266590, China. guoxianyu1@126.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Compact-polarimetric Sar",
+        "M-χ/m-δ Decomposition",
+        "Modified Water Cloud Model",
+        "Rice Biophysical Parameters Retrieval"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6069428?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6069428"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s18072271"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-07-20"
+  ],
+  "dateOfCreation": [
+    "2018-07-18"
+  ],
+  "dateOfRevision": [
+    "2018-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-13"
+  ],
+  "firstPublicationDate": [
+    "2018-07-13"
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "id": [
+    "30655525"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30655525"
+  ],
+  "pmcid": [
+    "PMC6336797"
+  ],
+  "doi": [
+    "10.1038/s41467-018-08135-4"
+  ],
+  "title": [
+    "A genome-wide CRISPR screen identifies N-acetylglucosamine-1-phosphate transferase as a potential antiviral target for Ebola virus."
+  ],
+  "authorString": [
+    "Flint M, Chatterjee P, Lin DL, McMullan LK, Shrivastava-Ranjan P, Bergeron É, Lo MK, Welch SR, Nichol ST, Tai AW, Spiropoulou CF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Flint M"
+          ],
+          "firstName": [
+            "Mike"
+          ],
+          "lastName": [
+            "Flint"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5373-787X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA. vfa3@cdc.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Chatterjee P"
+          ],
+          "firstName": [
+            "Payel"
+          ],
+          "lastName": [
+            "Chatterjee"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin DL"
+          ],
+          "firstName": [
+            "David L"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "Department of Microbiology & Immunology, University of Michigan Medical School, Ann Arbor, MI, 48109, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McMullan LK"
+          ],
+          "firstName": [
+            "Laura K"
+          ],
+          "lastName": [
+            "McMullan"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2748-5151",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shrivastava-Ranjan P"
+          ],
+          "firstName": [
+            "Punya"
+          ],
+          "lastName": [
+            "Shrivastava-Ranjan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bergeron É"
+          ],
+          "firstName": [
+            "Éric"
+          ],
+          "lastName": [
+            "Bergeron"
+          ],
+          "initials": [
+            "É"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3398-8628",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lo MK"
+          ],
+          "firstName": [
+            "Michael K"
+          ],
+          "lastName": [
+            "Lo"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0409-7896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Welch SR"
+          ],
+          "firstName": [
+            "Stephen R"
+          ],
+          "lastName": [
+            "Welch"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nichol ST"
+          ],
+          "firstName": [
+            "Stuart T"
+          ],
+          "lastName": [
+            "Nichol"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tai AW"
+          ],
+          "firstName": [
+            "Andrew W"
+          ],
+          "lastName": [
+            "Tai"
+          ],
+          "initials": [
+            "AW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6877-450X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology & Immunology, University of Michigan Medical School, Ann Arbor, MI, 48109, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Spiropoulou CF"
+          ],
+          "firstName": [
+            "Christina F"
+          ],
+          "lastName": [
+            "Spiropoulou"
+          ],
+          "initials": [
+            "CF"
+          ],
+          "affiliation": [
+            "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA. ccs8@cdc.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0409-7896",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5373-787X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2748-5151",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6877-450X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3398-8628",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2765184"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "285"
+  ],
+  "abstractText": [
+    "There are no approved therapies for Ebola virus infection. Here, to find potential therapeutic targets, we perform a screen for genes essential for Ebola virus (EBOV) infection. We identify GNPTAB, which encodes the α and β subunits of N-acetylglucosamine-1-phosphate transferase. We show that EBOV infection of a GNPTAB knockout cell line is impaired, and that this is reversed by reconstituting GNPTAB expression. Fibroblasts from patients with mucolipidosis II, a disorder associated with mutations in GNPTAB, are refractory to EBOV, whereas cells from their healthy parents support infection. Impaired infection correlates with loss of the expression of cathepsin B, known to be essential for EBOV entry. GNPTAB activity is dependent upon proteolytic cleavage by the SKI-1/S1P protease. Inhibiting this protease with the small-molecule PF-429242 blocks EBOV entry and infection. Disruption of GNPTAB function may represent a strategy for a host-targeted therapy for EBOV."
+  ],
+  "affiliation": [
+    "Viral Special Pathogens Branch, Division of High-Consequence Pathogens and Pathology, National Center for Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road, MS G-14, Atlanta, GA, 30329, USA. vfa3@cdc.gov."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 AI007528"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DK097374"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6336797?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6336797"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-08135-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-19"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-17"
+  ],
+  "firstPublicationDate": [
+    "2019-01-17"
+  ]
+}

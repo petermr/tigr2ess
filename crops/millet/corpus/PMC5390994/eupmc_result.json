@@ -1,0 +1,847 @@
+{
+  "id": [
+    "28406917"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28406917"
+  ],
+  "pmcid": [
+    "PMC5390994"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0174783"
+  ],
+  "title": [
+    "Methylomic changes in individuals with psychosis, prenatally exposed to endocrine disrupting compounds: Lessons from diethylstilbestrol."
+  ],
+  "authorString": [
+    "Rivollier F, Chaumette B, Bendjemaa N, Chayet M, Millet B, Jaafari N, Barhdadi A, Lemieux Perreault LP, Provost S, Dubé MP, Gaillard R, Krebs MO, Kebir O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rivollier F"
+          ],
+          "firstName": [
+            "Fabrice"
+          ],
+          "lastName": [
+            "Rivollier"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5805-0770",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaumette B"
+          ],
+          "firstName": [
+            "Boris"
+          ],
+          "lastName": [
+            "Chaumette"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1313-2788",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bendjemaa N"
+          ],
+          "firstName": [
+            "Narjes"
+          ],
+          "lastName": [
+            "Bendjemaa"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chayet M"
+          ],
+          "firstName": [
+            "Mélanie"
+          ],
+          "lastName": [
+            "Chayet"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Millet B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Millet"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Adults Psychiatry, ICM-A-IHU, UPMC UMR S 975, Inserm U 1127, CNRS UMR 7225, GH Pitié-Salpêtrière, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaafari N"
+          ],
+          "firstName": [
+            "Nematollah"
+          ],
+          "lastName": [
+            "Jaafari"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Unité de Recherche Clinique en Psychiatrie Pierre Deniker, Centre Hospitalier Henri Laborit, INSERM CIC-P 1402, INSERM U 1084 Laboratoire Expérimental et Clinique en Neurosciences, Univ Poitiers, CHU Poitiers, Groupement De Recherche CNRS 3557, Poitiers, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Barhdadi A"
+          ],
+          "firstName": [
+            "Amina"
+          ],
+          "lastName": [
+            "Barhdadi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Université de Montréal, Beaulieu-Saucier Pharmacogenomics Center, Montréal Heart Institute, Montréal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lemieux Perreault LP"
+          ],
+          "firstName": [
+            "Louis-Philippe"
+          ],
+          "lastName": [
+            "Lemieux Perreault"
+          ],
+          "initials": [
+            "LP"
+          ],
+          "affiliation": [
+            "Université de Montréal, Beaulieu-Saucier Pharmacogenomics Center, Montréal Heart Institute, Montréal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Provost S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Provost"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Université de Montréal, Beaulieu-Saucier Pharmacogenomics Center, Montréal Heart Institute, Montréal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dubé MP"
+          ],
+          "firstName": [
+            "Marie-Pierre"
+          ],
+          "lastName": [
+            "Dubé"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Université de Montréal, Beaulieu-Saucier Pharmacogenomics Center, Montréal Heart Institute, Montréal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaillard R"
+          ],
+          "firstName": [
+            "Raphaël"
+          ],
+          "lastName": [
+            "Gaillard"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1297-4369",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Krebs MO"
+          ],
+          "firstName": [
+            "Marie-Odile"
+          ],
+          "lastName": [
+            "Krebs"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kebir O"
+          ],
+          "firstName": [
+            "Oussama"
+          ],
+          "lastName": [
+            "Kebir"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5805-0770",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1297-4369",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1313-2788",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2543035"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0174783"
+  ],
+  "abstractText": [
+    "In the Western world, between 1940 and 1970, more than 2 million people were exposed in utero to diethylstilbestrol (DES). In exposed individuals, and in their descendants, adverse outcomes have been linked to such exposure, including cancers, genital malformations, and less consistently, psychiatric disorders. We aimed to explore whether prenatal DES exposure would be associated with DNA methylation changes, and whether these epigenetic modifications would be associated with increased risk of psychosis.From 247 individuals born from mothers exposed to DES, we selected 69 siblings from 30 families. In each family, at least one sibling was exposed in utero to DES. We performed a methylome-wide association study using HumanMethylation450 DNA Analysis BeadChip® in peripheral blood. We analyzed methylation changes at individual CpGs or regions in exposed (n = 37) versus unexposed individuals (n = 32). We also compared exposed individuals with (n = 7) and without psychosis (n = 30).There were more individuals with schizophrenia in the DES-exposed group. We found no significant differences between exposed and unexposed individuals with respect to differentially methylated CpGs or regions. The largest difference was in a region near the promoter of an ADAMTS proteoglycanase gene (ADAMTS9). Compared to exposed individuals without psychosis, exposed individuals with psychosis had differential methylation in the region encompassing the gene encoding the zinc finger protein 57 (ZFP57).In utero exposure to DES was not associated with methylation changes at specific CpG or regions. In exposed individuals, however, psychosis was associated with specific methylomic modifications that could impact neurodevelopment and neuroplasticity."
+  ],
+  "affiliation": [
+    "Faculté de Médecine Paris Descartes, Centre Hospitalier Sainte-Anne, Service Hospitalo-Universitaire, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Clinical Trial",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prenatal Exposure Delayed Effects"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diethylstilbestrol"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotic Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Maternal Exposure"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "DNA Methylation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Epigenesis, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CpG Islands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Promoter Regions, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ADAMTS9 Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ADAMTS9 protein, human"
+          ],
+          "registryNumber": [
+            "EC 3.4.24.-"
+          ]
+        },
+        {
+          "name": [
+            "Zfp-57 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Diethylstilbestrol"
+          ],
+          "registryNumber": [
+            "731DCA35BT"
+          ]
+        },
+        {
+          "name": [
+            "ADAMTS9 Protein"
+          ],
+          "registryNumber": [
+            "EC 3.4.24.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5390994?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5390994"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0174783"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-28"
+  ],
+  "dateOfCreation": [
+    "2017-04-13"
+  ],
+  "dateOfRevision": [
+    "2017-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-13"
+  ],
+  "firstPublicationDate": [
+    "2017-04-13"
+  ]
+}

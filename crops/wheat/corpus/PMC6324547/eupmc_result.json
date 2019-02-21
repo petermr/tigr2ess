@@ -1,0 +1,346 @@
+{
+  "id": [
+    "30576505"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30576505"
+  ],
+  "pmcid": [
+    "PMC6324547"
+  ],
+  "doi": [
+    "10.1093/gigascience/giy157"
+  ],
+  "title": [
+    "LR_Gapcloser: a tiling path-based gap closer that uses long reads to complete genome assembly."
+  ],
+  "authorString": [
+    "Xu GC, Xu TJ, Zhu R, Zhang Y, Li SQ, Wang HW, Li JT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu GC"
+          ],
+          "firstName": [
+            "Gui-Cai"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "GC"
+          ],
+          "affiliation": [
+            "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu TJ"
+          ],
+          "firstName": [
+            "Tian-Jun"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "College of Marine Science, Zhejiang Ocean University, 1 Haida South Road, Zhoushan, 316022, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li SQ"
+          ],
+          "firstName": [
+            "Shang-Qi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "SQ"
+          ],
+          "affiliation": [
+            "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang HW"
+          ],
+          "firstName": [
+            "Hong-Wei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li JT"
+          ],
+          "firstName": [
+            "Jiong-Tang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "affiliation": [
+            "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2765599"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Background:Completing a genome is an important goal of genome assembly. However, many assemblies, including reference assemblies, are unfinished and have a number of gaps. Long reads obtained from third-generation sequencing (TGS) platforms can help close these gaps and improve assembly contiguity. However, current gap-closure approaches using long reads require extensive runtime and high memory usage. Thus, a fast and memory-efficient approach using long reads is needed to obtain complete genomes. Findings:We developed LR_Gapcloser to rapidly and efficiently close the gaps in genome assembly. This tool utilizes long reads generated from TGS sequencing platforms. Tested on de novo assembled gaps, repeat-derived gaps, and real gaps, LR_Gapcloser closed a higher number of gaps faster and with a lower error rate and a much lower memory usage than two existing, state-of-the art tools. This tool utilized raw reads to fill more gaps than when using error-corrected reads. It is applicable to gaps in the assemblies by different approaches and from large and complex genomes. After performing gap-closure using this tool, the contig N50 size of the human CHM1 genome was improved from 143 kb to 19 Mb, a 132-fold increase. We also closed the gaps in the Triticum urartu genome, a large genome rich in repeats; the contig N50 size was increased by 40%. Further, we evaluated the contiguity and correctness of six hybrid assembly strategies by combining the optimal TGS-based and next-generation sequencing-based assemblers with LR_Gapcloser. A proposed and optimal hybrid strategy generated a new human CHM1 genome assembly with marked contiguity. The contig N50 value was greater than 28 Mb, which is larger than previous non-reference assemblies of the diploid human genome. Conclusions:LR_Gapcloser is a fast and efficient tool that can be used to close gaps and improve the contiguity of genome assemblies. A proposed hybrid assembly including this tool promises reference-grade assemblies. The software is available at http://www.fishbrowser.org/software/LR_Gapcloser/."
+  ],
+  "affiliation": [
+    "Key Laboratory of Aquatic Genomics, Ministry of Agriculture and Rural Affairs, CAFS Key Laboratory of Aquatic Genomics and Beijing Key Laboratory of Fishery Biotechnology, Chinese Academy of Fishery Sciences, 150 Yongding Road, Beijing, 100141, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6324547?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6324547"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giy157"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "gca",
+        "rrid",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-22"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-01"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

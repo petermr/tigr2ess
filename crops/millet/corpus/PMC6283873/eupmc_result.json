@@ -1,0 +1,988 @@
+{
+  "id": [
+    "30523281"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30523281"
+  ],
+  "pmcid": [
+    "PMC6283873"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07669-x"
+  ],
+  "title": [
+    "The genomic landscape of molecular responses to natural drought stress in Panicum hallii."
+  ],
+  "authorString": [
+    "Lovell JT, Jenkins J, Lowry DB, Mamidi S, Sreedasyam A, Weng X, Barry K, Bonnette J, Campitelli B, Daum C, Gordon SP, Gould BA, Khasanova A, Lipzen A, MacQueen A, Palacio-Mejía JD, Plott C, Shakirov EV, Shu S, Yoshinaga Y, Zane M, Kudrna D, Talag JD, Rokhsar D, Grimwood J, Schmutz J, Juenger TE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lovell JT"
+          ],
+          "firstName": [
+            "John T"
+          ],
+          "lastName": [
+            "Lovell"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA. jlovell@hudsonalpha.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Jenkins J"
+          ],
+          "firstName": [
+            "Jerry"
+          ],
+          "lastName": [
+            "Jenkins"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7943-3997",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lowry DB"
+          ],
+          "firstName": [
+            "David B"
+          ],
+          "lastName": [
+            "Lowry"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "Department of Plant Biology, Michigan State University, East Lansing, 48824, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mamidi S"
+          ],
+          "firstName": [
+            "Sujan"
+          ],
+          "lastName": [
+            "Mamidi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3837-6121",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sreedasyam A"
+          ],
+          "firstName": [
+            "Avinash"
+          ],
+          "lastName": [
+            "Sreedasyam"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7336-7012",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weng X"
+          ],
+          "firstName": [
+            "Xiaoyu"
+          ],
+          "lastName": [
+            "Weng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barry K"
+          ],
+          "firstName": [
+            "Kerrie"
+          ],
+          "lastName": [
+            "Barry"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonnette J"
+          ],
+          "firstName": [
+            "Jason"
+          ],
+          "lastName": [
+            "Bonnette"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Campitelli B"
+          ],
+          "firstName": [
+            "Brandon"
+          ],
+          "lastName": [
+            "Campitelli"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Daum C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Daum"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gordon SP"
+          ],
+          "firstName": [
+            "Sean P"
+          ],
+          "lastName": [
+            "Gordon"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3431-5804",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gould BA"
+          ],
+          "firstName": [
+            "Billie A"
+          ],
+          "lastName": [
+            "Gould"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            "Department of Plant Biology, Michigan State University, East Lansing, 48824, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Khasanova A"
+          ],
+          "firstName": [
+            "Albina"
+          ],
+          "lastName": [
+            "Khasanova"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lipzen A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Lipzen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "MacQueen A"
+          ],
+          "firstName": [
+            "Alice"
+          ],
+          "lastName": [
+            "MacQueen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4606-1832",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Palacio-Mejía JD"
+          ],
+          "firstName": [
+            "Juan Diego"
+          ],
+          "lastName": [
+            "Palacio-Mejía"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7958-1586",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Plott C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Plott"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shakirov EV"
+          ],
+          "firstName": [
+            "Eugene V"
+          ],
+          "lastName": [
+            "Shakirov"
+          ],
+          "initials": [
+            "EV"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shu S"
+          ],
+          "firstName": [
+            "Shengqiang"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4336-8994",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshinaga Y"
+          ],
+          "firstName": [
+            "Yuko"
+          ],
+          "lastName": [
+            "Yoshinaga"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zane M"
+          ],
+          "firstName": [
+            "Matt"
+          ],
+          "lastName": [
+            "Zane"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Energy, Joint Genome Institute, Walnut Creek, 94598, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kudrna D"
+          ],
+          "firstName": [
+            "Dave"
+          ],
+          "lastName": [
+            "Kudrna"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, 85719, AZ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Talag JD"
+          ],
+          "firstName": [
+            "Jason D"
+          ],
+          "lastName": [
+            "Talag"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, 85719, AZ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rokhsar D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Rokhsar"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, 94720, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Grimwood J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Grimwood"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmutz J"
+          ],
+          "firstName": [
+            "Jeremy"
+          ],
+          "lastName": [
+            "Schmutz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8062-9172",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA. jschmutz@hudsonalpha.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Juenger TE"
+          ],
+          "firstName": [
+            "Thomas E"
+          ],
+          "lastName": [
+            "Juenger"
+          ],
+          "initials": [
+            "TE"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, The University of Texas at Austin, Austin, 78712, TX, USA. tjuenger@austin.utexas.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4606-1832",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4336-8994",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7958-1586",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7943-3997",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3431-5804",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7336-7012",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8062-9172",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3837-6121",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2756345"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5213"
+  ],
+  "abstractText": [
+    "Environmental stress is a major driver of ecological community dynamics and agricultural productivity. This is especially true for soil water availability, because drought is the greatest abiotic inhibitor of worldwide crop yields. Here, we test the genetic basis of drought responses in the genetic model for C4 perennial grasses, Panicum hallii, through population genomics, field-scale gene-expression (eQTL) analysis, and comparison of two complete genomes. While gene expression networks are dominated by local cis-regulatory elements, we observe three genomic hotspots of unlinked trans-regulatory loci. These regulatory hubs are four times more drought responsive than the genome-wide average. Additionally, cis- and trans-regulatory networks are more likely to have opposing effects than expected under neutral evolution, supporting a strong influence of compensatory evolution and stabilizing selection. These results implicate trans-regulatory evolution as a driver of drought responses and demonstrate the potential for crop improvement in drought-prone regions through modification of gene regulatory networks."
+  ],
+  "affiliation": [
+    "Genome Sequencing Center, HudsonAlpha Institute for Biotechnology, Huntsville, 35806, AL, USA. jlovell@hudsonalpha.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Panicum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quantitative Trait Loci"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stress, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Droughts"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6283873?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6283873"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07669-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-02"
+  ],
+  "dateOfCreation": [
+    "2018-12-08"
+  ],
+  "dateOfRevision": [
+    "2019-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-06"
+  ],
+  "firstPublicationDate": [
+    "2018-12-06"
+  ]
+}

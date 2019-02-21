@@ -1,0 +1,820 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6330537</article-id><article-id pub-id-type="doi">10.1111/pbi.12943</article-id><article-id pub-id-type="publisher-id">PBI12943</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Targeting intracellular transport combined with efficient uptake and storage significantly increases grain iron and zinc levels in rice</article-title><alt-title alt-title-type="left-running-head"><italic>Ting&#x02010;Ying Wu</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12943-cr-0001" contrib-type="author"><name><surname>Wu</surname><given-names>Ting&#x02010;Ying</given-names></name><xref ref-type="aff" rid="pbi12943-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12943-cr-0002" contrib-type="author"><name><surname>Gruissem</surname><given-names>Wilhelm</given-names></name><xref ref-type="aff" rid="pbi12943-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12943-cr-0003" contrib-type="author" corresp="yes"><name><surname>Bhullar</surname><given-names>Navreet K.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1657-0422</contrib-id><address><email>bhullarn@ethz.ch</email></address><xref ref-type="aff" rid="pbi12943-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12943-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Plant Biotechnology</named-content>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>ETH Zurich</institution>
+<named-content content-type="city">Zurich</named-content>
+<country country="CH">Switzerland</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +41(0)44 632 67 32; email <email>bhullarn@ethz.ch</email>)</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2019</year></pub-date><volume>17</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/pbi.2019.17.issue-1</issue-id><fpage>9</fpage><lpage>20</lpage><history><date date-type="received"><day>03</day><month>1</month><year>2018</year></date><date date-type="rev-recd"><day>18</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>28</day><month>4</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-17-9.pdf"/><abstract id="pbi12943-abs-0001"><title>Summary</title><p>Rice, a staple food for more than half of the world population, is an important target for iron and zinc biofortification. Current strategies mainly focus on the expression of genes for efficient uptake, long&#x02010;distance transport and storage. Targeting intracellular iron mobilization to increase grain iron levels has not been reported. Vacuole is an important cell compartment for iron storage and the <styled-content style="fixed-case">NATURAL RESISTANCE ASSOCIATED MACROPHAGE PROTEIN</styled-content> (<styled-content style="fixed-case">NRAMP</styled-content>) family of transporters export iron from vacuoles to cytosol when needed. We developed transgenic Nipponbare rice lines expressing <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic> under the control of the <italic><styled-content style="fixed-case">UBIQUITIN</styled-content></italic> or rice embryo/aleurone&#x02010;specific <italic>18&#x02010;<styled-content style="fixed-case">kD</styled-content>a Oleosin (Ole18)</italic> promoter together with <italic><styled-content style="fixed-case">NICOTIANAMINE SYNTHASE</styled-content></italic> (<italic>At<styled-content style="fixed-case">NAS</styled-content>1)</italic> and <italic><styled-content style="fixed-case">FERRITIN</styled-content></italic> (<italic>Pv<styled-content style="fixed-case">FER</styled-content></italic>), or expressing only <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> together. Iron and zinc were increased close to recommended levels in polished grains of the transformed lines, with maximum levels when <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic>,<italic> At<styled-content style="fixed-case">NAS</styled-content>1</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> were expressed together (12.67&#x000a0;&#x003bc;g/g <styled-content style="fixed-case">DW</styled-content> iron and 45.60&#x000a0;&#x003bc;g/g <styled-content style="fixed-case">DW</styled-content> zinc in polished grains of line <styled-content style="fixed-case">NFON</styled-content>16). Similar high iron and zinc levels were obtained in transgenic Indica <styled-content style="fixed-case">IR</styled-content>64 lines expressing the <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic>,<italic> At<styled-content style="fixed-case">NAS</styled-content>1</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> cassette (13.65&#x000a0;&#x003bc;g/g <styled-content style="fixed-case">DW</styled-content> iron and 48.18&#x000a0;&#x003bc;g/g <styled-content style="fixed-case">DW</styled-content> zinc in polished grains of line <styled-content style="fixed-case">IR</styled-content>64_1), equalling more than 90% of the recommended iron increase in rice endosperm. Our results demonstrate that targeting intracellular iron stores in combination with iron and zinc transport and endosperm storage is an effective strategy for iron biofortification. The increases achieved in polished <styled-content style="fixed-case">IR</styled-content>64 grains are of dietary relevance for human health and a valuable nutrition trait for breeding programmes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12943-kwd-0001">rice</kwd><kwd id="pbi12943-kwd-0002">iron biofortification</kwd><kwd id="pbi12943-kwd-0003">vacuolar iron</kwd><kwd id="pbi12943-kwd-0004"><italic><styled-content style="fixed-case">NAS</styled-content>1</italic></kwd><kwd id="pbi12943-kwd-0005"><italic><styled-content style="fixed-case">NRAMP</styled-content>3</italic></kwd><kwd id="pbi12943-kwd-0006"><italic><styled-content style="fixed-case">FERRITIN</styled-content></italic></kwd></kwd-group><funding-group><award-group><funding-source>ETH research</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="12"/><word-count count="8315"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12943</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:14.01.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12943-sec-0001"><title>Introduction</title><p>Deficiencies of essential nutrients including iron, zinc, vitamin A, vitamin B&#x02010;12, riboflavin, vitamin D and vitamin E are common and often coexist in affected populations. Iron and zinc deficiencies are widespread in developing countries but are also not uncommon in developed countries. Nearly 1.6 billion people in the world are affected by anaemia, to which iron deficiency anaemia contributes significantly (Stevens <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0051" ref-type="ref">2013</xref>) and zinc deficiency is also reported to affect one&#x02010;third of the world's population. Diet diversification, supplementation and food fortification are among the recommended approaches to relieve these deficiencies. However, these approaches are often difficult to implement due to various regional socio&#x02010;economic factors. Furthermore, oral iron supplementation can lead to side effects including nausea and gastric pain and could increase the severity of infectious diseases, such as malaria (Oppenheimer <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0041" ref-type="ref">1986</xref>; Sazawal <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0048" ref-type="ref">2006</xref>). Food fortification usually causes colour and flavour changes because bioavailable iron molecules often react with other food molecules (Abbaspour <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0001" ref-type="ref">2014</xref>; Hurrell, <xref rid="pbi12943-bib-0017" ref-type="ref">2002</xref>). Biofortification for increasing iron in staple crops is therefore a promising strategy to overcome these constraints. Rice is the second most produced staple crop worldwide and consumed by more than half of the world population. Brown rice, which includes the aleurone layer of the seed coat (bran), is relatively rich in micronutrient content. However, to avoid rancidity during storage, rice is usually polished, consequently removing the nutrient&#x02010;rich bran. The polished white rice (which is mostly the endosperm of the grain) contains mainly starch and is poor in iron, zinc and other micronutrients. Most of the commercially bred rice varieties contain only around 2&#x000a0;&#x003bc;g/g iron in the endosperm (Bouis <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0006" ref-type="ref">2011</xref>). A high content of phytate, which binds iron and zinc, in cereal grains further reduces iron and zinc bioavailability. Furthermore, it has not been possible to increase the endosperm iron concentration in rice via conventional breeding because of the limited genetic variability of endosperm iron content in the rice germplasm (Bouis <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0006" ref-type="ref">2011</xref>). Genetic engineering approaches, however, were successful in increasing the iron concentration in polished rice grains (Vasconcelos <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0060" ref-type="ref">2017</xref>).</p><p>The continuously developing knowledge on iron uptake, storage and translocation in rice has driven the design of iron biofortification approaches during the last few years. <italic>FERRITIN</italic> (<italic>FER</italic>)<italic>,</italic> a ubiquitous protein that can bind about 4500 iron atoms in a complex (Ford <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0012" ref-type="ref">1984</xref>; Harrison <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0015" ref-type="ref">1991</xref>), has been used to increase iron accumulation in the rice endosperm (Goto <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0013" ref-type="ref">1999</xref>; Lucca <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0033" ref-type="ref">2001</xref>; Oliva <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0039" ref-type="ref">2014</xref>; Vasconcelos <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0059" ref-type="ref">2003</xref>). Many laboratories also focused on strategies with potential to enhance iron uptake and translocation. For this, constitutive expression of <italic>NICOTIANAMINE SYNTHASE</italic> (<italic>NAS</italic>) involved in biosynthesis of deoxy&#x02010;mugineic acid (DMA), that is phytosiderophores, has been a widely used approach, with 2&#x02010; to 4.5&#x02010;fold increased iron concentrations obtained in polished grains (Johnson <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0020" ref-type="ref">2011</xref>; Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0030" ref-type="ref">2012</xref>; Masuda <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0034" ref-type="ref">2009</xref>). As nicotianamine (NA) produced by NAS and mugineic acids (MAs) can also bind Zn, accompanied zinc increases in the lines overexpressing NAS are frequently reported. Among the other genes encoding iron transporters, <italic>YELLOW STRIPE LIKE 2</italic> (<italic>OsYSL2</italic>) and <italic>IRON REGULATED TRANSPORTER 1</italic> (<italic>OsIRT1</italic>) have also been transformed into rice either alone or in combination with genes related to MA synthesis and varied levels of iron increase were found in the rice grains (Ishimaru <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0018" ref-type="ref">2010</xref>; Lee and An, <xref rid="pbi12943-bib-0028" ref-type="ref">2009</xref>; Tan <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0054" ref-type="ref">2015</xref>). YSL transporters are also known to transport zinc bound with MAs and NA. In comparison with the single&#x02010;gene strategies, constructs expressing combinations of genes involved in iron transport and uptake could achieve higher endosperm iron concentrations in rice (Boonyaves <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0005" ref-type="ref">2016</xref>; Trijatmiko <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0058" ref-type="ref">2016</xref>; Wirth <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0062" ref-type="ref">2009</xref>).</p><p>Cytosolic&#x02010;free Fe concentrations are very low in plant cells because most of the iron is stored in chloroplasts, mitochondria and vacuoles in nontoxic forms and used for the synthesis of Fe&#x02010;heme or Fe&#x02010;S clusters (Finney and O'Halloran, <xref rid="pbi12943-bib-0011" ref-type="ref">2003</xref>). Vacuoles have an important function in storing excess Fe and releasing it into the cytosol when the external Fe supply is suboptimal (Kim and Guerinot, <xref rid="pbi12943-bib-0021" ref-type="ref">2007</xref>; Lanquar <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0027" ref-type="ref">2010</xref>; Pich <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0043" ref-type="ref">2001</xref>). In Arabidopsis, the vacuolar membrane located VACUOLAR IRON TRANSPORTER 1 (AtVIT1) is responsible for iron uptake into vacuoles (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0022" ref-type="ref">2006</xref>). Oppositely, specific members of the NATURAL RESISTANCE ASSOCIATED MACROPHAGE PROTEIN (NRAMP) family mediate the efflux of iron from the vacuoles to the cytosol. NRAMP transporters localize to either intracellular vesicles, the vacuole or the plasma membrane depending on the plant species (Bereczky <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0004" ref-type="ref">2003</xref>; Lanquar <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0026" ref-type="ref">2005</xref>; Takahashi <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0053" ref-type="ref">2011</xref>; Thomine <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0057" ref-type="ref">2003</xref>). Arabidopsis AtNRAMP1, AtNRAMP3 and AtNRAMP4 mediate iron and cadmium transport, and <italic>AtNRAMP1</italic> is preferentially expressed in roots (Curie <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0008" ref-type="ref">2000</xref>; Thomine <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0056" ref-type="ref">2000</xref>). AtNRAMP3 and AtNRAMP4 are localized to the vacuolar membrane, and their genes are induced by iron deficiency (Lanquar <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0026" ref-type="ref">2005</xref>, <xref rid="pbi12943-bib-0027" ref-type="ref">2010</xref>; Thomine <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0057" ref-type="ref">2003</xref>). Among the seven <italic>NRAMP</italic> homologs identified in rice, <italic>OsNRAMP1</italic> is involved in iron uptake (Curie <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0008" ref-type="ref">2000</xref>) and is localized to the plasma membrane (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0053" ref-type="ref">2011</xref>). Gross and colleagues (Gross <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0014" ref-type="ref">2003</xref>) have discussed the homology between rice and Arabidopsis <italic>NRAMP</italic> genes in detail.</p><p>Utilizing vacuolar iron stores for increasing endosperm iron content has not been attempted to date. Here, we demonstrate that inter&#x02010; and intracellular iron mobilization can be effectively combined for biofortification strategies in rice. To accomplish this, we expressed <italic>AtNRAMP3</italic> under control of either the rice <italic>18&#x02010;kDa Oleosin</italic> (<italic>Ole18</italic>) or maize <italic>UBIQUITIN</italic> (<italic>Ubi</italic>) promoters together with the endosperm&#x02010;specific expression of <italic>PvFER</italic> alone or in combination with the constitutive expression of <italic>AtNAS1</italic>. Most of the transgenic lines (background cv. Nipponbare) had significant increases of iron and zinc in both unpolished and polished grains, with maximum endosperm iron levels in lines expressing <italic>AtNRAMP3</italic>,<italic> AtNAS1</italic> and <italic>PvFER</italic> together. Importantly, expression of all three genes in the popular rice mega&#x02010;variety IR64 resulted in iron concentrations equalling more than 90% of the recommended iron increase in rice grains.</p></sec><sec id="pbi12943-sec-0002"><title>Results</title><sec id="pbi12943-sec-0003"><title>Combined expression of <italic>AtNRAMP3</italic>,<italic> AtNAS1</italic> and <italic>PvFER</italic> increases iron and zinc concentrations in polished rice grains</title><p>We transformed the rice cultivar Nipponbare (NB) with four constructs expressing different combination of genes, abbreviated NFUN (<italic>pCaMV35S::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>AS1</italic>,<italic> pOsGLB&#x02010;1::Pv</italic>
+<underline underline-style="single"><italic>F</italic></underline>
+<italic>ER</italic>,<italic> pZm</italic>
+<underline underline-style="single"><italic>U</italic></underline>
+<italic>bi::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>RAMP3</italic>), NFON (<italic>pCaMV35S::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>AS1</italic>,<italic> pOsGLB&#x02010;1::Pv</italic>
+<underline underline-style="single"><italic>F</italic></underline>
+<italic>ER</italic>,<italic> pOs</italic>
+<underline underline-style="single"><italic>O</italic></underline>
+<italic>le18::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>RAMP3</italic>), FUN (<italic>pOsGLB&#x02010;1::Pv</italic>
+<underline underline-style="single"><italic>F</italic></underline>
+<italic>ER</italic>,<italic> pZm</italic>
+<underline underline-style="single"><italic>U</italic></underline>
+<italic>bi::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>RAMP3</italic>) and FON (<italic>pOsGLB&#x02010;1::Pv</italic>
+<underline underline-style="single"><italic>F</italic></underline>
+<italic>ER</italic>,<italic> pOs</italic>
+<underline underline-style="single"><italic>O</italic></underline>
+<italic>le18::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>RAMP3</italic>) (Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>a). Together, 16 independent single insertion lines for each of the NFUN, NFON and FUN constructs and 13 single insertion lines for the FON construct were selected and grown in subsequent generations (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S1</xref>). Based on iron concentration analysis of T2 grains, we selected five or six lines for each of the four constructs with highest endosperm iron concentration for further analysis in subsequent generations (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S2</xref>). All of the NFUN and FUN lines had increased iron concentrations in polished T3 grains, ranging from 8.09 to 11.69&#x000a0;&#x003bc;g/g DW, respectively, as compared to 2.12&#x000a0;&#x003bc;g/g DW iron in the NB control (Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>b). Similarly, NFON and FON transgenic lines had increased iron concentrations in polished grains ranging from 7.64 to 12.77&#x000a0;&#x003bc;g/g DW, with NFON 16 having a more than six&#x02010;fold higher endosperm iron concentration than the NB control (Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>b). In unpolished grains, NFUN and NFON lines had higher increases in iron concentrations compared to FUN and FON lines, with NFON 12 unpolished grains containing 29.75&#x000a0;&#x003bc;g/g DW iron (Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>b). Together, all transgenic rice lines had significantly higher iron concentrations in unpolished grains compared to NB grains. The transgene in NFON16, line with highest endosperm iron content, integrated into the first exon of a hypothetical protein encoding gene Os11&#x000a0;g0696100 (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S1</xref>b). In addition, all NFUN and NFON lines had significantly increased zinc concentrations in polished and unpolished T3 grains, ranging from 29.68 to 45.62&#x000a0;&#x003bc;g/g DW in polished grains as compared to 19.38&#x000a0;&#x003bc;g/g DW in the NB control and from 45.96 to 63.04&#x000a0;&#x003bc;g/g DW in unpolished grains compared to 29.54&#x000a0;&#x003bc;g/g DW in the NB control (Figure&#x000a0;<xref rid="pbi12943-fig-0002" ref-type="fig">2</xref>). Increases in iron and zinc concentrations were positively correlated in NFON lines. Copper concentrations were variable in some lines, while most lines had reduced manganese concentrations in the grains (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S3</xref>). Most transgenic plants were phenotypically similar to NB control plants and had comparable germination rates (Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S1</xref> and Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S4</xref>). Some of the NFON lines, however, had higher tiller numbers than NB (Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S1</xref>). With few exceptions, six grain&#x02010;quality parameters measured in the transgenic lines (grain length, grain width, chalkiness, amylose content, starch content, protein content) were similar to NB control plants (Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12943-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic representation of the gene cassettes, and iron concentrations in polished and unpolished T3 grains. (a) The design of four constructs used for transformation. <styled-content style="fixed-case">LB</styled-content>, T&#x02010;<styled-content style="fixed-case">DNA</styled-content> left border; <styled-content style="fixed-case">RB</styled-content>, T&#x02010;<styled-content style="fixed-case">DNA</styled-content> right border; t35S, cauliflower mosaic virus (Ca<styled-content style="fixed-case">MV</styled-content>) 35S terminator; <italic><styled-content style="fixed-case">PMI</styled-content></italic>,<italic><styled-content style="fixed-case">PHOSPHOMANNOSE ISOMERASE</styled-content></italic> gene; <italic>p35S</italic>,<italic> Ca<styled-content style="fixed-case">MV</styled-content>35S</italic> promoter; <italic><styled-content style="fixed-case">pU</styled-content>bi</italic>, maize <italic><styled-content style="fixed-case">UBIQUITIN</styled-content></italic> promoter; <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic>, Arabidopsis <italic><styled-content style="fixed-case">NATURAL RESISTANCE</styled-content>&#x02010;<styled-content style="fixed-case">ASSOCIATED MACROPHAGE PROTEIN</styled-content> 3</italic> gene; <italic>At<styled-content style="fixed-case">NAS</styled-content>1</italic>, Arabidopsis <italic><styled-content style="fixed-case">NICOTIANAMINE SYNTHASE</styled-content> 1</italic> gene; <italic><styled-content style="fixed-case">tNOS</styled-content></italic>,<italic><styled-content style="fixed-case">NOPALINE SYNTHASE</styled-content></italic> terminator; <italic><styled-content style="fixed-case">pG</styled-content>lb</italic>, rice <italic><styled-content style="fixed-case">GLOBULIN</styled-content>&#x02010;1</italic> promoter; <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic>,<italic> Phaseolus vulgaris <styled-content style="fixed-case">FERRITIN</styled-content></italic> gene; <italic><styled-content style="fixed-case">pO</styled-content>le 18</italic>, rice <italic>Oleosin 18</italic> gene promoter; Bam<styled-content style="fixed-case">HI</styled-content>, Bsp<styled-content style="fixed-case">EI</styled-content>, PstI and SphI represent restriction enzyme sites. (b) Iron concentrations in polished and unpolished T3 grains of lines expressing <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic>,<italic> At<styled-content style="fixed-case">NAS</styled-content>1</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> or <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> cassettes. Values are the average of three biological replicates. <styled-content style="fixed-case">NB</styled-content>, rice cultivar Nipponbare (control); <styled-content style="fixed-case">NFUN</styled-content>, plants expressing <italic><styled-content style="fixed-case">pCaMV</styled-content>35S::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>AS</italic></styled-content>
+<italic>1</italic>,<italic><styled-content style="fixed-case">pOsGLB</styled-content>&#x02010;1::Pv</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>F</italic></underline><italic>ER</italic></styled-content> and <italic><styled-content style="fixed-case">pZ</styled-content></italic>
+<styled-content style="fixed-case"><italic>m</italic><underline underline-style="single"><italic>U</italic></underline></styled-content>
+<italic>bi::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>RAMP</italic></styled-content>
+<italic>3</italic>;<styled-content style="fixed-case"> NFON</styled-content>, plants expressing <italic><styled-content style="fixed-case">pCaMV</styled-content>35S::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>AS</italic></styled-content>
+<italic>1</italic>,<italic><styled-content style="fixed-case">pOsGLB</styled-content>&#x02010;1::Pv</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>F</italic></underline><italic>ER</italic></styled-content> and <italic><styled-content style="fixed-case">pO</styled-content></italic>
+<styled-content style="fixed-case"><italic>s</italic><underline underline-style="single"><italic>O</italic></underline></styled-content>
+<italic>le18::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>RAMP</italic></styled-content>
+<italic>3</italic>;<styled-content style="fixed-case"> FUN</styled-content>, plants expressing <italic><styled-content style="fixed-case">pOsGLB</styled-content>&#x02010;1::Pv</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>F</italic></underline><italic>ER</italic></styled-content>, and <italic><styled-content style="fixed-case">pZ</styled-content></italic>
+<styled-content style="fixed-case"><italic>m</italic><underline underline-style="single"><italic>U</italic></underline></styled-content>
+<italic>bi::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>RAMP</italic></styled-content>
+<italic>3</italic>;<styled-content style="fixed-case"> FON</styled-content>, plants expressing <italic><styled-content style="fixed-case">pOsGLB</styled-content>&#x02010;1::Pv</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>F</italic></underline><italic>ER</italic></styled-content>, and <italic><styled-content style="fixed-case">pO</styled-content></italic>
+<styled-content style="fixed-case"><italic>s</italic><underline underline-style="single"><italic>O</italic></underline></styled-content>
+<italic>le18::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>RAMP</italic></styled-content>
+<italic>3</italic>. Black asterisks indicate statistically significantly higher values calculated using Student's <italic>t</italic>&#x02010;test as compared to the NB control (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01).</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-17-9-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12943-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Zinc concentrations in polished and unpolished T3 grains of lines expressing <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic>,<italic> At<styled-content style="fixed-case">NAS</styled-content>1</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> or <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic> alone. Values are the average of three biological replicates. Black asterisks indicate statistically significantly higher values calculated using Student's <italic>t</italic>&#x02010;test as compared to the <styled-content style="fixed-case">NB</styled-content> control (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01). See Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>a for the abbreviation of the gene cassettes.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-17-9-g002"/></fig><p>Together, the highest iron and zinc increases in the grains were observed in lines expressing the combination of NAS, FER and NRAMP (NFUN, NFON) as compared to the lines expressing FER and NRAMP only (FUN, FON) (Figures&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref> and <xref rid="pbi12943-fig-0002" ref-type="fig">2</xref>). The higher micronutrient concentrations in the NFON lines suggest that the <italic>Ole18</italic> promoter is equally (and in some lines even more) effective for the expression of <italic>AtNRAMP3</italic> compared to the <italic>Ubi</italic> promoter. Therefore, the <italic>Ole18</italic> promoter would be preferable for targeted and localized expression in biofortification strategies.</p></sec><sec id="pbi12943-sec-0004"><title>Grain iron concentration and gene expression are positively correlated</title><p>The expression of the transgenes was analysed in shoots and grains (embryo, endosperm and seed coat). As expected, <italic>AtNAS1</italic> was expressed in all analysed tissues of NFUN and NFON lines, while expression of <italic>PvFER</italic> was detected only in the endosperm (Figure&#x000a0;<xref rid="pbi12943-fig-0003" ref-type="fig">3</xref>a). <italic>AtNRAMP3</italic> was also expressed in all the tissues but more highly in shoots and embryos of NFUN and FUN transgenic lines (Figure&#x000a0;<xref rid="pbi12943-fig-0003" ref-type="fig">3</xref>a). As expected, <italic>AtNRAMP3</italic> expression was restricted to the embryo and seed coat in NFON and FON lines (Figure&#x000a0;<xref rid="pbi12943-fig-0003" ref-type="fig">3</xref>a). This was further confirmed by the detection of the AtNRAMP3 protein in these specific tissues (Figure&#x000a0;<xref rid="pbi12943-fig-0003" ref-type="fig">3</xref>b). In NFON lines, transgene expression in the embryo and endosperm was positively correlated with increased iron concentration in the polished grains, indicating a synergistic action of <italic>NAS</italic>,<italic> FER</italic> and <italic>NRAMP</italic> (Figure&#x000a0;<xref rid="pbi12943-fig-0003" ref-type="fig">3</xref>c). As constitutive ectopic expression of <italic>AtNRAMP3</italic> suppresses <italic>AtIRT1</italic> expression in Arabidopsis plants (Thomine <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0057" ref-type="ref">2003</xref>), we analysed the expression of the <italic>AtIRT1</italic> rice homolog <italic>OsIRT1</italic> in different tissues. Although the expression of <italic>OsIRT1</italic> was variable in different transgenic lines, we found no indication that <italic>OsIRT1</italic> expression was suppressed (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12943-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Transgene expression and At<styled-content style="fixed-case">NRAMP</styled-content>3 protein levels in seedlings, embryo, endosperm and seed coats. (a) <styled-content style="fixed-case">qRT</styled-content>&#x02013;<styled-content style="fixed-case">PCR</styled-content> results of <italic>At<styled-content style="fixed-case">NAS</styled-content>1</italic>,<italic> Pv<styled-content style="fixed-case">FER</styled-content></italic> and <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic> expression level in Nipponbare control (<styled-content style="fixed-case">NB</styled-content>) and the selected transgenic lines. (b) Western blot analysis of At<styled-content style="fixed-case">NRAMP</styled-content>3 protein abundance in different tissues. Total protein extraction from <styled-content style="fixed-case">NB</styled-content> served as a negative control. Ponceau (<styled-content style="fixed-case">PO</styled-content>&#x02010;S) staining: loading control. Individual numbers indicate independent transgenic lines. (c) Correlation between iron content and gene expression in <styled-content style="fixed-case">NFON</styled-content> plants (lines 16, 12, 13, 48, 18, 7). Individual lines are represented by coloured dots. See Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>a for the abbreviation of the gene cassettes.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-17-9-g003"/></fig></sec><sec id="pbi12943-sec-0005"><title>NFUN and NFON lines are more tolerant to iron&#x02010;deficient growth conditions</title><p>We determined the iron and zinc distribution in the shoots and roots of selected transgenic lines for each construct when grown in iron&#x02010;sufficient and iron&#x02010;deficient conditions. In iron&#x02010;sufficient conditions, most of the lines showed no significant increase in iron accumulation in the shoots and roots, except for NFON 16 that had a 1.5&#x02010;fold higher iron concentration in shoots and 1.3&#x02010;fold higher iron concentration in roots (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>a). When grown in iron&#x02010;deficient conditions, most of the NFUN, NFON and FUN lines had increased iron concentrations in the shoots whereas FON lines had similar iron concentrations as NB (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>a). NFUN lines had the highest iron concentration in shoots, ranging from 1.4&#x02010;fold to 1.6&#x02010;fold higher than NB. The iron concentration in roots was lower in NFUN, NFON and FUN lines, with a nearly two&#x02010;fold reduction in NFUN lines, while FON lines had similar root iron concentrations as NB roots (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>a). In iron&#x02010;sufficient conditions, NFON and NFUN lines also had increased shoot zinc levels compared to NB, but root zinc levels were similar in all transgenic lines and the control (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>b). In contrast, in iron&#x02010;deficient conditions shoot zinc concentrations were higher in NFON lines but 1.5&#x02010;fold and two&#x02010;fold lower in NFUN and FUN lines, respectively, compared to NB (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>b). Shoot and root fresh weight was similar for transgenic plants and NB control when grown in iron&#x02010;sufficient conditions (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>c,d). In iron&#x02010;deficient growth condition, however, NFUN, NFON and FUN lines had higher shoot and root fresh weight than NB, while FON transgenic plants showed no differences (Figure&#x000a0;<xref rid="pbi12943-fig-0004" ref-type="fig">4</xref>c,d). These results indicate that the expression of <italic>AtNRAMP3</italic> and/ or <italic>AtNAS1</italic> facilitates efficient iron translocation from roots to shoots, leading to increased tolerance to low&#x02010;iron condition.</p><fig fig-type="Figure" xml:lang="en" id="pbi12943-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Characterization of selected transgenic lines under iron&#x02010;sufficient and iron&#x02010;deficient growth conditions. (a) Iron and (b) zinc concentrations in shoots and roots of 28&#x02010;day&#x02010;old seedlings. (c) Fresh weight of shoots and (d) roots. Samples were collected from 20 plants of each independent transgenic line, and Student's <italic>t</italic>&#x02010;test was used for statistical analysis. Black and red asterisks indicate statistically significantly higher and lower values as compared to the <styled-content style="fixed-case">NB</styled-content> control (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01), respectively. See Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>a for the abbreviation of the gene cassettes.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-17-9-g004"/></fig><p>Furthermore, we analysed the expression of nine endogenous genes involved in iron homeostasis in shoots and roots of plants grown under iron&#x02010;deficient and iron&#x02010;sufficient conditions. In iron&#x02010;sufficient conditions, most of the genes were expressed at similar levels in both transgenic and NB plants, but their expression was significantly different in iron&#x02010;deficient conditions (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S6</xref>).</p></sec><sec id="pbi12943-sec-0006"><title>Transgenic plants do not accumulate more cadmium in grains</title><p>Arabidopsis lines that overexpress <italic>AtNRAMP3</italic> accumulate more cadmium in leaves and roots (Thomine <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0056" ref-type="ref">2000</xref>, <xref rid="pbi12943-bib-0057" ref-type="ref">2003</xref>). We determined cadmium concentration in shoots, roots and grains of our transgenic rice plants grown in a hydroponic solution containing cadmium. The transgenic plants had similar cadmium concentrations compared to the NB control, ranging from 36.24 to 50.00&#x000a0;&#x003bc;g/g DW in shoots and from 1136.34 to 1356.58&#x000a0;&#x003bc;g/g DW in roots (Figure&#x000a0;<xref rid="pbi12943-fig-0005" ref-type="fig">5</xref>). The NFON plants had significantly higher iron concentration in the shoots as compared to NB and NFUN plants (Figure&#x000a0;<xref rid="pbi12943-fig-0005" ref-type="fig">5</xref>a). Importantly, cadmium concentrations in polished NFUN and NFON grains (2.62&#x02013;4.9&#x000a0;&#x003bc;g/g DW) were comparable to NB grains (4.15&#x000a0;&#x003bc;g/g DW) (Figure&#x000a0;<xref rid="pbi12943-fig-0005" ref-type="fig">5</xref>b). Therefore, the ectopic expression of <italic>AtNRAMP3</italic> in rice did not increase cadmium concentrations in the grains, shoots or roots of the transgenic plants.</p><fig fig-type="Figure" xml:lang="en" id="pbi12943-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Cadmium and iron accumulation in polished T4 grains, shoots and roots of T3 plants when grown in hydroponic solution containing CdCl<sub>2</sub>. (a) Cadmium and iron content in shoots and roots of selected <styled-content style="fixed-case">NFUN</styled-content> and <styled-content style="fixed-case">NFON</styled-content> plants. Brown triangle, iron concentration in roots; brown circle, cadmium concentration in roots; green triangle, iron concentration in shoots; green circle, cadmium concentration in shoots. (b) Cadmium and iron contents in polished grains of selected <styled-content style="fixed-case">NFUN</styled-content> and <styled-content style="fixed-case">NFON</styled-content> plants. Black asterisks indicate statistically significantly higher values as compared to the <styled-content style="fixed-case">NB</styled-content> control (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01), respectively. See Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>a for the abbreviation of the gene cassettes.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-17-9-g005"/></fig></sec><sec id="pbi12943-sec-0007"><title>IR64 lines expressing <italic>NRAMP</italic>,<italic> NAS</italic> and <italic>FER</italic> have dietary significant levels of iron and zinc in their grains</title><p>Based on the results with cv. Nipponbare, we transformed Indica rice cv. IR64 with the NFON construct (<italic>pCaMV35S::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>AS1</italic>,<italic> pOsGLB&#x02010;1::Pv</italic>
+<underline underline-style="single"><italic>F</italic></underline>
+<italic>ER</italic>, and <italic>pOs</italic>
+<underline underline-style="single"><italic>O</italic></underline>
+<italic>le 18::At</italic>
+<underline underline-style="single"><italic>N</italic></underline>
+<italic>RAMP3</italic>; Figure&#x000a0;<xref rid="pbi12943-fig-0001" ref-type="fig">1</xref>a). Five single insertion lines were selected for further analysis (Figure&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S7</xref>). The IR64 transgenic plants had increased endosperm iron concentration of up to 13.65&#x000a0;&#x003bc;g/g DW in the polished grains and 21.38&#x000a0;&#x003bc;g/g DW in the unpolished grains, as compared to 2.72 and 13.24&#x000a0;&#x003bc;g/g DW iron in the polished and unpolished grains of IR64 control plants, respectively (Figure&#x000a0;<xref rid="pbi12943-fig-0006" ref-type="fig">6</xref>a). Both polished and unpolished grains of the transgenic plants also had significantly increased zinc concentrations, with the highest zinc concentration of 48.18&#x000a0;&#x003bc;g/g DW in the polished grains of IR64_1 (Figure&#x000a0;<xref rid="pbi12943-fig-0006" ref-type="fig">6</xref>b). Expression of <italic>AtNAS1</italic> was detected in shoots, embryo and endosperm, while <italic>AtNRAMP3</italic> was expressed only in the embryo and <italic>PvFER</italic> only in the endosperm (Figure&#x000a0;<xref rid="pbi12943-fig-0006" ref-type="fig">6</xref>c). The transgenic plants were phenotypically similar to the IR64 control in greenhouse conditions, except for IR64_12 line which had a smaller grain size (Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12943-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Iron and zinc concentration in polished and unpolished T2 grains of Indica cv. <styled-content style="fixed-case">IR</styled-content>64 expressing <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic>,<italic> At<styled-content style="fixed-case">NAS</styled-content>1</italic> and <italic>Pv<styled-content style="fixed-case">FER</styled-content></italic>. (a,b) Values are the average of three biological replicates. <styled-content style="fixed-case">IR</styled-content>64 (control). Numbers indicate independent single insertion lines expressing <italic><styled-content style="fixed-case">pCaMV</styled-content>35S::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>AS</italic></styled-content>
+<italic>1</italic>,<italic><styled-content style="fixed-case">pOsGLB</styled-content>&#x02010;1::Pv</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>F</italic></underline><italic>ER</italic></styled-content> and <italic><styled-content style="fixed-case">pO</styled-content></italic>
+<styled-content style="fixed-case"><italic>s</italic><underline underline-style="single"><italic>O</italic></underline></styled-content>
+<italic>le18::At</italic>
+<styled-content style="fixed-case"><underline underline-style="single"><italic>N</italic></underline><italic>RAMP</italic></styled-content>
+<italic>3</italic>. (c) <styled-content style="fixed-case">qRT</styled-content>&#x02013;<styled-content style="fixed-case">PCR</styled-content> results of <italic>At<styled-content style="fixed-case">NAS</styled-content>1</italic>,<italic> Pv<styled-content style="fixed-case">FER</styled-content></italic> and <italic>At<styled-content style="fixed-case">NRAMP</styled-content>3</italic> expression levels in <styled-content style="fixed-case">IR</styled-content>64 (control) and selected transgenic lines.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-17-9-g006"/></fig></sec></sec><sec id="pbi12943-sec-0008"><title>Discussion</title><p>Iron biofortification in rice has been variably successful in increasing endosperm iron content. In general, strategies combining multiple genes achieve higher increases in rice endosperm iron content as compared to single&#x02010;gene strategies. To provide 30% of the dietary estimated average requirement (EAR), rice lines containing 15&#x000a0;&#x003bc;g/g DW iron and 28&#x000a0;&#x003bc;g/g DW zinc in polished grains are required (Bouis <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0006" ref-type="ref">2011</xref>). Transgenic rice lines reported to date have iron concentrations in the range of 6&#x02013;19&#x000a0;&#x003bc;g/g DW (Johnson <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0020" ref-type="ref">2011</xref>; Masuda <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0034" ref-type="ref">2009</xref>; Trijatmiko <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0058" ref-type="ref">2016</xref>; Wirth <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0062" ref-type="ref">2009</xref>). The IR64 transformed lines expressing <italic>NAS</italic> and <italic>FERRITIN</italic> reported by Trijatmiko and colleagues (Trijatmiko <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0058" ref-type="ref">2016</xref>) grown under field conditions contained around 15&#x000a0;&#x003bc;g/g DW iron in polished grains. These increases are promising; however, the best performing lines reported contain two transgene cassette copies inserted as an inverted repeat. Transgenic plants with an inverted transgene repeat could be problematic, both from a practical and from regulatory point of view. First, two or more insertions of transgenes often result in epigenetic transgene silencing in subsequent plant generations (Kumpatla and Hall, <xref rid="pbi12943-bib-0025" ref-type="ref">1998</xref>; Rajeevkumar <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0045" ref-type="ref">2015</xref>). Second, using an inverted transgene cassette repeat in breeding programs or crop production would require a regulatory approval of uncertain, but likely negative outcome. Consequently, iron&#x02010;biofortified rice lines will be most successful when containing a single&#x02010;copy transgene cassette insertion for high&#x02010;iron concentration that is stably inherited and that can be bred efficiently into widely grown rice cultivars.</p><p>Here, we expand our biofortification strategies by combining increased iron uptake and storage with efficient intracellular iron mobilization. The expression of <italic>AtNAS1</italic> increases NA and DMA synthesis, both of which facilitate iron transport within the plants (Alvarez&#x02010;Fernandez <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0002" ref-type="ref">2014</xref>; Wang <italic>et al</italic>., <xref rid="pbi12943-bib-0061" ref-type="ref">2013</xref> Aoyama <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0003" ref-type="ref">2009</xref>; Rellan&#x02010;Alvarez <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0046" ref-type="ref">2008</xref>). Additionally, we reasoned that expression of <italic>AtNRAMP3</italic> should remobilize iron from vacuole stores to the cytosol, which can then be transported to other tissues. By expressing <italic>AtNRAMP3</italic> under control of the <italic>Ole18</italic> promoter, we remobilized iron from the iron&#x02010;rich aleurone layer for transport to the endosperm. The endosperm&#x02010;specific expression of <italic>PvFER</italic> allows for effective storage of iron in the endosperm of the grains. We demonstrate that combining these genes can increase iron content more than six&#x02010;fold higher in polished seeds in two major rice cultivars, Nipponbare and IR64. The transformed IR64 lines contain up to 13.65&#x000a0;&#x003bc;g/g DW iron in polished grains, which is more than 90% of the recommended target increase of 15&#x000a0;&#x003bc;g/g DW for rice grains. The highest zinc concentration of 48&#x000a0;&#x003bc;g/g DW in transformed IR64 lines is equivalent to 170% of the recommended increase of 28&#x000a0;&#x003bc;g/g DW.</p><p>Our transgenic rice lines expressing <italic>AtNARMP3</italic>,<italic> AtNAS1</italic> and <italic>PvFER</italic> contain higher iron and zinc concentrations in the grains compared to lines expressing <italic>AtNRAMP3</italic> and <italic>PvFER</italic> only. In NFON lines with highest iron grain concentrations, <italic>AtNAS1</italic> is constitutively expressed while the <italic>AtNRAMP3</italic> gene and <italic>PvFER</italic> are regulated by the rice <italic>Ole18</italic> and <italic>Glb</italic> promoters, respectively. The <italic>Ole18</italic> promoter directs strong expression in the embryo and aleurone layer of rice grains primarily from 7 to 17&#x000a0;days after flowering (DAF), whereas the <italic>Glb</italic> promoter is most active between 12 and 17 DAF mostly in the endosperm (Qu le and Takaiwa, <xref rid="pbi12943-bib-0044" ref-type="ref">2004</xref>). The aleurone layer provides nutrients to the developing endosperm and together with the embryo and endosperm constitutes a symplast connected by plasmodesmata that allows efficient transport and distribution of nutrients during early grain filling (Ishimaru <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0019" ref-type="ref">2011</xref>; Thomine and Lanquar, <xref rid="pbi12943-bib-0055" ref-type="ref">2011</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0064" ref-type="ref">2014</xref>; Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0065" ref-type="ref">2003</xref>). Therefore, it is likely that mobilizing iron from the vacuole to the cytosol in aleurone cells and embryo scutellum could facilitate iron transport to the endosperm. This is supported by the strong correlation between iron concentrations and transgene expression in the seed tissues of NFON lines, demonstrating that targeted expression of <italic>AtNAS1</italic>,<italic> PvFER</italic> and <italic>AtNRAMP3</italic> is an effective strategy for increasing iron accumulation in the endosperm. Importantly, iron mobilization as a result of <italic>AtNRAMP3</italic> expression did not affect growth and seed germination of the transformed plants. Endosperm zinc concentrations were also higher in most of NFUN, NFON, FUN and FON lines compared to the Nipponbare control. The highest zinc concentrations were found in NFUN and NFON lines that express all transgenes, consistent with previous reports that rice lines with high grain iron concentration, particularly those expressing <italic>NAS,</italic> usually have higher grain zinc concentration as well (Boonyaves <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0005" ref-type="ref">2016</xref>; Douchkov <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0010" ref-type="ref">2005</xref>; Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0029" ref-type="ref">2009</xref>; Wirth <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0062" ref-type="ref">2009</xref>).</p><p>Our results also show that expression of <italic>AtNRAMP3</italic> and/or <italic>AtNAS1</italic> in NFUN, NFON and FUN lines increases their tolerance to low&#x02010;iron conditions. The transgenic rice plants transport more iron from roots to shoots in iron&#x02010;deficient growth conditions, similar to transgenic tobacco plants expressing <italic>AtNAS1</italic> that accumulated more iron in leaves in low&#x02010;iron growth conditions and therefore were more tolerant to iron deficiency (Douchkov <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0010" ref-type="ref">2005</xref>). High&#x02010;iron&#x02010;biofortified rice expressing <italic>HvNAS</italic>,<italic> HvNAAT</italic> and <italic>HvIDS3</italic> is also more tolerant to iron deficiency conditions in hydroponic culture and calcareous soil (Masuda <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0036" ref-type="ref">2013</xref>). Expression of <italic>AtNRAMP3</italic> alone can rescue the hypersensitive iron starvation phenotype of the Arabidopsis <italic>atnr3nr4</italic> double mutant (Lanquar <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0026" ref-type="ref">2005</xref>). Together, the tolerance of our transgenic lines to iron deficiency can be explained by the expression of <italic>AtNAS1</italic> and increased cytosolic iron availability in vegetative tissues as the result of <italic>AtNRAMP3</italic> expression. Similar to Arabidopsis plants expressing <italic>AtNRAMP3</italic> that have reduced root and shoot zinc and manganese levels in iron deficiency conditions (Thomine <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0057" ref-type="ref">2003</xref>), we also found reduced zinc concentrations in NFUN and FUN plants compared to the Nipponbare control in iron deficiency conditions. However, NFON and FON plants did not differ significantly from the Nipponbare control plants in their shoot and root zinc concentrations when grown in the same conditions. This is likely due to a localized expression of <italic>AtNRAMP3</italic> in the NFON and FON plants.</p><p>Metal transporters often have a broader specificity; that is, transporters facilitating the uptake of essential metal ions including Fe, Zn, Cu and Mn may also transport heavy metal ions including cadmium (Cd). Particularly, Zn&#x02010;specific transporters can cotransport Cd, and the NRAMP transporter family is known to transport Cd as well (DalCorso <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0009" ref-type="ref">2010</xref>; Olsen and Palmgren, <xref rid="pbi12943-bib-0040" ref-type="ref">2014</xref>; Papoyan <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0042" ref-type="ref">2007</xref>). Thus, it is possible that expression of iron transporters to develop iron&#x02010;biofortified rice may also cause the accumulation of nondesired toxic metals that could be detrimental to human health. The results of hydroponics experiments demonstrate that our transgenic rice lines did not have higher Cd concentrations in polished grains compared to the Nipponbare control. This supports other studies that also reported no increases in the Cd accumulation in grains of high&#x02010;iron&#x02010;biofortified rice (Masuda <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0035" ref-type="ref">2012</xref>; Trijatmiko <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0058" ref-type="ref">2016</xref>).</p><p>Together, the combinatorial and targeted expression of <italic>AtNAS1</italic>,<italic> AtNRAMP3</italic> and <italic>PvFER</italic> is a novel and promising strategy for achieving significant iron and zinc increases in polished rice grains. The IR64 lines with highest iron concentration we report here are now important candidates for the development of agronomically robust rice mega&#x02010;varieties with improved nutritional benefits for human health.</p></sec><sec id="pbi12943-sec-0009"><title>Experimental procedures</title><sec id="pbi12943-sec-0010"><title>DNA construct, rice transformation and plant growth conditions</title><p>The full&#x02010;length <italic>AtNRAMP3</italic> genomic sequence was amplified using a forward primer containing a <italic>BamHI</italic> site and a reverse primer with a <italic>BspEI</italic> site (Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S4</xref>). The fragment was subsequently inserted into the <italic>BamHI</italic>&#x02010; and <italic>BspEI</italic>&#x02010;digested <italic>OsNAS2&#x02010;PbskII(&#x02010;)</italic> vector (Singh <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0049" ref-type="ref">2017a</xref>,<xref rid="pbi12943-bib-0050" ref-type="ref">b</xref>) to generate <italic>pUbi::AtNRAMP3::tNOS</italic> fragment. In parallel, the <italic>PstI</italic> site in the <italic>Ubi</italic> promoter contained in the <italic>OsNAS2&#x02010;PbskII(&#x02010;)</italic> construct was changed by a point mutation to use the site for subsequent cloning steps. The <italic>pCAMBIA&#x02010;1300PMI&#x02010;NASFER</italic> vector containing the <italic>AtNAS1</italic> and <italic>PvFER</italic> genes was cut at the <italic>PstI</italic> site and the <italic>pUbi::AtNRAMP3::tNOS</italic> fragment was inserted to generate the NFUN cassette. Similarly, <italic>pOle18</italic> promoter sequence was amplified using a forward primer containing <italic>PstI</italic> and <italic>SphI</italic> sites, and a reverse primer containing a <italic>BamHI</italic> site, and then inserted into <italic>pUbi::AtNRAMP3&#x02010;PbskII(&#x02010;)</italic> digested with <italic>SphI</italic> and <italic>BamHI</italic> to generate <italic>pOle18::AtNRAMP3::tNOS</italic>. The <italic>pCAMBIA&#x02010;1300PMI&#x02010;NASFER</italic> vector was then digested at the <italic>PstI</italic> site and the <italic>pOle18::AtNRAMP3::tNOS</italic> fragment was inserted to generate the NFON cassette. For the FUN and FON constructs, <italic>pCAMBIA&#x02010;1300PMI&#x02010;NASFER</italic> was digested at the <italic>XbaI</italic> and <italic>PstI</italic> sites to obtain the <italic>pGlb::PvFERRITIN::tNOS</italic> fragment, which was subsequently inserted into <italic>pCAMBIA&#x02010;1300PMI</italic> to generate the <italic>pCAMBIA&#x02010;1300PMI&#x02010;FER</italic> vector. The <italic>pCAMBIA&#x02010;1300PMI&#x02010;FER</italic> vector was cut at the <italic>PstI</italic> site, and the <italic>pUbi::AtNRAMP3::tNOS</italic> or <italic>pOle18::AtNRAMP3::tNOS</italic> fragments were inserted to generate the FUN or FON cassettes, respectively. These four vectors were transformed into <italic>Oryza sativa ssp. Japonica cv</italic>. Nipponbare, and NFON was additionally transformed into <italic>Indica</italic> IR64 using <italic>Agrobacterium tumefaciens</italic> strain EHA105 (Hood <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0016" ref-type="ref">1993</xref>). Transformation, selection and regeneration followed an established protocol (Nishimura <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0037" ref-type="ref">2006</xref>). Candidate transformants were first screened for the presence of <italic>AtNRAMP3</italic>,<italic> AtNAS1</italic> and <italic>PvFER</italic> using PCR. Southern blot hybridization using digoxigenin (DIG) labelling was performed using <italic>PmlI</italic>&#x02010;digested genomic DNA isolated from the transgenic lines to select lines with single&#x02010;copy cassette insertions. The PCR&#x02010;amplified <italic>PMI</italic> DNA fragment was used as a probe to detect the transgene cassette. The primer sequences used for cloning, sequence verification and PCR are provided in Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S4</xref>. Regions flanking the transgene in NFON16 were amplified using TAIL&#x02010;PCR (Liu and Whittier, <xref rid="pbi12943-bib-0031" ref-type="ref">1995</xref>). In brief, three consecutive PCRs were performed using three arbitrary primers and nested specific primers (Table&#x000a0;<xref rid="pbi12943-sup-0001" ref-type="supplementary-material">S5</xref>). All TAIL&#x02010;PCRs were performed in 20&#x000a0;&#x003bc;L reaction volumes. The first TAIL&#x02010;PCR was performed using approximately 100&#x000a0;ng template DNA. The second PCR was performed using a 1:40 dilution of the preceding PCR and the third PCR using 1&#x000a0;&#x003bc;L of the PCR product of the second TAIL&#x02010;PCR. Cycling conditions were as specified by Liu and Whittier (<xref rid="pbi12943-bib-0031" ref-type="ref">1995</xref>). PCR products were sequenced by Microsynth AG (Balgach, Switzerland).</p><p>The plants were grown in commercial soil &#x02018;ETH Soil mixture 1' &#x02013; Ricoter composition (25% field soil, sterile, 0&#x02010;15&#x000a0;mm; 25% bark mulch; 20% sand, washed, 0&#x02013;2&#x000a0;mm and 30% white peat, 7&#x02013;20&#x000a0;mm) under greenhouse conditions in 80% humidity at 30&#x000a0;&#x000b0;C with 12&#x02010;h light and 60% humidity at 22&#x000a0;&#x000b0;C with 12&#x02010;h dark. Quantification of divalent metal ions and transgene expression was conducted using T2 and T3 grains.</p></sec><sec id="pbi12943-sec-0011"><title>Iron deficiency and cadmium excess treatment in hydroponic culture</title><p>Transgenic and Nipponbare (NB) seeds were germinated <italic>in&#x000a0;vitro</italic> for 5&#x000a0;days in Petri dishes on a H<sub>2</sub>O&#x02010;moistened filter paper and subsequently transferred into containers (with tip holes) containing 400&#x000a0;mL hydroponic solutions for 7&#x000a0;days. Solutions for hydroponic growth were prepared according to established protocols (Boonyaves <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0005" ref-type="ref">2016</xref>; Kobayashi <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0023" ref-type="ref">2005</xref>), that is, using 0.70&#x000a0;m<sc>m</sc> K<sub>2</sub>SO<sub>4</sub>, 0.10&#x000a0;m<sc>m</sc> KCl, 0.10&#x000a0;m<sc>m</sc> KH<sub>2</sub>PO<sub>4</sub>, 2.0&#x000a0;m<sc>m</sc> Ca(NO<sub>3</sub>)<sub>2</sub>, 0.50&#x000a0;m<sc>m</sc> MgSO<sub>4</sub>, 10&#x000a0;&#x003bc;<sc>m</sc> H<sub>3</sub>BO<sub>3</sub>, 0.50&#x000a0;&#x003bc;<sc>m</sc> MnSO<sub>4</sub>, 0.20&#x000a0;&#x003bc;<sc>m</sc> CuSO<sub>4</sub>, 0.01&#x000a0;&#x003bc;<sc>m</sc> (NH4)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>, and 0.5&#x000a0;&#x003bc;<sc>m</sc> ZnSO<sub>4</sub>, with different iron concentrations added as Fe(III)&#x02010;EDTA according to the treatment (normal condition: 100&#x000a0;&#x003bc;<sc>m</sc>; iron&#x02010;deficient condition: 10&#x000a0;&#x003bc;<sc>m</sc>). For the iron&#x02010;deficient condition, plants were grown in hydroponic solutions containing 10&#x000a0;&#x003bc;<sc>m</sc> Fe(III)&#x02010;EDTA for 14&#x000a0;days. Plants grown in hydroponic solutions containing 100&#x000a0;&#x003bc;<sc>m</sc> Fe(III)&#x02010;EDTA served as control. Solutions were changed every 2&#x000a0;days to avoid any precipitation and contamination. In case of Cd excess treatment, plants were grown in hydroponic solutions containing 50&#x000a0;&#x003bc;<sc>m</sc> CdCl<sub>2</sub> and shoot and root samples were collected from 21&#x02010;day&#x02010;old seedlings. To analyse grain Cd concentrations, plants were grown until maturity in a hydroponic solution containing 10&#x000a0;&#x003bc;<sc>m</sc> CdCl<sub>2</sub> in greenhouse conditions in 80% humidity at 30&#x000a0;&#x000b0;C with 12&#x02010;h light and 60% humidity at 22&#x000a0;&#x000b0;C with 12&#x02010;h dark.</p></sec><sec id="pbi12943-sec-0012"><title>Metal ion measurements</title><p>Grain samples were dehusked to obtain unpolished brown grains. The dehusked grains were processed using a grain polisher (Kett grain polisher &#x02018;Pearlest&#x02019;, Kett Electric Laboratory, Tokyo, Japan) for 1&#x000a0;min. Shoot and root samples from hydroponic culture were dried at 60&#x000a0;&#x000b0;C for 5&#x000a0;days. Two hundred milligrams of each ground grains sample and 50&#x02013;100&#x000a0;mg of root or shoot samples were boiled in 15&#x000a0;mL of 65% v/v HNO<sub>3</sub> solution at 120&#x000a0;&#x000b0;C for 90&#x000a0;min. Three millilitres of 30% v/v H<sub>2</sub>O<sub>2</sub> was subsequently added and continuously boiled at 120&#x000a0;&#x000b0;C for 90&#x000a0;min. Metal concentrations were determined using inductively coupled plasma&#x02013;optical emission spectroscopy (ICP&#x02010;OES) (Varian Vista&#x02010;MPX CCD Simultaneous ICP&#x02010;OES). The wavelength used for iron, zinc, manganese and copper were 238.204, 213.857, 257.610 and 324.754&#x000a0;nm, respectively. The National Institute of Standards and Technology (NIST) rice flour standard 1658a was treated and analysed in the same manner and used as internal control for every measurement. Data were analysed using Student's <italic>t</italic>&#x02010;test. The criteria of <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 were used to determine statistically significant differences among the tested lines and the control.</p></sec><sec id="pbi12943-sec-0013"><title>RNA extraction, cDNA synthesis and quantitative real&#x02010;time PCR</title><p>Total RNA was extracted from roots and shoots of 5&#x02010;day&#x02010;old T3 generation seedlings using Trizol<sup>&#x000ae;</sup> reagent (Invitrogen of Thermo Fischer Scientific Inc., Massachusetts (MA), USA). To obtain total endosperm, embryo and seed coat RNA, whole seed coats, endosperm and embryo were separated manually from T3 rice grains at 16 DAF. Extraction buffer containing 0.15<sc>m</sc> NaCl and 1% sarcosyl sarcosyl (N&#x02010;Lauroyl sarcosinate sodium) was added to the ground samples followed by purification with 8<sc>m</sc> guanidine hydrochloride buffer. The RNA was treated with DNase I (Thermo Fisher Scientific Inc., Massachusetts (MA), USA) to remove genomic DNA contamination. First&#x02010;strand cDNA was synthesized using the RevertAid&#x02122; first&#x02010;strand cDNA synthesis kit (Thermo Fisher Scientific Inc.). Quantitative RT&#x02013;PCR was performed as previously described (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0032" ref-type="ref">2011</xref>). In brief, qRT&#x02013;PCR was performed in a 7500 Real&#x02010;Time PCR System using the SYBR Green RT&#x02013;PCR reagent kit following the manufacturer's protocol (Applied Biosystems, Carlsbad, CA). Each reaction was run in triplicates in a volume of 20&#x000a0;&#x003bc;L with an initial denaturation step at 95&#x000a0;&#x000b0;C for 10&#x000a0;min, followed by 40 cycles of 95&#x000a0;&#x000b0;C for 15&#x000a0;s and 60&#x000a0;&#x000b0;C for 60&#x000a0;s. Data were analysed according to the manufacturer's instructions using the 7500 System SDS Software v1.4 (Applied Biosystems). The expression level of genes of interest was normalized to the expression of rice <italic>UBIQUITIN 5</italic> (<italic>OsUBQ5)</italic>.</p></sec><sec id="pbi12943-sec-0014"><title>Protein extraction and Western blotting analysis</title><p>Protein extraction and Western hybridization were carried out as described previously (Svozil <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0052" ref-type="ref">2015</xref>). In brief, the frozen plant material was ground into a fine powder and proteins were extracted by incubation with SDS buffer containing 4% SDS, 40&#x000a0;m<sc>m</sc> Tris&#x02010;base, 5&#x000a0;m<sc>m</sc> MgCl<sub>2</sub> and 2x protease inhibitor mix (Roche Roche AG, Basel, Switzerland) for 20&#x000a0;min at room temperature (RT). Cell debris was removed by centrifugation at RT for 10&#x000a0;min at 16&#x000a0;000&#x000d7; <italic>g</italic>. The supernatant was stored at &#x02212;80&#x000a0;&#x000b0;C for further use. For the Western blots, 30&#x000a0;&#x003bc;g of leaf extract and 50&#x000a0;&#x003bc;g of embryo extract was separated using SDS&#x02013;PAGE on 10% SDS gels. After blotting, the nitrocellulose membranes were probed with an anti&#x02010;AtNRAMP3 (1:1000) antibody for 1&#x000a0;h at RT and then followed by an anti&#x02010;rabbit (1:5000, Roche) antibody for 1&#x000a0;h at RT. After detection of the immunofluorescence signal, the membranes were stained with Ponceau Red for 10&#x000a0;min.</p></sec><sec id="pbi12943-sec-0015"><title>Germination rate test</title><p>Thirty seeds of each tested line were imbibed in deionized water at RT for 2&#x000a0;days in the dark and then transferred to Petri dishes containing water&#x02010;saturated filter paper for germination. Germination rates were scored every day. Three replications were performed using 30 seeds each time. The test was performed according to a published protocol (Cheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0007" ref-type="ref">2013</xref>; Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12943-bib-0063" ref-type="ref">2012</xref>) with the above modifications.</p></sec></sec><sec id="pbi12943-sec-0017"><title>Conflict of interest</title><p>The authors declare that they have no conflicts of interest.</p></sec><sec id="pbi12943-sec-0018"><title>Author contributions</title><p>NKB conceived the study, NKB and TYW designed the experiments, TYW performed the experiments, TYW, WG and NKB interpreted the data, TYW and NKB wrote the manuscript, and WG and NKB edited the manuscript. All authors have read and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12943-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> (a) Characterization of transgenic lines in T0 generation using southern hybridization. Southern hybridization analysis was performed using PMI as a probe. Numbers indicate independent transformed lines with potential single insertion of the transgene cassette. (b) Flanking sequences and position of T&#x02010;DNA integration in NFON 16. The transgene cassette integrated in the first exon of Os11&#x000a0;g0696100 (encoding for a hypothetical protein). Red and grey sections indicate exon and intron, respectively. Black section represents nucleotides deleted during transgene integration.</p><p>
+<bold>Figure&#x000a0;S2</bold> Iron concentration in the polished T2 grains in all the single insertion lines carrying NFUN, NFON, FUN and FON constructs.</p><p>
+<bold>Figure&#x000a0;S3</bold> Manganese and copper concentrations in polished and unpolished T3 grains expressing <italic>AtNRAMP3</italic>,<italic> AtNAS1</italic> and <italic>PvFER</italic> or <italic>AtNRAMP3</italic> and <italic>PvFER</italic> cassettes.</p><p>
+<bold>Figure&#x000a0;S4</bold> Germination rate analysis of seeds from selected transgenic plants compared to the Nipponbare control.</p><p>
+<bold>Figure&#x000a0;S5</bold> Endogenous <italic>OsIRT1</italic> expression in shoots, roots, embryo and endosperm of selected transgenic plants.</p><p>
+<bold>Figure&#x000a0;S6</bold> Expression analysis of iron homeostasis related genes.</p><p>
+<bold>Figure&#x000a0;S7</bold> Characterization of IR64 transgenic lines in T0 generation using southern hybridization and iron concentration in the polished T1 grains in the single insertion lines.</p><p>
+<bold>Table&#x000a0;S1</bold> Phenotypic assessment of selected transgenic lines in T2 generation grown in the greenhouse condition</p><p>
+<bold>Table&#x000a0;S2</bold> Grain quality assessment of selected transformed plants (T3) carrying NFUN, FNON, FUN and FON constructs as compared to the Nipponbare control</p><p>
+<bold>Table&#x000a0;S3</bold> Phenotypic assessment of selected transgenic lines (cv. IR64 background) from the T1 generation grown in greenhouse conditions</p><p>
+<bold>Table&#x000a0;S4</bold> Primer sequences used for sequence validation, cloning and qRT&#x02013;PCR analysis</p><p>
+<bold>Table&#x000a0;S5</bold> Primer sequences used for TAIL&#x02010;PCR analysis on NFON16</p></caption><media xlink:href="PBI-17-9-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12943-sec-0016"><title>Acknowledgements</title><p>We gratefully acknowledge the PhD fellowship support of Mrs. Jacqueline Imhof to TYW and support from an ETH research grant for this work to WG and NKB. We thank Prof. Rainer Schulin for providing access to ICP&#x02010;OES and Bj&#x000f6;rn Studer for kind assistance with metal measurements. We thank Irene Zurkirchen for the technical support in the greenhouse. We thank Wuyan Wang for assistance with analysing grain biochemical index and Komal Jhala and Simrat Pal Singh for assistance with IR64 transformation. We thank Dr. S&#x000e9;bastine Thomine (French Science Center for Scientific Research) for providing AtNRAMP3 antibody, Dr. Takaiwa (NIAS, Japan) for the Ole18 promoter and Prof. Keller (University of Zurich) for the ubiquitin promoter..</p></ack><ref-list content-type="cited-references" id="pbi12943-bibl-0001"><title>References</title><ref id="pbi12943-bib-0001"><mixed-citation publication-type="journal" id="pbi12943-cit-0001">
+<string-name>
+<surname>Abbaspour</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hurrell</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Kelishadi</surname>, <given-names>R.</given-names>
+</string-name> (<year>2014</year>) <article-title>Review on iron and its importance for human health</article-title>. <source xml:lang="en">J. Res. Med. Sci.</source>
+<volume>19</volume>, <fpage>164</fpage>&#x02013;<lpage>174</lpage>.<pub-id pub-id-type="pmid">24778671</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0002"><mixed-citation publication-type="journal" id="pbi12943-cit-0002">
+<string-name>
+<surname>Alvarez&#x02010;Fernandez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Diaz&#x02010;Benito</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Abadia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Millan</surname>, <given-names>A.F.</given-names>
+</string-name> and <string-name>
+<surname>Abadia</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>) <article-title>Metal species involved in long distance metal transport in plants</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>5</volume>, <fpage>105</fpage>.<pub-id pub-id-type="pmid">24723928</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0003"><mixed-citation publication-type="journal" id="pbi12943-cit-0003">
+<string-name>
+<surname>Aoyama</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nagasaka</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Usuda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kakei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>OsYSL18 is a rice iron(III)&#x02010;deoxymugineic acid transporter specifically expressed in reproductive organs and phloem of lamina joints</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>70</volume>, <fpage>681</fpage>&#x02013;<lpage>692</lpage>.<pub-id pub-id-type="pmid">19468840</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0004"><mixed-citation publication-type="journal" id="pbi12943-cit-0004">
+<string-name>
+<surname>Bereczky</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.Y.</given-names>
+</string-name>, <string-name>
+<surname>Schubert</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ganal</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Bauer</surname>, <given-names>P.</given-names>
+</string-name> (<year>2003</year>) <article-title>Differential regulation of nramp and irt metal transporter genes in wild type and iron uptake mutants of tomato</article-title>. <source xml:lang="en">J. Biol. Chem.</source>
+<volume>278</volume>, <fpage>24697</fpage>&#x02013;<lpage>24704</lpage>.<pub-id pub-id-type="pmid">12709425</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0005"><mixed-citation publication-type="journal" id="pbi12943-cit-0005">
+<string-name>
+<surname>Boonyaves</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Bhullar</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2016</year>) <article-title>NOD promoter&#x02010;controlled AtIRT1 expression functions synergistically with NAS and FERRITIN genes to increase iron in rice grains</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>90</volume>, <fpage>207</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">26560141</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0006"><mixed-citation publication-type="journal" id="pbi12943-cit-0006">
+<string-name>
+<surname>Bouis</surname>, <given-names>H.E.</given-names>
+</string-name>, <string-name>
+<surname>Hotz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>McClafferty</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Meenakshi</surname>, <given-names>J.V.</given-names>
+</string-name> and <string-name>
+<surname>Pfeiffer</surname>, <given-names>W.H.</given-names>
+</string-name> (<year>2011</year>) <article-title>Biofortification: a new tool to reduce micronutrient malnutrition</article-title>. <source xml:lang="en">Food Nutr. Bull.</source>
+<volume>32</volume>, <fpage>S31</fpage>&#x02013;<lpage>S40</lpage>.<pub-id pub-id-type="pmid">21717916</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0007"><mixed-citation publication-type="journal" id="pbi12943-cit-0007">
+<string-name>
+<surname>Cheng</surname>, <given-names>X.Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>R.Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>L.L.</given-names>
+</string-name> and <string-name>
+<surname>He</surname>, <given-names>G.C.</given-names>
+</string-name> (<year>2013</year>) <article-title>A rice lectin receptor&#x02010;like kinase that is involved in innate immune responses also contributes to seed germination</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>76</volume>, <fpage>687</fpage>&#x02013;<lpage>698</lpage>.<pub-id pub-id-type="pmid">24033867</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0008"><mixed-citation publication-type="journal" id="pbi12943-cit-0008">
+<string-name>
+<surname>Curie</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Le Jean</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ecker</surname>, <given-names>J.R.</given-names>
+</string-name> and <string-name>
+<surname>Briat</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2000</year>) <article-title>Involvement of NRAMP1 from Arabidopsis thaliana in iron transport</article-title>. <source xml:lang="en">Biochem J.</source>
+<volume>347</volume>, <fpage>749</fpage>&#x02013;<lpage>755</lpage>.<pub-id pub-id-type="pmid">10769179</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0009"><mixed-citation publication-type="journal" id="pbi12943-cit-0009">
+<string-name>
+<surname>DalCorso</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Farinati</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Furini</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Regulatory networks of cadmium stress in plants</article-title>. <source xml:lang="en">Plant Signal. Behav.</source>
+<volume>5</volume>, <fpage>663</fpage>&#x02013;<lpage>667</lpage>.<pub-id pub-id-type="pmid">20404494</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0010"><mixed-citation publication-type="journal" id="pbi12943-cit-0010">
+<string-name>
+<surname>Douchkov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gryczka</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Stephan</surname>, <given-names>U.W.</given-names>
+</string-name>, <string-name>
+<surname>Hell</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Baumlein</surname>, <given-names>H.</given-names>
+</string-name> (<year>2005</year>) <article-title>Ectopic expression of nicotianamine synthase genes results in improved iron accumulation and increased nickel tolerance in transgenic tobacco</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>28</volume>, <fpage>365</fpage>&#x02013;<lpage>374</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0011"><mixed-citation publication-type="journal" id="pbi12943-cit-0011">
+<string-name>
+<surname>Finney</surname>, <given-names>L.A.</given-names>
+</string-name> and <string-name>
+<surname>O'Halloran</surname>, <given-names>T.V.</given-names>
+</string-name> (<year>2003</year>) <article-title>Transition metal speciation in the cell: insights from the chemistry of metal ion receptors</article-title>. <source xml:lang="en">Science</source>, <volume>300</volume>, <fpage>931</fpage>&#x02013;<lpage>936</lpage>.<pub-id pub-id-type="pmid">12738850</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0012"><mixed-citation publication-type="journal" id="pbi12943-cit-0012">
+<string-name>
+<surname>Ford</surname>, <given-names>G.C.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>P.M.</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J.M.A.</given-names>
+</string-name>, <string-name>
+<surname>Treffry</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>J.L.</given-names>
+</string-name> and <string-name>
+<surname>Yariv</surname>, <given-names>J.</given-names>
+</string-name> (<year>1984</year>) <article-title>Ferritin &#x02010; design and formation of an iron&#x02010;storage molecule</article-title>. <source xml:lang="en">Philos. Trans. R. Soc. Lond. B Biol. Sci.</source>
+<volume>304</volume>, <fpage>551</fpage>&#x02013;<lpage>565</lpage>.<pub-id pub-id-type="pmid">6142491</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0013"><mixed-citation publication-type="journal" id="pbi12943-cit-0013">
+<string-name>
+<surname>Goto</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Yoshihara</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shigemoto</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Toki</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Takaiwa</surname>, <given-names>F.</given-names>
+</string-name> (<year>1999</year>) <article-title>Iron fortification of rice seed by the soybean ferritin gene</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>17</volume>, <fpage>282</fpage>&#x02013;<lpage>286</lpage>.<pub-id pub-id-type="pmid">10096297</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0014"><mixed-citation publication-type="journal" id="pbi12943-cit-0014">
+<string-name>
+<surname>Gross</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Fett&#x02010;Neto</surname>, <given-names>A.G.</given-names>
+</string-name> and <string-name>
+<surname>Fett</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>2003</year>) <article-title>Iron homeostasis related genes in rice</article-title>. <source xml:lang="en">Genet. Mol. Biol.</source>
+<volume>26</volume>, <fpage>477</fpage>&#x02013;<lpage>497</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0015"><mixed-citation publication-type="journal" id="pbi12943-cit-0015">
+<string-name>
+<surname>Harrison</surname>, <given-names>P.M.</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Artymiuk</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>G.C.</given-names>
+</string-name>, <string-name>
+<surname>Guest</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Hirzmann</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lawson</surname>, <given-names>D.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>1991</year>) <article-title>Probing structure&#x02010;function relations in ferritin and bacterioferritin</article-title>. <source xml:lang="en">Adv. Inorg. Chem. Rad.</source>
+<volume>36</volume>, <fpage>449</fpage>&#x02013;<lpage>486</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0016"><mixed-citation publication-type="journal" id="pbi12943-cit-0016">
+<string-name>
+<surname>Hood</surname>, <given-names>E.E.</given-names>
+</string-name>, <string-name>
+<surname>Gelvin</surname>, <given-names>S.B.</given-names>
+</string-name>, <string-name>
+<surname>Melchers</surname>, <given-names>L.S.</given-names>
+</string-name> and <string-name>
+<surname>Hoekema</surname>, <given-names>A.</given-names>
+</string-name> (<year>1993</year>) <article-title>New <italic>Agrobacterium</italic> helper plasmids for gene&#x02010;transfer to plants</article-title>. <source xml:lang="en">Transgenic Res.</source>
+<volume>2</volume>, <fpage>208</fpage>&#x02013;<lpage>218</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0017"><mixed-citation publication-type="journal" id="pbi12943-cit-0017">
+<string-name>
+<surname>Hurrell</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>2002</year>) <article-title>Fortification: overcoming technical and practical barriers</article-title>. <source xml:lang="en">J. Nutr.</source>
+<volume>132</volume>, <fpage>806S</fpage>&#x02013;<lpage>812S</lpage>.<pub-id pub-id-type="pmid">11925486</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0018"><mixed-citation publication-type="journal" id="pbi12943-cit-0018">
+<string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Masuda</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bashir</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tsukamoto</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Rice metal&#x02010;nicotianamine transporter, OsYSL2, is required for the long&#x02010;distance transport of iron and manganese</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>62</volume>, <fpage>379</fpage>&#x02013;<lpage>390</lpage>.<pub-id pub-id-type="pmid">20128878</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0019"><mixed-citation publication-type="journal" id="pbi12943-cit-0019">
+<string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Bashir</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Nishizawa</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2011</year>) <article-title>Zn uptake and translocation in rice plants</article-title>. <source xml:lang="en">Rice</source>, <volume>4</volume>, <fpage>21</fpage>&#x02013;<lpage>27</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0020"><mixed-citation publication-type="journal" id="pbi12943-cit-0020">
+<string-name>
+<surname>Johnson</surname>, <given-names>A.A.T.</given-names>
+</string-name>, <string-name>
+<surname>Kyriacou</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Callahan</surname>, <given-names>D.L.</given-names>
+</string-name>, <string-name>
+<surname>Carruthers</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Stangoulis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lombi</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Tester</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Constitutive overexpression of the OsNAS gene family reveals single&#x02010;gene strategies for effective iron&#x02010; and zinc&#x02010;biofortification of rice endosperm</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <fpage>e24476</fpage>.<pub-id pub-id-type="pmid">21915334</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0021"><mixed-citation publication-type="journal" id="pbi12943-cit-0021">
+<string-name>
+<surname>Kim</surname>, <given-names>S.A.</given-names>
+</string-name> and <string-name>
+<surname>Guerinot</surname>, <given-names>M.L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Mining iron: iron uptake and transport in plants</article-title>. <source xml:lang="en">FEBS Lett.</source>
+<volume>581</volume>, <fpage>2273</fpage>&#x02013;<lpage>2280</lpage>.<pub-id pub-id-type="pmid">17485078</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0022"><mixed-citation publication-type="journal" id="pbi12943-cit-0022">
+<string-name>
+<surname>Kim</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Punshon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lanzirotti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L.T.</given-names>
+</string-name>, <string-name>
+<surname>Alonso</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Ecker</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Kaplan</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>Localization of iron in Arabidopsis seed requires the vacuolar membrane transporter VIT1</article-title>. <source xml:lang="en">Science</source>, <volume>314</volume>, <fpage>1295</fpage>&#x02013;<lpage>1298</lpage>.<pub-id pub-id-type="pmid">17082420</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0023"><mixed-citation publication-type="journal" id="pbi12943-cit-0023">
+<string-name>
+<surname>Kobayashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Itai</surname>, <given-names>R.N.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Expression of iron&#x02010;acquisition&#x02010;related genes in iron&#x02010;deficient rice is co&#x02010;ordinately induced by partially conserved iron&#x02010;deficiency&#x02010;responsive elements</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>56</volume>, <fpage>1305</fpage>&#x02013;<lpage>1316</lpage>.<pub-id pub-id-type="pmid">15781441</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0025"><mixed-citation publication-type="journal" id="pbi12943-cit-0025">
+<string-name>
+<surname>Kumpatla</surname>, <given-names>S.P.</given-names>
+</string-name> and <string-name>
+<surname>Hall</surname>, <given-names>T.C.</given-names>
+</string-name> (<year>1998</year>) <article-title>Recurrent onset of epigenetic silencing in rice harboring a multi&#x02010;copy transgene</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>14</volume>, <fpage>129</fpage>&#x02013;<lpage>135</lpage>.<pub-id pub-id-type="pmid">15494058</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0026"><mixed-citation publication-type="journal" id="pbi12943-cit-0026">
+<string-name>
+<surname>Lanquar</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Lelievre</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bolte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hames</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Alcon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vansuyt</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Mobilization of vacuolar iron by AtNRAMP3 and AtNRAMP4 is essential for seed germination on low iron</article-title>. <source xml:lang="en">EMBO J.</source>
+<volume>24</volume>, <fpage>4041</fpage>&#x02013;<lpage>4051</lpage>.<pub-id pub-id-type="pmid">16270029</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0027"><mixed-citation publication-type="journal" id="pbi12943-cit-0027">
+<string-name>
+<surname>Lanquar</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Lelievre</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Barbier&#x02010;Brygoo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Krieger&#x02010;Liszkay</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>, <given-names>U.</given-names>
+</string-name> and <string-name>
+<surname>Thomine</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>) <article-title>Export of vacuolar manganese by AtNRAMP3 and AtNRAMP4 is required for optimal photosynthesis and growth under manganese deficiency</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>152</volume>, <fpage>1986</fpage>&#x02013;<lpage>1999</lpage>.<pub-id pub-id-type="pmid">20181755</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0028"><mixed-citation publication-type="journal" id="pbi12943-cit-0028">
+<string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name> (<year>2009</year>) <article-title>Over&#x02010;expression of OsIRT1 leads to increased iron and zinc accumulations in rice</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>32</volume>, <fpage>408</fpage>&#x02013;<lpage>416</lpage>.<pub-id pub-id-type="pmid">19183299</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0029"><mixed-citation publication-type="journal" id="pbi12943-cit-0029">
+<string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>, <given-names>U.S.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.K.</given-names>
+</string-name>, <string-name>
+<surname>Persson</surname>, <given-names>D.P.</given-names>
+</string-name>, <string-name>
+<surname>Husted</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schjorring</surname>, <given-names>J.K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Iron fortification of rice seeds through activation of the nicotianamine synthase gene</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA,</source>
+<volume>106</volume>, <fpage>22014</fpage>&#x02013;<lpage>22019</lpage>.<pub-id pub-id-type="pmid">20080803</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0030"><mixed-citation publication-type="journal" id="pbi12943-cit-0030">
+<string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.S.</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>, <given-names>U.S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.K.</given-names>
+</string-name>, <string-name>
+<surname>Schjoerring</surname>, <given-names>J.K.</given-names>
+</string-name> and <string-name>
+<surname>An</surname>, <given-names>G.</given-names>
+</string-name> (<year>2012</year>) <article-title>Activation of Rice <italic>nicotianamine synthase 2</italic> (<italic>OsNAS2</italic>) enhances iron availability for biofortification</article-title>. <source xml:lang="en">Mol. Cells</source>, <volume>33</volume>, <fpage>269</fpage>&#x02013;<lpage>275</lpage>.<pub-id pub-id-type="pmid">22228185</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0031"><mixed-citation publication-type="journal" id="pbi12943-cit-0031">
+<string-name>
+<surname>Liu</surname>, <given-names>Y.&#x02010;G.</given-names>
+</string-name> and <string-name>
+<surname>Whittier</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>1995</year>) <article-title>Thermal asymmetric interlaced PCR: automatable amplification and sequencing of insert end fragments from PI and YAC clones for chromosome walking</article-title>. <source xml:lang="en">Genomics</source>, <volume>25</volume>, <fpage>674</fpage>&#x02013;<lpage>681</lpage>.<pub-id pub-id-type="pmid">7759102</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0032"><mixed-citation publication-type="journal" id="pbi12943-cit-0032">
+<string-name>
+<surname>Liu</surname>, <given-names>H.C.</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>, <given-names>H.T.</given-names>
+</string-name> and <string-name>
+<surname>Charng</surname>, <given-names>Y.Y.</given-names>
+</string-name> (<year>2011</year>) <article-title>The role of class A1 heat shock factors (HSFA1s) in response to heat and other stresses in Arabidopsis</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>34</volume>, <fpage>738</fpage>&#x02013;<lpage>751</lpage>.<pub-id pub-id-type="pmid">21241330</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0033"><mixed-citation publication-type="journal" id="pbi12943-cit-0033">
+<string-name>
+<surname>Lucca</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hurrell</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Potrykus</surname>, <given-names>I.</given-names>
+</string-name> (<year>2001</year>) <article-title>Approaches to improving the bioavailability and level of iron in rice seeds</article-title>. <source xml:lang="en">J. Sci. Food Agric.</source>
+<volume>81</volume>, <fpage>828</fpage>&#x02013;<lpage>834</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0034"><mixed-citation publication-type="journal" id="pbi12943-cit-0034">
+<string-name>
+<surname>Masuda</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Usuda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kakei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Higuchi</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Overexpression of the Barley Nicotianamine Synthase Gene HvNAS1 increases iron and zinc concentrations in Rice Grains</article-title>. <source xml:lang="en">Rice</source>, <volume>2</volume>, <fpage>155</fpage>&#x02013;<lpage>166</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0035"><mixed-citation publication-type="journal" id="pbi12943-cit-0035">
+<string-name>
+<surname>Masuda</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Aung</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kakei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Higuchi</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Iron biofortification in rice by the introduction of multiple genes involved in iron nutrition</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>2</volume>, <fpage>543</fpage>.<pub-id pub-id-type="pmid">22848789</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0036"><mixed-citation publication-type="journal" id="pbi12943-cit-0036">
+<string-name>
+<surname>Masuda</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aung</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Iron&#x02010;biofortification in rice by the introduction of three barley genes participated in mugineic acid biosynthesis with soybean ferritin gene</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>4</volume>, <fpage>132</fpage>.<pub-id pub-id-type="pmid">23675379</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0037"><mixed-citation publication-type="journal" id="pbi12943-cit-0037">
+<string-name>
+<surname>Nishimura</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Aichi</surname>, <given-names>I.</given-names>
+</string-name> and <string-name>
+<surname>Matsuoka</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>) <article-title>A protocol for Agrobacterium&#x02010;mediated transformation in rice</article-title>. <source xml:lang="en">Nat. Protoc.</source>
+<volume>1</volume>, <fpage>2796</fpage>&#x02013;<lpage>2802</lpage>.<pub-id pub-id-type="pmid">17406537</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0039"><mixed-citation publication-type="journal" id="pbi12943-cit-0039">
+<string-name>
+<surname>Oliva</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chadha&#x02010;Mohanty</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Poletti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Abrigo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Atienza</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Torrizo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Large&#x02010;scale production and evaluation of marker&#x02010;free indica rice IR64 expressing phytoferritin genes</article-title>. <source xml:lang="en">Mol. Breeding</source>, <volume>33</volume>, <fpage>23</fpage>&#x02013;<lpage>37</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0040"><mixed-citation publication-type="journal" id="pbi12943-cit-0040">
+<string-name>
+<surname>Olsen</surname>, <given-names>L.I.</given-names>
+</string-name> and <string-name>
+<surname>Palmgren</surname>, <given-names>M.G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Many rivers to cross: the journey of zinc from soil to seed</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>5</volume>, <fpage>30</fpage>.<pub-id pub-id-type="pmid">24575104</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0041"><mixed-citation publication-type="journal" id="pbi12943-cit-0041">
+<string-name>
+<surname>Oppenheimer</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>F.D.</given-names>
+</string-name>, <string-name>
+<surname>Macfarlane</surname>, <given-names>S.B.</given-names>
+</string-name>, <string-name>
+<surname>Moody</surname>, <given-names>J.B.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Bunari</surname>, <given-names>O.</given-names>
+</string-name> (<year>1986</year>) <article-title>Iron supplementation increases prevalence and effects of malaria: report on clinical studies in Papua New Guinea</article-title>. <source xml:lang="en">Trans. R. Soc. Trop. Med. Hyg.</source>
+<volume>80</volume>, <fpage>603</fpage>&#x02013;<lpage>612</lpage>.<pub-id pub-id-type="pmid">3101243</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0042"><mixed-citation publication-type="journal" id="pbi12943-cit-0042">
+<string-name>
+<surname>Papoyan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pineros</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Kochian</surname>, <given-names>L.V.</given-names>
+</string-name> (<year>2007</year>) <article-title>Plant Cd2+ and Zn2+ status effects on root and shoot heavy metal accumulation in Thlaspi caerulescens</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>175</volume>, <fpage>51</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">17547666</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0043"><mixed-citation publication-type="journal" id="pbi12943-cit-0043">
+<string-name>
+<surname>Pich</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Manteuffel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hillmer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Scholz</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Schmidt</surname>, <given-names>W.</given-names>
+</string-name> (<year>2001</year>) <article-title>Fe homeostasis in plant cells: does nicotianamine play multiple roles in the regulation of cytoplasmic Fe concentration?</article-title>
+<source xml:lang="en">Planta</source>, <volume>213</volume>, <fpage>967</fpage>&#x02013;<lpage>976</lpage>.<pub-id pub-id-type="pmid">11722133</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0044"><mixed-citation publication-type="journal" id="pbi12943-cit-0044">
+<string-name>
+<surname>Qu le</surname>, <given-names>Q.</given-names>
+</string-name> and <string-name>
+<surname>Takaiwa</surname>, <given-names>F.</given-names>
+</string-name> (<year>2004</year>) <article-title>Evaluation of tissue specificity and expression strength of rice seed component gene promoters in transgenic rice</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>2</volume>, <fpage>113</fpage>&#x02013;<lpage>125</lpage>.<pub-id pub-id-type="pmid">17147604</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0045"><mixed-citation publication-type="journal" id="pbi12943-cit-0045">
+<string-name>
+<surname>Rajeevkumar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Anunanthini</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Sathishkumar</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>) <article-title>Epigenetic silencing in transgenic plants</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>6</volume>, <fpage>693</fpage>.<pub-id pub-id-type="pmid">26442010</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0046"><mixed-citation publication-type="journal" id="pbi12943-cit-0046">
+<string-name>
+<surname>Rellan&#x02010;Alvarez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Abadia</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Alvarez&#x02010;Fernandez</surname>, <given-names>A.</given-names>
+</string-name> (<year>2008</year>) <article-title>Formation of metal&#x02010;nicotianamine complexes as affected by pH, ligand exchange with citrate and metal exchange. A study by electrospray ionization time&#x02010;of&#x02010;flight mass spectrometry</article-title>. <source xml:lang="en">Rapid Commun. Mass Spectrom.</source>
+<volume>22</volume>, <fpage>1553</fpage>&#x02013;<lpage>1562</lpage>.<pub-id pub-id-type="pmid">18421700</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0048"><mixed-citation publication-type="journal" id="pbi12943-cit-0048">
+<string-name>
+<surname>Sazawal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Ramsan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chwaya</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Stoltzfus</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Dutta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dhingra</surname>, <given-names>U.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>Effects of routine prophylactic supplementation with iron and folic acid on admission to hospital and mortality in preschool children in a high malaria transmission setting: community&#x02010;based, randomised, placebo&#x02010;controlled trial</article-title>. <source xml:lang="en">Lancet</source>, <volume>367</volume>, <fpage>133</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">16413877</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0049"><mixed-citation publication-type="journal" id="pbi12943-cit-0049">
+<string-name>
+<surname>Singh</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Bhullar</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2017a</year>) <article-title>Single genetic locus improvement of iron, zinc and beta&#x02010;carotene content in rice grains</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>7</volume>, <fpage>6883</fpage>.<pub-id pub-id-type="pmid">28761150</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0050"><mixed-citation publication-type="journal" id="pbi12943-cit-0050">
+<string-name>
+<surname>Singh</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Bhullar</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2017b</year>) <article-title>Rice <italic>NICOTIANAMINE SYNTHASE 2</italic> expression improves dietary iron and zinc levels in wheat</article-title>. <source xml:lang="en">Theor. Appl. Genet.</source>
+<volume>130</volume>, <fpage>283</fpage>&#x02013;<lpage>292</lpage>.<pub-id pub-id-type="pmid">27722771</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0051"><mixed-citation publication-type="journal" id="pbi12943-cit-0051">
+<string-name>
+<surname>Stevens</surname>, <given-names>G.A.</given-names>
+</string-name>, <string-name>
+<surname>Finucane</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>De&#x02010;Regil</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Paciorek</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Flaxman</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Branca</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pena&#x02010;Rosas</surname>, <given-names>J.P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Global, regional, and national trends in haemoglobin concentration and prevalence of total and severe anaemia in children and pregnant and non&#x02010;pregnant women for 1995&#x02013;2011: a systematic analysis of population&#x02010;representative data</article-title>. <source xml:lang="en">Lancet Glob. Health</source>, <volume>1</volume>, <fpage>e16</fpage>&#x02013;<lpage>e25</lpage>.<pub-id pub-id-type="pmid">25103581</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0052"><mixed-citation publication-type="journal" id="pbi12943-cit-0052">
+<string-name>
+<surname>Svozil</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Baerenfaller</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Proteasome targeting of proteins in Arabidopsis leaf mesophyll, epidermal and vascular tissues</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>6</volume>, <fpage>376</fpage>.<pub-id pub-id-type="pmid">26074939</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0053"><mixed-citation publication-type="journal" id="pbi12943-cit-0053">
+<string-name>
+<surname>Takahashi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ishimaru</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Senoura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shimo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ishikawa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>The OsNRAMP1 iron transporter is involved in Cd accumulation in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>62</volume>, <fpage>4843</fpage>&#x02013;<lpage>4850</lpage>.<pub-id pub-id-type="pmid">21697258</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0054"><mixed-citation publication-type="journal" id="pbi12943-cit-0054">
+<string-name>
+<surname>Tan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Over&#x02010;expression of the MxIRT1 gene increases iron and zinc content in rice seeds</article-title>. <source xml:lang="en">Transgenic Res.</source>
+<volume>24</volume>, <fpage>109</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">25099285</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0055"><mixed-citation publication-type="journal" id="pbi12943-cit-0055">
+<string-name>
+<surname>Thomine</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Lanquar</surname>, <given-names>V.</given-names>
+</string-name> (<year>2011</year>) <article-title>Iron transport and signaling in plants</article-title>. <volume>7</volume>, <fpage>99</fpage>&#x02013;<lpage>131</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0056"><mixed-citation publication-type="journal" id="pbi12943-cit-0056">
+<string-name>
+<surname>Thomine</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>, <given-names>N.M.</given-names>
+</string-name> and <string-name>
+<surname>Schroeder</surname>, <given-names>J.I.</given-names>
+</string-name> (<year>2000</year>) <article-title>Cadmium and iron transport by members of a plant metal transporter family in Arabidopsis with homology to Nramp genes</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA,</source>
+<volume>97</volume>, <fpage>4991</fpage>&#x02013;<lpage>4996</lpage>.<pub-id pub-id-type="pmid">10781110</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0057"><mixed-citation publication-type="journal" id="pbi12943-cit-0057">
+<string-name>
+<surname>Thomine</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lelievre</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Debarbieux</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Schroeder</surname>, <given-names>J.I.</given-names>
+</string-name> and <string-name>
+<surname>Barbier&#x02010;Brygoo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2003</year>) <article-title>AtNRAMP3, a multispecific vacuolar metal transporter involved in plant responses to iron deficiency</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>34</volume>, <fpage>685</fpage>&#x02013;<lpage>695</lpage>.<pub-id pub-id-type="pmid">12787249</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0058"><mixed-citation publication-type="journal" id="pbi12943-cit-0058">
+<string-name>
+<surname>Trijatmiko</surname>, <given-names>K.R.</given-names>
+</string-name>, <string-name>
+<surname>Duenas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tsakirpaloglou</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Torrizo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Arines</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Adeva</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Balindong</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Biofortified indica rice attains iron and zinc nutrition dietary targets in the field</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>6</volume>, <fpage>19792</fpage>.<pub-id pub-id-type="pmid">26806528</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0059"><mixed-citation publication-type="journal" id="pbi12943-cit-0059">
+<string-name>
+<surname>Vasconcelos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Datta</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Oliva</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Khalekuzzaman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Torrizo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Krishnan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>Enhanced iron and zinc accumulation in transgenic rice with the ferritin gene</article-title>. <source xml:lang="en">Plant Sci.</source>
+<volume>164</volume>, <fpage>371</fpage>&#x02013;<lpage>378</lpage>.</mixed-citation></ref><ref id="pbi12943-bib-0060"><mixed-citation publication-type="journal" id="pbi12943-cit-0060">
+<string-name>
+<surname>Vasconcelos</surname>, <given-names>M.W.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Bhullar</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2017</year>) <article-title>Iron biofortification in the 21st century: setting realistic targets, overcoming obstacles, and new strategies for healthy nutrition</article-title>. <source xml:lang="en">Curr. Opin. Biotechnol.</source>
+<volume>44</volume>, <fpage>8</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">27780080</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0061"><mixed-citation publication-type="journal" id="pbi12943-cit-0061">
+<string-name>
+<surname>Wang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> and <string-name>
+<surname>Bhullar</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2013</year>) <article-title>Nicotianamine synthase overexpression positively modulates iron homeostasis&#x02010;related genes in high iron rice</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>4</volume>, <fpage>156</fpage>.<pub-id pub-id-type="pmid">23755054</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0062"><mixed-citation publication-type="journal" id="pbi12943-cit-0062">
+<string-name>
+<surname>Wirth</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Poletti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aeschlimann</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yakandawala</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Drosse</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Osorio</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tohge</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Rice endosperm iron biofortification by targeted and synergistic action of nicotianamine synthase and ferritin</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>7</volume>, <fpage>631</fpage>&#x02013;<lpage>644</lpage>.<pub-id pub-id-type="pmid">19702755</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0063"><mixed-citation publication-type="journal" id="pbi12943-cit-0063">
+<string-name>
+<surname>Yang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>X.Y.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>W.H.</given-names>
+</string-name> (<year>2012</year>) <article-title>A R2R3&#x02010;type MYB gene, OsMYB2, is involved in salt, cold, and dehydration tolerance in rice</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>63</volume>, <fpage>2541</fpage>&#x02013;<lpage>2556</lpage>.<pub-id pub-id-type="pmid">22301384</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0064"><mixed-citation publication-type="journal" id="pbi12943-cit-0064">
+<string-name>
+<surname>Zhao</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Lombi</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Zhu</surname>, <given-names>Y.G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Imaging element distribution and speciation in plant cells</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>19</volume>, <fpage>183</fpage>&#x02013;<lpage>192</lpage>.<pub-id pub-id-type="pmid">24394523</pub-id></mixed-citation></ref><ref id="pbi12943-bib-0065"><mixed-citation publication-type="journal" id="pbi12943-cit-0065">
+<string-name>
+<surname>Zhu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Budworth</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Provart</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Guimil</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>W.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2003</year>) <article-title>Transcriptional control of nutrient partitioning during rice grain filling</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>1</volume>, <fpage>59</fpage>&#x02013;<lpage>70</lpage>.<pub-id pub-id-type="pmid">17147681</pub-id></mixed-citation></ref></ref-list></back></article>

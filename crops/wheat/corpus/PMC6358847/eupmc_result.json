@@ -1,0 +1,546 @@
+{
+  "id": [
+    "30634635"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30634635"
+  ],
+  "pmcid": [
+    "PMC6358847"
+  ],
+  "doi": [
+    "10.3390/ijms20020253"
+  ],
+  "title": [
+    "Characterization of Proteins Involved in Chloroplast Targeting Disturbed by Rice Stripe Virus by Novel Protoplast⁻Chloroplast Proteomics."
+  ],
+  "authorString": [
+    "Zhao J, Xu J, Chen B, Cui W, Zhou Z, Song X, Chen Z, Zheng H, Lin L, Peng J, Lu Y, Deng Z, Chen J, Yan F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "Jinping"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3580-0895",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. jinpingzhao@sina.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jingjing"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. 13297003755@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen B"
+          ],
+          "firstName": [
+            "Binghua"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. hzchenbinghua@aliyun.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui W"
+          ],
+          "firstName": [
+            "Weijun"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. cuiweijun0609@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Z"
+          ],
+          "firstName": [
+            "Zhongjing"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4351-7160",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. zj_20020101@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Song X"
+          ],
+          "firstName": [
+            "Xijiao"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. songxijiao@yeah.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhuo"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. gychenzhuo@aliyun.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng H"
+          ],
+          "firstName": [
+            "Hongying"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. zhenghongyinghz@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. linsnowx@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng J"
+          ],
+          "firstName": [
+            "Jiejun"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. pengjiejun@yeah.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu Y"
+          ],
+          "firstName": [
+            "Yuwen"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. luyuwen@yeah.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng Z"
+          ],
+          "firstName": [
+            "Zhiping"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. zhipingdeng@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jianping"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. jpchen2001@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. fei.yan@mail.zaas.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4351-7160",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3580-0895",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2770598"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Rice stripe virus (RSV) is one of the most devastating viral pathogens in rice and can also cause the general chlorosis symptom in Nicotiana benthamiana plants. The chloroplast changes associated with chlorosis symptom suggest that RSV interrupts normal chloroplast functions. Although the change of proteins of the whole cell or inside the chloroplast in response to RSV infection have been revealed by proteomics, the mechanisms resulted in chloroplast-related symptoms and the crucial factors remain to be elucidated. RSV infection caused the malformation of chloroplast structure and a global reduction of chloroplast membrane protein complexes in N. benthamiana plants. Here, both the protoplast proteome and the chloroplast proteome were acquired simultaneously upon RSV infection, and the proteins in each fraction were analyzed. In the protoplasts, 1128 proteins were identified, among which 494 proteins presented significant changes during RSV; meanwhile, 659 proteins were identified from the chloroplasts, and 279 of these chloroplast proteins presented significant change. According to the label-free LC⁻MS/MS data, 66 nucleus-encoded chloroplast-related proteins (ChRPs), which only reduced in chloroplast but not in the whole protoplast, were identified, indicating that these nuclear-encoded ChRPswere not transported to chloroplasts during RSV infection. Gene ontology (GO) enrichment analysis confirmed that RSV infection changed the biological process of protein targeting to chloroplast, where 3 crucial ChRPs (K4CSN4, K4CR23, and K4BXN9) were involved in the regulation of protein targeting into chloroplast. In addition to these 3 proteins, 41 among the 63 candidate proteins were characterized to have chloroplast transit peptides. These results indicated that RSV infection changed the biological process of protein targeting into chloroplast and the location of ChRPs through crucial protein factors, which illuminated a new layer of RSV⁻host interaction that might contribute to the symptom development."
+  ],
+  "affiliation": [
+    "The State Key Laboratory Breeding Base for Sustainable Control of Pest and Disease, Key Laboratory of Biotechnology in Plant Protection of MOA of China and Zhejiang Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences, Hangzhou 310021, China. jinpingzhao@sina.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2014CB138403"
+          ],
+          "agency": [
+            "the State Basic Research Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31500124"
+          ],
+          "agency": [
+            "the National Nature Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2015DFA30700"
+          ],
+          "agency": [
+            "the International Science & Technology Cooperation Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice stripe virus",
+        "Plant–virus Interaction",
+        "Chloroplast Proteomics",
+        "Nuclear/nucleus-encoded Chloroplast-related Protein",
+        "Chloroplast Targeting"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6358847?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6358847"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20020253"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go",
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-13"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-10"
+  ],
+  "firstPublicationDate": [
+    "2019-01-10"
+  ]
+}

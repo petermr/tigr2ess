@@ -1,0 +1,933 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">New Phytol</journal-id><journal-id journal-id-type="iso-abbrev">New Phytol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1469-8137</journal-id><journal-id journal-id-type="publisher-id">NPH</journal-id><journal-title-group><journal-title>The New Phytologist</journal-title></journal-title-group><issn pub-type="ppub">0028-646X</issn><issn pub-type="epub">1469-8137</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6055815</article-id><article-id pub-id-type="doi">10.1111/nph.15246</article-id><article-id pub-id-type="publisher-id">NPH15246</article-id><article-id pub-id-type="other">2018-26258</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></subj-group></article-categories><title-group><article-title>Genomic variations in the 3&#x02032;&#x02010;termini of <italic>Rice stripe virus</italic> in the rotation between vector insect and host plant</article-title></title-group><contrib-group><contrib id="nph15246-cr-0001" contrib-type="author"><name><surname>Zhao</surname><given-names>Wan</given-names></name><xref ref-type="aff" rid="nph15246-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="nph15246-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="nph15246-cr-0002" contrib-type="author"><name><surname>Xu</surname><given-names>Zhongtian</given-names></name><xref ref-type="aff" rid="nph15246-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="nph15246-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="nph15246-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="nph15246-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Xiaoming</given-names></name><xref ref-type="aff" rid="nph15246-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15246-cr-0004" contrib-type="author"><name><surname>Yang</surname><given-names>Meiling</given-names></name><xref ref-type="aff" rid="nph15246-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15246-cr-0005" contrib-type="author" corresp="yes"><name><surname>Kang</surname><given-names>Le</given-names></name><address><email>lkang@ioz.ac.cn</email></address><xref ref-type="aff" rid="nph15246-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph15246-cr-0006" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Renyi</given-names></name><address><email>ryliu@fafu.edu.cn</email></address><xref ref-type="aff" rid="nph15246-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="nph15246-cr-0007" contrib-type="author" corresp="yes"><name><surname>Cui</surname><given-names>Feng</given-names></name><address><email>cuif@ioz.ac.cn</email></address><xref ref-type="aff" rid="nph15246-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="nph15246-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory of Integrated Management of Pest Insects and Rodents</named-content>
+<named-content content-type="organisation-division">Institute of Zoology</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<named-content content-type="post-code">100101</named-content>
+<country country="CN">China</country>
+</aff><aff id="nph15246-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Shanghai Center for Plant Stress Biology</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<named-content content-type="city">Shanghai</named-content>
+<named-content content-type="post-code">201602</named-content>
+<country country="CN">China</country>
+</aff><aff id="nph15246-aff-0003">
+<label><sup>3</sup></label>
+<institution>University of Chinese Academy of Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<named-content content-type="post-code">100049</named-content>
+<country country="CN">China</country>
+</aff><aff id="nph15246-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Center for Agroforestry Mega Data Science and FAFU&#x02010;UCR Joint Center for Horticultural Biology and Metabolomics</named-content>
+<named-content content-type="organisation-division">Haixia Institute of Science and Technology</named-content>
+<institution>Fujian Agriculture and Forestry University</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<named-content content-type="post-code">350002</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Authors for correspondence:<break/><italic>Feng Cui</italic><break/><italic>Tel: +86&#x000a0;10&#x000a0;64807218</italic><break/><italic>Email: </italic><email>cuif@ioz.ac.cn</email><break/><italic>Renyi Liu</italic><break/><italic>Tel: +86&#x000a0;21&#x000a0;57078228</italic><break/><italic>Email: </italic><email>ryliu@fafu.edu.cn</email><break/><italic>Le Kang</italic><break/><italic>Tel: +86&#x000a0;10&#x000a0;64807219</italic><break/><italic>Email: </italic><email>lkang@ioz.ac.cn</email><break/></corresp><fn fn-type="equal" id="nph15246-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>08</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2018</year></pub-date><volume>219</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/nph.2018.219.issue-3</issue-id><issue-title content-type="special-issue-title">Featured papers on &#x02018;Drought impacts on tropical forests&#x02019;</issue-title><fpage>1085</fpage><lpage>1096</lpage><history><date date-type="received"><day>24</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>01</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 New Phytologist Trust <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>New Phytologist</italic> &#x000a9; 2018 New Phytologist Trust</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:NPH-219-1085.pdf"/><abstract id="nph15246-abs-0001"><title>Summary</title><p>
+<list list-type="bullet" id="nph15246-list-0001"><list-item><p>A large number of plant <styled-content style="fixed-case">RNA</styled-content> viruses circulate between plants and insects. For <styled-content style="fixed-case">RNA</styled-content> viruses, host alternations may impose a differential selective pressure on viral populations and induce variations in viral genomes. Here, we report the variations in the 3&#x02032;&#x02010;terminal regions of the multiple&#x02010;segment <styled-content style="fixed-case">RNA</styled-content> virus <italic>Rice stripe virus</italic> (<styled-content style="fixed-case">RSV</styled-content>) that were discovered through <italic>de&#x000a0;novo</italic> assembly of the genome using <styled-content style="fixed-case">RNA</styled-content> sequencing data from infected host plants and vector insects.</p></list-item><list-item><p>The newly assembled <styled-content style="fixed-case">RSV</styled-content> genome contained 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of two genome segments compared with the published reference <styled-content style="fixed-case">RSV</styled-content> genome. Our study demonstrated that these extensional sequences were consistently observed in two <styled-content style="fixed-case">RSV</styled-content> isolates belonging to distinct genetic subtypes in <styled-content style="fixed-case">RSV</styled-content>&#x02010;infected rice, wheat and tobacco. Moreover, the <italic>de&#x000a0;novo</italic> assembled genome of <italic>Southern rice black&#x02010;streaked dwarf virus</italic> also contained 3&#x02032;&#x02010;terminal extensions in five <styled-content style="fixed-case">RNA</styled-content> segments compared with the reference genome.</p></list-item><list-item><p>Time course experiments confirmed that the 3&#x02032;&#x02010;terminal extensions of <styled-content style="fixed-case">RSV</styled-content> were enriched in the vector insects, were gradually eliminated in the host plant and potentially affected viral replication.</p></list-item><list-item><p>These findings indicate that variations in the 3&#x02032;&#x02010;termini of viral genomes may be different adaptive strategies for plant <styled-content style="fixed-case">RNA</styled-content> viruses in insects and plants.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nph15246-kwd-0001">genomic variation</kwd><kwd id="nph15246-kwd-0002">host plant</kwd><kwd id="nph15246-kwd-0003"><italic>Rice stripe virus</italic></kwd><kwd id="nph15246-kwd-0004"><styled-content style="fixed-case">RNA</styled-content> virus</kwd><kwd id="nph15246-kwd-0005">vector insect</kwd></kwd-group><funding-group><award-group><funding-source>Major State Basic Research Development Program of China (973 Program)</funding-source><award-id>2014CB13840402</award-id></award-group><award-group><funding-source>Strategic Priority Research Program of the Chinese Academy of Sciences</funding-source><award-id>XDB11040200</award-id></award-group><award-group><funding-source>One Hundred Talent Program from the Chinese Academy of Sciences</funding-source></award-group><award-group><funding-source>grant of State Key Laboratory of Integrated Management of Pest Insects and Rodents</funding-source><award-id>ChineseIPM1801</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="12"/><word-count count="8586"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>nph15246</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.3 mode:remove_FC converted:23.07.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="nph15246-sec-0001"><title>Introduction</title><p>Most plant viruses depend on specific plant&#x02010;feeding insects as the primary vector for transmission (Bragard <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0004" ref-type="ref">2013</xref>). Persistent&#x02010;propagative plant viruses have a more complicated interaction with their vector insects than non&#x02010;persistent viruses because of their characteristics of replication and systemic invasion of the vector insect tissues before transmission via the salivary glands (Ammar el <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0001" ref-type="ref">2009</xref>; Bragard <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0004" ref-type="ref">2013</xref>). Vector insects are usually indispensable for the pathogenicity of persistent&#x02010;propagative plant viruses, which suggests that alterations in the viral genome may be induced when the viruses are incubated in the vector insects. Therefore, comparisons of the viral genomes in vector insects and host plants may provide important clues to understand the adaptation strategies of a plant virus in the two hosts.</p><p>As a typical persistent&#x02010;propagative plant virus, <italic>Rice stripe virus</italic> (RSV) causes rice stripe disease, which is one of the most serious rice diseases in Eastern Asian countries (Falk &#x00026; Tsai, <xref rid="nph15246-bib-0008" ref-type="ref">1998</xref>; Xiong <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0041" ref-type="ref">2008</xref>). In addition to rice, RSV also infects wheat, maize, oat, weeds and even tobacco (<italic>Nicotiana benthamiana</italic>) under experimental conditions (Falk &#x00026; Tsai, <xref rid="nph15246-bib-0008" ref-type="ref">1998</xref>; Xiong <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0041" ref-type="ref">2008</xref>; Sun <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0029" ref-type="ref">2011</xref>). RSV is a single&#x02010;stranded RNA virus and belongs to the <italic>Tenuivirus</italic> genus. The published reference genome of RSV is 17&#x000a0;144 nucleotides (nt) and contains four RNA segments: RNA1 (8969&#x000a0;nt), RNA2 (3514&#x000a0;nt), RNA3 (2504&#x000a0;nt) and RNA4 (2157&#x000a0;nt) (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0030" ref-type="ref">1993</xref>; Toriyama <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0034" ref-type="ref">1994</xref>). RNA1 is negative&#x02010;sense and encodes RNA&#x02010;dependent RNA polymerase (RdRp). The other three segments are ambisense and encode NS2, NSvc2 (a putative membrane glycoprotein), NS3 (a gene silencing suppressor), CP (a nucleocapsid protein), SP (a disease&#x02010;specific protein) and NSvc4 (a movement protein) (Cho <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0007" ref-type="ref">2013</xref>). The 5&#x02032;&#x02010; and 3&#x02032;&#x02010;terminal sequences of the four RNA segments were first determined through two&#x02010;dimensional mobility shift analysis of the first 18 bases (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0031" ref-type="ref">1990</xref>). The 18 or 20 nucleotides at the 3&#x02032;&#x02010; and 5&#x02032;&#x02010;ends of the four RNA segments are conserved, and each segment may form a panhandle structure because of the complementary terminal sequences, and this structure is a potential recognition landmark for RNA polymerase (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0031" ref-type="ref">1990</xref>). Based on the nucleotide sequence of the <italic>CP</italic> gene, RSV isolates from China can be divided into two subtypes: the populations from Eastern China (represented by Jiangsu Province) belong to subtype I, and the populations from Southwest China (represented by Yunnan Province) belong to subtype II (Wei <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0040" ref-type="ref">2009</xref>).</p><p>RSV is efficiently transmitted between plants in the field by the small brown planthopper <italic>Laodelphax striatellus</italic> (Falk &#x00026; Tsai, <xref rid="nph15246-bib-0008" ref-type="ref">1998</xref>). Although RSV can replicate in both vector insects and host plants, different symptoms are induced in the two types of host. Instead of producing severe diseases as it does in host plants, RSV seems to live in harmony with planthoppers without causing intense immune responses or inducing obvious damage (Zhang <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0044" ref-type="ref">2010</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0046" ref-type="ref">2016a</xref>). Moreover, the RSVs from planthoppers and from rice plants exhibit different pathogenicities. The insect&#x02010;derived RSV destroys the chloroplast structure and induces a typical yellow stripe symptom, whereas the plant&#x02010;derived RSV only causes chlorosis in rice leaves (Zhao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0047" ref-type="ref">2016b</xref>). Thus, it is highly possible that genomic and/or population diversifications may occur during the spread of RSV between vector insects and host plants because of the distinct living conditions and selective pressures.</p><p>To investigate the genomic variations in the RSV populations that originate from vector insects and host plants, we sequenced the viral genomes in viruliferous planthoppers and RSV&#x02010;infected rice, and performed <italic>de&#x000a0;novo</italic> genome assembly. Sixteen&#x02010; and 15&#x02010;nt extension sequence variations at the 3&#x02032;&#x02010;termini of the RNA1 and RNA2 segments were observed in different RSV isolates and RSV&#x02010;infected host plants. The variations in the ratios of the RNA segments with the 3&#x02032;&#x02010;extension sequences were explored during the viral rotation between the vector insects and host plants.</p></sec><sec id="nph15246-sec-0002"><title>Materials and Methods</title><sec id="nph15246-sec-0003"><title>Virus isolates and culture of insects and plants</title><p>The viruliferous and non&#x02010;viruliferous small brown planthopper strains used in this study were established from a field population collected in Hai'an, Jiangsu Province, China. The viruliferous strain contained the Jiangsu isolate (JSHA) of RSV. The planthoppers were reared separately on 2&#x02013;3&#x02010;cm seedlings of rice (<italic>Oryza sativa</italic> Huangjinqing) in glass incubators in the laboratory, as described previously (Zhao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0047" ref-type="ref">2016b</xref>). To maintain the RSV&#x02010;carrying frequency of the viruliferous strain at no less than 90%, non&#x02010;viruliferous individuals were discriminated and eliminated via dot enzyme&#x02010;linked immunosorbent assay (dot&#x02010;ELISA) using the monoclonal anti&#x02010;CP antibody every 3&#x000a0;months (Zhao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0047" ref-type="ref">2016b</xref>). Rice, wheat (<italic>Triticum aestivum</italic> jingdong 22) and tobacco (<italic>Nicotiana benthamiana</italic>) were grown in an insect&#x02010;free incubator at 25&#x000b0;C with 16&#x000a0;h of light daily. Another four RSV isolates were collected from RSV&#x02010;infected small brown planthoppers and rice plants in Kunming, Chuxiong and Yuxi of Yunnan Province in August 2017, and were stored at &#x02212;80&#x000b0;C.</p></sec><sec id="nph15246-sec-0004"><title>RNA extraction, RNA&#x02010;Seq library construction and sequencing</title><p>Total RNAs were isolated from 20 fifth&#x02010;instar viruliferous planthopper nymphs or 20 fourth&#x02010;instar planthopper nymphs that had acquired RSV 5&#x000a0;d previously, and from 100&#x000a0;mg of RSV&#x02010;infected rice leaves (with the typical stripe symptoms) using TRIzol reagent (Invitrogen, Carlsbad, CA, USA) in accordance with the manufacturer's instructions. The concentrations and qualities of the RNA samples were measured using a NanoDrop spectrophotometer (Thermo Scientific, Waltham, MA, USA) and through gel electrophoresis. Four replicates each were prepared for the viruliferous planthoppers and RSV&#x02010;infected rice samples. One replicate was prepared for the planthoppers that had acquired RSV 5&#x000a0;d before sampling. Sequencing was performed in two batches. The first batch included the planthoppers that had acquired RSV 5&#x000a0;d previously, one viruliferous planthopper sample and one RSV&#x02010;infected rice sample. The second batch included the remaining three replicates of the viruliferous planthoppers and RSV&#x02010;infected rice leaves.</p><p>Five&#x02010;microgram samples of total RNA from the planthoppers and rice leaves were treated with a Ribo&#x02010;Zero rRNA Removal Kit (human/mouse/rat) or a Ribo&#x02010;Zero rRNA Removal Kit (plant leaf) (Epicentre, Madison, WI, USA), respectively, to deplete the rRNA. The retrieved RNA was fragmented by adding First&#x02010;Strand Master Mix (Invitrogen). First&#x02010;strand cDNA was generated with random hexamers with First&#x02010;Strand Master Mix and SuperScript II reverse transcription (Invitrogen). Second&#x02010;strand cDNA was generated using Second&#x02010;Strand Master Mix (Invitrogen) and dNTPs. The ends of the purified cDNA were repaired using End Repair Mix (Invitrogen). After adding &#x02018;A&#x02019; bases or adapters to the 3&#x02032;&#x02010;ends or both ends, the cDNA fragments were purified and then enriched by PCR. cDNA pair&#x02010;end libraries were then constructed following standard Illumina protocols and were sequenced with the Illumina HiSeq&#x02122; 4000 platform (Illumina, San Diego, CA, USA). Approximately 12 gigabases (Gb) of 101&#x02010;bp paired&#x02010;end raw data were generated for each library. The sequencing data were deposited in the Short Read Archive of the&#x000a0;National Center for Biotechnology Information (NCBI) with the accession number SRP108307.</p></sec><sec id="nph15246-sec-0005"><title>
+<italic>De&#x000a0;novo</italic> assembly of the RSV and <italic>Southern rice black&#x02010;streaked dwarf virus</italic> (SRBSDV) genomes</title><p>The qualities of the raw reads were evaluated with F<sc>ast</sc>QC (<ext-link ext-link-type="uri" xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc">http://www.bioinformatics.babraham.ac.uk/projects/fastqc</ext-link>). To obtain clean reads, low&#x02010;quality regions and adapter sequences were removed using S<sc>olex</sc>QA (v.2.2) and C<sc>utadapt</sc> (v.1.3) (Martin, <xref rid="nph15246-bib-0024" ref-type="ref">2011</xref>), respectively. Reads shorter than 25 bases were discarded.</p><p>Clean reads from the first batches of the planthopper and rice libraries were <italic>de&#x000a0;novo</italic> assembled to generate the transcriptome using T<sc>rinity</sc> 2.2.0 (&#x02212;min_kmer_cov 2 &#x02212;kmer 25 &#x02212;min_contig_length 200). To obtain the RSV genome sequences, the assembled transcripts were compared with the reference RSV genome sequences from GenBank (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_003755.1">NC_003755.1</ext-link> for RNA1, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_003754.1">NC_003754.1</ext-link> for RNA2, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_003776.1">NC_003776.1</ext-link> for RNA3 and <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_003753.1">NC_003753.1</ext-link> for RNA 4) using B<sc>lastn</sc> with an E&#x02010;value cutoff of 1e<sup>&#x02212;20</sup>. Another assembly strategy was utilized to verify the assembly results. Clean reads were first mapped to the reference RSV genome sequences using B<sc>wa</sc> (Li &#x00026; Durbin, <xref rid="nph15246-bib-0021" ref-type="ref">2009</xref>) to retrieve the virus reads, which were then assembled using Trinity 2.2.0. Both strategies produced similar assembly results. The nucleotide sequences of the newly assembled RSV genome were deposited in NCBI with the accession numbers MF287953&#x02013;MF287956. Each segment of the newly assembled RSV genome was aligned with that of the reference RSV genome from GenBank using C<sc>lustal</sc>W (Larkin <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0020" ref-type="ref">2007</xref>).</p><p>The SRBSDV genome sequencing data were retrieved from the published work of Wang <italic>et&#x000a0;al</italic>. (<xref rid="nph15246-bib-0037" ref-type="ref">2016a</xref>). Two versions of the genome were assembled with SRBSDV reads from the viruliferous strains with high viral titres (HVT) and medium viral titres (MVT), and the resulting genome assemblies were compared with the published reference genome from GenBank (from <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_014708.1">NC_014708.1</ext-link> to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_014717.1">NC_014717.1</ext-link>) using the same methods as those used in the RSV genome assembly and comparison.</p></sec><sec id="nph15246-sec-0006"><title>Touchdown reverse transcription&#x02010;polymerase chain reaction (RT&#x02010;PCR) for determination of the 3&#x02032;&#x02010;terminal sequences</title><p>Two micrograms of total RNA from the planthoppers or plant leaves were prepared for first&#x02010;strand cDNA synthesis using a Superscript III First&#x02010;Strand Synthesis System (Invitrogen) with random primers for the time course experiment or specific primers that were designed according to the newly assembled RSV genomic sequences RNA1&#x02010;3&#x02032;R, RNA2&#x02010;3&#x02032;R, RNA3&#x02010;3&#x02032;R and RNA4&#x02010;3&#x02032;R. The 3&#x02032;&#x02010;terminal sequences of the four RNA segments were then amplified with touchdown RT&#x02010;PCR with the primer pairs RNA1&#x02010;3&#x02032;F and RNA1&#x02010;3&#x02032;R, RNA2&#x02010;3&#x02032;F and RNA2&#x02010;3&#x02032;R, RNA3&#x02010;3&#x02032;F and RNA3&#x02010;3&#x02032;R, and RNA4&#x02010;3&#x02032;F and RNA4&#x02010;3&#x02032;R. The primer sequences are listed in Supporting Information Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>. The touchdown PCR protocol was as follows: 94&#x000b0;C for 3&#x000a0;min; 10 cycles of 94&#x000b0;C for 30&#x000a0;s, 68&#x000b0;C for 30&#x000a0;s (&#x02212;1&#x000b0;C each cycle) and 72&#x000b0;C for 1&#x000a0;min; 25 cycles of 94&#x000b0;C for 30&#x000a0;s, 58&#x000b0;C for 30&#x000a0;s and 72&#x000b0;C for 1&#x000a0;min; and, finally, 72&#x000b0;C for 5&#x000a0;min.</p></sec><sec id="nph15246-sec-0007"><title>RT&#x02010;PCR</title><p>Two micrograms of total RNA from RSV&#x02010;infected planthoppers or plant leaves were prepared for first&#x02010;strand cDNA synthesis using a Superscript III First&#x02010;Strand Synthesis System (Invitrogen) with random primers. The fragments from the inner regions of RNA1 and RNA2 were amplified to measure the total RNA levels of RNA1 and RNA2 using primers RNA1&#x02010;inner&#x02010;F and RNA1&#x02010;inner&#x02010;R and primers RNA2&#x02010;inner&#x02010;F and RNA2&#x02010;inner&#x02010;R, respectively. The transcript levels of the <italic>actin</italic> genes of the small brown planthopper (Jiao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0016" ref-type="ref">2017</xref>), rice (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="AK100267">AK100267</ext-link>) (Chern <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0006" ref-type="ref">2013</xref>), wheat (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="TC234027">TC234027</ext-link>) (Tenea <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0032" ref-type="ref">2011</xref>) and tobacco (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="AY594294">AY594294</ext-link>) (Liu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0022" ref-type="ref">2012</xref>) were quantified with the primers actin&#x02010;insect&#x02010;F and actin&#x02010;insect&#x02010;R, actin&#x02010;rice&#x02010;F and actin&#x02010;rice&#x02010;R, actin&#x02010;wheat&#x02010;F and actin&#x02010;wheat&#x02010;R, and actin&#x02010;tobacco&#x02010;F and actin&#x02010;tobacco&#x02010;R, respectively, and were used as internal controls to normalize the levels of the total input RNAs. The primer sequences are listed in Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>. The PCR protocol was as follows: 94&#x000b0;C for 3&#x000a0;min; 30 cycles of 94&#x000b0;C for 30&#x000a0;s, 55&#x000b0;C for 30&#x000a0;s and 72&#x000b0;C for 30&#x000a0;s; and, finally, 72&#x000b0;C for 5&#x000a0;min.</p></sec><sec id="nph15246-sec-0008"><title>5&#x02032;&#x02010;Rapid amplification of cDNA ends (5&#x02032;&#x02010;RACE) assays</title><p>The RNAs extracted from the viruliferous planthoppers and RSV&#x02010;infected rice leaves were employed to analyse the 5&#x02032;&#x02010;ends of the viral RNA segments using the SMARTer<sup>&#x000ae;</sup> RACE 5&#x02032;/3&#x02032; Kit (Takara, Mountain View, CA, USA). The first&#x02010;strand cDNA templates from 5&#x02032;&#x02010;RACE were synthesized following the instructions provided in the user manual. Two micrograms of RNA were combined with 2&#x000a0;&#x003bc;M of Random Primer Mix and incubated at 72&#x000b0;C for 3&#x000a0;min. After cooling to 4&#x000b0;C over 2&#x000a0;min, SMARTer II A Oligonucleotide, Master Mix, RNase Inhibitor and SMARTScribe Reverse Transcriptase were added to reach a final volume of 20&#x000a0;&#x003bc;l. The reaction was incubated at 42&#x000b0;C for 90&#x000a0;min and then heated at 70&#x000b0;C for 10&#x000a0;min.</p><p>Two rounds of nested PCR were conducted using an Applied Biosystems<sup>&#x000ae;</sup> ProFlex&#x02122; Thermal Cycler (Thermo Fisher Scientific, Bartlesville, OK, USA). The first round of amplification included the 5&#x02032;&#x02010;first&#x02010;strand cDNA, PCR Master Mix, 10&#x000a0;&#x000d7;&#x000a0;UPM (from the kit) and 10&#x000a0;pmol of 5&#x02032;&#x02010;gene&#x02010;specific primer (5&#x02032;&#x02010;GPS) for the 5&#x02032;&#x02010;end of each RNA (i.e. RNA1&#x02010;GSP, RNA2&#x02010;GSP, RNA3&#x02010;GSP or RNA4&#x02010;GSP, Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>). The second round of amplification included 1&#x000a0;&#x003bc;l of a 1&#x000a0;:&#x000a0;50 dilution of the product from the first round of PCR, PCR Master Mix, 10&#x000a0;&#x000d7;&#x000a0;UPS (from the kit) and 10&#x000a0;pmol of nested 5&#x02032;&#x02010;GPS (i.e. RNA1&#x02010;nested GSP, RNA2&#x02010;nested GSP, RNA3&#x02010;nested GSP or RNA4&#x02010;nested GSP, Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>). The amplification reaction was conducted under the following conditions: 94&#x000b0;C for 3&#x000a0;min; 10 cycles of 94&#x000b0;C for 30&#x000a0;s and 68&#x000b0;C for 30&#x000a0;s (&#x02212;1&#x000b0;C each cycle); 72&#x000b0;C for 2&#x000a0;min; 25 cycles of 94&#x000b0;C for 30&#x000a0;s, 58&#x000b0;C for 30&#x000a0;s and 72&#x000b0;C for 2&#x000a0;min; and, finally, 72&#x000b0;C for 5&#x000a0;min. The PCR products were purified and inserted into a pEASY&#x02010;Blunt Zero Cloning vector (CB501&#x02010;01, Transgen, Beijing, China) for sequencing.</p></sec><sec id="nph15246-sec-0009"><title>Time course analyses of the viral 3&#x02032;&#x02010;terminal extensions containing RNA1 and RNA2 in the planthoppers and plants</title><p>Non&#x02010;viruliferous fourth&#x02010;instar nymphs were fed on an artificial diet containing the JSHA isolate of RSV crude preparations from the infected rice leaves, as described previously (Zhao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0046" ref-type="ref">2016a</xref>). After feeding on RSV for 8&#x000a0;h, the nymphs were transferred to healthy rice seedlings and then collected after 2, 5, 8, 10, 12, 14 and 22&#x000a0;d. Four replicates and five insects per replicate at each time point were prepared.</p><p>Five viruliferous fifth&#x02010;instar nymphs were fed on one healthy rice seedling or wheat seedling for 4&#x000a0;h and then removed. The rice seedlings were collected after 1, 2, 3, 4, 5, 10 or 15&#x000a0;d of culture at 25&#x000b0;C. The wheat seedlings were collected after 1, 3, 5, 10, 15 or 30&#x000a0;d of culture at 25&#x000b0;C. Three replicates and three leaves per replicate were prepared.</p><p>The JSHA isolates of the RSV crude preparations were extracted from 100 viruliferous planthoppers in 40&#x000a0;ml of 0.01&#x000a0;M PBS buffer (pH&#x000a0;7.2), as described previously (Zhao <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0047" ref-type="ref">2016b</xref>). After the quantification of RSV in the crude preparations using ELISA at the CP level, moderate amounts of RSV were mechanically inoculated into the leaves of tobacco seedlings at the six&#x02010; to seven&#x02010;leaf stage, as described previously (Wei <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0040" ref-type="ref">2009</xref>). The inoculated local leaves were collected after 1, 3, 5, 10, 15 or 30&#x000a0;d of culture at 25&#x000b0;C. Three replicates and two leaves per replicate were prepared.</p><p>RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were identified by amplification of the 3&#x02032;&#x02010;non&#x02010;translated regions containing the extended terminal sequences using touchdown RT&#x02010;PCR. The fragments from the inner regions of RNA1 and RNA2 were amplified to measure the total RNA levels of RNA1 and RNA2, respectively, and were analysed in 1% DNA gel after a five&#x02010;fold dilution. The ratios of RNA1 or RNA2 to the extended 3&#x02032;&#x02010;terminal sequences were determined by associating the relative grey values of the extended 3&#x02032;&#x02010;terminal sequences to those of the RNA levels of RNA1 and RNA2 using I<sc>mage</sc>J (National Institutes of Health, Bethesda, MD, USA). The differences were statistically evaluated with one&#x02010;way ANOVA for multiple comparisons with S<sc>pss</sc> 17.0 software. The values are represented as the means&#x000a0;&#x000b1;&#x000a0;SEs.</p></sec><sec id="nph15246-sec-0010"><title>Quantification of the replication levels of RNA1 and RNA2 from insect&#x02010;derived and plant&#x02010;derived RSV in rice plants</title><p>Comparable amounts of the JSHA isolates of RSV from the viruliferous planthoppers and the infected rice leaves with obvious stripe symptoms were microinjected into the leaves of healthy 2&#x02010;wk&#x02010;old rice. The inoculated rice seedlings were cultured at 25&#x000b0;C and collected every day until 5&#x000a0;d. Eight replicates and three leaves in each replicate were prepared.</p><p>The replications of RSV RNA1 and RNA2 were determined by the quantification of the RNA levels of the 5&#x02032;&#x02010;non&#x02010;translated region of RNA1 with the primers RNA1&#x02010;5&#x02032;NTR&#x02010;F and RNA1&#x02010;5&#x02032;NTR&#x02010;R or by comparison of the intergenic region of RNA2 with the primers RNA2&#x02010;IR&#x02010;F and RNA2&#x02010;IR&#x02010;R using quantitative real&#x02010;time PCR on a Light Cycler 480 II (Roche, Basel, Switzerland). The transcript level of the rice <italic>ubiquitin</italic> (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="AK061988">AK061988</ext-link>) was quantified with the primers ubq&#x02010;F and ubq&#x02010;R as an internal control. The primer sequences are listed in Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>. The thermal cycling conditions were as follows: 95&#x000b0;C for 10&#x000a0;min; 45 cycles of 95&#x000b0;C for 10&#x000a0;s, 58&#x000b0;C for 20&#x000a0;s and 72&#x000b0;C for 20&#x000a0;s; and, finally, 65&#x000b0;C for 1&#x000a0;min. The RNA level of each RSV segment relative to that of <italic>ubiquitin</italic> is reported as the mean&#x000a0;&#x000b1;&#x000a0;SE. A Student's <italic>t</italic>&#x02010;test was performed to evaluate the difference between the two means using S<sc>pss</sc> 17.0. The RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were determined using touchdown RT&#x02010;PCR as described earlier in the Materials and Methods section.</p></sec><sec id="nph15246-sec-0011"><title>Purification of the RSV ribonucleoprotein particles</title><p>RSV crude preparations were extracted from 10&#x000a0;g of rice leaves infected with JSHA or KMXD isolates of RSV in 40&#x000a0;ml of 0.01&#x000a0;M PBS buffer (pH&#x000a0;7.2) containing a protease inhibitor cocktail (ThermoFisher Scientific, Waltham, MA, USA). After centrifugation at 1344&#x000a0;<italic><bold>g</bold></italic> for 5&#x000a0;min and 8400&#x000a0;<italic><bold>g</bold></italic> for 15&#x000a0;min at 4&#x000b0;C, the supernatant containing RSV was collected and incubated with RNase A Solution (Promega) at room temperature for 30&#x000a0;min to remove the RNAs from host cells and viral mRNAs. To precipitate the RSV particles, the mixtures were adjusted to 8% polyethylene glycol 6000 (Lablead) and 0.1&#x000a0;M NaCl, and then stirred in ice for 1&#x000a0;h. After centrifugation at 12&#x000a0;000&#x000a0;<italic><bold>g</bold></italic> for 1&#x000a0;h at 4&#x000b0;C, the pellets were dissolved in 0.01&#x000a0;M PBS buffer and then purified with Dynabeads<sup>&#x000ae;</sup> Protein G (Novex<sup>&#x000ae;</sup> by Thermo Fisher&#x000a0;Scientific) based on immunoaffinity chromatography, as described by Chand <italic>et&#x000a0;al</italic>. (<xref rid="nph15246-bib-0005" ref-type="ref">2016</xref>). Fifty microlitres of Protein G beads were prepared with 10&#x000a0;&#x003bc;g anti&#x02010;CP monoclonal antibody, which was bound and then incubated with 1000&#x000a0;&#x003bc;l of viral crude preparations at 4&#x000b0;C overnight. The antibody&#x02013;CP&#x02013;viral ribonucleoprotein complex was dissociated from the beads with elution buffer (Novex<sup>&#x000ae;</sup>, Thermo Fisher Scientific). The purified ribonucleoprotein particles were then diluted with 0.01&#x000a0;M PBS, mounted on grids and stained with 4% uranyl acetate (Ishikawa <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0015" ref-type="ref">1989</xref>). The grids were examined using a JEM&#x02010;1400 transmission electron microscope (Jeol, Tokyo, Japan) for virion observation.</p></sec><sec id="nph15246-sec-0012"><title>Phylogenetic analysis of the RSV isolates</title><p>The <italic>CP</italic> gene was amplified with RT&#x02010;PCR performed on Jiangsu JSHA isolates and the four isolates from Yunnan using the primers CP&#x02010;RT&#x02010;F and CP&#x02010;RT&#x02010;R (Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>), as described previously (Wei <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0040" ref-type="ref">2009</xref>). The <italic>CP</italic> sequences obtained were deposited in NCBI with accession numbers MG680206 (isolate JHSA), MG680207 (isolate KMXD), MG680208 (isolate CXYL), MG680209 (isolate CXYH) and MG680210 (isolate YXLC).</p><p>The PCR products were inserted into pEASY&#x02010;Blunt Zero Cloning Vectors (TransGen, Beijing, China) and transformed into <italic>Escherichia coli</italic> T1 (TransGen) for sequencing. The <italic>CP</italic> sequences obtained from the five isolates and from another 75 RSV isolates reported by other laboratories (Kakutani <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0019" ref-type="ref">1991</xref>; Zhu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0050" ref-type="ref">1991</xref>; Qu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0026" ref-type="ref">1997</xref>; Wei <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0040" ref-type="ref">2009</xref>) were included in the phylogenetic analysis. The RNA3 of <italic>Maize stripe virus</italic> (S40180 in GenBank) was used as an outgroup. Multiple nucleotide sequence alignments were performed using C<sc>lustal</sc>W (Thompson <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0033" ref-type="ref">1994</xref>). The phylogenetic tree was constructed using the neighbour&#x02010;joining method with the Kimura two&#x02010;parameter model implemented in M<sc>ega</sc> 5.0. Gaps were treated as a fifth character state. Evaluations of the statistical confidence in nodes were based on 1000 bootstrap replicates. Branches with &#x0003c;&#x000a0;50% bootstrap values were collapsed.</p></sec></sec><sec id="nph15246-sec-0013"><title>Results</title><sec id="nph15246-sec-0014"><title>
+<italic>De&#x000a0;novo</italic> assembly of the RSV genome using RNA sequencing data from vector insects and host plants</title><p>To assemble the RSV genome, we performed deep sequencing of the transcriptomes of the small brown planthoppers that had acquired RSV Jiangsu isolate (JSHA) 5&#x000a0;d previously, the viruliferous planthoppers and RSV&#x02010;infected rice. Totals of 115&#x000a0;586&#x000a0;652 clean reads from the planthoppers that had acquired RSV 5&#x000a0;d previously, 742&#x000a0;362&#x000a0;522 from viruliferous planthoppers and 779&#x000a0;708&#x000a0;192 from rice were obtained (Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S2</xref>). Following mapping to the published RSV reference genome (Hamamatsu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0012" ref-type="ref">1993</xref>; Toriyama <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0034" ref-type="ref">1994</xref>), 953&#x000a0;253 clean reads (0.82% of total clean reads) from the planthoppers that had acquired RSV 5&#x000a0;d previously, 1368&#x000a0;886 (0.18% of total clean reads) from viruliferous planthoppers and 1780&#x000a0;260 (0.23% of total clean reads) from rice were retrieved as RSV reads (Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S2</xref>). Higher ratios of RSV reads were captured from the first sequencing batch, i.e. the planthoppers that had acquired RSV 5&#x000a0;d previously (In5d, 0.82%), the first replicate of viruliferous planthoppers (InQ&#x02010;1, 0.49%) and rice samples (P&#x02010;1, 1.39%) than from the other replicates in the second sequencing batch (Fig.&#x000a0;<xref rid="nph15246-fig-0001" ref-type="fig">1</xref>; Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S2</xref>). These differences were probably a result of the varied viral loads between the samples, or the different rRNA removal efficiencies in the two independent sequencing batches. Thus, the virus reads from the first sequencing batch were <italic>de&#x000a0;novo</italic> assembled to generate the genomes of RSV from vector insects and host plants. Because the assembled genome from the host plants was longer than the other two assembled genomes from the vector insect samples, it was used as the new reference to map back RSV reads and for comparison with the published genome. After mapping back the RSV reads, the average coverage depths of the four RNA segments of RSV in the first sequencing batch ranged from 936 to 7552 times for the planthoppers that had acquired RSV 5&#x000a0;d previously, from 377 to 6714 times for the viruliferous planthoppers, and from 2192 to 7627 times for the infected rice (Table&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S3</xref>); all of these coverage depths were sufficient for effective genome assembly.</p><fig fig-type="Figure" xml:lang="en" id="nph15246-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Circular representations of the <italic>Rice stripe virus</italic> (<styled-content style="fixed-case">RSV</styled-content>) read coverages along the viral genome in different samples. The outer scale marks the genomic positions. The first track indicates the genome annotations. The heatmaps on tracks 2&#x02013;10 represent the viral read coverages in different samples. In5d, the small brown planthoppers (<italic>Laodelphax striatellus</italic>) that had acquired <styled-content style="fixed-case">RSV</styled-content> 5&#x000a0;d previously. InQ, the four replicates of the viruliferous small brown planthoppers. P, the four replicates of the <styled-content style="fixed-case">RSV</styled-content>&#x02010;infected rice (<italic>Oryza sativa</italic> Huangjinqing) with obvious stripe symptoms.</p></caption><graphic id="nlm-graphic-1" xlink:href="NPH-219-1085-g001"/></fig></sec><sec id="nph15246-sec-0015"><title>The newly assembled RSV genome contains 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of two genome segments</title><p>The newly assembled genome of RSV was 17&#x000a0;155&#x000a0;nt, which was larger than the published reference genome (17&#x000a0;144&#x000a0;nt) (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0030" ref-type="ref">1993</xref>; Toriyama <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0034" ref-type="ref">1994</xref>). The lengths of the four RNA segments from RNA1 to RNA4 in the newly assembled genome were 8985, 3532, 2488 and 2150&#x000a0;nt, respectively. RNA1 and RNA2 were longer than the corresponding sequences in the reference genome, which were 8969 and 3514&#x000a0;nt, respectively. The extended nucleotide sequence at the 3&#x02032;&#x02010;terminus of RNA1 was a 16&#x02010;nt (5&#x02032;&#x02010;CATGAACATGCAAGGG&#x02010;3&#x02032;) sequence that was sequenced four times. This sequence was identical to the 8874&#x02013;8889&#x02010;nt fragment in the upstream region of RNA1. The extended nucleotide sequence at the 3&#x02032;&#x02010;terminus of RNA2 was a 15&#x02010;nt (5&#x02032;&#x02010;AGCATGTCTCAAAGT&#x02010;3&#x02032;) sequence that was sequenced 11 times. Similarly, the 15&#x02010;nt extension sequence was identical to the 3241&#x02013;3255&#x02010;nt fragment in the upstream region of RNA2. The assembled RNA3 and RNA4 were shorter than the corresponding published reference sequences, which were 2504 and 2157&#x000a0;nt, respectively (Zhu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0050" ref-type="ref">1991</xref>, <xref rid="nph15246-bib-0049" ref-type="ref">1992</xref>). The truncated nucleotide sequences occurred in intergenic regions and the 3&#x02032;&#x02010;termini.</p><p>To verify the 3&#x02032;&#x02010;termini of the four RNA segments, touchdown RT&#x02010;PCR was performed using terminal sequence&#x02010;specific primers. Fragments of 784, 521, 793 and 795&#x000a0;nt were amplified from the 3&#x02032;&#x02010;termini of RNA1 to RNA4, respectively, and sequenced by Sanger sequencing. The existence of the 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of RNA1 and RNA2 was confirmed (Fig.&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>). The 3&#x02032;&#x02010;termini of RNA3 and RNA4 were found to be the same as those of the published reference genome and not shorter than the presented assembled genome (Fig.&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S1</xref>). The 5&#x02032;&#x02010;terminal sequences of the four RNA segments were verified by 5&#x02032;&#x02010;RACE experiments and proven to be the same as those of the published reference genome (Fig.&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S2</xref>).</p><p>To exclude interference from the viral mRNA, the RSV ribonucleoprotein particles were purified using the anti&#x02010;CP monoclonal antibody from the JSHA isolate&#x02010;infected rice seedlings, and the viral genomic RNA was then extracted from the ribonucleoprotein particles for 3&#x02032;&#x02010;terminal sequence determination. Filamentous ribonucleoprotein particles were clearly observed under transmission electron microscopy (Fig.&#x000a0;<xref rid="nph15246-fig-0002" ref-type="fig">2</xref>a). Based on the touchdown RT&#x02010;PCR and Sanger sequencing results, the 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of RNA1 and RNA2, respectively, were detected in the RNA that was associated with the purified ribonucleoprotein particles (Fig.&#x000a0;<xref rid="nph15246-fig-0002" ref-type="fig">2</xref>b), which strongly supports the notion that the 16&#x02010; and 15&#x02010;nt extensions were present in the viral genomic RNA and not the viral mRNA. A schematic representation of the RSV genome that was obtained from the <italic>de&#x000a0;novo</italic> assembly and verified on the terminal sequences is presented in Fig.&#x000a0;<xref rid="nph15246-fig-0003" ref-type="fig">3</xref>(a).</p><fig fig-type="Figure" xml:lang="en" id="nph15246-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Determination of the 3&#x02032;&#x02010;terminal extensions of <italic>Rice stripe virus</italic> (<styled-content style="fixed-case">RSV</styled-content>) <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 from purified viral ribonucleoprotein particles and infected samples. (a) Purified <styled-content style="fixed-case">RSV</styled-content> ribonucleoprotein particles of the <styled-content style="fixed-case">JSHA</styled-content> isolate stained with 4% uranyl acetate and observed under a transmission electron microscope. (b) Amplification of the extended 3&#x02032;&#x02010;terminal sequences of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 from the purified ribonucleoprotein particles of <styled-content style="fixed-case">JSHA</styled-content> and <styled-content style="fixed-case">KMXD</styled-content> isolates through touchdown reverse transcription&#x02010;polymerase chain reaction (<styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>). The total amounts of viral <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 (amplifying fragments from the inner regions) were amplified as internal controls. (c) Amplification of the extended 3&#x02032;&#x02010;terminal sequences of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 from four Yunnan isolates through touchdown <styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>.</p></caption><graphic id="nlm-graphic-3" xlink:href="NPH-219-1085-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="nph15246-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Schematic representation of the newly assembled <italic>Rice stripe virus</italic> (<styled-content style="fixed-case">RSV</styled-content>) and <italic>Southern rice black&#x02010;streaked dwarf virus</italic> (<styled-content style="fixed-case">SRBSDV</styled-content>) genomes. (a) The <styled-content style="fixed-case">RSV</styled-content> genome that was obtained by <italic>de&#x000a0;novo</italic> assembly and verified on the terminal sequences by 3&#x02032;&#x02010;end reverse transcription&#x02010;polymerase chain reaction (<styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>) amplification, Sanger sequencing and 5&#x02032;&#x02010;rapid amplification of cDNA ends (5&#x02032;&#x02010;<styled-content style="fixed-case">RACE</styled-content>). The extended 3&#x02032;&#x02010;terminal sequences in <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 are marked in red. (b) The <italic>de&#x000a0;novo</italic> assembled sense strands of the <styled-content style="fixed-case">SRBSDV</styled-content> genome. The sequencing data were retrieved from the work of Wang <italic>et&#x000a0;al</italic>. (<xref rid="nph15246-bib-0037" ref-type="ref">2016a</xref>). The extended 3&#x02032;&#x02010;terminal sequences in <styled-content style="fixed-case">RNA</styled-content> segments 4&#x02013;8 are marked in red.</p></caption><graphic id="nlm-graphic-5" xlink:href="NPH-219-1085-g003"/></fig></sec><sec id="nph15246-sec-0016"><title>The 3&#x02032;&#x02010;terminal extensions exist in different RSV isolates</title><p>The genomic 3&#x02032;&#x02010;terminal extensions were observed in the RSV Jiangsu isolate (JSHA), which belongs to subtype I. To determine whether this phenomenon was common in different isolates of RSV, four Yunnan isolates (CXYH, CXYL, YXLC and KMXD) belonging to subtype II were tested (Fig.&#x000a0;<xref rid="nph15246-sup-0001" ref-type="supplementary-material">S3</xref>). The 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of RNA1 and RNA2 were successfully identified in the four Yunnan isolates from infected planthoppers and rice plants (Fig.&#x000a0;<xref rid="nph15246-fig-0002" ref-type="fig">2</xref>c). Furthermore, these extension sequences were also verified from the purified RSV ribonucleoprotein of the KMXD isolate (Fig.&#x000a0;<xref rid="nph15246-fig-0002" ref-type="fig">2</xref>b). Therefore, we conclude that the 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of RNA1 and RNA2 broadly exist in different isolates of RSV from different regions.</p></sec><sec id="nph15246-sec-0017"><title>The 3&#x02032;&#x02010;terminal extensions are also found in the genome of SRBSDV</title><p>Next, we explored whether the existence of the 3&#x02032;&#x02010;terminal extensions was a common phenomenon in plant RNA viruses. We searched the public databases and found the transcriptomic data from samples infected by SRBSDV. SRBSDV is a double&#x02010;stranded, multiple&#x02010;segment RNA virus that infects a variety of plants, such as rice and maize (Zhou <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0048" ref-type="ref">2013</xref>). The genome of SRBSDV contains 10 segments that are named S1&#x02013;S10 (Wang <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0037" ref-type="ref">2016a</xref>). We <italic>de&#x000a0;novo</italic> assembled the SRBSDV genome using the transcriptomic sequencing data that were generated from cDNA libraries constructed using random primers (<xref rid="nph15246-bib-0037" ref-type="ref">Wang <italic>et&#x000a0;al</italic>., 2016a</xref>). Compared with the published reference genome (from <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_014708.1">NC_014708.1</ext-link> to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="NC_014717.1">NC_014717.1</ext-link> in GenBank), the <italic>de&#x000a0;novo</italic> assembled SRBSDV genome contained 3&#x02032;&#x02010;terminal extension sequences of 13 to 17&#x000a0;nt in length on RNA segments 4&#x02013;8, and each extension sequence was identical or nearly identical to a fragment in the upstream region of the same RNA segment (Figs&#x000a0;<xref rid="nph15246-fig-0003" ref-type="fig">3</xref>b, <xref rid="nph15246-sup-0001" ref-type="supplementary-material">S4</xref>). These characteristics are similar to those of RSV, which suggests that the existence of the 3&#x02032;&#x02010;terminal extension sequences may be a general feature of RNA viruses.</p></sec><sec id="nph15246-sec-0018"><title>The 3&#x02032;&#x02010;terminal extensions of RSV are enriched in the vector insects and gradually eliminated in the host plants</title><p>To explore the dynamic alterations of the 3&#x02032;&#x02010;terminal extensions in the vector insects and host plants, the amounts of RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were measured using touchdown RT&#x02010;PCR at different time points after inoculation with the JSHA isolate of RSV. The ratios of RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were determined by dividing the level of 3&#x02032;&#x02010;non&#x02010;translated regions containing the extended terminal sequences by the total RNA level of RNA1 or RNA2. In the planthoppers, both RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were detected in low quantities at 2&#x000a0;d after inoculation (DAI) with plant&#x02010;derived RSV (Fig.&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>a), with relative ratios of 6.6%&#x000a0;&#x000b1;&#x000a0;1.2% and 7.3%&#x000a0;&#x000b1;&#x000a0;1.5%, respectively (Fig.&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>e,f). With increased virus incubation time, increasing amounts of RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were produced, and the relative ratios reached 34.9%&#x000a0;&#x000b1;&#x000a0;4.4% for the extended RNA1 and 48.6%&#x000a0;&#x000b1;&#x000a0;9.5% for the extended RNA2 at 22&#x000a0;DAI (Fig.&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>a,e,f).</p><fig fig-type="Figure" xml:lang="en" id="nph15246-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Accumulation of viral extended 3&#x02032;&#x02010;terminal sequences in vector insects and host plants. Accumulations of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 with the extended 3&#x02032;&#x02010;terminal sequences in the small brown planthoppers (<italic>Laodelphax striatellus</italic>) (a), rice (<italic>Oryza sativa</italic> Huangjinqing) (b), wheat (<italic>Triticum aestivum</italic> jingdong 22) (c) and tobacco (<italic>Nicotiana benthamiana</italic>) (d) at different days after <styled-content style="fixed-case">RSV</styled-content> infection. (e, f) Charts depicting the changes in the relative ratios of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 to the extended 3&#x02032;&#x02010;terminal sequences in planthoppers and rice plants, respectively. The extended 3&#x02032;&#x02010;terminal sequences (3&#x02032;&#x02010;<styled-content style="fixed-case">ETS</styled-content>) were determined by amplifying the 3&#x02032;&#x02010;non&#x02010;translated regions containing the extended terminal sequences using touchdown reverse transcription&#x02013;polymerase chain reaction (<styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>). The total amounts of viral <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 (based on amplification of fragments from the inner regions) and the transcripts of <italic>actin</italic> were used as internal controls. The ratios of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 to the extended 3&#x02032;&#x02010;terminal sequences were determined by associating the relative grey value of 3&#x02032;&#x02010;<styled-content style="fixed-case">ETS</styled-content> to that of the <styled-content style="fixed-case">RNA</styled-content> levels of <styled-content style="fixed-case">RNA</styled-content>1 or <styled-content style="fixed-case">RNA</styled-content>2 using I<sc>mage</sc>J based on Fig.&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>a,b. The values are represented as the means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>s. The differences were statistically evaluated by one&#x02010;way <styled-content style="fixed-case">ANOVA</styled-content> for multiple comparisons with <sc>spss</sc> 17.0 software. Different lowercase letters indicate significant differences at the <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 level.</p></caption><graphic id="nlm-graphic-7" xlink:href="NPH-219-1085-g004"/></fig><p>However, in the host plants that included rice, wheat and tobacco, the trends of variation in the RNA1 and RNA2 samples with extended 3&#x02032;&#x02010;terminal sequences were different from those in the planthoppers (Fig.&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>b&#x02013;d). On RSV infection (1&#x000a0;DAI), the relative ratios of RNA1 and RNA2 with the extended 3&#x02032;&#x02010;terminal sequences were &#x0003e;&#x000a0;20% and 30%, respectively, in the three plant species (Figs&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>e,f, <xref rid="nph15246-sup-0001" ref-type="supplementary-material">S5</xref>). These ratios gradually decreased with the time of viral incubation. In the late stage of RSV infection in rice (15&#x000a0;DAI), wheat (30&#x000a0;DAI) and tobacco (30&#x000a0;DAI), &#x0003c;3% of the RNA1 and RNA2 had the 3&#x02032;&#x02010;terminal extensions (Figs&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>e,f, <xref rid="nph15246-sup-0001" ref-type="supplementary-material">S5</xref>). Therefore, the 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini of RNA1 and RNA2 were enriched in vector insects, but gradually reduced in host plants during the infection process.</p></sec><sec id="nph15246-sec-0019"><title>Potential influence of the extended 3&#x02032;&#x02010;terminal sequences on the replication of viral RNA1 and RNA2</title><p>The panhandle structure formed by the 3&#x02032;&#x02010; and 5&#x02032;&#x02010;terminal regions is thought to play an important role in RNA replication in viruses, such as the Bunyamwera virus, the prototypic arenavirus lymphocytic choriomeningitis virus, influenza virus and flaviviruses (Fodor <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0011" ref-type="ref">1994</xref>; Flick &#x00026; Hobom, <xref rid="nph15246-bib-0010" ref-type="ref">1999</xref>; Perez &#x00026; de la Torre, <xref rid="nph15246-bib-0025" ref-type="ref">2003</xref>; Barr &#x00026; Wertz, <xref rid="nph15246-bib-0002" ref-type="ref">2004</xref>). The 3&#x02032;&#x02010;terminal extensions identified in the RSV RNA1 and RNA2 would affect the replication of these two RNAs. To test this hypothesis, the replication levels of RNA1 and RNA2 from insect&#x02010;derived or plant&#x02010;derived RSVs were quantified and compared in rice plants within 5&#x000a0;d of infection, because the ratios of the 3&#x02032;&#x02010;terminal extensions of insect&#x02010;derived RSV declined to &#x0003c;&#x000a0;10% in rice at 5&#x000a0;DAI (Fig.&#x000a0;<xref rid="nph15246-fig-0004" ref-type="fig">4</xref>b,e,f). One day after microinjection of either insect&#x02010; or plant&#x02010;derived RSV, the level of RNA1 was not detectable in plants. After 2&#x000a0;DAI, the amount of RNA1 increased, but the accumulation of RNA1 was higher when the inoculation was performed with plant&#x02010;derived RSV than when it was performed with insect&#x02010;derived RSV, and the difference became statistically significant at 5&#x000a0;DAI (Fig.&#x000a0;<xref rid="nph15246-fig-0005" ref-type="fig">5</xref>a). Similarly, the level of RNA2 was not detectable within the first 3&#x000a0;d of infection. After 4&#x000a0;DAI, the accumulation of RNA2 was significantly higher when the plants were inoculated with plant&#x02010;derived RSV (Fig.&#x000a0;<xref rid="nph15246-fig-0005" ref-type="fig">5</xref>a). The accumulated levels of the extended 3&#x02032;&#x02010;terminal sequences of RNA1 and RNA2 from the two types of RSV were also simultaneously measured. The amount of the 3&#x02032;&#x02010;terminal extensions obviously decreased in rice with time. Moreover, fewer 3&#x02032;&#x02010;terminal extensions of RNA1 and RNA2 existed in plant&#x02010;derived RSVs than in insect&#x02010;derived RSVs (Fig.&#x000a0;<xref rid="nph15246-fig-0005" ref-type="fig">5</xref>b). The correlation between the amount of 3&#x02032;&#x02010;terminal extensions and the replication level of the viral RNAs suggests that the 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini may be detrimental to the replication of viral RNA1 and RNA2 in the host plant.</p><fig fig-type="Figure" xml:lang="en" id="nph15246-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Replication levels of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 in insect&#x02010;derived and plant&#x02010;derived <italic>Rice stripe virus</italic> (<styled-content style="fixed-case">RSV</styled-content>) in rice (<italic>Oryza sativa</italic> Huangjinqing). (a) The <styled-content style="fixed-case">RNA</styled-content> levels of viral <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 relative to that of rice <italic>ubiquitin</italic> in rice leaves within 5&#x000a0;d after inoculation with insect&#x02010;derived or plant&#x02010;derived <styled-content style="fixed-case">RSV</styled-content> as measured by quantitative real&#x02010;time <styled-content style="fixed-case">PCR</styled-content>. The values represent the means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>s from eight replicates. Student's <italic>t</italic>&#x02010;tests were performed to evaluate the differences between two means at the same time point. **, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01. (b) Accumulations of <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 with the extended 3&#x02032;&#x02010;terminal sequences (3&#x02032;&#x02010;<styled-content style="fixed-case">ETS</styled-content>) in rice leaves after inoculation with insect&#x02010; or plant&#x02010;derived <styled-content style="fixed-case">RSV</styled-content> as measured with touchdown reverse transcription&#x02010;polymerase chain reaction (<styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content>). The total amounts of viral <styled-content style="fixed-case">RNA</styled-content>1 and <styled-content style="fixed-case">RNA</styled-content>2 and the transcripts of rice <italic>actin</italic> were amplified as internal controls.</p></caption><graphic id="nlm-graphic-9" xlink:href="NPH-219-1085-g005"/></fig></sec></sec><sec id="nph15246-sec-0020"><title>Discussion</title><p>As a result of the error&#x02010;prone replication characteristics of RdRp, RNA viruses usually comprise heterogeneous intra&#x02010;host populations. Different genetic divergences occur in intra&#x02010;host populations of persistent&#x02010;propagative plant RNA viruses when they adapt to their vector insects and host plants. Here, we successfully assembled the RSV genome as it exists in its vector insect, i.e. the small brown planthopper, and analysed the genomic variations that occurred during the viral transmission between the vector insect and host plant. Although many plant virus genomes from field isolates have been reported, to the best of our knowledge, this is the first report of the determination of a plant virus genome through <italic>de&#x000a0;novo</italic> assembly from its vector insect with a comparison of the vector&#x02010;derived virus genome and the host&#x02010;derived virus genome.</p><p>The most outstanding finding of the present study is that the rotation between the vector insect and the host plant imposes a selective pressure on the RSV genome at the 3&#x02032;&#x02010;termini. Why have variations in the genomic 3&#x02032;&#x02010;termini not been observed in previous studies of various RSV field isolates from Japan, Korea and China in the past 20&#x000a0;yr (Zhang <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0045" ref-type="ref">2007</xref>; Jonson <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0017" ref-type="ref">2009a</xref>,<xref rid="nph15246-bib-0018" ref-type="ref">b</xref>; Wei <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0040" ref-type="ref">2009</xref>; Huang <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0014" ref-type="ref">2013</xref>, <xref rid="nph15246-bib-0013" ref-type="ref">2015</xref>)? The 5&#x02032;&#x02010; and 3&#x02032;&#x02010;terminal sequences of the four RNA segments were first determined in RSV T isolates from infected maize through two&#x02010;dimensional mobility shift analyses of the first 18 bases, followed by the application of chemical modification and enzymatic methods for longer sequences (Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0031" ref-type="ref">1990</xref>). Different lengths of RNAs have different two&#x02010;dimensional mobility shifts. Based on the present study, RNA1 and RNA2 with 3&#x02032;&#x02010;extensions accounted for only 3% of the total RNA segments in the late stage of RSV infection in host plants. Therefore, it is likely that only the predominant types of terminal sequences were measured in these previous studies. Since 1990, two main methods have been used for RSV genome re&#x02010;sequencing, i.e. cDNA library construction with specific primers designed according to the highly conserved 3&#x02032;&#x02010;terminal regions of the four viral RNA segments, and RT&#x02010;PCR with specific primer pairs that target specific regions in the genome (Zhu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0050" ref-type="ref">1991</xref>, <xref rid="nph15246-bib-0049" ref-type="ref">1992</xref>; Takahashi <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0030" ref-type="ref">1993</xref>; Toriyama <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0034" ref-type="ref">1994</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0045" ref-type="ref">2007</xref>; Jonson <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0017" ref-type="ref">2009a</xref>,<xref rid="nph15246-bib-0018" ref-type="ref">b</xref>; Wei <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0040" ref-type="ref">2009</xref>; Huang <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0013" ref-type="ref">2015</xref>). Consequently, all registered genome sequences of RSV isolates in GenBank, regardless of whether they are from infected maize or rice plants, are identical in their terminal sequences and do not contain the 3&#x02032;&#x02010;terminal sequences that were discovered in this study.</p><p>The extensions at the viral 3&#x02032;&#x02010;termini may affect RSV replication. Without the 16&#x02010; and 15&#x02010;nt extensions at the 3&#x02032;&#x02010;termini, the 5&#x02032;&#x02010; and 3&#x02032;&#x02010;termini of RNA1 and RNA2 are strongly self&#x02010;complementary, which enables the formation of a panhandle structure or a so&#x02010;called stem&#x02010;loop structure. The 3&#x02032;&#x02010;terminal extensions impair the formation of the panhandle structures of RNA1 and RNA2. During the initiation of negative&#x02010; or positive&#x02010;strand RNA synthesis, the stem&#x02010;loop structures resulting from the 3&#x02032;&#x02010; and 5&#x02032;&#x02010;terminal regions are thought to play an important role in RNA replication in viruses, such as the Bunyamwera virus, the prototypic arenavirus lymphocytic choriomeningitis virus, influenza virus and flaviviruses (Fodor <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0011" ref-type="ref">1994</xref>; Flick &#x00026; Hobom, <xref rid="nph15246-bib-0010" ref-type="ref">1999</xref>; Perez &#x00026; de la Torre, <xref rid="nph15246-bib-0025" ref-type="ref">2003</xref>; Barr &#x00026; Wertz, <xref rid="nph15246-bib-0002" ref-type="ref">2004</xref>). The amount of RSV with the 3&#x02032;&#x02010;terminal extensions increased with time in the vector insect and decreased or was eventually nearly eliminated in the host plant. This pattern is probably one of the reasons, from a structural perspective, for the limited replication of RSV in the vector insect and the uncontrolled replication in the host plant.</p><p>Our findings with regard to how the genome of a plant virus adapts to its vector insect and host plant share some commonalities with the adaptation of arboviruses to their vector insects and humans. Changes in viral RNAs have been thoroughly investigated in mosquito&#x02010;borne human pathogens, such as dengue virus and Zika virus, during their alternation between mosquitoes and humans (Liu <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0023" ref-type="ref">2013</xref>; Villordo &#x00026; Gamarnik, <xref rid="nph15246-bib-0036" ref-type="ref">2013</xref>; de Borba <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0003" ref-type="ref">2015</xref>; Sessions <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0028" ref-type="ref">2015</xref>; <xref rid="nph15246-bib-0038" ref-type="ref">Wang <italic>et&#x000a0;al</italic>., 2016b</xref>). The compositions of viral populations in mosquito and mammalian cells are quite different, and the enrichment and function of specific variants are host&#x02010;specific. For example, more variants in the 3&#x02032;&#x02010;untranslated region of dengue virus that contains point mutations or deletions have been detected in mosquito cells than in mammalian cells. The mutations in the 3&#x02032;&#x02010;untranslated region are beneficial for viral replication in mosquito cells, whereas they are detrimental in mammalian cells (Villordo <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0035" ref-type="ref">2015</xref>). Some specific mutations in the 3&#x02032;&#x02010;untranslated region of dengue virus produce different species of subgenomic flavivirus RNAs that play key roles in immune responses in vertebrate and invertebrate cells after viral infection (Filomatori <italic>et&#x000a0;al</italic>., <xref rid="nph15246-bib-0009" ref-type="ref">2017</xref>).</p><p>Taken together, our present work reveals the 3&#x02032;&#x02010;terminal sequences in the genome of a persistent&#x02010;propagative plant virus that have been overlooked for a long time, as well as the genomic variations in the virus populations in the rotation between vector insects and host plants. These variations appear to be present in many multiple&#x02010;segment RNA plant viruses. Further investigations are needed to understand whether the 3&#x02032;&#x02010;terminal extensions account for different replication strategies of the virus when facing different immune pressures in the vector insect and host plant.</p></sec><sec id="nph15246-sec-0022"><title>Author contributions</title><p>W.Z. performed the experiments. Z.X. performed the genomic analysis. X.Z and M.Y. analysed the data. F.C., R.L. and L.K. designed the experiments. W.Z., Z.X., F.C., R.L. and L.K. wrote the manuscript. W.Z. and Z.X. contributed equally to this work.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>Please note: Wiley Blackwell are not responsible for the content or functionality of any Supporting Information supplied by the authors. Any queries (other than missing material) should be directed to the <italic>New Phytologist</italic> Central Office.</p></supplementary-material><supplementary-material content-type="local-data" id="nph15246-sup-0001"><caption><p>
+<bold>Fig.&#x000a0;S1</bold> The 3&#x02032;&#x02010;terminal sequences of <italic>Rice stripe virus</italic> (RSV) RNA1 to RNA4 verified using touchdown RT&#x02010;PCR and Sanger sequencing.</p><p>
+<bold>Fig.&#x000a0;S2</bold> The 5&#x02032;&#x02010;terminal sequences of <italic>Rice stripe virus</italic> (RSV) RNA1 to RNA4 verified using 5&#x02032;&#x02010;rapid amplification of cDNA ends experiments and Sanger sequencing.</p><p>
+<bold>Fig.&#x000a0;S3</bold> Phylogenetic analysis of the <italic>Rice stripe virus</italic> (RSV) isolates based on the <italic>CP</italic> gene.</p><p>
+<bold>Fig.&#x000a0;S4</bold> Comparison of the 3&#x02032;&#x02010;terminal 300 nucleotides of RNA segments 4&#x02013;8 of <italic>Southern rice black&#x02010;streaked dwarf virus</italic> (SRBSDV) between the published reference genome and our <italic>de&#x000a0;novo</italic> assembled genome.</p><p>
+<bold>Fig.&#x000a0;S5</bold> The trends in the changes of the relative ratios of RNA1 (a) and RNA2 (b) to the extended 3&#x02032;&#x02010;terminal sequences in wheat (<italic>Triticum aestivum</italic> jingdong 22) and tobacco (<italic>Nicotiana benthamiana</italic>).</p><p>
+<bold>Table&#x000a0;S1</bold> Primers used in this study</p><p>
+<bold>Table&#x000a0;S2</bold> Summary statistics of the RNA sequencing data from the <italic>Rice stripe virus</italic> (RSV)&#x02010;infected small brown planthoppers (<italic>Laodelphax striatellus</italic>) and rice (<italic>Oryza sativa</italic> Huangjinqing)</p><p>
+<bold>Table&#x000a0;S3</bold> Coverages and depths of the newly assembled genome by <italic>Rice stripe virus</italic> (RSV) reads from different samples</p></caption><media xlink:href="NPH-219-1085-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="nph15246-sec-0021"><title>Acknowledgements</title><p>This work was supported by the Major State Basic Research Development Program of China (973 Program; no. 2014CB13840402), the Strategic Priority Research Program of the Chinese Academy of Sciences (no. XDB11040200) to F.C., the One Hundred Talent Program from the Chinese Academy of Sciences and the grant of State Key Laboratory of Integrated Management of Pest Insects and Rodents (no. ChineseIPM1801) to R.L. The funders had no role in the study design, data collection and analysis, decision to publish or preparation of the manuscript.</p></ack><ref-list content-type="cited-references" id="nph15246-bibl-0001"><title>References</title><ref id="nph15246-bib-0001"><mixed-citation publication-type="journal" id="nph15246-cit-0001">
+<string-name>
+<surname>Ammar el</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Whitfield</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Redinbaugh</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Hogenhout</surname>
+<given-names>SA</given-names>
+</string-name>. <year>2009</year>
+<article-title>Cellular and molecular aspects of rhabdovirus interactions with insect and plant hosts</article-title>. <source xml:lang="en">Annual Review of Entomology</source>
+<volume>54</volume>: <fpage>447</fpage>&#x02013;<lpage>468</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0002"><mixed-citation publication-type="journal" id="nph15246-cit-0002">
+<string-name>
+<surname>Barr</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Wertz</surname>
+<given-names>GW</given-names>
+</string-name>. <year>2004</year>
+<article-title>Bunyamwera bunyavirus RNA synthesis requires cooperation of 3&#x02032;&#x02010; and 5&#x02032;&#x02010;terminal sequences</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>78</volume>: <fpage>1129</fpage>&#x02013;<lpage>1138</lpage>.<pub-id pub-id-type="pmid">14722268</pub-id></mixed-citation></ref><ref id="nph15246-bib-0003"><mixed-citation publication-type="journal" id="nph15246-cit-0003">
+<string-name>
+<surname>de Borba</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Villordo</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Iglesias</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Filomatori</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Gebhard</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Gamarnik</surname>
+<given-names>AV</given-names>
+</string-name>. <year>2015</year>
+<article-title>Overlapping local and long&#x02010;range RNA&#x02013;RNA interactions modulate dengue virus genome cyclization and replication</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>89</volume>: <fpage>3430</fpage>&#x02013;<lpage>3437</lpage>.<pub-id pub-id-type="pmid">25589642</pub-id></mixed-citation></ref><ref id="nph15246-bib-0004"><mixed-citation publication-type="journal" id="nph15246-cit-0004">
+<string-name>
+<surname>Bragard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Caciagli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lemaire</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Moya</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>MacFarlane</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Susi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Torrance</surname>
+<given-names>L</given-names>
+</string-name>. <year>2013</year>
+<article-title>Status and prospects of plant virus control through interference with vector transmission</article-title>. <source xml:lang="en">Annual Review of Phytopathology</source>
+<volume>51</volume>: <fpage>177</fpage>&#x02013;<lpage>201</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0005"><mixed-citation publication-type="journal" id="nph15246-cit-0005">
+<string-name>
+<surname>Chand</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Biswas</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Mondal</surname>
+<given-names>B</given-names>
+</string-name>. <year>2016</year>
+<article-title>Purification of infective bluetongue virus particles by immuno&#x02010;affinity chromatography using anti&#x02010;core antibody</article-title>. <source xml:lang="en">VirusDisease</source>
+<volume>27</volume>: <fpage>98</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">26925450</pub-id></mixed-citation></ref><ref id="nph15246-bib-0006"><mixed-citation publication-type="journal" id="nph15246-cit-0006">
+<string-name>
+<surname>Chern</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Canlas</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Ronald</surname>
+<given-names>PC</given-names>
+</string-name>. <year>2013</year>
+<article-title>Reduced expression of glycolate oxidase leads to enhanced disease resistance in rice</article-title>. <source xml:lang="en">PeerJ</source>
+<volume>1</volume>: <fpage>e28</fpage>.<pub-id pub-id-type="pmid">23638363</pub-id></mixed-citation></ref><ref id="nph15246-bib-0007"><mixed-citation publication-type="journal" id="nph15246-cit-0007">
+<string-name>
+<surname>Cho</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Lian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KH</given-names>
+</string-name>. <year>2013</year>
+<article-title>Current insights into research on Rice stripe virus</article-title>. <source xml:lang="en">The Plant Pathology Journal</source>
+<volume>29</volume>: <fpage>223</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">25288949</pub-id></mixed-citation></ref><ref id="nph15246-bib-0008"><mixed-citation publication-type="journal" id="nph15246-cit-0008">
+<string-name>
+<surname>Falk</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>JH</given-names>
+</string-name>. <year>1998</year>
+<article-title>Biology and molecular biology of viruses in the genus <italic>Tenuivirus</italic>
+</article-title>. <source xml:lang="en">Annual Review of Phytopathology</source>
+<volume>36</volume>: <fpage>139</fpage>&#x02013;<lpage>163</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0009"><mixed-citation publication-type="journal" id="nph15246-cit-0009">
+<string-name>
+<surname>Filomatori</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Carballeda</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Villordo</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Aguirre</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pallares</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Maestre</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Vargas</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Fabri</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Morales</surname>
+<given-names>MA</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2017</year>
+<article-title>Dengue virus genomic variation associated with mosquito adaptation defines the pattern of viral non&#x02010;coding RNAs and fitness in human cells</article-title>. <source xml:lang="en">PLoS Pathogens</source>
+<volume>13</volume>: <fpage>e1006265</fpage>.<pub-id pub-id-type="pmid">28264033</pub-id></mixed-citation></ref><ref id="nph15246-bib-0010"><mixed-citation publication-type="journal" id="nph15246-cit-0010">
+<string-name>
+<surname>Flick</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hobom</surname>
+<given-names>G</given-names>
+</string-name>. <year>1999</year>
+<article-title>Interaction of influenza virus polymerase with viral RNA in the &#x02018;corkscrew&#x02019; conformation</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>80</volume>: <fpage>2565</fpage>&#x02013;<lpage>2572</lpage>.<pub-id pub-id-type="pmid">10573148</pub-id></mixed-citation></ref><ref id="nph15246-bib-0011"><mixed-citation publication-type="journal" id="nph15246-cit-0011">
+<string-name>
+<surname>Fodor</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pritlove</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Brownlee</surname>
+<given-names>GG</given-names>
+</string-name>. <year>1994</year>
+<article-title>The influenza virus panhandle is involved in the initiation of transcription</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>68</volume>: <fpage>4092</fpage>&#x02013;<lpage>4096</lpage>.<pub-id pub-id-type="pmid">8189550</pub-id></mixed-citation></ref><ref id="nph15246-bib-0012"><mixed-citation publication-type="journal" id="nph15246-cit-0012">
+<string-name>
+<surname>Hamamatsu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Toriyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Toyoda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ishihama</surname>
+<given-names>A</given-names>
+</string-name>. <year>1993</year>
+<article-title>Ambisense coding strategy of the rice stripe virus genome: <italic>in&#x000a0;vitro</italic> translation studies</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>74</volume>: <fpage>1125</fpage>&#x02013;<lpage>1131</lpage>.<pub-id pub-id-type="pmid">8509762</pub-id></mixed-citation></ref><ref id="nph15246-bib-0013"><mixed-citation publication-type="journal" id="nph15246-cit-0013">
+<string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>. <year>2015</year>
+<article-title>Analysis of genetic variation and diversity of <italic>Rice stripe virus</italic> populations through high&#x02010;throughput sequencing</article-title>. <source xml:lang="en">Frontiers in Plant Science</source>
+<volume>6</volume>: <fpage>176</fpage>.<pub-id pub-id-type="pmid">25852724</pub-id></mixed-citation></ref><ref id="nph15246-bib-0014"><mixed-citation publication-type="journal" id="nph15246-cit-0014">
+<string-name>
+<surname>Huang</surname>
+<given-names>LZ</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>LX</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>XP</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>JX</given-names>
+</string-name>. <year>2013</year>
+<article-title>Genetic variability and evolution of rice stripe virus</article-title>. <source xml:lang="en">Journal of Zhejiang University Science B</source>
+<volume>14</volume>: <fpage>875</fpage>&#x02013;<lpage>885</lpage>.<pub-id pub-id-type="pmid">24101204</pub-id></mixed-citation></ref><ref id="nph15246-bib-0015"><mixed-citation publication-type="journal" id="nph15246-cit-0015">
+<string-name>
+<surname>Ishikawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Omura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tsuchizaki</surname>
+<given-names>T</given-names>
+</string-name>. <year>1989</year>
+<article-title>Association of double&#x02010; and single&#x02010;stranded RNAs with each four components of rice stripe virus</article-title>. <source xml:lang="en">Annals of the Phytopathological Society of Japan</source>
+<volume>55</volume>: <fpage>315</fpage>&#x02013;<lpage>323</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0016"><mixed-citation publication-type="journal" id="nph15246-cit-0016">
+<string-name>
+<surname>Jiao</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>FQ</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>XX</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>ZR</given-names>
+</string-name>. <year>2017</year>
+<article-title>
+<italic>Rice stripe virus</italic> infection alters mRNA levels of sphingolipid&#x02010;metabolizing enzymes and sphingolipids content in <italic>Laodelphax striatellus</italic>
+</article-title>. <source xml:lang="en">Journal of Insect Science</source>
+<volume>17</volume>: <fpage>16</fpage>.<pub-id pub-id-type="pmid">28130458</pub-id></mixed-citation></ref><ref id="nph15246-bib-0017"><mixed-citation publication-type="journal" id="nph15246-cit-0017">
+<string-name>
+<surname>Jonson</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KH</given-names>
+</string-name>. <year>2009a</year>
+<article-title>Complete genome sequence of the RNAs 3 and 4 segments of <italic>Rice stripe virus</italic> isolates in Korea and their phylogenetic relationships with Japan and China isolates</article-title>. <source xml:lang="en">The Plant Pathology Journal</source>
+<volume>25</volume>: <fpage>142</fpage>&#x02013;<lpage>150</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0018"><mixed-citation publication-type="journal" id="nph15246-cit-0018">
+<string-name>
+<surname>Jonson</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KH</given-names>
+</string-name>. <year>2009b</year>
+<article-title>Sequence and phylogenetic analysis of the RNA1 and RNA2 segments of Korean <italic>Rice stripe virus</italic> isolates and comparison with those of China and Japan</article-title>. <source xml:lang="en">Archives of Virology</source>
+<volume>154</volume>: <fpage>1705</fpage>&#x02013;<lpage>1708</lpage>.<pub-id pub-id-type="pmid">19756358</pub-id></mixed-citation></ref><ref id="nph15246-bib-0019"><mixed-citation publication-type="journal" id="nph15246-cit-0019">
+<string-name>
+<surname>Kakutani</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hayano</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Minobe</surname>
+<given-names>Y</given-names>
+</string-name>. <year>1991</year>
+<article-title>Ambisense segment 3 of rice stripe virus: the first instance of a virus containing two ambisense segments</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>72</volume>: <fpage>465</fpage>&#x02013;<lpage>468</lpage>.<pub-id pub-id-type="pmid">1993885</pub-id></mixed-citation></ref><ref id="nph15246-bib-0020"><mixed-citation publication-type="journal" id="nph15246-cit-0020">
+<string-name>
+<surname>Larkin</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Blackshields</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name>
+<surname>Chenna</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McGettigan</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>McWilliam</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Valentin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wallace</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Wilm</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2007</year>
+<article-title>Clustal W and Clustal X version 2.0</article-title>. <source xml:lang="en">Bioinformatics</source>
+<volume>23</volume>: <fpage>2947</fpage>&#x02013;<lpage>2948</lpage>.<pub-id pub-id-type="pmid">17846036</pub-id></mixed-citation></ref><ref id="nph15246-bib-0021"><mixed-citation publication-type="journal" id="nph15246-cit-0021">
+<string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Durbin</surname>
+<given-names>R</given-names>
+</string-name>. <year>2009</year>
+<article-title>Fast and accurate short read alignment with Burrows&#x02010;Wheeler transform</article-title>. <source xml:lang="en">Bioinformatics</source>
+<volume>25</volume>: <fpage>1754</fpage>&#x02013;<lpage>1760</lpage>.<pub-id pub-id-type="pmid">19451168</pub-id></mixed-citation></ref><ref id="nph15246-bib-0022"><mixed-citation publication-type="journal" id="nph15246-cit-0022">
+<string-name>
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2012</year>
+<article-title>Validation of reference genes for gene expression studies in virus&#x02010;infected <italic>Nicotiana benthamiana</italic> using quantitative real&#x02010;time PCR</article-title>. <source xml:lang="en">PLoS ONE</source>
+<volume>7</volume>: <fpage>e46451</fpage>.<pub-id pub-id-type="pmid">23029521</pub-id></mixed-citation></ref><ref id="nph15246-bib-0023"><mixed-citation publication-type="journal" id="nph15246-cit-0023">
+<string-name>
+<surname>Liu</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>YQ</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2013</year>
+<article-title>Novel cis&#x02010;acting element within the capsid&#x02010;coding region enhances flavivirus viral&#x02010;RNA replication by regulating genome cyclization</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>87</volume>: <fpage>6804</fpage>&#x02013;<lpage>6818</lpage>.<pub-id pub-id-type="pmid">23576500</pub-id></mixed-citation></ref><ref id="nph15246-bib-0024"><mixed-citation publication-type="journal" id="nph15246-cit-0024">
+<string-name>
+<surname>Martin</surname>
+<given-names>M</given-names>
+</string-name>. <year>2011</year>
+<article-title>Cutadapt removes adapter sequences from high&#x02010;throughput sequencing reads</article-title>. <source xml:lang="en">EMBnet.Journal</source>
+<volume>17</volume>: <fpage>10</fpage>&#x02013;<lpage>12</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0025"><mixed-citation publication-type="journal" id="nph15246-cit-0025">
+<string-name>
+<surname>Perez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>de la Torre</surname>
+<given-names>JC</given-names>
+</string-name>. <year>2003</year>
+<article-title>Characterization of the genomic promoter of the prototypic arenavirus lymphocytic choriomeningitis virus</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>77</volume>: <fpage>1184</fpage>&#x02013;<lpage>1194</lpage>.<pub-id pub-id-type="pmid">12502835</pub-id></mixed-citation></ref><ref id="nph15246-bib-0026"><mixed-citation publication-type="journal" id="nph15246-cit-0026">
+<string-name>
+<surname>Qu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Harper</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hull</surname>
+<given-names>R</given-names>
+</string-name>. <year>1997</year>
+<article-title>Comparison of sequences of RNAs 3 and 4 of rice stripe virus from China with those of Japanese isolates</article-title>. <source xml:lang="en">Virus Genes</source>
+<volume>15</volume>: <fpage>99</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">9421874</pub-id></mixed-citation></ref><ref id="nph15246-bib-0028"><mixed-citation publication-type="journal" id="nph15246-cit-0028">
+<string-name>
+<surname>Sessions</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name>
+<surname>Wilm</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kamaraj</surname>
+<given-names>US</given-names>
+</string-name>, <string-name>
+<surname>Choy</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name>
+<surname>Nagarajan</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Ooi</surname>
+<given-names>EE</given-names>
+</string-name>. <year>2015</year>
+<article-title>Analysis of dengue virus genetic diversity during human and mosquito infection reveals genetic constraints</article-title>. <source xml:lang="en">PLoS Neglected Tropical Diseases</source>
+<volume>9</volume>: <fpage>e0004044</fpage>.<pub-id pub-id-type="pmid">26327586</pub-id></mixed-citation></ref><ref id="nph15246-bib-0029"><mixed-citation publication-type="journal" id="nph15246-cit-0029">
+<string-name>
+<surname>Sun</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2011</year>
+<article-title>Arabidopsis is susceptible to <italic>Rice stripe virus</italic> infections</article-title>. <source xml:lang="en">Journal of Phytopathology</source>
+<volume>159</volume>: <fpage>767</fpage>&#x02013;<lpage>772</lpage>.</mixed-citation></ref><ref id="nph15246-bib-0030"><mixed-citation publication-type="journal" id="nph15246-cit-0030">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Toriyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hamamatsu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ishihama</surname>
+<given-names>A</given-names>
+</string-name>. <year>1993</year>
+<article-title>Nucleotide sequence and possible ambisense coding strategy of rice stripe virus RNA segment 2</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>74</volume>: <fpage>769</fpage>&#x02013;<lpage>773</lpage>.<pub-id pub-id-type="pmid">8468559</pub-id></mixed-citation></ref><ref id="nph15246-bib-0031"><mixed-citation publication-type="journal" id="nph15246-cit-0031">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Toriyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kikuchi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hayakawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ishihama</surname>
+<given-names>A</given-names>
+</string-name>. <year>1990</year>
+<article-title>Complementarity between the 5&#x02032;&#x02010; and 3&#x02032;&#x02010;terminal sequences of rice stripe virus RNAs</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>71</volume>: <fpage>2817</fpage>&#x02013;<lpage>2821</lpage>.<pub-id pub-id-type="pmid">2273384</pub-id></mixed-citation></ref><ref id="nph15246-bib-0032"><mixed-citation publication-type="journal" id="nph15246-cit-0032">
+<string-name>
+<surname>Tenea</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Peres Bota</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cordeiro Raposo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Maquet</surname>
+<given-names>A</given-names>
+</string-name>. <year>2011</year>
+<article-title>Reference genes for gene expression studies in wheat flag leaves grown under different farming conditions</article-title>. <source xml:lang="en">BMC Research Notes</source>
+<volume>4</volume>: <fpage>373</fpage>.<pub-id pub-id-type="pmid">21951810</pub-id></mixed-citation></ref><ref id="nph15246-bib-0033"><mixed-citation publication-type="journal" id="nph15246-cit-0033">
+<string-name>
+<surname>Thompson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>TJ</given-names>
+</string-name>. <year>1994</year>
+<article-title>CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position&#x02010;specific gap penalties and weight matrix choice</article-title>. <source xml:lang="en">Nucleic Acids Research</source>
+<volume>22</volume>: <fpage>4673</fpage>&#x02013;<lpage>4680</lpage>.<pub-id pub-id-type="pmid">7984417</pub-id></mixed-citation></ref><ref id="nph15246-bib-0034"><mixed-citation publication-type="journal" id="nph15246-cit-0034">
+<string-name>
+<surname>Toriyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sano</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ishihama</surname>
+<given-names>A</given-names>
+</string-name>. <year>1994</year>
+<article-title>Nucleotide sequence of RNA 1, the largest genomic segment of rice stripe virus, the prototype of the tenuiviruses</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>75</volume>: <fpage>3569</fpage>&#x02013;<lpage>3579</lpage>.<pub-id pub-id-type="pmid">7996149</pub-id></mixed-citation></ref><ref id="nph15246-bib-0035"><mixed-citation publication-type="journal" id="nph15246-cit-0035">
+<string-name>
+<surname>Villordo</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Filomatori</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Vargas</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Gamarnik</surname>
+<given-names>AV</given-names>
+</string-name>. <year>2015</year>
+<article-title>Dengue virus RNA structure specialization facilitates host adaptation</article-title>. <source xml:lang="en">PLoS Pathogens</source>
+<volume>11</volume>: <fpage>e1004604</fpage>.<pub-id pub-id-type="pmid">25635835</pub-id></mixed-citation></ref><ref id="nph15246-bib-0036"><mixed-citation publication-type="journal" id="nph15246-cit-0036">
+<string-name>
+<surname>Villordo</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Gamarnik</surname>
+<given-names>AV</given-names>
+</string-name>. <year>2013</year>
+<article-title>Differential RNA sequence requirement for dengue virus replication in mosquito and mammalian cells</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>87</volume>: <fpage>9365</fpage>&#x02013;<lpage>9372</lpage>.<pub-id pub-id-type="pmid">23760236</pub-id></mixed-citation></ref><ref id="nph15246-bib-0037"><mixed-citation publication-type="journal" id="nph15246-cit-0037">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Akinyemi</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Q</given-names>
+</string-name>. <year>2016a</year>
+<article-title>Understanding the immune system architecture and transcriptome responses to southern rice black&#x02010;streaked dwarf virus in <italic>Sogatella furcifera</italic>
+</article-title>. <source xml:lang="en">Scientific Reports</source>
+<volume>6</volume>: <fpage>36254</fpage>.<pub-id pub-id-type="pmid">27805032</pub-id></mixed-citation></ref><ref id="nph15246-bib-0038"><mixed-citation publication-type="journal" id="nph15246-cit-0038">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Valderramos</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brasil</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bonaldo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Coates</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nielsen&#x02010;Saines</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2016b</year>
+<article-title>From mosquitos to humans: genetic evolution of Zika virus</article-title>. <source xml:lang="en">Cell Host &#x00026; Microbe</source>
+<volume>19</volume>: <fpage>561</fpage>&#x02013;<lpage>565</lpage>.<pub-id pub-id-type="pmid">27091703</pub-id></mixed-citation></ref><ref id="nph15246-bib-0040"><mixed-citation publication-type="journal" id="nph15246-cit-0040">
+<string-name>
+<surname>Wei</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>XT</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>ZJ</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>QY</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>LH</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2009</year>
+<article-title>Genetic diversity and population structure of rice stripe virus in China</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>90</volume>: <fpage>1025</fpage>&#x02013;<lpage>1034</lpage>.<pub-id pub-id-type="pmid">19264655</pub-id></mixed-citation></ref><ref id="nph15246-bib-0041"><mixed-citation publication-type="journal" id="nph15246-cit-0041">
+<string-name>
+<surname>Xiong</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>. <year>2008</year>
+<article-title>Identification of a movement protein of the tenuivirus rice stripe virus</article-title>. <source xml:lang="en">Journal of Virology</source>
+<volume>82</volume>: <fpage>12304</fpage>&#x02013;<lpage>12311</lpage>.<pub-id pub-id-type="pmid">18818319</pub-id></mixed-citation></ref><ref id="nph15246-bib-0044"><mixed-citation publication-type="journal" id="nph15246-cit-0044">
+<string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>. <year>2010</year>
+<article-title>Massively parallel pyrosequencing&#x02010;based transcriptome analyses of small brown planthopper (<italic>Laodelphax striatellus</italic>), a vector insect transmitting rice stripe virus (RSV)</article-title>. <source xml:lang="en">BMC Genomics</source>
+<volume>11</volume>: <fpage>303</fpage>.<pub-id pub-id-type="pmid">20462456</pub-id></mixed-citation></ref><ref id="nph15246-bib-0045"><mixed-citation publication-type="journal" id="nph15246-cit-0045">
+<string-name>
+<surname>Zhang</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>MJ</given-names>
+</string-name>. <year>2007</year>
+<article-title>Genomic analysis of rice stripe virus Zhejiang isolate shows the presence of an OTU&#x02010;like domain in the RNA1 protein and a novel sequence motif conserved within the intergenic regions of ambisense segments of tenuiviruses</article-title>. <source xml:lang="en">Archives of Virology</source>
+<volume>152</volume>: <fpage>1917</fpage>&#x02013;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">17585367</pub-id></mixed-citation></ref><ref id="nph15246-bib-0046"><mixed-citation publication-type="journal" id="nph15246-cit-0046">
+<string-name>
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>F</given-names>
+</string-name>. <year>2016a</year>
+<article-title>Organ&#x02010;specific transcriptome response of the small brown planthopper toward rice stripe virus</article-title>. <source xml:lang="en">Insect Biochemistry and Molecular Biology</source>
+<volume>70</volume>: <fpage>60</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">26678499</pub-id></mixed-citation></ref><ref id="nph15246-bib-0047"><mixed-citation publication-type="journal" id="nph15246-cit-0047">
+<string-name>
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>F</given-names>
+</string-name>. <year>2016b</year>
+<article-title>Different pathogenicities of Rice stripe virus from the insect vector and from viruliferous plants</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>210</volume>: <fpage>196</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">26585422</pub-id></mixed-citation></ref><ref id="nph15246-bib-0048"><mixed-citation publication-type="journal" id="nph15246-cit-0048">
+<string-name>
+<surname>Zhou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>. <year>2013</year>
+<article-title>Southern rice black&#x02010;streaked dwarf virus: a white&#x02010;backed planthopper&#x02010;transmitted fijivirus threatening rice production in Asia</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>
+<volume>4</volume>: <fpage>270</fpage>.<pub-id pub-id-type="pmid">24058362</pub-id></mixed-citation></ref><ref id="nph15246-bib-0049"><mixed-citation publication-type="journal" id="nph15246-cit-0049">
+<string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hayakawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Toriyama</surname>
+<given-names>S</given-names>
+</string-name>. <year>1992</year>
+<article-title>Complete nucleotide sequence of RNA 4 of rice stripe virus isolate T, and comparison with another isolate and with maize stripe virus</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>73</volume>: <fpage>1309</fpage>&#x02013;<lpage>1312</lpage>.<pub-id pub-id-type="pmid">1588328</pub-id></mixed-citation></ref><ref id="nph15246-bib-0050"><mixed-citation publication-type="journal" id="nph15246-cit-0050">
+<string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hayakawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Toriyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>. <year>1991</year>
+<article-title>Complete nucleotide sequence of RNA 3 of rice stripe virus: an ambisense coding strategy</article-title>. <source xml:lang="en">Journal of General Virology</source>
+<volume>72</volume>: <fpage>763</fpage>&#x02013;<lpage>767</lpage>.<pub-id pub-id-type="pmid">2016591</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,491 @@
+{
+  "id": [
+    "30285604"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30285604"
+  ],
+  "pmcid": [
+    "PMC6171319"
+  ],
+  "doi": [
+    "10.1186/s12859-018-2376-y"
+  ],
+  "title": [
+    "MITE Tracker: an accurate approach to identify miniature inverted-repeat transposable elements in large genomes."
+  ],
+  "authorString": [
+    "Crescente JM, Zavallo D, Helguera M, Vanzetti LS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Crescente JM"
+          ],
+          "firstName": [
+            "Juan Manuel"
+          ],
+          "lastName": [
+            "Crescente"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6387-4536",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Grupo Biotecnología y Recursos Genéticos, EEA INTA Marcos Juárez, Ruta 12 km 3, 2580, Marcos Juárez, Argentina."
+          ]
+        },
+        {
+          "fullName": [
+            "Zavallo D"
+          ],
+          "firstName": [
+            "Diego"
+          ],
+          "lastName": [
+            "Zavallo"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Instituto de Biotecnología, CNIA, Instituto Nacional de Tecnología Agropecuaria (INTA) Castelar, Los Reseros y Nicolas Repeto, Hurlingham, Buenos Aires, Argentina."
+          ]
+        },
+        {
+          "fullName": [
+            "Helguera M"
+          ],
+          "firstName": [
+            "Marcelo"
+          ],
+          "lastName": [
+            "Helguera"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Grupo Biotecnología y Recursos Genéticos, EEA INTA Marcos Juárez, Ruta 12 km 3, 2580, Marcos Juárez, Argentina."
+          ]
+        },
+        {
+          "fullName": [
+            "Vanzetti LS"
+          ],
+          "firstName": [
+            "Leonardo Sebastián"
+          ],
+          "lastName": [
+            "Vanzetti"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Grupo Biotecnología y Recursos Genéticos, EEA INTA Marcos Juárez, Ruta 12 km 3, 2580, Marcos Juárez, Argentina. vanzetti.leonardo@inta.gob.ar."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6387-4536",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2734504"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "348"
+  ],
+  "abstractText": [
+    "BACKGROUND:Miniature inverted-repeat transposable elements (MITEs) are short, non-autonomous class II transposable elements present in a high number of conserved copies in eukaryote genomes. An accurate identification of these elements can help to shed light on the mechanisms controlling genome evolution and gene regulation. The structure and distribution of these elements are well-defined and therefore computational approaches can be used to identify MITEs sequences. RESULTS:Here we describe MITE Tracker, a novel, open source software program that finds and classifies MITEs using an efficient alignment strategy to retrieve nearby inverted-repeat sequences from large genomes. This program groups them into high sequence homology families using a fast clustering algorithm and finally filters only those elements that were likely transposed from different genomic locations because of their low scoring flanking sequence alignment. CONCLUSIONS:Many programs have been proposed to find MITEs hidden in genomes. However, none of them are able to process large-scale genomes such as that of bread wheat. Furthermore, in many cases the existing methods perform high false-positive rates (or miss rates). The rice genome was used as reference to compare MITE Tracker against known tools. Our method turned out to be the most reliable in our tests. Indeed, it revealed more known elements, presented the lowest false-positive number and was the only program able to run with the bread wheat genome as input. In wheat, MITE Tracker discovered 6013 MITE families and allowed the first structural exploration of MITEs in the complete bread wheat genome."
+  ],
+  "affiliation": [
+    "Grupo Biotecnología y Recursos Genéticos, EEA INTA Marcos Juárez, Ruta 12 km 3, 2580, Marcos Juárez, Argentina."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PNBIO 1131043"
+          ],
+          "agency": [
+            "Instituto Nacional de Tecnología Agropecuaria"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PNBIO 1131022"
+          ],
+          "agency": [
+            "Instituto Nacional de Tecnología Agropecuaria"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Transposable Elements"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inverted Repeat Sequences"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice",
+        "Wheat",
+        "Mite",
+        "Transposable element",
+        "Tracker"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA Transposable Elements"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6171319?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6171319"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-018-2376-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-10-05"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-03"
+  ],
+  "firstPublicationDate": [
+    "2018-10-03"
+  ]
+}

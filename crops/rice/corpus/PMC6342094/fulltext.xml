@@ -1,0 +1,840 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6342094</article-id><article-id pub-id-type="doi">10.1002/ece3.4744</article-id><article-id pub-id-type="publisher-id">ECE34744</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>
+<italic>Wolbachia</italic> infection can bias estimates of intralocus sexual conflict</article-title><alt-title alt-title-type="left-running-head">DUFFY et al.</alt-title></title-group><contrib-group><contrib id="ece34744-cr-0001" contrib-type="author"><name><surname>Duffy</surname><given-names>Eoin</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4150-4902</contrib-id><xref ref-type="aff" rid="ece34744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece34744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34744-cr-0002" contrib-type="author"><name><surname>Archer</surname><given-names>C. Ruth</given-names></name><xref ref-type="aff" rid="ece34744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34744-cr-0003" contrib-type="author"><name><surname>Sharma</surname><given-names>Manmohan Dev</given-names></name><xref ref-type="aff" rid="ece34744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34744-cr-0004" contrib-type="author"><name><surname>Prus</surname><given-names>Monika</given-names></name><xref ref-type="aff" rid="ece34744-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34744-cr-0005" contrib-type="author"><name><surname>Joag</surname><given-names>Richa A.</given-names></name><xref ref-type="aff" rid="ece34744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece34744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34744-cr-0006" contrib-type="author"><name><surname>Radwan</surname><given-names>Jacek</given-names></name><xref ref-type="aff" rid="ece34744-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece34744-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece34744-cr-0007" contrib-type="author"><name><surname>Wedell</surname><given-names>Nina</given-names></name><xref ref-type="aff" rid="ece34744-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34744-cr-0008" contrib-type="author" corresp="yes"><name><surname>Hosken</surname><given-names>David J.</given-names></name><address><email>d.j.hosken@exeter.ac.uk</email></address><xref ref-type="aff" rid="ece34744-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ece34744-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Environmental Sciences</named-content>
+<institution>Jagiellonian University</institution>
+<named-content content-type="city">Krakow</named-content>
+<country country="PL">Poland</country>
+</aff><aff id="ece34744-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Science and Engineering Research Support Facility (SERSF)</named-content>
+<institution>University of Exeter</institution>
+<named-content content-type="city">Penryn</named-content>
+<country country="GB">UK</country>
+</aff><aff id="ece34744-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Faculty of Biology</named-content>
+<institution>Adam Mickiewicz University</institution>
+<named-content content-type="city">Pozna&#x00144;</named-content>
+<country country="PL">Poland</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+David J. Hosken, Science and Engineering Research Support Facility (SERSF), University of Exeter, Penryn, UK.<break/>
+Email: <email>d.j.hosken@exeter.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>12</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2019</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/ece3.2019.9.issue-1</issue-id><fpage>328</fpage><lpage>338</lpage><history><date date-type="received"><day>18</day><month>7</month><year>2018</year></date><date date-type="rev-recd"><day>30</day><month>9</month><year>2018</year></date><date date-type="accepted"><day>01</day><month>11</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-9-328.pdf"/><abstract id="ece34744-abs-0001"><title>Abstract</title><p>Males and females share most of their genome and develop many of the same traits. However, each sex frequently has different optimal values for these shared traits, creating intralocus sexual conflict. This conflict has been observed in wild and laboratory populations of insects and affects important evolutionary processes such as sexual selection, the maintenance of genetic variation, and possibly even speciation. Given the broad impacts of intralocus conflict, accurately detecting and measuring it is important. A common way to detect intralocus sexual conflict is to calculate the intersexual genetic correlation for fitness, with negative values suggesting conflict. Here, we highlight a potential confounder of this measure&#x02014;cytoplasmic incompatibility caused by the intracellular parasite <italic>Wolbachia.</italic> Infection with <italic>Wolbachia</italic> can generate negative intersexual genetic correlations for fitness in insects, suggestive of intralocus sexual conflict<italic>.</italic> This is because cytoplasmic incompatibility reduces the fitness of uninfected females mated to infected males, while uninfected males will not suffer reductions in fitness if they mate with infected females and may even be fitter than infected males. This can lead to strong negative intersexual genetic correlations for fitness, mimicking intralocus conflict. We illustrate this issue using simulations and then present <italic>Drosophila simulans</italic> data that show how reproductive incompatibilities caused by <italic>Wolbachia</italic> infection can generate signals of intralocus sexual conflict. Given that <italic>Wolbachia</italic> infection in insect populations is pervasive, but populations usually contain both infected and uninfected individuals providing scope for cytoplasmic incompatibility, this is an important consideration for sexual conflict research but one which, to date, has been largely underappreciated.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece34744-kwd-0001"><italic>Drosophila simulans</italic></kwd><kwd id="ece34744-kwd-0002">intralocus sexual conflict</kwd><kwd id="ece34744-kwd-0003">sexual antagonism</kwd><kwd id="ece34744-kwd-0004"><italic>Wolbachia</italic></kwd></kwd-group><funding-group><award-group><funding-source>Royal Society</funding-source></award-group><award-group><funding-source>Leverhulme Trust</funding-source><award-id>RF&#x02010;2015&#x02010;001</award-id></award-group><award-group><funding-source>Natural Environment Research Council</funding-source><award-id>NE/G005303/1</award-id></award-group><award-group><funding-source>Narodowe Centrum Nauki</funding-source><award-id>UMO&#x02010;2013/09 / N / NZ8 / 03231</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="11"/><word-count count="9360"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece34744</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.5.6 mode:remove_FC converted:22.01.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece34744-cit-1001">
+<string-name>
+<surname>Duffy</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Archer</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>MD</given-names>
+</string-name>, et al. <article-title>
+<italic>Wolbachia</italic> infection can bias estimates of intralocus sexual conflict</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>328</fpage>&#x02013;<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.4744</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="ece34744-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Sharing an autosomal genome between the sexes generates a pervasive evolutionary problem because traits expressed in both sexes have a common genetic basis, but frequently have different sex&#x02010;specific optima (Bonduriansky &#x00026; Chenoweth, <xref rid="ece34744-bib-0011" ref-type="ref">2009</xref>; Mank, Hosken, &#x00026; Wedell, <xref rid="ece34744-bib-0046" ref-type="ref">2014</xref>; Pennell &#x00026; Morrow, <xref rid="ece34744-bib-0052" ref-type="ref">2013</xref>). Accordingly, genes that are not sex&#x02010;limited in transmission or expression can be subjected to sex&#x02010;specific selection, constraining independent evolution across the sexes (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0061" ref-type="ref">2002</xref>). This problem has been illustrated using human hip width as a possible example (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0060" ref-type="ref">2001</xref>). The argument proposes that selection favors narrower hips for locomotion, but women are under additional selection for wider hips to facilitate childbirth. Thus, the frequency of genes affecting hip width fluctuates depending on their sex&#x02010;specific effects, with alleles for wider hips favored when expressed in women and disfavored when expressed in men (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0060" ref-type="ref">2001</xref>). This is a putative example of intralocus sexual conflict, where alleles at a particular locus can have positive effects on fitness when expressed in one sex, but negative fitness effects when expressed in the other (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0060" ref-type="ref">2001</xref>), thus preventing the independent evolution of the sexes toward their sex&#x02010;specific optimal character values and reducing fitness in one or both sexes (Arnqvist &#x00026; Rowe, <xref rid="ece34744-bib-0005" ref-type="ref">2005</xref>; Bonduriansky &#x00026; Chenoweth, <xref rid="ece34744-bib-0011" ref-type="ref">2009</xref>; Rice, <xref rid="ece34744-bib-0059" ref-type="ref">1996</xref>).</p><p>The sexually antagonistic selection that generates intralocus sexual conflict is widespread in natural populations (e.g., Cox &#x00026; Calsbeek, <xref rid="ece34744-bib-0022" ref-type="ref">2009</xref>; Mainguy, Cote, Festa&#x02010;Bianchet, &#x00026; Coltman, <xref rid="ece34744-bib-0045" ref-type="ref">2009</xref>) and has been detected in insects (e.g., Archer, Zajitschek, Sakaluk, Royle, &#x00026; Hunt, <xref rid="ece34744-bib-0004" ref-type="ref">2012</xref>; Harano, Okada, Nakayama, Miyatake, &#x00026; Hosken, <xref rid="ece34744-bib-0031" ref-type="ref">2010</xref>; Lewis, Wedell, &#x00026; Hunt, <xref rid="ece34744-bib-0042" ref-type="ref">2011</xref>; Pischedda &#x00026; Chippindale, <xref rid="ece34744-bib-0053" ref-type="ref">2006</xref>), vertebrates (Mokkonen et al., <xref rid="ece34744-bib-0048" ref-type="ref">2011</xref>), and plants (Delph et al., <xref rid="ece34744-bib-0026" ref-type="ref">2011</xref>). In addition to being taxonomically widespread, intralocus conflict has important and far&#x02010;reaching evolutionary effects, influencing demography (e.g., Berger et al., <xref rid="ece34744-bib-0009" ref-type="ref">2016</xref>; Katsuki, Harano, Miyatake, Okada, &#x00026; Hosken, <xref rid="ece34744-bib-0039" ref-type="ref">2012</xref>), adaptation (e.g., Hawkes et al., <xref rid="ece34744-bib-0032" ref-type="ref">2016</xref>; Rostant, Kay, Wedell, &#x00026; Hosken, <xref rid="ece34744-bib-0062" ref-type="ref">2015</xref>), life&#x02010;history strategies (e.g., Archer et al., <xref rid="ece34744-bib-0002" ref-type="ref">2015</xref>; Duxbury, Rostant, &#x00026; Chapman, <xref rid="ece34744-bib-0030" ref-type="ref">2017</xref>), sex&#x02010;chromosome evolution (Mank et al., <xref rid="ece34744-bib-0046" ref-type="ref">2014</xref>), and speciation (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0061" ref-type="ref">2002</xref>). Given the ubiquity of intralocus sexual conflict and its broad evolutionary impacts (reviewed in Bonduriansky &#x00026; Chenoweth, <xref rid="ece34744-bib-0011" ref-type="ref">2009</xref>; van Doorn, <xref rid="ece34744-bib-0077" ref-type="ref">2009</xref>), it is important that we can accurately detect it and quantify its strength.</p><p>A common way to test for and quantify intralocus conflict is to calculate the intersexual genetic correlation for fitness (<italic>r</italic>
+<sub>mf</sub>), (e.g., Archer, Sakaluk, Selman, Royle, &#x00026; Hunt, <xref rid="ece34744-bib-0003" ref-type="ref">2013</xref>; Brommer, Kirkpatrick, Qvarnstr&#x000f6;m, &#x00026; Gustafsson, <xref rid="ece34744-bib-0013" ref-type="ref">2007</xref>; Chippindale, Gibson, &#x00026; Rice, <xref rid="ece34744-bib-0019" ref-type="ref">2001</xref>; Duffy, Joag, Radwan, Wedell, &#x00026; Hosken, <xref rid="ece34744-bib-0029" ref-type="ref">2014</xref>; Pischedda &#x00026; Chippindale, <xref rid="ece34744-bib-0053" ref-type="ref">2006</xref>; Punzalan, Delcourt, &#x00026; Rundle, <xref rid="ece34744-bib-0056" ref-type="ref">2014</xref>; Collet et al., <xref rid="ece34744-bib-0021" ref-type="ref">2016</xref>). This correlation measures how similar genetic effects are when they are expressed in females or males (Bonduriansky &#x00026; Chenoweth, <xref rid="ece34744-bib-0011" ref-type="ref">2009</xref>). A <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;&#x02212;1 indicates that genes conferring high fitness in one sex confer low fitness in the other (i.e., strong intralocus sexual conflict) and that the sexes are not free to evolve to sex&#x02010;specific fitness optima. Conversely, a <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;1 indicates that alleles that confer high fitness in one sex also confer high fitness in the other, illustrating the absence of intralocus conflict. While the <italic>r</italic>
+<sub>mf</sub> is a powerful tool to quantify intralocus sexual conflict, correlations can be hard to interpret and make assumptions that are not always met (discussed in Bonduriansky &#x00026; Chenoweth, <xref rid="ece34744-bib-0011" ref-type="ref">2009</xref>). Here, we show an additional complication with <italic>r</italic>
+<sub>mf</sub> values&#x02014;even in the absence of sexual conflict, the intracellular parasite <italic>Wolbachia</italic> can cause negative <italic>r</italic>
+<sub>mf</sub> values for fitness, which suggests intralocus conflict but actually results from the action of non&#x02010;self genes.</p><p>
+<italic>Wolbachia</italic> is a vertically maternally transmitted cytoplasmic parasite found in a wide range of arthropods and filarial nematodes (Werren, <xref rid="ece34744-bib-0081" ref-type="ref">1997</xref>; Werren, Baldo, &#x00026; Clark, <xref rid="ece34744-bib-0082" ref-type="ref">2008</xref>). It is estimated that over 60% of these taxa are infected, with most groups having intermediate frequencies of infection (i.e., not all individuals are infected: Hilgenboecker, Hammerstein, Schlattmann, Telschow, &#x00026; Werren, <xref rid="ece34744-bib-0033" ref-type="ref">2008</xref>). <italic>Wolbachia</italic> can have complex effects on host physiology and reproduction, and one of the most common of these is the generation of unidirectional cytoplasmic incompatibility (CI) (Werren, <xref rid="ece34744-bib-0081" ref-type="ref">1997</xref>). When unidirectional CI occurs, uninfected females suffer from low fitness because sperm from males infected with <italic>Wolbachia</italic> are not able to produce functional zygotes with females that do not host the same <italic>Wolbachia</italic> strain. This means that matings between infected males and uninfected females produce no, or a very few, offspring. Infected females, however, have normal (or even higher&#x02014;Weeks, Turelli, Harcombe, Reynolds, &#x00026; Hoffmann, <xref rid="ece34744-bib-0080" ref-type="ref">2007</xref>) productivity regardless of their mate's infection status (Werren et al., <xref rid="ece34744-bib-0082" ref-type="ref">2008</xref>). In males, infection can reduce male sexual fitness components (Price &#x00026; Wedell, <xref rid="ece34744-bib-0055" ref-type="ref">2008</xref>; Wedell, <xref rid="ece34744-bib-0079" ref-type="ref">2013</xref>; but also see, e.g., Okayama, Katsuki, Sumida, &#x00026; Okada, <xref rid="ece34744-bib-0051" ref-type="ref">2016</xref>). As a result, infection can potentially impact fitness estimates in one or both sexes depending on the prevalence of infection. In principle, uninfected genotypes could have low female fitness because of CI, but high male fitness because CI is unidirectional and infected males are of lower fitness. Reduced fitness in one sex with corresponding high measures in the other sex could falsely suggest intralocus conflict&#x02014;remembering this conflict by definition only applies to genes that are not sex&#x02010;limited in transmission or expression (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0061" ref-type="ref">2002</xref>), which is not the case for <italic>Wolbachia</italic>.</p><p>Here, we tested whether CI caused by <italic>Wolbachia</italic> can increase the likelihood of detecting apparent intralocus sexual conflict (i.e., of falsely diagnosing intralocus conflict). We first simulate data to illustrate the rationale underlying this problem and then present empirical data on <italic>Drosophila simulans</italic> isofemale lines showing how CI can affect estimates of intralocus conflict. Given that <italic>Wolbachia</italic> is one of the most widespread endosymbionts in insect populations but wild populations contain a mix of infected and uninfected individuals (Hilgenboecker et al., <xref rid="ece34744-bib-0033" ref-type="ref">2008</xref>), its presence could potentially bias estimates of the prevalence of intralocus sexual conflict.</p></sec><sec id="ece34744-sec-0002"><label>2</label><title>METHODS</title><sec id="ece34744-sec-0003"><label>2.1</label><title>Simulations</title><p>To test whether CI&#x02010;inducing <italic>Wolbachia</italic> could theoretically mirror intralocus sexual conflict, we simulated a series of datasets based on assumptions about the strength of CI and its effects on male fitness&#x02014;we assume (a) no CI or that either 10% or 20% of genotypes experience CI, and random male fitness for uninfected males, or (b) no CI then 10% and 20% of genotypes experience CI, with uninfected males having higher than average fitness. This latter assumption is based on extensive data showing that male sexual fitness is frequently compromised in infected males (Champion de Crespigny &#x00026; Wedell, <xref rid="ece34744-bib-0017" ref-type="ref">2006</xref>; Champion de Crespigny, Pitt, &#x00026; Wedell, <xref rid="ece34744-bib-0016" ref-type="ref">2006</xref>; Price &#x00026; Wedell, <xref rid="ece34744-bib-0055" ref-type="ref">2008</xref>; Snook, Clelend, Wolfner, &#x00026; Karr, <xref rid="ece34744-bib-0071" ref-type="ref">2000</xref>; Wedell, <xref rid="ece34744-bib-0079" ref-type="ref">2013</xref>: but see, e.g., Okayama et al., <xref rid="ece34744-bib-0051" ref-type="ref">2016</xref>). The general structure of each dataset is the same: data for reproductive success (our proxy of fitness) were generated for 10 genotypes in males and females, creating a single mean fitness estimate for males and for females for each genotype. These data are replicated 100 times for each of set of assumptions (i.e., 100 estimates of male fitness, 100 estimates of female fitness/simulated dataset).</p><p>We initially assumed that male fitness and female fitness were completely uncorrelated. To create these data, fitness estimates were generated at random using the &#x0201c;rnorm&#x0201d; function in <italic>R</italic> (version 3.4.1) (R Core Team, <xref rid="ece34744-bib-0057" ref-type="ref">2017</xref>) around a mean of 60, and with a standard deviation of 15. We then simulated datasets with CI in 10% of genotypes. To do this, male fitness estimates were generated as described for our initial population but for females, fitness was reduced in one of the ten simulated genotypes&#x02014;these female fitness estimates were generated at random, with a mean of 5 (&#x000b1;2<italic>SD</italic>). This means that unidirectional CI has reduced female fitness dramatically but not affected male fitness. To simulate 20% CI, we used the same approach to simulate CI in two of the ten genotypes. Finally, we simulated a possible scenario where uninfected males were of high sexual quality. This seems feasible given that parasite infection typically has some negative impact on the host (e.g., Schmid&#x02010;Hempel, <xref rid="ece34744-bib-0066" ref-type="ref">1998</xref>), and in the specific case of <italic>Wolbachia</italic> infection, infected males are frequently poor sexual competitors (Champion de Crespigny &#x00026; Wedell, <xref rid="ece34744-bib-0017" ref-type="ref">2006</xref>; Price &#x00026; Wedell, <xref rid="ece34744-bib-0055" ref-type="ref">2008</xref>; Wedell, <xref rid="ece34744-bib-0079" ref-type="ref">2013</xref>). Here, female data were generated as described above to generate CI in 10% or 20% of genotypes, but this time for uninfected genotypes (those with simulated CI), male fitness was increased (mean&#x000a0;=&#x000a0;85, <italic>SD</italic>&#x000a0;=&#x000a0;15).</p><p>To test how the introduction of CI affected our estimates of intersexual genetic correlations in each of these simulated fitness scenarios, Pearson's correlation coefficients (<italic>r</italic>
+<sub>mf</sub>) were calculated between male and female fitness estimates using the package &#x0201c;<italic>psych</italic>&#x0201d; and the function &#x0201c;<italic>corr.test</italic>&#x0201d; (Revelle, <xref rid="ece34744-bib-0058" ref-type="ref">2018</xref>). We regressed male and female fitness estimates by genotype in each of the 100 replicates/CI scenario (no CI, 10%&#x02010;CI, 20%&#x02010;CI) and random male fitness for uninfected males, and CI (with either 10% or 20% of genotypes uninfected) and high male fitness for uninfected males to generate 100 slope estimates/scenario. We calculated how many of these correlation estimates were positive or negative and how many were significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05), before testing whether the number of negative slopes differed across CI scenarios.</p></sec><sec id="ece34744-sec-0004"><label>2.2</label><title>Testing how CI affects intersexual genetic correlations in inbred lines of <italic>Drosophila simulans</italic>
+</title><sec id="ece34744-sec-0005"><label>2.2.1</label><title>Study species and animal maintenance</title><p>In April 2010, approximately 100 wild&#x02010;type <italic>Drosophila simulans</italic> females were collected from Athens, Greece, and used to establish isogenic female lines (hereafter isolines) at the University of Exeter, Cornwall, UK. These lines were maintained via full&#x02010;sib matings with non&#x02010;overlapping generations for 45 generations prior to beginning this experiment. After such prolonged inbreeding, each isoline is effectively genetically identical and can be considered an individual genotype (David et al., <xref rid="ece34744-bib-0024" ref-type="ref">2005</xref>). Thus, they can be used to test for genetic correlations (David et al., <xref rid="ece34744-bib-0024" ref-type="ref">2005</xref>) because they capture natural linkage, but other approaches (half&#x02010;sib designs) are probably better to precisely estimate specific genetic parameters when lines have been maintained for more than about five generations (Hoffmann &#x00026; Parsons, <xref rid="ece34744-bib-0036" ref-type="ref">1988</xref>). Thus, we do not estimate genetic parameters per se here, but merely use the lines to estimate male&#x02013;female correlations across genotypes (see below). Isolines were kept in 150&#x02010;ml (48&#x000a0;&#x000d7;&#x000a0;116&#x000a0;mm) vials with 30&#x000a0;ml of a cornmeal&#x02010;based food (Applied Scientific UK) and housed at 25&#x000b0;C with 50% relative humidity and with a 12:12&#x02010;hr light&#x02013;dark cycle. Focal experimental animals came from these isolines, and the isolines which were used in this study were chosen randomly.</p><p>An outbred population cage was also established after the first generation of full&#x02010;sibling mating by adding flies from all isolines, and this was maintained at a size of ca. 800 individuals with overlapping generations and free mate choice. The population cage was housed in the laboratory at an ambient temperature of between 23 and 25&#x000b0;C and supplied with excess food. Males from this outbred population were used to assay the fitness of focal experimental females.</p><p>To assay the fitness of focal male flies, we used flies expressing the <italic>ebony</italic> mutation; <italic>ebony</italic> is a recessive allele that affects body pigmentation (Ashburner, Golic, &#x00026; Hawley, <xref rid="ece34744-bib-0006" ref-type="ref">2005</xref>), providing a phenotypic marker that allows paternity to be assigned to wild&#x02010;type or <italic>ebony</italic> sires (Delcourt, Blows, &#x00026; Rundle, <xref rid="ece34744-bib-0025" ref-type="ref">2009</xref>; Duffy et al., <xref rid="ece34744-bib-0029" ref-type="ref">2014</xref>). The <italic>ebony</italic> flies were supplied by the Tucson stock center and maintained in a large population cage (ca. 500&#x02013;700 individuals) in the ambient laboratory environment (as above) with ad libitum food, free mate choice, and overlapping generations for four years prior to the beginning of the experiment.</p></sec></sec><sec id="ece34744-sec-0006"><label>2.3</label><title>Fitness assays</title><p>We measured fitness in each of 10 individuals of each sex, from each of 27 isolines, in three blocks (total&#x000a0;=&#x000a0;30 flies/sex/line). Each block was assayed one generation (i.e., 12&#x02013;14&#x000a0;days) apart. Flies were collected as virgins and then housed individually until sexually mature (3&#x02013;4&#x000a0;days posteclosion) (Ashburner et al., <xref rid="ece34744-bib-0006" ref-type="ref">2005</xref>) after which they were assayed as described below.</p><p>We measured female fitness as the total number of adult offspring produced by a female over seven days, while being housed with two outbred males (see Duffy et al., <xref rid="ece34744-bib-0029" ref-type="ref">2014</xref>; and note housing females with multiple males increases female fitness: Taylor, Wigmore, Hodgson, Wedell, &#x00026; Hosken, <xref rid="ece34744-bib-0073" ref-type="ref">2008</xref>). This measure of fitness captures female fecundity and egg to adult survival of offspring in competition with their siblings (Delcourt et al., <xref rid="ece34744-bib-0025" ref-type="ref">2009</xref>; Rundle, Chenoweth, &#x00026; Blows, <xref rid="ece34744-bib-0065" ref-type="ref">2006</xref>). Male tester flies were collected as virgins at the same times as experimental females (housed at <italic>n</italic>&#x000a0;=&#x000a0;6 flies/vial [60&#x000a0;ml])&#x02014;ensuring all flies were 3&#x02013;4&#x000a0;days old on the first assay day. These triads of flies were housed in 35&#x02010;ml vials with 10&#x000a0;ml of food for 48&#x000a0;hr, before being moved to a second vial for a further 48&#x000a0;hr, and then moved to a final vial for 72&#x000a0;hr. After this, all adults were removed from these vials. Throughout, flies were transferred without anesthesia via aspiration in order to avoid any effects on female oviposition behavior or fertility associated with CO<sub>2</sub> anesthesia (Champion De Crespigny &#x00026; Wedell, <xref rid="ece34744-bib-0018" ref-type="ref">2008</xref>). Eggs and larvae from each of these three vials were allowed to develop. After six days, vials were monitored daily for eclosion, and once the first eclosion from a vial was observed, vials were incubated for a further eight days, and then all offspring that had emerged as adults were counted. This ensured that only the offspring of focal females were scored, rather than their grand&#x02010;offspring (Sharma, Mitchell, Hunt, Tregenza, &#x00026; Hosken, <xref rid="ece34744-bib-0067" ref-type="ref">2012</xref>; Sharma, Tregenza, &#x00026; Hosken, <xref rid="ece34744-bib-0068" ref-type="ref">2010</xref>; Taylor et al., <xref rid="ece34744-bib-0073" ref-type="ref">2008</xref>).</p><p>We measured male fitness as reproductive success when competing with other conspecific males. This measure of male fitness has been used in other studies (Chippindale et al., <xref rid="ece34744-bib-0019" ref-type="ref">2001</xref>; Delcourt et al., <xref rid="ece34744-bib-0025" ref-type="ref">2009</xref>; Duffy et al., <xref rid="ece34744-bib-0029" ref-type="ref">2014</xref>; Mills, Koskela, &#x00026; Mappes, <xref rid="ece34744-bib-0047" ref-type="ref">2011</xref>) and captures several components of fitness including male mating success, male fertility, and the survival to emergence of male offspring when in direct competition with offspring sired by the <italic>ebony</italic> competitors (Delcourt et al., <xref rid="ece34744-bib-0025" ref-type="ref">2009</xref>). To assay male reproductive success, we housed a single sexually mature, virgin male in a 35&#x02010;ml vial with 10&#x000a0;ml of food and four sexually mature virgin competitor males (i.e., tester males) exhibiting the <italic>ebony</italic> mutation. The isoline and <italic>ebony</italic> males competed for fertilizations with one, sexually mature, virgin <italic>ebony</italic> female (note that housing female <italic>D.&#x000a0;simulans</italic> with multiple males does not have the negative fitness effects seen in <italic>D.&#x000a0;melanogaster</italic>: e.g., Taylor et al., <xref rid="ece34744-bib-0073" ref-type="ref">2008</xref>). As with the female assay, experimental and tester flies were collected as virgins at the same times to ensure all flies were the same age (3&#x02013;4&#x000a0;days old) on the day that fitness was assayed. These cohorts of flies were housed in three different vials, as described for the female fitness assay. Offspring were counted from each of the three vials as described above and scored as being wild&#x02010;type (and so sired by the focal isoline male) or <italic>ebony</italic> (and therefore sired by a competing male). We calculated the fitness of an isoline male by scoring the ratio of wild&#x02010;type:<italic>ebony</italic> offspring in each vial.</p></sec><sec id="ece34744-sec-0007"><label>2.4</label><title>
+<italic>Wolbachia</italic> screening</title><p>
+<italic>Wolbachia</italic> infection status was determined via PCR analysis in 15 females from each of five isolines (see Table <xref rid="ece34744-tbl-0002" ref-type="table">2</xref>). Females were assayed from the two female isolines that showed the most pronounced sex differences in fitness (dotted lines Figure <xref rid="ece34744-fig-0003" ref-type="fig">3</xref>; F7, F12). The remaining three lines had either very high or intermediate female fitness values (see Table <xref rid="ece34744-tbl-0002" ref-type="table">2</xref> for more information on mean female fertility in these lines).</p><p>To assay <italic>Wolbachia</italic> status, individual adult females from each line were squashed in 25&#x000a0;mM NaCl, 10&#x000a0;mM Tris&#x02010;HCl pH&#x000bc; 8.0, 1&#x000a0;mM EDTA, 200&#x000a0;lg/ml proteinase K and incubated for 30&#x000a0;min at 37&#x02013;8&#x000b0;C. Following incubation, proteinase K was inactivated at 95&#x000b0;C for 5&#x000a0;min. The supernatant was then directly used for PCR amplification under the following thermal profile: 94&#x000b0;C for 4&#x000a0;min then 94&#x000b0;C for 1&#x000a0;min, 52&#x000b0;C for 1&#x000a0;min and 72&#x000b0;C for 1&#x000a0;min per cycle for 35 cycles and finally 72&#x000b0;C for 4&#x000a0;min. Ten microliters of each sample was electrophoresed on 1% agarose gels, stained with ethidium bromide, and visualized under ultraviolet illumination. We used the <italic>wsp</italic> (<italic>Wolbachia</italic> surface protein) primers <italic>wsp</italic> 81F (59&#x02010;TGGTCCAATAAGTGATGAAGAAAC&#x02010;39) and <italic>wsp</italic> 691R (59&#x02010;AAAAATTAAACGCTACTCCA&#x02010;39), which amplify an approximately 600&#x02010;bp fragment of the <italic>wsp</italic> gene in <italic>Wolbachia</italic> strains which infect <italic>D.&#x000a0;simulans</italic> (Teixeira, Ferreira, &#x00026; Ashburner, <xref rid="ece34744-bib-0074" ref-type="ref">2008</xref>; Zhou, Rousset, &#x00026; O'Neill, <xref rid="ece34744-bib-0084" ref-type="ref">1998</xref>). <italic>Wsp</italic> is a single&#x02010;copy gene coding for an outer membrane protein of <italic>Wolbachia</italic> (Braig, Zhou, Dobson, &#x00026; O'Neill, <xref rid="ece34744-bib-0012" ref-type="ref">1998</xref>) and has been widely used for <italic>Wolbachia</italic> screening in <italic>Drosophila</italic> (Dobson et al., <xref rid="ece34744-bib-0028" ref-type="ref">1999</xref>; Jeyaprakash &#x00026; Hoy, <xref rid="ece34744-bib-0038" ref-type="ref">2000</xref>; M&#x000fc;ller, M&#x000fc;hlen, &#x00026; Valiati, &#x00026; Valente, <xref rid="ece34744-bib-0049" ref-type="ref">2012</xref>; Van Meer, Witteveldt, &#x00026; Stouthamer, <xref rid="ece34744-bib-0078" ref-type="ref">1999</xref>). We did not assess the infection status of tester males as they came from stock populations, and hence, their precise status could not be replicated, and the individual males used had been discarded before any evidence of CI was recorded. However, subsequent tests indicate that these populations (wild&#x02010;type and <italic>ebony</italic>) are infected like many <italic>Drosophila</italic> stocks ((Clark, Anderson, Cande &#x00026; Karr, <xref rid="ece34744-bib-0020" ref-type="ref">2005</xref>).</p></sec><sec id="ece34744-sec-0008"><label>2.5</label><title>MLST sequence typing</title><p>To test whether the <italic>Wolbachia</italic> strain in the isolines shared sequence types with a CI&#x02010;inducing <italic>Wolbachia</italic> strain (Dsim_A_wRI (id:11)), we used multi&#x02010;locus sequence typing (MLST) of five conserved genes (<italic>gatB</italic>,<italic> coxA</italic>,<italic> hcpA</italic>,<italic> ftsZ,</italic> and <italic>fbpA</italic>) and four WSP hypervariable regions (HVRs) performed in line with standard protocols (for details, please see <ext-link ext-link-type="uri" xlink:href="https://pubmlst.org/wolbachia/info/protocols.shtml">https://pubmlst.org/wolbachia/info/protocols.shtml</ext-link>).</p></sec><sec id="ece34744-sec-0009"><label>2.6</label><title>Curing flies of <italic>Wolbachia</italic>
+</title><p>To examine intersexual fitness correlations without the confounding effects of <italic>Wolbachia,</italic> we cured replicate isolines of the bacteria. This was performed 12 generations after finishing the final round of fitness assays described above. Here, we established replicates (<italic>n</italic>&#x000a0;=&#x000a0;25/sex/line) of all 27 of the isofemale lines using during the initial experiment. Additionally, large subsets of flies from the <italic>ebony</italic> and the outbred population cages (used for male and female assays) were established. We used the wide spectrum antibiotic tetracycline HCL (Sigma&#x02010;Aldrich) to remove <italic>Wolbachia</italic> as outlined in Hoffmann, Turelli, and Simmons (<xref rid="ece34744-bib-0037" ref-type="ref">1986</xref>). Briefly, after cooling food media to 48&#x000b0;C, per 40&#x000a0;ml of food media per 150&#x000a0;ml isoline vial we added 1&#x000a0;ml of a 12.3&#x000a0;mg/ml tetracycline solution providing a final concentration of ca. 0.3&#x000a0;mg/ml (0.03%). Tetracycline was added to the food media of the replicate isolines and the subset populations established from the <italic>ebony</italic> and outbred population cages, such that these populations were also cured of <italic>Wolbachia</italic> at the same time as isolines were cured. This was performed for three generations for all fly populations, after which the presence or absence of <italic>Wolbachia</italic> was tested with PCR analysis of 15 females per isoline (using the same protocol as described above). PCR analyses showed that all isolines (<italic>n</italic>&#x000a0;=&#x000a0;27) were <italic>Wolbachia&#x02010;</italic>free. Following confirmation of <italic>Wolbachia</italic> absence, we allowed for three generation of &#x0201c;recovery&#x0201d; on non&#x02010;tetracycline&#x02010;treated media before repeating fitness assays (as described above).</p></sec><sec id="ece34744-sec-0010"><label>2.7</label><title>Statistics</title><p>Prior to analyses, data were <italic>Z&#x02010;</italic>transformed&#x02014;using the mean and standard deviation for each sex within each block&#x02014;so that male fitness and female fitness were on comparable scales. In the initial fitness assays (i.e., before CI was identified or lines cured of <italic>Wolbachia</italic>), one outlier was identified and removed. Means for each line were then calculated and used to determine Pearson's correlation coefficients (<italic>r</italic>
+<sub>mf</sub>) between male and female fitness. To examine intersexual fitness correlations among isolines, we used a linear mixed&#x02010;effects model (&#x0201c;lme4&#x0201d; package&#x02014;Bates, Maechler, Bolker, &#x00026; Walker, <xref rid="ece34744-bib-0008" ref-type="ref">2015</xref>) in R version 3.4.3 (R Core Team, <xref rid="ece34744-bib-0057" ref-type="ref">2017</xref>). Sex and isoline were fit as fixed effects with block included as a random effect. <italic>p</italic> Values for the fixed effects were calculated using <italic>F</italic> statistics in the &#x0201c;LmerTest&#x0201d; package (Devigili et al., <xref rid="ece34744-bib-0027" ref-type="ref">2018</xref>; Kuznetsova, Brockhoff, &#x00026; Christensen, <xref rid="ece34744-bib-0040" ref-type="ref">2015</xref>) with denominator degrees of freedom generated using Satterthwaite's approximation in the &#x0201c;ANOVA&#x0201d; function from the same R package. <italic>p</italic> Values for the random effects were calculated based on likelihood ratio chi&#x02010;square tests.</p><p>When we identified lines that appeared to have CI, we reanalyzed our data. To do this, we removed the two affected lines and then re&#x02010;standardized the data (i.e., new Z&#x02010;transformed line averages were calculated), before repeating the analyses described above. To compare correlation coefficients for these datasets (i.e., including and excluding lines with CI), we used the following equation:<disp-formula id="ece34744-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>b</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>b</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:msqrt><mml:mrow><mml:mi>S</mml:mi><mml:msubsup><mml:mi>b</mml:mi><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mo>+</mml:mo><mml:mi>S</mml:mi><mml:msubsup><mml:mi>b</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:msqrt></mml:mfrac></mml:mrow></mml:math></disp-formula>
+</p><p>where <italic>b</italic>
+<sub>1</sub> and <italic>b</italic>
+<sub>2</sub> are the slopes to be compared and s is the standard error associated with each slope estimate (Zar, <xref rid="ece34744-bib-0083" ref-type="ref">1999</xref>).</p></sec></sec><sec id="ece34744-sec-0011"><label>3</label><title>RESULTS</title><sec id="ece34744-sec-0012"><label>3.1</label><title>Simulated data</title><p>When the relationship between male and female fitness was generated at random and there was no CI, ca. 50% of correlations were positive and 50% were negative, with only 5 of the 100 correlations being significant. This is precisely what we would expect. When we simulated CI at random in 10 or 20% of genotypes, such that uninfected genotypes have low female fitness because of CI, but males with high, medium, or low fitness estimates nothing really changed (Figure <xref rid="ece34744-fig-0001" ref-type="fig">1</xref> and Supporting Information Figure <xref rid="ece34744-sup-0001" ref-type="supplementary-material">S1</xref>&#x02014;blue points). However, if the uninfected genotypes include males with high relative fitness (i.e., males without <italic>Wolbachia</italic> infection tend to be more fertile than infected males), but CI causes a reduction in uninfected female fitness, even modest levels of CI can create significant, negative correlations for fitness, which mirrors expectations under intralocus conflict (Figure <xref rid="ece34744-fig-0001" ref-type="fig">1</xref> and Supporting Information Figure <xref rid="ece34744-sup-0001" ref-type="supplementary-material">S1</xref>&#x02014;pink points). The reason for this is illustrated in Supporting Information Figure <xref rid="ece34744-sup-0001" ref-type="supplementary-material">S2</xref>&#x02014;when male fitness is high, unidirectional CI mirrors intralocus conflict in these genotypes, skewing overall correlation estimates. If we consider just the significant slopes (i.e., simulations that produced statistically significant regressions), we note that with CI and non&#x02010;infected males having higher fitness, <italic>all slopes were negative</italic>, while in all other simulation scenarios, zero or positive slopes were detected (Table <xref rid="ece34744-tbl-0001" ref-type="table">1</xref>). Contingency table testing reveals these associations are not independent, either when tested across all combinations (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;18.1; <italic>df</italic>&#x000a0;=&#x000a0;5; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.003) or when tested only when uninfected male fitness is high (<italic>&#x003c7;</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;17.2; <italic>df</italic>&#x000a0;=&#x000a0;2; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). Additionally, the number of significant negative versus positive values for CI simulations when uninfected males had high fitness and 10% (18/0) or 20% (31/0) of genotypes were uninfected (Table <xref rid="ece34744-tbl-0001" ref-type="table">1</xref>) are both highly significant in binomial tests (BinP&#x000a0;=&#x000a0;0.5) tests (all <italic>z</italic>&#x000a0;&#x0003e;&#x000a0;2.84; all <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). This indicates that CI in uninfected females plus higher fitness in uninfected males together generates significantly more negative fitness associations than expected by chance.</p><fig fig-type="Figure" xml:lang="en" id="ece34744-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The percentage of intersexual genetic correlations that were negative when 0%, 10%, and 20% of genotypes were uninfected with <italic>Wolbachia</italic> (i.e., cytoplasmic incompatibility (CI) would have been seen in 0%, 10%, 20% of crosses between genotypes) in a simulated dataset. Blue dots show the situation when relationship between male and female fitness was randomized. Red triangles show the situation when CI causes uninfected females to have low fitness, but uninfected males have high fitness&#x02014;a common situation in nature. Note that in this latter case, uneven infection, which would result in CI, almost always results in negative male&#x02013;female fitness associations</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-328-g001"/></fig><table-wrap id="ece34744-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>The numbers of significant positive and negative intersexual fitness correlations over the range of cytoplasmic incompatibility and relative male fitness parameters we simulated</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">CI %</th><th align="left" valign="top" rowspan="1" colspan="1">Relative male fitness</th><th align="left" valign="top" rowspan="1" colspan="1">Number of positive correlations</th><th align="left" valign="top" rowspan="1" colspan="1">Number of negative correlations</th><th align="left" valign="top" rowspan="1" colspan="1">Number of significant positive correlations</th><th align="left" valign="top" rowspan="1" colspan="1">Number of significant negative correlations</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">Random</td><td align="left" rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1">49</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">Random</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">4</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">Random</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">45</td><td align="left" rowspan="1" colspan="1">55</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">89</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">18</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">31</td></tr></tbody></table><table-wrap-foot><title>Note</title><fn id="ece34744-note-0001"><p>CI % is the proportion of genotypes that were not infected with <italic>Wolbachia</italic>, while random male fitness meant uninfected males could take on any fitness value (low, medium, high) and high male fitness meant uninfected males were on average better sexual competitors. As can be seen, with high male fitness and 10% or more CI, negative fitness associations become the norm.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece34744-sec-0013"><label>3.2</label><title>
+<italic>Drosophila simulans</italic> isolines</title><p>There was a negative, marginally non&#x02010;significant <italic>r</italic>
+<sub>mf</sub> (Figure <xref rid="ece34744-fig-0002" ref-type="fig">2</xref>a) among isolines (genotypes) (<italic>t</italic>&#x000a0;=&#x000a0;&#x02212;1.801, <italic>df</italic>&#x000a0;=&#x000a0;25, <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;&#x02212;0.34, <italic>p&#x000a0;=&#x000a0;</italic>0.08). The mixed&#x02010;effects model indicated a significant sex&#x02010;by&#x02010;isoline interaction (<italic>F</italic>
+<sub>1,1582</sub>&#x000a0;=&#x000a0;10.72, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001); this significant interaction term including isoline indicates the presence of genetic variation between lines. However, the main effects of sex (<italic>F</italic>
+<sub>1,1582</sub>&#x000a0;=&#x000a0;1.17, <italic>p</italic> 0.28) and isoline (<italic>F</italic>
+<sub>1,1582</sub>&#x000a0;=&#x000a0;3.04, <italic>p&#x000a0;=&#x000a0;</italic>0.081) were not significant. The random effect of block was significant (<mml:math id="nlm-math-2"><mml:msubsup><mml:mi>&#x003c7;</mml:mi><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup></mml:math>&#x000a0;=&#x000a0;27.0, <italic>p</italic>&#x000a0;=&#x000a0;0.01). Females from two of the isolines produced very few offspring, although males from these lines had particularly good fertility (Figure <xref rid="ece34744-fig-0003" ref-type="fig">3</xref>). These isolines also failed to produce offspring in a second experiment in the laboratory (data not shown), suggestive of unidirectional CI driven by <italic>Wolbachia</italic>. The <italic>Wolbachia</italic> infection status of these lines, and three others (see Table <xref rid="ece34744-tbl-0002" ref-type="table">2</xref>), was determined using PCR analysis. Results indicated that both lines that failed to produce offspring were uninfected with <italic>Wolbachia</italic> but the other three isolines had relatively high levels of infection (Table <xref rid="ece34744-tbl-0002" ref-type="table">2</xref>). MLST sequencing showed that infected isolines carry a CI&#x02010;inducing <italic>Wolbachia</italic> strain.</p><fig fig-type="Figure" xml:lang="en" id="ece34744-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(a&#x02013;c) Empirical data generated from <italic>Drosophila simulans</italic> isolines. Plot a shows the intersexual fitness correlation using data from all assayed lines (<italic>n</italic>&#x000a0;=&#x000a0;27); the negative association is non&#x02010;significant, but only marginally so (<italic>t</italic>&#x000a0;=&#x000a0;&#x02212;1.801, <italic>df</italic>&#x000a0;=&#x000a0;25, <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;&#x02212;0.34, <italic>p&#x000a0;=&#x000a0;</italic>0.08). Plot b depicts empirical data generated from <italic>Drosophila simulans</italic> isolines omitting the two uninfected isolines from the analysis (<italic>n</italic>&#x000a0;=&#x000a0;25). The sign of the intersexual correlation changes from negative to flat (<italic>t</italic>&#x000a0;=&#x000a0;0.196, <italic>df</italic>&#x000a0;=&#x000a0;23, <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;0.04, <italic>p&#x000a0;=&#x000a0;</italic>0.85). Plot c depicts a similar outcome when analyzing results from flies that had all been cured of <italic>Wolbachia</italic> infection (<italic>t</italic>&#x000a0;=&#x000a0;&#x02212;0.193, <italic>df</italic>&#x000a0;=&#x000a0;25, <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;&#x02212;0.038, <italic>p</italic>&#x000a0;=&#x000a0;0.84). Blue lines represent 95% confidence envelopes</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-328-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="ece34744-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Interaction plot for the significant sex&#x02010;by&#x02010;isoline interaction (<italic>F</italic>
+<sub>1,1582</sub>&#x000a0;=&#x000a0;10.72, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). The bold, dashed lines depict the top two highest male fitness lines, which are the corresponding lowest female fitness lines. These isolines were subsequently found to be uninfected with <italic>Wolbachia,</italic> which probably resulted in cytoplasmic incompatibility fitness reductions for the females</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-328-g003"/></fig><table-wrap id="ece34744-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Results from <italic>Wolbachia</italic> screening using PCR analyses of the two highest and two lowest female fitness isolines and one randomly chosen line (F72)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Isoline ID</th><th align="left" valign="top" rowspan="1" colspan="1">% Infected (<italic>n</italic>)</th><th align="left" valign="top" rowspan="1" colspan="1">Mean fertility (&#x000b1;<italic>SE</italic>)</th><th align="left" valign="top" rowspan="1" colspan="1">Fitness rank in fertility assay (1&#x000a0;=&#x000a0;highest, 27&#x000a0;=&#x000a0;lowest)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">F53</td><td align="left" rowspan="1" colspan="1">80 (12/15)</td><td align="left" rowspan="1" colspan="1">71.7 (7.3)</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">F8</td><td align="left" rowspan="1" colspan="1">93 (14/15)</td><td align="left" rowspan="1" colspan="1">71.1 (6.6)</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">F72</td><td align="left" rowspan="1" colspan="1">93 (14/15)</td><td align="left" rowspan="1" colspan="1">65.4 (8.7)</td><td align="left" rowspan="1" colspan="1">6</td></tr><tr><td align="left" rowspan="1" colspan="1">F12</td><td align="left" rowspan="1" colspan="1">0.0 (0/15)</td><td align="left" rowspan="1" colspan="1">29.2 (4.5)</td><td align="left" rowspan="1" colspan="1">26</td></tr><tr><td align="left" rowspan="1" colspan="1">F7</td><td align="left" rowspan="1" colspan="1">0.0 (0/15)</td><td align="left" rowspan="1" colspan="1">28.5 (5.0)</td><td align="left" rowspan="1" colspan="1">27</td></tr></tbody></table><table-wrap-foot><title>Note</title><fn id="ece34744-note-0002"><p>Fifteen females were sampled from each line. All of the flies from the two lowest female fitness lines were uninfected. Infection rates were over 80% for all other lines. Fertility values and fitness ranks correspond to the initial fitness assays of all 27 isolines. The line with the greatest fitness (highest average female fecundity) has a rank of 1, and the line with the lowest fitness has a rank of 27.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To test whether the low female fitness values for these lines influenced the estimated intersexual genetic correlation for fitness (<italic>r</italic>
+<sub>mf</sub>), an additional correlation analysis was performed without the uninfected lines (i.e., <italic>n</italic>&#x000a0;=&#x000a0;25 lines). Prior to analysis, data were again standardized but excluding data from the uninfected isolines. The <italic>r</italic>
+<sub>mf</sub> was non&#x02010;significant but the slope changed from negative to flat (<italic>t</italic>&#x000a0;=&#x000a0;0.196, <italic>df</italic>&#x000a0;=&#x000a0;23, <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;0.04, <italic>p&#x000a0;=&#x000a0;</italic>0.85) (Figure <xref rid="ece34744-fig-0002" ref-type="fig">2</xref>b). Comparing these slopes revealed that the difference between them was marginally non&#x02010;significant (<italic>t</italic>
+<sub>(1)</sub>&#x000a0;=&#x000a0;&#x02212;1.14, <italic>df</italic>&#x000a0;=&#x000a0;48, <italic>p&#x000a0;=&#x000a0;</italic>0.08). Once all populations were cured of <italic>Wolbachia</italic>, we repeated the fitness assays and calculated new <italic>r</italic>
+<sub>mf</sub> estimates for fitness and found no indication of a negative intersexual fitness correlation (<italic>t</italic>&#x000a0;=&#x000a0;&#x02212;0.193, <italic>df</italic>&#x000a0;=&#x000a0;25, <italic>r</italic>
+<sub>mf</sub>&#x000a0;=&#x000a0;&#x02212;0.038, <italic>p</italic>&#x000a0;=&#x000a0;0.84) (Figure <xref rid="ece34744-fig-0002" ref-type="fig">2</xref>c).</p></sec></sec><sec id="ece34744-sec-0014"><label>4</label><title>DISCUSSION</title><p>Intralocus sexual conflict is important and likely to be pervasive (Bonduriansky &#x00026; Chenoweth, <xref rid="ece34744-bib-0011" ref-type="ref">2009</xref>; Mank et al., <xref rid="ece34744-bib-0046" ref-type="ref">2014</xref>; Pennell &#x00026; Morrow, <xref rid="ece34744-bib-0052" ref-type="ref">2013</xref>). It occurs when alleles that are not sex&#x02010;limited in their expression or transmission encode traits that have different optimal values in either sex. Sex&#x02010;specific patterns of selection then lead to an intersexual evolutionary tug&#x02010;of&#x02010;war over allelic values at specific loci (Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0061" ref-type="ref">2002</xref>). Here, we illustrate a potential problem with detection of intralocus conflict in insects using a combination of simulated and experimental data. Unidirectional CI caused by crosses between <italic>Wolbachia&#x02010;</italic>infected males and <italic>Wolbachia</italic>&#x02010;uninfected females can create significant negative intersexual genetic correlations for fitness, indicative of intralocus conflict, even when there are no sexually antagonistic alleles <italic>sensu</italic>
+<italic> stricto</italic> segregating in a population. Note that this parasitic endosymbiont is maternally transmitted, and so even if we broaden the definition of intralocus conflict to include non&#x02010;self genes, we are still dealing with a different phenomenon (i.e., because transmission is sex&#x02010;biased: see definition in Rice &#x00026; Chippindale, <xref rid="ece34744-bib-0061" ref-type="ref">2002</xref>). The interplay between genomic parasites and intralocus conflict, and the consequences of it, has been discussed at length elsewhere (Mank et al., <xref rid="ece34744-bib-0046" ref-type="ref">2014</xref>). Here, we merely illustrate how CI can confound conflict estimates using simulated data, and then present data that broadly support the potential problem in <italic>D.&#x000a0;simulans</italic>. If CI can mimic, or even just strengthen estimates of sexual conflict, this has implications for tests of intralocus conflict in insects when the <italic>Wolbachia</italic> infection status of experimental populations is unknown.</p><p>The argument is straightforward&#x02014;if sexual fitness components are used as a measure of fitness and if some genotypes are not infected with <italic>Wolbachia</italic>, but some are (as seems to be the usual case in nature: Hilgenboecker et al., <xref rid="ece34744-bib-0033" ref-type="ref">2008</xref>), this can lead to unidirectional CI and lower fitness of infected males, and hence comparisons of male and female fitness mimic intralocus conflict. This is because when uninfected females are mated with infected males, they will produce few offspring (Werren, <xref rid="ece34744-bib-0081" ref-type="ref">1997</xref>; Werren et al., <xref rid="ece34744-bib-0082" ref-type="ref">2008</xref>), but uninfected males may have higher fitness because infected males tend to be poorer sexually (e.g., Champion de Crespigny et al, <xref rid="ece34744-bib-0016" ref-type="ref">2006</xref>; Wedell, <xref rid="ece34744-bib-0079" ref-type="ref">2013</xref>). However, <italic>Wolbachia&#x02010;</italic>infected females will produce viable offspring regardless of paternal infection status (Werren, <xref rid="ece34744-bib-0081" ref-type="ref">1997</xref>; Werren et al., <xref rid="ece34744-bib-0082" ref-type="ref">2008</xref>). This means that infected females are good but infected males can be poor, and uninfected females are poor but uninfected males are good, potentially generating negative intersexual fitness correlations that mimic conflict, as our simple simulated data show. It is worth noting that our simulations may have overestimated the sex&#x02010;specific fitness costs of <italic>Wolbachia</italic>&#x02014;as shown by our empirical data<italic>&#x02014;</italic>because effects will depend on infection prevalence and penetrance of CI. Furthermore, the strength of CI effects and male fitness impacts can vary across taxa (e.g., Okayama et al., <xref rid="ece34744-bib-0051" ref-type="ref">2016</xref>). However, the point remains that <italic>Wolbachia&#x02010;</italic>driven CI can in principle mimic the effects of intralocus sexual conflict.</p><p>Simulation outcomes were broadly supported by the empirical data<italic>.</italic> In <italic>D.&#x000a0;simulans</italic> isofemale lines, we found evidence of a negative intersexual fitness correlation&#x02014;a strong but non&#x02010;significant trend. However, this signal of sexual conflict was largely driven by two isolines where males had high fitness and females had low fitness. Data were consistent with this resulting from CI &#x02014; curing flies of infection eliminated the negative trend. While significant crossing over of fitness ranks remained even without these two lines, the sign of the association went from negative to weakly positive when they were excluded from the analysis. It is important to note that these two lines did not have significant effects on our results&#x02014;the negative <italic>r</italic>
+<sub>mf</sub> for fitness was non&#x02010;significant even when these lines were included in analyses. However, what is clear from these data is that males from lines with CI had the highest fertility estimates of all males, showing that our second simulation scenario is biologically feasible (i.e., where CI is associated with low female fitness but high male fitness estimates) and the presence of CI in just two lines out of 27 turned a flat and non&#x02010;significant <italic>r</italic>
+<sub>mf</sub> for fitness into a negative, very nearly significant correlation. This illustrates the potential for CI to strengthen (or create) signals of intralocus sexual conflict. It must be noted again that in our empirical data, fitness regressions were not significant, which implies the CI and fitness effects in the flies were weaker than in our simulations. This may be because CI effects could be reduced by mate choice for example. However, genetic correlations, which our isoline regressions represent (David et al., <xref rid="ece34744-bib-0024" ref-type="ref">2005</xref>), usually have very large errors associated with them (Lynch &#x00026; Walsh, <xref rid="ece34744-bib-0043" ref-type="ref">1998</xref>) making statistical significance hard to achieve (e.g., see figure <xref rid="ece34744-fig-0003" ref-type="fig">3</xref> in Sharma, Wilson, &#x00026; Hosken, <xref rid="ece34744-bib-0069" ref-type="ref">2016</xref>). This is why in other contexts it has been recommended that correlation magnitudes are reported regardless of statistical significance (Sharma et al., <xref rid="ece34744-bib-0069" ref-type="ref">2016</xref>).</p><p>It is important to note that we cannot say definitively that CI drove the empirical results we observe because the <italic>Wolbachia</italic> infection status of the tester males used in this experiment could not be confirmed&#x02014;tester males were not retained following mating assays. However, the strong negative correlations for fitness seen in the isolines that showed signals of CI disappeared in assays with flies cured of <italic>Wolbachia</italic> infection, and hence, there was no longer any presence of CI. Additionally, <italic>D.&#x000a0;simulans</italic> displays much higher levels of CI than closely related species such as <italic>D.&#x000a0;melanogaster</italic> (Champion de Crespigny et al, <xref rid="ece34744-bib-0016" ref-type="ref">2006</xref>; Hoffmann, Clancy, &#x00026; Merton, <xref rid="ece34744-bib-0034" ref-type="ref">1994</xref>; Hoffmann, Hercus, &#x00026; Dagher, <xref rid="ece34744-bib-0035" ref-type="ref">1998</xref>; Solignac, Vautrin, &#x00026; Rousset, <xref rid="ece34744-bib-0072" ref-type="ref">1994</xref>), and levels of CI can approach 100% meaning that mating between infected and uninfected flies does not produce any offspring at all (Callaini, Riparbelli, &#x00026; Giordano, <xref rid="ece34744-bib-0014" ref-type="ref">1996</xref>; Champion de Crespigny, Hurst, &#x00026; Wedell, <xref rid="ece34744-bib-0015" ref-type="ref">2008</xref>; Lassy &#x00026; Karr, <xref rid="ece34744-bib-0041" ref-type="ref">1996</xref>), which is in keeping with our results. Furthermore, CI will help <italic>Wolbachia</italic> spread to at least intermediate frequencies in population cages, making it likely that our male testers (or many of them) were infected, all the more so given that most of the isolines we tested were infected and prevalence in these lines was very high (&#x02265;80%). So the empirical data show the precise pattern expected if CI was affecting fitness associations. In any case, our simulated data show how easily CI could create significant negative <italic>r</italic>
+<sub>mf</sub> for fitness, so our main point remains unchanged.</p><p>Given the potential for <italic>Wolbachia</italic> to influence fitness estimates, and potentially to create signals of intralocus conflict, what should we do about it? Reproductive success is the primary sex&#x02010;specific measure of fitness (e.g., Baker et al., <xref rid="ece34744-bib-0007" ref-type="ref">2001</xref>; Nguyen &#x00026; Moehring, <xref rid="ece34744-bib-0050" ref-type="ref">2017</xref>; Punzalan et al., <xref rid="ece34744-bib-0056" ref-type="ref">2014</xref>; Potdar, Daniel, Thomas, Lall, &#x00026; Sheeba, <xref rid="ece34744-bib-0054" ref-type="ref">2018</xref>; Sharp &#x00026; Agrawal, <xref rid="ece34744-bib-0070" ref-type="ref">2008</xref>; Tobler, Hermisson, &#x00026; Schl&#x000f6;tterer, <xref rid="ece34744-bib-0075" ref-type="ref">2015</xref>; Travers, Garcia&#x02010;Gonzalez, &#x00026; Simmons, <xref rid="ece34744-bib-0076" ref-type="ref">2016</xref>), but in a range of invertebrates, sexual fitness might be affected by <italic>Wolbachia</italic>. This is particularly true for <italic>Drosophila</italic> species given that in 2005 it was reported that ca. 30% of stocks at the Bloomington <italic>Drosophila</italic> stock center were infected with <italic>Wolbachia</italic> (Clark et al., <xref rid="ece34744-bib-0020" ref-type="ref">2005</xref>). Furthermore, some frequently used stocks such as the <italic>Drosophila</italic> Genetic Reference Panel (MacKay et al., <xref rid="ece34744-bib-0044" ref-type="ref">2012</xref>) are naturally infected with <italic>Wolbachia</italic> (ca. 50%) (Arbuthnott, Levin, &#x00026; Promislow, <xref rid="ece34744-bib-0001" ref-type="ref">2016</xref>). Researchers may therefore be working with infected stocks<italic>,</italic> which in turn may be having an unknown effect on experimental outcomes (Clark et al., <xref rid="ece34744-bib-0020" ref-type="ref">2005</xref>). It is therefore important to screen for <italic>Wolbachia</italic> in insect studies testing for intralocus conflict. In addition to screening for the presence or absence of <italic>Wolbachia,</italic> it is also important to determine which strain is present because of incompatibilities between different strains (Rousset &#x00026; de Stordeur, <xref rid="ece34744-bib-0064" ref-type="ref">1994</xref>; Rousset, Braig, &#x00026; O'Neill, <xref rid="ece34744-bib-0063" ref-type="ref">1999</xref>; Werren et al., <xref rid="ece34744-bib-0082" ref-type="ref">2008</xref>).</p><p>An alternative argument, however, is that the negative fitness correlations across the sexes caused by intracellular parasites such as <italic>Wolbachia</italic> are an extension of sexual conflict. That is, sexual conflict is not only fought over alleles within male and female genomes, but also over any parasites that they may host. In this case, removing <italic>Wolbachia</italic> could lead to a biologically inaccurate assessment of the potential for sexual conflict, but if so, a redefining of intralocus conflict is needed and this would blur lines between sex&#x02010;specific parasitic effects and intralocus sexual conflict. As such, we prefer the current status quo and the need for caution with respect to infection status.</p><p>In summary, we provide evidence that infection with cytoplasmic incompatibility inducing <italic>Wolbachia</italic> can potentially generate the negative intersexual fitness correlations that are used as the definitive signature of intralocus sexual conflict even when intralocus conflict may be absent or minor. We therefore suggest that documenting the infection status of insect test subjects is needed before conclusions about the causes of male&#x02013;female fitness associations are drawn.</p></sec><sec id="ece34744-sec-0016"><title>CONFLICT OF INTERESTS</title><p>There are no competing interests.</p></sec><sec id="ece34744-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>ED, MS, RJ, JR, NW, and DJH conceived the experiments. RA and DJH conceived the simulations. ED, MS, RJ, and MP conducted the experiments. RA conducted the simulations. ED, RA, and DJH analyzed the data. ED, RA, and DJH wrote the first draft of the manuscript. All authors contributed to data interpretation, manuscript drafting, and approval of the final draft.</p></sec><sec id="ece34744-sec-0018"><title>DATA ACCESSIBILITY</title><p>Data will be archived in Dryad on manuscript publication.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece34744-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-328-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece34744-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-328-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece34744-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-328-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece34744-sec-0015"><title>ACKNOWLEDGMENTS</title><p>ED was supported by a grant from the National Science Center, Poland (grant #: UMO&#x02010;2013/09/N/NZ8/03231), DJH by NERC (NE/G005303/1) and the Leverhulme Trust (RF&#x02010;2015&#x02010;001), and NW by the Royal Society (Wolfson award). We thank Fiona Ingleby for insightful discussion of results and analyses.</p></ack><ref-list content-type="cited-references" id="ece34744-bibl-0001"><title>REFERENCES</title><ref id="ece34744-bib-0001"><mixed-citation publication-type="journal" id="ece34744-cit-0001">
+<string-name>
+<surname>Arbuthnott</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>, <given-names>T. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Promislow</surname>, <given-names>D. E.</given-names>
+</string-name> (<year>2016</year>). <article-title>The impacts of <italic>Wolbachia</italic> and the microbiome on mate choice in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>29</volume>, <fpage>461</fpage>&#x02013;<lpage>468</lpage>.<pub-id pub-id-type="pmid">26548557</pub-id></mixed-citation></ref><ref id="ece34744-bib-0002"><mixed-citation publication-type="journal" id="ece34744-cit-0002">
+<string-name>
+<surname>Archer</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Duffy</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Mokkonen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Oku</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hunt</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sex specific effects of natural and sexual selection on the evolution of lifespan and ageing in <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Functional Ecology</source>, <volume>29</volume>, <fpage>562</fpage>&#x02013;<lpage>569</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0003"><mixed-citation publication-type="journal" id="ece34744-cit-0003">
+<string-name>
+<surname>Archer</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Sakaluk</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Selman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Royle</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hunt</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Oxidative stress and the evolution of sex differences in life span and ageing in the decorated cricket <italic>Gryllodes sigillatus</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>67</volume>, <fpage>620</fpage>&#x02013;<lpage>634</lpage>.<pub-id pub-id-type="pmid">23461314</pub-id></mixed-citation></ref><ref id="ece34744-bib-0004"><mixed-citation publication-type="journal" id="ece34744-cit-0004">
+<string-name>
+<surname>Archer</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Zajitschek</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sakaluk</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Royle</surname>, <given-names>N. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hunt</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Sexual selection affects the evolution of lifespan and ageing in the decorated cricket <italic>Gryllodes sigillatus</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>66</volume>, <fpage>3088</fpage>&#x02013;<lpage>3100</lpage>.<pub-id pub-id-type="pmid">23025600</pub-id></mixed-citation></ref><ref id="ece34744-bib-0005"><mixed-citation publication-type="book" id="ece34744-cit-0005">
+<string-name>
+<surname>Arnqvist</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rowe</surname>, <given-names>L.</given-names>
+</string-name> (<year>2005</year>). <source xml:lang="en">Sexual conflict</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece34744-bib-0006"><mixed-citation publication-type="book" id="ece34744-cit-0006">
+<string-name>
+<surname>Ashburner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Golic</surname>, <given-names>K. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hawley</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2005</year>). <source xml:lang="en">Drosophila: A laboratory handbook</source>, <edition>2nd ed.</edition>
+<publisher-loc>Cold Spring Harbor, NY</publisher-loc>: <publisher-name>Cold Spring Harbor Laboratory Press</publisher-name>.</mixed-citation></ref><ref id="ece34744-bib-0007"><mixed-citation publication-type="journal" id="ece34744-cit-0007">
+<string-name>
+<surname>Baker</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name>
+<surname>Ashwell</surname>, <given-names>R. I.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Fowler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pomiankowski</surname>, <given-names>A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Effects of multiple mating and male eye span on female reproductive output in the stalk&#x02010;eyed fly, <italic>Cyrtodiopsis dalmanni</italic>
+</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>12</volume>, <fpage>732</fpage>&#x02013;<lpage>739</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/12.6.732</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0008"><mixed-citation publication-type="journal" id="ece34744-cit-0008">
+<string-name>
+<surname>Bates</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Maechler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bolker</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walker</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Fitting linear mixed&#x02010;effects models using lme4</article-title>. <source xml:lang="en">Journal of Statistical Software</source>, <volume>67</volume>, <fpage>1</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0009"><mixed-citation publication-type="journal" id="ece34744-cit-0009">
+<string-name>
+<surname>Berger</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Martinossi&#x02010;Allibert</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Grieshop</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lind</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name>
+<surname>Maklakov</surname>, <given-names>A. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Arnqvist</surname>, <given-names>G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Intralocus sexual conflict and the tragedy of the commons in seed beetles</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>188</volume>, <fpage>E98</fpage>&#x02013;<lpage>E112</lpage>. <pub-id pub-id-type="doi">10.1086/687963</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0011"><mixed-citation publication-type="journal" id="ece34744-cit-0011">
+<string-name>
+<surname>Bonduriansky</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chenoweth</surname>, <given-names>S. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>Intralocus sexual conflict</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>24</volume>, <fpage>280</fpage>&#x02013;<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2008.12.005</pub-id>
+<pub-id pub-id-type="pmid">19307043</pub-id></mixed-citation></ref><ref id="ece34744-bib-0012"><mixed-citation publication-type="journal" id="ece34744-cit-0012">
+<string-name>
+<surname>Braig</surname>, <given-names>H. R.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Dobson</surname>, <given-names>S. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O'Neill</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>1998</year>). <article-title>Cloning and characterization of a gene encoding the major surface protein of the bacterial endosymbiont <italic>Wolbachia pipientis</italic>
+</article-title>. <source xml:lang="en">Journal of Bacteriology</source>, <volume>180</volume>, <fpage>2373</fpage>&#x02013;<lpage>2378</lpage>.<pub-id pub-id-type="pmid">9573188</pub-id></mixed-citation></ref><ref id="ece34744-bib-0013"><mixed-citation publication-type="journal" id="ece34744-cit-0013">
+<string-name>
+<surname>Brommer</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Kirkpatrick</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Qvarnstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gustafsson</surname>, <given-names>L.</given-names>
+</string-name> (<year>2007</year>). <article-title>The intersexual genetic correlation for lifetime fitness in the wild and its implications for sexual selection</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>2</volume>, <fpage>e744</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0000744</pub-id>
+<pub-id pub-id-type="pmid">17710144</pub-id></mixed-citation></ref><ref id="ece34744-bib-0014"><mixed-citation publication-type="journal" id="ece34744-cit-0014">
+<string-name>
+<surname>Callaini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Riparbelli</surname>, <given-names>M. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giordano</surname>, <given-names>R.</given-names>
+</string-name> (<year>1996</year>). <article-title>Mitotic defects associated with cytoplasmic incompatibility in <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Journal of Invertebrate Pathology</source>, <volume>67</volume>, <fpage>55</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1006/jipa.1996.0009</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0015"><mixed-citation publication-type="journal" id="ece34744-cit-0015">
+<string-name>
+<surname>Champion de Crespigny</surname>, <given-names>F. E.</given-names>
+</string-name>, <string-name>
+<surname>Hurst</surname>, <given-names>L. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2008</year>). <article-title>Do <italic>Wolbachia</italic> associated incompatibilities promote polyandry?</article-title>
+<source xml:lang="en">Evolution</source>, <volume>62</volume>, <fpage>107</fpage>&#x02013;<lpage>122</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2007.00274.x</pub-id>
+<pub-id pub-id-type="pmid">18067571</pub-id></mixed-citation></ref><ref id="ece34744-bib-0016"><mixed-citation publication-type="journal" id="ece34744-cit-0016">
+<string-name>
+<surname>Champion de Crespigny</surname>, <given-names>F. E.</given-names>
+</string-name>, <string-name>
+<surname>Pitt</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2006</year>). <article-title>Increased mating rate in <italic>Drosophila</italic> is associated with <italic>Wolbachia</italic> infection</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>19</volume>, <fpage>1964</fpage>&#x02013;<lpage>1972</lpage>.<pub-id pub-id-type="pmid">17040394</pub-id></mixed-citation></ref><ref id="ece34744-bib-0017"><mixed-citation publication-type="journal" id="ece34744-cit-0017">
+<string-name>
+<surname>Champion de Crespigny</surname>, <given-names>F. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2006</year>). <article-title>
+<italic>Wolbachia</italic> infection reduces sperm competitive ability in an insect</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>273</volume>, <fpage>1455</fpage>&#x02013;<lpage>1458</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2006.3478</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0018"><mixed-citation publication-type="journal" id="ece34744-cit-0018">
+<string-name>
+<surname>Champion de Crespigny</surname>, <given-names>F. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2008</year>). <article-title>The impact of anaesthetic technique on survival and fertility in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Physiological Entomology</source>, <volume>33</volume>, <fpage>310</fpage>&#x02013;<lpage>315</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0019"><mixed-citation publication-type="journal" id="ece34744-cit-0019">
+<string-name>
+<surname>Chippindale</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rice</surname>, <given-names>W. R.</given-names>
+</string-name> (<year>2001</year>). <article-title>Negative genetic correlation for adult fitness between sexes reveals ontogenetic conflict in <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>98</volume>, <fpage>1671</fpage>&#x02013;<lpage>1675</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.98.4.1671</pub-id>
+<pub-id pub-id-type="pmid">11172009</pub-id></mixed-citation></ref><ref id="ece34744-bib-0020"><mixed-citation publication-type="journal" id="ece34744-cit-0020">
+<string-name>
+<surname>Clark</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Cande</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karr</surname>, <given-names>T. L.</given-names>
+</string-name> (<year>2005</year>). <article-title>Widespread prevalence of <italic>Wolbachia</italic> in laboratory stocks and the implications for <italic>Drosophila</italic> research</article-title>. <source xml:lang="en">Genetics</source>, <volume>170</volume>, <fpage>1667</fpage>&#x02013;<lpage>1675</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.104.038901</pub-id>
+<pub-id pub-id-type="pmid">15937134</pub-id></mixed-citation></ref><ref id="ece34744-bib-0021"><mixed-citation publication-type="journal" id="ece34744-cit-0021">
+<string-name>
+<surname>Collet</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Fuentes</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hesketh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Innocenti</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>, <given-names>E. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Reuter</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Rapid evolution of the intersexual genetic correlation for fitness in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>70</volume>, <fpage>781</fpage>&#x02013;<lpage>795</lpage>.<pub-id pub-id-type="pmid">27077679</pub-id></mixed-citation></ref><ref id="ece34744-bib-0022"><mixed-citation publication-type="journal" id="ece34744-cit-0022">
+<string-name>
+<surname>Cox</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Calsbeek</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sexually antagonistic selection, sexual dimorphism, and the resolution of intralocus sexual conflict</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>173</volume>, <fpage>176</fpage>&#x02013;<lpage>187</lpage>. <pub-id pub-id-type="doi">10.1086/595841</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0024"><mixed-citation publication-type="journal" id="ece34744-cit-0024">
+<string-name>
+<surname>David</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Gibert</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Legout</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;tavy</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Capy</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moreteau</surname>, <given-names>B.</given-names>
+</string-name> (<year>2005</year>). <article-title>Isofemale lines in <italic>Drosophila</italic>: An empirical approach to quantitative trait analysis in natural populations</article-title>. <source xml:lang="en">Heredity</source>, <volume>94</volume>, <fpage>3</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1038/sj.hdy.6800562</pub-id>
+<pub-id pub-id-type="pmid">15329665</pub-id></mixed-citation></ref><ref id="ece34744-bib-0025"><mixed-citation publication-type="journal" id="ece34744-cit-0025">
+<string-name>
+<surname>Delcourt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Blows</surname>, <given-names>M. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rundle</surname>, <given-names>H. D.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sexually antagonistic genetic variance for fitness in an ancestral and a novel environment</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>276</volume>, <fpage>2009</fpage>&#x02013;<lpage>2014</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2008.1459</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0026"><mixed-citation publication-type="journal" id="ece34744-cit-0026">
+<string-name>
+<surname>Delph</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<surname>Andicoechea</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Steven</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Herlihy</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Scarpino</surname>, <given-names>S. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bell</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Environment&#x02010;dependent intralocus sexual conflict in a dioecious plant</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>192</volume>, <fpage>542</fpage>&#x02013;<lpage>552</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-8137.2011.03811.x</pub-id>
+<pub-id pub-id-type="pmid">21726233</pub-id></mixed-citation></ref><ref id="ece34744-bib-0027"><mixed-citation publication-type="journal" id="ece34744-cit-0027">
+<string-name>
+<surname>Devigili</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Gasparini</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ramnarine</surname>, <given-names>I. W.</given-names>
+</string-name>, <string-name>
+<surname>Pilastro</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Evans</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2018</year>). <article-title>Possible glimpses into early speciation: The effect of ovarian fluid on sperm velocity accords with post&#x02010;copulatory isolation between two guppy populations</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>31</volume>, <fpage>66</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1111/jeb.13194</pub-id>
+<pub-id pub-id-type="pmid">29044818</pub-id></mixed-citation></ref><ref id="ece34744-bib-0028"><mixed-citation publication-type="journal" id="ece34744-cit-0028">
+<string-name>
+<surname>Dobson</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Bourtzis</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Braig</surname>, <given-names>H. R.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>B. F.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O'Neill</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>1999</year>). <article-title>
+<italic>Wolbachia</italic> infections are distributed throughout insect somatic and germ line tissues</article-title>. <source xml:lang="en">Insect Biochemistry and Molecular Biology</source>, <volume>29</volume>, <fpage>153</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1016/S0965-1748(98)00119-2</pub-id>
+<pub-id pub-id-type="pmid">10196738</pub-id></mixed-citation></ref><ref id="ece34744-bib-0029"><mixed-citation publication-type="journal" id="ece34744-cit-0029">
+<string-name>
+<surname>Duffy</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Joag</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Radwan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Inbreeding alters intersexual fitness correlations in <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>4</volume>, <fpage>3330</fpage>&#x02013;<lpage>3338</lpage>.<pub-id pub-id-type="pmid">25535550</pub-id></mixed-citation></ref><ref id="ece34744-bib-0030"><mixed-citation publication-type="journal" id="ece34744-cit-0030">
+<string-name>
+<surname>Duxbury</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Rostant</surname>, <given-names>W. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chapman</surname>, <given-names>T.</given-names>
+</string-name> (<year>2017</year>). <article-title>Manipulation of feeding regime alters sexual dimorphism for lifespan and reduces sexual conflict in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>284</volume>, <fpage>20170391</fpage>.</mixed-citation></ref><ref id="ece34744-bib-0031"><mixed-citation publication-type="journal" id="ece34744-cit-0031">
+<string-name>
+<surname>Harano</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nakayama</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Miyatake</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Intralocus sexual conflict unresolved by sex&#x02010;limited trait expression</article-title>. <source xml:lang="en">Current Biology</source>, <volume>20</volume>, <fpage>2036</fpage>&#x02013;<lpage>2039</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2010.10.023</pub-id>
+<pub-id pub-id-type="pmid">21055943</pub-id></mixed-citation></ref><ref id="ece34744-bib-0032"><mixed-citation publication-type="journal" id="ece34744-cit-0032">
+<string-name>
+<surname>Hawkes</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Gamble</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>E. C. R.</given-names>
+</string-name>, <string-name>
+<surname>Carey</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Intralocus sexual conflict and insecticide resistance</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>283</volume>, <fpage>20161429</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2016.1429</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0033"><mixed-citation publication-type="journal" id="ece34744-cit-0033">
+<string-name>
+<surname>Hilgenboecker</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hammerstein</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Schlattmann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Telschow</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Werren</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2008</year>). <article-title>How many species are infected with <italic>Wolbachia</italic>? &#x02013; A statistical analysis of current data</article-title>. <source xml:lang="en">FEMS Microbiology Letters</source>, <volume>281</volume>, <fpage>215</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">18312577</pub-id></mixed-citation></ref><ref id="ece34744-bib-0034"><mixed-citation publication-type="journal" id="ece34744-cit-0034">
+<string-name>
+<surname>Hoffmann</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Clancy</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Merton</surname>, <given-names>E.</given-names>
+</string-name> (<year>1994</year>). <article-title>Cytoplasmic incompatibility in Australian populations of <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>136</volume>, <fpage>993</fpage>&#x02013;<lpage>999</lpage>.<pub-id pub-id-type="pmid">8005448</pub-id></mixed-citation></ref><ref id="ece34744-bib-0035"><mixed-citation publication-type="journal" id="ece34744-cit-0035">
+<string-name>
+<surname>Hoffmann</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Hercus</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dagher</surname>, <given-names>H.</given-names>
+</string-name> (<year>1998</year>). <article-title>Population dynamics of the <italic>Wolbachia</italic> infection causing cytoplasmic incompatibility in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Genetics</source>, <volume>148</volume>, <fpage>221</fpage>&#x02013;<lpage>231</lpage>.<pub-id pub-id-type="pmid">9475734</pub-id></mixed-citation></ref><ref id="ece34744-bib-0036"><mixed-citation publication-type="journal" id="ece34744-cit-0036">
+<string-name>
+<surname>Hoffmann</surname>, <given-names>A. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Parsons</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>1988</year>). <article-title>The analysis of quantitative variation in natural populations with isofemale strains</article-title>. <source xml:lang="en">Genetics Selection Evolution</source>, <volume>20</volume>, <fpage>87</fpage>&#x02013;<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1186/1297-9686-20-1-87</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0037"><mixed-citation publication-type="journal" id="ece34744-cit-0037">
+<string-name>
+<surname>Hoffmann</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Turelli</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Simmons</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1986</year>). <article-title>Unidirectional incompatibility between populations of <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>40</volume>, <fpage>692</fpage>&#x02013;<lpage>701</lpage>.<pub-id pub-id-type="pmid">28556160</pub-id></mixed-citation></ref><ref id="ece34744-bib-0038"><mixed-citation publication-type="journal" id="ece34744-cit-0038">
+<string-name>
+<surname>Jeyaprakash</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hoy</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2000</year>). <article-title>Long PCR improves <italic>Wolbachia</italic> DNA amplification: wsp sequences found in 76% of sixty&#x02010;three arthropod species</article-title>. <source xml:lang="en">Insect Molecular Biology</source>, <volume>9</volume>, <fpage>393</fpage>&#x02013;<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2583.2000.00203.x</pub-id>
+<pub-id pub-id-type="pmid">10971717</pub-id></mixed-citation></ref><ref id="ece34744-bib-0039"><mixed-citation publication-type="journal" id="ece34744-cit-0039">
+<string-name>
+<surname>Katsuki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Harano</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Miyatake</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Intralocus sexual conflict and offspring sex ratio</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>15</volume>, <fpage>193</fpage>&#x02013;<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2011.01725.x</pub-id>
+<pub-id pub-id-type="pmid">22225600</pub-id></mixed-citation></ref><ref id="ece34744-bib-0040"><mixed-citation publication-type="miscellaneous" id="ece34744-cit-0040">
+<string-name>
+<surname>Kuznetsova</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brockhoff</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Christensen</surname>, <given-names>R. H. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>lmerTest: Tests in Linear Mixed Effects Models</article-title>. R package version 2.0&#x02010;29. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://CRAN.R-project.org/package=lmerTest">http://CRAN.R-project.org/package=lmerTest</ext-link>
+</mixed-citation></ref><ref id="ece34744-bib-0041"><mixed-citation publication-type="journal" id="ece34744-cit-0041">
+<string-name>
+<surname>Lassy</surname>, <given-names>C. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karr</surname>, <given-names>T. L.</given-names>
+</string-name> (<year>1996</year>). <article-title>Cytological analysis of fertilization and early embryonic development in incompatible crosses of <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Mechanisms of Development</source>, <volume>57</volume>, <fpage>47</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1016/0925-4773(96)00527-8</pub-id>
+<pub-id pub-id-type="pmid">8817452</pub-id></mixed-citation></ref><ref id="ece34744-bib-0042"><mixed-citation publication-type="journal" id="ece34744-cit-0042">
+<string-name>
+<surname>Lewis</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hunt</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Evidence for strong intralocus sexual conflict in the Indian meal moth, <italic>Plodia interpunctella</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>65</volume>, <fpage>2085</fpage>&#x02013;<lpage>2097</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2011.01267.x</pub-id>
+<pub-id pub-id-type="pmid">21729062</pub-id></mixed-citation></ref><ref id="ece34744-bib-0043"><mixed-citation publication-type="book" id="ece34744-cit-0043">
+<string-name>
+<surname>Lynch</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walsh</surname>, <given-names>B.</given-names>
+</string-name> (<year>1998</year>). <source xml:lang="en">Genetics and analysis of quantitative traits</source>. <publisher-loc>Sunderland, MA</publisher-loc>: <publisher-name>Sinauer Assoc</publisher-name>.</mixed-citation></ref><ref id="ece34744-bib-0044"><mixed-citation publication-type="journal" id="ece34744-cit-0044">
+<string-name>
+<surname>Mackay</surname>, <given-names>T. F.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Barbadilla</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ayroles</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gibbs</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>The <italic>Drosophila melanogaster</italic> genetic reference panel</article-title>. <source xml:lang="en">Nature</source>, <volume>482</volume>, <fpage>173</fpage>&#x02013;<lpage>178</lpage>. <pub-id pub-id-type="doi">10.1038/nature10811</pub-id>
+<pub-id pub-id-type="pmid">22318601</pub-id></mixed-citation></ref><ref id="ece34744-bib-0045"><mixed-citation publication-type="journal" id="ece34744-cit-0045">
+<string-name>
+<surname>Mainguy</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cote</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Festa&#x02010;Bianchet</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Coltman</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Father&#x02010;offspring phenotypic correlations suggest intralocus sexual conflict for a fitness&#x02010;linked trait in a wild sexually dimorphic mammal</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>276</volume>, <fpage>4067</fpage>&#x02013;<lpage>4075</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2009.1231</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0046"><mixed-citation publication-type="journal" id="ece34744-cit-0046">
+<string-name>
+<surname>Mank</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Conflict on the sex chromosomes: Cause, effect, and complexity</article-title>. <source xml:lang="en">Cold Spring Harbor Perspectives in Biology</source>, <volume>6</volume>, <fpage>a017715</fpage>
+<pub-id pub-id-type="doi">10.1101/cshperspect.a017715</pub-id>
+<pub-id pub-id-type="pmid">25280765</pub-id></mixed-citation></ref><ref id="ece34744-bib-0047"><mixed-citation publication-type="journal" id="ece34744-cit-0047">
+<string-name>
+<surname>Mills</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Koskela</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mappes</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Intralocus sexual conflict for fitness: Sexually antagonistic alleles for testosterone</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>279</volume>, <fpage>1889</fpage>&#x02013;<lpage>1895</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2011.2340</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0048"><mixed-citation publication-type="journal" id="ece34744-cit-0048">
+<string-name>
+<surname>Mokkonen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kokko</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Koskela</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lehtonen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mappes</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Martiskainen</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mills</surname>, <given-names>S. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Negative frequency&#x02010;dependent selection of sexually antagonistic alleles in <italic>Myodes glareolus</italic>
+</article-title>. <source xml:lang="en">Science</source>, <volume>334</volume>, <fpage>972</fpage>&#x02013;<lpage>974</lpage>. <pub-id pub-id-type="doi">10.1126/science.1208708</pub-id>
+<pub-id pub-id-type="pmid">22096197</pub-id></mixed-citation></ref><ref id="ece34744-bib-0049"><mixed-citation publication-type="journal" id="ece34744-cit-0049">
+<string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>von M&#x000fc;hlen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Valiati</surname>, <given-names>V. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Valente</surname>, <given-names>V. L. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>
+<italic>Wolbachia pipientis</italic> is associated with different mitochondrial haplotypes in natural populations of <italic>Drosophila willistoni</italic>
+</article-title>. <source xml:lang="en">Journal of Invertebrate Pathology</source>, <volume>109</volume>, <fpage>152</fpage>&#x02013;<lpage>155</lpage>. <pub-id pub-id-type="doi">10.1016/j.jip.2011.08.011</pub-id>
+<pub-id pub-id-type="pmid">21945051</pub-id></mixed-citation></ref><ref id="ece34744-bib-0050"><mixed-citation publication-type="journal" id="ece34744-cit-0050">
+<string-name>
+<surname>Nguyen</surname>, <given-names>T. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moehring</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Cross&#x02010;generational comparison of reproductive success in recently caught strains of <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>17</volume>, <fpage>41</fpage>
+<pub-id pub-id-type="doi">10.1186/s12862-017-0887-1</pub-id>
+<pub-id pub-id-type="pmid">28166714</pub-id></mixed-citation></ref><ref id="ece34744-bib-0051"><mixed-citation publication-type="journal" id="ece34744-cit-0051">
+<string-name>
+<surname>Okayama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Katsuki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sumida</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Okada</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Costs and benefits of symbiosis between a bean beetle and <italic>Wolbachia</italic>
+</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>119</volume>, <fpage>19</fpage>&#x02013;<lpage>26</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0052"><mixed-citation publication-type="journal" id="ece34744-cit-0052">
+<string-name>
+<surname>Pennell</surname>, <given-names>T. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morrow</surname>, <given-names>E. H.</given-names>
+</string-name> (<year>2013</year>). <article-title>Two sexes, one genome: The evolutionary dynamics of intralocus sexual conflict</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>3</volume>, <fpage>1819</fpage>&#x02013;<lpage>1834</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.540</pub-id>
+<pub-id pub-id-type="pmid">23789088</pub-id></mixed-citation></ref><ref id="ece34744-bib-0053"><mixed-citation publication-type="journal" id="ece34744-cit-0053">
+<string-name>
+<surname>Pischedda</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chippindale</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>2006</year>). <article-title>Intralocus sexual conflict diminishes the benefits of sexual selection</article-title>. <source xml:lang="en">PLoS Biology</source>, <volume>4</volume>, <fpage>e356</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.0040356</pub-id>
+<pub-id pub-id-type="pmid">17105343</pub-id></mixed-citation></ref><ref id="ece34744-bib-0054"><mixed-citation publication-type="journal" id="ece34744-cit-0054">
+<string-name>
+<surname>Potdar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name>
+<surname>Lall</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sheeba</surname>, <given-names>V.</given-names>
+</string-name> (<year>2018</year>). <article-title>Sleep deprivation negatively impacts reproductive output in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Journal of Experimental Biology</source>, <volume>221</volume>, <fpage> jeb174771</fpage>
+<pub-id pub-id-type="doi">10.1242/jeb.174771</pub-id>
+<pub-id pub-id-type="pmid">29361608</pub-id></mixed-citation></ref><ref id="ece34744-bib-0055"><mixed-citation publication-type="journal" id="ece34744-cit-0055">
+<string-name>
+<surname>Price</surname>, <given-names>T. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2008</year>). <article-title>Selfish genetic elements and sexual selection: Their impact on male fertility</article-title>. <source xml:lang="en">Genetica</source>, <volume>132</volume>, <fpage>295</fpage>&#x02013;<lpage>307</lpage>. <pub-id pub-id-type="doi">10.1007/s10709-007-9173-2</pub-id>
+<pub-id pub-id-type="pmid">17647082</pub-id></mixed-citation></ref><ref id="ece34744-bib-0056"><mixed-citation publication-type="journal" id="ece34744-cit-0056">
+<string-name>
+<surname>Punzalan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Delcourt</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rundle</surname>, <given-names>H. D.</given-names>
+</string-name> (<year>2014</year>). <article-title>Comparing the intersex genetic correlation for fitness across novel environments in the fruit fly <italic>Drosophila serrata</italic>
+</article-title>. <source xml:lang="en">Heredity</source>, <volume>112</volume>, <fpage>143</fpage>&#x02013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.2013.85</pub-id>
+<pub-id pub-id-type="pmid">24045292</pub-id></mixed-citation></ref><ref id="ece34744-bib-0057"><mixed-citation publication-type="book" id="ece34744-cit-0057">
+<collab collab-type="authors">R Core Team</collab>
+(<year>2017</year>). <source xml:lang="en">R: A language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R foundation for statistical computing</publisher-name> Retrieved from <ext-link ext-link-type="uri" xlink:href="https://www.R-project.org">https://www.R-project.org</ext-link>
+</mixed-citation></ref><ref id="ece34744-bib-0058"><mixed-citation publication-type="miscellaneous" id="ece34744-cit-0058">
+<string-name>
+<surname>Revelle</surname>, <given-names>W.</given-names>
+</string-name> (<year>2018</year>). <article-title>psych: Procedures for Personality and Psychological Research, Northwestern University, Evanston, Illinois, USA</article-title>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=psychVersion=1.8.4">https://CRAN.R-project.org/package=psych Version=1.8.4</ext-link>
+</mixed-citation></ref><ref id="ece34744-bib-0059"><mixed-citation publication-type="journal" id="ece34744-cit-0059">
+<string-name>
+<surname>Rice</surname>, <given-names>W. R.</given-names>
+</string-name> (<year>1996</year>). <article-title>Sexually antagonistic male adaptation triggered by experimental arrest of female evolution</article-title>. <source xml:lang="en">Nature</source>, <volume>381</volume>, <fpage>232</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1038/381232a0</pub-id>
+<pub-id pub-id-type="pmid">8622764</pub-id></mixed-citation></ref><ref id="ece34744-bib-0060"><mixed-citation publication-type="journal" id="ece34744-cit-0060">
+<string-name>
+<surname>Rice</surname>, <given-names>W. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chippindale</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>2001</year>). <article-title>Intersexual ontogenetic conflict</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>14</volume>, <fpage>685</fpage>&#x02013;<lpage>693</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0061"><mixed-citation publication-type="journal" id="ece34744-cit-0061">
+<string-name>
+<surname>Rice</surname>, <given-names>W. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chippindale</surname>, <given-names>A. K.</given-names>
+</string-name> (<year>2002</year>). <article-title>The evolution of hybrid infertility: Perpetual coevolution between gender&#x02010;specific and sexually antagonistic genes</article-title>. <source xml:lang="en">Genetica</source>, <volume>116</volume>, <fpage>179</fpage>&#x02013;<lpage>188</lpage>.<pub-id pub-id-type="pmid">12555776</pub-id></mixed-citation></ref><ref id="ece34744-bib-0062"><mixed-citation publication-type="journal" id="ece34744-cit-0062">
+<string-name>
+<surname>Rostant</surname>, <given-names>W. G.</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Sexual conflict maintains variation at an insecticide resistance locus</article-title>. <source xml:lang="en">BMC Biology</source>, <volume>13</volume>, <fpage>34</fpage>
+<pub-id pub-id-type="doi">10.1186/s12915-015-0143-3</pub-id>
+<pub-id pub-id-type="pmid">26032845</pub-id></mixed-citation></ref><ref id="ece34744-bib-0063"><mixed-citation publication-type="journal" id="ece34744-cit-0063">
+<string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Braig</surname>, <given-names>H. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O'Neill</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>1999</year>). <article-title>A stable triple <italic>Wolbachia</italic> infection in <italic>Drosophila</italic> with nearly additive incompatibility effects</article-title>. <source xml:lang="en">Heredity</source>, <volume>82</volume>, <fpage>620</fpage>&#x02013;<lpage>627</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2540.1999.00501.x</pub-id>
+<pub-id pub-id-type="pmid">10383683</pub-id></mixed-citation></ref><ref id="ece34744-bib-0064"><mixed-citation publication-type="journal" id="ece34744-cit-0064">
+<string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Stordeur</surname>, <given-names>&#x000c9;.</given-names>
+</string-name> (<year>1994</year>). <article-title>Properties of <italic>Drosophila simulans</italic> strains experimentally infected by different clones of the bacterium <italic>Wolbachia</italic>
+</article-title>. <source xml:lang="en">Heredity</source>, <volume>72</volume>, <fpage>325</fpage>&#x02013;<lpage>331</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.1994.48</pub-id>
+<pub-id pub-id-type="pmid">8200813</pub-id></mixed-citation></ref><ref id="ece34744-bib-0065"><mixed-citation publication-type="journal" id="ece34744-cit-0065">
+<string-name>
+<surname>Rundle</surname>, <given-names>H. D.</given-names>
+</string-name>, <string-name>
+<surname>Chenoweth</surname>, <given-names>S. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blows</surname>, <given-names>M. W.</given-names>
+</string-name> (<year>2006</year>). <article-title>The roles of natural and sexual selection during adaptation to a novel environment</article-title>. <source xml:lang="en">Evolution</source>, <volume>60</volume>, <fpage>2218</fpage>&#x02013;<lpage>2225</lpage>. <pub-id pub-id-type="doi">10.1111/j.0014-3820.2006.tb01859.x</pub-id>
+<pub-id pub-id-type="pmid">17236415</pub-id></mixed-citation></ref><ref id="ece34744-bib-0066"><mixed-citation publication-type="book" id="ece34744-cit-0066">
+<string-name>
+<surname>Schmid&#x02010;Hempel</surname>, <given-names>P.</given-names>
+</string-name> (<year>1998</year>). <source xml:lang="en">Parasites in social insects</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name>.</mixed-citation></ref><ref id="ece34744-bib-0067"><mixed-citation publication-type="journal" id="ece34744-cit-0067">
+<string-name>
+<surname>Sharma</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tregenza</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>The genetics of cuticular hydrocarbon profiles in the fruit fly <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>103</volume>, <fpage>230</fpage>&#x02013;<lpage>239</lpage>. <pub-id pub-id-type="doi">10.1093/jhered/esr132</pub-id>
+<pub-id pub-id-type="pmid">22268163</pub-id></mixed-citation></ref><ref id="ece34744-bib-0068"><mixed-citation publication-type="journal" id="ece34744-cit-0068">
+<string-name>
+<surname>Sharma</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Tregenza</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Female mate preferences in <italic>Drosophila simulans</italic>: Evolution and costs</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>23</volume>, <fpage>1672</fpage>&#x02013;<lpage>1679</lpage>. <pub-id pub-id-type="doi">10.1111/j.1420-9101.2010.02033.x</pub-id>
+<pub-id pub-id-type="pmid">20546089</pub-id></mixed-citation></ref><ref id="ece34744-bib-0069"><mixed-citation publication-type="journal" id="ece34744-cit-0069">
+<string-name>
+<surname>Sharma</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Fisher's sons' effect in sexual selection: Absent, intermittent or just low experimental power</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>29</volume>, <fpage>2464</fpage>&#x02013;<lpage>2470</lpage>. <pub-id pub-id-type="doi">10.1111/jeb.12973</pub-id>
+<pub-id pub-id-type="pmid">27575647</pub-id></mixed-citation></ref><ref id="ece34744-bib-0070"><mixed-citation publication-type="journal" id="ece34744-cit-0070">
+<string-name>
+<surname>Sharp</surname>, <given-names>N. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Agrawal</surname>, <given-names>A. F.</given-names>
+</string-name> (<year>2008</year>). <article-title>Mating density and the strength of sexual selection against deleterious alleles in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Evolution</source>, <volume>62</volume>, <fpage>857</fpage>&#x02013;<lpage>867</lpage>.<pub-id pub-id-type="pmid">18221380</pub-id></mixed-citation></ref><ref id="ece34744-bib-0071"><mixed-citation publication-type="journal" id="ece34744-cit-0071">
+<string-name>
+<surname>Snook</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name>
+<surname>Clelend</surname>, <given-names>S. Y.</given-names>
+</string-name>, <string-name>
+<surname>Wolfner</surname>, <given-names>M. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karr</surname>, <given-names>T. L.</given-names>
+</string-name> (<year>2000</year>). <article-title>Offsetting effects of <italic>Wolbachia</italic> infection and heat shock on sperm production in <italic>Drosophila simulans</italic>: Analysis of fecundity, fertility and accessory gland proteins</article-title>. <source xml:lang="en">Genetics</source>, <volume>55</volume>, <fpage>167</fpage>&#x02013;<lpage>168</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0072"><mixed-citation publication-type="journal" id="ece34744-cit-0072">
+<string-name>
+<surname>Solignac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vautrin</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name> (<year>1994</year>). <article-title>Widespread occurrence of the proteobacteria <italic>Wolbachia</italic> and partial cytoplasmic incompatibility in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Comptes Rendus De L'acad&#x000e9;mie Des Sciences. S&#x000e9;rie 3. Sciences De La Vie</source>, <volume>317</volume>, <fpage>461</fpage>&#x02013;<lpage>470</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0073"><mixed-citation publication-type="journal" id="ece34744-cit-0073">
+<string-name>
+<surname>Taylor</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Wigmore</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hodgson</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hosken</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Multiple mating increases female fitness in <italic>Drosophila simulans</italic>
+</article-title>. <source xml:lang="en">Animal Behaviour</source>, <volume>76</volume>, <fpage>963</fpage>&#x02013;<lpage>970</lpage>. <pub-id pub-id-type="doi">10.1016/j.anbehav.2008.05.015</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0074"><mixed-citation publication-type="journal" id="ece34744-cit-0074">
+<string-name>
+<surname>Teixeira</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>&#x000c1;.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ashburner</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>The bacterial symbiont <italic>Wolbachia</italic> induces resistance to RNA viral infections in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">PLoS Biology</source>, <volume>6</volume>, <fpage>e1000002</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.1000002</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0075"><mixed-citation publication-type="journal" id="ece34744-cit-0075">
+<string-name>
+<surname>Tobler</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hermisson</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schl&#x000f6;tterer</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Parallel trait adaptation across opposing thermal environments in experimental <italic>Drosophila melanogaster</italic> populations</article-title>. <source xml:lang="en">Evolution</source>, <volume>69</volume>, <fpage>1745</fpage>&#x02013;<lpage>1759</lpage>.<pub-id pub-id-type="pmid">26080903</pub-id></mixed-citation></ref><ref id="ece34744-bib-0076"><mixed-citation publication-type="journal" id="ece34744-cit-0076">
+<string-name>
+<surname>Travers</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Gonzalez</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Simmons</surname>, <given-names>L. W.</given-names>
+</string-name> (<year>2016</year>). <article-title>Genetic variation but weak genetic covariation between pre&#x02010;and post&#x02010;copulatory episodes of sexual selection in <italic>Drosophila melanogaster</italic>
+</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>29</volume>, <fpage>1535</fpage>&#x02013;<lpage>1552</lpage>.<pub-id pub-id-type="pmid">27159063</pub-id></mixed-citation></ref><ref id="ece34744-bib-0077"><mixed-citation publication-type="journal" id="ece34744-cit-0077">
+<string-name>
+<surname>van Doorn</surname>, <given-names>G. S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Intralocus sexual conflict</article-title>. <source xml:lang="en">Annals of the New York Academy of Sciences</source>, <volume>1168</volume>, <fpage>52</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1111/j.1749-6632.2009.04573.x</pub-id>
+<pub-id pub-id-type="pmid">19566703</pub-id></mixed-citation></ref><ref id="ece34744-bib-0078"><mixed-citation publication-type="journal" id="ece34744-cit-0078">
+<string-name>
+<surname>Van Meer</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Witteveldt</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stouthamer</surname>, <given-names>R.</given-names>
+</string-name> (<year>1999</year>). <article-title>Phylogeny of the arthropod endosymbiont <italic>Wolbachia</italic> based on the wsp gene</article-title>. <source xml:lang="en">Insect Molecular Biology</source>, <volume>8</volume>, <fpage>399</fpage>&#x02013;<lpage>408</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2583.1999.83129.x</pub-id>
+<pub-id pub-id-type="pmid">10469257</pub-id></mixed-citation></ref><ref id="ece34744-bib-0079"><mixed-citation publication-type="journal" id="ece34744-cit-0079">
+<string-name>
+<surname>Wedell</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>). <article-title>The dynamic relationship between polyandry and selfish genetic elements</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society B: Biological Sciences</source>, <volume>368</volume>, <fpage>20120049</fpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2012.0049</pub-id>
+</mixed-citation></ref><ref id="ece34744-bib-0080"><mixed-citation publication-type="journal" id="ece34744-cit-0080">
+<string-name>
+<surname>Weeks</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Turelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Harcombe</surname>, <given-names>W. R.</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>, <given-names>K. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hoffmann</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2007</year>) <article-title>From parasite to mutualist: Rapid evolution of <italic>Wolbachia</italic> in natural populations of <italic>Drosophila</italic>
+</article-title>. <source xml:lang="en">PLoS Biology</source>, <volume>5</volume>, <fpage>e114</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.0050114</pub-id>
+<pub-id pub-id-type="pmid">17439303</pub-id></mixed-citation></ref><ref id="ece34744-bib-0081"><mixed-citation publication-type="journal" id="ece34744-cit-0081">
+<string-name>
+<surname>Werren</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1997</year>). <article-title>Biology of <italic>Wolbachia</italic>
+</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>42</volume>, <fpage>587</fpage>&#x02013;<lpage>609</lpage>.</mixed-citation></ref><ref id="ece34744-bib-0082"><mixed-citation publication-type="journal" id="ece34744-cit-0082">
+<string-name>
+<surname>Werren</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Baldo</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2008</year>). <article-title>
+<italic>Wolbachia</italic>: Master manipulators of invertebrate biology</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>6</volume>, <fpage>741</fpage>&#x02013;<lpage>751</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro1969</pub-id>
+<pub-id pub-id-type="pmid">18794912</pub-id></mixed-citation></ref><ref id="ece34744-bib-0083"><mixed-citation publication-type="book" id="ece34744-cit-0083">
+<string-name>
+<surname>Zar</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1999</year>). <source xml:lang="en">Biostatistical analysis</source>, <edition>5th ed.</edition>
+<publisher-loc>Upper Saddle River, NJ</publisher-loc>: <publisher-name>Prentice&#x02010;Hall Inc</publisher-name>.</mixed-citation></ref><ref id="ece34744-bib-0084"><mixed-citation publication-type="journal" id="ece34744-cit-0084">
+<string-name>
+<surname>Zhou</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O'Neill</surname>, <given-names>S.</given-names>
+</string-name> (<year>1998</year>). <article-title>Phylogeny and PCR&#x02013;based classification of <italic>Wolbachia</italic> strains using wsp gene sequences</article-title>. <source xml:lang="en">Proceedings of the Royal Society B: Biological Sciences</source>, <volume>265</volume>, <fpage>509</fpage>&#x02013;<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.1998.0324</pub-id>
+</mixed-citation></ref></ref-list></back></article>

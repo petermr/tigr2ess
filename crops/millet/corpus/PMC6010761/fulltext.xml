@@ -1,0 +1,829 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6010761</article-id><article-id pub-id-type="doi">10.1002/ece3.4082</article-id><article-id pub-id-type="publisher-id">ECE34082</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Biofilm formation and toxin production provide a fitness advantage in mixed colonies of environmental yeast isolates</article-title><alt-title alt-title-type="left-running-head">DESCHAINE et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="ece34082-cr-0001" contrib-type="author"><name><surname>Deschaine</surname><given-names>Bernadette M.</given-names></name><xref ref-type="aff" rid="ece34082-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34082-cr-0002" contrib-type="author"><name><surname>Heysel</surname><given-names>Angela R.</given-names></name><xref ref-type="aff" rid="ece34082-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34082-cr-0003" contrib-type="author"><name><surname>Lenhart</surname><given-names>B. Adam</given-names></name><xref ref-type="aff" rid="ece34082-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34082-cr-0004" contrib-type="author" corresp="yes"><name><surname>Murphy</surname><given-names>Helen A.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4363-4543</contrib-id><address><email>hamurphy@wm.edu</email></address><xref ref-type="aff" rid="ece34082-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece34082-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>The College of William and Mary</institution>
+<named-content content-type="city">Williamsburg</named-content>
+<named-content content-type="country-part">Virginia</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Helen Murphy, Department of Biology, The College of William and Mary, Williamsburg, VA.<break/>
+Email: <email>hamurphy@wm.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2018</year></pub-date><volume>8</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/ece3.2018.8.issue-11</issue-id><fpage>5541</fpage><lpage>5550</lpage><history><date date-type="received"><day>05</day><month>2</month><year>2018</year></date><date date-type="rev-recd"><day>12</day><month>3</month><year>2018</year></date><date date-type="accepted"><day>13</day><month>3</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-8-5541.pdf"/><abstract id="ece34082-abs-0001"><title>Abstract</title><p>Microbes can engage in social interactions ranging from cooperation to warfare. Biofilms are structured, cooperative microbial communities. Like all cooperative communities, they are susceptible to invasion by selfish individuals who benefit without contributing. However, biofilms are pervasive and ancient, representing the first fossilized life. One hypothesis for the stability of biofilms is spatial structure: Segregated patches of related cooperative cells are able to outcompete unrelated cells. These dynamics have been explored computationally and in bacteria; however, their relevance to eukaryotic microbes remains an open question. The complexity of eukaryotic cell signaling and communication suggests the possibility of different social dynamics. Using the tractable model yeast, <italic>Saccharomyces cerevisiae</italic>, which can form biofilms, we investigate the interactions of environmental isolates with different social phenotypes. We find that biofilm strains spatially exclude nonbiofilm strains and that biofilm spatial structure confers a consistent and robust fitness advantage in direct competition. Furthermore, biofilms may protect against killer toxin, a warfare phenotype. During biofilm formation, cells are susceptible to toxin from nearby competitors; however, increased spatial use may provide an escape from toxin producers. Our results suggest that yeast biofilms represent a competitive strategy and that principles elucidated for the evolution and stability of bacterial biofilms may apply to more complex eukaryotes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece34082-kwd-0001">biofilm</kwd><kwd id="ece34082-kwd-0002">colony morphology</kwd><kwd id="ece34082-kwd-0003">fluffy colony</kwd><kwd id="ece34082-kwd-0004">K2</kwd><kwd id="ece34082-kwd-0005"><italic>Saccharomyces cerevisiae</italic></kwd></kwd-group><funding-group><award-group><funding-source>Thomas F. and Kate Miller Jeffress Memorial Trust</funding-source></award-group><award-group><funding-source>William and Mary Dintersmith Fellowship</funding-source></award-group><award-group><funding-source>William and Mary Monroe Fellowship</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="0"/><page-count count="10"/><word-count count="8052"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece34082</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.1.1 mode:remove_FC converted:20.06.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece34082-cit-1001">
+<string-name>
+<surname>Deschaine</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Heysel</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Adam Lenhart</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>HA</given-names>
+</string-name>. <article-title>Biofilm formation and toxin production provide a fitness advantage in mixed colonies of environmental yeast isolates</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2018</year>;<volume>8</volume>:<fpage>5541</fpage>&#x02013;<lpage>5550</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/ece3.4082">https://doi.org/10.1002/ece3.4082</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="ece34082-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Social interactions between microbes, both within and between species, are abundant and extremely important. Such interactions can include cooperation, competition, synchronization, and even chemical warfare (West, Diggle, Buckling, Gardner, &#x00026; Griffin, <xref rid="ece34082-bib-0074" ref-type="ref">2007</xref>). Biofilms are cooperative microbial communities composed of one or multiple species, anchored to a surface, and protected from environmental hazards by a secreted extracellular matrix (Lee et&#x000a0;al., <xref rid="ece34082-bib-0031" ref-type="ref">2014</xref>; O'Toole, Kaplan, &#x00026; Kolter, <xref rid="ece34082-bib-0049" ref-type="ref">2000</xref>). They are found throughout the natural and man&#x02010;made environment, wherever microbes are found&#x02014;from hulls on ships (Little, Lee, &#x00026; Ray, <xref rid="ece34082-bib-0033" ref-type="ref">2008</xref>) to dental surfaces (Kolenbrander, <xref rid="ece34082-bib-0027" ref-type="ref">2000</xref>). Biofilms also protect microbes from antibiotics and can therefore cause persistent infections (Costerton, Stewart, &#x00026; Greenberg, <xref rid="ece34082-bib-0010" ref-type="ref">1999</xref>). The oldest fossils on earth are microbial mats; thus, it appears that there have been biofilms since microbes first evolved (Nutman, Bennett, Friend, Van Kranendonk, &#x00026; Chivas, <xref rid="ece34082-bib-0046" ref-type="ref">2016</xref>).</p><p>Biofilms require individuals to produce goods, such as components of the extracellular matrix, that can be used by all members. Like all cooperative communities, they are susceptible to &#x0201c;cheaters&#x0201d; who do not produce the public goods, yet benefit from them (Brockhurst, Buckling, &#x00026; Gardner, <xref rid="ece34082-bib-0005" ref-type="ref">2007</xref>; Crespi, <xref rid="ece34082-bib-0011" ref-type="ref">2001</xref>; Rainey &#x00026; Rainey, <xref rid="ece34082-bib-0051" ref-type="ref">2003</xref>; Smukalla et&#x000a0;al., <xref rid="ece34082-bib-0060" ref-type="ref">2008</xref>; West, Griffin, Gardner, &#x00026; Diggle, <xref rid="ece34082-bib-0075" ref-type="ref">2006</xref>). Despite their vulnerability to individual cheaters, biofilms are ubiquitous and stable. The leading hypothesis for the stability of biofilm communities is the spatial structure: Competition, cooperation, and passive processes like clonal growth can generate patches of related cooperative cells able to outcompete unrelated cells (e.g., (Anderson, Garcia, &#x00026; Cotter, <xref rid="ece34082-bib-0002" ref-type="ref">2014</xref>; van Gestel, Weissing, Kuipers, &#x00026; Kovacs, <xref rid="ece34082-bib-0016" ref-type="ref">2014</xref>; Hallatschek, Hersen, Ramanathan, &#x00026; Nelson, <xref rid="ece34082-bib-0023" ref-type="ref">2007</xref>; Millet et&#x000a0;al., <xref rid="ece34082-bib-0039" ref-type="ref">2014</xref>; Momeni, Brileya, Fields, &#x00026; Shou, <xref rid="ece34082-bib-0040" ref-type="ref">2013</xref>; M&#x000fc;ller, Neugeboren, Nelson, &#x00026; Murray, <xref rid="ece34082-bib-0041" ref-type="ref">2014</xref>; Nadell &#x00026; Bassler, <xref rid="ece34082-bib-0042" ref-type="ref">2011</xref>; Nadell, Foster, &#x00026; Xavier, <xref rid="ece34082-bib-0044" ref-type="ref">2010</xref>; Van Dyken, M&#x000fc;ller, Mack, &#x00026; Desai, <xref rid="ece34082-bib-0069" ref-type="ref">2013</xref>; Xavier &#x00026; Foster, <xref rid="ece34082-bib-0078" ref-type="ref">2007</xref>), recently reviewed in detail in ref. (Nadell, Drescher, &#x00026; Foster, <xref rid="ece34082-bib-0043" ref-type="ref">2016</xref>)). Aside from acting as a public good, the production of substances that facilitate cell&#x02010;to&#x02010;cell and cell&#x02010;to&#x02010;surface adherence can be a competitive cooperative strategy that allows lineages increased access to space and nutrients (Garcia, Doulcier, &#x00026; De Monte, <xref rid="ece34082-bib-0014" ref-type="ref">2015</xref>; Irie et&#x000a0;al., <xref rid="ece34082-bib-0025" ref-type="ref">2017</xref>; Kim, Racimo, Schluter, Levy, &#x00026; Foster, <xref rid="ece34082-bib-0026" ref-type="ref">2014</xref>; Xavier &#x00026; Foster, <xref rid="ece34082-bib-0078" ref-type="ref">2007</xref>) and can even work to exclude nonproducers from the community (Schluter, Nadell, Bassler, &#x00026; Foster, <xref rid="ece34082-bib-0058" ref-type="ref">2015</xref>). Recent work in the bacterium <italic>Pseudomonas aeruginosa</italic> demonstrated that when multiple strains were grown together, biofilm formation increased, and single strains often dominated the competition (Oliveira et&#x000a0;al., <xref rid="ece34082-bib-0047" ref-type="ref">2015</xref>).</p><p>Another type of competitive strategy in microbial communities is warfare, which takes the form of microbial toxins and antibiotics (Riley &#x00026; Wertz, <xref rid="ece34082-bib-0055" ref-type="ref">2002</xref>; Schmitt &#x00026; Breinig, <xref rid="ece34082-bib-0059" ref-type="ref">2006</xref>). Under certain conditions, warfare&#x02010;producing and sensitive lineages can coexist within an expanding spatially structured community (Abrudan et&#x000a0;al., <xref rid="ece34082-bib-0001" ref-type="ref">2015</xref>; Bucci, Nadell, &#x00026; Xavier, <xref rid="ece34082-bib-0006" ref-type="ref">2011</xref>; Gardner &#x00026; West, <xref rid="ece34082-bib-0015" ref-type="ref">2004</xref>; Tait &#x00026; Sutherland, <xref rid="ece34082-bib-0066" ref-type="ref">2002</xref>; Weber, Poxleitner, Hebisch, Frey, &#x00026; Opitz, <xref rid="ece34082-bib-0072" ref-type="ref">2014</xref>). It has also recently been demonstrated that in a dense, well&#x02010;mixed community, a warfare phenotype can generate spatial segregation of producing and sensitive lineages (McNally et&#x000a0;al., <xref rid="ece34082-bib-0038" ref-type="ref">2017</xref>). The interaction between microbes producing warfare phenotypes and microbes producing biofilms is not yet entirely clear. The same study that investigated multistrain <italic>P.&#x000a0;aeruginosa</italic> communities (Oliveira et&#x000a0;al., <xref rid="ece34082-bib-0047" ref-type="ref">2015</xref>) also found that the production of antibiotics by competitors increased biofilm formation. This suggests that biofilms may serve to protect from warfare phenotypes.</p><p>Most research on microbial social evolution has been conducted in bacterial systems (Nadell et&#x000a0;al., <xref rid="ece34082-bib-0043" ref-type="ref">2016</xref>; West &#x00026; Cooper, <xref rid="ece34082-bib-0073" ref-type="ref">2016</xref>; West et&#x000a0;al., <xref rid="ece34082-bib-0075" ref-type="ref">2006</xref>, <xref rid="ece34082-bib-0074" ref-type="ref">2007</xref>). However, the complexity of eukaryotic cell structures, communication, and gene regulation, and the potential differences between bacterial and fungal biofilms (Blankenship &#x00026; Mitchell, <xref rid="ece34082-bib-0003" ref-type="ref">2006</xref>) leave open the possibility that the social dynamics may be quite different in eukaryotic microbes. Furthermore, the relevance of fungal biofilms to public health (Nobile &#x00026; Johnson, <xref rid="ece34082-bib-0045" ref-type="ref">2015</xref>) suggests that understanding the social and evolutionary dynamics within a fungal model is of increasing importance. Pathogenic species of the yeast genus <italic>Candida</italic> can form drug&#x02010;resistant biofilms on medical devices&#x02014;most notably catheters, heart implants, and joint replacements&#x02014;and are a major source of hospital&#x02010;acquired infections (Chandra et&#x000a0;al., <xref rid="ece34082-bib-0007" ref-type="ref">2001</xref>; Douglas, <xref rid="ece34082-bib-0013" ref-type="ref">2003</xref>).</p><sec id="ece34082-sec-0002"><label>1.1</label><title>
+<italic>Saccharomyces cerevisiae</italic> social phenotypes</title><p>Cells of the model yeast, <italic>Saccharomyces cerevisiae</italic>, can adhere to each other and various surfaces, forming biofilm mats and colonies (Kuthan et&#x000a0;al., <xref rid="ece34082-bib-0030" ref-type="ref">2003</xref>; Reynolds &#x00026; Fink, <xref rid="ece34082-bib-0054" ref-type="ref">2001</xref>; Verstrepen &#x00026; Klis, <xref rid="ece34082-bib-0070" ref-type="ref">2006</xref>), and can also engage in warfare through toxins (Schmitt &#x00026; Breinig, <xref rid="ece34082-bib-0059" ref-type="ref">2006</xref>). These social phenotypes are common in environmental isolates (Granek &#x00026; Magwene, <xref rid="ece34082-bib-0021" ref-type="ref">2010</xref>; Hope &#x00026; Dunham, <xref rid="ece34082-bib-0024" ref-type="ref">2014</xref>; Pieczynska, de Visser, &#x00026; Korona, <xref rid="ece34082-bib-0050" ref-type="ref">2013</xref>), making <italic>S.&#x000a0;cerevisiae</italic> an ideal model to study fungal biofilms (Bojsen, Andersen, &#x00026; Regenberg, <xref rid="ece34082-bib-0004" ref-type="ref">2012</xref>) and investigate questions related to eukaryotic sociomicrobiology. Furthermore, a study investigating a potentially cooperative phenotype in liquid, flocculation, showed that formation of flocs provided protection against environmental stressors and was regulated by a &#x0201c;greenbeard&#x0201d; locus (Smukalla et&#x000a0;al., <xref rid="ece34082-bib-0060" ref-type="ref">2008</xref>), thus suggesting the potential for cooperation in spatially structured communities as well.</p><p>A spatially explicit cooperative yeast phenotype is complex colony morphology (&#x0201c;fluffy&#x0201d;), which resembles the wrinkly colonies of the bacterial biofilm models <italic>P.&#x000a0;aeruginosa</italic> and <italic>Bacillus subtilis</italic>, and has all the hallmarks of fungal biofilms (Blankenship &#x00026; Mitchell, <xref rid="ece34082-bib-0003" ref-type="ref">2006</xref>): An extracellular matrix facilitating nutrient flow and water retention (Kuthan et&#x000a0;al., <xref rid="ece34082-bib-0030" ref-type="ref">2003</xref>; &#x00160;tov&#x000ed;&#x0010d;ek, V&#x000e1;chov&#x000e1;, Kuthan, &#x00026; Palkov&#x000e1;, <xref rid="ece34082-bib-0064" ref-type="ref">2010</xref>); expression of drug efflux pumps; and velcro&#x02010;like structures attaching cells to one another (V&#x000e1;chov&#x000e1; et&#x000a0;al., <xref rid="ece34082-bib-0068" ref-type="ref">2011</xref>) encoded by an adhesin gene, <italic>FLO11</italic> (Kraushaar et&#x000a0;al., <xref rid="ece34082-bib-0029" ref-type="ref">2015</xref>). When grown as single&#x02010;strain colonies (Tan et&#x000a0;al., <xref rid="ece34082-bib-0067" ref-type="ref">2013</xref>) or mats (Regenberg, Hangh&#x000f8;j, Andersen, &#x00026; Boomsma, <xref rid="ece34082-bib-0052" ref-type="ref">2016</xref>), strains forming biofilms have been shown to spread and occupy space more quickly than non&#x02010;biofilm&#x02010;forming (smooth) strains; however, smooth colonies have a greater cell density (&#x00160;tov&#x000ed;&#x0010d;ek et&#x000a0;al., <xref rid="ece34082-bib-0064" ref-type="ref">2010</xref>). Thus, cell counts, rather than colony size, should be used to test the fitness effects of biofilm formation. While simple smooth <italic>S.&#x000a0;cerevisiae</italic> colonies have been used to explore spatially expanding mixed populations (Korolev et&#x000a0;al., <xref rid="ece34082-bib-0028" ref-type="ref">2012</xref>; Momeni et&#x000a0;al., <xref rid="ece34082-bib-0040" ref-type="ref">2013</xref>; M&#x000fc;ller et&#x000a0;al., <xref rid="ece34082-bib-0041" ref-type="ref">2014</xref>; Van Dyken et&#x000a0;al., <xref rid="ece34082-bib-0069" ref-type="ref">2013</xref>), and one study has generated mixed <italic>FLO11</italic> and <italic>flo11</italic> colonies from a single laboratory background (Chen et&#x000a0;al., <xref rid="ece34082-bib-0008" ref-type="ref">2014</xref>), to our knowledge, the evolutionary dynamics of multistrain biofilm communities have not been explored.</p><p>Killer toxins represent a yeast warfare phenotype and a natural antifungal. They are secreted proteins that function in interstrain competition: Secreting cells are protected, while nearby sensitive cells are killed (Schmitt &#x00026; Breinig, <xref rid="ece34082-bib-0059" ref-type="ref">2006</xref>). Killer toxins are encoded by cytoplasmically inherited double&#x02010;stranded RNA (dsRNA) viruses; they replicate with the aid of dsRNA helper viruses (Schmitt &#x00026; Breinig, <xref rid="ece34082-bib-0059" ref-type="ref">2006</xref>). Toxins occur widely in natural populations of <italic>Saccharomyces</italic> yeasts, with toxin production detected in ~10% of strains surveyed from publicly available collections (Pieczynska et&#x000a0;al., <xref rid="ece34082-bib-0050" ref-type="ref">2013</xref>). The research presented here focuses on K2 (Wingfield, van der Meer, Pretorious, &#x00026; Vvan Vuuren, <xref rid="ece34082-bib-0076" ref-type="ref">1990</xref>), the killer toxin most commonly found in vineyard ecosystems (Pieczynska et&#x000a0;al., <xref rid="ece34082-bib-0050" ref-type="ref">2013</xref>). It acts quickly to induce membrane permeability and reduce intracellular ATP levels in sensitive cells, but the details of its mode of action remain unknown (Orentaite, Poranen, Oksanen, Daugelavicius, &#x00026; Bamford, <xref rid="ece34082-bib-0048" ref-type="ref">2016</xref>). It remains unstudied whether biofilms protect yeast against killer toxin, or whether killer toxin is able to penetrate biofilms.</p></sec><sec id="ece34082-sec-0003"><label>1.2</label><title>This study</title><p>We sought to test the generality of the predictions of microbial social evolution theory for spatially structured communities that have been demonstrated in silico and in bacteria: that biofilm formation provides a strong fitness benefit and that biofilms are a competitive strategy used to obtain resources and exclude other strains (Garcia et&#x000a0;al., <xref rid="ece34082-bib-0014" ref-type="ref">2015</xref>; Kim et&#x000a0;al., <xref rid="ece34082-bib-0026" ref-type="ref">2014</xref>; Schluter et&#x000a0;al., <xref rid="ece34082-bib-0058" ref-type="ref">2015</xref>; Xavier &#x00026; Foster, <xref rid="ece34082-bib-0078" ref-type="ref">2007</xref>). If these results hold true in more complex eukaryotes, they may represent universal principles underlying the stability of biofilms. We first explored whether clonal growth and spatial structure provide fitness benefits in yeast. Based on computational and experimental work with bacterial species, we hypothesized that biofilm formers would outcompete nonbiofilm formers for both space and resources. Next, we tested whether biofilm production protected cells from the warfare phenotype killer toxin, an area of microbial social evolution with less background theoretical and experimental research. We predicted that biofilm formation would protect clonal lineages from this antifungal warfare phenotype, as many bacterial biofilms provide protection against antibiotics.</p><p>Our experiments used environmental isolates in order to understand how social phenotypes interact during ecological competition. <italic>S.&#x000a0;cerevisiae</italic> is found in a variety of ecological niches (Cromie et&#x000a0;al., <xref rid="ece34082-bib-0012" ref-type="ref">2013</xref>; Liti et&#x000a0;al., <xref rid="ece34082-bib-0032" ref-type="ref">2009</xref>; Schacherer, Shapiro, Ruderfer, &#x00026; Kruglyak, <xref rid="ece34082-bib-0056" ref-type="ref">2009</xref>; Strope et&#x000a0;al., <xref rid="ece34082-bib-0065" ref-type="ref">2015</xref>), and insects have been shown to transport the yeast and to increase outcrossing rates (Goddard, Anfang, Tang, Gardner, &#x00026; Jun, <xref rid="ece34082-bib-0018" ref-type="ref">2009</xref>; Reuter, Bell, &#x00026; Greig, <xref rid="ece34082-bib-0053" ref-type="ref">2007</xref>; Stefanini et&#x000a0;al., <xref rid="ece34082-bib-0063" ref-type="ref">2012</xref>, <xref rid="ece34082-bib-0062" ref-type="ref">2016</xref>). This suggests that different genetic backgrounds likely interact in nature and may directly compete with one another. We therefore directly and indirectly competed isolates of <italic>S.&#x000a0;cerevisiae</italic> in spatially structured communities, using cell counts to determine the fitness effects of biofilm formation and toxin production. Our experimental results demonstrated a consistent and robust fitness benefit to yeast biofilm formation in direct competition, thus supporting the idea that biofilms may be a competitive phenotype for genetic lineages. Furthermore, toxin production was effective against biofilm&#x02010;forming strains, although we speculate that spatial use may provide a way to escape from toxin&#x02010;producing competitors.</p></sec></sec><sec id="ece34082-sec-0004"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece34082-sec-0005"><label>2.1</label><title>Strains</title><p>Diploid <italic>S.&#x000a0;cerevisiae</italic> strains from publicly available (Liti et&#x000a0;al., <xref rid="ece34082-bib-0032" ref-type="ref">2009</xref>; Strope et&#x000a0;al., <xref rid="ece34082-bib-0065" ref-type="ref">2015</xref>) and personal collections were screened using the classification system of Granek and Magwene (<xref rid="ece34082-bib-0021" ref-type="ref">2010</xref>) (Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S1</xref>). Smooth strains and biofilm&#x02010;forming strains with distinct colony morphologies and from different ecological niches were identified. Two biofilm strains&#x02014;YJM311 (clinical) (McCusker, Clemons, Stevens, &#x00026; Davis, <xref rid="ece34082-bib-0037" ref-type="ref">1994</xref>), YJM224 (distillery yeast)&#x02014;and three smooth strains&#x02014;YJM981 (clinical) (McCullough, Clemons, Farina, McCusker, &#x00026; Stevens, <xref rid="ece34082-bib-0036" ref-type="ref">1998</xref>), SK1 (lab/soil) (Liti et&#x000a0;al., <xref rid="ece34082-bib-0032" ref-type="ref">2009</xref>), YPS681 (woodland) (Sniegowski, Dombrowski, &#x00026; Fingerman, <xref rid="ece34082-bib-0061" ref-type="ref">2002</xref>)&#x02014;were selected for fitness assays.</p></sec><sec id="ece34082-sec-0006"><label>2.2</label><title>Incorporating fluorescence and antibiotic markers</title><p>The diploid isolates were transformed using a lithium acetate procedure (Gietz &#x00026; Woods, <xref rid="ece34082-bib-0017" ref-type="ref">2002</xref>) with a cassette that targeted the terminal region of the highly expressed <italic>PGK1</italic> gene (Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S2</xref>) and contained: (1) either mCherry or GFP, and (2) antibiotic resistance through KanMX (Wach, Brachat, Pohlmann, &#x00026; Philippsen, <xref rid="ece34082-bib-0071" ref-type="ref">1994</xref>), NatMX or HphMX (Goldstein &#x00026; McCusker, <xref rid="ece34082-bib-0020" ref-type="ref">1999</xref>). Plasmids pFA6a&#x02010;GFP&#x02010;KanMX6 (Longtine et&#x000a0;al., <xref rid="ece34082-bib-0034" ref-type="ref">1998</xref>) and pBS34&#x02010;mCherry&#x02010;KanMX6 (Hailey, Davis, &#x00026; Muller, <xref rid="ece34082-bib-0022" ref-type="ref">2002</xref>) were digested with NotI and used as template for PCR (Yeast Resource Center, University of Washington). For some strains, the antibiotic resistance in fluorescently labeled yeast was subsequently switched via transformation with NatMX or HphMX (Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S1</xref>). All polymerase chain reactions were performed with iProof polymerase (Bio&#x02010;Rad) using the manufacturer's recommendations for cycling conditions using the primers listed in Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S2</xref>; DMSO was added to 3% to reaction mixtures. Strains with killer toxin virus K2 (29&#x02010;06) (Pieczynska et&#x000a0;al., <xref rid="ece34082-bib-0050" ref-type="ref">2013</xref>) (generously provided by D.&#x000a0;Wloch&#x02010;Salamon) were used for assays with toxin activity. K2 is active in the acidic pH range of 2.5&#x02013;5.0 at temperatures between 20 and 25&#x000b0;C (Luk&#x00161;a, Serva, &#x00026; Servien&#x00117;, <xref rid="ece34082-bib-0035" ref-type="ref">2016</xref>).</p></sec><sec id="ece34082-sec-0007"><label>2.3</label><title>Media</title><p>Strains were grown in YPD (1% yeast extract, 2% peptone, 2% dextrose) or low dextrose (LD) YPD (0.1% dextrose); solid media contained 2% agar. When appropriate, media was supplemented with 150&#x000a0;&#x003bc;g/ml G418, 75&#x000a0;&#x003bc;g/ml CloNat, or 300&#x000a0;&#x003bc;g/ml hygromycin B. Toxin assays were performed on 1.5% agar YPD and LD&#x02010;YPD plates supplemented with citric acid to adjust the pH to 4.5 (~3&#x000a0;mg) (Luk&#x00161;a et&#x000a0;al., <xref rid="ece34082-bib-0035" ref-type="ref">2016</xref>; Pieczynska et&#x000a0;al., <xref rid="ece34082-bib-0050" ref-type="ref">2013</xref>), and with methylene blue, which stains dead yeast cells allowing visualization of the toxin activity (Woods &#x00026; Bevan, <xref rid="ece34082-bib-0077" ref-type="ref">1968</xref>).</p></sec><sec id="ece34082-sec-0008"><label>2.4</label><title>Fitness in spatially structured communities</title><p>Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S2</xref> summarizes the fitness assays, which are described below. Mixed colonies were generated from an inoculum that contained overnight cultures of two strains. Pure colonies were generated from a single overnight culture and paired for the comparison of their initial and ending cell counts.</p><sec id="ece34082-sec-0009"><label>2.4.1</label><title>Start</title><p>Two microliters of a 10&#x000a0;ml overnight YPD culture was added to 198&#x000a0;&#x003bc;l of water in wells of a nontreated 96&#x02010;well plate. For mixed colonies, for a 1:1 ratio, 1&#x000a0;&#x003bc;l of each strain was added; for ratios other than 1:1, 2&#x000a0;&#x003bc;l of an appropriately mixed culture was added. Three replicates were made for each strain and mix of strains; in a given 96&#x02010;well plate, only 15 wells were used, such that each experimental well was surrounded by empty wells. Cultures were then pinned onto YPD and LD&#x02010;YPD OmniTrays (Nunc 264728) using a 96&#x02010;pin multiblot replicator (V&#x00026;P Scientific no. VP408FP6). For assays with toxin&#x02010;producing strains, cultures were also pinned onto low pH YPD and low pH LD&#x02010;YPD. Initial cell counts were made in one of two ways: (1) plating 100&#x000a0;&#x003bc;l of culture from the wells, and for mixed colonies either replica&#x02010;plating to appropriate antibiotic plates or viewing colonies under a fluorescence stereoscope in order to count the number of colonies of each resistance/color, or (2) imaging 10&#x000a0;&#x003bc;l of culture from the wells with a hemocytometer and differentiating strains from mixed cultures with fluorescence markers. Colonies were started with ~500&#x02013;1,000&#x000a0;cells, as previous work has shown that starting with a low density can itself generate spatial segregation (van Gestel et&#x000a0;al., <xref rid="ece34082-bib-0016" ref-type="ref">2014</xref>).</p></sec><sec id="ece34082-sec-0010"><label>2.4.2</label><title>Growth</title><p>For assays with nontoxin strains, YPD plates were incubated for 3&#x000a0;days and LD&#x02010;YPD for 5&#x000a0;days, both at 30&#x000b0;C. With toxin&#x02010;producing strains, all plates were incubated at room temperature for approximately 6&#x02013;7&#x000a0;days (Luk&#x00161;a et&#x000a0;al., <xref rid="ece34082-bib-0035" ref-type="ref">2016</xref>). For mechanical disruption, when colony growth was evident, a sterile pin was used to swirl colonies once per day. Fluorescent and/or light images were taken of each colony (Zeiss SteREO Discovery.V12 and Nikon D3200 camera) and processed in Fiji (Schindelin et&#x000a0;al., <xref rid="ece34082-bib-0057" ref-type="ref">2012</xref>).</p></sec><sec id="ece34082-sec-0011"><label>2.4.3</label><title>End</title><p>To maximize recovery of cells for sampling, entire colonies were removed from the plates using a metal cylinder with attached rubber bulb (Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S1</xref>). The agar plugs were suspended in either 2.5&#x000a0;ml water or 15% glycerol (when stored for later processing). The cylinder was sterilized via ethanol and flaming between plugs. In order to separate cells adhering to agar and/or other cells, several sterile 3.5&#x02010;mm glass beads were added to each tube and gently sonicated (UP200St sonicator with VialTweeter Sonotrode). Final cell counts were made from the processed colonies via plating a known volume or imaging with a hemocytometer, as described above.</p><p>As there are multiple sources of experimental variation in this assay, all natural strain combinations were assayed independently by two different researchers (A.H. and B.D.) using slide counts. All natural strain combinations were also assayed by plate counts to verify that cells survived colony processing. Toxin assays were performed using plate counts.</p></sec></sec><sec id="ece34082-sec-0012"><label>2.5</label><title>Competitions in liquid</title><p>Competitions were initiated with 10&#x02010;ml overnight cultures grown in the medium in which the competition would occur; 10&#x000a0;&#x003bc;l of a single strain or 10&#x000a0;&#x003bc;l of a 1:1 (by volume) mix of two strains was inoculated into 10&#x000a0;ml of YPD or LD. Initial counts of each culture and master mix were made using a hemocytometer. Cultures were grown at 30&#x000b0;C with shaking; 10&#x000a0;&#x003bc;l was serially transferred every 24&#x000a0;hr for either 2 or 3 cycles. After 48&#x02013;72&#x000a0;hr from the start, final cell counts were made with a hemocytometer.</p></sec><sec id="ece34082-sec-0013"><label>2.6</label><title>Statistical analysis</title><p>The data were analyzed in JMP v11.2.0 using a generalized linear model with the relative change in biofilm strain frequency as the dependent variable. Biofilm strain, treatment (medium&#x000a0;+&#x000a0;single vs. mixed community), assay type (plate counts vs. slide counts), and researcher were classified as discrete effects, and starting ratio was classified as a continuous effect. To meet the assumptions of normality, both starting ratio and relative change in biofilm frequency were log&#x02010;transformed before analysis.</p></sec></sec><sec id="ece34082-sec-0014"><label>3</label><title>RESULTS</title><p>To determine the fitness effect of biofilm formation during competition between unrelated genetic backgrounds, yeast strains were grown in spatially structured communities on agar plates. The experiments focused on two biofilm strains with distinct colony morphologies, which were competed against three nonbiofilm strains, and then against a toxin&#x02010;producing strain. Pairs of biofilm and nonbiofilm strains were competed against one another in both homogenous and mixed communities. Biofilm formation is induced in carbon&#x02010;limited conditions (Granek &#x00026; Magwene, <xref rid="ece34082-bib-0021" ref-type="ref">2010</xref>); strain pairs were assayed with and without biofilm induction by adjusting the amount of dextrose in the medium. K2 toxin is active only in acidic conditions; strain pairs were assayed with and without toxin activity by adjusting pH.</p><p>In contrast to microbial competitions performed in liquid, spatially structured colonies do not meet the assumptions of traditional fitness calculations, specifically the requirement of a well&#x02010;mixed population (Chevin, <xref rid="ece34082-bib-0009" ref-type="ref">2010</xref>). Instead, growth is mostly limited to the front at the leading edge of the colony (Hallatschek et&#x000a0;al., <xref rid="ece34082-bib-0023" ref-type="ref">2007</xref>). Therefore, the change in the proportion of the biofilm strain was used as a proxy for fitness. Simply by chance, a strain in a mixed colony could &#x0201c;win&#x0201d; a competition by reaching and monopolizing the edge of the colony and thus greatly increase its proportion of the population. However, by averaging over replicate colonies and assays, the effect of chance is minimized and the competitive ability of a given strain should become clear. Each of our assays included three replicates of each strain or mixed pair, and all competitions were conducted multiple times in assays performed by different researchers and with different counting methods.</p><sec id="ece34082-sec-0015"><label>3.1</label><title>Competitions between biofilm and nonbiofilm strains in spatially structured communities</title><p>Our results demonstrate a consistent and robust fitness advantage to biofilm formation in direct competition (Figure&#x000a0;<xref rid="ece34082-fig-0001" ref-type="fig">1</xref>). In a GLM analysis of the relative change in biofilm strain frequency (Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S3</xref>), treatment was significant (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001), while assay type (slide counts vs. plate counts) and researcher performing the experiment were not.</p><fig fig-type="Figure" xml:lang="en" id="ece34082-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Fitness effects of biofilm formation. Biofilm&#x02010;forming strains were competed against non&#x02010;biofilm&#x02010;forming strains in pure and mixed colonies, with and without inducing biofilm formation (<styled-content style="fixed-case">LD</styled-content>&#x02010;<styled-content style="fixed-case">YPD</styled-content> and <styled-content style="fixed-case">YPD</styled-content> media, respectively). For the &#x0201c;alone&#x0201d; colony treatment, colonies were paired at random and the frequency of each strain was estimated through cell counts. A total of 240 colonies were assayed. (a) Colors correspond to the biofilm&#x02010;forming strains listed in (b), <styled-content style="fixed-case">YJM</styled-content>224 and <styled-content style="fixed-case">YJM</styled-content>311; shapes correspond to identity of non&#x02010;biofilm&#x02010;forming strains: circle&#x02014;<styled-content style="fixed-case">SK</styled-content>1, triangle&#x02014;<styled-content style="fixed-case">YJM</styled-content>981, square&#x02014;<styled-content style="fixed-case">YPS</styled-content>681; * indicates significance at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001. Black lines represent overall mean for a treatment; colored lines represent biofilm&#x02010;strain mean. (b) Representative images of the experimental treatments, as labeled in (a). Mixed colonies are to scale relative to one another; pure colonies are to scale relative to one another, but are scaled to half the size of the mixed colonies. Each row represents a single strain combination</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-8-5541-g001"/></fig><p>The LD&#x02010;mixed treatment, in which biofilms were induced in mixed&#x02010;strain communities, had the strongest positive effect on the relative change in biofilm strains (&#x003b2;&#x000a0;=&#x000a0;0.65, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001). Inspection of Figure&#x000a0;<xref rid="ece34082-fig-0001" ref-type="fig">1</xref>a shows that with the exception of a single colony, the biofilm strain increased in frequency relative to the nonbiofilm strain in every mixed colony grown on LD. In contrast, in mixed communities grown on YPD, in which biofilm formation was not induced, the biofilm strain had similar or decreased fitness, with this treatment having a significant overall negative effect (&#x003b2;&#x000a0;=&#x000a0;&#x02212;0.75, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001).</p><p>Growth was also compared between homogenous, single&#x02010;strain colonies of biofilm and nonbiofilm strains. A pure colony from each strain was paired, and a starting ratio was generated with the counts of the number of cells pinned for each strain. Similarly, counts of the final number of cells in each colony were used to generate an ending ratio. In this way, the growth of the two strains could be compared, but without the strains directly competing for resources. The biofilm strains had similar fitness to nonbiofilm strains in YPD and a slight increase in LD (&#x003b2;&#x000a0;= 0.15, <italic>p</italic>&#x000a0;=&#x000a0;.015). This suggests that the relative increase in the biofilm strains in mixed colonies is not simply due to faster growth in low dextrose conditions, but rather a competitive ability provided by biofilm formation.</p><p>As the starting ratio of the biofilm strain determines the ultimate possible change in the ending frequency, starting ratio was included as an effect in the model and was highly significant (&#x003b2;&#x000a0;=&#x000a0;&#x02212;0.62; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001). Through intentionally varying starting ratios, and through the inherent variation of the procedure (differing growth rates, experimental error, etc.), the starting frequency of the biofilm strain in the mixed colonies varied from 0.01 to 0.9 (Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S4</xref>). The differences between the treatments occurred regardless of starting ratio, and in the LD&#x02010;mixed treatment, the increase in biofilm&#x02010;strain proportion was even more dramatic when starting from a low frequency.</p><p>Based on the gross morphology of the mixed colonies (Figures&#x000a0;<xref rid="ece34082-fig-0001" ref-type="fig">1</xref>b and <xref rid="ece34082-sup-0001" ref-type="supplementary-material">S3</xref>), we hypothesized that the advantage to the strains forming biofilms was due to the spatial structure of the community, specifically the ability to monopolize the leading edge of the colony. Importantly, biofilm strains appear to be able to spatially exclude nonbiofilm strains.</p><p>To test this hypothesis, a further experiment was performed based on the following logic: If the ability to increase in frequency was due to reaching and monopolizing the edge of the colony quickly, the biofilm strain's competitiveness could be hampered by mechanically disrupting the spatial structure of the community during growth (Kim et&#x000a0;al., <xref rid="ece34082-bib-0026" ref-type="ref">2014</xref>). The original assay was performed with a third treatment that included swirling the colonies with a sterile metal sewing pin once a day. The results show only a slight, nonsignificant decrease in the fitness advantage of the biofilm strains (Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S5</xref>; Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S4</xref>). We hypothesize that this result may be due to the frequency of mechanical disruption: 24&#x000a0;hr is enough time for the biofilm strain to segregate and grow before being disrupted again. However, more frequent disruption was not possible, as swirling removed small, random amounts of the colony, and regenerative growth needed to occur between disruption events.</p></sec><sec id="ece34082-sec-0016"><label>3.2</label><title>Competitions between biofilm and nonbiofilm strains without spatial structure</title><p>In order to verify that the results really were due to the spatial structure and not simply due to differing growth abilities in various conditions and community compositions, the same competitions were performed with no structure at all&#x02014;in well&#x02010;mixed liquid culture (Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S5</xref>, Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S6</xref>). The results of the homogenous community treatment (strains grown alone and subsequently compared in randomly assigned pairs) recapitulated the results from the agar plates with the change in biofilm frequency around 1. In contrast, the mixed community treatment, in which two strains were grown together, showed an overall <italic>disadvantage</italic> to biofilm&#x02010;forming strains in direct competition. We hypothesize that this is due to the cost of producing the components of a biofilm without the associated benefits of spatial structure. These results support published findings that showed biofilm&#x02010;forming strains derived from a single genetic background grew more slowly than their smooth counterparts in liquid culture, while the diameter of the complex colonies grew more quickly than that of the smooth colonies on agar surfaces (Tan et&#x000a0;al., <xref rid="ece34082-bib-0067" ref-type="ref">2013</xref>).</p></sec><sec id="ece34082-sec-0017"><label>3.3</label><title>Competitions between K2 toxin&#x02010;producing and biofilm strains</title><p>Given the potential for yeast biofilms to gain a competitive advantage through their spatial use, and the known ability of yeast killer toxins to kill nearby sensitive cells, we sought to determine whether biofilm production protected cooperative cells or whether active toxin was effective against cells enmeshed in a biofilm. Biofilm strains and a K2 toxin strain were competed against one another in both homogenous and mixed communities, with and without inducing biofilm formation, and with and without active toxin. The toxin&#x02010;encoding virus can be lost when strains are cultured at high temperature; therefore, it was not possible to transform and fluorescently mark the toxin strains.</p><p>Both biofilm&#x02010;forming strains were sensitive to the toxin, as determined by halo assays (Figure&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S7a</xref>). In direct and indirect competition with the K2 strain, when the toxin was not active (blue and yellow in Figure&#x000a0;<xref rid="ece34082-fig-0002" ref-type="fig">2</xref>a), the biofilm strain was more fit in nearly all treatments (Table&#x000a0;<xref rid="ece34082-sup-0001" ref-type="supplementary-material">S6</xref>). Similar to competitions with other smooth strains, the strongest fitness benefit to biofilm formation was in mixed communities (&#x003b2;&#x000a0;=&#x000a0;0.96; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001). In contrast, when the toxin was active (orange and purple) in mixed communities, biofilm&#x02010;forming cells were susceptible to the toxin, as indicated by the strong decrease in biofilm strain frequency (&#x003b2;&#x000a0;=&#x000a0;&#x02212;1.46; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001). Inspection of the images shows the toxin strain mostly surrounding the biofilm and dominating the edge of the colony (Figure&#x000a0;<xref rid="ece34082-fig-0002" ref-type="fig">2</xref>b, Videos&#x000a0;<xref rid="ece34082-sup-0002" ref-type="supplementary-material">[Link]</xref>, <xref rid="ece34082-sup-0003" ref-type="supplementary-material">[Link]</xref>, <xref rid="ece34082-sup-0004" ref-type="supplementary-material">[Link]</xref>). However, in many cases, the increased spatial use by the biofilm allowed an escape at the edge of at least one section of the colony (arrows in Figure&#x000a0;<xref rid="ece34082-fig-0002" ref-type="fig">2</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="ece34082-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Fitness effects of biofilm formation in the presence of killer toxin. Biofilm&#x02010;forming strains were competed against toxin&#x02010;producing strains in pure and mixed colonies, with and without inducing biofilm formation, and with and without active toxin; a total of 72 colonies were assayed. (a) Yellow and blue circles correspond to fitness assays of <styled-content style="fixed-case">YJM</styled-content>311 and <styled-content style="fixed-case">YJM</styled-content>224, respectively, against a toxin strain, but without active toxin (as in Figure&#x000a0;<xref rid="ece34082-fig-0001" ref-type="fig">1</xref>; toxin strain is simply another environmental isolate); solid line indicates overall mean. Orange and purple triangles refer to the same competitions, but with active toxin (low <styled-content style="fixed-case">pH</styled-content> versions of the media); dashed line indicates overall mean; * indicates significance at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001. (b) Representative images of single&#x02010;strain (top row) and mixed colonies (bottom row) grown on medium in which toxin is active and biofilm formation is induced (low <styled-content style="fixed-case">pH</styled-content>,<styled-content style="fixed-case"> LD</styled-content>). Arrows indicate location of an escape of the biofilm strain at the edge of the colony. Blue dye indicates cell death</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-8-5541-g002"/></fig><p>Our results provide insight into a relationship between natural phenotypes that had not yet been explored: At least one killer toxin is effective against cells enmeshed in a biofilm, but biofilm formation may allow a sensitive strain a spatial escape.</p></sec></sec><sec id="ece34082-sec-0018"><label>4</label><title>DISCUSSION</title><p>This study investigated the fitness effects of biofilm formation in environmental isolates of the model organism, <italic>Saccharomyces cerevisiae</italic>; our results suggest a robust advantage in direct competition with nonbiofilm formers in spatially structured communities. In mixed colonies with biofilms induced (and without active toxin), biofilm strains consistently increased in frequency. Our results support the findings of bacterial and computational studies that show a competitive advantage associated with adhesion and spatial structure (Garcia et&#x000a0;al., <xref rid="ece34082-bib-0014" ref-type="ref">2015</xref>; Irie et&#x000a0;al., <xref rid="ece34082-bib-0025" ref-type="ref">2017</xref>; Kim et&#x000a0;al., <xref rid="ece34082-bib-0026" ref-type="ref">2014</xref>; Schluter et&#x000a0;al., <xref rid="ece34082-bib-0058" ref-type="ref">2015</xref>; Xavier &#x00026; Foster, <xref rid="ece34082-bib-0078" ref-type="ref">2007</xref>), suggesting that eukaryotic microbial systems may function in a similar way.</p><p>Previous theoretical work has shown that in expanding nonbiofilm (smooth) colonies containing two genotypes, founder effects lead to sectors (as seen in Figure&#x000a0;<xref rid="ece34082-fig-0001" ref-type="fig">1</xref>b); straight lines separating the boundaries of the sectors suggest a lack of competitive advantage, while curves suggest competition between the genotypes (Korolev et&#x000a0;al., <xref rid="ece34082-bib-0028" ref-type="ref">2012</xref>). The mixed smooth colonies in Figures&#x000a0;<xref rid="ece34082-fig-0001" ref-type="fig">1</xref>b and <xref rid="ece34082-sup-0001" ref-type="supplementary-material">S3</xref> suggest that strains from the different environmental backgrounds compete with one another. This supports the idea that the natural strains are in competition for resources; this competition is likely also occurring in the mixed biofilm colonies. Thus, the dominance of the biofilm&#x02010;forming strains could be due to a competitive function of the biofilms.</p><p>In contrast to the mixed&#x02010;strain colonies, our data showed either no, or a slight, fitness advantage to biofilm formation in indirect competition between single&#x02010;strain colonies. These results are in agreement with Regenberg et&#x000a0;al. (<xref rid="ece34082-bib-0052" ref-type="ref">2016</xref>), who showed that the fitness benefit of yeast biofilm formation increased as the viscosity of the medium decreased; at 2% agar in their study, the concentration used here, the dry biomass of biofilm and nonbiofilm colonies was not different. In these laboratory studies, the choice of agar concentration is somewhat arbitrary, as it is impossible to recapitulate unknown natural conditions. While <italic>S.&#x000a0;cerevisiae</italic> has been isolated in numerous ecological niches, usually associated with fruits or man&#x02010;made environments, it is unclear what habitat it evolved in and was historically adapted to (Goddard &#x00026; Greig, <xref rid="ece34082-bib-0019" ref-type="ref">2015</xref>). Regardless, it is interesting that even in conditions that do not provide a fitness advantage to biofilm formation in indirect competition, biofilms still provide a competitive advantage in direct competition.</p><p>Next, this study investigated a less&#x02010;understood interaction between two social phenotypes: biofilm formation and toxin production. Our results suggest that in this eukaryotic system, the toxin was effective at containing the growth of the biofilm strain. However, even in the presence of toxin, both biofilm strains were able to reach the leading edge of the colony and grow outward, potentially serving as a spatial escape. While the assay was performed in an artificial laboratory setting, the results suggest that increased use of space by yeast biofilms may not only provide an escape from competition for nutrients, but may also provide an escape from warfare phenotypes. It is interesting to note that the toxin and Flo11p, the cellular adhesin responsible for cell&#x02013;cell attachment, are both most effective in acidic conditions (Kraushaar et&#x000a0;al., <xref rid="ece34082-bib-0029" ref-type="ref">2015</xref>; Luk&#x00161;a et&#x000a0;al., <xref rid="ece34082-bib-0035" ref-type="ref">2016</xref>); we thus speculate that yeast biofilms and toxins could interact in the natural environment.</p><p>Biofilms represent the earliest form of multicellular structures in the evolution of life and are currently found in numerous natural and man&#x02010;made environments&#x02014;from water filtration systems, to dental surfaces, to medical implants&#x02014;and can pose a serious threat to human health. Thus, understanding biofilms may not only lead to insights into the evolution of early microbial communities, but may have practical implications. Our study demonstrates that biofilms provide a competitive fitness benefit to a eukaryotic species, as they do to bacterial species, and suggests that eukaryotic microbes may face similar selective pressures. Thus eukaryotes may meet the assumptions of much of the in&#x000a0;silico microbial social evolution research focused on spatially explicit communities. Furthermore, we show that the premier biomedical model yeast, <italic>S.&#x000a0;cerevisiae</italic>, may be a powerful system to investigate questions surrounding social evolution in eukaryotic biofilms, an area of research that has received little attention.</p></sec><sec id="ece34082-sec-0020"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interests.</p></sec><sec id="ece34082-sec-0021"><title>AUTHOR CONTRIBUTIONS</title><p>BMD and ARH conducted colony fitness assays; BMD conducted toxin assays; BAL conducted liquid fitness assays; HAM conceived of the project, generated strains, and conducted statistical analysis. HAM and BMD wrote the manuscript.</p></sec><sec id="ece34082-sec-0022"><title>DATA ACCESSIBILITY</title><p>All data are archived at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.3b21m43">https://doi.org/10.5061/dryad.3b21m43</ext-link>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece34082-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-5541-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece34082-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-5541-s002.mov"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece34082-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-5541-s003.mov"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece34082-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-5541-s004.mov"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece34082-sec-0019"><title>ACKNOWLEDGMENTS</title><p>We thank T. Meier and A. Reft for technical assistance; P. Magwene and D. Wloch&#x02010;Salamon for strains; M. Pieczynska for advice on toxin assays. The research was funded by the WM Charles Center Dintersmith Fellowship to BMD, a WM Monroe Fellowship to BAL, and a Jeffress Trust for Interdisciplinary Research Award to HAM.</p></ack><ref-list content-type="cited-references" id="ece34082-bibl-0001"><title>REFERENCES</title><ref id="ece34082-bib-0001"><mixed-citation publication-type="journal" id="ece34082-cit-0001">
+<string-name>
+<surname>Abrudan</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name>
+<surname>Smakman</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Grimbergen</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Westhoff</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>van Wezel</surname>, <given-names>G. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rozen</surname>, <given-names>D. E.</given-names>
+</string-name> (<year>2015</year>). <article-title>Socially mediated induction and suppression of antibiosis during bacterial coexistence</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>112</volume>(<issue>35</issue>), <fpage>11054</fpage>&#x02013;<lpage>11059</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1504076112">https://doi.org/10.1073/pnas.1504076112</ext-link>
+<pub-id pub-id-type="pmid">26216986</pub-id></mixed-citation></ref><ref id="ece34082-bib-0002"><mixed-citation publication-type="journal" id="ece34082-cit-0002">
+<string-name>
+<surname>Anderson</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>E. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cotter</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Kind discrimination and competitive exclusion mediated by contact&#x02010;dependent growth inhibition systems shape biofilm community structure</article-title>. <source xml:lang="en">PLoS Pathogens</source>, <volume>10</volume>(<issue>4</issue>), <fpage>e1004076</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.ppat.1004076">https://doi.org/10.1371/journal.ppat.1004076</ext-link>
+<pub-id pub-id-type="pmid">24743836</pub-id></mixed-citation></ref><ref id="ece34082-bib-0003"><mixed-citation publication-type="journal" id="ece34082-cit-0003">
+<string-name>
+<surname>Blankenship</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mitchell</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2006</year>). <article-title>How to build a biofilm: A fungal perspective</article-title>. <source xml:lang="en">Current Opinion in Microbiology</source>, <volume>9</volume>(<issue>6</issue>), <fpage>588</fpage>&#x02013;<lpage>594</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.mib.2006.10.003">https://doi.org/10.1016/j.mib.2006.10.003</ext-link>
+<pub-id pub-id-type="pmid">17055772</pub-id></mixed-citation></ref><ref id="ece34082-bib-0004"><mixed-citation publication-type="journal" id="ece34082-cit-0004">
+<string-name>
+<surname>Bojsen</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>K. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Regenberg</surname>, <given-names>B.</given-names>
+</string-name> (<year>2012</year>). <article-title>
+<italic>Saccharomyces cerevisiae</italic> &#x02013; a model to uncover molecular mechanisms for yeast biofilm biology</article-title>. <source xml:lang="en">FEMS Immunology &#x00026; Medical Microbiology</source>, <volume>65</volume>(<issue>2</issue>), <fpage>169</fpage>&#x02013;<lpage>182</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1574-695X.2012.00943.x">https://doi.org/10.1111/j.1574-695X.2012.00943.x</ext-link>
+<pub-id pub-id-type="pmid">22332975</pub-id></mixed-citation></ref><ref id="ece34082-bib-0005"><mixed-citation publication-type="journal" id="ece34082-cit-0005">
+<string-name>
+<surname>Brockhurst</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Buckling</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gardner</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Cooperation peaks at intermediate disturbance</article-title>. <source xml:lang="en">Current Biology</source>, <volume>17</volume>(<issue>9</issue>), <fpage>761</fpage>&#x02013;<lpage>765</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.cub.2007.02.057">https://doi.org/10.1016/j.cub.2007.02.057</ext-link>
+<pub-id pub-id-type="pmid">17379522</pub-id></mixed-citation></ref><ref id="ece34082-bib-0006"><mixed-citation publication-type="journal" id="ece34082-cit-0006">
+<string-name>
+<surname>Bucci</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Nadell</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xavier</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2011</year>). <article-title>The evolution of bacteriocin production in bacterial biofilms</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>178</volume>(<issue>6</issue>), <fpage>E162</fpage>&#x02013;<lpage>E173</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1086/662668">https://doi.org/10.1086/662668</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0007"><mixed-citation publication-type="journal" id="ece34082-cit-0007">
+<string-name>
+<surname>Chandra</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name>
+<surname>Hoyer</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>McCormick</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ghannoum</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Biofilm formation by the fungal pathogen <italic>Candida albicans</italic>: Development, architecture, and drug resistance</article-title>. <source xml:lang="en">Journal of Bacteriology</source>, <volume>183</volume>(<issue>18</issue>), <fpage>5385</fpage>&#x02013;<lpage>5394</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1128/JB.183.18.5385-5394.2001">https://doi.org/10.1128/JB.183.18.5385-5394.2001</ext-link>
+<pub-id pub-id-type="pmid">11514524</pub-id></mixed-citation></ref><ref id="ece34082-bib-0008"><mixed-citation publication-type="journal" id="ece34082-cit-0008">
+<string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Noorbakhsh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Samaniego&#x02010;Evans</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Agollah</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Nevozhay</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bal&#x000e1;zsi</surname>, <given-names>G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Two&#x02010;dimensionality of yeast colony expansion accompanied by pattern formation</article-title>. <source xml:lang="en">PLoS Computational Biology</source>, <volume>10</volume>(<issue>12</issue>), <fpage>e1003979</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pcbi.1003979">https://doi.org/10.1371/journal.pcbi.1003979</ext-link>
+<pub-id pub-id-type="pmid">25504059</pub-id></mixed-citation></ref><ref id="ece34082-bib-0009"><mixed-citation publication-type="journal" id="ece34082-cit-0009">
+<string-name>
+<surname>Chevin</surname>, <given-names>L.&#x02010;M.</given-names>
+</string-name> (<year>2010</year>). <article-title>On measuring selection in experimental evolution</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>7</volume>(<issue>2</issue>), <fpage>210</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">20810425</pub-id></mixed-citation></ref><ref id="ece34082-bib-0010"><mixed-citation publication-type="journal" id="ece34082-cit-0010">
+<string-name>
+<surname>Costerton</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>, <given-names>P. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Greenberg</surname>, <given-names>E. P.</given-names>
+</string-name> (<year>1999</year>). <article-title>Bacterial biofilms: A common cause of persistent infections</article-title>. <source xml:lang="en">Science</source>, <volume>284</volume>(<issue>5418</issue>), <fpage>1318</fpage>&#x02013;<lpage>1322</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.284.5418.1318">https://doi.org/10.1126/science.284.5418.1318</ext-link>
+<pub-id pub-id-type="pmid">10334980</pub-id></mixed-citation></ref><ref id="ece34082-bib-0011"><mixed-citation publication-type="journal" id="ece34082-cit-0011">
+<string-name>
+<surname>Crespi</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2001</year>). <article-title>The evolution of social behavior in microorganisms</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>16</volume>(<issue>4</issue>), <fpage>178</fpage>&#x02013;<lpage>183</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0169-5347(01)02115-2">https://doi.org/10.1016/S0169-5347(01)02115-2</ext-link>
+<pub-id pub-id-type="pmid">11245940</pub-id></mixed-citation></ref><ref id="ece34082-bib-0012"><mixed-citation publication-type="journal" id="ece34082-cit-0012">
+<string-name>
+<surname>Cromie</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Hyma</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Ludlow</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Garmendia&#x02010;Torres</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>May</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fay</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Genomic sequence diversity and population structure of <italic>Saccharomyces cerevisiae</italic> assessed by RAD&#x02010;seq</article-title>. <source xml:lang="en">G3: Genes &#x02010; Genomes &#x02010; Genetics</source>, <volume>3</volume>(<issue>12</issue>), <fpage>2163</fpage>&#x02013;<lpage>2171</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1534/g3.113.007492">https://doi.org/10.1534/g3.113.007492</ext-link>
+<pub-id pub-id-type="pmid">24122055</pub-id></mixed-citation></ref><ref id="ece34082-bib-0013"><mixed-citation publication-type="journal" id="ece34082-cit-0013">
+<string-name>
+<surname>Douglas</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Candida biofilms and their role in infection</article-title>. <source xml:lang="en">Trends in Microbiology</source>, <volume>11</volume>(<issue>1</issue>), <fpage>30</fpage>&#x02013;<lpage>36</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0966-842X(02)00002-1">https://doi.org/10.1016/S0966-842X(02)00002-1</ext-link>
+<pub-id pub-id-type="pmid">12526852</pub-id></mixed-citation></ref><ref id="ece34082-bib-0014"><mixed-citation publication-type="journal" id="ece34082-cit-0014">
+<string-name>
+<surname>Garcia</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Doulcier</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>De Monte</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>The evolution of adhesiveness as a social adaptation</article-title>. <source xml:lang="en">eLife</source>, <volume>4</volume>, <fpage>e08595</fpage>.<pub-id pub-id-type="pmid">26613415</pub-id></mixed-citation></ref><ref id="ece34082-bib-0015"><mixed-citation publication-type="journal" id="ece34082-cit-0015">
+<string-name>
+<surname>Gardner</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>West</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Spite and the scale of competition</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>17</volume>(<issue>6</issue>), <fpage>1195</fpage>&#x02013;<lpage>1203</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1420-9101.2004.00775.x">https://doi.org/10.1111/j.1420-9101.2004.00775.x</ext-link>
+<pub-id pub-id-type="pmid">15525404</pub-id></mixed-citation></ref><ref id="ece34082-bib-0016"><mixed-citation publication-type="journal" id="ece34082-cit-0016">
+<string-name>
+<surname>van Gestel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Weissing</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Kuipers</surname>, <given-names>O. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kovacs</surname>, <given-names>A. T.</given-names>
+</string-name> (<year>2014</year>). <article-title>Density of founder cells affects spatial pattern formation and cooperation in <italic>Bacillus subtilis</italic> biofilms</article-title>. <source xml:lang="en">ISME Journal</source>, <volume>8</volume>(<issue>10</issue>), <fpage>2069</fpage>&#x02013;<lpage>2079</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/ismej.2014.52">https://doi.org/10.1038/ismej.2014.52</ext-link>
+<pub-id pub-id-type="pmid">24694715</pub-id></mixed-citation></ref><ref id="ece34082-bib-0017"><mixed-citation publication-type="journal" id="ece34082-cit-0017">
+<string-name>
+<surname>Gietz</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Woods</surname>, <given-names>R.</given-names>
+</string-name> (<year>2002</year>). <article-title>Transformation of yeast by the Liac/Ss carrier Dna/Peg method</article-title>. <source xml:lang="en">Methods in Enzymology</source>, <volume>350</volume>, <fpage>87</fpage>&#x02013;<lpage>96</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0076-6879(02)50957-5">https://doi.org/10.1016/S0076-6879(02)50957-5</ext-link>
+<pub-id pub-id-type="pmid">12073338</pub-id></mixed-citation></ref><ref id="ece34082-bib-0018"><mixed-citation publication-type="journal" id="ece34082-cit-0018">
+<string-name>
+<surname>Goddard</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Anfang</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>R. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jun</surname>, <given-names>C.</given-names>
+</string-name> (<year>2009</year>). <article-title>A distinct population of <italic>Saccharomyces cerevisiae</italic> in New Zealand: Evidence for local dispersal by insects and human&#x02010;aided global dispersal in oak barrels</article-title>. <source xml:lang="en">Environmental Microbiology</source>, <volume>12</volume>(<issue>1</issue>), <fpage>63</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">19691498</pub-id></mixed-citation></ref><ref id="ece34082-bib-0019"><mixed-citation publication-type="journal" id="ece34082-cit-0019">
+<string-name>
+<surname>Goddard</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Greig</surname>, <given-names>D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Saccharomyces cerevisiae: A nomadic yeast with no niche?</article-title>
+<source xml:lang="en">FEMS Yeast Research</source>, <volume>15</volume>(<issue>3</issue>), <fpage>fov009</fpage>.<pub-id pub-id-type="pmid">25725024</pub-id></mixed-citation></ref><ref id="ece34082-bib-0020"><mixed-citation publication-type="journal" id="ece34082-cit-0020">
+<string-name>
+<surname>Goldstein</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McCusker</surname>, <given-names>J.</given-names>
+</string-name> (<year>1999</year>). <article-title>Three new dominant drug resistance cassettes for gene disruption in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Yeast</source>, <volume>15</volume>, <fpage>1541</fpage>&#x02013;<lpage>1553</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/(ISSN)1097-0061">https://doi.org/10.1002/(ISSN)1097-0061</ext-link>
+<pub-id pub-id-type="pmid">10514571</pub-id></mixed-citation></ref><ref id="ece34082-bib-0021"><mixed-citation publication-type="journal" id="ece34082-cit-0021">
+<string-name>
+<surname>Granek</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Magwene</surname>, <given-names>P. M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Environmental and genetic determinants of colony morphology in yeast</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>6</volume>(<issue>1</issue>), <fpage>e1000823</fpage>.<pub-id pub-id-type="pmid">20107600</pub-id></mixed-citation></ref><ref id="ece34082-bib-0022"><mixed-citation publication-type="journal" id="ece34082-cit-0022">
+<string-name>
+<surname>Hailey</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>T. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Muller</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>2002</year>). <article-title>Fluorescence resonance energy transfer using color variants of green fluorescent protein</article-title>. <source xml:lang="en">Methods in Enzymology</source>, <volume>351</volume>, <fpage>34</fpage>&#x02013;<lpage>49</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0076-6879(02)51840-1">https://doi.org/10.1016/S0076-6879(02)51840-1</ext-link>
+<pub-id pub-id-type="pmid">12073355</pub-id></mixed-citation></ref><ref id="ece34082-bib-0023"><mixed-citation publication-type="journal" id="ece34082-cit-0023">
+<string-name>
+<surname>Hallatschek</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Hersen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ramanathan</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nelson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Genetic drift at expanding frontiers promotes gene segregation</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>104</volume>(<issue>50</issue>), <fpage>19926</fpage>&#x02013;<lpage>19930</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.0710150104">https://doi.org/10.1073/pnas.0710150104</ext-link>
+<pub-id pub-id-type="pmid">18056799</pub-id></mixed-citation></ref><ref id="ece34082-bib-0024"><mixed-citation publication-type="journal" id="ece34082-cit-0024">
+<string-name>
+<surname>Hope</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dunham</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Ploidy&#x02010;regulated variation in biofilm&#x02010;related phenotypes in natural isolates of <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">G3: Genes &#x02010; Genomes &#x02010; Genetics</source>, <volume>4</volume>(<issue>9</issue>), <fpage>1773</fpage>&#x02013;<lpage>1786</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1534/g3.114.013250">https://doi.org/10.1534/g3.114.013250</ext-link>
+<pub-id pub-id-type="pmid">25060625</pub-id></mixed-citation></ref><ref id="ece34082-bib-0025"><mixed-citation publication-type="journal" id="ece34082-cit-0025">
+<string-name>
+<surname>Irie</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>A. E. L.</given-names>
+</string-name>, <string-name>
+<surname>Kragh</surname>, <given-names>K. N.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>V. D.</given-names>
+</string-name>, <string-name>
+<surname>Hutchison</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Diggle</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>2017</year>). <article-title>The <italic>Pseudomonas aeruginosa</italic> PSL polysaccharide is a social but noncheatable trait in biofilms</article-title>. <source xml:lang="en">MBio</source>, <volume>8</volume>(<issue>3</issue>), <fpage>e00374&#x02010;17</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1128/mBio.00374-17">https://doi.org/10.1128/mBio.00374-17</ext-link>
+<pub-id pub-id-type="pmid">28634237</pub-id></mixed-citation></ref><ref id="ece34082-bib-0026"><mixed-citation publication-type="journal" id="ece34082-cit-0026">
+<string-name>
+<surname>Kim</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Racimo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schluter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>, <given-names>S. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foster</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Importance of positioning for microbial evolution</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>111</volume>(<issue>16</issue>), <fpage>E1639</fpage>&#x02013;<lpage>E1647</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1323632111">https://doi.org/10.1073/pnas.1323632111</ext-link>
+<pub-id pub-id-type="pmid">24715732</pub-id></mixed-citation></ref><ref id="ece34082-bib-0027"><mixed-citation publication-type="journal" id="ece34082-cit-0027">
+<string-name>
+<surname>Kolenbrander</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>2000</year>). <article-title>Oral microbial communities: biofilms, interactions, and genetic systems</article-title>. <source xml:lang="en">Annual Review of Microbiology</source>, <volume>54</volume>(<issue>1</issue>), <fpage>413</fpage>&#x02013;<lpage>437</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.micro.54.1.413">https://doi.org/10.1146/annurev.micro.54.1.413</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0028"><mixed-citation publication-type="journal" id="ece34082-cit-0028">
+<string-name>
+<surname>Korolev</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Karahan</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Hallatschek</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nelson</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Selective sweeps in growing microbial colonies</article-title>. <source xml:lang="en">Physical Biology</source>, <volume>9</volume>(<issue>2</issue>), <fpage>026008</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1088/1478-3975/9/2/026008">https://doi.org/10.1088/1478-3975/9/2/026008</ext-link>
+<pub-id pub-id-type="pmid">22476106</pub-id></mixed-citation></ref><ref id="ece34082-bib-0029"><mixed-citation publication-type="journal" id="ece34082-cit-0029">
+<string-name>
+<surname>Kraushaar</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Br&#x000fc;ckner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Veelders</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rhinow</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schreiner</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Birke</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Essen</surname>, <given-names>L. O.</given-names>
+</string-name> (<year>2015</year>). <article-title>Interactions by the fungal Flo11 adhesin depend on a fibronectin type III&#x02010;like adhesin domain girdled by aromatic bands</article-title>. <source xml:lang="en">Structure</source>, <volume>23</volume>(<issue>6</issue>), <fpage>1005</fpage>&#x02013;<lpage>1017</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.str.2015.03.021">https://doi.org/10.1016/j.str.2015.03.021</ext-link>
+<pub-id pub-id-type="pmid">25960408</pub-id></mixed-citation></ref><ref id="ece34082-bib-0030"><mixed-citation publication-type="journal" id="ece34082-cit-0030">
+<string-name>
+<surname>Kuthan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Devaux</surname>, <given-names>F. D. R.</given-names>
+</string-name>, <string-name>
+<surname>Janderov&#x000e1;</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Slaninov&#x000e1;</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Jacq</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palkov&#x000e1;</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2003</year>). <article-title>Domestication of wild <italic>Saccharomyces cerevisiae</italic> is accompanied by changes in gene expression and colony morphology</article-title>. <source xml:lang="en">Molecular Microbiology</source>, <volume>47</volume>(<issue>3</issue>), <fpage>745</fpage>&#x02013;<lpage>754</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1046/j.1365-2958.2003.03332.x">https://doi.org/10.1046/j.1365-2958.2003.03332.x</ext-link>
+<pub-id pub-id-type="pmid">12535073</pub-id></mixed-citation></ref><ref id="ece34082-bib-0031"><mixed-citation publication-type="journal" id="ece34082-cit-0031">
+<string-name>
+<surname>Lee</surname>, <given-names>K. W. K.</given-names>
+</string-name>, <string-name>
+<surname>Periasamy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kjelleberg</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rice</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Biofilm development and enhanced stress resistance of a model, mixed&#x02010;species community biofilm</article-title>. <source xml:lang="en">ISME Journal</source>, <volume>8</volume>(<issue>4</issue>), <fpage>894</fpage>&#x02013;<lpage>907</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/ismej.2013.194">https://doi.org/10.1038/ismej.2013.194</ext-link>
+<pub-id pub-id-type="pmid">24152718</pub-id></mixed-citation></ref><ref id="ece34082-bib-0032"><mixed-citation publication-type="journal" id="ece34082-cit-0032">
+<string-name>
+<surname>Liti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Moses</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Warringer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Parts</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Louis</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Population genomics of domestic and wild yeasts</article-title>. <source xml:lang="en">Nature</source>, <volume>458</volume>, <fpage>337</fpage>&#x02013;<lpage>341</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nature07743">https://doi.org/10.1038/nature07743</ext-link>
+<pub-id pub-id-type="pmid">19212322</pub-id></mixed-citation></ref><ref id="ece34082-bib-0033"><mixed-citation publication-type="journal" id="ece34082-cit-0033">
+<string-name>
+<surname>Little</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ray</surname>, <given-names>R. I.</given-names>
+</string-name> (<year>2008</year>). <article-title>The influence of marine biofilms on corrosion: A concise review</article-title>. <source xml:lang="en">Electrochimica Acta</source>, <volume>54</volume>, <fpage>2</fpage>&#x02013;<lpage>7</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.electacta.2008.02.071">https://doi.org/10.1016/j.electacta.2008.02.071</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0034"><mixed-citation publication-type="journal" id="ece34082-cit-0034">
+<string-name>
+<surname>Longtine</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>McKenzie</surname>, <given-names>A.</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Demarini</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Wach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brachat</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Pringle</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>1998</year>). <article-title>Additional modules for versatile and economical PCR&#x02010;based gene deletion and modification in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Yeast</source>, <volume>14</volume>(<issue>10</issue>), <fpage>953</fpage>&#x02013;<lpage>961</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/(sici)1097-0061(199807)14:10&#x0003c;953::aid-yea293&#x0003e;3.0.co;2-u">https://doi.org/10.1002/(sici)1097-0061(199807)14:10&#x0003c;953::aid-yea293&#x0003e;3.0.co;2-u</ext-link>
+<pub-id pub-id-type="pmid">9717241</pub-id></mixed-citation></ref><ref id="ece34082-bib-0035"><mixed-citation publication-type="journal" id="ece34082-cit-0035">
+<string-name>
+<surname>Luk&#x00161;a</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Serva</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Servien&#x00117;</surname>, <given-names>E.</given-names>
+</string-name> (<year>2016</year>). <article-title>
+<italic>Saccharomyces cerevisiae</italic> K2 toxin requires acidic environment for unidirectional folding into active state</article-title>. <source xml:lang="en">Mycoscience</source>, <volume>57</volume>, <fpage>51</fpage>&#x02013;<lpage>57</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.myc.2015.08.003">https://doi.org/10.1016/j.myc.2015.08.003</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0036"><mixed-citation publication-type="journal" id="ece34082-cit-0036">
+<string-name>
+<surname>McCullough</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Clemons</surname>, <given-names>K. V.</given-names>
+</string-name>, <string-name>
+<surname>Farina</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>McCusker</surname>, <given-names>J. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stevens</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>1998</year>). <article-title>Epidemiological investigation of vaginal <italic>Saccharomyces cerevisiae</italic> isolates by a genotypic method</article-title>. <source xml:lang="en">Journal of Clinical Microbiology</source>, <volume>36</volume>(<issue>2</issue>), <fpage>557</fpage>&#x02013;<lpage>562</lpage>.<pub-id pub-id-type="pmid">9466776</pub-id></mixed-citation></ref><ref id="ece34082-bib-0037"><mixed-citation publication-type="journal" id="ece34082-cit-0037">
+<string-name>
+<surname>McCusker</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Clemons</surname>, <given-names>K. V.</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Davis</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>1994</year>). <article-title>Genetic characterization of pathogenic Saccharomyces isolates</article-title>. <source xml:lang="en">Genetics</source>, <volume>136</volume>, <fpage>1261</fpage>&#x02013;<lpage>1269</lpage>.<pub-id pub-id-type="pmid">8013903</pub-id></mixed-citation></ref><ref id="ece34082-bib-0038"><mixed-citation publication-type="journal" id="ece34082-cit-0038">
+<string-name>
+<surname>McNally</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bernardy</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kalziqi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pentz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ratcliff</surname>, <given-names>W. C.</given-names>
+</string-name> (<year>2017</year>). <article-title>Killing by Type VI secretion drives genetic phase separation and correlates with increased cooperation</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>8</volume>, <fpage>14371</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/ncomms14371">https://doi.org/10.1038/ncomms14371</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0039"><mixed-citation publication-type="journal" id="ece34082-cit-0039">
+<string-name>
+<surname>Millet</surname>, <given-names>Y. A.</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ringgaard</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>von Andrian</surname>, <given-names>U. H.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>B. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Waldor</surname>, <given-names>M. K.</given-names>
+</string-name> (<year>2014</year>). <article-title>Insights into vibrio cholerae intestinal colonization from monitoring fluorescently labeled bacteria</article-title>. <source xml:lang="en">PLoS Pathogens</source>, <volume>10</volume>(<issue>10</issue>), <fpage>e1004405</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.ppat.1004405">https://doi.org/10.1371/journal.ppat.1004405</ext-link>
+<pub-id pub-id-type="pmid">25275396</pub-id></mixed-citation></ref><ref id="ece34082-bib-0040"><mixed-citation publication-type="journal" id="ece34082-cit-0040">
+<string-name>
+<surname>Momeni</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Brileya</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Fields</surname>, <given-names>M. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shou</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>). <article-title>Strong inter&#x02010;population cooperation leads to partner intermixing in microbial communities</article-title>. <source xml:lang="en">eLife</source>, <volume>2</volume>, <fpage>e00230</fpage>.<pub-id pub-id-type="pmid">23359860</pub-id></mixed-citation></ref><ref id="ece34082-bib-0041"><mixed-citation publication-type="journal" id="ece34082-cit-0041">
+<string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>M. J. I.</given-names>
+</string-name>, <string-name>
+<surname>Neugeboren</surname>, <given-names>B. I.</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Murray</surname>, <given-names>A. W.</given-names>
+</string-name> (<year>2014</year>). <article-title>Genetic drift opposes mutualism during spatial population expansion</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>111</volume>(<issue>3</issue>), <fpage>1037</fpage>&#x02013;<lpage>1042</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1313285111">https://doi.org/10.1073/pnas.1313285111</ext-link>
+<pub-id pub-id-type="pmid">24395776</pub-id></mixed-citation></ref><ref id="ece34082-bib-0042"><mixed-citation publication-type="journal" id="ece34082-cit-0042">
+<string-name>
+<surname>Nadell</surname>, <given-names>C. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bassler</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>A fitness trade&#x02010;off between local competition and dispersal in Vibrio cholerae biofilms</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>108</volume>(<issue>34</issue>), <fpage>14181</fpage>&#x02013;<lpage>14185</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1111147108">https://doi.org/10.1073/pnas.1111147108</ext-link>
+<pub-id pub-id-type="pmid">21825170</pub-id></mixed-citation></ref><ref id="ece34082-bib-0043"><mixed-citation publication-type="journal" id="ece34082-cit-0043">
+<string-name>
+<surname>Nadell</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Drescher</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foster</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Spatial structure, cooperation and competition in biofilms</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>14</volume>(<issue>9</issue>), <fpage>589</fpage>&#x02013;<lpage>600</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nrmicro.2016.84">https://doi.org/10.1038/nrmicro.2016.84</ext-link>
+<pub-id pub-id-type="pmid">27452230</pub-id></mixed-citation></ref><ref id="ece34082-bib-0044"><mixed-citation publication-type="journal" id="ece34082-cit-0044">
+<string-name>
+<surname>Nadell</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Xavier</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2010</year>). <article-title>Emergence of spatial structure in cell groups and the evolution of cooperation</article-title>. <source xml:lang="en">PLoS Computational Biology</source>, <volume>6</volume>(<issue>3</issue>), <fpage>e1000716</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pcbi.1000716">https://doi.org/10.1371/journal.pcbi.1000716</ext-link>
+<pub-id pub-id-type="pmid">20333237</pub-id></mixed-citation></ref><ref id="ece34082-bib-0045"><mixed-citation publication-type="journal" id="ece34082-cit-0045">
+<string-name>
+<surname>Nobile</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johnson</surname>, <given-names>A. D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Candida albicans biofilms and human disease</article-title>. <source xml:lang="en">Annual Review of Microbiology</source>, <volume>69</volume>, <fpage>71</fpage>&#x02013;<lpage>92</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev-micro-091014-104330">https://doi.org/10.1146/annurev-micro-091014-104330</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0046"><mixed-citation publication-type="journal" id="ece34082-cit-0046">
+<string-name>
+<surname>Nutman</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>V. C.</given-names>
+</string-name>, <string-name>
+<surname>Friend</surname>, <given-names>C. R. L.</given-names>
+</string-name>, <string-name>
+<surname>Van Kranendonk</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chivas</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Rapid emergence of life shown by discovery of 3,700&#x02010;million&#x02010;year&#x02010;old microbial structures</article-title>. <source xml:lang="en">Nature</source>, <volume>537</volume>(<issue>7621</issue>), <fpage>535</fpage>&#x02013;<lpage>538</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nature19355">https://doi.org/10.1038/nature19355</ext-link>
+<pub-id pub-id-type="pmid">27580034</pub-id></mixed-citation></ref><ref id="ece34082-bib-0047"><mixed-citation publication-type="journal" id="ece34082-cit-0047">
+<string-name>
+<surname>Oliveira</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Martinez&#x02010;Garcia</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Durham</surname>, <given-names>W. M.</given-names>
+</string-name>, <string-name>
+<surname>Kolter</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Foster</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Biofilm formation as a response to ecological competition</article-title>. <source xml:lang="en">PLoS Biology</source>, <volume>13</volume>(<issue>7</issue>), <fpage>e1002191</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pbio.1002191">https://doi.org/10.1371/journal.pbio.1002191</ext-link>
+<pub-id pub-id-type="pmid">26158271</pub-id></mixed-citation></ref><ref id="ece34082-bib-0048"><mixed-citation publication-type="journal" id="ece34082-cit-0048">
+<string-name>
+<surname>Orentaite</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Poranen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Oksanen</surname>, <given-names>H. M.</given-names>
+</string-name>, <string-name>
+<surname>Daugelavicius</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bamford</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2016</year>). <article-title>K2 killer toxin&#x02010;induced physiological changes in the yeast <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">FEMS Yeast Research</source>, <volume>16</volume>(<issue>2</issue>), <fpage>fow003</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/femsyr/fow003">https://doi.org/10.1093/femsyr/fow003</ext-link>
+<pub-id pub-id-type="pmid">26818855</pub-id></mixed-citation></ref><ref id="ece34082-bib-0049"><mixed-citation publication-type="journal" id="ece34082-cit-0049">
+<string-name>
+<surname>O'Toole</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kaplan</surname>, <given-names>H. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kolter</surname>, <given-names>R.</given-names>
+</string-name> (<year>2000</year>). <article-title>Biofilm formation as microbial development</article-title>. <source xml:lang="en">Annual Review of Microbiology</source>, <volume>54</volume>(<issue>1</issue>), <fpage>49</fpage>&#x02013;<lpage>79</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.micro.54.1.49">https://doi.org/10.1146/annurev.micro.54.1.49</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0050"><mixed-citation publication-type="journal" id="ece34082-cit-0050">
+<string-name>
+<surname>Pieczynska</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>de Visser</surname>, <given-names>J. A. G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Korona</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Incidence of symbiotic dsRNA &#x02018;killer&#x02019; viruses in wild and domesticated yeast</article-title>. <source xml:lang="en">FEMS Yeast Research</source>, <volume>13</volume>(<issue>8</issue>), <fpage>856</fpage>&#x02013;<lpage>859</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1567-1364.12086">https://doi.org/10.1111/1567-1364.12086</ext-link>
+<pub-id pub-id-type="pmid">24028530</pub-id></mixed-citation></ref><ref id="ece34082-bib-0051"><mixed-citation publication-type="journal" id="ece34082-cit-0051">
+<string-name>
+<surname>Rainey</surname>, <given-names>P. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rainey</surname>, <given-names>K.</given-names>
+</string-name> (<year>2003</year>). <article-title>Evolution of cooperation and conflict in experimental bacterial populations</article-title>. <source xml:lang="en">Nature</source>, <volume>425</volume>(<issue>6953</issue>), <fpage>72</fpage>&#x02013;<lpage>74</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nature01906">https://doi.org/10.1038/nature01906</ext-link>
+<pub-id pub-id-type="pmid">12955142</pub-id></mixed-citation></ref><ref id="ece34082-bib-0052"><mixed-citation publication-type="journal" id="ece34082-cit-0052">
+<string-name>
+<surname>Regenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hangh&#x000f8;j</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>K. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Boomsma</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Clonal yeast biofilms can reap competitive advantages thorough cell differentiation without being obligatorily multicellular</article-title>. <source xml:lang="en">Proceedings of the Royal Society B&#x02010;Biological Sciences</source>, <volume>283</volume>, <fpage>20161303</fpage>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1098/rspb.2016.1303">https://doi.org/10.1098/rspb.2016.1303</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0053"><mixed-citation publication-type="journal" id="ece34082-cit-0053">
+<string-name>
+<surname>Reuter</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Greig</surname>, <given-names>D.</given-names>
+</string-name> (<year>2007</year>). <article-title>Increased outbreeding in yeast in response to dispersal by an insect vector</article-title>. <source xml:lang="en">Current Biology</source>, <volume>17</volume>(<issue>3</issue>), <fpage>R81</fpage>&#x02013;<lpage>R83</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.cub.2006.11.059">https://doi.org/10.1016/j.cub.2006.11.059</ext-link>
+<pub-id pub-id-type="pmid">17276903</pub-id></mixed-citation></ref><ref id="ece34082-bib-0054"><mixed-citation publication-type="journal" id="ece34082-cit-0054">
+<string-name>
+<surname>Reynolds</surname>, <given-names>T. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fink</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2001</year>). <article-title>Bakers&#x02019; yeast, a model for fungal biofilm formation</article-title>. <source xml:lang="en">Science</source>, <volume>291</volume>(<issue>5505</issue>), <fpage>878</fpage>&#x02013;<lpage>881</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.291.5505.878">https://doi.org/10.1126/science.291.5505.878</ext-link>
+<pub-id pub-id-type="pmid">11157168</pub-id></mixed-citation></ref><ref id="ece34082-bib-0055"><mixed-citation publication-type="journal" id="ece34082-cit-0055">
+<string-name>
+<surname>Riley</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wertz</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2002</year>). <article-title>Bacteriocins: Evolution, ecology, and application</article-title>. <source xml:lang="en">Annual Review of Microbiology</source>, <volume>56</volume>, <fpage>117</fpage>&#x02013;<lpage>137</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.micro.56.012302.161024">https://doi.org/10.1146/annurev.micro.56.012302.161024</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0056"><mixed-citation publication-type="journal" id="ece34082-cit-0056">
+<string-name>
+<surname>Schacherer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shapiro</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Ruderfer</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kruglyak</surname>, <given-names>L.</given-names>
+</string-name> (<year>2009</year>). <article-title>Comprehensive polymorphism survey elucidates population structure of <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Nature</source>, <volume>458</volume>, <fpage>342</fpage>&#x02013;<lpage>346</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nature07670">https://doi.org/10.1038/nature07670</ext-link>
+<pub-id pub-id-type="pmid">19212320</pub-id></mixed-citation></ref><ref id="ece34082-bib-0057"><mixed-citation publication-type="journal" id="ece34082-cit-0057">
+<string-name>
+<surname>Schindelin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Arganda&#x02010;Carreras</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Frise</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kaynig</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Longair</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pietzsch</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cardona</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Fiji: An open&#x02010;source platform for biological&#x02010;image analysis</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>9</volume>(<issue>7</issue>), <fpage>676</fpage>&#x02013;<lpage>682</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nmeth.2019">https://doi.org/10.1038/nmeth.2019</ext-link>
+<pub-id pub-id-type="pmid">22743772</pub-id></mixed-citation></ref><ref id="ece34082-bib-0058"><mixed-citation publication-type="journal" id="ece34082-cit-0058">
+<string-name>
+<surname>Schluter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nadell</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Bassler</surname>, <given-names>B. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foster</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Adhesion as a weapon in microbial competition</article-title>. <source xml:lang="en">ISME Journal</source>, <volume>9</volume>(<issue>1</issue>), <fpage>139</fpage>&#x02013;<lpage>149</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/ismej.2014.174">https://doi.org/10.1038/ismej.2014.174</ext-link>
+<pub-id pub-id-type="pmid">25290505</pub-id></mixed-citation></ref><ref id="ece34082-bib-0059"><mixed-citation publication-type="journal" id="ece34082-cit-0059">
+<string-name>
+<surname>Schmitt</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Breinig</surname>, <given-names>F.</given-names>
+</string-name> (<year>2006</year>). <article-title>Yeast viral killer toxins: Lethality and self&#x02010;protection</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>4</volume>(<issue>3</issue>), <fpage>212</fpage>&#x02013;<lpage>221</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nrmicro1347">https://doi.org/10.1038/nrmicro1347</ext-link>
+<pub-id pub-id-type="pmid">16489348</pub-id></mixed-citation></ref><ref id="ece34082-bib-0060"><mixed-citation publication-type="journal" id="ece34082-cit-0060">
+<string-name>
+<surname>Smukalla</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Caldara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pochet</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Beauvais</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Guadagnini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Verstrepen</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>FLO1: Is a variable green beard gene that drives biofilm&#x02010;like cooperation in budding yeast</article-title>. <source xml:lang="en">Cell</source>, <volume>135</volume>(<issue>4</issue>), <fpage>726</fpage>&#x02013;<lpage>737</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.cell.2008.09.037">https://doi.org/10.1016/j.cell.2008.09.037</ext-link>
+<pub-id pub-id-type="pmid">19013280</pub-id></mixed-citation></ref><ref id="ece34082-bib-0061"><mixed-citation publication-type="journal" id="ece34082-cit-0061">
+<string-name>
+<surname>Sniegowski</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Dombrowski</surname>, <given-names>P. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fingerman</surname>, <given-names>E.</given-names>
+</string-name> (<year>2002</year>). <article-title>
+<italic>Saccharomyces cerevisiae</italic> and <italic>Saccharomyces paradoxus</italic> coexist in a natural woodland site in North America and display different levels of reproductive isolation from European conspecifics</article-title>. <source xml:lang="en">FEMS Yeast Research</source>, <volume>1</volume>, <fpage>299</fpage>&#x02013;<lpage>306</lpage>.<pub-id pub-id-type="pmid">12702333</pub-id></mixed-citation></ref><ref id="ece34082-bib-0062"><mixed-citation publication-type="journal" id="ece34082-cit-0062">
+<string-name>
+<surname>Stefanini</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Dapporto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bern&#x000e1;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Polsinelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turillazzi</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cavalieri</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Social wasps are a Saccharomyces mating nest</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>113</volume>(<issue>8</issue>), <fpage>2247</fpage>&#x02013;<lpage>2251</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1516453113">https://doi.org/10.1073/pnas.1516453113</ext-link>
+<pub-id pub-id-type="pmid">26787874</pub-id></mixed-citation></ref><ref id="ece34082-bib-0063"><mixed-citation publication-type="journal" id="ece34082-cit-0063">
+<string-name>
+<surname>Stefanini</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Dapporto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Legras</surname>, <given-names>J.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Calabretta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Di Paola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>De Filippo</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cavalieri</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Role of social wasps in <italic>Saccharomyces cerevisiae</italic> ecology and evolution</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>109</volume>(<issue>33</issue>), <fpage>13398</fpage>&#x02013;<lpage>13403</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1208362109">https://doi.org/10.1073/pnas.1208362109</ext-link>
+<pub-id pub-id-type="pmid">22847440</pub-id></mixed-citation></ref><ref id="ece34082-bib-0064"><mixed-citation publication-type="journal" id="ece34082-cit-0064">
+<string-name>
+<surname>&#x00160;tov&#x000ed;&#x0010d;ek</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>V&#x000e1;chov&#x000e1;</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Kuthan</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palkov&#x000e1;</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2010</year>). <article-title>General factors important for the formation of structured biofilm&#x02010;like yeast colonies</article-title>. <source xml:lang="en">Fungal Genetics and Biology</source>, <volume>47</volume>, <fpage>1012</fpage>&#x02013;<lpage>1022</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.fgb.2010.08.005">https://doi.org/10.1016/j.fgb.2010.08.005</ext-link>
+<pub-id pub-id-type="pmid">20728557</pub-id></mixed-citation></ref><ref id="ece34082-bib-0065"><mixed-citation publication-type="journal" id="ece34082-cit-0065">
+<string-name>
+<surname>Strope</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name>
+<surname>Skelly</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Kozmin</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name>
+<surname>Mahadevan</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Magwene</surname>, <given-names>P. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>McCusker</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2015</year>). <article-title>The 100&#x02010;genomes strains, an <italic>S.&#x000a0;cerevisiae</italic> resource that illuminates its natural phenotypic and genotypic variation and emergence as an opportunistic pathogen</article-title>. <source xml:lang="en">Genome Research</source>, <volume>25</volume>(<issue>5</issue>), <fpage>762</fpage>&#x02013;<lpage>774</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1101/gr.185538.114">https://doi.org/10.1101/gr.185538.114</ext-link>
+<pub-id pub-id-type="pmid">25840857</pub-id></mixed-citation></ref><ref id="ece34082-bib-0066"><mixed-citation publication-type="journal" id="ece34082-cit-0066">
+<string-name>
+<surname>Tait</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sutherland</surname>, <given-names>I. W.</given-names>
+</string-name> (<year>2002</year>). <article-title>Antagonistic interactions amongst bacteriocin&#x02010;producing enteric bacteria in dual species biofilms</article-title>. <source xml:lang="en">Journal of Applied Microbiology</source>, <volume>93</volume>(<issue>2</issue>), <fpage>345</fpage>&#x02013;<lpage>352</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1046/j.1365-2672.2002.01692.x">https://doi.org/10.1046/j.1365-2672.2002.01692.x</ext-link>
+<pub-id pub-id-type="pmid">12147084</pub-id></mixed-citation></ref><ref id="ece34082-bib-0067"><mixed-citation publication-type="journal" id="ece34082-cit-0067">
+<string-name>
+<surname>Tan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Hays</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cromie</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name>
+<surname>Jeffery</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Ahyong</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dudley</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Aneuploidy underlies a multicellular phenotypic switch</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>110</volume>(<issue>30</issue>), <fpage>12367</fpage>&#x02013;<lpage>12372</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.1301047110">https://doi.org/10.1073/pnas.1301047110</ext-link>
+<pub-id pub-id-type="pmid">23812752</pub-id></mixed-citation></ref><ref id="ece34082-bib-0068"><mixed-citation publication-type="journal" id="ece34082-cit-0068">
+<string-name>
+<surname>V&#x000e1;chov&#x000e1;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;&#x00165;ov&#x000ed;&#x0010d;ek</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hlav&#x000e1;&#x0010d;ek</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Chernyavskiy</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;t&#x0011b;p&#x000e1;nek</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kub&#x000ed;nov&#x000e1;</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palkov&#x000e1;</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2011</year>). <article-title>Flo11p, drug efflux pumps, and the extracellular matrix cooperate to form biofilm yeast colonies</article-title>. <source xml:lang="en">The Journal of Cell Biology</source>, <volume>194</volume>(<issue>5</issue>), <fpage>679</fpage>&#x02013;<lpage>687</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1083/jcb.201103129">https://doi.org/10.1083/jcb.201103129</ext-link>
+<pub-id pub-id-type="pmid">21875945</pub-id></mixed-citation></ref><ref id="ece34082-bib-0069"><mixed-citation publication-type="journal" id="ece34082-cit-0069">
+<string-name>
+<surname>Van Dyken</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>Melanie J. I.</given-names>
+</string-name>, <string-name>
+<surname>Mack</surname>, <given-names>Keenan M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Desai</surname>, <given-names>Michael M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Spatial population expansion promotes the evolution of cooperation in an experimental Prisoner's Dilemma</article-title>. <source xml:lang="en">Current Biology</source>, <volume>23</volume>(<issue>10</issue>), <fpage>919</fpage>&#x02013;<lpage>923</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.cub.2013.04.026">https://doi.org/10.1016/j.cub.2013.04.026</ext-link>
+<pub-id pub-id-type="pmid">23664975</pub-id></mixed-citation></ref><ref id="ece34082-bib-0070"><mixed-citation publication-type="journal" id="ece34082-cit-0070">
+<string-name>
+<surname>Verstrepen</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Klis</surname>, <given-names>F. M.</given-names>
+</string-name> (<year>2006</year>). <article-title>Flocculation, adhesion and biofilm formation in yeasts</article-title>. <source xml:lang="en">Molecular Microbiology</source>, <volume>60</volume>(<issue>1</issue>), <fpage>5</fpage>&#x02013;<lpage>15</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/j.1365-2958.2006.05072.x">https://doi.org/10.1111/j.1365-2958.2006.05072.x</ext-link>
+<pub-id pub-id-type="pmid">16556216</pub-id></mixed-citation></ref><ref id="ece34082-bib-0071"><mixed-citation publication-type="journal" id="ece34082-cit-0071">
+<string-name>
+<surname>Wach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brachat</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pohlmann</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Philippsen</surname>, <given-names>P.</given-names>
+</string-name> (<year>1994</year>). <article-title>New heterologous modules for classical or PCR&#x02010;based gene disruptions in <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Yeast</source>, <volume>10</volume>, <fpage>1793</fpage>&#x02013;<lpage>1808</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/(ISSN)1097-0061">https://doi.org/10.1002/(ISSN)1097-0061</ext-link>
+<pub-id pub-id-type="pmid">7747518</pub-id></mixed-citation></ref><ref id="ece34082-bib-0072"><mixed-citation publication-type="journal" id="ece34082-cit-0072">
+<string-name>
+<surname>Weber</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Poxleitner</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hebisch</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Opitz</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Chemical warfare and survival strategies in bacterial range expansions</article-title>. <source xml:lang="en">Journal of The Royal Society Interface</source>, <volume>11</volume>(<issue>96</issue>).</mixed-citation></ref><ref id="ece34082-bib-0073"><mixed-citation publication-type="journal" id="ece34082-cit-0073">
+<string-name>
+<surname>West</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cooper</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Division of labour in microorganisms: An evolutionary perspective</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>14</volume>(<issue>11</issue>), <fpage>716</fpage>&#x02013;<lpage>723</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nrmicro.2016.111">https://doi.org/10.1038/nrmicro.2016.111</ext-link>
+<pub-id pub-id-type="pmid">27640757</pub-id></mixed-citation></ref><ref id="ece34082-bib-0074"><mixed-citation publication-type="journal" id="ece34082-cit-0074">
+<string-name>
+<surname>West</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Diggle</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Buckling</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Griffin</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>The social lives of microbes</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution and Systematics</source>, <volume>38</volume>, <fpage>53</fpage>&#x02013;<lpage>77</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1146/annurev.ecolsys.38.091206.095740">https://doi.org/10.1146/annurev.ecolsys.38.091206.095740</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0075"><mixed-citation publication-type="journal" id="ece34082-cit-0075">
+<string-name>
+<surname>West</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Diggle</surname>, <given-names>S. P.</given-names>
+</string-name> (<year>2006</year>). <article-title>Social evolution theory for microorganisms</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>4</volume>(<issue>8</issue>), <fpage>597</fpage>&#x02013;<lpage>607</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nrmicro1461">https://doi.org/10.1038/nrmicro1461</ext-link>
+<pub-id pub-id-type="pmid">16845430</pub-id></mixed-citation></ref><ref id="ece34082-bib-0076"><mixed-citation publication-type="journal" id="ece34082-cit-0076">
+<string-name>
+<surname>Wingfield</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>van der Meer</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Pretorious</surname>, <given-names>I. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vvan Vuuren</surname>, <given-names>H. J. J.</given-names>
+</string-name> (<year>1990</year>). <article-title>K3 killer yeast is a mutant K2 killer yeast</article-title>. <source xml:lang="en">Mycological Research</source>, <volume>94</volume>(<issue>7</issue>), <fpage>901</fpage>&#x02013;<lpage>906</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S0953-7562(09)81304-X">https://doi.org/10.1016/S0953-7562(09)81304-X</ext-link>
+</mixed-citation></ref><ref id="ece34082-bib-0077"><mixed-citation publication-type="journal" id="ece34082-cit-0077">
+<string-name>
+<surname>Woods</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bevan</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>1968</year>). <article-title>Studies on the nature of the killer factor produced by <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source xml:lang="en">Journal of General Microbiology</source>, <volume>51</volume>, <fpage>115</fpage>&#x02013;<lpage>126</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1099/00221287-51-1-115">https://doi.org/10.1099/00221287-51-1-115</ext-link>
+<pub-id pub-id-type="pmid">5653223</pub-id></mixed-citation></ref><ref id="ece34082-bib-0078"><mixed-citation publication-type="journal" id="ece34082-cit-0078">
+<string-name>
+<surname>Xavier</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foster</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Cooperation and conflict in microbial biofilms</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>104</volume>(<issue>3</issue>), <fpage>876</fpage>&#x02013;<lpage>881</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1073/pnas.0607651104">https://doi.org/10.1073/pnas.0607651104</ext-link>
+<pub-id pub-id-type="pmid">17210916</pub-id></mixed-citation></ref></ref-list></back></article>

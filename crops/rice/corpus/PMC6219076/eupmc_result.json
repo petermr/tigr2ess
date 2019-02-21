@@ -1,0 +1,658 @@
+{
+  "id": [
+    "30400811"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30400811"
+  ],
+  "pmcid": [
+    "PMC6219076"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5119-6"
+  ],
+  "title": [
+    "Characterization and expression profiling of microRNAs in response to plant feeding in two host-plant strains of the lepidopteran pest Spodoptera frugiperda."
+  ],
+  "authorString": [
+    "Moné Y, Nhim S, Gimenez S, Legeai F, Seninet I, Parrinello H, Nègre N, d'Alençon E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moné Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Moné"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "DGIMI, Univ Montpellier, INRA, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Nhim S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Nhim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "DGIMI, Univ Montpellier, INRA, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Gimenez S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Gimenez"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "DGIMI, Univ Montpellier, INRA, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Legeai F"
+          ],
+          "firstName": [
+            "Fabrice"
+          ],
+          "lastName": [
+            "Legeai"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "INRA, UMR Institut de Génétique, Environnement et Protection des Plantes (IGEPP), BioInformatics Platform for Agroecosystems Arthropods (BIPAA), Campus Beaulieu, Rennes, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Seninet I"
+          ],
+          "firstName": [
+            "Imène"
+          ],
+          "lastName": [
+            "Seninet"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "DGIMI, Univ Montpellier, INRA, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Parrinello H"
+          ],
+          "firstName": [
+            "Hugues"
+          ],
+          "lastName": [
+            "Parrinello"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "MGX, CNRS, INSERM, Univ Montpellier, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Nègre N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Nègre"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "DGIMI, Univ Montpellier, INRA, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "d'Alençon E"
+          ],
+          "firstName": [
+            "Emmanuelle"
+          ],
+          "lastName": [
+            "d'Alençon"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8994-0119",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "DGIMI, Univ Montpellier, INRA, Montpellier, France. emmanuelle.d-alencon@inra.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8994-0119",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743394"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "804"
+  ],
+  "abstractText": [
+    "BACKGROUND:A change in the environment may impair development or survival of living organisms leading them to adapt to the change. The resulting adaptation trait may reverse, or become fixed in the population leading to evolution of species. Deciphering the molecular basis of adaptive traits can thus give evolutionary clues. In phytophagous insects, a change in host-plant range can lead to emergence of new species. Among them, Spodoptera frugiperda is a major agricultural lepidopteran pest consisting of two host-plant strains having diverged 3 MA, based on mitochondrial markers. In this paper, we address the role of microRNAs, important gene expression regulators, in response to host-plant change and in adaptive evolution. RESULTS:Using small RNA sequencing, we characterized miRNA repertoires of the corn (C) and rice (R) strains of S. frugiperda, expressed during larval development on two different host-plants, corn and rice, in the frame of reciprocal transplant experiments. We provide evidence for 76 and 68 known miRNAs in C and R strains and 139 and 171 novel miRNAs. Based on read counts analysis, 34 of the microRNAs were differentially expressed in the C strain larvae fed on rice as compared to the C strain larvae fed on corn. Twenty one were differentially expressed on rice compared to corn in R strain. Nine were differentially expressed in the R strain compared to C strain when reared on corn. A similar ratio of microRNAs was differentially expressed between strains on rice. We could validate experimentally by QPCR, variation in expression of the most differentially expressed candidates. We used bioinformatics methods to determine the target mRNAs of known microRNAs. Comparison with the mRNA expression profile during similar reciprocal transplant experiment revealed potential mRNA targets of these host-plant regulated miRNAs. CONCLUSIONS:In the current study, we performed the first systematic analysis of miRNAs in Lepidopteran pests feeding on host-plants. We identified a set of the differentially expressed miRNAs that respond to the plant diet, or differ constitutively between the two host plant strains. Among the latter, the ones that are also deregulated in response to host-plant are molecular candidates underlying a complex adaptive trait."
+  ],
+  "affiliation": [
+    "DGIMI, Univ Montpellier, INRA, Montpellier, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ANR-12-BSV7-0004-01"
+          ],
+          "agency": [
+            "Agence Nationale de la Recherche"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ANR-10-INBS-09"
+          ],
+          "agency": [
+            "Agence Nationale de la Recherche"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spodoptera"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zea mays"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phenotypic plasticity",
+        "Adaptation",
+        "Regulation of gene expression",
+        "microRNAs",
+        "Insect Plant Interaction"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Insect Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6219076?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6219076"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5119-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-02-05"
+  ],
+  "dateOfCreation": [
+    "2018-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-06"
+  ],
+  "firstPublicationDate": [
+    "2018-11-06"
+  ]
+}

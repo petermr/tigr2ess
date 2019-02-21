@@ -1,0 +1,261 @@
+{
+  "id": [
+    "30107434"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30107434"
+  ],
+  "pmcid": [
+    "PMC6265445"
+  ],
+  "doi": [
+    "10.1093/nar/gky730"
+  ],
+  "title": [
+    "Assessing genome assembly quality using the LTR Assembly Index (LAI)."
+  ],
+  "authorString": [
+    "Ou S, Chen J, Jiang N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ou S"
+          ],
+          "firstName": [
+            "Shujun"
+          ],
+          "lastName": [
+            "Ou"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Horticulture, Michigan State University, East Lansing, MI 48824, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jinfeng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology and Microbiology, University of California, Riverside, CA 92507, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Horticulture, Michigan State University, East Lansing, MI 48824, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2714626"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Assembling a plant genome is challenging due to the abundance of repetitive sequences, yet no standard is available to evaluate the assembly of repeat space. LTR retrotransposons (LTR-RTs) are the predominant interspersed repeat that is poorly assembled in draft genomes. Here, we propose a reference-free genome metric called LTR Assembly Index (LAI) that evaluates assembly continuity using LTR-RTs. After correcting for LTR-RT amplification dynamics, we show that LAI is independent of genome size, genomic LTR-RT content, and gene space evaluation metrics (i.e., BUSCO and CEGMA). By comparing genomic sequences produced by various sequencing techniques, we reveal the significant gain of assembly continuity by using long-read-based techniques over short-read-based methods. Moreover, LAI can facilitate iterative assembly improvement with assembler selection and identify low-quality genomic regions. To apply LAI, intact LTR-RTs and total LTR-RTs should contribute at least 0.1% and 5% to the genome size, respectively. The LAI program is freely available on GitHub: https://github.com/oushujun/LTR_retriever."
+  ],
+  "affiliation": [
+    "Department of Horticulture, Michigan State University, East Lansing, MI 48824, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6265445?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6265445"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gky730"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-15"
+  ],
+  "dateOfRevision": [
+    "2018-08-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-10"
+  ],
+  "firstPublicationDate": [
+    "2018-08-10"
+  ]
+}
