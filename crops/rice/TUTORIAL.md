@@ -366,9 +366,9 @@ ambarish123@ubuntu:~/rice/__cooccurrence$ tree
 ![`entries.DataTables.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/assets/entries.DataTables.html2.png)
 
 
-### outputs
+### outputs 
 
 * size of output - 3.5 MB.
- 
+
 * [location of outputs](https://github.com/petermr/tigr2ess/blob/master/crops/rice/rice1.tar.gz) 
 
