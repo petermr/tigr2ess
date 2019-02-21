@@ -1,4 +1,4 @@
-#How to Use `wikiFactMine/Core SPARQL`.
+# How to Use `wikiFactMine/Core SPARQL`.
 
 **This page is a repository of `SPARQL queries` used to construct ContentMine dictionaries, utilities, and illustrations of the graphical options in SPARQL.**
 *SPARQL( a semantic query language for databases—able to retrieve and manipulate data stored in Resource Description Framework (RDF) format) & allows users to write queries against what can loosely be called "key-value" data or, more specifically, data that follow the RDF specification of the W3C.*
