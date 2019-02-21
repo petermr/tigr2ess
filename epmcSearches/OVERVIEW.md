@@ -11,7 +11,7 @@ Search EuropePubMedCentral.
 
 1. [Screen shots directory](./assets/)
 
-2. [getpapers documentation]](getpapers_documentation_for_ocimum.md)
+2. [epmc-1](epmc-1.md)
 
 
 
