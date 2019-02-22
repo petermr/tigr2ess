@@ -25,7 +25,7 @@ may change as we add resources.*
 
 * [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
 * [epmcSearches](epmcSearches/OVERVIEW.md) Searching EuropePMC (M)
-* [getpapers.md](getpapers.md/OVERVIEW.md) Downloading papers (M)
+* [getpapers](getpapers/OVERVIEW.md) Downloading papers (M)
 * [wikimedia](wikimedia/OVERVIEW.md)
 * [osanctum](osanctum/OVERVIEW.md) Tested resource for exercises (M)
 * [osanctum200](osanctum200/OVERVIEW.md) Tested resource for exercises (M)
@@ -39,7 +39,7 @@ may change as we add resources.*
 ### resources
 * [misc](misc/OVERVIEW.md)
 * [problems](problems/OVERVIEW.md)
-* [materials.md](materials.md/OVERVIEW.md)
+* [materials](materials/OVERVIEW.md)
 * [tests](tests/OVERVIEW.md)
 
 ### personal
