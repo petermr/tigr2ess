@@ -24,27 +24,27 @@ may change as we add resources.*
 
 
 * [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
-* [epmcSearches](epmcSearches/overview.md) Searching EuropePMC (M)
-* [getpapers.md](getpapers.md/overview.md) Downloading papers (M)
-* [wikimedia](wikimedia/overview.md)
-* [osanctum](osanctum/overview.md) Tested resource for exercises (M)
-* [osanctum200](osanctum200/overview.md) Tested resource for exercises (M)
-* [search](search/overview.md)
+* [epmcSearches](epmcSearches/OVERVIEW.md) Searching EuropePMC (M)
+* [getpapers.md](getpapers.md/OVERVIEW.md) Downloading papers (M)
+* [wikimedia](wikimedia/OVERVIEW.md)
+* [osanctum](osanctum/OVERVIEW.md) Tested resource for exercises (M)
+* [osanctum200](osanctum200/OVERVIEW.md) Tested resource for exercises (M)
+* [search](search/OVERVIEW.md)
 
 ### afternoon
-* [crops](crops/overview.md) Millet, Rice, Wheat (A)
-* [results](results/overview.md)
-* [target](target/overview.md)
+* [crops](crops/OVERVIEW.md) Millet, Rice, Wheat (A)
+* [results](results/OVERVIEW.md)
+* [target](target/OVERVIEW.md)
 
 ### resources
-* [misc](misc/overview.md)
-* [problems](problems/overview.md)
-* [materials.md](materials.md/overview.md)
-* [tests](tests/overview.md)
+* [misc](misc/OVERVIEW.md)
+* [problems](problems/OVERVIEW.md)
+* [materials.md](materials.md/OVERVIEW.md)
+* [tests](tests/OVERVIEW.md)
 
 ### personal
-* [mydictionaries](mydictionaries/overview.md)
-* [scratch](scratch/overview.md)
+* [mydictionaries](mydictionaries/OVERVIEW.md)
+* [scratch](scratch/OVERVIEW.md)
 
 ## other resources
 *These may change*
@@ -53,5 +53,5 @@ may change as we add resources.*
 * [Agenda_roles_and_responsibilities_schedule.txt](Agenda_roles_and_responsibilities_schedule.txt)
 * [ami.md](ami.md)
 * [gettingStarted.md](gettingStarted.md)
-* [program](program/overview.md)
+* [program](program/OVERVIEW.md)
 
