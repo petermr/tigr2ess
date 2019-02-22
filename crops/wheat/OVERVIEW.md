@@ -13,10 +13,6 @@
 * [JSON](wheat_category.json)
 * [XML](wheat_category.xml) for searching
 
-### wheat wikipage (Edited Version of wheat_wikipage.json)
-
-* [JSON](wheat_wikipage.json)
-
 
 ## other resources
 [getpapers](1_getpapers_retrival_wheat.md)
