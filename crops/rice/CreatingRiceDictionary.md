@@ -1,14 +1,12 @@
 # Creating Rice Dictionary
 
-This is a template for tutorials (There will normally be one per directory, but there may be more)
-
 ## Purpose of Tutorial
 
-Creation of local rice dictionary using wikipedia page. 
+Documentation over creation of dictionary files for rice varietis.
 
 ## Resources and software required
 
-ami-dictionary - 
+ami-dictionary - tool/plugin of ami-jars for creating dictionary file.
 
 Wikipedia page links - 
 
@@ -18,37 +16,73 @@ Wikipedia page links -
 
 [`../wiki/List_of_rice_varieties`](https://en.wikipedia.org/wiki/List_of_rice_varieties)
 
-[`../wiki/Category:Rice_varieties'](https://en.wikipedia.org/wiki/Category:Rice_varieties)
+[`../wiki/Category:Rice_varieties`](https://en.wikipedia.org/wiki/Category:Rice_varieties)
 
 
 ## Instructions
 
 ## step 1
+
+
+---
+ami-dictionary
+---
+---
 ### commands for creating Rice Dictionaries. 
 
 ```
-> ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html
-> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary  Rice_varieties_category --outformats xml,json,html
-> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html
-> ami-dictionary create --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html
+Command-line syntax:
+> ami-dictionary create --input <Wikipedia web link> --informat <input format> --dictionary <dictionary file base name> --outformats <format of output file> --directory <directory name>
+
+```
+### Description of operations and options used into the command-line.
+
+```
+* ami-dictionary - tool name for the dictionary creation.
+
+* create - operation for creating dictionary.
+
+* --input - option to pass-on the Wikipedia link from which web-links will be fetched and dictionary will be created.
+
+* --informat - option to pass-on option for input format which will be based on content of the Wikipedia page e.g - wikipage, wikilist, wikitable etc.
+
+* --dictionary - option to pass-on the base name of the dictionary file.
+
+* --outformats - option to pass on the output file format for the dictionary files e.g - xml, json or html.
+
+* --directory - option to pass on the name of the directory containing dictionary files.
+
+```
+### Running example of ami-dictionary for dictionary creation.
+
 ```
 
----
-*Action:* Enter `Holy basil` into the window
----
----
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Rice --informat wikipage --dictionary rice --outformats xml,json,html --directory Dictionary/
 
-  
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Rice_varieties --informat wikicategory --dictionary  Rice_varieties_category --outformats xml,json,html --directory Dictionary/
 
-### link to results
+> ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html --directory Dictionary/
+
+> ami-dictionary create --input https://en.wikipedia.org/wiki/List_of_rice_varieties --informat wikipage --dictionary Oryza_category --outformats xml,json,html --directory Dictionary/
+
+```
+
+### results
 * [`Rice.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml). 
+
 * [`Rice.json`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml).
+
 * [`Rice.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.html).
-* [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml)
-* [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml)
-* [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
+
+* [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml).
+
+* [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml).
+
+* [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml).
+
 
 - JSON fo edited/clipped output <= 8 lines
+
 ```
      {
       "identifiers": {
@@ -69,6 +103,7 @@ Wikipedia page links -
  ```
  
  ###### Output is xml,json or html formatted dictionary files as per the specified --outformats option.
+ 
  ###### Time taken for dictionary creation varies as per the available links into the Wikipedia page.
  
  
@@ -77,12 +112,18 @@ Wikipedia page links -
 
 ### outputs
 * size of output - 5.25 KB.
+
 * location of outputs - 
 
 * [`Rice.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml). 
+
 * [`Rice.json`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.json).
+
 * [`Rice.html`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.html).
-* [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml)
-* [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml)
-* [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml)
+
+* [`listriceVarieties.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/listriceVarieties.xml).
+
+* [`oryzaCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/oryzaCategory.xml).
+
+* [`riceVarietiesCategory.xml`](https://github.com/petermr/tigr2ess/blob/master/crops/rice/riceVarietiesCategory.xml).
 
