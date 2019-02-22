@@ -27,14 +27,12 @@ may change as we add resources.*
 * [epmcSearches](epmcSearches/OVERVIEW.md) Searching EuropePMC (M)
 * [getpapers](getpapers/OVERVIEW.md) Downloading papers (M)
 * [wikimedia](wikimedia/OVERVIEW.md)
-* [osanctum](osanctum/OVERVIEW.md) Tested resource for exercises (M)
-* [osanctum200](osanctum200/OVERVIEW.md) Tested resource for exercises (M)
+* [osanctum-backup](osanctum/) corpus of 200 Ocimum sanctum papers (M)
+* [osanctum200](osanctum200/) working version of `osanctum` resource (M)
 * [search](search/OVERVIEW.md)
 
 ### afternoon
 * [crops](crops/OVERVIEW.md) Millet, Rice, Wheat (A)
-* [results](results/OVERVIEW.md)
-* [target](target/OVERVIEW.md)
 
 ### resources
 * [misc](misc/OVERVIEW.md)
