@@ -9,9 +9,9 @@
 [Creating Wheat Dictionary](CreatingWheatDictionary.md)
 
 ### wheat category
-* [HTML](wheat_category.html) for reading
-* [JSON](wheat_category.json)
-* [XML](wheat_category.xml) for searching
+* [HTML](misc/wheat_category.html) for reading
+* [JSON](misc/wheat_category.json)
+* [XML](misc/wheat_category.xml) for searching
 
 
 ## other resources
