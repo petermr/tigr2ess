@@ -2,15 +2,15 @@
 
 Let's search for 'wheat' on the web. In the search results, we get the following wikipedia page:
 
-![Wikipedia page for wheat](assets/WheatWikipedia.png)
+![Wikipedia page for wheat](assets/Wheat_Wikipedia.png)
 
 
 # Dictionary creation from wikipedia page
 The above wiki page contains words/terms coloured in blue. If we click on a term, we will be directed to the wikipedia page for that term.
    
-To do so, we issue the command `ami-dictionaries` with some options. The command is:
+To do so, we issue the command `ami-dictionary` with some options. The command is:
 ```
-ami-dictionaries create\
+ami-dictionary create\
  --input https://en.wikipedia.org/wiki/wheat\
  --informat wikipage\
  --dictionary wheat_wikipage \
@@ -19,7 +19,7 @@ ami-dictionaries create\
 ```
 Or we can issue the above command in one line as:
 ```
-ami-dictionaries create --hreftext --input https://en.wikipedia.org/wiki/Wheat --informat wikipage --dictionary wheat_wikipage --outformats xml,json,html --directory /home/cbl/Desktop/AMI/Workshop/wheat/dictionary
+ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Wheat --informat wikipage --dictionary wheat_wikipage --outformats xml,json,html --directory /home/cbl/Desktop/AMI/Workshop/wheat/dictionary
 ```
 
 
@@ -54,11 +54,11 @@ The first two terms are not at all relevant, so we remove the below correspondin
 
 The wikipedia category page for wheat is at [https://en.wikipedia.org/wiki/Category:Wheat](https://en.wikipedia.org/wiki/Category:Wheat). And it looks as below:
 
-![wheat_wikipedia_category_page](https://github.com/petermr/tigr2ess/blob/master/crops/wheat/wheat_wikicategory_page.png).
+![wheat_wikipedia_category_page](assets/wheat_wikicategory_page.png)
 
 We issue the following command at the terminal:
 ```
-ami-dictionaries create\
+ami-dictionary create\
      --input  https://en.wikipedia.org/wiki/Category:Wheat \
      --informat  wikipage \`(we are giving wikipage as informat because if we use wikicategory as informat it gives an error and create only html output)`
      --dictionary wheat_category\
@@ -68,7 +68,7 @@ ami-dictionaries create\
 
 Or in one line as the following:
 ```
-ami-dictionaries create --hreftext --input https://en.wikipedia.org/wiki/Category:Wheat --informat wikipage --dictionary wheat_category --outformats  xml,json,html --directory  /home/cbl/Desktop/AMI/Workshop/wheat/dictionary
+ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Category:Wheat --informat wikipage --dictionary wheat_category --outformats  xml,json,html --directory  /home/cbl/Desktop/AMI/Workshop/wheat/dictionary
 ```
    
 
@@ -80,13 +80,11 @@ termCol       null
 terms         null
 0    [main] DEBUG org.contentmine.ami.lookups.WikipediaDictionary  - failed to find header
 >CM.wheat_category.0>CM.wheat_category.1>CM.wheat_category.2>CM.wheat_category.3>CM.wheat_category.4>CM.wheat_category.5>CM.wheat_category.6>CM.wheat_category.7>CM.wheat_category.8>CM.wheat_category.9>CM.wheat_category.10>CM.wheat_category.11>CM.wheat_category.12>CM.wheat_category.13>CM.wheat_category.14>CM.wheat_category.15>CM.wheat_category.16>CM.wheat_category.17>CM.wheat_category.1850   [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - skipped non-wikipedia link: [nu.xom.Attribute: url="//www.mediawiki.org/wiki/Special:My..."]
->CM.wheat_category.19>CM.wheat_category.20>CM.wheat_category.21>CM.wheat_category.22>CM.wheat_category.23>CM.wheat_category.24>CM.wheat_category.25>CM.wheat_category.26>CM.wheat_category.27>CM.wheat_category.28>CM.wheat_category.29>CM.wheat_category.30>CM.wheat_category.31>CM.wheat_category.32>CM.wheat_category.33>CM.wheat_category.34>CM.wheat_category.35>CM.wheat_category.36>CM.wheat_category.37>CM.wheat_category.38>CM.wheat_category.39>CM.wheat_category.40>CM.wheat_category.41>CM.wheat_category.42>CM.wheat_category.43>CM.wheat_category.44>CM.wheat_category.45>CM.wheat_category.46>CM.wheat_category.47>CM.wheat_category.48>CM.wheat_category.49>CM.wheat_category.50>CM.wheat_category.51>CM.wheat_category.5251   [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - skipped non-wikipedia link: [nu.xom.Attribute: url="https://commons.wikimedia.org/wiki/..."]
->CM.wheat_category.53>CM.wheat_category.54>CM.wheat_category.55>CM.wheat_category.56>CM.wheat_category.57>CM.wheat_category.58>CM.wheat_category.59>CM.wheat_category.60>CM.wheat_category.61>CM.wheat_category.62>CM.wheat_category.63>CM.wheat_category.64>CM.wheat_category.65>CM.wheat_category.66>CM.wheat_category.67>CM.wheat_category.68>CM.wheat_category.69>CM.wheat_category.70>CM.wheat_category.71>CM.wheat_category.72>CM.wheat_category.73>CM.wheat_category.74>CM.wheat_category.75>CM.wheat_category.7652   [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - writing to /home/cbl/ContentMine/dictionary/dictionaries/wheat_category.xml
+>CM.wheat_category.19>CM.wheat_category.20>CM.wheat_category.21>CM.wheat_category.22>CM.wheat_category.23>CM.wheat_category.24>CM.wheat_category.25>CM.wheat_category.26>CM.wheat_category.27>CM.wheat_category.28>CM.wheat_category.29>CM.wheat_category.30>CM.wheat_category.31>CM.wheat_category.32>CM.wheat_category.33>CM.wheat_category.34>CM.wheat_category.35>CM.wheat_category.36>CM.wheat_category.37>CM.wheat_category.38>CM.wheat_category.39>CM.wheat_category.40>CM.wheat_category.41>CM.wheat_category.42>CM.wheat_category.43>CM.wheat_category.44>CM.wheat_category.45>CM.wheat_category.46>CM.wheat_category.47>CM.wheat_category.48>CM.wheat_category.49>CM.wheat_category.50>CM.wheat_category.51>CM.wheat_category.5251
 52   [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - writing dictionary to /home/cbl/ContentMine/dictionary/dictionaries/wheat_category.xml
 54   [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - writing to /home/cbl/ContentMine/dictionary/dictionaries/wheat_category.json
 54   [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - writing dictionary to /home/cbl/ContentMine/dictionary/dictionaries/wheat_category.json
 102  [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - writing to /home/cbl/ContentMine/dictionary/dictionaries/wheat_category.html
-102  [main] DEBUG org.contentmine.ami.tools.AMIDictionaryTool  - writing dictionary to /home/cbl/ContentMine/dictionary/dictionaries/wheat_category.html
 +++++++++++++++++++++++++++++++++++++++++
 ``` 
 
