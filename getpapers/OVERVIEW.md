@@ -7,7 +7,7 @@ This will help you nevigate through the directory contents.
 
 ## tutorial material
 
-[TUTORIAL](/TUTORIAL.md)
+[TUTORIAL](TUTORIAL.md)
 
 ## files in directory
 
