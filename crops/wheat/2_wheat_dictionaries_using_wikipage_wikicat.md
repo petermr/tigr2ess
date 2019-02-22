@@ -2,7 +2,7 @@
 
 Let's search for 'wheat' on the web. In the search results, we get the following wikipedia page:
 
-![Wikipedia page for wheat](assets/Wheat_Wikipedia.png)
+![Wikipedia page for wheat](assets/Wheat - Wikipedia.png)
 
 
 # Dictionary creation from wikipedia page
