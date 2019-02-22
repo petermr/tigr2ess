@@ -11,6 +11,10 @@ To search and analyse a local corpus of scientific publications using `AMISearch
 * local ContentMine format dictionaries created by previous `ami-dictionary` or pre-loaded.
 
 ## Instructions
+### Ocimum corpus
+You should start with a corpus of 200 XML articles for *Ocimum sanctum*. You should have created this under the [getpapers](../getpapers/) tutorial but if not there is a corpus here called `ocimum200`. We have also created a copy of this [ocimum](./ocimum) which you can recopy to `ocimum200` if anything goes wrong.
+
+
 
 Work in the current `tigr2ess` directory. This will *modify* your `osanctum200` files.
 ```
@@ -18,11 +22,17 @@ cd <myworkspace>/tigr2ess
 ```
 check this contains `osanctum200`.
 
-## workflow
+### backup (only if required)
+```
+cd <myworkspace>/tigr2ess
+cp -R ocimum/ ocimum200/
+```
 
-* Start with the "country" dictionary which is bundled in the software. This is a simple lookup against Wikipedia's list of countries.
-* Move to `species` which is a syntax-driven search.
-* use a local dictionary (`ocimum`) for personal search.
+## workflow steps
+
+* Start with the `country` dictionary which is bundled in the software. This is a simple lookup against Wikipedia's list of countries.
+* Then use `species` which is a syntax-driven search.
+* Then use a local dictionary (`ocimum`) for personal search.
 
 
 ### COMMAND1 Country
