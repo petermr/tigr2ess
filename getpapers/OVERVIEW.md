@@ -7,7 +7,7 @@ This will help you nevigate through the directory contents.
 
 ## tutorial material
 
-[TUTORIAL](https://github.com/petermr/tigr2ess/blob/master/getpapers/getpapers.md)
+[TUTORIAL](/TUTORIAL.md)
 
 ## files in directory
 
