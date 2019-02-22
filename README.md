@@ -7,7 +7,9 @@ Authors Include:
 * Peter Murray-Rust (Cambridge)
 * Gita Yadav (NIPGR and Cambridge)
 * Ambarish Kumar (NIPGR, New Delhi)
-[fill in your name   .]
+* Amit Yadav
+* Vinita Lamba
+
 
 ## materials
 The workshop will use Open Source tools and materials described in [materials](materials.md)
