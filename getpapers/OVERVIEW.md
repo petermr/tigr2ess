@@ -1,9 +1,9 @@
-# OVERVIEW file in each directory
+# getpapers
 
 * Documenter/maintainer - Ambarish Kumar (er.ambarish@nipgr.ac.in; ambari73_sit@jnu.ac.in)*
 
-## purpose of directory 
-This will help you nevigate through the directory contents.
+## purpose
+getpapers tool for automatic downloading of papers.
 
 ## tutorial material
 
