@@ -161,7 +161,7 @@
   
   
   
-  # NOTE: Use Operators (AND , OR , NOT) While using Synonyms.
+  * NOTE: Use Operators (AND , OR , NOT) While using Synonyms.
   
   
   
