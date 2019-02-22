@@ -15,6 +15,6 @@
 
 
 ## other resources
-[getpapers](1_getpapers_retrival_wheat.md)
-[dictionaries from wikipedia](2_wheat_dictionaries_using_wikipage_wikicat.md)
-[AMI search and cooccurrence](3_ami_cooccur_search_dictionaries.md)
+* [getpapers](1_getpapers_retrival_wheat.md)
+* [dictionaries from wikipedia](2_wheat_dictionaries_using_wikipage_wikicat.md)
+* [AMI search and cooccurrence](3_ami_cooccur_search_dictionaries.md)
