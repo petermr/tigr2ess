@@ -208,7 +208,49 @@ The entry for `pineol` is not a chemical compound! That's because I mistyped `ci
 
 **This is a warning to check everything! Don't trust Wikidata blindly. Or anything else!**
 
-### 2. Creating from Wikipedia pages
+
+### 2. Creating from Wikipedia lists.
+
+Many Wikipedia pages have lists of links to related pages. There are 3 main types:
+* Pages with HTML lists (typically for genus, with species children)
+* Pages with a table of links.
+* Categories
+
+## Html lists
+Many pages, especialy for a *genus* of plants, contain a list of related items, here *species*. E.g.
+
+![Ocimum page](./ocimumgenus.png)
+
+This has a number of active Wikpedia links (blue) and rather more red links (no Wikipedis pages (yet)). A useful dictionary can be created
+in the same way as (2) above:
+
+### COMMAND2
+---
+```
+ami-dictionary create --informat wikipage --input https://en.wikipedia.org/wiki/Ocimum --dictionary ocimum--directory mydictionaries --outformats xml,html
+```
+---
+
+## List_of_foo
+There are many Wikipedia pages with titles "List_of", which are excellent for dictionaries. They normally contain (HTML) tables, such as
+https://en.wikipedia.org/wiki/List_of_Indian_spices .
+
+![Indian spice table](./indianspices.png)
+
+### 3. Creating from Wikipedia Categories
+
+Wikipedia frequently has `Category` pages with lists of links to similar pages. See https://en.wikipedia.org/wiki/Category:Oryza (rice) as an example:
+
+### COMMAND3
+---
+```
+ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Oryza --informat wikicategory --dictionary Oryza_category --outformats xml,json,html --directory Dictionary/
+```
+---
+
+### 4. Creating from Wikipedia pages
+(This is a possible approach but creates a lot of noise).
+
 
 This is a simple brute-force way of extracting links from Wikipedia. We are interested in **links to other Wikipedia pages**. In some cases this adds valuable similar terms; in other cases it's mainly noise. You will certainly need to edit the result. Trying "holy basil"...
 
@@ -270,36 +312,6 @@ The created dictionary has 80 entries and we have annotated probable FPs (you ma
  FP*<entry term="Central University of Punjab" url="/wiki/Central_University_of_Punjab" wikidata="Q5061963" name="‎Central University of Punjab‎" description="University in Bathinda, Punjab, India" id="CM.otenuiflorum.10" wikipedia="Central_University_of_Punjab"/>
 
 ```
-
-### 3. Creating from Wikipedia lists.
-
-Many Wikipedia pages have lists of links to related pages. There are 3 main types:
-* Pages with HTML lists (typically for genus, with species children)
-* Pages with a table of links.
-* Categories
-
-## Html lists
-Many pages, especialy for a *genus* of plants, contain a list of related items, here *species*. E.g.
-
-![Ocimum page](./ocimumgenus.png)
-
-This has a number of active Wikpedia links (blue) and rather more red links (no Wikipedis pages (yet)). A useful dictionary can be created
-in the same way as (2) above:
-
-### COMMAND2
----
-```
-ami-dictionary create --informat wikipage --input https://en.wikipedia.org/wiki/Ocimum --dictionary ocimum--directory mydictionaries --outformats xml,html
-```
----
-
-## List_of_foo
-There are many Wikipedia pages with titles "List_of", which are excellent for dictionaries. They normally contain (HTML) tables, such as
-https://en.wikipedia.org/wiki/List_of_Indian_spices .
-
-![Indian spice table](./indianspices.png)
-
-
 
 
 
