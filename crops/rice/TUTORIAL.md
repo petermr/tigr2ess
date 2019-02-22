@@ -1,7 +1,5 @@
 # TUTORIAL
 
-
-
 ## Purpose of Tutorial
 
 This will help you into scientific articles download using getpapers and performing search with the help of ami-search-new tool/plugin of ami-jars. 
@@ -10,7 +8,8 @@ This will help you into scientific articles download using getpapers and perform
 
 * getpapers - [Downloads and installation](http://github.com/contentmine/getpapers)
 * ami-search-new - [Downloads and installation](https://github.com/petermr/normami/blob/master/INSTALL.md)
-* dictionary - built-in dictionaries as well as local [rice dictionary](https://github.com/petermr/tigr2ess/tree/master/crops/rice/rice.xml).
+* dictionary - built-in dictionaries as well as local 
+[rice dictionary](https://github.com/petermr/tigr2ess/blob/master/crops/rice/Rice.xml)
 
 ## Instructions
 
