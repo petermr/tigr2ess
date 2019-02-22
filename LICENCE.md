@@ -2,7 +2,7 @@
 
 This material consists of:
 * data downloaded from EuropePMC and offered as CC BY. 
-* documentation written by Ambarish Kumar, Ami Yadav, Gita Yadav, Peter Murray-Rust and Vinita Lamba and licensed as CC BY.
+* documentation written by Ambarish Kumar, Amit Yadav, Gita Yadav, Peter Murray-Rust and Vinita Lamba and licensed as CC BY.
 
 Version: https://creativecommons.org/licenses/by/4.0/.
 
