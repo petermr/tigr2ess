@@ -14,7 +14,7 @@ The dictionary is created from the Wikipedia page on Wheat https://en.wikipedia.
 
 `ami-dictionary` was run on the Wikipedia page https://en.wikipedia.org/wiki/Wheat
 ```
-ami-dictionaries create\
+ami-dictionary create\
  --hreftext \
  --input https://en.wikipedia.org/wiki/Wheat\
  --informat wikipage\
