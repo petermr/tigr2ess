@@ -38,19 +38,19 @@ Command-line syntax:
 ### Description of operations and options used into the command-line.
 
 ```
-* ami-dictionary - tool name for the dictionary creation.
+ ami-dictionary - tool name for the dictionary creation.
 
-* create - operation for creating dictionary.
+ create - operation for creating dictionary.
 
-* --input - option to pass-on the Wikipedia link from which web-links will be fetched and dictionary will be created.
+ --input - option to pass-on the Wikipedia link from which web-links will be fetched and dictionary will be created.
 
-* --informat - option to pass-on option for input format which will be based on content of the Wikipedia page e.g - wikipage, wikilist, wikitable etc.
+ --informat - option to pass-on option for input format which will be based on content of the Wikipedia page e.g - wikipage, wikilist, wikitable etc.
 
-* --dictionary - option to pass-on the base name of the dictionary file.
+ --dictionary - option to pass-on the base name of the dictionary file.
 
-* --outformats - option to pass on the output file format for the dictionary files e.g - xml, json or html.
+ --outformats - option to pass on the output file format for the dictionary files e.g - xml, json or html.
 
-* --directory - option to pass on the name of the directory containing dictionary files.
+ --directory - option to pass on the name of the directory containing dictionary files.
 
 ```
 ### Running example of ami-dictionary for dictionary creation.
