@@ -2,7 +2,7 @@
 
 ## Purpose of Tutorial
 
-Documentation over creation of dictionary files for rice varietis.
+Documentation over creation of dictionary files for rice varieties.
 
 ## Resources and software required
 
