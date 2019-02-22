@@ -51,7 +51,8 @@ For Day 06 of our workshop, you need to install `getpapers` and `ami`. Please cl
 
 We have an Etherpad (that anyone can read/write to at) https://public.etherpad-mozilla.org/p/tigr2ess . This lets you post questions and answers. (NOTE - this is publicly visible to the world).
 
+## Issues
+If you have a Github login you can post issues at:
+https://github.com/petermr/tigr2ess/issues
 
-
-```
 
