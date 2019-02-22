@@ -1,12 +1,14 @@
 # Initial search
 
-Let's search for 'wheat' on the web. In the search results, we get the following wikipedia page:
+**Let's search for 'wheat' on the web. In the search results, we get the following wikipedia page.**
 
-![Wikipedia page for wheat](assets/Wheat - Wikipedia.png)
+The wikipedia page for wheat is at [https://en.wikipedia.org/wiki/Wheat](https://en.wikipedia.org/wiki/Wheat). And it looks as below:
+
+![Wikipedia page for wheat](assets/wheat_wikipedia.png)
 
 
-# Dictionary creation from wikipedia page
-The above wiki page contains words/terms coloured in blue. If we click on a term, we will be directed to the wikipedia page for that term.
+# Dictionary creation from wikipedia page.
+
    
 To do so, we issue the command `ami-dictionary` with some options. The command is:
 ```
@@ -23,38 +25,22 @@ ami-dictionary create --hreftext --input https://en.wikipedia.org/wiki/Wheat --i
 ```
 
 
-## Let's have a look at the three output files:
+## After this command we get Three Dictionaries created (.html , .json , .xml).
  
-### wheat_wikipage.xml
 
+**Lets look into json file (Easy in editing) , we can eliminate extra terms using any notepad(here i use `gedit`),i showed here that how can we find terms which are only belongs to wheat.I find a term`weetabix` which belongs to wheat thats why i do not remove it from json file .**
 
-1. The title of the dictionary is wheat_wikipage as specified by line no.2 `<dictionary title="wheat_wikipage">`
-2. The total number of terms is 416 with ids running from "CM.wheat_wikipage.0" to "CM.wheat_wikipage.416".
-3. The order in which terms are listed in the file is not same as they occur in the wikipedia page. Instead, they are sorted lexicographically.
-
-Let's edit out the terms not relevant to wheat. This is very much subjective.
-The first two terms are not at all relevant, so we remove the below corresponding lines from *wheat_wikipage.xml* file.
-```
-<entry term="21st century" name="21st century" url="/wiki/21st_century" id="CM.wheat_wikipage.0" wikipedia="21st_century"/>
-<entry term="Abu Hureyra" name="Abu Hureyra" url="/wiki/Abu_Hureyra" id="CM.wheat_wikipage.1" wikipedia="Abu_Hureyra"/>
-```
-
-### (edited version of .json file )
-
-
-**In json file we can eliminate extra terms using any notepad(here i use `gedit`),i showed here that how can we find terms which are only belongs to wheat.I find a term`weetabix` which belongs to wheat thats why i do not remove it from json file .**
-
-**Another example is `wheat(film)` (id="CM.Wheat_category.54") is not belong to wheat ,cereal(grain) so we have to rmove this one.** 
+**Another example is `wheat(film)` (id="CM.Wheat_category.54") is not belong to wheat , cereal(grain) so we have to rmove this one.** 
 
 ![wheat_weetabix_term](assets/weetabix_term.png)
 
  **let's move to other method for dictionary creation.**  
 
-# Dictionary creation from wikipedia category page:
+# Dictionary creation from `wikipedia category page`:
 
 The wikipedia category page for wheat is at [https://en.wikipedia.org/wiki/Category:Wheat](https://en.wikipedia.org/wiki/Category:Wheat). And it looks as below:
 
-![wheat_wikipedia_category_page](assets/wheat_wikicategory_page.png)
+![wheat_wikipedia_category_page](assets/wheat_wikicategory.png)
 
 We issue the following command at the terminal:
 ```
