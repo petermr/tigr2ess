@@ -2,8 +2,8 @@
 
 Using `getpapers`, we retrieved 100 papers for millets in xml format, and stored them in `millets_xml` directory.
 
-## ami-search-cooccur (on default ami dictionaries)
-We issue the command `ami-search-cooccur` to run search and co-occurence on `millets_xml` project with the dictionaries for `species`, `gene`, `plantparts`, `drugs` and `monoterpene`. The exact command entered at the terminal is:
+## ami-search-new (on default ami dictionaries)
+We issue the command `ami-search-new` to run search and co-occurence on `millets_xml` project with the dictionaries for `species`, `gene`, `plantparts`, `drugs` and `monoterpene`. The exact command entered at the terminal is:
 ```
 ami-search-cooccur millets_xml/ species gene plantparts drugs monoterpene
 ```
