@@ -162,7 +162,7 @@ PMC6296643/
 ├── word.frequencies.count.xml
 └── word.frequencies.snippets.xml
 ```
-The tree-like structure `search:country` reflects the dictionaries used. Not that `word` has its own tree structure. Other tree-tops are `species`, `gene` , `regex` . 
+The tree-like structure `search:country` reflects the dictionaries used. Note that `word` has its own tree structure. Other tree-tops are `species`, `gene` , `regex` . 
 
 ### scholarly html 
 This is an HTML file created automatically from the XML. It is the prime target for searching, etc. and the target "local" link.
