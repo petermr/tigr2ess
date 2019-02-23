@@ -1,20 +1,18 @@
 
 # Retrieving/Getting papers from eupmc using `getpapers`
 
-**WARN** Better to use the singular term "millet" which retrives more papers.
-
-Issuing the query `getpapers -q millets -n` results in 335 results. The output for this looks as the following:
+Issuing the query `getpapers -q millet -n` results in 4628 results. The output for this looks as the following:
 ```
 :~/Desktop/Workshop/Github/tigr2ess/millets$ getpapers -q millets -n
 info: Searching using eupmc API
 info: Running in no-execute mode, so nothing will be downloaded
-info: Found 335 open access results
+info: Found 4628 open access results
 warn: This version of getpapers wasn't built with this version of the EuPMC api in mind
 warn: getpapers EuPMCVersion: 5.3.2 vs. 6.0.3 reported by api
 ```
 
 
-Let's first download 100 papers in xml format in the `./millets_xml` directory by issuing the query `getpapers -q millets -x -k 100 --outdir millets_xml`. It looks following at the terminal:
+Let's first download 100 papers in xml format in the `./millets_xml` directory by issuing the query `getpapers -q millet -x -k 100 --outdir millets_xml`. It looks following at the terminal:
 ```
 :~/Desktop/Workshop/Github/tigr2ess/millets$ getpapers -q millets -x -k 100 --outdir millets_xml
 info: Searching using eupmc API
@@ -39,7 +37,7 @@ info: All downloads succeeded!
 **Time** taken for above query: ~15sec  
 **Size** of the millets_xml directory: ~15MB  
 
-Now, let's download the pdf format of the above 100 papers by issuing the command `getpapers -q millets -p -k 100 --outdir millets_pdf`.
+Now, let's download the pdf format of the above 100 papers by issuing the command `getpapers -q millet -p -k 100 --outdir millets_pdf`.
 ```
 :~/Desktop/Workshop/Github/tigr2ess/millets$ getpapers -q millets -p -k 100 --outdir millets_pdf
 info: Searching using eupmc API
