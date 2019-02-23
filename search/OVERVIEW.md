@@ -2,5 +2,5 @@
 
 ## Tutorial
 
-TUTORIAL](TUTORIAL.md)
+[TUTORIAL](TUTORIAL.md)
 
