@@ -27,8 +27,8 @@ Ans1.  Since the millet group contains a number of different species, we can't r
 Ques2.  Which are the most commonly studied parts of the plant?   
 Ans2.  Here, we can see that `seed` and `root` are the most studied.
 
-### cooccurence/binomial-binomial/cooccur.svg
-Ques1. Which two different species are most correlated i.e which two species terms occur together maximum number of times in our set of papers ? *Please correct if the question is incorrectly framed.*  
+### __cooccurence/binomial-binomial/cooccur.svg
+Ques1. Which two different species are most correlated i.e which two species terms occur together maximum number of times in our set of papers ?   
 Ans1. `Panicum miliace` and `Setaria Italica`. 
 
 
