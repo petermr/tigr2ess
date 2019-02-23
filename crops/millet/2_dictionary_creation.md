@@ -47,9 +47,7 @@ The first two terms are not at all relevant, so we remove the below correspondin
 There are too many false positive terms in *millets_wikipage.xml*, let's move to other method for dictionary creation.  
 
 # Dictionary creation from wikipedia category page
-The wikipedia category page for millets is at [https://en.wikipedia.org/wiki/Category:Millets](https://en.wikipedia.org/wiki/Category:Millets). And it looks as below:
-
-![millets_wikipedia_category_page](assets/millets_wikicategory_page.png).
+The wikipedia category page for millets is at [https://en.wikipedia.org/wiki/Category:Millets](https://en.wikipedia.org/wiki/Category:Millets). And it looks as below: ![millets_wikipedia_category_page](assets/millet_wikicategory_page.png)
 
 We issue the following command at the terminal:
 ---
