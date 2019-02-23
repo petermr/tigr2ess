@@ -30,7 +30,7 @@ ami-dictionaries create --input https://en.wikipedia.org/wiki/Millet --informat 
 **Time**: It took around 3.5 minutes for the execution of above command.  
 **Size**: The combined size of the three output files (which are *millets_wikipage.html*, *millets_wikipage.json* and *millets_wikipage.xml*) is ~200KB
 
-## Let's have a look at the three output files:
+## Let's have a look at the output files:
  
 ### millets_wikipage.xml
 1. The title of the dictionary is millets_wikipage as specified by line no.2 `<dictionary title="millets_wikipage">`
@@ -69,7 +69,7 @@ ami-dictionary create --input https://en.wikipedia.org/wiki/Category:Millets --i
 **Time**: The above took ~25sec.    
 **Size**: The total size of three output files is ~35KB.      
 
-## Let's look at the three output files
+## Let's look at output files
 ### millets_category.html
 We can visually inspect the terms collected, and go to the linked webpages to see more about them.
 
