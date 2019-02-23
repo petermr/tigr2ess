@@ -1,7 +1,5 @@
 # ami analysis for Millet
 
-**WARN** repeat using singular "millet" to get more hits.
-
 Using `getpapers`, we retrieved 100 papers for millets in xml format, and stored them in `millets_xml` directory.
 
 ## ami-search-cooccur (on default ami dictionaries)
@@ -17,9 +15,9 @@ The output on the terminal is huge. The above command creats a number of files i
 ### commonest.dataTables.html
 The file looks as below:
 
-![commonest.dataTables.html](./commonest_dataTables.png)
+![commonest.dataTables.html](assets/commonest_dataTables.png)
 
-The first column of the table contains PMC id's for the papers. The columns represent the dictionares. Each cell in the table contains the most common term present in a paper for a particular dictionary, and for some dictionaries the count for the commonest term is also prsent. **Confirmation_required_on_previous_line**
+The first column of the table contains PMC id's for the papers. The columns represent the dictionares. Each cell in the table contains the most common term present in a paper for a particular dictionary, and for some dictionaries the count for the commonest term is also prsent. 
 
 Let's try to answer a few questions based on the above table:
 
@@ -31,13 +29,7 @@ Ans2.  Here, we can see that `seed` and `root` are the most studied.
 
 ### cooccurence/binomial-binomial/cooccur.svg
 Ques1. Which two different species are most correlated i.e which two species terms occur together maximum number of times in our set of papers ? *Please correct if the question is incorrectly framed.*  
-Ans1. `Panicum miliace` and `Setaria Italica`. Some expert might tell how they are related. *Please check the answer as well*
-
-More to be added.....
-
-## ami-search-cooccur (using the newly created dictionary)
-......
-
+Ans1. `Panicum miliace` and `Setaria Italica`. 
 
 
 
