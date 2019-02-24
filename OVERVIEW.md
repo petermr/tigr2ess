@@ -4,11 +4,11 @@ A 1-day hands-on workshop to explore how new knowledge in Plant Sciences can be 
 
 ## Overview
 The literature contains millions of articles and reports with detailed knowledge about plants. You will 
- * search EuropePMC which contains Open Access articles
- * download them automatically
- * transform them into semantic form
- * search them with multiple dictionaries
- * analyze the results
+ * search EuropePMC which contains Open Access articles.
+ * download them automatically (`getpapers` from ContentMine).
+ * transform them into semantic form (`AMI` from ContentMine)
+ * search them with multiple dictionaries (created from `Wikipedia`)
+ * analyze the results (`AMI`)
  
 ## Style
 All activities are hands-on. Some is online, but the much of the work is on your own machine. We have created a copy (memory stick) of the software, documentation, dictionaries and corpora so you can do most of the tasks offline. Everything is also is on http://github.com/petermr/tigr2ess.
