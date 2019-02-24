@@ -4,10 +4,15 @@ A full day work shop to introduce TIGR2ESS delegates to the principles and pract
 research.
 
 *Note: all materials in dictionaries and code use only characters 32-127 ("ANSI"). Much software, e.g. browsers, is unable to render higher code points reliably. We appreciate that this does not do justice to names, places and words from non-anglophone cultures.*
-**NOTE: This is/will be considerably revised after discussions on 2019-02-08**
+
 
 ## Overview
 Throughout this we shall use *Ocimum sanctum* (Holy Basil) as the primary example. Tutorial material has been generated for most steps using *O. sanctum*.
+
+### [Resources](resources.md)
+The material should be located on `$HOME/Desktop/`, e.g. `$HOME/Desktop/ContentMine/`.
+For most work the "starting directory" is `ContentMine/tigr2ess` (aka "TIGR2ESS_HOME"). You may also need `ContentMine/software` and `ContentMine/dictionaries`.
+
 
 ### background
 The scientific/medical literature generates thousands of articles per day, and is continuing to increase. This workshop uses a subset, 

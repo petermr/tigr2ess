@@ -112,8 +112,28 @@ AMI has run several searches on the corpus (say 200 articles). Each article is a
 
 Other files will be explained later
 
+### dictionaries
+See [dictionary](OVERVIEW.md) for a full list of builtin dictionaries. Here is a limited list of ones you might find useful:
+
+## common dictionaries
+* country 
+* disease (human)
+* diterpene
+* drugs (pharmaceutical)
+* elements (chemical)
+* funders (11K+ from Crossref
+* insecticide
+* invasive (species)
+* monoterpene 
+* plantparts
+* sesquiterpene
+* solvents
+* wetlands
+* wildlife
 
 ### COMMAND2
+
+
 - Issue the following command (or copy-paste):    
 `ami-search-new -p ./ami20190219b/osanctum200/ --dictionary plantparts`    
 *Expected Time*: 1.5min  

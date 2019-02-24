@@ -2,9 +2,9 @@
 
 *Ambarish Kumar*
 
-## purpose of directory 
-
-This will help you to navigate through the directory contents.
+## overview
+* AMI has many [builtin dictionaries](builtindictionaries.md)
+* The tutorial concentrates on building your own.
 
 ## tutorial material
 

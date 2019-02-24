@@ -25,15 +25,16 @@ may change as we add resources.*
 
 ### morning (M)
 
-* [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
 * [epmcSearches](epmcSearches/OVERVIEW.md) Searching EuropePMC (M)
 * [getpapers](getpapers/OVERVIEW.md) Downloading papers (M)
 * [wikimedia](wikimedia/OVERVIEW.md)
-* [osanctum-backup](osanctum/) corpus of 200 Ocimum sanctum papers (M)
-* [osanctum200](osanctum200/) working version of `osanctum` resource (M)
-* [search](search/OVERVIEW.md)
-*
+* [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
 * [*O. sanctum* corpus](CORPUS.md)
+1. [osanctum-backup](osanctum-backup/) raw corpus of 200 Ocimum sanctum papers (M)
+2. [osanctum200](osanctum200/) working version of `osanctum` resource (M)
+3. [osanctum-searched](osanctum-searched/) final (reference) version of `osanctum` resource (M)
+* [search](search/OVERVIEW.md)
+
 
 ### afternoon (A)
 * [crops](crops/OVERVIEW.md) Millet, Rice, Wheat (A)

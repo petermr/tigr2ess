@@ -4,11 +4,11 @@ A 1-day hands-on workshop to explore how new knowledge in Plant Sciences can be 
 
 ## Overview
 The literature contains millions of articles and reports with detailed knowledge about plants. You will 
- * search EuropePMC which contains Open Access articles
- * download them automatically
- * transform them into semantic form
- * search them with multiple dictionaries
- * analyze the results
+ * search EuropePMC which contains Open Access articles.
+ * download them automatically (`getpapers` from ContentMine).
+ * transform them into semantic form (`AMI` from ContentMine)
+ * search them with multiple dictionaries (created from `Wikipedia`)
+ * analyze the results (`AMI`)
  
 ## Style
 All activities are hands-on. Some is online, but the much of the work is on your own machine. We have created a copy (memory stick) of the software, documentation, dictionaries and corpora so you can do most of the tasks offline. Everything is also is on http://github.com/petermr/tigr2ess.
@@ -24,6 +24,8 @@ Team:
 * Vinita Lamba (NIPGR)
 
 Ambarish, Amit and Vinita have all worked very hard to make this workshop work.
+
+## [Program](PROGRAM.md)
 
 ### morning
 These are the modules with owners 
@@ -43,6 +45,6 @@ Using the model of *Ocimum* choose your own plant (e.g. Millet, Rice, Wheat) to 
 ## directories 
 [List of directories/resources](resources.md) in `tigr2ess` distribution and at http://github.com/petermr/tigr2ess. We shall refer to these throught the day. The definitive version will always be Github. Read the following to find where the resources are.
 
-[ContentMine Directories in tigr2ess](DIRECTORIES.md)
+[ContentMine Directories in tigr2ess](DIRECTORIES.md).
 
 
