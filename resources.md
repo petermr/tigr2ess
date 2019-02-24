@@ -44,12 +44,4 @@ may change as we add resources.*
 * [mydictionaries](mydictionaries/OVERVIEW.md)
 * [scratch](scratch/OVERVIEW.md)
 
-## other resources
-*These may change*
-
-* Agenda_roles_and_responsibilities_schedule
-* [Agenda_roles_and_responsibilities_schedule.txt](Agenda_roles_and_responsibilities_schedule.txt)
-* [ami.md](ami.md)
-* [gettingStarted.md](gettingStarted.md)
-* [program](program/OVERVIEW.md)
 
