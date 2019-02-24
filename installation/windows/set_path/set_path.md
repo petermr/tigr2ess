@@ -1,4 +1,5 @@
-Please follow the below steps for setting `path` variable. 
+Please follow the below steps for setting `path` variable.
+**IMPORTANT** The screenshots below are taken for **Windows10**. It would look similar on other Windows versions.
 
 **STEP1:** Go to the Search box and type `environment`. You should see the below screen. 
 
