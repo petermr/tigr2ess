@@ -1,14 +1,13 @@
 # Wikidata
-** under construction**
 
 Wikipedia contains a huge amount of semi-structured information but not organized in a way where it's computable. In 2012 
 Wikimedia launched `Wikidata` (https://en.wikipedia.org/wiki/wikidata) to support formalised computable knowledge.
 
-*This is not a formal treatment - see the link above*
+*This is a simple treatment - see the link above for in-depth description*
 
 Wikidata defines **Items**. An item is any object which can be precisely identified and given a permanent unique identifier. Thus *Ocimum tenuiflorum* has the unique ID Q960124. Every Wikidata `item` (over 50 million) has a Wikidata page, e.g.
 https://www.wikidata.org/wiki/Q960124. Note that unlike Wikipedia pages , Wikidata pages are **language-independent**. The page is large; here's the start
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wd_otenuiflorum.png)
+![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/assets/wd_otenuiflorum.png)
 
 ## wikidata page
 
@@ -75,9 +74,11 @@ Wikidata has collected a huge number of identifier systems; at least 25 for plan
 * Invasive species https://www.cabi.org/isc/datasheet/110287 large list of distribution,tolerance, etc.
 * FloraBase (Western Australia): https://florabase.dpaw.wa.gov.au/search/current/13969 "O. tenuiflorum" is not current!
 
-## Other wikipediaa and commons
-**This is the best place to find non-Englilsh Wikipedias** 
+## Other wikipedia and commons
+**This is the best place to find non-English Wikipedias** 
 ![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wd_otherwp.png)
+
+
 
 
 
