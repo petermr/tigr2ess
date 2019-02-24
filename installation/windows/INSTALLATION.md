@@ -60,5 +60,4 @@ Open the command prompt and execute `ami-pdf`. Your screen should look as below:
 ![ami-pdf](ami-pdf.png)
 
 ## Issues
-
-Steps for setting environment PATH variable may slightly differ from one platform to another. Always try to locate systems setting followed by advanced system settings. Always try to keep the value of environment variable - PATH as short as possible. Else there may be error running the tools/plugins. I extracted jars and placed all contents - bin/, repo/, dependencies into C:/ directory and then exported the PATH for C:/bin 
+In **Step2**, the steps for setting `path` are slightly different on different Windows systems.
