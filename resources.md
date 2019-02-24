@@ -18,10 +18,9 @@ may change as we add resources.*
 ### pre-workshop
 *Installation*
 
-* [installation](installation/overview.md) Installation (Pre or M)
+* [installation](installation/INSTALLATION.md) Installation (Pre or M)
 
 ### morning
-
 
 * [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
 * [epmcSearches](epmcSearches/OVERVIEW.md) Searching EuropePMC (M)
@@ -30,6 +29,8 @@ may change as we add resources.*
 * [osanctum-backup](osanctum/) corpus of 200 Ocimum sanctum papers (M)
 * [osanctum200](osanctum200/) working version of `osanctum` resource (M)
 * [search](search/OVERVIEW.md)
+*
+* [*O. sanctum* corpus](CORPUS.md)
 
 ### afternoon
 * [crops](crops/OVERVIEW.md) Millet, Rice, Wheat (A)
