@@ -27,7 +27,7 @@ Make sure you have sudo (admin) rights on your machine.
 ### Check Installation of Node: 
 
    - Open a Terminal and type <code> node</code>
-   - If all is good, you will get a cursor within the newy Launched Node, as shown below.
+   - If all is good, you will get a cursor within the newly Launched Node, as shown below.
         
         <img src=/installation/mac/node1.png>
    - Exit Node by typing <code>.exit</code> at the cursor, as shown above.
