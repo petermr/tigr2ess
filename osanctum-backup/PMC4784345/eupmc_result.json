@@ -1,0 +1,482 @@
+{
+  "id": [
+    "26955811"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26955811"
+  ],
+  "pmcid": [
+    "PMC4784345"
+  ],
+  "doi": [
+    "10.1186/s12864-016-2507-7"
+  ],
+  "title": [
+    "De novo assembly and analysis of the transcriptome of Ocimum americanum var. pilosum under cold stress."
+  ],
+  "authorString": [
+    "Zhan X, Yang L, Wang D, Zhu JK, Lang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhan X"
+          ],
+          "firstName": [
+            "Xiangqiang"
+          ],
+          "lastName": [
+            "Zhan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shanghai Center for Plant Stress Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Lan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Shanghai Center for Plant Stress Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4278-2728",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai Center for Plant Stress Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu JK"
+          ],
+          "firstName": [
+            "Jian Kang"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "affiliation": [
+            "Department of Horticulture and Landscape Architecture, Purdue University, West Lafayette, IN, 47907, USA. jkzhu@purdue.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lang Z"
+          ],
+          "firstName": [
+            "Zhaobo"
+          ],
+          "lastName": [
+            "Lang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Horticulture and Landscape Architecture, Purdue University, West Lafayette, IN, 47907, USA. zblang@sibs.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4278-2728",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2477311"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "209"
+  ],
+  "abstractText": [
+    "Ocimum americanum var. pilosum is a chilling-sensitive, widely distributed plant that is consumed as a vegetable in central and southern China. To increase our understanding of cold stress responses in this species, we performed de novo transcriptome assembly for O. americanum var. pilosum and compared the transcriptomes of plants grown under normal and low temperatures.A total of 115,022,842 high quality, clean reads were obtained from four libraries (two replicates of control samples and two replicates of chilling-treated samples) and were used to perform de novo transcriptome assembly. After isoforms were considered, 42,816 unigenes were generated, 30,748 of which were similar to known proteins as determined by a BLASTx search (E-value < =1.0E-05) against NCBI non-redundant, Swiss-Prot, Gene Ontology, KEGG, and Cluster of COG databases. Comparative analysis of transcriptomes revealed that 5179 unigenes were differentially expressed (with at least 2-fold changes, FDR < 0.01) in chilling-treated samples, and that 2344 and 2835 unigenes were up- and down-regulated by chilling stress, respectively. Expression of the 10 most up-regulated and the five most down-regulated unigenes was validated by qRT-PCR. To increase our understanding of these differentially expressed unigenes, we performed Gene ontology and KEGG pathway enrichment analyses. The CBF-mediated transcriptional cascade, a well-known cold tolerance pathway, was reconstructed using our de novo assembled transcriptome.Our study has generated a genome-wide transcript profile of O. americanum var. pilosum and a de novo assembled transcriptome, which can be used to characterize genes related to diverse biological processes. This is the first study to assess the cold-responsive transcriptome in an Ocimum species. Our results suggest that cold temperature significantly affects genes related to protein translation and cellular metabolism in this chilling sensitive species. Although most of the CBF pathway genes have orthologs in O. americanum var. pilosum, none of the identified cold responsive (COR) gene orthologs was induced by cold, which is consistent with the lack of cold tolerance in this plant."
+  ],
+  "affiliation": [
+    "Shanghai Center for Plant Stress Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200032, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ocimum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cold Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cold-Shock Response"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Plant"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4784345?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4784345"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-016-2507-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-31"
+  ],
+  "dateOfCreation": [
+    "2016-03-09"
+  ],
+  "dateOfRevision": [
+    "2017-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-09"
+  ],
+  "firstPublicationDate": [
+    "2016-03-09"
+  ]
+}

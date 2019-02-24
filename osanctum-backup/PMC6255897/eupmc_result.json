@@ -1,0 +1,275 @@
+{
+  "id": [
+    "30515379"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30515379"
+  ],
+  "pmcid": [
+    "PMC6255897"
+  ],
+  "doi": [
+    "10.3389/fchem.2018.00564"
+  ],
+  "title": [
+    "GPU Accelerated Quantum Virtual Screening: Application for the Natural Inhibitors of New Dehli Metalloprotein (NDM-1). "
+  ],
+  "authorString": [
+    "Shi M, Xu D, Zeng J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi M"
+          ],
+          "firstName": [
+            "Mingsong"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Chemistry, Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu D"
+          ],
+          "firstName": [
+            "Dingguo"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "College of Chemistry, Sichuan University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "MedChemSoft Solutions, Wheelers Hill, VIC, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2651544"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Front Chem"
+          ],
+          "medlineAbbreviation": [
+            "Front Chem"
+          ],
+          "NLMid": [
+            "101627988"
+          ],
+          "ISSN": [
+            "2296-2646"
+          ],
+          "ESSN": [
+            "2296-2646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "564"
+  ],
+  "abstractText": [
+    "Quantum mechanical approaches for the massive computation on large biological system such as virtual screening in drug design and development have presented a challenge to computational chemists for many years. In this study, we demonstrated that by taking advantage of rapid growth of GPU-based hardware and software (i.e., teraChem), it is feasible to perform virtual screening of a refined chemical library at quantum mechanical level in order to identify the lead compounds with improved accuracy, especially for the drug targets such as metalloproteins in which significant charge transfer and polarization occur amongst the metal ions and their coordinated amino acids. Our calculations predicted four nature compounds (i.e., Curcumin, Catechin, menthol, and Ferulic acid) as the suitable inhibitors for antibiotics resistance against New Delhi Metallo-β-lactamase-1 (NDM-1). Molecular orbitals (MOs) of the QM region of metal ions and their coordinated residues indicate that the bridged hydroxide ion delocalized the electron over the Zn-OH-Zn group at HOMO, different from MOs when the OH- is not presented in NDM-1. This indicates that the bridged hydroxide ion plays an important role in the design of antibiotics and other inhibitors targeting the metalloproteins."
+  ],
+  "affiliation": [
+    "College of Chemistry, Sichuan University, Chengdu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6255897?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6255897"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fchem.2018.00564"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-06"
+  ],
+  "dateOfRevision": [
+    "2018-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}
