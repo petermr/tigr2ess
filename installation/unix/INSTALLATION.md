@@ -61,6 +61,16 @@ Also, please follow the following instruction for installing latest JDK
 - Open a Terminal and type <code>java -version</code>	
 - Make sure you have the latest version (At the time of writing: We have 1.8_201)
 
-#### Step2: Set path
+**Step3: Set path**
 
-Please follow this step after you have got the `ami` software in the pendrive. This step will be updated.
+Please follow the steps at https://github.com/petermr/tigr2ess/blob/master/installation/unix/set_path/set_path.md
+
+**Step4**
+
+Copy the ContentMine folder present in the pendrive onto the Desktop of your system.
+
+**Step5**
+
+Open the command prompt and execute `ami-pdf`. Your screen should look as below:
+
+![output_ami-pdf.png](output_ami-pdf.png)

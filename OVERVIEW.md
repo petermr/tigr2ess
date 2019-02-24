@@ -17,11 +17,11 @@ The morning will have formal presentations with delegates "click-along" ("karaok
 
 ### Support staff
 Team:
-* Ambarish
-* Amit
-* Gitanjali
-* Peter
-* Vinita
+* Ambarish Kumar (NIPGR)
+* Amit Yadav (NIPGR)
+* Gitanjali Yadav (NIPGR-Cambridge)
+* Peter Murray-Rust (Cambridge-ContentMine)
+* Vinita Lamba (NIPGR)
 
 Ambarish, Amit and Vinita have all worked very hard to make this workshop work.
 
@@ -41,8 +41,7 @@ Using the model of *Ocimum* choose your own plant (e.g. Millet, Rice, Wheat) to 
 
 
 ## directories 
-List of directories in `tigr2ess` distribution and at http://github.com/petermr/tigr2ess. We shall refer to these throught the day. The definitive
-version will always be Github. Read the following to find where the resources are.
+[List of directories/resources](resources.md) in `tigr2ess` distribution and at http://github.com/petermr/tigr2ess. We shall refer to these throught the day. The definitive version will always be Github. Read the following to find where the resources are.
 
 [ContentMine Directories in tigr2ess](DIRECTORIES.md)
 
