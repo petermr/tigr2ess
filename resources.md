@@ -6,6 +6,8 @@ may change as we add resources.*
 ## overview
 *Start here*
 
+
+
 * [PROGRAM](PROGRAM.md) details of the workshop program.
 * [README.md](README.md) initial information.
 * [OVERVIEW.md](OVERVIEW.md) more information.
@@ -13,14 +15,15 @@ may change as we add resources.*
 ### resources
 * Most directories will have an [OVERVIEW](OVERVIEW_TEMPLATE.md) file
 * [resources.md](resources.md)
+* [utils/](Unix scripts for maintenance)
 
 
-### pre-workshop
+### pre-workshop (Pre)
 *Installation*
 
 * [installation](installation/INSTALLATION.md) Installation (Pre or M)
 
-### morning
+### morning (M)
 
 * [dictionaries](dictionaries/OVERVIEW.md) Creating dictionaries from Wikipedia (M)
 * [epmcSearches](epmcSearches/OVERVIEW.md) Searching EuropePMC (M)
@@ -32,7 +35,7 @@ may change as we add resources.*
 *
 * [*O. sanctum* corpus](CORPUS.md)
 
-### afternoon
+### afternoon (A)
 * [crops](crops/OVERVIEW.md) Millet, Rice, Wheat (A)
 
 ### resources
