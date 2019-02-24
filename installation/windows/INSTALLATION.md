@@ -49,8 +49,16 @@ Also, please follow the following instruction for installing latest JDK
 - Make sure you have the latest version (At the time of writing: We have 1.8_201)
 
 #### Step2: Set path
-
+For Windows10, click here https://github.com/petermr/tigr2ess/blob/master/installation/windows/set_path/set_path.md
 Please follow this step after you have got the `ami` software in the pendrive. This step will be updated
+
+#### Step3:
+Copy the ContentMine folder present in the pendrive onto the Desktop of your step. 
+
+#### Step4:
+Open the command prompt and execute `ami-pdf`. Your screen should look as below:
+
+![ami-pdf](ami-pdf.png)
 
 ## Issues
 
