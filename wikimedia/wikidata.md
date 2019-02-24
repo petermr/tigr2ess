@@ -58,7 +58,7 @@ Properties are generally of two types:
  
 ## alternate wikidata pages and synonyms
 Synonyms are inescapable in plant science! Wikipedia collects synonyms and provides a single page. Thus searching Wikipedia for "Ocimum sanctum" redirects to https://en.wikipedia.org/wiki/Ocimum_tenuiflorum. However Wikidata has a separate page for many synonyms, so "Ocimum sanctum" https://www.wikidata.org/wiki/Q24852786 has:
-![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/Assest/wd_osanctum.png)
+![](https://github.com/petermr/tigr2ess/blob/master/wikimedia/assets/wd_osanctum.png)
 Now! Shouldn't this page say it is a synonym of *O. tenuiflorum*? Yes! and that highlights an important part od Wikidata - it relies on US to keep it up to date. Note that many of its IDs point to *O. tenuiflorum* pages.
 
 ## Identifiers
