@@ -25,6 +25,8 @@ Team:
 
 Ambarish, Amit and Vinita have all worked very hard to make this workshop work.
 
+## [Program](PROGRAM.md)
+
 ### morning
 These are the modules with owners 
 * **installation and housekeeping**. A brief review of any technical issues and re-programming. (Peter, Amit, Ambarish)
@@ -43,6 +45,6 @@ Using the model of *Ocimum* choose your own plant (e.g. Millet, Rice, Wheat) to 
 ## directories 
 [List of directories/resources](resources.md) in `tigr2ess` distribution and at http://github.com/petermr/tigr2ess. We shall refer to these throught the day. The definitive version will always be Github. Read the following to find where the resources are.
 
-[ContentMine Directories in tigr2ess](DIRECTORIES.md)
+[ContentMine Directories in tigr2ess](DIRECTORIES.md).
 
 
