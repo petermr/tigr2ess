@@ -7,6 +7,6 @@ Please follow the below steps for setting path
 
 `export PATH="$PATH:$HOME/Desktop/ContentMine/software/ami20190224/bin"`
 
-**Step3**: Open terminal. And run the command `echo $PATH`. It should look as following - having string `/Desktop/ContentMine/software/ami20190224/bin` at the end.
+**Step3**: Open a new terminal. And run the command `echo $PATH`. It should look as following - having string `/Desktop/ContentMine/software/ami20190224/bin` at the end.
 
 ![set_path_screenshoot](set_path_screenshoot.png)
