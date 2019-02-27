@@ -14,10 +14,11 @@ Location: https://github.com/petermr/cephis
 
 * git Clone this repo
 * compile with Maven. Suggest omitting the tests:
-  ```
+```
   mvn install -Dmaven.test.skip=true
 
 ```
+
 ## normami
 
 Location: https://github.com/petermr/normami
@@ -31,4 +32,12 @@ Location: https://github.com/petermr/normami
 ## products
 Various executables (`jar`, `deb`, etc.) are in `target` and scripts in `target/appassembler/bin` and repos in 
 `target/appassembler/repo.
+
+## committing jars for workshop
+
+The jar files are managed by `normami/ami-jars.sh` . This should be edietd to reflec the (new) version number. To upload:
+```
+cd normami
+source ami-jars.sh
+
 
