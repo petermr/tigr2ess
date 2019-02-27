@@ -20,11 +20,20 @@ including your command
 there's a bug or your expectations aren't met. Typical problems are mistyping queries, data not present in EPMC, etc.
 
 ## I get 2198564 hits on EPMC
-Sometimes incorrect query syntax seems to dump the whole database. Save the query and post it to EPMC as a bug.
+Incorrect syntax can sometimes cause this; so can zero hits.
+
+Try to replicate the error on EuropePMC.org search. If it persists save the query and post it to EPMC as a bug. If it works on EPMC but not `getpapers` it may be due to incorrect brackets. The safe format has brackets round the whole query and each Booelan component:
+```
+-q "((holy basil) OR (tulsi) OR (Ocimum sanctum))"
+```
+
 
 ## `ami-search` takes **ages**
 Some papers are very large (500 + pp.). Many of these are filled with thousands or even more species. This can take 100 times  a normal 
 search. We've put in a limit to truncate at 500 paragraphs (not yet settable, sorry). Some actions (e.g. Wikidata lookups) use the web and 
 take connection time.
+
+## Article with pmcid "PMC5125159" was not Open Access (therefore no XML)
+When searching for Open access the EPMC system seems to slecet a few articles which are not actually OA. We should collect a clear susbet and report this to EPMC.
 
 
