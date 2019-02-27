@@ -13,7 +13,7 @@ There are many reasons for this, so please try to debug/diagnose for us:
 * ***I can't install the software on my machine***. We have supported MAC-OSX 10, Unix/Debian /Ubuntu and 
 Windows 8 or 10 running (a) Node (b) Java 8. If you can't install these we can't generally help - there is lots online 
 (Node versions matter).
-* ***It doesn't run properly/ crashes my machine / hang indefinitely/ etc ***. Please run the tests supplied in the `tigr2ess/` directory.
+* ***It doesn't run properly/ crashes my machine / hang indefinitely/ etc.***. Please run the tests supplied in the `tigr2ess/` directory.
 If they fail, we'd like to know. If they pass, then the problem may be in your data or our input. Always report the machine output
 including your command
 * ***I don't get the answers I expected***. Again, check you can run the tests OK. If so then either your input causes a problem or 
@@ -34,6 +34,6 @@ search. We've put in a limit to truncate at 500 paragraphs (not yet settable, so
 take connection time.
 
 ## Article with pmcid "PMC5125159" was not Open Access (therefore no XML)
-When searching for Open access the EPMC system seems to slecet a few articles which are not actually OA. We should collect a clear susbet and report this to EPMC.
+When searching for Open access the EPMC system seems to select a few articles which are not actually OA. We should collect a clear susbet and report this to EPMC.
 
 
