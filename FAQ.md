@@ -52,5 +52,7 @@ java.lang.OutOfMemoryError: GC overhead limit exceeded
 ```
 This is unlikely to occur in the same place each time so stack traces are of marginal value.
 
+## how can I build the AMI system?
+We are not going to cover this in the workshop - please use the precompiled jar. However the [building instructions are here](BUILDING_AMI.md).
 
 
