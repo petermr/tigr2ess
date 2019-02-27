@@ -36,4 +36,21 @@ take connection time.
 ## Article with pmcid "PMC5125159" was not Open Access (therefore no XML)
 When searching for Open access the EPMC system seems to select a few articles which are not actually OA. We should collect a clear susbet and report this to EPMC.
 
+## java.lang.OutOfMemoryErrorOutOfMemoryError: GC overhead limit exceeded
+An `OutOfMemoryError` relates to working memory, not disk space.
+is sometimes due to not having set the lmits large enough on the commandline, but also due to programming style
+where many objects are held in memory.
+
+If it happens on small problems, try setting the VM limits higher. If it occurs on large data sets or files, capture as much info as possible and post as an issue.
+
+Typical output:
+```
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+... 30 lines snipped ...
+  ... useful to give the routines which are calling the failing modules ...
+	at org.contentmine.ami.plugins.word.WordPluginOption.run(WordPluginOption.java:39)
+```
+This is unlikely to occur in the same place each time so stack traces are of marginal value.
+
+
 
