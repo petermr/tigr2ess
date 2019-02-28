@@ -25,6 +25,11 @@ Team:
 
 Ambarish, Amit and Vinita have all worked very hard to make this workshop work.
 
+### Thanks
+![](assets/rsu.jpg)
+
+Rik Smith-Unna  (ex Plant Sciences Cambridge) wrote `getpapers`.
+
 ## [Program](PROGRAM.md)
 
 ### morning
