@@ -2,7 +2,7 @@
 
 A 1-day hands-on workshop to explore how new knowledge in Plant Sciences can be rapidly extracted from the scientific literature.
 
-![](assets/otenuiflorum.png)
+![](assets/otenuiflorum.jpg)
 
 ## Overview
 The literature contains millions of articles and reports with detailed knowledge about plants. You will 
