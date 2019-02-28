@@ -13,17 +13,22 @@ The literature contains millions of articles and reports with detailed knowledge
 ## Style
 All activities are hands-on. Some is online, but the much of the work is on your own machine. We have created a copy (memory stick) of the software, documentation, dictionaries and corpora so you can do most of the tasks offline. Everything is also is on http://github.com/petermr/tigr2ess.
 
-The morning will have formal presentations with delegates "click-along" ("karaoke-style"), with pauses for questions and feedback. We'll  use the example of "Holy Basil" (*Ocimum tenuiflorum*) as it links to many fields (cooking, medicine, religion, and plant science). In the afternoon most delegates will form small free-form groups 
+The morning will have formal presentations with delegates "click-along" ("karaoke-style"), with pauses for questions and feedback. We'll  use the example of "Holy Basil" (*Ocimum tenuiflorum*) as it links to many fields (cooking, medicine, religion, and plant science). 
+
+In the afternoon most delegates will form small free-form groups:
+* multidisciplinary ("what can I learn about my plant?" - pests, climate, stress, invasive)
+* hackathon style - small groups collaborating to create knowledge
+* informal communication (Etherpad);
+* dictionary-based
 
 ### Support staff
 Team:
 * Ambarish Kumar (NIPGR)
-* Amit Yadav (NIPGR)
 * Gitanjali Yadav (NIPGR-Cambridge)
 * Peter Murray-Rust (Cambridge-ContentMine)
 * Vinita Lamba (NIPGR)
 
-Ambarish, Amit and Vinita have all worked very hard to make this workshop work.
+Ambarish, Amit Yadav and Vinita have all worked very hard to make this workshop work.
 
 ## [Program](PROGRAM.md)
 
