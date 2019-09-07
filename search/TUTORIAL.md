@@ -7,7 +7,7 @@ To search and analyse a local corpus of scientific publications using `AMISearch
 ## Resources and software required
 
 * `osanctum200` directory (200 papers related to *Ocimum sanctum* ).
-* `ami-search-new` software including builtin dictionaries.
+* `ami-search` software including builtin dictionaries.
 *NOTE current command is `ami-search`*
 * local ContentMine format dictionaries created by previous `ami-dictionary` or pre-loaded.
 
@@ -43,7 +43,7 @@ cp -R ocimum/ ocimum200/
 - Issue the following command:
 ---
 ```
-ami-search-new -p osanctum200/ --dictionary country
+ami-search -p osanctum200/ --dictionary country
 ```
 ---
 ---
