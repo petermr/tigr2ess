@@ -31,7 +31,7 @@ for example:
 ### PATH for AMI
 You will need to set your PATH variable to point to this folder. A typical MacOSX path will be:
 ```
-$HOOME/Desktop/ContentMine/software/appassembler/bin
+$HOME/Desktop/ContentMine/software/appassembler/bin
 ```
 You may wish to set this in a startup file such as `.bashrc` or `bash_profile` depending on your system. Se precise instructions below.
 
